@@ -1,0 +1,495 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 121, January 2010.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at
+the end).
+
+
+++Issue 121 Contents.
+
+01: Severely Disabled Pupils Face Wait For Home Access
+- Delays in roll-out of some assistive technology.
+
+02: Global Copyright Treaty On Access Formats Edges Closer
+- World Intellectual Property Organisation begins consultation.
+
+03: Amazon Bows To Pressure On Kindle Accessibility
+- Legal settlement follows adding of extra features.
+
+News in Brief: 04: Mainstream Issue - Disability and
+employment study; 05: Mixed Results - Web accessibility in
+Europe; 06: Shared Editorial -new RNIB web features.
+
+Section Two: Focus - Home Access.
+07: The Biggest IT Help Scheme In The World: The
+government's Home Access scheme will provide an estimated
+270,000 school pupils in England with free computers and
+internet access. The scheme also features a huge provision of
+assistive technology, but pupils with severe disabilities will have
+to wait months to receive specialist equipment following
+unforeseen supplier glitches. Tristan Parker investigates.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Severely Disabled Pupils Face Wait For Home Access.
+
+School pupils with serious disabilities are facing an indefinite
+delay, likely to last six months or more, to receive the assistive
+technology they need to benefit from the government's new
+'Home Access' computer scheme, E-Access Bulletin has
+learned.
+
+The £300 million scheme ( http://www.homeaccess.org.uk/ ),
+managed by education ICT agency Becta (
+http://www.becta.org.uk/ ), is providing computers to children
+aged 7-14 from low-income families. Launched this month, it
+aims to help around 270,000 families by March 2011.
+
+The project does take extensive account of pupils with special
+access needs, with its basic package - computers, software,
+internet access and support - coming pre-loaded with a suite of
+assistive technology software, which includes literacy support
+tool Read and Write ; 'concept mapping' tool MindView 3; and
+magnification and speech tool iZoom.
+
+To meet the assistive needs at home of pupils who have more
+severe visual impairments or other complex disabilities such as
+mobility issues or deafness, two further, more specialised
+packages are available. Package one - which includes a
+keyboard with larger keys and a large trackball mouse for those
+with limited motor skills - is also available from the outset.
+
+However package two, a bespoke package to provide equipment
+for pupils who are blind, have cerebral palsy or severe mobility
+problems such as a touch-screen, a Braille keyboard or screen-
+reader software, is not yet available, and may not be for six
+months or more, E-Access Bulletin has learned.
+
+The delay is due to the original supplier tender being pulled
+following non-compliance with some of its terms, according to
+Mick Thomas, universal access manager at Becta. Thomas
+declined to supply details of the non-compliance, but said:
+"We've discussed it with other suppliers and are looking to
+provide a service that's up and running before the end of the
+summer holiday."
+
+Thomas says that as well as the obvious benefits to pupils of the
+assistive elements of Home Access, the programme's scale -
+thought to be the largest ever provision of assistive technology in
+the world - will help bring assistive technology further into the
+public eye. "We've got a package that will overcome physical
+access issues for a whole bunch of people, and once we get the
+final piece of the jigsaw in place, it will be an amazing
+opportunity. A lot of the software and hardware traditionally
+thought of as being very niche is going to become more
+mainstream. I've worked in the assistive field for many years,
+and this is the opportunity we've been waiting for," he said.
+
+NOTE: For the full story see Section Two, this issue.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=379
+
+
++02: Global Copyright Treaty On Access Formats Edges Closer.
+
+An international treaty allowing people to share accessible
+versions of copyright works across national borders moved a
+step closer last month, with an agreement by the World
+Intellectual Property Organisation (WIPO) to consult on the
+issue.
+
+The 19th session of the WIPO Standing Committee on Copyright
+and Related Rights (SCCR), held in Geneva in December (
+http://bit.ly/cHnS2R ), agreed to host a series of consultation
+meetings aimed at producing an international consensus.
+
+The move builds on a formal proposal for a treaty on copyright
+exceptions and limitations from the World Blind Union, backed
+by WIPO member states Brazil, Ecuador and Paraguay earlier in
+2009 and endorsed in December by others including the US.
+
+For many years, disability organisations have protested against a
+frequent inability to produce accessible versions of copyright
+works, since this is viewed by many legal systems as the
+production of an illegal copy. Last year Amazon, the maker of
+the Kindle electronic book reader, disabled the reader's text-to-
+speech function after publishers protested that accessible speech
+amounted to the creation of a new and unlawful audio copy (see
+E-Access Bulletin, March 2009:
+http://www.headstar.com/eablive/?p=244 ). Exchange of
+accessible works across borders is doubly hard, as the law varies
+between countries and where there is a grey area, few are willing
+to risk taking any action.
+
+Cynthia Waddell, Executive Director of The International Center
+for Disability Resources on the Internet ( http://www.icdri.org ),
+told E-Access Bulletin this month: "One of the main issues for
+the proposed treaty is to address the book famine of accessible
+works.
+
+"At this time, it is estimated that 95% of printed works are not
+available in accessible formats. One goal of the proposed treaty
+is to reduce the cost redundancies for the creation of accessible
+works and to remove the barriers to exporting and importing
+accessible works. For example, copyright restrictions on the
+internationally-bestselling Harry Potter novels mean copies
+translated into accessible formats cannot be shared across
+national lines, but must be retranslated in every country."
+
+The WIPO committee undertook to circulate a questionnaire on
+national views and laws on copyright exceptions to member
+states, for replies by May 10, 2010. The committee will also
+gather examples of accessibility practices and solutions across
+member states. Results will be presented to the 20th session of
+the SCCR, set for June 2010.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=381
+
+
++03: Amazon Bows To Pressure On Kindle Accessibility.
+
+The online retailer Amazon.com is to incorporate extra
+accessibility features into its Kindle DX electronic book reader
+or 'e-reader', after several American universities rejected the
+device as a potential teaching-aid, citing inaccessibility to blind
+students (see E-Access Bulletin, issue 119:
+http://www.headstar.com/eablive/?p=357 ).
+
+Audible menus and an extra-large font size will be added to the
+new version of the Kindle DX on its release this summer. The
+menu feature addresses claims by Syracuse and Wisconsin-
+Madison universities that although the Kindle features a text-to-
+speech function valuable for blind users, inaccessible menus
+meant that such users would not be able to activate the function.
+
+
+In a related development, one US university that did use the
+Kindle in a pilot programme reached a settlement earlier this
+month in a lawsuit filed by the US National Federation of the
+Blind (NFB) and the American Council of the Blind (ACB).
+
+Arizona State University was one of several universities to pilot
+the Kindle, all of which were due to give feedback to
+Amazon.com to assist with the device's development. However
+the NFB and ACB alleged that as the Kindle was not fully
+accessible to blind students, its use in the university, even in a
+pilot, violated federal law.
+
+Amazon's new plans to make the Kindle more accessible have
+emerged as a factor in the Arizona settlement, as was a
+commitment by the university to provide students with
+accessible e-book readers over the coming years.
+
+In a statement, NFB President Marc Maurer said his organisation
+was "pleased with this settlement, which we believe will help to
+ensure that new technologies create new opportunities for blind
+students rather than new barriers."
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=383
+
+
+++News in Brief:
+
++04: Mainstream Issue: Almost eight million UK adults have
+sensory impairments or other health problems which could make
+it difficult for them to access websites, according to a study by
+YouGov on behalf of disability employment charity Shaw Trust.
+The charity urged public sector bodies in particular to review
+their website accessibility in light of the Central Office of
+Information's 'Delivering inclusive websites' report, which set
+out minimum accessibility requirements for all public sector
+websites from December 2009:
+http://bit.ly/8V04Sq
+
++05: Mixed Results: Levels of compliance with web accessibility
+guidelines "remain very low" in EU member states, a new study
+published by the European Commission has found. However it
+is hard to accurately track what progress is being made, the
+report found, since assessment against international Web Content
+Accessibility Guidelines (WCAG) often employs a basic
+'pass/fail' system based on full compliance:
+http://bit.ly/4U4kve
+
++06: Shared Editorial: Customised content management software
+and a specially developed text editor will make the new website
+of the Royal National Institute of Blind People (RNIB) more
+accessible for both users and the blind and partially-sighted staff
+who edit the site. The website uses the 'SharePoint Accessibility
+Solution' (SAS) - a customised addition to Microsoft SharePoint
+2007 which interacts with screen-readers - and an enhanced
+version of software company Telerik's 'RadEditor' developed to
+work with screen-reading technology. Both the public-facing and
+internal areas of the new website conform to the RNIB's 'Surf
+Right' accessible web standard:
+http://bit.ly/58sDhz
+
+
+[Section One ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: Focus - Home Access.
+
++07: The Biggest IT Help Scheme In The World.
+by Tristan Parker.
+
+A government scheme to ensure all school pupils in England
+have access to computers and the internet at home could have a
+huge impact on the assistive technology sector.
+
+Earlier this month, the government announced the launch of its
+'Home Access' scheme to improve technology access for school
+pupils from lower-income families. Backed by some £300
+million, the scheme is expected to provide computers and
+internet access for home use to around 270,000 families by
+March 2011.
+
+Aimed at children in years 3-9 (ages 7-14) of state education in
+England, the scheme offers grants to low-income families,
+means-tested to establish eligibility, allowing them to purchase
+Home Access packages from selected suppliers. The packages
+consist of a computer, a year's internet access, installed 'office
+productivity suite' software, and service and support for a year.
+
+A pilot scheme run in Oldham and Suffolk during December last
+year proved successful, and roll-out across England is now
+taking place. The project is being managed by Becta (
+http://www.becta.org.uk/ ), the government's agency for
+information and communications technology in education.
+
+So far, so good. But what provisions are made for pupils with
+disabilities?
+
+According to the programme's website (
+http://www.homeaccess.org.uk/ ), all packages come pre-loaded
+with a suite of assistive technology software, which includes
+Read and Write Home Access Edition (a literacy support
+package); MindView 3 (a 'concept mapping' programme to help
+pupils visualise and solve problems); and iZoom (a
+magnification and speech tool). The inclusion of these features
+within the basic package - expected to reach 270,000 families -
+makes the project what is thought to be the largest ever provision
+of assistive technology in the world.
+
+The 'Read and Write' and 'MindView' tools are aimed primarily
+at children with a range of learning difficulties such as dyslexia,
+while the 'iZoom' magnifier assists pupils with visual
+impairments. However, iZoom is only adequate to cope with the
+milder end of visual impairment. To meet the assistive needs at
+home of pupils who are blind, have severe visual impairment or
+other complex disabilities such as mobility issues or deafness,
+two further, more specialised packages are available.
+
+Package one, supplied by assistive technology company
+Keytools, will be given out when requested by either the child or
+their parents. It contains a 'BigKeys' keyboard with larger keys
+and lettering, for mild visual impairments; a lightweight mini
+keyboard, allowing easier use by those in wheelchairs, for
+example; a large trackball mouse for those with limited motor
+skills; and high visibility stickers, again designed for visual
+impairments.
+
+Package two is a bespoke package to provide equipment
+enabling internet access for pupils with specialist needs not
+covered by the basic package or package one. This may include,
+for example, pupils who are blind, have cerebral palsy or severe
+mobility problems.
+
+It is the distribution of this second package which is likely to
+present the biggest accessibility challenges for the Home Access
+programme. Provision of equipment will be based on an
+individual assessment of the pupil's needs, which are to be
+gauged by talking to the pupil, his or her parents and the school.
+
+Mick Thomas, universal access manager at Becta, told E-Access
+Bulletin that this process is likely to take place remotely. "It
+doesn't preclude a face-to-face assessment, but my guess is that
+in 90% of the cases it will be remote."
+
+As for the equipment provided after needs are assessed, Thomas
+said: "in theory it won't exclude anything but in reality - and this
+was born out from the pilot scheme - the package is likely to be
+accessed more by people who have severe visual problems and
+people who are blind." People with these visual impairments
+might receive, for example, a larger screen, a touch-screen, a
+Braille keyboard or screen-reader software, he said.
+
+However, though the national rollout of funding and provision
+of the basic Home Access package and package one began
+earlier this month, package two - catering for more complex
+needs - is not yet available, and may not be for six months or
+more. "Our original objective was to get it running in late April
+or early May," says Thomas. However, this date has now been
+moved back, due to the original supplier tender being pulled.
+
+Despite this setback, the process is continuing, albeit at a slower
+rate than planned, Thomas said. "The procurement is going
+ahead, but we're looking at doing it in a different way. In the
+original procurement there was non-compliance from a couple
+of the suppliers. We've discussed it with other suppliers and are
+looking to provide a service that's up and running before the end
+of the summer holiday."
+
+The task is a considerable one for a sector that is still emerging
+into the mainstream, according to Ian Litterick, founder of
+educational assistive technology specialists iansyst (
+http://www.iansyst.co.uk/ ).
+
+ "For the assistive technology industry, it's quite a challenge to
+produce what is thought to be around 11,000 systems on a very
+short timescale," Litterick told E-Access Bulletin.
+
+Litterick was generally positive about the Home Access scheme.
+He said it should cater adequately for pupils with a range of
+learning difficulties, including blind and visually impaired
+students, through provision of screen-reader software and other
+tools. However, he raised concerns over the level support
+offered: "There's still a training need which at the moment isn't
+met under the Home Access funding, but my guess is that, in
+many cases, if you were a blind student you'll be prescribed
+what you've already been using in school. But there is still
+potentially a big need for training there."
+
+Another potential concern is a lack of information about
+package two or any fixed date for its roll-out, with the result that
+pupils with more complex needs must wait at least four months
+for their assessments, Litterick said.
+
+"It's been done in a huge hurry, to extremely tight deadlines, and
+not every decision along the way has been optimal, but broadly
+speaking I think it is a very exciting project" he said. "They've
+addressed the inclusion issue, as far as technology is concerned,
+in a pretty comprehensive and broadly admirable way."
+
+Mick Thomas of Becta says that as well as the obvious benefits
+to pupils of the assistive elements of Home Access, the scale of
+provision will help bring assistive technology further into the
+public eye. "We've got a package that will overcome physical
+access issues for a whole bunch of people, and once we get the
+final piece of the jigsaw in place, it will be an amazing
+opportunity. A lot of the software and hardware traditionally
+thought of as being very niche is going to become more
+mainstream. I've worked in the assistive field for many years,
+and this is the opportunity we've been waiting for," he said.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=385
+
+[Section Two ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure
+that everyone finds the web sites we design easy to use. As well
+as being accessible, Fortune Cookie sites are beautiful and
+deliver stunning return-on-investment. They're award-winning
+too. In 2007, our work was nominated for major web design
+awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some
+of the big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more
+accessible. If you'd like to know what accessibility can do for
+your business, talk to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our sixth
+birthday next month, you'll find discussion of accessibility at all
+levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you're looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or just
+to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2010 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 121 ends.]

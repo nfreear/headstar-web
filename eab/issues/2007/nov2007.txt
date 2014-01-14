@@ -1,0 +1,725 @@
++++E-ACCESS BULLETIN
+- ISSUE 95, NOVEMBER 2007.
+
+A Headstar publication.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 95 Contents.
+
+01: Concerns Over Government Web Accessibility Plan
+- Threat to withdraw '.gov.uk' domain from uncompliant sites.
+
+02: Exclusion Fears Over Digital TV Pilot Technology
+- RNIB warnings centre on lack of 'talking' programme guide.
+
+03: NZ Student Exposes Inaccessibility of Government Sites
+- Prize for showing file formats are switched without warning.
+
+News in Brief: 04: SharePoint Kit - Microsoft access package; 05:
+Easy Mobile - new phone handset; 06: Bookshare Correction -
+international service.
+
+Section Two: 'The Inbox' - Readers' Forum. 07: Ubuntu Praise - Linux
+tips; 08: Government Vapourware - UN policy scepticism; 09: Tricky
+Job - council complaint; 10: Thunder Offer - Chinese screenreader
+idea.
+
+Section Three: Interview - T.V. Raman, Research Scientist, Google.
+11: Cracking the Code of Accessible Search: Searching the internet is
+now among the most important activities in most people's work and
+social lives. Dan Jellinek talks to the man whose job is to make the
+world's best-known search engine easier to use for all.
+
+Section Four: Technology - Access to 'Web 2.0'.
+12: Frustration 2.0? At the recent Techshare conference, Kath Moonan
+of AbilityNet unveiled the results of her research into the new wave of
+social networking sites, and asked if they were in danger of creating a
+new world of exclusion.
+
+[Contents ends].
+
+
+++Special Notice: Techno-Footprint, 29 November 2007
+- ICT and Sustainability in the Public Sector
+- Stay Ahead of the Vital Green Agenda
+http://www.headstar-events.com/technofootprint/ .
+
+Large ICT systems form a significant part of a modern public sector
+body's carbon footprint.
+
+Strategies must be drawn up to reduce ICT energy use and heat
+emissions; reduce and manage ICT waste; embrace flexible and mobile
+working to cut transport requirements; and use technology systems to
+reduce other emissions and waste. Headstar's major new annual
+conference - supported by Socitm and UK CEED, the charity hosting
+the UK eWell-Being awards - will offer advice and guidance to all
+public sector bodies in this vital field.
+
+Attendance costs 295 pounds plus VAT for public, voluntary and
+charitable sector and 395 plus VAT for private sector delegates. For
+full details and to register see:
+http://www.headstar-events.com/technofootprint .
+
+And for information about sponsoring or exhibiting at the event please
+email Claire Clinton on:
+claire@headstar.com
+or call her on 01273 231291.
+
+[Special notice ends.]
+
+
+++Section One: News.
+
++01: Concerns Over Government Web Accessibility Plan.
+
+Technology analysts have cast doubt on the viability of draft guidelines
+for government websites that threaten to switch off '.gov.uk' web
+addresses if they failed to reach high, 'AA' levels of accessibility.
+
+The proposals, entitled 'Delivering inclusive websites: user-centred
+accessibility', have been circulated for limited consultation by the
+Central Office of Information, the Whitehall agency which assists
+public bodies with communications campaigns.
+
+If approved, they would mean that existing government sites would
+have until December 2008 to meet the 'AA' standard set out in the Web
+Content Accessibility Guidelines (WCAG) developed by the World
+Wide Web Consortium. All new sites would have to confirm
+immediately.
+
+"Websites which fail to meet the mandated level of conformance shall
+be subject to the withdrawal process for .gov.uk domain names," the
+draft guidelines state.
+
+The blindness charity RNIB this week broadly welcome the document,
+but said it had concerns about specific areas. Henny Swan, senior web
+accessibility consultant at RNIB, told E-Government Bulletin: "These
+concerns are around the lack of clarity when referencing versions of
+WCAG; the viability of domain removal; and the absence of detail on
+the process used to assess whether sites have met that standard. How
+will third party content such as payment systems be assessed for
+example?
+
+"We would rather see further resources put in place to support web
+managers and their teams in creating and maintaining user-focused
+accessible websites, than to penalise them."
+
+And Martin Greenwood, of the local government Society of IT
+Management (Socitm), said only three or four councils currently meet
+'AA' accessibility. If the COI are really serious about this it's going to
+be a tough call for many organisations."
+
+Previous attempt at setting accessibility targets for public sector web
+managers have had no impact, Greenwood said. A lower, level 'A'
+target set for English council websites in 2005 as part of a set of
+'priority service outcomes' failed to achieve any greater accessibility
+levels than had been achieved in other parts of the UK, he said.
+
+Asked if it would be fair to remove the .gov.uk domain from public
+sector websites that failed to comply with 'AA' accessibility,
+Greenwood said: "It would be fair if they were an isolated case of non-
+compliance, and everybody else was complying, but it won't be an
+isolated case."
+
+
++02: Exclusion Fears Over Digital TV Pilot Technology.
+
+The RNIB has warned that blind people could be excluded from the
+digital TV revolution by the lack of a 'talking menu' option on the
+subsidised set-top boxes provided to older people and people with
+disabilities, as part of this month's digital TV switchover pilot scheme
+in Whitehaven, Cumbria.
+
+Whitehaven residents can already only receive BBC2 with a digital
+signal, and next week all their channels will switch over. After
+assessment of the pilot, the next area to roll out will be the Borders
+region of Scotland, in late 2008, followed by the rest of the UK in
+phases.
+
+Under a 'help scheme' funded by the Department for Culture Media
+and Sport with the BBC, eligible households can receive a Freeview
+set-top box with audio-description and other special access features for
+just £40, including installation and some training (see
+http://www.digitaluk.co.uk/helpscheme ).
+For an extra charge households can receive further subsidised systems
+such as a satellite TV service.
+
+Ultimately around 7 million UK households would qualify for support
+under the help scheme, including people aged 75 and over; people
+claiming disability living allowance; and people registered as blind or
+partially sighted. However, despite the scheme's equipment including
+features such as a user-friendly remote control and compatibility with
+audio description of programmes, the electronic programme guides do
+not 'speak'.
+
+"This is our main concern," RNIB Media and Culture Department
+Manager Leen Petré told E-Access Bulletin this week. "Once that help
+scheme person is out of the door, how will blind people know what
+channel they are on?"
+
+A joint government and BBC emerging technologies committee will
+review the findings of the pilot in February and make a
+recommendation about changes to the set-top boxes, including
+speaking menu options, Petré said. A decision would then have to be
+taken on inclusion of any new features; and also on how these would
+be funded, whether by the help scheme partners or by TV users. "We
+would hope it doesn't affect the price which users have to pay," Petré
+said.
+
+Last month the charity Age Concern welcomed the help scheme, but
+said their own research had shown that many older people in
+Whitehaven had not been ready for the change. "The experience of
+Whitehaven residents signals that such support needs to be given
+earlier," the charity said.
+
+
++03: NZ Student Exposes Inaccessibility of Government Sites.
+
+A New Zealand university student has won a research award for
+exposing the accessibility shortcomings of government websites, in
+work that could have widespread application elsewhere in the world.
+
+Ben Bradshaw, a fourth-year IT student at Victoria University of
+Wellington, won the 1,000 NZ Dollars first prize in the NZ Computer
+Society's annual student research contest. Bradshaw used a panel of
+testers with impaired vision alongside the open source automated
+testing program 'OpenWolf' (
+http://openwolf.sf.net/ ).
+
+According to a report on the website Computerworld, Bradshaw found
+a failure of sites to indicate in advance what type of document the user
+is accessing through a link, causing potential confusion for blind
+readers using assistive technology (
+http://fastlink.headstar.com/nz2 ).
+
+To read more about Bradshaw's achievements in his own words, see
+his personal blog, or 'blag':
+http://fastlink.headstar.com/nz3 .
+
+
+++News in Brief:
+
++04: SharePoint Kit: Microsoft has announced the launch of an
+accessibility kit for websites and applications based on its 'SharePoint'
+software package, designed to help organisations share, manage and
+work on documents and information through a central point. The kit,
+known as AKS, was developed with HiSoftware and will be provided
+released through the 'shared source' Microsoft Permissive License
+later this year:
+http://aks.hisoftware.com .
+
++05: Easy Mobile: A new handset in the 'Easy' range of accessible
+mobile phones has been launched in the UK by distributor
+Communic8. The EasyUse handset has an anti-glare screen, large
+characters, large number keypad and other accessibility features. It is
+available through the RNIB shop or from Communic8 Ltd on a
+Vodafone Pay as you Talk package at £139.99:
+http://www.silverphone.co.uk
+
++06: Bookshare Correction: We incorrectly stated last issue that the
+entire collection of the electronic book site 'Bookshare.org' had been
+made accessible to subscribers outside the US. In fact, only a
+proportion of these books - between 2,000 and 3,000 copyright books -
+have been made available globally. Permission is being sought from
+more publishers to allow a wider selection to be made available. We
+would like to apologise for this error. For more information see a
+report on the DAISY Consortium website:
+http://fastlink.headstar.com/daisy1 .
+
+[Section One ends].
+
+
+++Special notice:
+- Building Comfortable and Liveable Environments for All
+- Call for Papers.
+
+CIB, the international council for research and innovation in building
+and construction, is pleased to announce a call for papers for the US
+conference 'Building Comfortable and Liveable Environments for All',
+to be held May 15-16, 2008, Georgia Institute of Technology, Atlanta,
+US. The event's co-hosts are CNR (National Research Council, Italy)
+and The Georgia Institute of Technology.
+
+The aim of the conference is to explore and discuss challenges, issues
+and priorities that concern creating a built environment for all. Topic
+areas include costs of accessibility; harmonisation of legislation and
+standards; sports, recreation and accessible environments;
+technological tools supporting the accessible environment; and
+challenges in developing countries.
+
+The deadline for submission of abstracts is 15 December.
+
+For more information see the 'Conferences' section at:
+http://www.cibworld.nl
+or email:
+l.biocca@itc.cnr.it or
+jon.sanford@coa.gatech.edu .
+
+[Special notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: Ubuntu Praise: Jeff Seager, Communications Specialist at the
+West Virginia Division of Rehabilitation Services in the US and a
+long-time reader of our newsletter, writes in with a tip about the
+accessibility of one brand of Linux operating system.
+
+He says: "I do some web design and accessibility testing for our
+website and others. At home, I've installed Ubuntu Linux on a couple
+of computers. I've been happy with the results for several years, so on
+Thursday (Oct. 18) I opted to upgrade to the latest Ubuntu release 7.10.
+Yesterday I had a little time to examine some of the changes, and was
+pleased to see that the Orca screen reader was installed by default.
+
+"I tried it, and found it functions very well for me on a Dell Optiplex
+GX-150. This is by no means a high-end computer. I thought you
+might want to pass this along to your readers. It's nice to know that you
+can get good accessibility to many useful applications in a stable and
+free operating system. Until now, I don't think that's been true. Perhaps
+this will help to level the playing field for people with disabilities."
+
+[Please send responses to inbox@headstar.com] .
+
+
++08: Government Vapourware: Gustaw Kon, a reader living in
+Germany, writes to comment with some scepticism on last issue's
+report on the UN Convention on the rights of persons with disabilities,
+which focuses on access to technology and is due to be passed into law
+by more than 100 signatory governments.
+
+"Yet again government produces vapourware," he writes. "Standards
+are adopted to ensure accessibility of government sites. My guess is
+that these are probably imports from abroad. But as section three of the
+latest bulletin rather wordily pointed out, standards are useless if they
+are not implemented.
+
+"Smoke and mirrors, a nod to the variously impaired, a jewel in the
+crown of politicians headed to whatever future awaits them, are no
+substitute for producing the goods. I loathe the political window-
+dressing which masquerades as interest in or concern for various
+disabled groups."
+
+[Please send responses to inbox@headstar.com] .
+
+
++09: Tricky Job: Our reader Norman Waddington writes in to let us
+know about problems he has had in obtaining accessible formats for
+applying for a job online with a local authority.
+
+"I have just done battle with Leeds City Council. I have applied for a
+job with them but had great difficulty with regard to accessibility.
+
+"I asked them to send me the necessary documentation on Word format
+so I could access it. I was promptly sent two pdf files and a document
+supposedly in Word. This was not at all accessible. I informed them it
+was no good and asked them to try again. They sent three more
+attempts which were equally useless.
+
+"It is as if they have no idea of the basics of accessibility for the
+visually impaired. I did explain to the gentleman at Leeds in their
+Human Resources Department that pdf files are no good to people
+using speech software and he [had] no idea whatsoever.
+
+"The gentleman at the council at Leeds was extremely apologetic. He
+did speak to their Communications Department who informed him that
+they had created a Word document. I suspect they had just changed the
+file name to '.doc' and had not changed the text in the document. He
+had no knowledge that there are many ways to create pdf files.
+
+"In my experience I have only had problems with regard to web forms
+with councils. Any organisations particularly in the visually impaired
+sector are far more organised. I know nothing is perfect or ever will
+be."
+
+[Please send responses to inbox@headstar.com] .
+
+
++10: Thunder Offer: Further to our September feature and October
+'Inbox' contribution from Kevin Chow in Hong Kong on affordable
+screen-reader access in China, Roger Wilson-Hinds of
+Screenreader.net writes:
+
+"I read the 'Chinese Picture' piece in the October Inbox with great
+interest, and some admiration for what is going on in China for visually
+impaired people. I am glad they have got the low priced options right
+from the start.
+
+"Any blind person anywhere in the world is welcome to use our free
+Thunder screenreader talking software for their personal home use.
+Obviously this includes Chinese people.
+
+"We currently only offer English and some EU languages but would
+want to make a free screenreader available in China too with agreed
+language options. Even so, Thunder as it is might get users going,
+especially as English is so prominent amongst the PC fraternity and
+remembering that many might like to learn English as they learn to use
+their computers.
+
+"So we welcome an approach from across the world and will do our
+best to respond very positively. Thunder is there for the taking at:
+www.screenreader.net. "
+
+[Please send responses to inbox@headstar.com] .
+
+[Inbox ends].
+
+
+++Section Three: Interview
+- T.V. Raman, Research Scientist, Google.
+
++11: Cracking the Code of Accessible Search
+by Dan Jellinek.
+
+It was revealed this month that Google has become the fifth biggest
+company in the US, bigger even than McDonalds and Disney: a
+reflection of the fact that the way we search the internet has become
+one of the most important parts of our lives.
+
+As no-one with a disability or who works with or is close to someone
+with a disability needs reminding, the desires and needs of people with
+disabilities are precisely the same as those of everybody else, which
+means that searching the internet is high on their list, too.
+
+Google was always a highly usable site, one of the secrets of its
+success: simple and functional and text-based, which means it is fairly
+accessible already to people navigating the internet using text-to-
+speech converters or other special access technologies. But in recent
+years the company has realised that it is not just access to the search
+interface, but browsing the results; and even the accessibility of the
+sites returned as results that dictates how accessible the whole search
+experience has become.
+
+The man charged with looking at these issues for Google is research
+scientist T.V. Raman. Based at Google HQ in Mountain View,
+California, Raman is responsible for developing Google Accessible
+Search (
+http://labs.google.com/accessible/ ),
+a trial version of the Google search interface that is designed to be
+easier to use by people with impaired vision or other disabilities,
+including a system of ranking search results according to the
+accessibility of the site.
+
+"My job is to look at what Google technology can do for users with
+disabilities: to make sure it works with assistive technology, and also
+to look at what we can build to help in new ways," he told E-Access
+Bulletin in an exclusive interview recorded during a UK trip last
+month.
+
+"Search is very useful for people with impaired vision, but one of the
+things I had observed over the years is that websites returned on the
+third, fourth or fifth page of results were often the most easy to read.
+
+"I built accessible search last year to address this. It is not a different
+one: it is Google, the same index, the same magic. But it swaps the
+order of search results depending on whether they are easy to read."
+
+To make this assessment, the software looks at a group of 'design
+patterns' such as whether the HTML code is clearly structured;
+whether the page makes sense with images turned off; how the page
+uses colour; and whether the page can be used without a mouse.
+
+"It looks at a whole bunch of things, some positive, some negative.
+And it gets trained: using user feedback on the results, it is trained to
+learn over time about which sites are the most useful."
+
+The accessible search tool is still in development, though it is publicly
+available through the Google testbed area 'labs.google.com'. While
+still primarily marketed by word of mouth, the ultimate goal is to make
+it a choice on the main Google home page, T.V. said.
+
+As befits a multi-billion pound technology company, these days
+Google's activities extend far beyond its initial core offering of an
+internet search engine, and T.V.'s work also includes looking at the
+wider range of Google's work such as web-based software and desktop
+tools to try to ensure that these, too, are as accessible as possible.
+
+"I am looking at the whole range of Google products that have rich
+value to people with impaired vision. Blind users for example want
+simple ways to add events to a calendar." To help people gain access,
+Google has released the source code to its API (application
+programming interface)", he said, "and we are also looking for how we
+can make highly interactive web applications work better with assistive
+technologies."
+
+T.V.'s background is an unusual one for a Silicon Valley high flyer.
+His initials are a clue: they stand for Tiruvilwamalai Venkatraman,
+being respectively his ancestral village and his father's name, as is the
+tradition in Southern India, where he was born, in 1965. Blind since
+childhood, he had a tough fight on his hands in a society where the
+barriers to achievement for people with disabilities are far higher than
+in many more developed countries in the West - barriers of both cost
+and social attitude.
+
+Nevertheless he managed to shine as a student with particular gifts in
+maths, obtaining a place at the Indian Institute of Technology in
+Bombay. From there he successfully applied for a place at Cornell
+University, an Ivy League institution among the best colleges in
+America, travelling there in 1989 to take a PhD in mathematics.
+
+"Taking exams like the GRE [graduate record examination, a test
+required by many US educational institutions] in the 1980s with the
+help of a writer was 'interesting' in India - there was a communication
+gap between [the non-profit educational testing service] ETS in the US
+that administers the tests (and is well-set up for handling students with
+special needs) and their counterparts in India who run the tests on
+behalf of ETS," said T.V. "But things got sorted out eventually."
+
+He completed his thesis in 1994, gaining an Association of Computing
+Machinery Doctoral Dissertation Award in the process.
+
+But although his doctorate was in maths, by the time he had completed,
+an interesting metamorphosis had taken place. "I was a mathematician,
+but I built all the computer systems to access what I needed, and by the
+time I had finished I was a computer scientist, not a mathematician any
+more."
+
+Following his graduation, one of his best known projects has been the
+invention and continued development of Emacspeak, a speech interface
+to the complete PC desktop including web and email access (the name
+is derived from the term 'Emacs', a powerful type of text editor and
+interface often used by computer programmers).
+
+His subsequent path to Google was a highly successful career in
+programming and systems development followed at some of the
+world's biggest names in innovation including Xerox, Digital
+Equipment Corporation, Adobe Systems and IBM Research.
+
+At IBM he worked on developing a speech interface for mobile web
+applications such as online shopping. The solution was developed as a
+mainstream application, he says, though it would be useful for blind
+people.
+
+Despite his switch to IT, his heart has remained with maths: his
+favourite pastime is solving puzzles which require an intuitive feel for
+numbers and mathematical patterns. He can solve a Braille version of
+the Rubik's Cube, for example, in just 30 seconds (for a video of this
+remarkable feat, see:
+http://fastlink.headstar.com/rubik1 ).
+
+And so to Google in August 2005, where he has become one of the key
+modern players in access to information by people with impaired
+vision. If anyone can solve the puzzle of full accessibility, it is surely
+T.V. Raman.
+
+[Section Three ends].
+
+
+++Section Four: Technology
+- Access to 'Web 2.0'.
+
++12: Frustration 2.0?
+by Dan Jellinek.
+
+Is the phenomenon of 'Web 2.0' - websites where users can share their
+own content, such as social network Facebook or video-sharing site
+YouTube - destined to create a whole bleak new world of information
+that is inaccessible to people with disabilities?
+
+Such was the depressing question posed by Kath Moonan, Senior
+Accessibility and Usability Consultant at computer access charity
+AbilityNet, to delegates at last month's Techshare 2007 conference
+hosted by the RNIB and other disability charities in London (
+http://www.rnib.org.uk/techshare ).
+
+"Web 2.0 describes a move from static, content-driven sites to
+collaborative sites. They are more like a desktop application might
+work," Moonan said.
+
+Not only are such sites gaining in popularity and in their range of uses,
+Moonan said, but increasingly they are also linking up together into
+one huge 'ecosystem' of sites. For example, you can easily link to a
+video on YouTube from your page in the music sharing and social
+networking site MySpace.
+
+But unless accessibility is taken seriously by the makers of these sites,
+entire categories of web user could end up being excluded from this
+interdependent world, Moonan said. "One of the problems is we're in
+danger of creating a whole inaccessible ecosystem because the major
+players don't take accessibility seriously," she said. "And if the big
+ones don't do it, nobody bothers. So if you're building for example a
+Facebook application [a small software tool that any develop can build
+to add extra functions tot he social network], and Facebook doesn't
+require any accessibility from you, you say why should I? It builds a
+culture of complacency."
+
+All this is doubly galling because, just as the original information-
+based web opened up new possibilities for people with disabilities in
+accessing information independently, so online social networking has
+the potential to allow new types of social interaction to take place
+between people with disabilities and everybody else. But only if the
+systems are accessible to all, Moonan said.
+
+She illustrated Web 2.0's potential by playing a video interview with
+Damon Rose, editor of the BBC disability magazine website 'Ouch'.
+Rose, who is blind, said that tools like Facebook could be extremely
+useful for networking with people you might come across at a business
+conference, because if you are blind, it might be hard to pick them out
+when you are at the conference itself, for example if you have just
+heard somebody give a talk that you liked, but you can't see where
+they are. With Facebook, you can network afterwards without physical
+mobility being an issue.
+
+Other examples of useful Web 2.0 content include videos on the young
+people's online network Bebo with British Sign Language content,
+Moonan said.
+
+AbilityNet is carrying out an online survey of web users with
+disabilities to assess their experiences of Web 2.0, she said. "We are
+keeping it going because so far we have had a small number of
+respondents. But a lot of people have emailed us and said 'Hi, I'm glad
+you're doing a survey, but I can't access any of the Web 2.0 sites to
+answer the questions. Can you let me know when they are accessible
+and I can go and find out about them?" said Moonan. "Does this sound
+familiar from Web 1.0?"
+
+So what are the features of Web 2.0 sites that present the biggest
+access problems for people using screen-readers or other special access
+technologies?
+
+Perhaps the biggest single problem is caused by 'captcha' tools,
+Moonan said. These are graphical panels displaying a visually distorted
+sequence of letters or numbers that people must enter to proceed. The
+tests are designed to weed out the automated 'spambot' programmes
+that try to take over interactive websites for advertising, and which
+cannot recognise visually distorted characters; but they have the side-
+effect of also excluding people using non-visual ways of accessing the
+web.
+
+"Captcha tools can be incredibly difficult if you have low vision or
+dyslexia, and they shut out blind users altogether," Moonan said. On
+one site we saw, you can't even contact customer support because of a
+captcha file.
+
+Another problem with many of the new Web 2.0 sites is that, in the
+rush to break new ground and be the first to innovate, developers often
+put incomplete or test versions of a site up before they fully ready, and
+look to iron out any problems such as accessibility problems in future
+phases or 'iterations', she said.
+
+"They say we'll put it up broken and fix it later. And so you end up
+with sites like MySpace - 'table soup' for screen-reader users. Has
+Web 2.0 created a culture of inaccessibility as in the early days of the
+web, from which we are still picking up the pieces? Are we developing
+a new generation of cowboy developers?"
+
+If the answers to such questions are to be positive, there are a number
+of basic steps all developers must start to take, Moonan said. These
+include that:
+
+- All captcha graphics should have an audio alternative;
+
+- In the longer term, non-visual alternatives to captcha must be used
+such as email verification or mobile phone verification;
+
+- Help pages and navigational signposting throughout the site should
+be developed and improved;
+
+- If multimedia is used, it should be easy to turn audio and video feeds
+on and off;
+
+- There should always be alternative ways of interacting with the same
+information.
+
+Ultimately the goal is equality of access, Moonan said - whatever the
+sites are used for. "One description of social networking sites is sites
+that allow people to waste time at work. And because I believe in
+equality, I believe everyone should be able to waste time at work."
+
+NOTE: The AbilityNet survey on access to social networking websites
+is available for completion on the web until 10 December. Fill it out at:
+http://www.abilitynet.org.uk/socialnetworking .
+
+[Section Four ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2007 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Editorial advisors - Kevin Carey, Derek Parkinson, Mel Poluck
+Marketing Executive - Claire Clinton
+Sales and Marketing - Jo Knell, Will Knox.
+
+ISSN 1476-6337 .
+
+[Issue 95 ends.]

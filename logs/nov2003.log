@@ -1,0 +1,53 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:01 2004 __
+
+Input file: ../eab/issues/2003/nov2003.txt
+
+Warning: file already exists: ../eab/issues/2003/nov2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: nov | index: 11 | year: 2003
+URLs, prev: ../2003/oct2003.html | next: ../2003/dec2003.html
+Found ++, heading 2: ISSUE 47 CONTENTS.
+>> FOUND 2:  | 01:  | Award for TV voice control experiment
+>> FOUND 2:  | 02:  | Guide to work experience placements
+>> FOUND 2:  | 03:  | Sentient access to e-learning resources
+>> FOUND 2:  | 04:  | Speech technology market set to explode
+>> FOUND 1: News in brief:  | 05: Daisy, Daisy - two new e-book readers; 06:
+>> FOUND 2:  | 08:  | Interest group - procurement community; 09: Caught out? - design
+>> FOUND 2: site inaccessible;  | 10:  | Flat facts - monitors and magnification.
+OK, News in brief
+Found: Flat facts - monitors and magnification | . | 
+>> FOUND 2:  | 11:  | Eyes in the sky:
+>> FOUND 2:  | 12:  | Court life - Phil Cain talks to one of the UK's few registered
+Warning line 46: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: SPECIAL NOTICE: TECHSHARE: LEARNING, WORK AND
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | AWARD FOR TV VOICE CONTROL EXPERIMENT.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | GUIDE TO WORK EXPERIENCE PLACEMENTS.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | SENTIENT ACCESS TO E-LEARNING RESOURCES.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | SPEECH TECHNOLOGY MARKET SET TO EXPLODE.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  Two new e-book readers conforming to the
+> ITEM 1:  06:  | : |  The RNIB's new Learning Catalogue,
+> ITEM 1:  07:  | : |  US Democratic presidential runner Joe
+Found ++, heading 2: SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Ruth Loebl, Senior technology
+> ITEM 1:  09:  | ? |  Craig Massey, principal webmaster at Barnsley
+> ITEM 1:  10:  | : |  Finally, our tireless correspondent Chris
+Found ++, heading 2:  SECTION THREE: TECHNOLOGY
+> ITEM 2:  12:  | EYES IN THE SKY
+Warning: not title-casing possible HTML:
+  12: EYES IN THE SKYby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: EYES IN THE SKYby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2: SECTION FOUR: INTERVIEW
+> ITEM 2:  12:  | COURT LIFE
+Warning: not title-casing possible HTML:
+  12: COURT LIFEby Phil Cain  <a href="mailto:phil@vitalpublishing.com">phil@vitalpublishing.com</a> .
+Warning: not found a 'contents' match: COURT LIFEby Phil Cain  <a href="mailto:phil@vitalpublishing.com">phil@vitalpublishing.com</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

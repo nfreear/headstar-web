@@ -1,0 +1,57 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:24 2008 __
+
+Input file: ../eab/issues/2007/apr2007.txt
+
+Warning: file already exists: ../eab/issues/2007/apr2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: apr | index: 4 | year: 2007
+URLs, prev: ../2007/mar2007.html | next: ../2007/may2007.html
+Found ++, heading 2: Special Notice: eAccess '07: Technology for All
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 45.
+Found ++, heading 2: Issue 88 Contents.
+>> FOUND 2:  | 01:  | Home Computer Assessments Triumph In eWell-Being Awards.
+>> FOUND 2:  | 02:  | UN Launches Campaign For Inclusive Technology
+>> FOUND 2:  | 03:  | 'Talking Lampposts' Hit The Streets Of Portsmouth
+>> FOUND 2:  | 04:  | New Browser Aims To Make Video Accessible
+>> FOUND 2: News in Brief:  | 05:  | Easy Converter - document conversion service; 06:
+OK, News in brief
+Found: Easy Converter - document conversion service | ; |  06:
+>> FOUND 2: BBC Jammed - education resource suspended;  | 07:  | Site Rewarded -
+Found: BBC Jammed - education resource suspended;  | 07:  | Site Rewarded -
+>> FOUND 2: award for charity website;  | 08:  | Free Speech - text to speech software.
+Found: Free Speech - text to speech software | . | 
+>> FOUND 2:  | 09:  | Italian Literati - Free audio downloads of Italian literature.
+>> FOUND 2:  | 10:  | Now You See It, Now You Don't: A recent exchange between web
+>> FOUND 2:  | 11:  | Online Mapping for Everyone. Christopher J. Andrews writes on
+Warning line 88: expected [Contents ends].
+$toc_count=13
+> ITEM 2:  01:  | Home Computer Assessments Triumph In eWell-Being Awards.
+Found 'contents' match: 1.
+> ITEM 2:  02:  | UN Launches Campaign For Inclusive Technology.
+Warning: not found a 'contents' match: Un Launches Campaign For Inclusive Technology.
+> ITEM 2:  03:  | 'Talking Lampposts' Hit The Streets Of Portsmouth.
+Warning: not found a 'contents' match: 'Talking Lampposts' Hit The Streets Of Portsmouth.
+> ITEM 2:  04:  | New Browser Aims To Make Video Accessible.
+Warning: not found a 'contents' match: New Browser Aims To Make Video Accessible.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A desktop application allowing organisations to
+> ITEM 1:  06:  | : |  The free interactive online learning service for
+> ITEM 1:  07:  | : |  British charity Vision 2020 has won an award for
+> ITEM 1:  08:  | : |  Free text to speech software for speakers of
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 269.
+> ITEM 1:  09:  | : |  "Salve! This is a very brief
+Found ++, heading 2: Section Three: Web Accessibility
+> ITEM 2:  10:  | Now You See It, Now You Don't
+Warning: not found a 'contents' match: Now You See It, Now You Don'TBy Leonie Watson And Patrick H. Lauke.
+Found ++, heading 2: Sponsored Notice: Describe Online - Bringing Customers to You!
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 406.
+Found ++, heading 2: Section Four: Focus
+> ITEM 2:  11:  | Online Mapping for Everyone
+Warning: not found a 'contents' match: Online Mapping For EveryoneBy Christopher J. Andrews.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 567.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 573.

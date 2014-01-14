@@ -1,0 +1,591 @@
++++E-ACCESS BULLETIN.
+- ISSUE 72, DECEMBER 2005.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab/).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 72 Contents.
+
+Section One: News.
+
+01: European Public Sector Fails On Basic Web Accessibility.
+- only three per cent of sites reach 'level A' standard.
+
+02: Pilots for User Preference Smartcard Go Live in New Year
+- card customises settings of public terminals like cash machines.
+
+03: 'Podcast' on Assistive Technology for Schools Goes Live
+-  advice and information for students, teachers and parents.
+
+04: Accessibility Accreditation to Use Vision-Impaired Testers
+- RNIB and AbilityNet Join Forces on New Web Audit.
+
+News in Brief: 05: Personal Contact - software for deafblind PAC
+Mate users; 06: Command Control - simplified voice recognition tool;
+07: Favourite Things - web preferences toolbar; 08: Guide Correction
+- Describe Online Glasgow details.
+
+Section Two: 'The Inbox' - Readers' Forum.
+09: Information Rights - European law suggestion; 10: Colour Sources
+- online web design resources sought; 11: Readers Needed - online
+library seeks testers.
+
+Section Three: Techshare Report I - A DAISY Browser.
+12: Electronic Books - Online and On Demand. Derek Parkinson
+reports from the RNIB's flagship annual access technology event on a
+powerful new way of accessing e-books over the web.
+
+Section Four: Techshare Report II - Access to mobile phones.
+13: Free Learning Blended With Treacle: A pioneering course in
+Harrow combining classroom teaching with e-learning will soon help
+vision-impaired people anywhere access mobile telephony. Dan
+Jellinek reports.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: European Public Sector Fails On Basic Web Accessibility.
+
+Just three per cent of public sector web sites in the European Union
+(EU) reach accepted minimum international standards of accessibility,
+according to UK government-funded research published last month.
+
+The results were obtained by carrying out automated and manual
+checks on 436 public sector web sites across all 25 member states of
+the EU. The checks were designed to show how well the sites
+measured up to the World Wide Web Consortium's Web Content
+Accessibility Guidelines (WCAG -
+http://www.w3.org/TR/WAI-WEBCONTENT/ ),
+that grade sites 'A', 'AA', or 'AAA', in rising order of accessibility.
+
+According to the research, only three per cent reached 'A' status,
+although a further 27 per cent narrowly missed out, either because they
+passed all automated checks but failed a manual inspection, or failed a
+small number of automated checks. No sites were found to reach 'AA'
+or 'AAA' status.
+
+"I had expected and hoped that governments were doing better,"
+accessibility expert Helen Petrie, Professor of Computer Science at the
+University of York, told E-Access Bulletin. "Such a low level of
+conformance is disappointing and shows that we have a mountain to
+climb."
+
+The report, 'eAccessibility of public sector services in the European
+Union',
+( http://fastlink.headstar.com/eur6 ),
+was commissioned as part of the UK's presidency of the EU. It
+revealed that few member states know how well they are doing in the
+accessibility field: of the 25, only six felt able to estimate the
+proportion of their web sites meeting 'A' requirements, but all six were
+found to have overestimated.
+
+The poor showing may partly be explained by the fact that the WCAG
+are not available in all EU languages. At present, the guidelines aren't
+available in the national languages of Cyprus, the Czech Republic,
+Greece, Latvia, Malta and Slovenia; and a number of other minority
+languages. Translations are in progress for the languages of Poland and
+the Slovak Republic.
+
+
++02: Pilots for User Preferences Smartcard Go Live in New Year.
+
+Pilots of a smartcard developed to allow vision-impaired people to
+customise the settings of public electronic terminals including banks'
+automatic telling machines (ATMs) will begin in the new year.
+
+The 'Special needs application programming interface' (SNAPI -
+http://fastlink.headstar.com/snapi1 )
+enables smartcards to carry data on user preferences such as a large
+font size, once inserted into an ATM, railway ticket machine or similar
+device.
+
+"The software can use any existing or planned card scheme. And the
+system could work with any terminal and its screen, subject to
+the supplier using SNAPI specifications," said Geoff Doggett,
+e-services card manager at Mid Suffolk District Council, and SNAPI
+project manager. "Currently, all the accessibility options in Windows
+XP and 2000 [are stored on SNAPI]," Doggett said. "One of the great
+benefits is that simply withdrawing the card resets the computer
+automatically for the next person".
+
+The pilots will begin in January at libraries in Cambridge and Suffolk;
+at the RNIB resource centre in London; and at several colleges and
+schools. Its developers are also currently creating partnerships with
+terminal suppliers and service providers and looking at ways to make
+the cards available to a larger number of people. Lessons learned from
+the pilots will be disseminated at a workshop in May 2006 where the
+project will be formally launched, Doggett said.
+
+SNAPI has been developed by the RNIB, Mid Suffolk Council
+and the Black Country Knowledge Society
+( http://www.bcks.org.uk/ ),
+a regional partnership of public, private and voluntary bodies. The
+initiative is managed by the 'Local authority smartcard standards e-
+organisation' (LASSeO -
+http://www.lasseo.org.uk/ ).
+
+
++03: 'Podcast' on Assistive Technology for Schools Goes Live.
+
+A series of monthly online audio broadcasts or 'podcasts,' informing
+teachers, students, parents and administrators on the use of assistive
+technologies in schools and colleges, has gone live.
+
+The service, entitled Building Educational Success Through
+Technology (BEST -
+http://bestpodcast.blogspot.com )
+provides ideas and resources on assistive technology in education
+including news and product reviews. It can be played online using a
+media player such as 'real player' or 'itunes' or by downloading it onto
+a personal mp3 player, allowing listeners to hear shows at any time
+they choose.
+
+"Podcasts are an innovative way of providing global access to
+information and are available to anyone who has access to the
+internet," said Brian Wojcik, Coordinator at the Special Educational
+Assistive Technology department at Illinois State University. The
+department collaborated with local education authorities and a
+Chicago-based cerebral palsy charity.
+
+In future, a 'call for help' feature will be added, Wojcik said. "The aim
+of this is to provide a way for listeners to call in with questions or
+issues they are facing regarding using assistive technology with
+children in early childhood, in secondary classrooms or the home. We
+will attempt to provide answers or provide a forum for others to."
+
+
++04: Accessibility Accreditation to Use Vision-Impaired Testers.
+
+A new UK-based system of audit for web accessibility is using a panel
+of testers with disabilities as an integral part of its accreditation
+process.
+
+The 'See It Right: UseAbility' audit is based on the RNIB's existing
+'See It Right' accessibility audit, in partnership with testers recruited
+by the charity AbilityNet (see
+http://fastlink.headstar.com/sir1 ).
+It checks sites against the 'priority areas' of the Web Content
+Accessibility Guidelines,' from the World Wide Web Consortium
+(W3C).
+
+"We thought it would be a good idea to get an accreditation going that
+included user testing rather than doing it ourselves and being a
+competitor to See It Right, a popular and worthwhile award," said
+Robin Christopherson, Web Consultancy Manager at AbilityNet.
+
+"You need disabled testers if you want to make sure there are no
+obstacles to technology such as screen readers," he said.
+
+For large sites, the panel will comprise eight volunteer testers with
+sensory, motor and learning impairments including three with vision
+impairments to assess sites' compatibility of magnification software,
+screen readers and text options found in browsers.
+
+Web sites that pass the audit will be entitled to display an audit logo on
+their home page. An unnamed high street insurance company is set to
+be the first to undergo the new scheme, AbilityNet says.
+
+The disability charity Shaw Trust operates the only other web
+accessibility logo scheme, introduced a year ago, that uses a group of
+disabled web testers
+(http://www.shaw-trust.org.uk/ ).
+
+
+++News in Brief:
+
++05: Personal Contact: Software for the PAC Mate personal digital
+assistant has been launched allowing deafblind users to read and write
+messages, send and receive emails and mobile and analogue phone
+calls from vision-impaired contacts. FaceToFace, produced by PAC
+Mate's maker Freedom Scientific, uses a refreshable Braille display,
+bluetooth and wireless technology and costs around 700 pounds:
+http://fastlink.headstar.com/face2 .
+
++06: Command Control: A simplified voice recognition programme
+that can control a computer with a few commands has been developed
+by US assistive technology firm RJ Cooper and Associates. 'Speak to
+me' responds to frequently used commands such as 'save,' 'open,'
+'copy and paste,' and users can ask to be directed to web pages. It costs
+around 50 pounds:
+http://www.rjcooper.com/speak-to-me .
+
++07: Favourite Things: A web browser toolbar has been launched
+allowing print-impaired users including dyslexics to customise web
+sites and Windows programmes according to their preferences. The
+Textic Toolbar is compatible with all browsers and costs 25 pounds for
+individual users:
+http://www.textic.com/ .
+
++08: Guide Correction: Last issue, we wrote that the online guides to
+central Glasgow's buildings, transport and streets produced by
+Describe Online with Glasgow City Council are available in audio
+format. In fact, they are available in plain text only. We would like to
+apologise for this error. For more information see:
+http://www.describe-online.com/glasgow/ .
+
+[Section One ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+[Special notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
+
++09: Information Rights: John Nissen, founder of inclusive technology
+company Cloudworld
+( http://www.cloudworld.co.uk )
+writes in response to Kevin Carey's feature in our October issue on the
+recent EU Communication on accessibility, which he labelled a "waste
+of time."
+
+Nissen says: "[Carey's] comments set me thinking that what is needed
+is to establish access to information as a basic human right. This would
+open up all sorts of possibilities: taking organisations to the Court of
+Human Rights would be the ultimate recourse.
+
+"For Europe, we could have something like the US's Section 508,
+whereby "reasonable accommodation" has to be made for access to
+information and services for people with a disability.
+
+"One would need to define 'information' as 'information relevant to
+oneself,' [for example:] information for education, health,
+employment, government, voting, financial, legal, and personal data
+held by organisations about oneself. One would need to define 'access'
+as 'equality of access as regards cost and convenience, whatever one's
+age or disability and the information must be made available in a
+timely fashion.
+
+"Some information would be withheld for security and confidentiality
+reasons, and some information one might have to pay for, but
+otherwise all information should be freely available on a need to know
+basis. Regarding the internet, everybody should have equal access, on
+the assumption that anybody might need to know anything."
+[Further responses please to inbox@headstar.com ].
+
+
++10: Colour Sources: John Starbuck of Wakefield Council in the UK
+writes in to follow up his query in our October issue about web-based
+colour-blindness tests. He says: "My main concern at present is to find
+a good source to direct web page designers towards, so they can
+appreciate the problems. All too often, they tend to think that including
+more text than images and ensuring the text can be enlarged will
+suffice to deal with vision problems, but I need to show that more has
+to be done.
+
+"The Web Accessibility guides don't seem to cover colour-blindness
+very well, although I believe cyan is recommended for backgrounds."
+[Responses please to inbox@headstar.com ].
+
+
++11: Readers Needed: Tony Dart of the online library 'The Seeing Ear'
+writes with a request for testers. He says: "The library
+( http://www.seeingear.org )
+is totally internet-based. All the books are electronic text files and can
+be read on virtually any reading machine, Braille terminal or computer.
+To access the library you have to fill in a simple registration form
+online. There are no charges for members and membership is open to
+UK and EU vision-impaired people.
+
+"We are looking for vision-impaired people who will test the site with
+a variety of hardware and software and point out any problems so they
+can be fixed during the next month." The library launches in January
+2006.
+[Responses please to inbox@headstar.com]
+
+[Section Two ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Three - Techshare Report I
+- A DAISY Browser.
+
++12: Electronic Books - Online and On Demand
+by Derek Parkinson.
+
+Many barriers stand between vision-impaired people and accessible
+books, delegates heard at this year's Techshare conference, the RNIB's
+flagship access technology event
+( http://www.techshare.org.uk).
+
+Piotr Brzoza and Ryszard Winiarczyk of the Silesian University of
+Technology in Poland
+(http://www.polsl.pl/),
+demonstrated how new browser technology might help overcome some
+of these barriers.
+
+A very small proportion of all books published are provided in formats
+such as Braille, because of the high cost of doing so and the relatively
+small market for them, said Brzoza. Electronic formats such as cassette
+tape made talking books easier to produce and to market, leading to a
+great increase in the availability of accessible material. The arrival of
+digital technologies promised another leap forward, but progress has
+been slower than expected for several reasons, he said.
+
+Manufacturers of desktop software have developed so-called e-book
+formats, enabling vision-impaired people to access books on a range of
+devices such as dedicated e-book players, home computers and palm-
+top computers. However, these formats are usually the property of the
+software companies, and are often incompatible with each other.
+
+In response, during the 1990s work began on an open, standards-based
+alternative known as the Digital Accessible Information System
+(DAISY -
+http://www.daisy.org/ ).
+The same period witnessed the explosion of content on the internet,
+and efforts to develop assistive technology such as screen readers.
+
+But both DAISY and screen readers have their limitations, delegates
+heard. So-called Digital Rights Management (DRM) systems -
+technologies designed to prevent illegal copying of material - can also
+prevent screen readers accessing digital content. On the other hand,
+although DAISY technology is widely praised for its accessibility, it
+needs complete files to be downloaded to a computer hard drive or a
+compact disc before the content can be read.
+
+"Downloading an entire book is time-consuming, particularly for
+people who want to use a library to access a large number of books on
+a particular topic, for example," said Brzoza.
+
+To remedy this problem, Brzoza, Winiarczyk, and their colleagues at
+the Silesian University of Technology built a content management
+system and a web browser that can access content in the DAISY
+format over the internet, as and when the user requests it. The team
+have since used the technology to access the library catalogue and
+books at the Laski School for the Blind in Poland
+( http://www.laski.edu.pl/).
+
+"It can play books online, it works with the library multimedia system,
+and it provides useful DAISY functions like bookmarks and notes in
+the text," said Brzoza. The browser component can be downloaded for
+free at the Key Foundation web site
+( http://www.key.org.pl ),
+he said.
+
+Many delegates wanted to know more. Did the system enable many
+users to access the same content at the same time? Did it allow readers
+to skip text like a standard DAISY player? Yes, it could do both these
+things, said Brzoza. Some delegates wanted to know how expensive it
+would be to install the system. He explained that although the browser
+is available free, there would have to be a charge for using the content
+management system.
+
+The presentation attracted a great deal of interest, as a practical
+example of how DAISY technology can be adapted for online content.
+
+[Section Three ends].
+
+
+++Special Notice: Test Your Site's Accessibility.
+
+Headstar, the publishers of E-Access Bulletin, is offering a range of
+independent, expert assessment packages to ensure your web services
+comply with best practice and the law. We can provide you with a
+clear, detailed report on the current access status of your site, and a list
+of tasks you will need to carry out to ensure compliance with
+government requirements.
+
+Reports also include results from general quality assurance tests such
+as link-checking. Taking accessibility action benefits all users, will
+make your site easier to maintain, and can improve your search engine
+rating! Please note the service is tailored in particular to larger
+organisations with major web sites or services.
+
+For more information please email:
+access-consult@headstar.com .
+
+[Special notice ends].
+
+
+++Section Four - Techshare report II
+- Access to Mobile Phones.
+
++13: Free Learning Blended with Treacle
+by Dan Jellinek.
+
+A unique online training resource bank to help blind and vision-
+impaired people use mobile phones was unveiled at this year's RNIB
+Techshare conference by a team from Harrow Council in London.
+
+The 'blended learning' package combines classroom-based learning
+with online learning, and teaches people how to use software to make
+the phone talk for phoning and text messaging, plus other software that
+can magnify the screen. A prototype version of the online learning
+module plus full classroom notes to enable other learning providers to
+deliver all parts of the course will be made freely available on the web
+by Christmas, Harrow Adult and Community Learning Programme
+Development Officer Karen Bhamra told E-Access Bulletin.
+
+"We've created a resource bank aimed at tutors, with all the resources,
+lesson plans and so on that you need to run a course," Bhamra said.
+"There is also an e-learning element, with tests."
+
+When complete, the resource will be made available on the web at:
+http://www.learninharrow.org.uk
+by following the link to 'Online Courses'. The project was made
+possible by funding from the enticingly named Project TrEACL
+(pronounced 'treacle'), which stands for Technology to Enhance Adult
+and Community Learning. Some 23 projects across England have been
+funded in round three of this programme, including the Harrow work
+(see http://www.aclearn.net/display.cfm?page=951 for more on
+TrEACL).
+
+Alex Hills, chair of the Middlesex Association for the Blind which has
+partnered with Harrow on the project, said the project had begun by
+some work with a focus group of people with impaired vision, to select
+a preferred mobile phone handset to use in the training course.
+
+The group looked at a few models and eventually selected the Nokia
+3230 handset to use with Mobile Speak talking phone software. "There
+are a number of handsets that we could have used - they just need to
+run the Symbian phone operating system - but we felt as a group that
+the 3230 was the most tactile, with an easy layout," Hills said.
+
+"Personally I find the 'clear' and 'edit' keys a bit hard to use, and if
+you've never used a mobile phone before it takes a while, but you do
+get familiar with it. And a range of users generally found the 3230 was
+the easiest to use."
+
+The next step was to test and evaluate some draft classroom and web-
+based training materials, with sample lessons. All training in Harrow
+has been offered free of charge to learners, using volunteers for the
+teaching.
+
+The Mobile Speak software package for mobile phones was purchased
+for the course from Optelec
+(http://www.optelec.co.uk),
+part of the Tieman Group which is the exclusive distributor of the
+software in Canada, Germany, the Netherlands, the UK and the US. As
+well as English, Mobile Speak is available to buy and download in
+Arabic, Danish, Dutch, Finnish, French, German, Icelandic, Italian,
+Norwegian, Portuguese, Spanish Swedish and Turkish. The screen
+magnifier used in the lessons is Mobile Magnifier, also from Optelec.
+
+"There is a point in loading Mobile Speak onto a phone where users do
+need sighted assistance," Hills said. "It's unfortunate but it's a fact. But
+the training documents including the schemes of work and lesson plans
+are available in accessible text files."
+
+Louise Hamilton, Outreach Tutor at the Harrow learning centre, said
+the Harrow team had learned some important lessons in developing
+training courses for people with impaired vision in previous work they
+had done developing training materials for people in using the Book
+Courier electronic book reader.
+
+"For example, it is vital in a class not to have two people talking at
+once in a room, for example with more than one working group: only
+one person must talk at a time, with the others listening.
+
+"It is also important to explain what you are going to do first at each
+stage, and then do it, as people cannot pick up visual clues. The focus
+group sessions were also useful in helping to pick up on technical
+words that some people couldn't understand."
+
+It is also important to start each lessons with a reminder of the basics,
+Hamilton said. "Every lesson at the start we do familiarisation so the
+learners remember where the keys are," she said.
+
+Future plans include some videoing of learners as they move on from
+the lessons to going out into the real world of the high street mobile
+phone shop and try to buy a handset and download Mobile Speak for
+themselves, she said. "We needed to have some evidence to show our
+funders the work has been successful, so we are asking learners if they
+are going to buy a phone if they could video the process."
+
+Other plans include working with mobile phone dealers and
+manufacturers to disseminate the fruits of their work, Hills said. "We
+hope to work in partnership with the main dealers and manufacturers to
+see if we can include our training material at the point of sale," he said.
+
+The courses will help people use their phones, including SMS text
+messaging, but it was not really possible to access much information
+on the web yet over a mobile, Hills said.
+
+"Access to the web using a mobile phone is still in its infancy - there is
+a bit of hype but not a lot people are doing it," he said. "Web site
+owners need to design their sites so it can be accessed by a mobile, like
+the BBC's mobile site
+http://www.bbc.co.uk/mobile .
+But it will be better developed in future."
+
+[Section Four ends]
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2005 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

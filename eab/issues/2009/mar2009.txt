@@ -1,0 +1,668 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 111, March 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++E-Access '09: Technology For All
+- Access To All Technologies By People With Disabilities
+- Fifth Annual Conference And Exhibition
+http://www.headstar-events.com/eaccess09/
+
+In an ageing population, and in tough economic times, ensuring all
+your customers, service users and staff are included in everything you
+do is more vital than ever, from your externally-facing websites to
+internal IT systems.
+
+E-Access Bulletin's fifth annual conference and exhibition on access to
+technology by people with disabilities is taking place on 23rd April
+2009 at Olympia Conference Centre in London. Our keynote speaker is
+Bill Thompson, technology critic and broadcaster. Other speakers
+include Graeme Whippy, Senior Manager, Lloyds TSB IT
+Accessibility Group; Shadi Abou-Zahra, of the W3C Web
+Accessibility Initiative, on the new international web access guidelines
+WCAG 2.0; and Damon Rose, Editor of the award-winning BBC
+disability website 'Ouch', on the future of accessibility.
+
+Places cost just £195 +VAT for public sector delegates; £295 +VAT
+for private sector; and £165 + VAT for small charities and non-profits
+(turnover less than £150k a year). To find out more and sign up today,
+visit:
+http://www.headstar-events.com/eaccess09/
+
+[Special notice ends].
+
+
+++Issue 111 Contents.
+
+01: Row Brewing Over E-Book Speech Function Removal
+- Amazon bows to complaint over authors' rights.
+
+02: 'Signed Stories' Treasure-House For Deaf Children
+- ITV to create 'world's largest' specialist online library.
+
+03: Private sector slow to address access queries
+- 'Mystery shopper' email test finds local councils fare better.
+
+News in Brief: 04: Standard Slips - committee chair changes; 05:
+Readers' Rights - first chapter downloads; 06: Free Sinhala - Sri
+Lankan software speech tool.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Second Life - learning request; 08: Web accessibility - legal
+guidelines required; 09: Movie vaults - film audio wanted
+
+Section Three: News Analysis - Signed Stories.
+10: The Music Of Signs: Dan Jellinek reports on the launch of Signed
+Stories, an online collection of books for use by teachers, parents and
+carers of deaf children. Developed by an accessibility agency within
+the broadcaster ITV, it is hoped that the library will become the largest
+collection of sign language children's books in the world.
+
+Section Four: Focus - Council Website Accessibility.
+11: Deja Vu All Over Again? Socitm's eleventh annual Better
+Connected report, which reviews all local authority websites in the
+UK, shows that despite some positives, the accessibility of council
+websites still leave much to be desired, even after last year's
+disappointing results. Tristan Parker investigates.
+
+[Contents ends].
+
+
+++Section One: News.
+
+
++01: Row Brewing Over E-Book Speech Function Removal.
+
+A row has erupted over whether or not publishers should be allowed to
+disable the text-to-speech function on electronic book readers, after
+one US reader manufacturer bowed to requests from an authors' rights
+group and made the speech function optional.
+
+Manufacturer Amazon made the move with respect to its new Kindle 2
+e-book reader following representation from the Authors Guild, which
+had claimed that the automatic allowance of text-to-speech (TTS)
+conversion effectively created an audiobook device, even though no
+audio royalties were being paid.
+
+Kindle 2 is marketed in the US (there are no immediate plans for a
+European release) as a 'wireless reading device', allowing users to read
+downloaded books, magazines, newspapers and blogs. Until now, all
+text downloaded to the device could also be read using the TTS
+function, but Amazon have now allowed the feature to be disabled if a
+publisher or author so wishes. Though the function is not marketed as
+an accessibility feature, and the Kindle 2 requires sight to navigate it
+effectively, blindness groups are pressing for the inclusion of TTS
+functionality by default.
+
+Richard Orme, Head of Accessibility at the Royal National Institute of
+Blind People, told E-Access Bulletin this month: "We want
+manufacturers to make sure that text-to-speech is available for all
+people who have a legitimate print disability. It is essential for people
+using speech readers that they can access content which hasn't been
+blocked. Synthetic speech is not the equivalent to speech by a human.
+We refute that strongly."
+
+However a spokesperson for Amazon said: "We believe that most
+authors will decide that leaving text-to-speech enabled on their titles is
+in their commercial interests, and will choose accordingly. So Kindle 2
+will still provide an innovative option for handicapped customers."
+
+In a statement, The Authors Guild says their objection to the audio
+function is solely a royalties issue, and that they support accessible
+technology. "[Some people] suggest that challenging Amazon's use of
+this software challenges accessibility to the visually impaired. It
+doesn't: Kindle 2 isn't designed for such use. The Guild continues to
+support efforts to make works truly accessible to the visually
+impaired."
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=244 .
+
+
++02: ITV Unveils 'Signed Stories' Treasure-House For Deaf Children.
+
+What is intended to become the world's largest online library of
+contemporary children's books fully accessible in sign language,
+sound, animation and text has been launched by the British broadcaster
+ITV, for free use by teachers, parents and carers of deaf children.
+
+Signed Stories (
+http://www.signedstories.com)
+has been created by ITV SignPost, the company's non-profit
+accessibility agency. Around 25 stories are already available to view in
+British Sign Language by streaming video alongside the other
+complementary formats, with a plan to offer 150 stories by the end of
+the year, and 300 or more by the end of 2010.
+
+According to the site's creators, every major publisher approached has
+agreed to hand over rights to use their books in this way, with those
+signed up to date including Macmillan, Penguin, Hachette Children's
+Books and Walker Books.
+
+Eileen Young, Manager of ITV SignPost, told E-Access Bulletin her
+team now wants the site to grow and eventually to become more
+interactive, with possible future features including book reviews by
+children; forums for deaf kids; and the ability for teenagers to
+communicate with each other by signing using webcams.
+
+Malcolm Wright, Managing Director of ITV SignPost, said the
+initiative was born from a sense of deep frustration at a widening
+inequality between deaf children and hearing children in an area -
+reading stories - that might seem as if it presented no barrier for the
+deaf.
+
+"The attainment gap was getting wider, and I was astonished that in a
+caring, first world country this could be happening," Wright said. An
+important subsidiary function of the website is its ability to provide
+other information to those working with deaf kids, he said. "The back
+end of the site contains a lot of advice and resources for deaf parents,
+parents with deaf children and teachers of deaf children."
+
+NOTE: For a full report on Signed Stories see Section Three, this
+issue.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=246
+
+
++03: Private Sector Slow To Address Access Queries.
+
+A 'mystery shopper' test which sent emails to a range of UK local
+council and private sector websites requesting information on their
+accessibility to blind users has uncovered a pattern of poor responses,
+with around one in five sites not bothering to respond at all.
+
+The exercise, carried out by the local government Society of IT
+Management as part of its annual 'Better Connected' review of council
+websites (
+http://fastlink.headstar.com/so6 ),
+found local government websites performed better than sites in other
+sectors.
+
+The test featured an anonymous email claiming to be from a blind
+person who was having difficulty using the website, with a request for
+help in accessing services. The same message was sent to all UK
+councils, plus a sample of 20 household name companies from the
+finance, travel and retail sectors.
+
+Some 52% in local government sent back a satisfactory response,
+compared with just 27% of websites from other sectors. Additionally,
+in 13% of cases with websites from other sectors, an email address
+could not even be found, while there were no instances of this with
+local government sites. However, local government did perform
+marginally worse or similar to the public sector in some regards: some
+20% of council sites failed to reply at all, compared with 18% from
+other sectors, and 43% of the other websites contacted sent a reply
+within two days, compared to 42% of council sites.
+
+The report claims that "Generally, the differences in the quality of
+replies imply a lower level of awareness of website accessibility in
+other sectors," although the large difference in sample sizes between
+the two sectors (around 500 compared with just 20) should be taken
+into account.
+
+Elsewhere in the Socitm report, general accessibility testing found a
+picture of low compliance with international standards, and little
+improvement on accessibility levels found a year previously. For a full
+report see Section Four, this issue.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=249
+
+
+
+++News in Brief:
+
++04: Standard Slips: The chair of a British Standards Institution
+committee responsible for drafting a standard on web accessibility,
+Julie Howell of web design agency Fortune Cookie, has stepped down
+from the voluntary position. The new acting chair of the committee in
+charge of developing BS 8878, 'Web Accessibility - Building
+Accessible Experiences for Disabled People', is BBC head of audience
+experience and usability Jonathan Hassell. Publication of the standard
+is now expected to be delayed beyond its original planned date of
+summer 2009:
+http://fastlink.headstar.com/bsi3 .
+
++05: Readers' Rights: From April, visually impaired readers will be
+offered first chapters of bestsellers for free from Read How You Want,
+an internet bookshop specialising in accessible formats. The chapters
+will be available from the website of accessible technology leaders
+HumanWare, who are partners in the project:
+http://www.humanware.com/en-united_kingdom/home .
+http://www.readhowyouwant.com/ .
+
++06: Free Sinhala: New software to translate Sri Lankan text into
+speech for visually impaired people is to be made available to all, free
+of charge, by the Sri Lanka Council for the Blind. The 'Nuwana
+Sinhala text to speech' tool, developed by a division of the Sri Lanka
+Institute of IT, will help users to read documents and type in Sinhala,
+the most widely spoken language on the island:
+http://www.sliit.lk .
+
+[Section One ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: Karen Atkinson, Manager of the RNIB Resource Centre at the
+University of East London, writes looking for advice on disability,
+dyslexia and virtual worlds.
+
+She says: "I have had a query from a colleague and wonder if you
+could help. Here at the University of East London we have an island on
+Second Life which is intended to support students in their learning. A
+colleague at UEL Connect (the new name for our school of distance
+learning and e-learning) is interested in knowing who might be able to
+provide advice or to give a presentation on disability and dyslexia as
+relating to virtual world environments like Second Life.
+
+"Do you know of or have any contacts that you might be able to
+suggest who could do something like this?"
+
+Suggestions please to inbox@headstar.com .
+
+
++08: A reader called David, who is visually impaired and works for the
+NHS, is seeking legal advice about access to the web.
+
+He writes: "I feel that everything relating to IT is geared around
+sighted people, and it is becoming more and more difficult accessing
+technology, especially when it is upgraded. The [NHS] website,
+electronic patient records and more recently the email website is just
+simply inaccessible for visually impaired people. [They] have limited
+function, and appear to have been designed without disabled people
+being considered. Simple features like being able to use the scroll
+facility on the mouse simply do not work.
+
+"I am aware that there are some excellent guidelines on creating
+websites, however is there any legal policy to assist me in tackling this
+access problem that only seems to be getting worse?"
+
+Responses please to inbox@headstar.com .
+
+
++09: Movie Vaults: Finally, a request from a film fan. Reader Dan
+from Herefordshire asks: "This is a bit of a long shot, but do you know
+of any sites on the internet other than the Blind Mice Movie Vault that
+offer audio-described movies in mp3 format, which is the audio of the
+movie and not the picture with audio description?"
+
+Answers to inbox@headstar.com .
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: News Analysis
+- Signed Stories.
+
++10: The Music Of Signs
+By Dan Jellinek.
+
+At last month's launch of Signed Stories (
+http://www.signedstories.com ),
+an online treasure-house of children's stories in British Sign Language
+created by broadcaster ITV for free use by teachers, parents and carers
+of deaf children, the excitement was palpable.
+
+G. P. Taylor, author of the best-selling 'Shadowmancer' series of
+children's books, said the service was "the most exciting thing to
+happen in children's reading since the invention of the book."
+
+With first-hand experience of the communication and attainment gap
+faced by deaf people, as the child of deaf parents, Taylor said the site
+"hit on something all kids are in love with - the internet," and would
+have enormous benefits for all involved.
+
+The creators of Signed Stories, the non-profit accessibility agency
+within ITV known as SignPost, hope it will grow into the largest
+online library of contemporary children's books fully accessible in sign
+language, sound, animation and text.
+
+Around 25 stories are already available, with a plan to offer 150 by the
+end of the year, and 300 or more by the end of 2010.
+
+ITV is contributing funds, staff - including signers - and technical
+facilities to the project, but the broadcaster is also looking for
+sponsorship for individual stories, which cost around £5,000 each to
+produce. The service will remain non-profit however, and will never
+carry advertising.
+
+Book publishers have been invited to contribute the rights for use of
+their books on the service free of charge, and have responded
+positively. Around a dozen major publishers have already signed up
+including Macmillan, Penguin, Hachette Children's Books and Walker
+Books, and the service has also gained support from charities and other
+organisations including the National Literacy Trust and the National
+Deaf Children's Society.
+
+Eileen Young, Manager of ITV SignPost, told E-Access Bulletin that
+"All major publishers we've approached have agreed to sign over
+rights, though some are still working on the paperwork."
+
+Young said her team now wants the site to grow and eventually to
+become more interactive, with possible future features including book
+reviews by children; forums for deaf kids; and the ability for teenagers
+to communicate with each other by signing using webcams.
+
+Technically the service does not demand a high specification of
+computer to receive the video streams, Young said: although the files
+cannot be downloaded for copyright reasons, they are streamed at four
+different rates and the service will automatically optimise to suit the
+computer used to access it.
+
+Although there are problems to overcome with some schools - one
+SignPost technician told E-Access Bulletin that getting around the
+blocking of the service by the firewalls used by some schools was a
+"major challenge" - the early feedback from those schools that are
+using it is that they love it, Young said.
+
+It is easy to see why: as well as being free, the service is valuable,
+imaginative, creative and fun to use. Story categories include
+'fairytales and folktales', 'families and friendships' and 'slimy scary',
+and within each zone a 'story tree' with different coloured interactive
+branches helps guide users through books by level of reading
+difficulty.
+
+The service has emerged from the combination of a few strands of
+work by ITV SignPost over the past few years. ITV already runs an
+online news service for deaf people in BSL. And the children's stories
+project was first considered as a TV format, with a series of 'sign a
+story' programmes mooted for broadcast over ordinary channels.
+
+Within the emergence of the internet, however, online seemed the
+logical home for it, allowing greater flexibility, interactivity and ease
+of access.
+
+Malcolm Wright, Managing Director of ITV SignPost, said the
+initiative was born from a sense of deep frustration at a widening
+inequality between deaf children and hearing children in an area -
+reading stories - that might seem as if it presented no barrier for the
+deaf.
+
+"The attainment gap was getting wider, and I was astonished that in a
+caring, first world country this could be happening," Wright told the
+launch. "It was clear that the biggest problem was one of literacy in
+English - deaf children just don't read stories that much. So I went out
+and bought the domain signedstories.com, and then wondered what on
+Earth I was going to do with it."
+
+What Wright eventually did was to assemble an eclectic and stellar
+supporting cast of publishers, story-tellers and celebrities - stars
+backing the project range from Children's Laureate Michael Rosen to
+Dame Helen Mirren, Robbie Coltrane, Zoe Wanamaker and Sir Trevor
+McDonald.
+
+He said the site, which had its soft launch on 15 December last year, is
+"Fantastically well-watched already by thousands of kids in schools,"
+and that "by the end of 2011 I hope that Signed Stories will be a
+repository of the best of children's literature not just for deaf children
+but for all children."
+
+An important subsidiary function of the website is its ability to provide
+other information to those working with deaf kids, Wright said. "The
+back end of the site contains a lot of advice and resources for deaf
+parents, parents with deaf children and teachers of deaf children."
+
+Asif Iqbal, Founder of Deaf Parenting UK
+( http://www.deafparent.org.uk/ ),
+told the launch that some 90% of deaf and hard of hearing parents have
+hearing children, a situation which presents further barriers and
+parenting problems.
+
+The new service "enables deaf parents to sit with their children, a
+fantastic opportunity where all family members can access the stories
+without barriers," he said.
+
+David Lloyd, chairman of Walker Books
+( http://www.walker.co.uk ),
+said the possibilities of story-telling through signs were about more
+than just access to words, but had their own magic, and sense of
+theatre, that was compelling for hearing as well as deaf readers. "It
+turns the music of words into the physical music of signs. It's a
+wonderful way to tell a story," he said.
+
+"What an extraordinary medium it is - the internet - with such power
+to include us all," said Walker. "But don't forget the book itself - made
+out of trees and vegetable juices of all kinds and full of surprises, and it
+lasts - but then I would say that, wouldn't I - I'm a publisher."
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=251
+
+[Section Three ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Four: Focus
+- Council Website Accessibility.
+
++11: Déjà Vu All Over Again?
+By Tristan Parker.
+
+Readers of the eleventh annual Better Connected report on UK council
+websites, published last month by the local government Society of
+Information Technology Management (Socitm), might be forgiven for
+feeling that time has stood still.
+
+Last year's report found that only 37 out of 464 council websites (8%)
+attained the most basic level of accessibility, Level 'A' of the World
+Wide Web consortium's (W3C) web content accessibility guidelines
+(WCAG 1.0) (
+http://www.headstar.com/eablive/?p=164 ).
+
+But Better Connected 2009 shows that little, if anything, has been done
+to address the problem. Almost exactly the same  number of councils
+surveyed (36) achieved a Level A rating, and for the second year
+running, none have achieved Level AA or Level AAA - the highest
+rating possible (
+http://fastlink.headstar.com/so6 ).
+
+This paints a gloomy picture, especially considering that all public
+sector websites have been advised to meet a minimum accessibility
+standard of Level AA by December 2009 in 'Delivering inclusive
+websites', a 2008 publication from the Central Office of Information.
+In fact, the original consultation process for 'Delivering inclusive
+websites' in 2007 had suggested that government sites should have
+their rights to use the '.gov.uk' web domain withdrawn unless they met
+Level AA by December 2008, a recommendation which, luckily for the
+public sector, was eventually watered down.
+
+It is not all bad news this year, however. Some encouragement can be
+drawn from the implementation of a new additional qualitative
+assessment system, carried out for Socitm by the Royal National
+Institute for the Blind (RNIB), and designed to give an overall picture
+of council website accessibility. The system used its own 0-3 rating,
+with 0 representing a frequent absence of accessibility and 3
+representing a site that was functionally fully accessible. Under this
+system, 136 councils (33%) were rated by the RNIB as satisfactory or
+excellent; a far more encouraging statistic than the 8% who achieved
+WCAG Level A.
+
+Speaking to E-Access Bulletin following the publication of this year's
+report, Socitm Insight Programme Manager Martin Greenwood said
+the 2009 survey did not present a negative picture of council website
+accessibility but said further advances should now be made. "In terms
+of a strategic improvement, councils must make a commitment to
+accessibility. Specifically, they must ensure that any new software
+purchased is not inaccessible. There were some bad decisions made
+four or five years ago regarding software procurement."
+
+Greenwood also said councils can take rapid and effective action by
+addressing a list of five common accessibility errors identified in the
+report. As with Better Connected 2008, these errors accounted for a
+large proportion (76%) of failures to meet the Level A guideline, he
+said. The common errors were the presence of images without
+alternative text; inappropriate use of JavaScript; simple data table
+errors; complex data table errors; and a lack of accessible alternatives
+to website features.
+
+Greenwood also said that there was "no chance at all" of all public
+sector websites achieving a Level AA rating by December 2009, as set
+out in 'Delivering inclusive websites', but said that in any case this
+target may now be superceded by the introduction of the revised
+WCAG 2.0 guidelines from W3C in December 2008, while work on
+Better Connected was ongoing.
+
+The introduction of WCAG 2.0 represented a significant step forward,
+Greenwood said, allowing for clearer guidelines and an approach that
+is "more flexible in dealing with issues such as the impact of new
+technology." However, websites that failed to achieve a Level A
+accessibility rating under WCAG 1.0 will be unable to use the
+'outdated' status of the older system as a get-out clause. The Socitm
+report states: "Most websites that conform with WCAG 1.0 should not
+require significant changes in order to conform with WCAG 2.0. Just
+as importantly, for those that do not conform with WCAG 1.0, the task
+is not likely to be much easier under WCAG 2.0."
+
+The RNIB was also largely positive about the report's findings,
+claiming that the figures do not necessarily represent a widespread lack
+of accessibility. "In fact, we noticed a significant improvement in the
+real accessibility of most of the websites we assessed. Unfortunately
+that doesn't always show in a strict conformance check," said Bim
+Egan, Senior Web Access Consultant at the RNIB.
+
+Egan said there were also extraneous factors which contributed to
+some of the websites failing to meet the guidelines: "Third party
+content has a big part to play in the use of technologies that failed the
+previous guidelines [WCAG 1.0]. We had to fail 263 sites for using
+JavaScript, for instance, [but] in the majority of cases this was due to
+providing benefits calculators and online payment services."
+
+Better Connected 2009 also makes a series of accessibility
+recommendations for councils to improve their sites, including
+securing a commitment to accessible websites; building accessibility
+into procurement criteria; supporting a programme of user education;
+and carrying out user testing with groups of disabled people.
+
+Councils can also draw encouragement from the feeling that they are
+not alone in the struggle to become accessible online. According to a
+separate Socitm study due to be published in full in April, local
+government outperforms various other sectors in terms of website
+accessibility, including FTSE 100 companies, finance companies and
+the travel industry.
+
+The opportunity is now here for the public sector to take the lead as it
+works towards implementing WCAG 2.0.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=253
+
+[Section Four ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 111 ends.]

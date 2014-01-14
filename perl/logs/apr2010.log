@@ -1,0 +1,44 @@
+__ BUILD [tens2html.pl  v1.14] log Sat Jul  3 23:09:05 2010 __
+
+Input file: ../eab/issues/2010/apr2010.txt
+
+Warning: file already exists: ../eab/issues/2010/apr2010.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: apr | index: 4 | year: 2010
+URLs, prev: ../2010/mar2010.html | next: ../2010/may2010.html
+Found ++, heading 2: Special Notice: e-Access '10: Technology For All
+Found ++, heading 2: Issue 124 Contents.
+>> FOUND 2:  | 01:  | Campaigning Peer Blocks Weakening Of Web Access Law
+>> FOUND 2:  | 02:  | US Government Helps Job Applicants With Disabilities
+>> FOUND 2:  | 03:  | E-Book Guide Highlights Benefits And Obstacles
+>> FOUND 2: News in Brief:  | 04:  | One Voice - Accessible ICT business
+OK, News in brief
+Found: News in Brief:  | 04:  | One Voice - Accessible ICT business
+>> FOUND 2: benefits;  | 05:  | Instant Messages - speaking app for
+Found: benefits;  | 05:  | Instant Messages - speaking app for
+>> FOUND 2: smartphones;  | 06:  | Digital Consolidation - Inclusion taskforce
+Found: smartphones;  | 06:  | Digital Consolidation - Inclusion taskforce
+>> FOUND 2:  | 07:  | The 25-Year Buzz: The California State University
+Warning line 68: expected [Contents ends].
+$toc_count=9
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Campaigning Peer Blocks Weakening Of Web Access Law.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | US Government Helps Job Applicants With Disabilities.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | E-Book Guide Highlights Benefits And Obstacles.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A report on the business case and other
+> ITEM 1:  05:  | : |  A text-to-speech application that reads
+> ITEM 1:  06:  | : |  The government's Digital
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Two: Conference Report
+Warning: not found a 'contents' match: Tby John Lamb.
+
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 408.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 439.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 448.

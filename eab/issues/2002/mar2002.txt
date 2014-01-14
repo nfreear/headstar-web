@@ -1,0 +1,684 @@
+* E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site (including archive):
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for the Blind
+<http://www.rnib.org.uk>
+and the National Library for the Blind
+<http://www.nlbuk.org>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+NOTE: As a navigation aid to those using screen readers, all headings 
+begin with an asterisk and end with a full stop. Please let us know if there 
+is anything else we could do to make navigation of the bulletin easier.
+
+[Issue starts.]
+
+* ISSUE 27, MARCH 2002.
+
+* CONTENTS.
+
+News:
+- ‘Talking Link’ portal set for September launch.
+- Macromedia allows animations to be tagged.
+- ‘Dolphinaccess’ addresses internet service problems.
+- Government backs copyright exemption for visually impaired.
+- Code implies UK disability act applies to web.
+- Metadata initiative reviews access standards.
+
+News in brief: Credit change; Athens Olympic site; New inexpensive 
+screen-reader.
+
+Section two - 'The Inbox'
+- Readers' forum
+
+Section three: Focus. Music: Catching up with one's notes.
+- Visually impaired people are often musical, but their progress is 
+hindered by unwieldy Braille notation. Derek Parkinson investigates 
+some high tech alternatives.
+
+Section four: Product road-test. E-book readers: To Victor the spoils?
+- With widespread adoption of e-books just around the corner, Saqib 
+Shaikh assesses three current reading technologies.
+
+Section five: Communications. Regulation: Tough balancing act for 'uber 
+regulator'
+The government is laying the foundations for a new single media and 
+telecoms super-regulator Ofcom, but recent US experience shows that 
+the difficulties are unlikely to end there. Derek Parkinson reports.
+
+[Contents ends.]
+
+
+* SECTION ONE - NEWS.
+
+
+* TALKING LINK SETS A DATE FOR TRIPLE DELIVERY.
+
+A new RNIB-backed 'Talking Link' project has set a September launch 
+date for all three of its major components: a searchable index to 
+accessible web sites; an accessible internet service provider; and a new 
+method for sending and receiving sound over the internet.
+
+Not surprisingly Chris Knowles, managing director of the Chorley-based 
+company Five Links which is behind the project, says his team is 
+working flat out to hit the deadline.
+
+Once complete the Talking Link site (http://www.talkinglink.com ) will 
+contain a searchable directory of web sites that satisfy the main 
+international accessibility standards. Knowles says he is very hopeful the 
+site will itself gain an RNIB's 'See it right' accessibility award.
+
+The site will offer novices the option to download basic screenreading 
+and magnification packages for free. Knowles says these are simple 
+enough to learn in minutes.
+
+Five Links has also developed a compression algorithm to allow audio 
+files to be played in real time over normal dial up modems, and is using 
+this at the core of a new audio-media distribution system.
+
+In its third project, Talking Link will run an accessible internet service 
+provider, and is attempting to reach a further deal with cable company 
+Telewest to deliver accessible content through set-top boxes.
+
+The RNIB has already provided financial and practical backing for the 
+project.
+
+The company has received further assistance from the Department of 
+Work and Pensions, Department of Trade and Industry and the Office of 
+the e-Envoy, and is hopeful of receiving funds from the Small Firms 
+Merit Award for Research and Technology scheme 
+(http://www.smartwise.org.uk ).
+
+
+* NEWS FLASH.
+
+Web designers using Macromedia’s 'Flash' web graphic animation 
+technology can now add text tags, allowing visually impaired users to 
+access animations with screen readers for the first time.
+
+The silicon valley company has launched Flash MX 
+(http://www.macromedia.com/software/flash ), a new version of the 
+software which developers can use to add descriptive text to animations 
+and user interfaces. And the latest version of the web browser 'plug-in' 
+software that allows people to view the animations, Flash Player 6, now 
+also supports the screen readers used by visually impaired people.
+
+“This will make more sites accessible to disabled people because up till 
+now there’s been this thing with parallel sites. It’s been either Flash or 
+HTML,” said Matthew Carey, a designer at design agency Text Matters 
+(http://www.textmatters.com ). Underlying the new tagging capability 
+are tools that allow developers to split animations into separate 
+sequences. The animation flows seamlessly when played, but also for the 
+first time allows the user to navigate with the browser ‘back’ button, an 
+essential feature for accessibility.
+
+GW Micro has become the first screen-reader software manufacturer to 
+respond to these developments, launching an upgraded version of its 
+'Window Eyes' product that is compatible with the new Flash tools. 
+
+
+* DOLPHIN ADDRESSES ACCESS PROBLEMS.
+
+Dolphin Computer Access, which runs an internet service provider aimed 
+at visually impaired people called dolphinaccess.net, this week issued a 
+statement to explain recent shortcomings in service brought to the 
+attention of E-Access Bulletin by frustrated readers.
+
+The ISP's parent company Dolphin Computer Access said its connection 
+and support service supplier Affinity Internet Holdings had been 
+contacted and was now dealing with the matter. Affinity were said to be 
+making additional ports available at the end of March and to be hiring 
+extra help-desk staff.
+
+"This means that we should see improvements in the next couple of 
+weeks," Dolphin's statement concluded. When contacted by E-Access 
+Bulletin, Affinity said the connection problems had been caused by a 
+"software glitch in the network" which it had cured this week.
+
+Dolphin did not rule out compensating its internet customers for the 
+problems they have experienced with the service for more than six 
+weeks. Many are signed up to an 'anytime' package costing 14.99 pounds 
+a month, but are only able to establish a connection during office hours, 
+equivalent to a 'worktime' service that costs 9.99 pounds. 
+Dolphinaccess.net product manager Mark Hill encouraged disgruntled 
+customers to email him on mark.hill@dolphinuk.co.uk
+
+One angry subscriber to the service who has had difficulty connecting 
+since January said: "From their perspective as a company, it is what they 
+need to say, but it doesn't address the fact that I've only had food in 
+because I've been able to shop from work."
+
+
+* GOVERNMENT BACKS COPYRIGHT EXEMPTION.
+
+The UK government has said it will support a private member's bill to 
+legalise the limited production of accessible digital versions of copyright 
+material on a non-profit basis, in its second reading today. Private bills 
+are brought to Parliament by backbench MPs, in this case the Labour MP 
+Rachel Squire.
+
+If it is voted through, the Copyright (Visually Impaired Persons) Bill will 
+enter the committee stage where amendments to its wording can be 
+made.
+
+Though the government backing will mean it has a better chance of 
+making it into the statute books it is no guarantee of success, warns 
+RNIB campaigns officer David Mann. "It is still a private member's bill 
+and will get pushed out if other business comes along."
+
+But if all goes well, sections of the proposed legislation that would allow 
+the distribution of single digital copies between qualifying individuals 
+could come into force as soon as July, Mann says. This would have 
+enormous immediate benefit, particularly for students, he says.
+
+
+* LAW TIGHTENS ON WEB ACCESSIBILITY.
+
+A new draft code of practice for the UK's Disability Discrimination Act 
+suggests that organisations may be legally obliged to provide websites 
+that are accessible to disabled people.
+
+The act itself makes no specific mention of web sites but the new code, 
+which offers guidance on sections of the act due to come into force in 
+October 2004, refers to e-commerce sites. It says: "An airline company 
+provides a flight reservation and booking service to the public on its 
+website. This is a provision of a service and is subject to the act." 
+
+According to observers, although the draft is not an infallible 
+interpretation of the act but the courts would almost certainly consider it 
+a guide. It could therefore help resolve the question of whether or not 
+websites would be subject to the same law that obliges service providers 
+to ensure that "a physical feature is not making their service impossible 
+or unreasonably difficult for disabled people to use".
+
+To read the code see:
+http://www.drc.org.uk/drc/InformationAndLegislation/Page331a.asp 
+
+
+* ACCESS STANDARDS REACH METADATA CORE.
+
+The 'Dublin Core' Metadata Initiative, an international forum committed 
+to developing metadata standards, has created an interest group to work 
+on accessibility issues.
+
+The group (http://dublincore.org/groups/access ) is intended to be an 
+open forum, drawing together participants from all countries and sectors, 
+especially "those with experience in the development and use of 
+metadata relating to accessibility". The group has set up a mailing list 
+where discussions will take place at. To join see:
+http://www.jiscmail.ac.uk/lists/dc-accessibility.html
+
+Dublin Core, named after the Dublin, Ohio venue of the initiative's first 
+workshop in 1995, recently submitted a proposal to the European 
+Commission for a network of groups to work on implementing metadata 
+standards across Europe. Since 1995 a further eight workshops have been 
+held in England, Australia, Finland, Germany, Canada and the US. There 
+are currently 53 organisational members of the initiative.
+
+
+* News in brief:
+
+* CREDIT CHANGE: In our February issue we incorrectly stated that 
+Jim Fruchterman developed the 'JAWS' computer screen reader, which 
+was in fact developed by Ted Henter, founder of Henter-Joyce and senior 
+consultant with Freedom Scientific. Fruchterman's many achievements 
+include the development of OpenBook, the world's leading scanning and 
+reading software for people with vision impairments. Our apologies to 
+both parties.
+
+* OLYMPIC ACHIEVEMENT: The Organising Committee for the 
+Athens Olympic Games in 2004 has informed E-Access Bulletin that the 
+games' official web site (http://www.athens.olympic.org ) conforms to 
+web accessibility standards. This is welcome news following the 
+notorious inaccessibility of the Sidney 2000 Olympics' site, which led to 
+a successful legal challenge (see E-Access Bulletin issues 9, 10, 11, 17 
+and 23).
+
+* RJ SCREENREADER: RJ Cooper and Associates, a small US assistive 
+technology firm, is developing a screen reader for both PC and 
+Macintosh that will cost just 99 dollars:
+http://www.rjcooper.com 
+
+[Section one ends.]
+
+
+* SECTION TWO - ‘THE INBOX’
+- READERS’ FORUM.
+- Please email all contributions or responses to inbox@headstar.com
+
+* FURTHER MATHS: Following our January piece on access to 
+mathematical computing, John Gardner, director of the Science 
+Access Project at the Department of Physics, Oregon State 
+University, writes in to provide some additional insights in this 
+field.
+
+Of his department's research, he says: "We're not quite finished 
+yet, but we do have methods by which blind and sighted people 
+can now share math and science information in electronic forms 
+that both can read and write. Ideally both sighted and blind people 
+will soon be using web formats such as HTML/MathML.
+
+"Until recently these weren't very useful even to sighted people but 
+that's about to change dramatically. We're facing the challenge of 
+catching up again by making MathML readable and writable by 
+blind people, but I'm fairly confident that we'll have that ability 
+within a few years. Then all barriers will be gone."
+
+Gardner and four of his students are due to present a paper to the 
+CSUN access conference in California next week 
+(http://www.csun.edu/cod) that will demonstrate how the students 
+"are able to do things that nobody even dreamed of before". The 
+paper is online at:
+http://www.csun.edu/cod/conf2002/proceedings/299.htm
+
+And a further paper on how to teach students with print disabilities 
+is at:
+http://dots.physics.orst.edu/~gardner/ScienceEd.html
+
+* EDUCATIONAL ENDEAVOUR: Juan Carlos Benito, a special 
+education teacher in Santander, Spain, says: "I think this is the 
+appropriate forum to share concerns and seek solutions for one of 
+my pupils who has cerebral palsy. Bruno is 18 years old and he is 
+now in the fourth grade of secondary school. He was born with 
+cerebral palsy and he therefore has to use constantly a wheelchair. 
+He cannot speak and he cannot control the movement of his limbs 
+– only his eyes.
+
+"With all these limitations, he has reached the described learning 
+level thanks to his high intelligence and to an education plan to 
+integrate people with disabilities in ordinary centres. The young 
+man needs every kind of help but, especially in the academic and 
+relational fields, he would acquire a new world of self-sufficiency 
+if he could have a technology that would enable him through the 
+movement of eyes, the cerebral waves or another means not 
+requiring to be manipulated, to use a computer.
+
+"Unlike blind pupils this young man has useful eyes but he does 
+not know how to take advantage of them. We would be extremely 
+grateful if we could obtain information on experiences, 
+technologies or organisations that could offer Bruno solutions." 
+
+
+* MAPPING DILEMMA: Finally, Kate Page of the government-
+funded conservation body English Nature says the organisation "is 
+all for accessible web sites but we seem to have become a bit stuck 
+on web mapping - the software used to produce this does not allow 
+for 'alt' tags. Does anyone have a solution?"
+
+[Section two ends.]
+
+
+* SECTION THREE: FOCUS
+- MUSIC.
+
+* CATCHING UP WITH ONE'S NOTES.
+by Derek Parkinson  derek@headstar.com
+
+Visually impaired people are often musically gifted: Louis Braille 
+himself was a talented player of the cello and keyboard instruments. But 
+curiously, at present, there is no system of music notation widely 
+accepted as a standard that meets the needs of blind people.
+
+While versions of Braille music have been developed, it took until 1997 
+to produce an internationally agreed standard and its adoption has been 
+slow.
+
+There are two likely reasons for this: low levels of general Braille 
+literacy and the intrinsic limitations of Braille music itself. “Only a fairly 
+small proportion of blind people use Braille. The RNIB has produced 
+statistics showing that only something like two per cent of young people 
+can read it,” says Alistair Edwards, a computer science lecturer at York 
+University who has researched alternative notations. “Braille music is 
+quite cumbersome: it’s a linear notation whereas conventional notation 
+uses the two dimensions of the page,” he says.
+
+In practice, this means that Braille notation forces the reader to absorb all 
+the information in a score or none at all. There is no flexibility allowing a 
+reader to switch between scanning for general features and concentrating 
+on particular details. “There are problems with grouping notes, for 
+example,” says Edwards. “In printed form this is done with phrase marks 
+– which are easy to pick out – but in Braille, you get something like 
+‘phrase begins here’, and ‘phrase ends here’ further along, and without 
+any warning.”
+
+For all the difficulties, notation is essential if visually impaired people 
+are to study music beyond school, or find a career composing scores for 
+film and television, for example. “If you want to go to the Royal College 
+of Music or study as an undergraduate, the level of detail you need can 
+only be provided by Braille music or some kind of notation,” says 
+Jacqueline Clifton, founder of Musicians In Focus 
+(http://www.musiciansinfocus.org ), an organisation that provides 
+training and support for visually impaired musicians.
+
+“We are concerned to promote the use of Braille music, but there is a 
+problem of availability: because it’s difficult to get hold of, there’s a 
+reluctance to learn it, particularly among young people,” she says.
+
+Despite this difficulty, Musicians In Focus has around 10 students 
+between the ages of 8 and 16 attending Saturday classes at the Royal 
+College of Music. “If you start them young it’s much easier,” Clifton 
+says. One of her 10 year-old students has become fluent in Braille music 
+after studying for one year, while a further 10 are studying at colleges of 
+higher education and two students are enrolled on undergraduate courses.
+
+Musicians In Focus aims to achieve recognition as a National Training 
+Organisation for arts, but in the meantime Clifton is concentrating on 
+launching an apprenticeship scheme in September next year. The plan is 
+to allow suitable students to become trainers themselves, offering tuition 
+in Braille music and helping new entrants master the technology.
+
+Blind musicians are highly dependent on technology for creating scores, 
+whether fluent in Braille music or not. At present, this is achieved by 
+recording a piece in a digital file format such as MIDI (Musical 
+Instrument Digital Interface) and editing it on a PC using sequencing 
+software and a screen reader.
+
+“This can produce very accurate scores, but has the drawback that it 
+reproduces everything from the MIDI file, so any inaccuracies or traits 
+are carried through and have to be edited,” says Clifton. Another 
+drawback to this approach is that it squeezes all the information from a 
+piece of music into very long lists of symbols – exactly the same kind of 
+problem that afflicts Braille music.
+
+At York University, Edwards is keen to rethink the approach to notation. 
+He recently supervised 'Weasel' 
+(http://www.benchallis.com/research.htm#Weasel), a research project to 
+develop an interface made up of a tactile surface overlaid on a touch-
+sensitive pad. Using the pad blind musicians are able to scan a piece for 
+general structure and then pick out aspects such as pitch or rhythm either 
+singly or in combination, or look at specific markings like fingering or 
+performance instructions.
+
+Instead of Braille music output, Weasel can produce either music or an 
+audio description of the passage selected. At present the Weasel interface 
+is used for reading music rather than writing it, although Edwards is 
+confident that it will be adaptable for writing. 
+
+But while the technology might not be a problem, funding further 
+projects may well be. Edwards is keen to build a kit version of Weasel 
+for music teachers but has found that projects of this sort often fall 
+outside the remit of funding bodies. “There’s no state funding so we have 
+to approach it like any other research project. The original Weasel 
+project was funded by the Engineering and Physical Sciences Research 
+Council, but we tend to fall between two stools. We’re seen as working 
+on something that’s more education than engineering or vice-versa.”
+
+But if, with enough badgering, the team does manage to ferret out the 
+funds, the weasel will live again.
+
+[Section three ends.]
+
+
+* SECTION FOUR: PRODUCT ROAD-TEST:
+- E-BOOK READERS.
+
+* TO VICTOR THE SPOILS?
+by Saqib Shaikh  ss@saqibshaikh.com
+
+With an exemption to allow blind people to send and receive copyrighted 
+digital material looking likely to become UK law (see news this issue), 
+the age of the accessible e-book could be just around the corner. But will 
+the software and hardware available to read the books be serviceable 
+enough to inspire this renaissance in reading?
+
+The DAISY (http://www.daisy.org ) consortium is likely to be the main 
+format the new breed of books will be distributed in, but we can expect a 
+multitude of specialised reading devices.
+
+Those who already own computers may opt for software players because 
+no extra equipment will be required. But those who cannot use 
+computers, or computer users who wish to listen to talking books on the 
+move, may opt for a hardware player.
+
+Each player will offer different ways of navigating such as skipping to 
+particular sections or pages, searching for keywords and ignoring certain 
+elements such as pictures, footnotes or side-bars.
+
+E-Access Bulletin has tested three prototype DAISY e-book readers: two 
+pieces of software and one hardware reader. They were LPPlayer 
+software from Dolphin Computer Access subsidiary Labyrinten Data AB 
+(http://www.labyrinten.se ); Victor Reader Soft software from Visuaide 
+(http://www.visuaide.com ) of Canada; and Victor Reader Pro, 
+Visuaide's latest portable machine for reading e-books on CD.
+
+LPPlayer has some built-in speech feedback, using an English voice with 
+a noticeable Scandanavian accent, as one might expect from a Swedish 
+company. While all dialogues are spoken, other parts of the program, 
+such as the menus, are not and you will need a screen reader to access 
+these. However, the non-talking parts are not crucial to the program's 
+operation.
+
+As well as playing the book, LPPlayer has the ability to show the text 
+and images as it is being read. The user can change the font and size of 
+text.
+
+LPPlayer offers a variety of methods of navigating a book. You can 
+either move through section by section; move one page or paragraph at a 
+time; or move through the book page by page, or jump to a particular 
+page. It is also possible to search the book for a particular word or 
+phrase. There is no method for manually fast forwarding or rewinding 
+the book however - you will need to navigate by paragraph instead.
+
+The program also allows you to set up to nine bookmarks, which you can 
+jump back to at a later time. Also, you can make audio notes (up to 60 
+seconds) or text notes (up to 80 characters) to record thoughts on 
+particular passages.
+
+Victor Reader Soft (VRS) contains all of the features of LPPlayer except 
+the ability to record audio notes, and many extra features as well.
+
+One of the major differences between VRS and LPPlayer is that the 
+former is almost completely self-voicing, using a male Canadian voice. 
+For those users who prefer to use their existing screen reader, VRS 
+provides scripts for some readers, including JAWS.
+
+VRS also provides a much more comprehensive set of navigation 
+features. It is easy to move by various amounts, skip in and out of 
+sections, and even get an overall outline of the document. VRS also has 
+full fast-forward and rewind features, as well as the ability to skip 
+forwards and backwards a specified amount of time. A history feature 
+keeps a record of the past five places in which you were listening to this 
+book, and you can skip back and forth through the history.
+
+VRS also provides many more features than LPPlayer for annotating a 
+book, including more bookmark facilities. It also provides more 
+information about the book, and allows the user to build up a 'bookshelf' 
+on their hard disk. There are many other extra features, such as greater 
+control over the reading voice and the display. Users may even create 
+their own user profiles to store their own personal preferences.
+
+Finally, one of the nicest features about VRS is its comprehensive help 
+system. The software includes a 'key describer' mode which is useful to 
+learn all the controls. There is also a getting started guide, a reference 
+guide and a quick reference guide. All three are provided in DAISY 
+format, allowing you to practice using the software as you read them.
+
+Finally, Victor Reader Pro, Visuaide's hardware DAISY e-book reader, is 
+similar to its software stablemate, but also has some extra features. The 
+unit itself is approximately 20 centimetres by 15 centimetres, and weighs 
+around a kilogram. It can either be used with a mains power supply or a 
+built-in rechargeable battery.
+
+The controls for Victor Pro are on the top of the unit. In the centre there 
+is a numeric keypad. The majority of the reading features are executed 
+from this keypad. Below the keypad there are play/stop and fast-
+forward/rewind keys. Running vertically down the right-hand-side, there 
+are a number of buttons for changing the way in which the unit reads, 
+while down the left there are more navigation and bookmark-related 
+keys. Like Victor Reader Soft it also has a key describer feature. This is 
+even more useful on this hardware unit for learning what the various 
+buttons do.
+
+The feature set is very similar to that of VRS. The unit uses a British 
+female voice to speak all prompts and messages. In addition to volume 
+and speed controls, Victor Pro also has a tone control. The other main 
+extra feature is the ability to play audio CDs. In fact, since you can use 
+many of Victor's e-book reading features with audio CDs, it makes for a 
+rather powerful CD player!
+
+On the other hand, Victor Pro does not have a display, and you cannot 
+make text notes with it since there is no keyboard, but you can still set 
+bookmarks and make other annotations. Other features absent in the 
+hardware device include support for multiple users and screen readers.
+
+My personal preference is for the Victor software and hardware. While 
+LPPlayer certainly had a wide set of features, I found Victor's interface 
+more intuitive, I liked the fact it was fully self-voicing, and the help 
+feature is excellent – one can never have too much help with technology!
+
+[Section four ends.]
+
+
+* SECTION FIVE: COMMUNICATIONS
+- REGULATION.
+
+* TOUGH BALANCING ACT FOR 'UBER-REGULATOR'.
+by Derek Parkinson  derek@headstar.com
+
+This week, legislation was enacted that lays the foundations for Ofcom, a 
+new regulatory body for the entire communications sector that will have 
+an enormous impact on the lives of disabled people. Ofcom will be 
+tasked with ensuring that new communications technologies are 
+accessible to all. But recent experience in the US has shown that even a 
+forward-thinking regulator may not be enough to get disabled people the 
+services they deserve.
+
+In the UK, a new Communications Act has received its final reading in 
+the Commons and is in line for Royal Assent. The first part of the act 
+lays down the responsibilities of the new ‘uber-regulator’ Ofcom, which 
+draws together the duties previously discharged by the telecoms 
+regulator Oftel, the Radiocommunications Agency, the Broadcasting 
+Standards Commission, the Independent Television Commission, the 
+Advertising Standards Commission, the Advertising Standards Authority 
+and the BBC Board of Governors. The second part of the act, which 
+formalises Ofcom’s aims, scope and powers, is not expected to become 
+law before the second half of 2003.
+
+The new regulator aims to reflect the growing convergence between 
+communications technologies and will operate within an extremely broad 
+rubric, combining the licensing and consumer protection role of its 
+predecessor bodies with enhanced powers to enforce competition 
+legislation.
+
+The responsibilities of communications service providers have been 
+sketched out in a separate government white paper 
+(http://www.communicationswhitepaper.gov.uk ) but these have not 
+given campaigners for disabled access much to cheer about. The 
+government commits itself ‘to ensure everybody has easy access to 
+communications services, either free at the point of delivery - in the case 
+of public service broadcasting - or at an affordable price - in the case of 
+other communications services’; but this commitment will have to be 
+balanced against its role to encourage competition, which led to 
+controversial results in the case of the old telecoms watchdog Oftel.
+
+Oftel was proud of its so-called ‘regulation with a light touch’, which 
+loosely translated as intervening only when market forces were seen to 
+fail. Oftel’s critics often accused the regulator of a ‘do nothing’ 
+approach, or of doing too little, too late.
+
+It is too soon to tell how well Ofcom will balance its various 
+responsibilities. But there are already signs that forcing broadcasters to 
+make content available to the visually impaired by including audio 
+descriptions, for example, is only half the battle.
+
+Peter Wilkins of the National Federation of the Blind of the UK 
+(http://www.users.globalnet.co.uk/~nfbuk) expresses concern that even if 
+broadcasters provide audio descriptions of content, many blind users in 
+the UK will be unable to use them: “By our estimates, only 45 people in 
+the whole of South East England have the necessary technology. Audio 
+descriptions are now available for digital terrestrial services, but you 
+need a set-top box to access them. The question is – who pays for or 
+subsidises them? The RNIB can’t really afford to, which leaves the 
+manufacturers or the government."
+
+In fact, there are other funding candidates: service providers such as Sky 
+have received state subsidies to promote low-cost set-top boxes as part of 
+the government drive to stimulate the take-up of digital TV. Wilkins is 
+unimpressed by their efforts, however: “Their electronic guides have 
+menus that list programmes with audio descriptions, but a blind person 
+can’t access the guide!” he says.
+
+Wilkins’ concerns were echoed by the RNIB: “We estimate it will cost 
+about 3 million pounds to produce 20,000 audio modules. [Government 
+minister] Kim Howell has said that the Department of Culture, Media 
+and Sport is determined to increase the take-up of these things, but how? 
+– the DCMS doesn’t have a spare 3 million pounds, so it will have to be 
+extracted from the Treasury,” says a spokesman. 
+
+If the US is any indicator of what the UK can expect to experience 
+further down the line, Ofcom may have its work cut out ensuring that 
+broadcasters stick to their obligations in providing even a statutory 
+minimum level of access. Last month the American Council of the Blind 
+(ACB) reacted angrily after a group of US television, video and cable 
+companies tried to stall Federal Communications Commission 
+regulations that would make audio captions compulsory for a small 
+proportion of TV content in the US.
+
+ACB president Christopher Gray called on the National Association of 
+Broadcasters, the National Cable Telecommunications Association and 
+the National Motion Picture Association of America to "stop this 
+senseless attack on the needs and rights of blind people". Gray’s reaction 
+followed a move by the broadcasters to block regulations that require top 
+commercial networks to provide 50 hours per quarter of prime time 
+and/or children’s programming with video description.
+
+The US regulations, which also set requirements on emergency broadcast 
+information, have been available for consultation since the end of 2000. 
+However, one month before they were due to come into effect the 
+broadcasters jointly filed a petition to the District of Columbia Appeal 
+Court, claiming the regulations are inconsistent with the 
+Communications Act of 1934, impose a scheme of ‘compelled speech’ 
+on the petitioner's members, and are inconsistent with the first 
+amendment of the US Constitution. Surprisingly, they were joined by the 
+National Federation of the Blind, which claimed in a separate filing that 
+the rule is arbitrary, capricious and not in accordance with the law. 
+
+It is worth noting that this debate is about more than access to 
+entertainment. In April 2000, FCC chairman William Kennard supported 
+the amendments to the 1996 Communications Act by citing the case of 
+Sharon McLawhorn, a deaf woman who missed a flood warning 
+broadcast on local networks because it was not captioned properly, and 
+was stranded for 24 hours before rescue arrived.
+
+[Section five ends.]
+
+
+HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail
+eab-subs@headstar.com with 'subscribe eab' in the subject header. You 
+can list other email addresses to subscribe in the body of the message. 
+Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2002 Headstar Ltd. http://www.headstar.com
+ISSN 1476-6337
+The Bulletin may be reproduced in full as long as all parts including this 
+copyright notice are included. Sections of the report may be quoted as 
+long as they are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address http://www.e-
+accessibility.com is also cited.
+
+PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  phil@headstar.com
+Senior Reporter - Derek Parkinson  derek@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial Advisor - Kevin Carey  humanity@atlas.co.uk 
+
+[Issue ends.]

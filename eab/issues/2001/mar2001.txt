@@ -1,0 +1,757 @@
+E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site:
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for 
+the Blind
+<http://www.rnib.org.uk>
+the National Library for the Blind
+<http://www.nlbuk.org>
+and the Guide Dogs for the Blind Association
+<http://www.guidedogs.org.uk>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts.]
+
+ISSUE 15, MARCH 2001.
+
+IN THIS ISSUE:
+Section One: News
+- Still time for education bill; Telecoms report 
+lays down the law; New Acrobat limbers up; 
+Researchers look into tongue vision; Guide 
+dogs win technology award; Gloves for 
+signing – part two; Browser launches through 
+portal.
+
+News in brief: Refreshable braille, Sky 
+programme guide, Events.
+
+Section Two: Analysis.
+- Copyright.
+
+Section Three: Adventure.
+- Polar exploration.
+
+Section Four: Media regulation.
+- Convergence.
+
+
+[Contents ends.]
+
+
+SECTION ONE - NEWS.
+
+STILL TIME FOR EDUCATION BILL.
+
+New government legislation to improve 
+access to education is set to scrape though 
+before parliament is dissolved for a General 
+Election.
+
+The Special Educational Needs and Disability 
+Bill had its second reading in the House of 
+Commons on Tuesday 20 March. It has now 
+proceeded to committee stage, where final 
+amendments can be made.
+
+According to Olga Miller, head of the 
+children's policy unit at RNIB, the committee 
+is likely to push the legislation through as 
+quickly as possible. Throughout its passage 
+compromises have been made on both sides 
+to speed its progress, according to Miller.
+
+The bill is widely criticised by representatives 
+of the disabled for not requiring schools to 
+buy equipment and not containing any 
+reference to accessible information. However, 
+RNIB parliamentary officer Caroline Ellis 
+says it establishes guidelines for schools to 
+follow to provide disabled students "access to 
+the curriculum", which may in some cases 
+mean access to technology.
+
+Such requirements do have "real teeth", Ellis 
+says. Different modes of redress are open to 
+students or parents who feel adequate access 
+has not been provided, though its form 
+depends on the age of the student. A new 
+local-authority run tribunal process is planned 
+for students under sixteen.
+
+Litigation will be another means of seeking 
+redress, but it will remain an expensive 
+process. But, according to Ellis, the Disability 
+Rights Commission would have the power to 
+support some cases. Ellis said that 
+compensation awards made under the new 
+legislation are likely to be practical rather 
+than financial.
+
+As the Bill reached committee this week, the 
+government announced a separate package of 
+10 million UK Pounds in new funding for 
+communication aids for children with special 
+educational needs, including voice 
+recognition systems and hand-held spell-
+checkers.
+
+For Department for Education and 
+Employment consultation on the subject of 
+access see: 
+http://www.dfee.gov.uk/consultations/
+
+
+TELECOMS REPORT LAYS DOWN THE 
+LAW.
+
+A report explaining the new rights disabled 
+people have when they deal with telephone 
+companies has been released by Ricability, an 
+organisation specialising in providing 
+research for disabled people.
+
+The new rights will apply from October 2001, 
+having been put forward in the 
+Telecommunications (Services for Disabled 
+Persons) Regulations late last year.
+
+New telecoms access rights include free 
+priority repair services; the option to 
+nominate someone that can deal with phone 
+bills for them; and customer information in a 
+form that can be read by the visually 
+impaired. The report also touches on issues 
+surrounding access to digital telecoms 
+devices.
+
+Bob Twitchin, recently appointed chairman 
+of the Telecommunications for Disabled and 
+Elderly People (DIEL), a committee set up by 
+parliament to advise the telecoms regulator 
+Oftel, said: "DIEL commends Ricability for 
+it's work along with the network operators 
+that helped fund the project with DIEL and 
+Oftel." For more information about on DIEL 
+see: http://www.acts.org.uk/diel
+
+The government is currently considering the 
+nature of a single regulator for telecoms and 
+media services called Ofcom into which Oftel 
+will be merged. The RNIB recently made a 
+response to these proposals: see section three 
+of this issue of E-Access Bulletin.
+
+
+NEW ACROBAT LIMBERS UP.
+
+A new version of Acrobat is due for release in 
+April, with much being made of its enhanced 
+access capabilities. 
+
+The most significant addition is the addition 
+of an automated function that can assess the 
+accessibility of pages it produces. Other new 
+functions include keyboard shortcuts, high 
+contrast viewing, zoom capabilities and the 
+generation of a summary of a document's 
+structure when imported from Microsoft 
+Office.
+
+Of course, the decision to produce an 
+accessible document will continue to rest 
+entirely with the authors of PDF files. 
+Authors are under no legal obligation to 
+provide accessible versions of their file (see 
+section two, this issue).
+
+For more information on the accessibility of 
+Adobe Acrobat 5.0, which is due for release 
+in April, see: http://access.adobe.com
+
+
+RESEARCHERS LOOK INTO TONGUE 
+VISION.
+
+Scientists at the University of Wisconsin-
+Madison in the US are working on a device to 
+allow a person to 'see' using their tongue.
+
+The device works by sending electrical 
+signals from a video camera to a matrix of 
+minute electrode 'stimulators' lying on the 
+surface of the tongue. The concept was 
+devised by Professor Paul Bach-y-Rita who 
+discovered people could feel shapes with 
+their tongue with a similar resolution as they 
+can with their fingers.
+
+To learn more about the tongue display 
+device see the home page of on of the tactile 
+tongue device's developers Kurt Kaczmarek:
+http://kaz2.med.wisc.edu/Publicity/FAQ.html
+
+
+GUIDE DOGS WIN TECHNOLOGY 
+AWARD.
+
+The Guide Dogs for the Blind Association's 
+website at http://www.guidedogs.org.uk (see 
+also e-access bulletin October 2000) has won 
+the 'Charity Website of the Year' award or 
+organised by publishing companies Popular 
+Communication and Charity Times. Among 
+the seven nominees for the award were non-
+profit organisations including Action for 
+Blind People.
+
+Katy Roberts of Guide Dogs for the Blind 
+Association believes the prize was won 
+thanks to its easy navigation, accessibility and 
+its unwillingness to compromise on visual 
+appeal.
+
+Treea Cracknell, a web producer at Synergy, 
+the site's designer, said, "Our brief was it had 
+to be visually exciting and we didn't realise 
+that not all visually impaired people weren't 
+blind and preferred graphical sites."
+
+Roberts said that she thinks at least one of the 
+judges was particularly impressed by its 
+adaptability to the needs of the user including 
+sighted ones.
+
+
+GLOVES FOR SIGNING – PART TWO
+
+Following our appeal for information on a 
+glove used for deafblind signing (E-Access 
+Bulletin, February 2001) Jim Valk, an 
+Adjustment Counselor at the Rehabilitation 
+Center for the Blind, Daytona Beach, Florida 
+writes in with some personal recollections of 
+the method.
+
+"I recall that in the 1960s I worked with a 
+deaf-blind gentleman who used that method", 
+Valk says. "I do not know where he learned it 
+but I vividly remember the glove he used.  It 
+was a fairly light cotton glove, and the letters 
+had been inscribed by hand with a pen.  It 
+appeared that the positions of the letters 
+related to the knuckled and finger bones and 
+to some extent also the palm of his hand.
+
+"Walter was not deaf from birth, thus he was 
+able to respond vocally.  I have had virtually 
+no experience communicating with 
+congenitally deaf-blind folks, but believe that 
+the glove method, as I described it, might be 
+less satisfactory unless they had mastered 
+speech. 
+
+"I have no idea if these gloves are sold, but it 
+appears that plain cotton gloves (white, to 
+allow for visible lettering) are perfectly 
+practical for adaptation. I believe that 
+accomplished communicators using this 
+method would not need to use the glove, and 
+such communication would afford a really 
+intimate sense of communication. 
+Communicating experiences and ideas by 
+touch directly with another human is beyond 
+the range of most people's experience, but it 
+surely made me feel very close and very loyal 
+to Walter."
+
+
+BROWSER LAUNCHES THROUGH 
+PORTAL.
+
+A free talking Internet browser for visually 
+impaired people has been launched by 
+WeMedia, a US company that runs a portal 
+for disabled people.
+
+Though recognising that it is an admirable 
+first effort, people who have tried it complain 
+it is too verbose and the speech is too slow 
+for someone who needs to use voice synthesis 
+regularly. Among its more irritating foibles is 
+to say, "I will now read the title for you," 
+before reading a title.
+
+The software can be downloaded from 
+http://www.wemedia.com
+
+[Section One ends.]
+
+
+NEWS IN BRIEF.
+
+REFRESHABLE BRAILLE: The Adult 
+Services Programme in British Colombia 
+(http://www.aett.gov.bc.ca/adultspecialed/) is 
+keen to hear from developers and users of 
+refreshable Braille devices as part of an 
+extensive trial of refreshable technology. To 
+join a related discussion list send an email 
+message saying 'subscribe brl-net' to 
+marjordomo@bc.cx
+
+SKY PROGRAMME GUIDE: BSkyB, the 
+pay television company, has introduced a 
+programme guide that is delivered by email, 
+promising greater accessibility than the 
+electronic guide delivered to the television. 
+To subscribe email diginews-epg-
+subscribe@yahoogroups.com
+
+EVENTS: On 18 April a seminar entitled 
+'Maximum access: missing markets in digital 
+media' is being held in London. For more 
+information email: 
+tom.Campbell@nmk.co.uk
+Then on 29 March the Local Government 
+Improvement and Development Agency 
+(IDeA) is hosting a conference tackling 
+technology access issues faced by local 
+councils. For more information email: 
+hilary.tanner@idea.gov.uk
+
+
+SECTION TWO: ANALYSIS.
+- COPYRIGHT.
+
+BLIND COPYING.
+By David Mann  david.mann@rnib.org.uk
+
+In March, the UK government's Patent 
+Office, part of the Department of Trade and 
+Industry (DTI), finally published its long-
+awaited consultation paper called 'Exception 
+to copyright for the benefit of visually 
+impaired people'.
+
+The document explores options for changes 
+in the law affecting the production of 
+alternative formats such as digital files for 
+copyright works in all situations - at home, in 
+the workplace, in school or library. It covers 
+activities by individuals and small 
+organisations as well as by larger agencies.
+
+Currently, under the Copyright Design and 
+Patents Act 1988 blind and visually impaired 
+people are in a doubtful legal position when 
+downloading information from the Internet 
+and turning it into braille and other alternative 
+format media, even when the information is 
+in the public domain and even when it is 
+provided by public bodies and utilities. The 
+very act of digital capture of the material, 
+even for the sole purpose of making it 
+accessible, could be deemed illegal unless the 
+rights holders specifically allows it.
+
+The government appears to be proposing a 
+two-pronged solution under which nobody 
+would need to seek permission for the 
+creation of single accessible format versions 
+for identifiable individuals. Where a multiple 
+copy licence is not available, the consultation 
+paper recommends that people should not be 
+prevented from making multiple copies.
+
+The initial response of the RNIB is to decry 
+any reliance on licences. It feels that not only 
+is it inappropriate to license what should be a 
+basic right, but the fact that a licence might 
+be available does not mean it would be on 
+satisfactory terms.
+
+As E-Access Bulletin went to press, the 
+Publishers' Licensing Society 
+(http://www.pls.org.uk) and a number of 
+other groups moved to partially pre-empt any 
+ultimate legislation on copyright access by 
+releasing the 'VIP guidelines', which waive 
+their right to be asked for permission when 
+single accessible format versions of 
+copyrighted material are being produced for 
+identifiable individuals.
+
+This is an extremely positive development, 
+and will be of particular benefit to small 
+voluntary groups and libraries, even though it 
+has as yet no statutory backing and individual 
+rights owners retain the right to opt out.
+
+The digital access charity HumanITy 
+(http://www.humanity.org.uk) has welcomed 
+the government consultation process as 
+"eminently superior to reliance on agreements 
+with individual authors and publishers".
+
+However, HumanITy's director Kevin Carey 
+said it was "a matter of deep regret that such 
+access has not been included in the European 
+Union Copyright Directive still under 
+discussion". And he added: "As they 
+currently stand, discussions between 
+alternative format producers and the licensing 
+regime have produced a proposed protocol 
+more onerous than that which currently 
+operates and so the consultation paper is 
+unduly optimistic".
+
+Carey says that much confusion has arisen 
+between the fundamental right to access 
+information and the occasional discretionary 
+privilege of accessing it for free.
+
+The essence of the latter point is that, where 
+sighted people must pay to access 
+information, there is no reason why visually 
+impaired people should not pay as well, 
+although they should perhaps pay less, since 
+some of a work's value (for example book 
+illustrations) is lost in translation to other 
+formats.
+
+To avoid endless discussions over every 
+copyright work, Carey says the government 
+should establish guidelines on the price to be 
+paid for access via alternative formats. 
+Authors could waive this if they wished.
+
+Carey says fears among copyright holders 
+that alternative format production will lead to 
+an increase in pirating of material are not 
+backed up by evidence. "On this basis, 
+technical blocks [to alternative format files] 
+are a tedious, injurious and insulting 
+irrelevance," he says.
+
+Developments in the UK are set against an 
+equally confused international background.
+
+In December 2000, a delegation representing 
+the World Blind Union approached the World 
+Intellectual Property Organisation to ask it to 
+encourage the introduction of provisions for 
+blind and partially sighted people into the 
+copyright legislation of all countries. The 
+representatives also explained that an 
+accumulation of national provisions was in 
+itself inadequate, and an international 
+arrangement needed to be reached if the 
+electronic age was to bring its full potential to 
+all.
+
+On the first of these points, some progress 
+was made, with WIPO pledging to examine 
+ways of encouraging countries, particularly 
+developing countries, to introduce appropriate 
+measures into their national legislation.
+
+Less comfort was offered on the international 
+front. WIPO treaties do not enshrine access 
+rights, and any change to this approach would 
+have to be agreed unanimously by all 
+signatories. This would clearly be an 
+extremely tall order, and the delegation's 
+leaders concluded that the best way forward 
+would be to prepare proposals for new 
+international 'understandings' for WIPO to 
+consider backing as a starting-point.
+
+The delegation also drew attention to the 
+importance of audio-description of films and 
+television programmes for blind and visually 
+impaired people, and of ensuring that 
+provisions on moral rights did not allow 
+performers to object to this practice per se, 
+while retaining the right to object to low 
+standard audio-description if it distorted their 
+performance.
+
+WIPO is currently negotiating a treaty on 
+audio-visual rights, which includes an 'agreed 
+statement' on what could constitute distortion 
+of a performer's work. The organisation 
+claims this means artists cannot object to an 
+audio-described version of their work. 
+However, the World Blind Union regards it 
+as a fudged outcome which will disappoint 
+those fighting for the rights of blind and 
+visually impaired people in a rapidly-
+changing technological environment.
+
+* Additional reporting by Dan Jellinek
+
+* The UK government consultation document 
+is at:
+http://www.patent.gov.uk/consultations/visual
+ly_impaired/index.htm
+or email teresa.arnesen@patent.gov.uk or 
+telephone: 020 7596 6513
+
+
+[Section two ends.]
+
+
+SECTION THREE: ADVENTURE.
+- POLAR EXPLORATION.
+
+JOURNEY TO THE EDGE OF THE WEB.
+By Phil Cain  phil@headstar.com
+
+Zimbabwe-born Miles Hilton-Barber's recent 
+bid to be the first blind man to reach the 
+South Pole showed how the Internet could be 
+used to involve people in one man's 
+adventure. But his journey also showed how 
+old-fashioned technologies, ranging from 
+two-way radio to cosmetic mirrors, were still 
+very much needed to push the boundary of 
+the Internet to ends of the earth.
+
+Challenging Horizons 
+(http://www.rnib.org.uk/horizons/), a section 
+of the RNIB site dedicated to derring-do, 
+provided news and background information 
+and a place to email the expedition team. 
+During the expedition itself around 5,000 
+people a month tracked Hilton-Barber's 
+southerly progress online.
+
+The usage levels were given a helping hand 
+by strong traditional media interest in the 
+expedition, which the site's organisers tried to 
+foster. Among the eclectic range of 
+organisations to cover the story were The 
+Sun, The Mirror, The Guardian, Channel Five 
+and Christian World, together with a host of 
+web sites dedicated to exploration. According 
+to the expedition's PR manager the media 
+campaign was helped by the ability to send 
+weekly interview questions to Hilton-Barber.
+
+The site also offered the chance to donate 
+cash to the expedition online, a feature an 
+unusually high proportion of visitors people 
+used. Most sites find it extremely difficult to 
+instil enough confidence to enter credit card 
+details online. Puttick believes visitors to the 
+RNIB site were particularly willing to give 
+because of the relatively high level of trust 
+instilled by the RNIB and the extreme nature 
+of Hilton-Barber's challenge.
+
+Perhaps the most surprising, given the slick 
+Internet publicity, was that the technology 
+used by the explorers themselves was 
+relatively crude. Hilton-Barber said that the 
+most useful piece of guidance equipment 
+were the ends of his ski-tips, which he could 
+use to sense the nature of the terrain 
+immediately ahead of him. He also has stories 
+of an aircraft landing system relying on local 
+women marking the edge of a blue-ice 
+runway with cosmetic mirrors while a man on 
+a skidoo shouted wind speeds to a radio 
+operator in a tent.
+
+The team had originally hoped to be able to 
+communicate directly with home base using a 
+satellite link-up, but unfortunately the 
+Inmarsat satellite service they planned to use 
+was not in service. So unlike sailors, like 
+Hilton-Barber's brother who recently became 
+the first blind man to sail solo from the US to 
+Australia or round-the-world yachtswoman 
+Ellen MacArthur, the team was unable to 
+stream live video footage of the trip.
+
+Also, without a direct satellite linkup, emails 
+submitted to the web site could not be sent to 
+the Antarctic team directly. Instead they had 
+to be forwarded to the expedition's coastal 
+base in Patriot Hills where they were relayed 
+over short wave radio. The radios were also 
+used to send back temperature and mileage 
+updates for navigation purposes and for 
+inclusion on the site.
+
+Hilton-Barber said they had also looked at 
+various pieces of hardware to make 
+communication between team members 
+easier, among them an avalanche detector and 
+a miniaturised microphone and earpiece 
+system. In the end, though, they all turned out 
+to be "too finicky", so the team turned back to 
+large old-fashioned two-way radios.
+
+In the end Hilton-Barber was forced to 
+abandon his attempt on the pole before he 
+made it because he succumbed to frost bite of 
+the fingers. But this has not stopped people 
+sending hundreds of emails of congratulations 
+through the web site, Puttick says.
+
+Ultimately the plan is to replace the polar 
+expedition information featured on the 
+Challenging Horizon's portion of the RNIB 
+web site with other exploits of this nature. 
+Hilton-Barber looks set to take centre stage 
+once again, with plans to take part in the 200 
+kilometre Silk Run in China, a marathon 
+following the course of the Silk Road. That is 
+unless someone can come up with any more 
+daring ideas.
+
+[Section three ends.]
+
+
+SECTION FOUR: MEDIA REGULATION.
+- CONVERGENCE.
+
+COMMUNICATIONS WHITE PAPER.
+By Phil Cain  phil@headstar.com
+
+The UK government's recent communications 
+white paper "fails to deliver adequate 
+consideration to the needs and interests of 
+blind and partially sighted people, and of 
+older and disabled people in general," 
+according to an official response published by 
+the RNIB.
+
+Though it supports the general idea of a 
+single regulatory body, the RNIB concludes 
+that the regulator proposed in the bill, Ofcom, 
+would not have the clout to make sure the 
+necessary level of access is available. The 
+institute criticises the bill's failure to employ 
+primary legislation and licence conditions to 
+ensure access compliance, saying this 
+weakness would mean universal access to 
+post-switchover public service broadcasting 
+and the Internet will not be met.
+
+Disappointment was also expressed that the 
+bill did not contain the means to enforce Web 
+Accessibility Initiative (WAI) standards even 
+on the government's own web sites. The 
+RNIB recommends government sites be 
+required to meet at least level one of WAI 
+web content accessibility, the lowest grade 
+handed out by WAI. It also says the 
+government should legislate to ensure all 
+communications companies with web 
+presences to do the same.
+
+Another criticism levelled at the bill is that it 
+has a limited view of access difficulties. 
+Section 5.2.1 of the bill says "everyone now 
+has access to radio and television 
+programmes," a statement the RNIB believes 
+is untrue. To help improve the situation it is 
+recommending that a future bill requires 
+digital television providers to dedicate a 
+channel to audio descriptions.
+
+The RNIB also takes exception to the bill's 
+propagation of "the myth that the cheapness 
+of ICT technology equates currently to full 
+accessibility and usability". It points out that 
+the inaccessibility of mobile phones and set-
+top boxes means those they exclude miss out 
+on subsidised access. The RNIB suggests 
+Ofcom helps visually impaired and blind 
+people make better choices of technology by 
+encouraging ISPs and digital television 
+providers to promote their services 
+specifically to these people.
+
+According to the RNIB it is economically or 
+legally tenable to exclude people from voting 
+on-line or receiving medical advice or vital 
+health information through an interactive 
+digital television. It would ultimately be 
+cheaper to provide these services online. It 
+would also be unfair, says the RNIB, if 
+sighted people registering tax returns or civic 
+licences on-line receive financial rewards 
+denied to other who cannot access these 
+online facilities.
+
+The proposed powers for Ofcom over 
+electronic programme guides, which help 
+people navigate digital television services 
+with hundreds of channels, was said to ignore 
+problems they cause for visually impaired 
+people. Ofcom must enforce clear guidelines 
+on how such information is presented for 
+visually impaired people. The white paper 
+also ignores the fact that radio receivers will 
+become more complex and more inaccessible 
+to visually impaired people too. The RNIB 
+called on Ofcom to ensure they were 
+accessible to the visually impaired.
+
+The white paper is online at:
+http://www.communicationswhitepaper.
+gov.uk
+
+[Section four ends.]
+
+
+HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-
+mail eab-subs@headstar.com with 'subscribe 
+eab' in the subject header. You can list other 
+email addresses to subscribe in the body of 
+the message. Please encourage all your 
+colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe 
+eab' in the subject header.
+
+Please send comments on coverage or leads 
+to Dan Jellinek at: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. 
+http://www.headstar.com The Bulletin may 
+be reproduced in full as long as all parts 
+including this copyright notice are included. 
+Sections of the report may be quoted as long 
+as they are clearly sourced as 'taken from e-
+access bulletin, a free monthly email 
+newsletter', and our web site address 
+http://www.e-accessibility.com is also cited.
+
+PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  
+phil@headstar.com
+Reporter - Tamara Fletcher  
+tamara@headstar.com
+Editorial Advisor - Kevin Carey  
+humanity@atlas.co.uk 
+
+[Issue ends.]

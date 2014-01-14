@@ -1,0 +1,63 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:25 2008 __
+
+Input file: ../eab/issues/2007/feb2007.txt
+
+Warning: file already exists: ../eab/issues/2007/feb2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: feb | index: 2 | year: 2007
+URLs, prev: ../2007/jan2007.html | next: ../2007/mar2007.html
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 46.
+Found ++, heading 2: Issue 86 Contents.
+>> FOUND 2:  | 01:  | E-Learning Company Appeals Against Inaccessibility Ruling
+>> FOUND 2:  | 02:  | State of Texas Sued Over Inaccessible Software
+>> FOUND 2:  | 03:  | Teaching Resource Planned for Northern Ireland
+>> FOUND 2:  | 04:  | Tests for Live Digital Display Reader
+>> FOUND 2: News in Brief:  | 05:  | Adjustments Policy - e-learning paper; 06: Museum
+OK, News in brief
+Found: Adjustments Policy - e-learning paper | ; |  06: Museum
+>> FOUND 2: Recognition - Jodi award nominations;  | 07:  | View Safe - chip and pin
+Found: Recognition - Jodi award nominations;  | 07:  | View Safe - chip and pin
+>> FOUND 2: security device;  | 08:  | Burning Plans - audiogame maker delayed.
+Found: Burning Plans - audiogame maker delayed | . | 
+>> FOUND 2:  | 09:  | Open Appeal - open source compatibility question; 10: Domestic
+>> FOUND 2: List - appeal for household items list;  | 11:  | Soundclash Solution -
+Found: List - appeal for household items list;  | 11:  | Soundclash Solution -
+>> FOUND 2: blocking background noise;  | 12:  | Tinier URL - automatic web address
+Found: blocking background noise;  | 12:  | Tinier URL - automatic web address
+>> FOUND 2:  | 13:  | A Career Ladder With Broken Rungs: When Sam Latif was one of
+>> FOUND 2:  | 14:  | Taking Testing Off The Back Burner: Mel Poluck looks at the
+Warning line 91: expected [Contents ends].
+$toc_count=17
+> ITEM 2:  01:  | E-Learning Company Appeals Against Inaccessibility Ruling.
+Warning: not found a 'contents' match: E-Learning Company Appeals Against Inaccessibility Ruling.
+> ITEM 2:  02:  | State of Texas Sued Over Inaccessible Software.
+Warning: not found a 'contents' match: State Of Texas Sued Over Inaccessible Software.
+> ITEM 2:  03:  | Teaching Resource Planned for Northern Ireland.
+Warning: not found a 'contents' match: Teaching Resource Planned For Northern Ireland.
+> ITEM 2:  04:  | Tests for Live Digital Display Reader.
+Warning: not found a 'contents' match: Tests For Live Digital Display Reader.
+Warning, replacing non-ASCII character 237 (line 230, 62): "To help them capture the image of the display," said Igone Id&#237;goras
+
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  Details of types of 'reasonable adjustments'
+> ITEM 1:  06:  | : |  All technologies enabling greater access to
+> ITEM 1:  07:  | : |  A device to reduce "shoulder surfing" when keying in
+> ITEM 1:  08:  | : |  The release of new software allowing people to
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 327.
+> ITEM 1:  09:  | : | 
+> ITEM 1:  10:  | : |  Janet John, housing officer at RNIB Wales, is
+> ITEM 1:  11:  | : |  Roger Wilson-Hinds, director of
+> ITEM 1:  13:  | : |  In response to John Loader's recommendation in our
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  13:  | A Career Ladder With Broken Rungs
+Warning: not found a 'contents' match: A Career Ladder With Broken RungsBy Derek Parkinson.
+Found ++, heading 2: Section Four: Focus
+> ITEM 2:  14:  | Taking Testing Off The Back Burner
+Warning: not found a 'contents' match: Taking Testing Off The Back BurnerBy Mel Poluck.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 3.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 627.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 633.

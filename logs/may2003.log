@@ -1,0 +1,51 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:04 2004 __
+
+Input file: ../eab/issues/2003/may2003.txt
+
+Warning: file already exists: ../eab/issues/2003/may2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: may | index: 5 | year: 2003
+URLs, prev: ../2003/apr2003.html | next: ../2003/jun2003.html
+Found ++, heading 2: ISSUE 41 CONTENTS.
+>> FOUND 2:  | 01:  | Denial of access
+>> FOUND 2:  | 02:  | School test for remote control support
+>> FOUND 2:  | 03:  | 'A-sites' gateway goes live
+>> FOUND 2:  | 04:  | Survey finds patchy access awareness in government
+>> FOUND 1: News in brief:  | 05: Exhibiting excellence - museum award; 06:
+>> FOUND 2:  | 08:  | DISCworld - Suffolk smart-cards; 09: Driving test - European
+>> FOUND 2: skills licence;  | 10:  | Debate catalyst - access theory.
+OK, News in brief
+Found: Debate catalyst - access theory | . | 
+>> FOUND 2:  | 11:  | Window onto the world: Jemima Kiss talks to the disability rights
+>> FOUND 2:  | 12:  | Access all areas: The past 12 months have seen many
+Warning line 50: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | DENIAL OF ACCESS.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | SCHOOL TEST FOR REMOTE CONTROL SUPPORT.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | 'A-SITES' GATEWAY GOES LIVE.
+Found 'contents' match: 2.
+> ITEM 2:  04:  |  SURVEY FINDS PATCHY ACCESS AWARENESS IN
+Warning: not found a 'contents' match:  Survey Finds Patchy Access Awareness Ingovernment.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  The National Maritime Museum
+> ITEM 1:  06:  | : |  The RNIB's annual 'Techshare' access
+> ITEM 1:  07:  | : |  A pressure group which aims to
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Geoff Doggett, project officer at Mid Suffolk
+> ITEM 1:  10:  | : |  Jorge Fernandes of the Portuguese vision
+Found ++, heading 2: SECTION THREE: INTERVIEW
+> ITEM 2:  11:  | WINDOW ONTO THE WORLD
+Warning: not title-casing possible HTML:
+  11: WINDOW ONTO THE WORLDby Jemima Kiss  <a href="mailto:jemimakiss@hotmail.com">jemimakiss@hotmail.com</a> .
+Warning: not found a 'contents' match: WINDOW ONTO THE WORLDby Jemima Kiss  <a href="mailto:jemimakiss@hotmail.com">jemimakiss@hotmail.com</a> .
+Found ++, heading 2: SECTION FOUR: ROUND-UP
+> ITEM 2:  12:  | ACCESS ALL AREAS.
+Warning: not title-casing possible HTML:
+  12: ACCESS ALL AREAS.by Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a>
+
+Warning: not found a 'contents' match: ACCESS ALL AREAS.by Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a>
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

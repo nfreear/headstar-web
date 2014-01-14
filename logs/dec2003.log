@@ -1,0 +1,53 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:00 2004 __
+
+Input file: ../eab/issues/2003/dec2003.txt
+
+Warning: file already exists: ../eab/issues/2003/dec2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: dec | index: 12 | year: 2003
+URLs, prev: ../2003/nov2003.html | next: ../2004/jan2004.html
+Found ++, heading 2: ISSUE 48 CONTENTS.
+>> FOUND 2:  | 01:  | Revolutionary speech technology to launch
+>> FOUND 2:  | 02:  | Microsoft legal actions set to continue
+>> FOUND 2:  | 03:  | Visionary design winners announced
+>> FOUND 2:  | 04:  | TV channel Five adds audio description
+>> FOUND 1: News in brief:  | 05: Phone anything - voice browsing; 06: EYPD blue -
+>> FOUND 2:  | 08:  | Flat out - screen problems; 09: Music quiz - sheet music query;
+>> FOUND 2:  | 10:  | Bugbear slain - talking text messages; 11: Clear speech -
+>> FOUND 2:  | 12:  | Designs for life: This week saw the announcement of the National
+>> FOUND 2:  | 13:  | A new era of realism? At this year's conference on the use of
+Warning line 52: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | REVOLUTIONARY SPEECH TECHNOLOGY TO LAUNCH.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | MICROSOFT LEGAL ACTIONS SET TO CONTINUE.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | VISIONARY DESIGN WINNERS ANNOUNCED
+Found 'contents' match: 2.
+> ITEM 2:  04:  | TV CHANNEL FIVE ADDS AUDIO DESCRIPTION.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  A new phone-based internet service,
+> ITEM 1:  06:  | : |  Liz Lynne, the European Parliament member
+> ITEM 1:  07:  | : |  The computer access software specialist Dolphin
+Found ++, heading 2: SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Robby Barnes of the Kaizen Program for New
+> ITEM 1:  09:  | : |  Scott Rae of the Highland Society for Blind
+> ITEM 1:  10:  | : |  The blind barrister Fayyaz Afzal, profiled in
+> ITEM 1:  11:  | : |  In our last issue, we ran a news piece saying
+Found ++, heading 2:  SECTION THREE: SPECIAL REPORT
+> ITEM 2:  12:  | DESIGNS FOR LIFE
+Warning: not title-casing possible HTML:
+  12: DESIGNS FOR LIFEby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: DESIGNS FOR LIFEby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2: SECTION FOUR: OPINION
+> ITEM 2:  13:  | A NEW ERA OF REALISM?
+Warning: not title-casing possible HTML:
+  13: A NEW ERA OF REALISM?by Kevin Carey  <a href="mailto:humanity@atlas.co.uk">humanity@atlas.co.uk</a>
+
+Warning: not found a 'contents' match: A NEW ERA OF REALISM?by Kevin Carey  <a href="mailto:humanity@atlas.co.uk">humanity@atlas.co.uk</a>
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

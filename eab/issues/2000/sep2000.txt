@@ -1,0 +1,743 @@
+E-ACCESS BULLETIN
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+
+http://www.e-accessibility.com
+
+Sponsored by the Royal National Institute for the 
+Blind
+http://www.rnib.org.uk
+the National Library for the Blind
+http://www.nlbuk.org
+and the Guide Dogs for the Blind Association
+http://www.gdba.org.uk
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing eab-subs@headstar.com
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts]
+
+ISSUE 9, 2000
+
+IN THIS ISSUE:
+Section One: News
+- Olympics committee faces legal action over 
+inaccessible web site; Battle is joined for e-
+books standard; New breed of Adobe pdf files 
+easier to navigate; 'Visugate' builds web of 
+information partners; European Commission 
+targets accessibility; Family site wins charity 
+web awards.
+
+Section Two: Education
+- Books by CD-ROM
+
+Section Three: Web accessibility
+- Internet shopping
+
+Section Four: Back to basics
+- Digital books and other texts
+
+[Contents ends]
+
+SECTION ONE: NEWS
+
+OLYMPICS COMMITTEE FACES LEGAL 
+ACTION OVER INACCESSIBLE WEB SITE
+
+The organisers of the Olympic Games in Sydney 
+face legal action on two fronts for failing to 
+make their web site accessible to blind people, 
+with both individual and class actions a 
+possibility after the games close this weekend, E-
+Access Bulletin has learned.
+
+The Sydney Organising Committee for the 
+Olympic Games (SOCOG) has already lost an 
+Australian Human Rights and Equal Opportunity 
+Commission hearing held last year after a 
+discrimination complaint was lodged by Bruce 
+Maguire, who is blind. However despite having a 
+year since then to make the site fully accessible, 
+SOCOG refused, saying the process would be 
+too expensive and time-consuming.
+
+Some changes have been made to the site, with 
+'alt-text' tags being added to some images and 
+text links added to image maps. However, 
+Maguire says that not all images have been text-
+tagged, and other problems persist, such as the 
+accessibility of the Olympics results tables.
+
+Although the commission ruling is not legally 
+binding, Maguire told E-Access Bulletin this 
+week that as soon as the games are over he will 
+seek a further hearing to win damages under 
+Australia's Disability Discrimination Act, and 
+seek enforcement in Australia's Federal Court if 
+SOCOG refuse to comply. There is also a 
+possibility that a class action will be brought 
+against SOCOG by blind people in Australia, he 
+said.
+
+Also under fire is IBM, which designed the site 
+for SOCOG. IBM gave evidence in the initial 
+hearing that the site would take 368 days to fix at 
+a cost of two million US Dollars, although 
+Maguire successfully called two expert witnesses 
+to assert that the true cost of fixing it would be 
+30,000 Dollars, and that it would take just 2-4 
+weeks.
+
+" I don't think of myself as an activist, in that I 
+don't go looking for inaccessibility", he said. 
+"However, if I encounter it in the course of my 
+daily life, I do feel that I have some 
+responsibility to try and overcome it.
+
+"In general, I believe that accessibility can best 
+be achieved through dialogue, education and 
+consensus-building: however, disability 
+discrimination legislation is useful when these 
+processes fail, and as part of the ongoing task of 
+creating a culture of respect for the principles of 
+access and equity".
+
+A handy guide to the  Sydney Olympics 
+Accessibility Complaint, including a link to last 
+year's ruling, has been produced by contenu.nu, 
+a web content consultancy in Toronto:
+http://www.contenu.nu/socog.html
+
+And Lee Rhiannon, a Green Party member of the 
+New South Wales legislative council, has taken 
+up Maguire's case and created an online petition 
+to IBM. This can be found at:
+http://www.nsw.greens.org.au/parl/lee/ibmpetitio
+n.html
+
+
+BATTLE IS JOINED FOR E-BOOKS 
+STANDARD
+
+Software giants Microsoft and Adobe Systems 
+have made new moves in their battle to create a 
+dominant standard for 'e-books' – digitised book 
+software and hardware.
+
+Microsoft has announced a partnership with 
+leading online bookshop Amazon.com to create a 
+customised versions of its Microsoft Reader e-
+book software, allowing Internet users to buy 
+and download e-books from the bookshop. The 
+deal was announced at:
+http://www.microsoft.com/PressPass/press/2000/
+Aug00/AmazonPR.asp
+
+Amazon does not actually sell e-books yet, 
+although it plans to in the near future. However 
+Barnes and Noble 
+(http://www.barnesandnoble.com), another major 
+online bookshop, is leading the way in this field 
+and already offers e-books for purchase and 
+download in three different formats: Microsoft 
+Reader, Glassbook (http://www.glassbook.com) 
+and Rocket eBook (http://www.rocket-
+ebook.com/).
+
+Microsoft hopes to overtake the other two 
+formats by dint of its general market dominance 
+with Windows PCs. Rocket eBook is a 
+proprietary system, produced by 1997 start-up 
+company NuvoMedia, while Glassbook has 
+recently been acquired by Adobe Systems, as 
+part of its bid to rival Microsoft by enhancing its 
+own e-book system based on its Portable 
+Document Format (pdf) software.
+
+Glassbook's latest software (and indeed 
+Microsoft Reader as well) includes text-to-
+speech capabilities, text annotation and 
+highlighting with electronic sticky notes, 
+searching and text enhancement facilities that are 
+intended to make content easier to read. See:
+http://www.glassbook.com/news/pr082800.htm
+
+The e-books market is new but potentially 
+lucrative. E-books have obvious advantages for 
+blind and visually impaired people, as they can 
+usually be readily converted into speech or 
+Braille, but they are predicted to increase in 
+popularity across a range of users as e-book 
+readers become more portable and offer quick, 
+mobile access to large libraries of books.
+
+* See also Section Four, this issue: 'Back to 
+basics – digital books'.
+
+
+NEW BREED OF ADOBE PDF FILES EASIER 
+TO NAVIGATE
+
+In a separate development, Adobe has stated that 
+the new version of its Acrobat Reader software 
+for Portable Document Format (pdf) files will be 
+accessible to screen readers. Past versions of pdf 
+have been widely attacked for their 
+inaccessibility, with their reliance on graphical 
+layouts rather than plain text.
+
+According to a report in Federal Computer Week 
+- which was posted up by Adobe on its 
+accessibility site last month and hence implicitly 
+endorsed – the new Acrobat Reader due next 
+spring and its associated new pdf file creation 
+tools will incorporate easy text navigation into 
+documents, whatever their length or graphical 
+layout.
+
+The system will work best with new files but 
+may also help make old pdf files more accessible 
+to screen reader. The report can be accessed 
+from:
+http://access.adobe.com/
+
+
+'VISUGATE' BUILDS WEB OF 
+INFORMATION PARTNERS
+
+The 'Visugate' project to create an accessible 
+online gateway to a huge range of existing and 
+newly digitised resources on visual impairment 
+has already signed up 20 partner organisations to 
+provide information through the service.
+
+The 20 include RNIB's Research Library; Action 
+for Blind People; The British Journal of Visual 
+Impairment; the International Centre for Eye 
+Health; the Department of Education at 
+University of Birmingham and BT Soundings. 
+Other partners are now being approached, and 
+the National Library for the Blind, which is 
+overseeing the project, says there is no limit to 
+the potential number of organisations that can 
+become involved.
+
+The NLB is conducting a survey of potential 
+Visugate users to ask them what resources and 
+functionality they would like to see included in 
+the service. For more information contact Joanna 
+Widdows on joanna.widdows@nlbuk.org or visit 
+the organisation's web site:
+http://www.nlbuk.org/
+
+
+EUROPEAN COMMISSION TARGETS 
+ACCESSIBILITY
+
+The European Commission is to place 
+information society accessibility issues at the 
+heart of of its annual 'IST' information society 
+technologies conference in Nice, France from 6-
+8 November.
+
+The 'Information society for all' conference will 
+build on the commission's recent 'eEurope' 
+policy proposals with an 'e-participation' track 
+that will focus on three areas: European 
+government and democracy; e-health; and the 
+active participation and integration of all, 
+especially people with disabilities and older 
+adults.
+
+The event's web site is at:
+http://istevent.cec.eu.int/en/
+
+
+FAMILY SITE WINS CHARITY WEB 
+AWARDS
+
+A charity which supports the parents and 
+families of children born with disabilities – 
+including blindness - has won the 'Charity 
+Internet Site of the Year' award presented earlier 
+this month by the Charity Times.
+
+The 'Contact a Family' site 
+(http://www.cafamily.org.uk/) was praised for its 
+design, navigability and use of access keys to 
+ensure accessibility. Judges for the award 
+included RNIB campaigns officer Julie Howell. 
+Other sites shortlisted included YouthNet UK, 
+creators of the youth advice service 'TheSite' 
+(http://www.thesite.org/).
+
+The award's web address is:
+http://www.charity-
+times.co.uk/ukcharityawards.htm
+
+[Section one ends]
+
+
+SECTION TWO: EDUCATION
+- BOOKS BY CD-ROM
+
+FROM READING TREE TO INTERACTIVE 
+CD – A LABOUR OF LOVE
+
+A specialist schoolteacher from Croydon has just 
+completed a two-year labour of love to create a 
+nationwide CD-ROM book service for 
+schoolchildren with visual impairments.
+
+Val Lawson, who teaches visually impaired 
+children for Croydon Local Education Authority 
+(LEA), found that her pupil's needs were not 
+being met by existing services. She told E-
+Access Bulletin: "Many disabled children are 
+now in mainstream schools, and making the 
+curriculum accessible is a huge issue.  Lots of 
+young people with visual impairment also have 
+other physical disabilities, which means they 
+may have trouble holding a book or turning the 
+pages, as well as reading text and pictures. Many 
+of these children with are being taught in 
+mainstream classes by teachers with no 
+specialised experience.
+
+"The Oxford Reading Tree - which is the main 
+programme for teaching young children to read 
+in 80 per cent of primary schools - does have 
+tape and Braille versions, but this is not 
+necessarily the most suitable format for visually 
+impaired or disabled students."
+
+Having decided to take action herself to address 
+the lack or resources, Ms Lawson started out 
+producing popular, illustrated books in CD 
+format with digitised text, illustrations that were 
+simplified and enhanced for visually impaired 
+children, audio navigation tools and other 
+accessibility features. Originally, books selected 
+by children and teachers were modified on 
+request, but the new versions were proving so 
+popular that she decided to pilot materials from a 
+pre-existing structured reading programme - the 
+reading tree - and make them available for loan.
+
+"This was a difficult time, because these pilot 
+materials were not of sufficiently high quality for 
+general release", she says. "I had managed to get 
+permission from Oxford University Press to use 
+their material, and had generated lots of interest 
+from local education authorities, but I just didn't 
+have time during the day to do the work.  So I 
+upgraded my home computer and started 
+working on the project at home."
+
+Ms Lawson started by modifying every book 
+illustration to remove backgrounds and enhance 
+colour and definition.
+
+"The big breakthrough came when I discovered 
+Adobe Acrobat software," she says. "I found that 
+by producing a menu system with links to and 
+from various files, I could not only make an 
+easy-to-use electronic format, but also compress 
+the material so that all 112 books in the reading 
+tree could fit on to one CD. The project then 
+took on a life of its own and consumed mine for 
+two years."
+
+With little financial or technical support, Ms 
+Lawson found the main cost was replacing and 
+upgrading all her home equipment, as her PC did 
+not have the memory to deal with complex 
+graphic manipulation.
+
+She also managed to get some help from a US 
+software company, Fileopen systems 
+(http://www.fileopen.com/), in the form of a free 
+copy of the company's 2,500 US Dollar security 
+package. This protects all the files from 
+unauthorised access, ensuring copyright cannot 
+be breached.
+
+"Given the restricted market, I knew I was going 
+to have to set quite a high price for the CD to 
+recoup some of my costs, but I was worried that 
+educational services might not be able to afford 
+it", she says. "So I decided to offer a master 
+copy, printable version, to my local education 
+authority for them to distribute to other visually 
+impaired services on a non-profit making basis, 
+and was delighted when they offered not only to 
+distribute it free, but also to help with publicity."
+
+There are two versions of the CD. The first has a 
+licence to print one copy built into the 
+installation code, and has been restricted to a 
+specific audience because of copyright 
+limitations. The second version works solely on 
+screen.
+
+"The screen version was a total act of faith on 
+my part," says Ms Lawson. "The first child who 
+tried to use it was a six year old girl with central 
+vision loss. She thought it was wonderful. She 
+found the display easy to read, loved the pictures 
+and mastered the navigation system in minutes. 
+She then spent about 45 minutes showing off her 
+reading and IT skills to everyone else in the 
+room!"
+
+The screen-only version has layout in a 
+landscape format which fills the entire screen. 
+Menu navigation is supported by speech and 
+may be driven by touch-screen if required. The 
+menu links have voice-overs, activated by the 
+mouse when it enters the menu zone. A click of 
+the mouse turns each page, and the final screen 
+allows a choice of reading the story again, or 
+finishing and returning to the main menu.
+
+Ms Lawson is looking for feedback from other 
+people using the CD. For further information 
+visit her website at:
+http://www.largeprint.org/
+
+And the Oxford Reading Tree site is at:
+http://www.oup.co.uk/oxed/primary/ort/
+
+[Section two ends]
+
+
+SECTION THREE: WEB ACCESSIBILITY
+- INTERNET SHOPPING
+
+HIGH STREET CHAINS MAKE POOR 
+PROGRESS ON WEB DESIGN
+
+By rights, Internet shopping should be a 
+Godsend for blind and partially sighted people, 
+allowing them to browse and buy whatever they 
+want without having to negotiate crowded shops 
+and public transport.
+
+But a report just published by the Royal National 
+Institute for the Blind shows the truth is 
+somewhat different: blind people are in fact 
+being excluded from the e-shopping revolution 
+through lazy web design and ignorance on the 
+part of site owners. What is more the culprits – 
+major high street names among them – could be 
+rendering themselves liable to prosecution under 
+the Disability Discrimination Act. 
+
+Julie Howell, resident web accessibility expert at 
+the RNIB and the report's author, says: 'The Act 
+requires that all service providers should make 
+information about their companies and services 
+accessible for blind or partially-sighted people. 
+Even our biggest high street stores are clearly not 
+doing this.
+
+"It's not just a question of legality, these 
+businesses are losing a potential 8.5 million 
+disabled customers too."
+
+The RNIB first investigated the web sites of 17 
+major high street stores and banks last year, so 
+companies have had 12 months to get their act 
+together. The 17 were Abbey National, Alliance 
+and Leicester, Asda, Debenhams, Dorothy 
+Perkins, Evans, HSBC, Marks and Spencer, 
+NatWest, Pizza Hut, Pizza Express, Post Office, 
+Safeway, Sainsburys, Somerfield, Tesco and WH 
+Smith.
+
+The new report follows up on the original 
+findings, and pronounces the results 'extremely 
+disappointing'. All the companies failed to 
+measure up in at least one of five different test 
+categories used, and some failed in all five.
+
+The test categories were:
+1. Is the web site text legible, with strong visual 
+contrast?
+2. Does every image have a text tag, which can 
+be converted to speech description?
+3. Are alternatives offered to framed sites?
+4. Is the site available in HTML, as opposed to 
+image, pdf or other formats?
+5. Do all pages pass the 'Bobby' test – the 
+standard software package which tests for 
+accessibility? (see http://www.cast.org/bobby)
+
+"All three high street banks we visited failed the 
+test, even though banking is supposed to be a 
+universally essential service", says Howell. 
+"Online supermarkets also performed 
+particularly badly. The only company which did 
+reasonably well was Marks and Spencer."
+
+One case study described in the report is that of 
+Peter, who is blind and has been using the 
+internet for three years using a PC and JAWS 
+screen reader. Peter heard about the Debenhams 
+summer sale on TV, and tried subsequently to 
+log onto the store's web site.
+
+"What a disappointment", he said. "I wanted to 
+check the availability of men's shirts, but I kept 
+hearing 'unsupported script'. It was really 
+confusing. I did find some information 
+eventually, but it took me so long to work my 
+way past the nonsense, it would probably have 
+been quicker to go to the store."
+
+Another disabled user, Caroline, was asked to try 
+out the Safeway website and do some home 
+grocery shopping. She uses a PW Webspeak 
+browser. She said: "It would really help me if 
+heavy things like cat food could be delivered to 
+my home. I think I'm quite good with the 
+internet, but I found the Safeway site a real 
+struggle. I kept hearing 'image, image' and 
+didn't know what was going on.  I just gave up 
+in the end."
+
+The Abbey National site failed all five tests, 
+because it was designed in Macromedia Flash, 
+with no HTML alternative. A spokesman told 
+EAB that the company was now working on an 
+HTML site which would be fully accessible. 
+Pizza Hut and Abbey National are also working 
+on new, accessible sites.
+
+Ms Howell said: "Poor or careless coding of 
+HTML and complex screen designs are the most 
+common problems, but most of the companies 
+we tested are now trying to address this in 
+response to the report."
+
+An executive summary of 'Get the message 
+online: making internet shopping accessible' can 
+be viewed at:
+http://www.rnib.org.uk/digital/webshop.htm
+
+The full report can be purchased for £5 from 
+RNIB customer services. Email 
+CServices@rnib.org.uk or telephone 0845 702 
+3153.
+
+[Section three ends]
+
+
+SECTION FOUR: BACK TO BASICS
+- DIGITAL BOOKS AND OTHER TEXTS
+
+One of the ways in which the Internet is proving 
+a liberating resource for blind and visually 
+impaired people is as a repository of electronic 
+texts. For the first time, a wide range of books, 
+newspapers, journals, periodicals and articles are 
+available online, 24-hours a day, to be accessed 
+at the reader's convenience.
+
+Combined with email services and computer 
+disks or CD-ROMs with digitised texts send 
+through the post, the result – thanks to special 
+access software like text-to-speech - is access for 
+the first time by blind people to the information 
+they want, when they want it. No more waiting 
+for others to transcribe it to Braille or read it 
+aloud: no more restriction to the information, or 
+extracts from the information, that others 
+arbitrarily decide is of most interest.
+
+The vast majority of digital texts available online 
+are in ASCII (plain text) format, and can thus be 
+read by any computer whether PC or Mac, DOS 
+or Windows. The following is a round-up of 
+digitised plain text resources on the Internet and 
+in other media.
+
+PROJECT GUTENBERG
+
+The awesome Gutenberg project is a volunteer-
+driven initiative to transcribe copyright-free 
+books into digital format. Gutenberg has already 
+made about 2,500 texts available for free online 
+including classic works of literature.
+
+The books are entered onto a database in 'plain 
+vanilla ASCII' – the plainest of plain text 
+formats, with for example italics, underlines and 
+bolds all represented by capital letters.
+
+Project Gutenberg has the goal of turning two 
+million conventional books (mostly titles already 
+out of copyright) into electronic texts freely 
+available on the internet. The site includes 
+several easy ways of finding a book: by title, 
+author, subject or even by other details including 
+language, version or author's birth-date. Once 
+you have located a title, it can be downloaded 
+onto your computer to read offline at your 
+leisure.
+
+Visit the site at http://www.gutenberg.net/ and 
+click on "E-Text Listings" to obtain a full listing 
+of all titles available, or "search" to search on 
+any of the criteria mentioned above. This site, 
+however, was not designed with visual 
+impairment in mind and some people may not 
+find it easy to read or screen-reader-friendly.
+
+
+NATIONAL LIBRARY FOR THE BLIND
+
+The NLB site, designed for easy access by those 
+with a visual-impairment and found at 
+www.nlbuk.org, is a good source of electronic 
+texts and contains some valuable areas such as 
+'Where can I get ideas about new books to read?' 
+and 'The Fiction Cafe (Books for young 
+people)'.
+
+
+THE INTERNET PUBLIC LIBRARY
+
+Visit http://www.ipl.org/reading/books/ for 
+another very useful resource of electronic texts 
+arranged in 10 easy-to-browse categories 
+including languages, natural sciences and 
+mathematics, the arts and literature and rhetoric.
+
+Although the site is not written with visual 
+impairment in mind, no frames or side-menus 
+mean that it is quite accessible.
+
+
+THE ONLINE BOOKS PAGE
+
+This site at 
+http://digital.library.upenn.edu/books/lists.html 
+is an index of more than 12,000 English works 
+which are available free of charge and as full 
+texts on the Internet. The service is part of the 
+Digital Library Project of the University of 
+Pennsylvania.
+
+
+THE TALKING NEWSPAPER ASSOCIATION 
+OF THE UK
+
+The TNAUK site at http://www.tnauk.org.uk/ 
+offers access to more than 200 titles on tape, 
+disk, e-mail or downloadable from their website, 
+for a subscription charge of 20 UK Pounds a 
+year. Texts available include daily newspapers 
+and weekly magazines, as well as other monthly 
+and quarterly publications. A full listing of all 
+their publications in all formats is available on 
+the website or by telephone on 01435 866102.
+
+Their website has black on grey text that may 
+cause problems in reading for some, and contains 
+formatting that is not fully accessible although 
+there is a link to a text-only version. The direct 
+address of the "text only" version is 
+http://www.tnauk.org.uk/TextSite/Introduction.ht
+m
+
+
+RNIB ELECTRONIC PUBLICATIONS
+
+A full catalogue of all publications available 
+from the RNIB can be obtained on disk from 
+them or viewed on their website at 
+http://www.rnib.org.uk/  More than 40 titles are 
+available on disk including the 'New Beacon'.
+
+
+THE DAISY CONSORTIUM
+
+The next generation of talking books will be 
+based on electronic formats. These special CDs 
+will be played on e-book readers or on 
+computers with the correct player software.
+
+E-books that conform to the 'DAISY' 
+consortium standard can combine a digital 
+recording of a human voice reading the book 
+with the text of the book in electronic form. The 
+two can interact so that it is easy to move 
+through the book by chapter, page, sub-headings 
+or even to search for phrases or single words, 
+from which point the spoken playback can 
+instantly continue.
+
+For further information visit 
+http://www.daisy.org/
+
+* This article was produced in association with 
+AbilityNet, a charity concerned with all areas of 
+computing and every disability, which acts as an 
+independent assessor of access technologies. For 
+more information contact AbilityNet on 
+freephone 0800 269545, email: 
+enquiries@abilitynet.co.uk
+or see its web site:
+http://www.abilitynet.co.uk/
+
+[Section four ends]
+
+HOW TO RECEIVE THIS BULLETIN
+
+To subscribe to this free monthly bulletin,
+e-mail eab-subs@headstar.com with 'subscribe 
+eab' in the subject header.
+You can list other email addresses to subscribe in 
+the body of the 
+message. Please encourage all your colleagues to 
+sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' 
+in the subject header.
+
+Please send comments on coverage or leads to
+Dan Jellinek at: dan@headstar.com
+
+
+Published by Headstar Ltd
+http://www.headstar.com
+Copyright 2000 Headstar Ltd
+
+The Bulletin may be reproduced in full as long 
+as all parts including this copyright notice are 
+included. Sections of the report may be quoted as 
+long as they are clearly sourced as 'taken from e-
+access bulletin, a free monthly email newsletter', 
+and our web site address http://www.e-
+accessibility.com is also cited.
+
+[Issue ends]
+
+
+
+
+14
+
+National Helpline: 0800 269545  e-
+mail:enquiries@abilitynet.co.uk 
+http://www.abilitynet.co.uk  
+PO Box94  Warwick  CV34 5WS Tel:  01926 
+312847  Fax: 01926 407425

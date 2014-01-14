@@ -1,0 +1,60 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:24 2008 __
+
+Input file: ../eab/issues/2007/jun2007.txt
+
+Warning: file already exists: ../eab/issues/2007/jun2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jun | index: 6 | year: 2007
+URLs, prev: ../2007/may2007.html | next: ../2007/jul2007.html
+Found ++, heading 2: Special Notice - Building the Perfect Council Website
+Found ++, heading 2: Issue 90 Contents.
+>> FOUND 2:  | 01:  | Software 'Accessibility Passport' Gains Stamp Of Approval
+>> FOUND 2:  | 02:  | EU Accessibility Laws Reach 'Critical Moment', Says MEP
+>> FOUND 2:  | 03:  | Online Library Services Inspired By 'Amazon' Stores
+>> FOUND 2: News in Brief:  | 04:  | Desktop Guides - free help with software; 05:
+OK, News in brief
+Found: Desktop Guides - free help with software | ; |  05:
+>> FOUND 2: Creepy Castles - new accessible game;  | 06:  | News Talk - text to
+Found: Creepy Castles - new accessible game;  | 06:  | News Talk - text to
+>> FOUND 2: podcast service;  | 07:  | Silver Radio - radio service rewarded.
+Found: Silver Radio - radio service rewarded | . | 
+>> FOUND 2:  | 08:  | Action Request - help with survey needed; 09: Programmer Power
+>> FOUND 2: - barriers to accessible websites;  | 10:  | Tube Stop - London
+Found: - barriers to accessible websites;  | 10:  | Tube Stop - London
+>> FOUND 2: Underground network;  | 11:  | Design Course - teaching material sought.
+Found: Design Course - teaching material sought | . | 
+>> FOUND 2:  | 12:  | An Opportunity That Must Be Seized By EU Policymakers: This
+>> FOUND 2:  | 13:  | Outside The Gates Of Second Life: Virtual environments such as
+Warning line 78: expected [Contents ends].
+$toc_count=16
+> ITEM 2:  01:  | Software 'Accessibility Passport' Gains Stamp Of Approval.
+Warning: not found a 'contents' match: Software 'Accessibility Passport' Gains Stamp Of Approval.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 124.
+> ITEM 2:  02:  | EU Accessibility Laws Reach "Critical Moment", Says MEP.
+Warning: not found a 'contents' match: Eu Accessibility Laws Reach "Critical Moment", Says Mep.
+> ITEM 2:  03:  | Online Library Services Inspired By 'Amazon' Stores.
+Warning: not found a 'contents' match: Online Library Services Inspired By 'Amazon' Stores.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Free guides for using JAWS and screen
+> ITEM 1:  05:  | : |  PCS Games, who claim to "make games that
+> ITEM 1:  06:  | : |  Seattle-based speech technology company
+> ITEM 1:  07:  | : |  Insight Radio, formerly known as VIPonair, has
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 261.
+> ITEM 1:  08:  | : |  Action for Blind People is currently looking into
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 270.
+> ITEM 1:  09:  | : |  Tedd Sperling has some thoughts to offer
+> ITEM 1:  10:  | : |  A website providing details of facilities for disabled
+> ITEM 1:  11:  | : |  Norman Waddington writes on behalf of an
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  12:  | An Opportunity That Must Be Seized
+Warning: not found a 'contents' match: An Opportunity That Must Be SeizedBy Derek Parkinson.
+Found ++, heading 2: Section Four: Focus
+> ITEM 2:  13:  | Outside The Gates Of Second Life
+Warning: not found a 'contents' match: Outside The Gates Of Second LifeBy Peter Verhoeven.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 542.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 548.

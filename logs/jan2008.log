@@ -1,0 +1,84 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 08:29:16 2008 __
+
+Input file: ../eab/issues/2008/jan2008.txt
+
+Warning: file already exists: ../eab/issues/2008/jan2008.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jan | index: 1 | year: 2008
+>> Identified current issue (make next 'this').
+URLs, prev: ../2007/dec2007.html | next: ../2008/jan2008.html
+Found ++, heading 2: Issue 97 Contents.
+>> FOUND 2:  | 01:  | February Milestone On Road To Web Access Guidelines
+>> FOUND 2:  | 02:  | New UK Equality Commission Gears Up For Action
+>> FOUND 2:  | 03:  | Study Finds Mixed Response to Digital TV Switchover
+>> FOUND 2:  | 04:  | Global Gateway - United Nations accessibility resource; 05: Robo
+>> FOUND 2:  | 07:  | Apple Digested - mac tips; 08: More Apple - Leopard query; 09:
+>> FOUND 2:  | 10:  | A Positive School Of Thought.
+>> FOUND 2:  | 11:  | Flexible Guides To A World of Sound and Vision.
+Warning line 54: expected [Contents ends].
+$toc_count=9
+Found ++, heading 2: Special Notice: E-Access '08: Bigger And Better Than Ever
+Warning, replacing non-ASCII character 194 (line 38, 26): Normal delegate rates are &#194;£195 for public sector, Â£295 for private
+
+Warning 2 (TENS), found non-ASCII character 163 (line 38, 32).
+Warning, replacing non-ASCII character 194 (line 38, 56): Normal delegate rates are &#194;£195 for public sector, &#194;£295 for private
+
+Warning 2 (TENS), found non-ASCII character 163 (line 38, 32).
+Warning 2 (TENS), found non-ASCII character 163 (line 38, 62).
+Warning 2 (TENS), found non-ASCII character 163 (line 38, 62).
+Warning 2 (TENS), found non-ASCII character 163 (line 38, 32).
+Warning 2 (TENS), found non-ASCII character 163 (line 38, 62).
+Warning, replacing non-ASCII character 194 (line 39, 11): sector and &#194;£165 for small charities and non-profits (turnover under
+
+Warning 2 (TENS), found non-ASCII character 163 (line 39, 17).
+Warning 2 (TENS), found non-ASCII character 163 (line 39, 17).
+Warning, replacing non-ASCII character 194 (line 40, 0): &#194;£150k). Book before 8 February to qualify for our Â£50 Early Bird
+
+Warning 2 (TENS), found non-ASCII character 163 (line 40, 6).
+Warning, replacing non-ASCII character 194 (line 40, 56): &#194;£150k). Book before 8 February to qualify for our &#194;£50 Early Bird
+
+Warning 2 (TENS), found non-ASCII character 163 (line 40, 6).
+Warning 2 (TENS), found non-ASCII character 163 (line 40, 62).
+Warning 2 (TENS), found non-ASCII character 163 (line 40, 62).
+Warning 2 (TENS), found non-ASCII character 163 (line 40, 6).
+Warning 2 (TENS), found non-ASCII character 163 (line 40, 62).
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 80.
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | February Milestone On Road To Web Access Guidelines.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | New UK Equality Commission Gears Up For Action.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Study Finds Mixed Response to Digital TV Switchover.
+Found 'contents' match: 2.
+Warning, replacing non-ASCII character 194 (line 143, 0): &#194;£40, including installation and some training (see
+
+Warning 2 (TENS), found non-ASCII character 163 (line 143, 6).
+Warning 2 (TENS), found non-ASCII character 163 (line 143, 6).
+Warning, replacing non-ASCII character 195 (line 165, 51): RNIB Media and Culture Department Manager Leen Petr&#195;© says voice-
+
+Warning 2 (TENS), found non-ASCII character 169 (line 165, 57).
+Warning 2 (TENS), found non-ASCII character 169 (line 165, 57).
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  An interactive online resource for everyone
+> ITEM 1:  05:  | : |  An email-based service which translates
+> ITEM 1:  06:  | : |  A series of free teaching documents aimed at
+Found ++, heading 2: Sponsored Notice: Fortune Cookie
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 266.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 275.
+> ITEM 1:  07:  | : |  Following our call for information about the
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 323.
+> ITEM 1:  08:  | : |  Also on the topic of Apple, Dan Tevelde, a
+> ITEM 1:  09:  | : |  Chris Glavin, editor and owner of the
+Found ++, heading 2: Special notice: Mobile and Flexible Working in the Public Sector
+Found ++, heading 2: Section Three: Special Technology Focus
+> ITEM 2:  10:  | A Positive School Of Thought
+Warning: not found a 'contents' match: A Positive School Of Thoughtby Dan Jellinek.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+> ITEM 2:  11:  | Flexible Guides To A World of Sound and Vision
+Warning: not found a 'contents' match: Flexible Guides To A World Of Sound And Visionby Dan Jellinek.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 2.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 643.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 650.

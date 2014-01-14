@@ -1,0 +1,55 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Nov 15 21:06:34 2009 __
+
+Input file: ../eab/issues/2009/may2009.txt
+
+Warning: file already exists: ../eab/issues/2009/may2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: may | index: 5 | year: 2009
+URLs, prev: ../2009/apr2009.html | next: ../2009/jun2009.html
+Found ++, heading 2: Special Notice: Building Perfect Council Websites '09
+Found ++, heading 2: Issue 113 Contents.
+>> FOUND 2:  | 01:  | Analyst Urges New Approach To Technology Inclusion
+>> FOUND 2:  | 02:  | Accessibility 'Not Fringe Issue' for IT Purchasing
+>> FOUND 2:  | 03:  | Call for Tougher European Access Laws
+>> FOUND 2: News in Brief:  | 04:  | Skill Share - Volunteer network; 05: Orator
+OK, News in brief
+Found: Skill Share - Volunteer network | ; |  05: Orator
+>> FOUND 2: Correction - BlackBerry reader set for July;  | 06:  | Techshare Call -
+Found: Correction - BlackBerry reader set for July;  | 06:  | Techshare Call -
+>> FOUND 2:  | 07:  | Foolish Moves - Text-to-speech book reader debate continues; 08:
+>> FOUND 2: E-Book Lament - one comedian's woes;  | 09:  | Moodle Mission - Call
+Found: E-Book Lament - one comedian's woes;  | 09:  | Moodle Mission - Call
+>> FOUND 2: for software assistance;  | 10:  | Chair Talk - Julie Howell responds.
+Found: Chair Talk - Julie Howell responds | . | 
+>> FOUND 2:  | 12:  | Unasking The Right Questions: we have been approaching the
+Warning line 71: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Analyst Urges New Approach To Technology Inclusion.
+Found 'contents' match: 1.
+> ITEM 2:  02:  | Accessibility 'Not Fringe Issue' for IT Purchasing.
+Found 'contents' match: 2.
+> ITEM 2:  03:  | Call for Tougher European Access Laws.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Assistance with digital skills should be offered to
+> ITEM 1:  05:  | : |  Contrary to our report last issue, the Orator - a
+> ITEM 1:  06:  | : |  A request for papers has been announced for
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 262.
+> ITEM 1:  07:  | : |  Richard Morton of consultants Accessible Web
+> ITEM 1:  08:  | : |  On a related theme, regular reader and stand-up
+> ITEM 1:  09:  | : |  Rachel Ethier Rosenbaum, president of the
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 347.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 351.
+> ITEM 1:  10:  | : |  Julie Howell, director of accessibility at web
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 400.
+Found ++, heading 2: Section Three Opinion
+> ITEM 2:  11:  | Accessibility versus affordance
+Warning: not found a 'contents' match: Accessibility Versus Affordance
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 632.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 639.

@@ -1,0 +1,610 @@
+E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site:
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for the Blind
+<http://www.rnib.org.uk>
+the National Library for the Blind
+<http://www.nlbuk.org>
+and the Guide Dogs for the Blind Association
+<http://www.guidedogs.org.uk>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts.]
+
+ISSUE 22, OCTOBER 2001.
+
+CONTENTS:
+
+Section one: News.
+
+- EU steps up drive for accessibility: commission champions 
+international guidelines.
+
+- Banks attempt to address poor access record: new guide to improve 
+online financial services.
+
+- First young people's chat room aimed at visually impaired children: 
+Scottish initiative unveiled.
+
+- International teenagers camp comes to UK: ninth International 
+Computer Camp hosted by the RNIB.
+
+- Dance group seeks technology advice: community project produce CD-
+ROM.
+
+- Text messages translated to speech: Telecom Italia Mobile innovates.
+
+News in brief: W3C guidelines on use of patented technologies; Digital 
+discrimination warning; Bookshare seeks volunteers; 'JawBone' 
+software supplier.
+
+Section two: Focus
+- European Commission: Millions of euros invested in wave of 
+accessibility research.
+
+Section three: Interview
+- Beta testing: AOL director of accessibility takes the chair.
+
+Section four: Reader response
+- Glucometers: technology advice from blind people who are diabetic.
+
+[Contents ends.]
+
+
+SECTION ONE - NEWS.
+
+
+EU STEPS UP DRIVE FOR ACCESSIBILITY.
+
+The European Commission is urging other European institutions and 
+member states to abide by the World Wide Web Consortium's Web 
+Accessibility Initiative guidelines, on the back of a major new research 
+funding drive (see section two, this issue).
+
+The commission said last month that the EU's office of publications has 
+launched a pilot project to make European treaties accessible to people 
+with visual impairment. Europa, the main EU site 
+(http://www.europa.eu.int), will "adopt the guidelines" from the end of 
+this year, the commission said.
+
+Adoption of the guidelines, however, does not mean the site itself will be 
+good enough to be awarded a World Wide Web Consortium 'web 
+accessibility initiative' kite mark (http://www.w3.org/wai). "It is one 
+thing to adopt the guidelines and another thing to apply them," a 
+spokesperson said. One difficulty posed by the overhauling of Europa is 
+that it is designed and maintained by a large number of independent 
+groups.
+
+An EU inter-services group on disabilities plans to build a web site 
+giving all European agencies useful information about accessible design 
+to a large number of independent designers responsible for the Europa 
+web site. If opened up to developers beyond the European institutions as 
+planned, the site could help further the commission's mission to 
+encourage member states to take accessibility seriously.
+
+The European Commission has already invested 2.5 million euros in 
+research into Internet access for the visually impaired (see section two).
+
+
+BANKS ATTEMPT TO ADDRESS POOR ACCESS RECORD.
+
+A new guide to help banks improve online services for the blind and 
+visually impaired is to be launched next week by the British Bankers 
+Association in association with the RNIB.
+
+An earlier report published by the RNIB last year, 'Get the message 
+online', had found that all banks surveyed failed to reach the most basic 
+standards of accessibility in their web services. The BBA subsequently 
+requested a meeting to ask how they could get it right, and the new report 
+is the result of that process.
+
+RNIB researchers examined how easy it would be for a blind user to set 
+up a current account online. Six banks, which have requested to remain 
+anonymous, offered privileged access to accounts and worked with 
+visually impaired people to carry out user testing over a six-month 
+period.
+
+"The number one type of site we receive complaints about are banking 
+ones," says RNIB Internet campaigns manager Julie Howell. "Blind 
+people always have to queue inside the bank as the machines are 
+impossible to use. If you are not confident about using the technology in 
+the first place the last thing you would want to do is conduct financial 
+transactions."
+
+'Accessible e-banking' will be available in print, Braille, tape and 
+electronic formats from the RNIB (http://www.rnib.org.uk/technology) 
+and the BBA (http://www.bba.org.uk ).
+
+
+FIRST YOUNG PEOPLE'S CHAT ROOM OPENS IN SCOTLAND.
+
+The first Internet chat room service aimed at visually impaired and blind 
+children has been launched by Visual Impairment Scotland 
+(http://www.viscotland.org.uk), a new body of experts based at 
+Edinburgh University's Scottish Sensory Centre.
+
+"We wanted to bring together kids from all over Scotland – many go to 
+mainstream schools and don't know other children with a visual 
+impairment," says VIS research and service manager John Ravenscroft. 
+"We wanted to develop a sense of community from the Borders to 
+Aberdeen so it doesn't matter if you're the only kid in school with sight 
+difficulties, you are not isolated - you can come here and talk about 
+football, movies and kids' stuff."
+
+The initiative, funded by the Scottish Executive, started a month ago and 
+has about 30 children registered. There are two chat room areas: one for 
+younger children around eight and another for those aged up to sixteen. 
+Participants have to join the 'Viskids Club', open to young people in 
+Scotland with a visual impairment 
+(http://www.viscotland.org.uk/textimages/VISKIDS/front.htm).
+
+Ravenscroft says: "In future we would like to set up a voice activated site 
+but the available software is too expensive and requires too much 
+downloading time for the kids. At the moment the system we have gives 
+fast access for everyone, but if we change it the service will start to 
+become discriminatory as those with broadband get faster access. If 
+anyone has a solution, I'd be pleased to hear from them."
+
+
+INTERNATIONAL TEENAGERS CAMP COMES TO UK.
+
+The ninth International Computer Camp for blind and visually impaired 
+teenagers is to be held in the UK next year, hosted by the RNIB.
+
+Around 120 students aged 17-20 from 10 countries will come to 
+Loughborough Vocational College to take part in workshops on 
+everything from simple skills like adjusting a computer screen to making 
+music using computers.
+
+The ICC project is led by the Computer Science for the Blind team at the 
+Johannes Kepler University Linz in Austria (http://www.mvblind.uni-
+linz.ac.at) and has expanded to include some 21 partner countries. The 
+first three camps were held in Austria, followed by the Netherlands, 
+France, Sweden, Germany and this year in Slovenia.
+
+Any student can apply to attend the camp, although only 12 will be 
+selected from each country next year. Applicants should already have 
+basic keyboard skills and an interest in technology, and should speak 
+English.
+
+A web site on next year's event will go live at the end of October [note at 
+the time of writing this site is not yet live] at:
+http://www.rnib.org.uk/technology/icc
+and potential UK applicants, who should not have attended a previous 
+RNIB summer camp, should email Angela Dinning on 
+angela.dinning@rnib.org.uk
+
+For more information on the ICC project see:
+http://www.mvblind.uni-linz.ac.at/mvb/events/icc/
+
+
+DANCE GROUP SEEKS TECHNOLOGY ADVICE.
+
+The Manchester-based arts group Touchdown Dance, which runs 
+community dance workshops and projects for visually impaired and 
+blind people of all ages, is set to release a CD-ROM on its work.
+
+The disk will include information on dance workshops and the group's 
+working methods; a performance section with video clips, and a section 
+on touch-based work. It will also carry links to other relevant and partner 
+organisations.
+
+"We hope to provide a full picture of the potential of touch as a 
+language; this hits back at the hysteria around touch in educational 
+settings," says the group's director Katy Dymoke.
+
+However she says there have been some technical problems with making 
+the CD accessible, and would appreciate advice from E-Access Bulletin 
+readers in a number of areas. "I am struggling to get good information 
+about the compatibility of software such as voice translation software 
+and enlargement software.
+
+"The CD-ROM carries mostly text and images with some video clips and 
+sound. What seems to happen is that [the screen-reader] JAWS doesn't 
+recognise the text. It has been suggested that the music file on the CD 
+may compete with JAWS for the sound card, so I need to find out about 
+compatible software.
+
+"For navigation we are using the arrow keys to move to the home page, 
+back, next, and exit. We have soft pastel colours behind the text, and 
+would also like to know if there is any preference for suitable colours. I 
+imagine it is hard to have a general view on this but any suggestions are 
+welcome."
+
+Anyone with any advice should email E-Access Bulletin editor Dan 
+Jellinek on dan@headstar.com and he will forward it to Katy Dymoke. 
+Touchdown's fledgling website is at:
+http://www.touchdowndance.co.uk
+
+* The Grange Museum of Community History, run by Brent council in 
+London, has recently opened a two-month 'Makonde' exhibition of East 
+African Sculpture aimed partially at people with visual impairments. 
+Visitors are able to touch the sculptures and Braille labels and large print 
+information are available. See:
+http://www.brent.gov.uk/grangemuseum
+
+
+TALKING TEXT MESSAGES LAUNCHED IN ITALY.
+
+Blind people in Italy will soon be able to send and receive text messages 
+thanks to a new service launched by Telecom Italia Mobile (TIM) in 
+association with the Italian Union of the Blind (http://www.uiciechi.it)
+
+TIM (http://www.tim.it) will produce GSM cards that are able to 
+translate and send vocal format messages. A sound signal will indicate an 
+incoming message and the recipient will dial 49600 to access it. To send 
+a message the user will key the same number. The service will be 
+provided at no extra cost.
+
+
+NEWS IN BRIEF:
+
+PATENTLY UNFAIR? - W3C, the Internet standards body, is seeking 
+the opinions of access developers on its controversial new draft policy on 
+the potential formation of guidelines in the future that imply the use of 
+patented technologies. The deadline for feedback has been extended until 
+tomorrow (11 October) following protests from the open source lobby:
+http://www.w3.org/TR/2001/WD-patent-policy-20010816
+
+DIGITAL DISCRIMINATION: If large companies are found in future to 
+have discriminated against disabled people by producing inaccessible 
+web sites, the consequential media coverage could have a substantially 
+detrimental effect on their image, according to a new report by Martin 
+Sloan, associate at digital charity HumanITy:
+http://www.humanity.org.uk/research/martin_sloan_article.html
+
+BOOK APPEAL: Bookshare.org, a web site which plans to allow US 
+citizens who are registered blind to share digital books, is inviting people 
+to volunteer to scan and prepare books.
+http://www.bookshare.org/next/volunteer
+
+JAWBONE SUPPLIER: Our September article on voice recognition 
+technologies suggested there are a number of UK companies that could 
+supply 'JawBone' software 
+(http://www.ngtvoice.com/software/jawbone), which links together the 
+JAWS for Windows screen reader and the Dragon NaturallySpeaking 
+voice recognition solution. In fact, T&T Consultancy is the sole 
+authorised UK distributor of JawBone:
+http://www.tandt-consultancy.co.uk
+
+[Section One ends.]
+
+
+SECTION TWO: FOCUS
+- EUROPEAN COMMISSION.
+
+MILLIONS OF EUROS INVESTED IN WAVE OF ACCESSIBILITY 
+RESEARCH.
+By Phil Cain  phil@headstar.com
+
+The European Commission's adoption of W3C accessibility guidelines 
+(see news, this issue) follows a significant new cash injection by the 
+organisation in this field. In the past nine months alone it has invested 
+3.7 million euros, or 2.5 million UK pounds, in technology accessibility 
+research projects.
+
+The first access project to gain commission backing was 'IRIS', an 
+initiative that upholds the commission's proud tradition of acronymic 
+creativity – it stands for 'Incorporating Requirements of People with 
+Special Needs or Impairments to Internet Based Systems and Services'. 
+The 1.8 million euro project received commission funding of 1.2 million 
+euros in January.
+
+By the end of its 30-month lifespan IRIS aims to create a commercially 
+viable software package and user community to help designers create 
+accessible web sites. Project leader Nikitas Tsopelas of Greek web 
+consultancy European Dynamics (http://www.eurodyn.com) said 
+development would begin in 2002 and that news will be posted to the 
+project's web site: http://www.iris-design4all.org/progress.htm
+
+According to Tsopelas the last nine months have been spent assessing 
+user requirements with the assistance of Belgian charity Information 
+Society disAbilities Challenge (ISdAC, http://www.isdac.org). 
+According to IsDAC chairman Tony Verelst, IRIS recently 
+commissioned his organisation to provide feedback on a web forum.
+
+In August, the commission contributed a further 1.4 million euros 
+towards a 2.0 million euro project snappily entitled Smart Interactive 
+Tactile Interface Effecting Graphical Display for the Visually Impaired. 
+'ITACTI', as it is thankfully known for short, is a three-year project to 
+use new 'smart' materials to make tactile displays and software to drive 
+them from a standard PC.
+
+According to the project's funding statement, "It is expected that electro-
+rheological fluid will be chosen to facilitate the production of a matrix of 
+moving dots." The technology referred to here is that of 'smart' or 
+'intelligent' fluids that change their viscosity massively on application of 
+an electronic current, effectively temporarily solidifying.
+
+The ITACTI project is the only one of the three commission-backed IT-
+access research projects to be led by a UK-based organisation – the 
+Faculty of Applied Sciences at De Montfort University 
+(http://www.dmu.ac.uk/Faculties/AS ). The non-UK 
+members of the ITACTI consortium include Italy's Associazione 
+Nazionale Subvedenti (http://www.subvedenti.it ), a charity 
+for the visually impaired.
+
+The third and most recent commission-backed accessibility project is 
+Voice for Information Society Universal Access Learning (VISUAL), 
+which in September received 1.1 million euros from the commission 
+towards its 1.6 million euro costs. The project will last for a year, with 
+the first partners' meeting scheduled for 17 October in Madrid.
+
+VISUAL plans to use VoiceXML technology to develop software to 
+enable people to design web sites which can navigated by voice. The 
+group aim to ensure the design software itself is accessible and 
+compatible with mainstream web design packages.
+
+Among VISUAL's other aims is the creation of a multilingual, voice-
+activated e-learning portal. The cosmopolitan make up of the VISUAL 
+team may prove useful in achieving this ambition: Keith Gladstone of the 
+RNIB and Helen Petrie of the University of Hertfordshire are the only 
+native English speakers in the team.
+
+The initiative is being led by Spanish telecoms technology firm 
+Soluziona Telecomunicaciones (http://www.ipt.es), with other 
+participants including French charity La Fédération des Aveugles et 
+Handicapés Visuels de France (http://www.faf.asso.fr ) and 
+German and Italian charities Deutsche Blinden- und 
+Sehbehindertenverband (http://home.t-online.de/home/dbsv_) and 
+Unione Italiana dei Ciechi (http://www.uiciechi.it) and the European 
+Blind Union (http://www.euroblind.org).
+
+All three of these new research projects could prove useful to the 
+European Commission in its attempt to kick-start the process of making 
+the web sites of European institutions and member states accessible. IRIS 
+in particular seems like it could be particularly useful resource for EU 
+institutions themselves – and who knows, one day EU sites might be 
+voice-enabled in all official member languages using VISUAL 
+technology.
+
+[Section two ends.]
+
+
+SECTION THREE: INTERVIEW.
+-BETA TESTING.
+
+AOL: YOUR QUESTIONS ANSWERED
+
+Last month we looked at the issues surrounding accessibility 'beta 
+testing', the practice of inviting blind and visually impaired people and 
+other groups to test pre-release versions of software for ease of use (see 
+E-Access Bulletin, September 2001). In particular we looked at concerns 
+raised by the beta testing process for AOL's new service software, AOL 
+version 7.0. This month, AOL's director of accessibility Debbie Fletter 
+offers answers some of these concerns put to her by E-Access Bulletin – 
+these are reproduced below in a Q and A format.
+
+Q: Which countries are involved in the beta testing?
+
+A: The current beta test focusing on accessibility is for people accessing 
+the AOL service in the US. Although the beta testing service is also 
+available in the UK and some other places, each country has both a 
+different beta area as well as a different schedule for the release of AOL 
+7.0 - the AOL software that has the majority of accessibility 
+improvements. Each country also has different schedules for 
+accessibility. We have not announced a schedule.
+
+We plan to incorporate the improvements for increased accessibility 
+across our international services as we roll out future versions of AOL.
+
+Q: Are beta-testers required to submit their credit card numbers and 
+personal details, and if so, why if the service is being offered to them 
+free?
+
+AOL can only be accessed through our proprietary software and service, 
+every one of our more than 400,000 beta testers must have an AOL 
+account in order to participate. So taking part in this special offer does 
+require a credit card, as all of our members must provide one in case 
+additional services are charged to their accounts, but nothing will be 
+charged to it unless the member adds additional services or chooses to 
+stay with AOL after a special free one-year period has ended.
+
+Q: How do you qualify for the free period?
+
+A: You need to be recommended by our Accessibility Advisory 
+Committee. To gain their approval, a person needs to be a Microsoft 
+Windows user, and a user of screen readers, screen magnifiers, text 
+output, voice recognition, or alternatives to keyboard and mice. Testers 
+must also be willing to report back to us on their AOL experiences at 
+least once a week for the duration of the beta test.
+
+Q: How long will the testing period last?
+
+A: AOL will contact testers when the beta test is complete.
+
+Q: Is there any automatic mechanism build into the site to terminate 
+membership when the beta test period ends?
+
+A: We hope that most of our beta testers enjoy our service and decide to 
+stay as AOL members after the one-year ends, but if a beta tester chooses 
+not to do so, they can call our member services representatives at 1-888-
+265-8008 or go to keyword: Cancel.
+
+Q: Is there any documentation that testers can retain to prove they have 
+terminated their membership? 
+
+A: They can ask the member services representative to send a 
+confirmation if they choose to do so.
+
+Q: Are personal details and credit card details verified or stored for 
+future use?
+
+A: As we state in our privacy policy, AOL does store credit card 
+information for billing purposes, but we do not use any information 
+about where our members go on the Internet or the service, nor do we 
+share that information with any outside entities. 
+
+Q: Has the new version eliminated the ability to produce plain text 
+emails?
+
+A: No, our members can produce plain text email, by following 'help' 
+instructions that show them how to do so.
+
+Q: How many in-house accessibility experts does AOL employ?
+
+A: AOL's commitment to accessibility can be seen not just in the creation 
+of my own position as director of accessibility, but in the hundreds of our 
+employees who have been trained on numerous aspects of accessibility 
+and assistive technology. We have staff who know how to build and test 
+for accessibility across the company including development, project 
+management, quality assurance, and design, to name but a few. More 
+importantly, every new service or product developed by AOL must now 
+be reviewed and approved by the the accessibility group within AOL.
+
+Which consultancies and/or non-profit groups does AOL work with? 
+
+We convene an accessibility advisory committee in person twice a year 
+and communicate via email list on a regular basis. This committee 
+includes experts from the American Federation for the Blind; National 
+Federation of the Blind; National Organization on Disability; World 
+Institute on Disability; Visions for Independent Living; American 
+Association for People with Disabilities; National Centre for Accessible 
+Media; Alliance for Technology Access; and the National Association 
+for the Deaf. 
+
+We also work with disability and accessibility consultants who assist us 
+in areas of product development and design, assistive technology, and 
+consumer help as well as development and/or software licensing 
+agreements with screen reader vendors. 
+
+AOL strongly believes that the Internet and the AOL service should be 
+friendly and easy-to-use for all customers, including those with 
+disabilities. That's why - starting with our beta testing for AOL 6.0 last 
+year - we've made a focused and concerted effort to make sure that our 
+products are tested and enhanced for accessibility.
+
+[Section three ends.]
+
+
+SECTION FOUR: READER RESPONSE
+- TALKING GLUCOMETERS.
+
+COMPUTER CONNECTIONS AID DIABETICS.
+
+In our last issue a reader wrote in for advice from blind people who are 
+diabetic and use speaking blood sugar monitors, or 'glucometers', on the 
+effectiveness of these technologies.
+
+In response, Anna Dresner from the US wrote in to say that she has had a 
+few weeks' experience using an Accu-Chek VoiceMate 
+(http://www.accu-
+chek.com/products/products/mn_voicemate_system.cfm? ), a meter 
+manufactured by Roche which is fitted to a voice synthesiser that can 
+also read certain insulin vials.
+
+"I'm not using the vial reader feature, so can't speak to its effectiveness. 
+But the system works well, reading blood sugar results and values stored 
+in memory," Dresner says. "The only problem is knowing whether you 
+have enough blood on the strip you use to measure the blood sugar level. 
+The meter beeps when it thinks there is enough, but in reality the strip 
+can be anywhere from half full to full, and when it isn't full, you can get 
+some mighty strange readings. This is a limitation of the meter itself, not 
+the adaptive synthesiser."
+
+Another limitation of this system is that if the battery in the meter dies, 
+"which mine did after three weeks instead of the year it's supposed to 
+take," the user receives no indication ahead of time that it is low, she 
+says. "The meter and voice synthesiser each have their own batteries; 
+they're two separate units. I don't know whether it would be possible for 
+the synthesiser to detect that the meter's battery is low, but it would 
+certainly be nice if it could.
+
+"Still, the synthesiser does what it's supposed to do - it reads the results 
+given by the meter. If you can't see to read a standard meter and want to 
+be able to check your blood sugar independently, it's worth the money."
+
+Being in the US, her health insurance paid 90% of the cost of the system, 
+Dresner says. "I don't know much about the British health care system, 
+but I would definitely check to see whether some or all of the cost could 
+be paid through that system or an organisation for the blind."
+
+Meanwhile another reader, Martin Slack, writes in to say: "I was diabetic 
+on insulin when registered blind a couple of years ago and up to that time 
+had used an ordinary meter with a three-quarter inch high LCD display. 
+When I became unable to read this, I too began to investigate speaking 
+glucometers with the assistance of my local diabetes nurse at Stafford 
+District General Hospital.
+
+"The hospital did in fact have a British speaking glucometer but its 
+technology was not very up to date as its manufacture had ceased some 
+years previously, and apparently the whole thing was about the size of a 
+shoe-box and not very user-friendly. As your correspondent says, the US 
+versions cost about 500 US dollars but if one already has access to a 
+computer with a screen reader there is a cheaper alternative."
+
+"There are on the market a small number of meters which can transfer 
+their readings to a computer and screen reading software can then do the 
+rest. Of course if you have to start by buying the computer then it will be 
+cheaper to go for the speaking meter but otherwise it is simply a case of 
+sorting through the few computer aware meters available."
+
+Diabetes UK (http://www.diabetes.org.uk) has recently reviewed 
+glucometers in its membership periodical 'Balance', says Slack.
+
+The glucometer he settled for is the Bayer Glucometer Esprit 
+(http://www.glucometer.co.uk). As well as its computer connection, this 
+system features test strips which are not the usual 'open' type but are 
+folded in half longitudinally so that when the end of the strip touches the 
+drop of blood on the finger the blood is sucked into the strip by surface 
+tension. "This is somewhat easier than trying to aim the drop of blood 
+onto the sensitive area on a normal test strip," Slack says. The meter can 
+be set to beep when sufficient blood has entered the test strip, as well as 
+when the reading is ready about 30 seconds later.
+
+"Using this approach means that it takes about five minutes to take one 
+reading, but on the other hand the software provides a ready-made record 
+of the readings with convenient graphical displays and printouts 
+available."
+
+The software required, called WinGlucofacts, can be downloaded from 
+the Glucometer Esprit web site at: 
+http://www.glucometer.co.uk/esprit/glucofacts.html 
+WinGlucofacts is free but about 5 MB in size. There is also a form to 
+email an order for the interconnecting cable which links the meter to a 
+serial port on the computer.
+
+* For a comparative list of glucometers from Diabetes UK including 
+details on computer compatibility, see:
+http://www.diabetes.org.uk/manage/products/meters.htm)
+
+[Section four ends.]
+
+
+HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail eab-
+subs@headstar.com with 'subscribe eab' in the subject header. You can 
+list other email addresses to subscribe in the body of the message. Please 
+encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com The Bulletin 
+may be reproduced in full as long as all parts including this copyright 
+notice are included. Sections of the report may be quoted as long as they 
+are clearly sourced as 'taken from e-access bulletin, a free monthly email 
+newsletter', and our web site address http://www.e-accessibility.com is 
+also cited.
+
+PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  phil@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial Advisor - Kevin Carey  humanity@atlas.co.uk 
+
+[Issue ends.]

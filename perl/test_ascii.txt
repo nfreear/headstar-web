@@ -1,0 +1,230 @@
++++E-ACCESS BULLETIN.
+- ISSUE 54, JUNE 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk/).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 54 CONTENTS.
+
+01: Europe launches major access programme
+- Research project paves way for international guidelines.
+
+02: Banks named and shamed over card problems
+- Failures to explain 'Chip and PIN' alternative.
+
+03: Guidelines for local government chiefs
+- Managers, policymakers and designers targeted.
+
+04: Council trio claim 'AAA' rating
+- Expert praises effort but questions detail.
+
+News in Brief: 05: Inclusion focus - Hong Kong conference; 06:
+Additions revealed - publisher database; 07: Arabian rights - UN-
+backed forum.
+
+Section two: 'The inbox' - Readers' forum.
+08: Validator problem - HTML struggle; 09: Radio objections - article
+feedback; 10: Training contacts - CDs sought; 11: Bridge request -
+accessible game.
+
+Section three: Focus - discussion lists.
+12: Chain reaction: 'Self-help' collaborative email lists where access
+technology users swap tips and advice can also help manufacturers
+improve their products. Mel Poluck reports.
+
+Section four: Analysis - web accessibility.
+13: The hard road to progress: The recent Disability Rights
+Commission investigation into web accessibility made depressing
+reading, but Julie Hill finds that public and private sector pioneers are
+now making good headway.
+
+[Contents ends].
+
+
+++SPECIAL NOTICE: Sight Village 2004
+- 13-15 July, Birmingham, UK.
+
+Around 3,000 people are expected to visit this year's QAC Sight
+Village, the exhibition for everyone with an interest in technology and
+services connected to visual impairment. Exhibitors and visitors come
+from throughout the UK, America, Canada, Europe, the Middle East
+and Africa. Smaller organisations of or for people with visual
+impairment are particularly welcomed as exhibitors alongside the 'big
+players'.
+
+This year the event has moved to a larger venue: the Clarendon Suites,
+a conference centre near to the exhibition's host Queen Alexandra
+College. All areas of the venue are accessible for wheelchairs, and
+admission is free. See:
+http://www.qac.ac.uk/sightvillage/6-1.html .
+
+[Special notice ends].
+
+
+++SECTION ONE: NEWS.
+
++01: EUROPE LAUNCHES MAJOR ACCESS PROGRAMME.
+
+The European Commission has launched a major new programme of
+research into accessibility policies across EU member states, paving
+the way for a set of accessibility guidelines to improve access to digital
+services and technologies for disabled users across the continent.
+
+The eInclusion@eu project (http://www.einclusion-eu.org/) will
+examine national and regional policies on access to employment,
+public sector technology procurement, and access to online public
+services such as e-government, e-health and e-learning. As part of its
+work the 30-month project aims to build an EU-wide picture of
+accessibility requirements for government web sites, including which
+accessibility standards are used, if compliance is voluntary or
+mandatory, and whether feedback from users is collected and acted on.
+
+Lutz Kubitschke of German consultancy Empirica
+(http://www.empirica.com/), which is co-ordinating the research, told
+E-Access Bulletin: "It is important to get a structured view of what is
+going on out there. It's no good if guidelines are issued in Brussels, but
+they are not practical for member states to implement." It is hoped that
+by the end of the year, the Commission will use the research to issue
+draft guidelines on public procurement, Kubitschke said.
+
+The findings should also uncover valuable information such as
+problems with implementing international web accessibility standards.
+"In some cases it may be that the expertise needed to translate
+guidelines such as WAI (http://www.w3.org/WAI) into procedures is
+missing, or that not enough money, time and resources are made
+available for accessible web design," said Kubitschke. The
+eInclusion@eu project is being driven by a core of research teams in
+eight member states, and is funded through the EU's 17.5 billion euro
+Sixth Framework research programme
+(http://fp6.cordis.lu/fp6/home.cfm).
+
+
++02: BANKS NAMED AND SHAMED OVER CARD PROBLEMS.
+
+UK banks who fared poorly in a 'mystery shopping' exercise to test the
+accessibility of new-style credit and debit cards are to be "named and
+shamed" by the RNIB.
+
+The cards tested use a new so-called 'Chip and PIN' system designed
+to combat fraud by requiring users to key in a security PIN number
+whenever a purchase is made. Banks are supposed to offer and explain
+an alternative to Chip and PIN called 'Chip and signature', which is
+easier for some people with impaired vision since they may find
+keypads hard to use. However, the survey found that many were not
+doing so.
+
+Results of the mystery shopping experiment will be published towards
+the end of August and will include full details of which card issuers
+were contacted along with a breakdown of the results.
+
+When a pool of vision-impaired 'mystery shoppers'
+(http://www.rnib.org.uk/xpedio/groups/public/documents/publicwebsit
+e/public_mysteryshopping.hcsp) initially contacted the call centres of
+fifteen banks, building societies and credit card companies to ask for
+advice on the accessible alternative, just 22 callers out of the total 67
+calls made (33 per cent) were told about the alternative and 15 call
+centre employees (22 per cent) mentioned that customers could
+continue to sign but either gave incorrect information about the chip
+and signature card or knew nothing about it.
+
+The RNIB campaigns team is currently working with banks to improve
+services, for example leading staff through practical issues such as how
+call centre staff can identify when to issue a chip and signature card.
+The RNIB has also suggested banks improve information on their
+intranets and external information on their web sites. "Internal
+communication is the issue," says Helen Dearman, campaigns officer
+at RNIB. Dearman says she has already noticed a reduction in the
+amount of calls to the RNIB from people complaining about their
+banks over this issue, although she adds that a high staff turnover in
+bank call centres is likely to hamper progress when the mystery
+shopper exercise is repeated in August
+
+
++03: GUIDELINES FOR LOCAL GOVERNMENT CHIEFS.
+
+The RNIB has published guidelines for senior managers and policy-
+makers in local government on how to make new technologies, from
+smart cards to tactile displays, more usable by people with disabilities.
+
+Written by Dr John Gill, chief scientist at the RNIB, the 'Access-
+Ability' booklet (http://www.tiresias.org/guidelines/access-ability/)
+provides an overview of design considerations to be taken into account
+when developing new services. From transport and financial
+transactions to telecommunications and computing, the publication
+outlines common problems experienced by the elderly and disabled
+and offers suggestions for addressing them.
+
+"The booklet is targeted at senior managers who aren't specialists in
+technology and don't have in-depth knowledge of disability," says Gill.
+The guidelines were produced as part of the RNIB's collaboration with
+the National Smartcard Project
+(http://www.nationalsmartcardproject.org.uk/), one of 22 national
+projects commissioned by the Office of the Deputy Prime Minister to
+aid local authorities on the road to e-government
+(http://fastlink.headstar.com/nat1).
+
+The collaboration identified three target audiences who needed more
+information about accessibility: senior managers and policy-makers in
+local government; project leaders responsible for implementing local e-
+government projects; and hardware and software designers who may or
+may not work for local government.
+
+The guidelines were developed in collaboration with Comité Européen
+de Normalisation (CEN - http://www.cenorm.be/), the European
+technology standards body.
+
+++4:...
+
+OK [Agrave;	192], replace accent at end of line, À
+
+ÿ, Replace accent at start of line, [yuml;  255] OK.
+
+TENS error [lt;  60] (not allowed in HTML/XML), <.
+
+TENS error [euro;  8364], item costs € 10.
+
+TENS error [pound;	 163], item costs £ 10.
+
+
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com/ .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

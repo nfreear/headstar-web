@@ -1,0 +1,56 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Nov 15 21:06:34 2009 __
+
+Input file: ../eab/issues/2009/aug2009.txt
+
+Warning: file already exists: ../eab/issues/2009/aug2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: aug | index: 8 | year: 2009
+URLs, prev: ../2009/jul2009.html | next: ../2009/sep2009.html
+Found ++, heading 2: Special Notice: Future Democracy '09
+Found ++, heading 2: Issue 116 Contents.
+>> FOUND 2:  | 01:  | Academic Urges Shift From Accessibility To 'Adaptability'
+>> FOUND 2:  | 02:  | Application Opens Up Twitter To Disabled Users.
+>> FOUND 2:  | 03:  | Survey Uncovers "Depressing Picture" For Employees
+>> FOUND 2: News in Brief:  | 04:  | Signed Games - for deaf players; 05: World
+OK, News in brief
+Found: Signed Games - for deaf players | ; |  05: World
+>> FOUND 2: Nominations - accessible cultural websites;  | 06:  | Techshare Programme
+Found: Nominations - accessible cultural websites;  | 06:  | Techshare Programme
+>> FOUND 2:  | 07:  | Tactile Culture - accessible exhibitions; 08: Museum Challenge -
+>> FOUND 2: audible descriptions;  | 09:  | TV Input - query answered; 10: BBC
+Found: TV Input - query answered | ; |  10: BBC
+>> FOUND 2: Obstacles - iPlayer barriers;  | 11:  | Audiobook Query - research required;
+Found: Audiobook Query - research required | ; | 
+>> FOUND 2:  | 12:  | JAWS Bafflement - screen-reader manual request.
+>> FOUND 2:  | 13:  | Time To Be Flexible: Though it may seem straightforward enough
+Warning line 67: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Academic Urges Shift From Accessibility To 'Adaptability'.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Application Opens Up Twitter To Disabled Users.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Survey Uncovers "Depressing Picture" For Employees.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  The use of sign language in videogames is being
+> ITEM 1:  05:  | : |  Global nominations for accessible cultural
+> ITEM 1:  06:  | : |  Richard Schwerdtfeger, chair of IBM's
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 248.
+> ITEM 1:  07:  | : |  In last month's issue reader Margot Whitfield of
+> ITEM 1:  08:  | : |  As a follow-up query on access to museums,
+> ITEM 1:  09:  | : |  Also in last month's issue, Flávia Oliveira Machado, a
+> ITEM 1:  10:  | : |  James Wright, a reader from the West Midlands,
+> ITEM 1:  11:  | : |  Ken Ingham, President of Amazability in
+> ITEM 1:  12:  | : |  Mark Pimm, a reader from the UK, writes in
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: Web Research
+> ITEM 2:  13:  | Time To Be Flexible
+Warning: not found a 'contents' match: Time To Be Flexibleby Brian Kelly.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 522.
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 532.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 539.

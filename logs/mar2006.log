@@ -1,0 +1,60 @@
+__ BUILD [tens2html.pl  v1.14] log Tue May 23 09:06:51 2006 __
+
+Input file: ../eab/issues/2006/mar2006.txt
+
+Warning: file already exists: ../eab/issues/2006/mar2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: mar | index: 3 | year: 2006
+URLs, prev: ../2006/feb2006.html | next: ../2006/apr2006.html
+Found ++, heading 2: Issue 75 Contents.
+>> FOUND 2:  | 01:  | Government Funding Gap Halts Progress On Accessible Books
+>> FOUND 2:  | 02:  | Less Than One In 100 UK Councils Hit Web Accessibility Goal
+>> FOUND 2:  | 03:  | New Draft Access Standards Unveiled For All Technologies
+>> FOUND 2:  | 04:  | Audible Navigational Devices Go Live in Birmingham
+>> FOUND 2: News in Brief:  | 05:  | Group Think -disability advisory group; 06: Award
+OK, News in brief
+Found: Group Think -disability advisory group | ; |  06: Award
+>> FOUND 2: Withheld - children's category blank;  | 07:  | Moon Misprint - web
+Found: Withheld - children's category blank;  | 07:  | Moon Misprint - web
+>> FOUND 2:  | 08:  | Protest Time - the high price of assistive technology; 09:
+>> FOUND 2: Benchmark Seeker - web guidelines required;  | 10:  | Copyright Question
+Found: Benchmark Seeker - web guidelines required;  | 10:  | Copyright Question
+>> FOUND 2:  | 11:  | The Only Game In Town - With the boundaries between
+>> FOUND 2:  | 12:  | Better Connected But Not More Accessible: This year's annual
+Warning line 52: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Special Notice:
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Government Funding Gap Halts Progress On Accessible Books.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Less Than One In 100 UK Councils Hits Web Accessibility Goal.
+Warning: not found a 'contents' match: Less Than One In 100 Uk Councils Hits Web Accessibility Goal.
+> ITEM 2:  03:  | New Draft Access Standards Unveiled For All Technologies.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Audible Navigational Devices Go Live in Birmingham
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A group of 12 people with direct experience of
+> ITEM 1:  06:  | : |  Not one nominated web site in the children's
+> ITEM 1:  07:  | : |  Last issue we published an incorrect web address
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 295.
+> ITEM 1:  08:  | : |  Fay Rohrlach from South Australia writes in
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 317.
+> ITEM 2:  09:  | Benchmark Seeker: Dalia Zamuiskaite from Lithuania writes:
+Warning: not found a 'contents' match: Benchmark Seeker: Dalia Zamuiskaite From Lithuania Writes:"I'M Looking For Help In Obtaining A List Of [Guidelines] For Web Site And
+> ITEM 1:  10:  | : |  Tony Dart of the Seeing Ear online library
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Opinion
+> ITEM 2:  11:  | The Only Game In Town
+Warning: not found a 'contents' match: The Only Game In Townby Kevin Carey.
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 472.
+Found ++, heading 2: Section Four - Focus
+> ITEM 2:  12:  | Better Connected But Not More Accessible
+Warning: not found a 'contents' match: Better Connected But Not More Accessibleby Mel Poluck.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 558.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 564.

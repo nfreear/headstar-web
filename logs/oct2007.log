@@ -1,0 +1,50 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:24 2008 __
+
+Input file: ../eab/issues/2007/oct2007.txt
+
+Warning: file already exists: ../eab/issues/2007/oct2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: oct | index: 10 | year: 2007
+URLs, prev: ../2007/sep2007.html | next: ../2007/nov2007.html
+Found ++, heading 2: Issue 94 Contents.
+>> FOUND 2:  | 01:  | Accessibility Ultimatum Proposed for UK Government Sites
+>> FOUND 2:  | 02:  | Vision-Impaired IT Worker Wins Discrimination Case
+>> FOUND 2:  | 03:  | Developers Fight to Save BBC's Suspended Learning Resource
+>> FOUND 2: News in Brief:  | 04:  | Allowance Correction - from last issue; 05: Virtual
+OK, News in brief
+Found: Allowance Correction - from last issue | ; |  05: Virtual
+>> FOUND 2: Libraries - international e-book services;  | 06:  | Leopard's Hotspots -
+Found: Libraries - international e-book services;  | 06:  | Leopard's Hotspots -
+>> FOUND 2:  | 07:  | Chinese Picture - national update; 08: Sound advice - Talking
+>> FOUND 2:  | 09:  | Conventional Access : Some 14 of the 32 articles of the United
+>> FOUND 2:  | 10:  | Moodling About: Nick Freear and Chetz Colwell write on their
+Warning line 51: expected [Contents ends].
+$toc_count=9
+Found ++, heading 2: Special Notice: e-Democracy '07
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Accessibility Ultimatum Proposed for UK Government Websites.
+Warning: not found a 'contents' match: Accessibility Ultimatum Proposed For Uk Government Websites.
+> ITEM 2:  02:  | Vision-Impaired IT Worker Wins Discrimination Case.
+Warning: not found a 'contents' match: Vision-Impaired It Worker Wins Discrimination Case.
+> ITEM 2:  03:  | Developers Fight to Save BBC's Suspended Learning Resource.
+Warning: not found a 'contents' match: Developers Fight To Save Bbc'S Suspended Learning Resource.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  In the last issue of E-Access Bulletin we
+> ITEM 1:  05:  | : |  Over 34,000 accessible format audio books
+> ITEM 1:  06:  | : |  Support for Braille displays and note taking
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 267.
+> ITEM 1:  07:  | : |  Kevin Chow, a blind person living in Hong
+> ITEM 1:  08:  | : |  There have been several responses to John
+Found ++, heading 2: Section Three - Conference Report
+> ITEM 2:  09:  | Conventional Access
+Warning: not found a 'contents' match: Conventional AccessBy Derek Parkinson.
+Found ++, heading 2: Section Four - Focus
+> ITEM 2:  10:  | Moodling About
+Warning: not found a 'contents' match: Moodling AboutBy Nick Freear And Chetz Colwell.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 606.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 612.

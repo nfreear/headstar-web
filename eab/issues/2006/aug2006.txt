@@ -1,0 +1,621 @@
++++E-ACCESS BULLETIN.
+- ISSUE 80, AUGUST 2006.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+Sponsored by:
+RNIB
+( http://www.rnib.org.uk )
+BT Age and Disability Unit
+( http://www.btplc.com/age_disability/ )
+Ford Motor Company
+( http://www.ford.co.uk )
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Special Notice: 'e-Access '06' - Technology For All.
+- 14 September 2006
+- New Connaught Rooms, London.
+
+'e-Access'06' is the UK's leading annual event on access by people
+with disabilities to all technologies. The conference and exhibition
+focuses on how digital technology both enables and prevents people
+with disabilities to achieve greater independence.
+
+Speakers include Peter White, BBC Disability Affairs Correspondent;
+Kevin Carey, vice-chair RNIB and Ofcom Content Board Member;
+and Guido Gybels, Director of New Technologies, RNID. Sponsors
+include BSkyB, BT, Jadu and Ford.
+
+Places cost 195 pounds for public sector, 295 pounds for private sector
+and 145 pounds for small charities and not-for-profit organisations (all
+prices exclude VAT) See:
+http://www.headstar-events.com/eaccess06/ .
+
+[Special Notice ends]
+
+
+++Issue 80 Contents.
+
+++Section One: News.
+
+01: Google Research Labs Launches Accessible Search Service
+- pages ranked according to accessibility rating.
+
+02: Access To Work Funding Closed To Central Government
+- funding for disabled employees handed to private sector.
+
+03: Voice Activation Software Offers 99 Per Cent Accuracy
+- new version of product for PCs and mobile devices launched.
+
+04: Free Screen Reader Released Online
+- Thunder goes on the market, free to individual users.
+
+News in Brief: 05: Shopping Trip - supermarket sites reviewed; 06:
+Cheap Talk - free and discounted; 07: Sprechen ze English? - free
+online language courses.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Records Straight - British Museum responses; 09: E-Group Debate
+- continuing discussion on forums' accessibility.
+
+Section Three: Focus - Accessible DVD.
+10: A Victory for Persistent Pestering: Navigating DVDs can be hard
+work even when they contain audio description but, a prototype
+product was unveiled at last month's Sight Village conference, that
+looks set to improve DVD accessibility. Dan Jellinek heard the latest
+on this and other key developments in audio description.
+
+Section Four: Focus - Accessible Gaming Part One
+11: The Fight for Real World Innovation. Exciting developments are
+underway in the real and virtual worlds of accessible games
+development - just as well, according to one expert, who says
+imagination in the area of audio games has been lacking. Mel Poluck
+reports.
+
+[Contents ends].
+
+
+++Sponsored Notice: BT's Age and Disability Unit
+- Helping People to Communicate.
+
+Communication is at the heart of BT's business, and the aim of BT's
+Age & Disability (A&D) unit is to increase disabled people's
+opportunities to communicate with the world around them.
+
+Our research suggests that 23 million adults might be digitally
+excluded by 2025 if more is not done to encourage their use of the
+Internet. Our online guide to broadband
+http://www.btplc.com/age_disability/technology/broadband/guide/
+provides our older and disabled customers with a step by step guide to
+understanding and ordering broadband, specific examples of how
+broadband may benefit them including case studies, and a number of
+easy options for ordering BT Broadband.
+
+For more information about BT's Age and Disability work visit
+http://www.btplc.com/age_disability/ .
+[Sponsored Notice ends].
+
+Section One: News.
+
++01: Google Research Labs Launches Accessible Search Service.
+
+Search engine giant Google has launched a service that prioritises its
+search results according to the accessibility of web pages it finds. In
+addition to standard search criteria, Google Accessible Search
+( http://labs.google.com/accessible/ )
+is designed to rank pages according to how much graphic content they
+contain and how easy they are to navigate using keystrokes only.
+
+According to project leader TV Raman, of Google's research labs,
+Accessible Search is the first step in the company's strategy to make
+online content more easily available to people with disabilities. "The
+launch of Google Accessible search is a positive step towards our
+overall goal of making the world's information accessible and we're
+very excited about it," he told E-Access Bulletin.
+
+According to Raman, work on Google Accessible Search is far from
+finished. "This is an early stage Labs product, and we are planning to
+enrich our features and functionality based on user feedback," he said.
+Future developments will include versions tailored to different
+countries, available in new languages. "Our goal is to provide a more
+useful and accessible web search for the future and as part of this
+commitment we'll continue to refine and improve upon Accessible
+Search in many ways including eventually making it available in other
+languages and countries," he said.
+
+"In the past, visually challenged and blind Google users have often
+waded through a lot of inaccessible websites and pages to find the
+information they want or need. While we still have a lot of work to do,
+Accessible Search is an important step and I hope it improves web
+search accessibility for other people like me who are blind or visually
+impaired," he said.
+
+Interestingly, entering the search terms "search engine" produces
+results that rank Google below one of its main competitors MSN,
+suggesting that the company may need to improve the accessibility of
+its own web pages.
+
+
++02: Access To Work Funding Closed To Central Government.
+
+Disability groups have reacted with dismay to news that Access to
+Work funding is to be cut for all central government departments. The
+funding, which has been available since 1994, pays cash sums to
+employers for modifications or specialist equipment needed by
+disabled people in the workplace.
+
+"We're very concerned about this, it doesn't augur well for the future,"
+a spokesperson for the Disability Rights Commission (DRC -
+http://www.drc-gb.org/)
+told E-Access Bulletin. According to the DRC, payments under the
+Access to Work scheme have already stopped at the Department for
+Work and Pensions, the central government body responsible for
+administering the scheme, and other departments will follow suit.
+
+According to DRC, the cuts will make it more difficult for central
+government departments meet their own commitments for employing
+people with disabilities. "They are already miserably off-target," said
+the spokesperson. In addition, the cuts come at a time of government
+reforms to the incapacity benefits system aiming to encourage
+recipients back into work. "Our position is that if this is achieved by
+punishment, penalties and sanctions, without the support disabled
+people need it would be brutalism of the worst sort," said the DRC.
+
+According to DWP, the Access to Work funding previously made
+available to central government will now be paid to private sector
+employers. However, according to the DRC, the government's efforts
+to raise awareness of the funding have been poor. "It's been one of the
+best kept secrets of central government," said the spokesperson.
+According to a report presented to Parliament in October 2005, three-
+quarters of British employers have never heard of the scheme
+( http://fastlink.headstar.com/mem1 ).
+
+
++03: Voice Activation Software Offers 99 Per Cent Accuracy
+
+A new product from voice technology developer Nuance, Dragon
+Naturally Speaking 9, offers unprecedented levels of voice control over
+PCs and handheld devices.
+
+The product
+( http://fastlink.headstar.com/dragon1),
+which removes the need for keystrokes and mouse movements, is
+claimed by Nuance to be 20 per cent more accurate than the product it
+replaces, taking accuracy levels to around 99 per cent.
+
+Naturally Speaking 9 can also process voice input at speeds up to 160
+words per minute, which means that it is faster and more precise than
+typing. Nuance also claims that enhancements to the software
+eliminate the need for lengthy training to respond properly to the user's
+voice.
+The new release integrates with Microsoft Office, Outlook and Internet
+Explorer, as well as Corel and WordPerfect products. Naturally
+Speaking is also compatible with popular open source-based products
+such as Mozilla Firefox and Thunderbird. The product also supports
+wireless technology, being compatible with Nuance-approved
+Bluetooth headsets.
+"It's a tremendous product, there's nothing else like it," Brian Hartgen
+of TandT Consultancy told E-Access Bulletin.
+
++04:  Free Screen Reader Released Online.
+
+A free screen reader has been launched at Sight Village, the annual
+vision impairment conference dedicated to blindness issues in
+Birmingham, UK.
+
+The software, called Thunder, which provides all on-screen content as
+'spoken' audio output, can be downloaded from Screenreader.net
+( http://www.screenreader.net ),
+a new, non-profit, community interest company (CIC) from Choice
+Technology. Thunder was developed in partnership with international
+assistive technology UK company Sensory Software
+( http://www.sensorysoftware.com/ ).
+
+The screen reader is free to individual users, although organisations
+must pay a yearly subscription according to their size. Users will need
+a computer running Windows 2000, XP or Vista as well as speakers or
+headphones. "It will meet most of the needs of many blind users
+whether beginners or seasoned operators," Roger Wilson-Hinds, co-
+director of Screenreader.net, told E-Access Bulletin.
+"Apart from being free to blind home users, there is far less chance of
+conflict with other software running on a computer. This has very
+positive support implications and is great for family users"
+Other screen readers on the market include the widely-used 'JAWS for
+Windows' from US company Freedom Scientific, which costs 800
+pounds and Window Eyes from GW Micro, also in the US, which costs
+380 pounds. Another free screen reader 'Orca' is currently under
+development as the default screen reader of Ubuntu, an operating
+system based on the Linux open source platform.
+
+"We support anything that will give visually impaired people more
+access to technology at a lower cost," RNIB's Head of Products and
+Publications John Godber, in response to the launch.
+
+
+++News in Brief:
+
++05: Shopping Trip: The Tesco website is the only supermarket site to
+exceed minimum accessibility requirements according to the 'State of
+the e-nation' report from AbilityNet. The research used manual and
+automated checks to review accessibility and usability. Morrisons was
+found to be the second most accessible although visitors cannot buy
+directly from the site:
+http://fastlink.headstar.com/an1 .
+
++06: Cheap Talk: Some 300 talking glucose meters are to be made
+available to vision impaired Diabetics on low incomes following a
+Diabetes UK campaign about the high cost of the device. The price of
+the Sensocard Plus Meter, which measures blood glucose levels, has
+been lowered from 150 to 50 pounds and is available from Diabetes
+UK, among others:
+http://fastlink.headstar.com/diab1 .
+
++07: Sprechen ze English?: Free online English and German language
+courses aimed at vision impaired learners have gone live. Intermediate
+and advanced courses are offered to native speakers of Czech, English,
+German, Norwegian, Slovak and Spanish. The courses aim to enhance
+employment opportunities. The courses have been designed to work on
+both open source and proprietary browsers:
+http://eurochance.brailcom.org/ .
+
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
+
++08: Records Straight: Matthew Cock of the New Media Unit at the
+British Museum writes in response to a story published in the last
+issue, 'British Museum Launches Audio Described Online
+Collections.' Matthew writes: "I would like to set a few things straight
+about the two features we've launched. We've added one new tour with
+Audio Description of 20 objects to COMPASS
+(www.thebritishmuseum.ac.uk/compass),
+not a series of tours, as your article stated.
+
+"The article says '. . . some people reported the galleries' audio
+programmes to be lacking in detail.' We're not aware of any problems
+or comments on the content of the tours and we're not clear what you
+mean by the 'galleries' audio programmes. We've offered a web-based
+service for the Museum's web visitors, not at this stage part of any
+wider programme in the British Museum or sector.
+
+"The article also states 'There are links on each web page
+containing an mp3 sound file of a description of a specific object
+which can be downloaded onto portable mp3 players.' This is in fact
+the primary way that we have offered the audio files. Visitors to the
+site can listen to the audio through their web browser, or download the
+file for future use on their mp3 players.
+
+"Regarding the text-to-speech facility, Readspeaker, which we've
+launched on children's COMPASS
+(www.thebritishmuseum.ac.uk/childrenscompass),
+is aimed mainly at children with reading difficulties, and not, as you
+say in your article, visually impaired. We've been very careful not to
+claim this as a facility primarily aimed at improving access for blind
+and partially sighted users, as we have been advised that Readspeaker,
+is not an adequate substitute for screen readers or magnification
+software.
+
+"I'm sorry to say audio is not yet available on any of the public access
+terminals inside the Museum, though this is of course highly desirable,
+and something we're working on offering in the future."
+[further responses to inbox@headstar.com]
+
+
+Gustaw Kon from Germany also writes in response to the British
+Museum story: "It is good that your sponsors got their advert. Their
+product is pricey and only suitable for organisations.
+
+"No mention was made of the URL of the British Museum audio
+description site. Kind of useless really! [You could] just give the web
+address and let all those interested log on and make their own decisions
+and comments. Simple, don't you think? Cheap too, dare I say
+obvious?
+
+[Editor's Note: Readspeaker are not currently sponsors of any of our
+activities, and the decision to cover the story was made independently
+by
+our editorial team. The omission of the web address was regrettable,
+however, and an oversight: we always intend to list all relevant web
+addresses in our stories. So apologies for that.]
+[further responses to inbox@headstar.com]
+
+
++09: E-Group Debate: The debate on accessible e-groups continues.
+Deborah Hart of Women in London's Microyster computer group
+writes: "I was so astonished to see [Rich Caloggero's] reply to the
+enquiry you posted for me. Anyone who has used Yahoo will know
+that to configure a group you have to access the options via the
+web. Not only does this take you through the hideous process of
+creating a Yahoo identity - Google groups at least have an accessible
+alternative to the captcha graphic they use - but then all the other
+options of whether the group is to be private, how emails are to be
+delivered, etc, have to be set up via the web. This is also true for
+individual subscribers who may want to only receive emails as a
+digest.
+
+"This is very disheartening. Despite the millions of pounds going
+into voluntary sector ICT via the Change Up scheme, very few
+practical day-to-day working solutions are likely to result, just more
+websites, and second tier groups giving theoretical advice.
+
+I suspect a Mailman [the free software for managing electronic mail
+discussion and e-newsletter lists] type list would be easier to
+administer, but this type of service is usually out of the league of small
+self help groups. I was hoping to hear of a system that would allow a
+group of women with disabilities to be independent of 'help'.
+[further responses to inbox@headstar.com].
+
+On the same topic and in response to Rich Caloggero's contribution on
+e-groups last issue, Kim Walker writes: "I am a freelance computer
+adviser assisting charities for the disabled in Edinburgh, Scotland. A
+chat group for some disabled people is required and Yahoo groups may
+be the answer but, although it is good to see that [their] Captcha is not
+a problem, is the Yahoo groups' site W3C Web Accessibility Initiative
+approved? Is it truly accessible to people using screen readers, switch
+access, on-screen keyboards or keyboards only, for example? If not,
+could you recommend any Bobby approved sites that would qualify,
+which are not barred by the Captcha problem?
+[further responses to inbox@headstar.com].
+
+[Inbox ends]
+
+
+++Section Three: Focus
+- Accessible DVD.
+
++10: A Victory for Persistent Pestering.
+by Dan Jellinek.
+
+The menus on DVD disks are hard enough to navigate for sighted
+people, with jumbles of animated images often overlaid with confusing
+text menus leading to different episode or scene selections, and other
+disk features.
+
+For blind people, however, finding one's way around a disk is all but
+impossible, even if the disk features an audio description track which
+allows them to enjoy and understand the film itself. The problem is,
+how does the user know how to access the audio description track, or
+how to choose an episode, or even know which disk is which?
+
+At last month's annual Sight Village conference in Birmingham
+( http://www.qac.ac.uk/sightvillage ),
+for which E-Access Bulletin was the main media partner, a prototype
+talking DVD disk was unveiled by the RNIB aimed at tackling these
+problems.
+
+Currently in development in partnership with the BBC, which has
+implemented it on its new Doctor Who DVDs, the disk automatically
+starts with audio navigation, and then you use up and down arrows to
+access spoken commands such as Episode Selection, Play All or
+Special Features. Other functions reveal how many options there are,
+and give an overview of the disk's entire contents.
+
+"For the first time, absolutely everything on the disk's menus can be
+accessed through sound," Joan Greening of the RNIB told delegates.
+
+The Dr Who disks talk as soon as you put them into an ordinary
+mainstream DVD player. "It says 'Series 1, Disk 3', or whatever, so it
+is immediately clear which one it is out of a potential jumble of disks.
+How often have you dropped the lot on the floor?" Greening said, to
+sympathetic murmurs from the audience.
+
+Greening says the RNIB would like this prototype development work
+to lead to an industry standard for audio navigation, but it would be a
+de facto standard rather than a formal technical standard with the RNIB
+as its guardian. "We just want it to be out there."
+
+As well as audio navigation, which was needed on all disks, as many
+films as possible needed to be audio described, she said. The whole
+Doctor Who series is audio-described, following talks with the RNIB,
+as are around 150 films, most of which are listed on the RNIB website
+at:
+http://www.rnib.org.uk/dvd
+
+Audio description is now part of the mainstream product for these
+DVDs, something for which the RNIB and other campaigners had been
+pressing for years, Greening said. "It will normally say on the back of
+the box if it is audio described".
+
+Notable recent victories for Greening's own long-term, dogged
+campaigning work for RNIB have been pledges from Buena Vista and
+Warner Brothers to audio describe all future films, she says. Part of the
+problem faced has been identifying the right person to lobby in each
+film company, she says, as most do not have anyone tasked specifically
+with improving the accessibility of their output. But her persistence has
+paid off. "I'm like a dog with a bone, I don't give up, and I can pull in
+people to support us like people from the UK Film Council.
+
+"Without RNIB there would be no audio description in this country, it
+would not be in the cinemas, it would not be on DVDs. If you ever go
+to broadcasting meetings, there is never anyone there representing
+blind people unless we are there. But we're there now at Ofcom and
+other meetings. Now we're leading the world in audio description.
+
+Also on display in Birmingham this year was the Digital Media Centre
+from Portset Systems, the first receiver and player for TV, radio and
+teletext purpose-built for blind people
+( http://www.portset.co.uk/pdmc.htm ).
+
+The Portset device is the size of a largeish set-top box, and
+automatically tunes in to receive all Freeview TV channels, radio and
+teletext and output all signals as audio only. No TV screen is needed,
+although the device can have a picture signal routed through it to a TV
+set and tune in to a different channel at the same time.
+
+A series of large, colourful buttons of different shapes laid out in
+logical clusters allows users to navigate channels and access an
+electronic programme guide that includes current and future
+programme start, finish and running times, plus descriptions of what is
+on now and what is on next. A teach mode helps users learn keypad
+functions and layouts.
+
+The device receives digital radio, although it does not convert the text
+information stream broadcast with digital radio into an audio stream. It
+can record radio or TV onto an internal hard drive with a
+programmable timer setting, although it does not connect to a
+computer. It can play CDs and an upgrade to the system allows it to
+play DVDs, although it cannot record to DVD.
+
+At a cost of 859 pounds, it is not cheap, so it remains to be seen how
+many users will opt for specialist systems such as this now rather than
+wait to see if cheaper mainstream technologies are made more
+accessible and usable through innovations like the DVD audio
+navigation being developed by the RNIB and the BBC.
+
+[Section three ends].
+
+
+++Section Two - Focus
+Accessible Gaming Part One
+
++00: The Fight for Real World Innovation
+by Mel Poluck.
+
+"There are too few examples of game accessibility," Richard van Tol
+told E-Access Bulletin at last month's annual game developers
+conference Develop held this year in Brighton, England and hosted by
+Independent Game Developers Association ( IGDA -
+http://www.igda.org/ ).
+
+There are around 200 audio games - those that use only sound to guide
+players - in existence today. Many are based on traditional board
+games such as Monopoly with sound added to represent players
+moving squares, picking a card and so on. But the majority are "boring
+and behind the times," according to van Tol, of the Bartiméus
+Accessibility Foundation
+( http://fastlink.headstar.com/bart1 )
+in the Netherlands, and a member of IGDA's game accessibility
+special interest group (GA SIG -
+http://www.igda.org/accessibility/ ).
+
+"If you compare games from five years ago to now, there's hardly any
+increase in quality," said van Tol. He said the audio quality of many
+accessible games is basic, with some even sounding akin to alarm
+clocks. "That's what we're trying to change with the SIG," he said.
+Van Tol said many of the most innovative and exciting examples of
+accessible or audio games are to be found in the form of research and
+development projects of University students and this must change.
+
+The GA SIG has among it's objectives: ". . . to help bridge the
+knowledge gap about how to increase the accessibility of mainstream
+games that exists between disability groups and game developers and
+game developers and publishers." In closing or at least narrowing this
+chasm, the group acts as an intermediary between disabled gamers and
+the mainstream game development industry, and informs companies
+creating accessible games will ultimately increase their market.
+
+The group also notifies companies when they unwittingly create
+accessible games, a not uncommon occurrence according to van Tol.
+Video or arcade games are good examples. "Many are automatically
+accessible but the developers don't know that," said van Tol. "The
+genre of 'beat-em-up' games is really accessible," he told E-Access
+Bulletin. Last year the GA SIG told the company behind one popular
+mainstream games console their efforts to add extra features such as
+adjustable font size, considered "cool" and perhaps even gimmicky to
+sighted players, were in fact making their games accessible to vision
+impaired gamers and consequently opening their market.
+
+Now, in the bid to lift flagging innovation and encourage the
+development of more imaginative accessible games, the GA SIG has
+invited some of the world's largest technology companies to submit
+games accessible to the widest possible audience for a worldwide
+contest, 'Accessibility idol.' Contestants will demonstrate their
+accessible game in a 'show' in the style of the popular TV singing
+contest Pop Idol at the Game Developers Conference in San Francisco
+next March. The GA SIG team are seeking judges and disabled
+'coaches' to advise contestants as their game develops.
+
+Another competition from game remake company Retro Remakes
+( http://www.retroremakes.com/comp2006/ )
+calls on contestants to create: 'good remakes of good games that
+anyone can play, regardless of their ability.'
+
+And games programmers and writers are invited to submit entries for a
+contest for a contest from free online computer software resource
+Donation Coder
+( http://fastlink.headstar.com/agame1 ),
+based in the US. Entrant submit their games in two categories: audio-
+only or 'switch' games, where the only input is a single button, such as
+the spacebar, for people with mobility impairments.
+
+But there are new signs emerging of innovative accessible games
+development. One of the most exciting examples is a location-based
+game for vision impaired and sighted players that uses satellite
+navigation system Global Positioning System (GPS) and 3D sound to
+guide vision impaired players to move around a large physical area
+such as a field or large room as they play. A shooting game, the player
+is equipped with a backpack containing a laptop, headphones, a GPS
+module, a head tracker and a modified joystick. The development
+team, comprising seven students under the Bartiméus Accessibility
+Foundation, are presently seeking funding to release the game, Demor,
+on the market.
+( http://www.demor.nl/ ).
+
+But to improve the accessibility overall of games, and to begin to make
+imaginative, exciting games the norm, van Tol calls on gamers
+themselves to make a noise. "I've noticed especially on [blind gamers'
+online magazine] Audessey, many gamers want to make themselves
+heard. The blind community is active but only within its own silo,"
+said van Tol. "We need a community of disabled gamers to stand up
+and talk to the industry and make themselves heard more."
+[Section Four ends].
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2006 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]

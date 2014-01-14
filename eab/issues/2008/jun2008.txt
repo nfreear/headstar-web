@@ -1,0 +1,631 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 102, June 2008.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+
+end). We conform to the accessible Text Email Newsletter (TEN) 
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 102 Contents.
+
+01: Accessibility Deadlines Set For UK Government Websites
+- But warning on non-compliance watered down from draft.
+
+02: Major Employers Launch Accessibility Taskforce.
+- Corporations urged to cater for all employees and customers.
+
+03: Charity Embraces Social Networks and Second Life
+- Contact a Family looks to support parents online.
+
+News in Brief: 04: September Draft - BSI web standard update; 05: 
+European Prize - inclusion wards; 06: Queen's Speech - talking 
+newspapers win royal recognition.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Editor's note: Inbox missing this month due to technical 
+difficulties.
+
+Section Three: Organisation in the Spotlight - The Employers' Forum 
+on Disability.
+08: Blue Chip Access: Since 1991 the EFD, the largest organisation of 
+its kind in the world, has campaigned for more inclusive, accessible 
+workplaces. Dan Jellinek and James Scott report on the body's ultimate 
+goal for its members - 'disability confidence'.
+
+Section Four: Opinion - Web Accessibility.
++09: Life In the Post-Guideline Age: When people hear the term 
+'accessibility' they tend to think of technical standards, but true 
+equality of access means much more than that, says Julie Howell. 
+Disabled people should be able to have the same experience as anyone 
+else, and access the same services in the same time.
+
+[Contents ends].
+
+
+++Special Notice: Designing for all: an inclusive approach to web, 
+print and electronic publishing
+- A practical, one-day training course and document clinic
+- Tuesday 24 June, Central London
+http://www.headstar-training.com/dfa/
+
+Trainer: Katie Grant, former publications manager, Disability Rights 
+Commission.
+
+'Designing for all' is a practical seminar designed to introduce 
+organisations to the importance of designing accessible, easy to read 
+information for a range of different audiences including older people, 
+people with disabilities and people for whom English is not their first 
+language.
+
+It will help you assess current design and content of information - 
+please bring examples to our document clinic - and follow an inclusive 
+model to improve accessibility across your communications mix.
+
+The course will be of interest to anyone who is involved in the design 
+and delivery of information in print, electronic and web formats 
+including web content managers; content teams; marketing and 
+communications officers; and publications staff. To book a place see:
+http://www.headstar-training.com/dfa/
+
+[Special Notice ends].
+
+
+++Section One: News.
+
++01: Accessibility Deadlines Set For UK Government Websites.
+
+All new UK public sector websites must conform to at least 'AA' 
+accessibility standards as specified by the W3C Web Content 
+Accessibility Guidelines, according to guidance published this month 
+by the Cabinet Office.
+
+Existing central government department websites must conform to 
+'AA' by December 2009 and all other government agencies and non-
+departmental bodies by March 2011, according to the guidance, 
+'Delivering inclusive websites' (
+http://www.coi.gov.uk/guidance.php?page=129 ).
+
+The guidance allows public bodies a little more breathing space than 
+was proposed in a draft published last autumn (see 
+http://www.headstar.com/egblive/?p=55). This had called for 
+compliance for all sites by December 2008.
+
+The final guidance - which is not mandated by law - also tones down 
+the severity of its warning of repercussions for non-compliant bodies, 
+compared with last year's draft.
+
+The draft had threatened to switch off non-compliant websites 
+altogether, warning: "websites which fail to meet the mandated level of 
+conformance shall be subject to the withdrawal process for .gov.uk 
+domain names". The final guidance issues a similar warning, but using 
+the softer formula 'may be at risk' instead of 'shall be subject to': 
+"Government website owners are reminded to follow the conditions of 
+use for a .gov.uk name (Registering .gov.uk domain names (TG114)). 
+Websites which fail to meet the .gov.uk accessibility requirements may 
+be at risk of having their domain name withdrawn".
+
+The conditions of use for .gov.uk domains referenced here, document 
+TG114, do not spell out in clear terms what precise actions government 
+websites need to take to be accessible. Instead they state in general 
+terms: "Applications (web, email, etc) using a .gov.uk domain name 
+must comply with current UK legislation and support channels that 
+provide accessibility for disabled people.Abuse of [sic] will result in 
+the name being withdrawn" (see
+http://fastlink.headstar.com/caboff1 ).
+
+Other areas covered by the new guidance includes a requirement for 
+bodies to produce website accessibility policies; and advice on 
+assessment of accessibility through the use of user testing and other 
+methods.
+
+
++02: Major Employers Launch Accessibility Taskforce.
+
+A taskforce to help businesses provide accessible technology to 
+employees and customers has been launched by the UK's Employers' 
+Forum on Disability (EFD -
+http://www.efd.org.uk),
+a body whose members include some of the country's largest 
+corporations and public agencies.
+
+The aim of the forum's Business Taskforce on Accessible Technology 
+is to "make accessibility and usability as fundamental to IT as security
+
+is now," said Steve Lamey, Chief Operating Officer of HM Revenue & 
+Customs and chair of the new group.
+
+Some parts of the business community are still failing to see the 
+benefits of improving accessibility, the forum says. Accordingly, one 
+of the most important jobs of the new taskforce will be to promote 
+awareness of the strong business case for engaging with disabled 
+people as both colleagues and customers.
+
+Accessibility adjustment can be simple and inexpensive, such as 
+making better use of accessibility options in MS Office, and can lead to
+
+major benefits, the forum says. For example, accessible recruitment 
+would open the door to another 1.3 million potential employees in the 
+UK, it says. And accessible websites can be up to 75 per cent smaller, 
+making them quicker to load and reducing infrastructure demand. 
+Legal and General's new accessible website increased online sales by 
+90,000 pounds and reduced costs by over 200,000 per annum, the 
+forum says.
+
+Taskforce members include representatives of leading global brands 
+such as Goldman Sachs and Sainsbury's. It will help members share 
+tips and advice; encourage suppliers to deliver more accessible 
+products; and try to improve training in the provision of accessible IT 
+solutions.
+
+NOTE: For a full background report on the Employers' Forum on 
+Disability see 'Organisation in the Spotlight', Section Four, this
+issue.
+
+
++03: Charity Embraces Social Networks And Second Life.
+
+A leading charity is using a wide range of social networking and 
+multimedia sites - Facebook, MySpace, Bebo, YouTube and iTunes  - 
+to provide support and information to parents of disabled children and 
+help them contact each other.
+
+Contact a Family (http://www.cafamily.org.uk/), which runs a parent 
+networking website called Making Contact 
+(http://www.makingcontact.org/), says parents of disabled children 
+often feel isolated because they don't know anybody in the same 
+situation. But mothers, who are often the primary carers for children 
+with disabilities, are now among the biggest users of social networking 
+sites, it says.
+
+Srabani Sen, Chief Executive of Contact a Family says: "Mums 
+exhausted by night after night of broken sleep and restricted from 
+leaving the house because of their intensive caring roles are turning to
+
+social networking sites for emotional support and information about 
+their child's condition."
+
+The charity has also set up a 'virtual library' in the online world 
+Second Life, which has welcomed around 100 visitors since its launch 
+in May. The virtual library is manned every Wednesday from 10am - 
+4pm when 'Advisor Somerflek', the charity's avatar or virtual persona, 
+is on hand to talk to visitors courtesy of a real-world parent adviser. 
+For those in the know, the office is located at the co-ordinates Aloft 
+Island 19.40.22 .
+
+The charity is by no means the first to set up in Second Life and the 
+virtual world's owners, Linden Labs, offer special discounts to non-
+profit bodies (http://secondlifegrid.net/programs/nonprofit). A notable 
+example is Save the Children who collected money to provide animals 
+for Tibetan peasants by selling virtual Yaks.
+
+
+++ News in Brief:
+
++04: September Draft: The British Standards Institution is to issue a 
+draft of its planned standard for accessible website development in 
+September, E-Access Bulletin has learned. Julie Howell, chair of the 
+BSi's technical committee IST45/Web Accessibility which is 
+responsible for drawing up the new standard, said the group is 
+currently finalising the structure of the document and drafting will 
+follow for September consultation. The standard itself, which has now 
+been allocated the number BS8878, is expected to be published in 
+April 2009:
+http://www.bsi-global.com .
+
+
++05: European Prize: A set of awards aimed at inspiring progress 
+towards fighting digital exclusion has been announced by the European 
+Commission. The European e-Inclusion Awards will be awarded to 
+individuals, organisations and companies in seven categories including 
+e-accessibility. Entries close on 12 September, with winners 
+announced in December, and a special briefing session on the project 
+will be held in Brussels on 27 June:
+http://www.e-inclusionawards.eu/ .
+
+
+Queen's Speech: National Talking Newspapers and Magazines, a 
+Sussex-based charity making newspapers available in accessible 
+formats for blind and print-disabled people, has won the prestigious 
+Queen's Award for Voluntary Service. Since 1984 the charity has been 
+providing newspapers and magazines in a variety of formats including 
+tape, audio CD, DAISY format talking book CD and audio download. 
+The charity produces more than 200 newspaper and magazine titles 
+each year and delivers 1 million tapes and CDs:
+http://www.queensawardvoluntary.gov.uk/
+
+
+[Section One ends].
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that 
+everyone finds the web sites we design easy to use. As well as being 
+accessible, Fortune Cookie sites are beautiful and deliver stunning 
+return-on-investment. They're award-winning too. In 2007, our work 
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the 
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible. 
+If you'd like to know what accessibility can do for your business, talk 
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Section Two: Inbox
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+++07: Editor's Note - Technical Problems: Owing to technical 
+problems, we have unfortunately lost some of our email including the 
+most recent submissions to our Inbox section.
+
+We apologise for this, which has never happened before, and will do 
+our best to ensure it never happens again. In the meantime, if you have 
+sent in a message or response to Inbox since last month's issue, we 
+would appreciate it if you could resend it to the usual address - 
+inbox@headstar.com - and we will publish the missing messages next 
+month.
+
+Do also send in any new queries or comments you may have on our 
+coverage or on any issue relating to access to technology by all, and we
+
+will also publish any new messages.
+
+Best regards,
+Dan Jellinek, Editor, E-Access Bulletin.
+
+[Section Two ends].
+
+
+++Section Three: Organisation in the Spotlight
+- The Employers' Forum on Disability.
+
++08: Blue Chip Access
+By Dan Jellinek and James Scott.
+
+The creation of the Employers' Forum on Disability (EFD) Business 
+Taskforce on Accessible Technology (see News, this issue) is a sign 
+that the UK's and the world's largest companies and organisations are 
+beginning to take accessibility seriously.
+
+The taskforce aims to help global ICT suppliers and regulators 
+understand what organisations need from IT products and standards if 
+they are to employ and do business with disabled people.
+
+So what kind of body is the EFD?
+
+The forum claims to be the largest and most active organisation of its 
+kind in the world. It has campaigned since 1991 for more accessible 
+and inclusive workplaces, collaborating with disabled people, 
+government and businesses to help make it easier for firms to employ 
+disabled people and serve disabled customers.
+
+It has published numerous guidelines advising its members on how to 
+improve provisions for the disabled, on topics such as employment, 
+customer care, IT, e-commerce, e-recruitment, the built environment, 
+product development, corporate responsibility, procurement, health and 
+safety, occupational health, marketing and communications.
+
+Among its highest profile projects is the Disability Standard, which the
+
+EFD claims is the only management tool available that allows 
+organisations to accurately measure their performance on disability, 
+including access to IT. In 2007, some 116 UK and global private and 
+public sector employers used the standard.
+
+The forum also sponsors the Great Place to Work Institute's Disability 
+Excellence Award, which has been won three times in a row by the 
+investment bank Lehman Brothers. The bank's exemplary measures 
+include some innovation with technology such as an intranet sites for 
+disabled employees and a scheme whereby hearing-impaired 
+employees are given a Blackberry portable email device to carry at 
+work, which is activated via pre-set alert information in case of 
+emergency evacuation from a lift or building.
+
+The EFD says it has been promoting the benefits of accessible IT in 
+several ways for many years prior to the establishment of its new 
+taskforce, including the publication of a practical guide to accessible 
+web design and the delivery of accessibility training events. Despite 
+these services, however, the body acknowledges that poor practice 
+does continue among UK businesses.
+
+"Poor practice relating to access to technology has been well 
+publicised, such as the 2004 Disability Rights Commission report on 
+Access and Inclusion for Disabled People," EFD spokesperson Liz 
+Nightingale told E-Access Bulletin. "Since this report was published a 
+number of organisations including EFD members like Legal and 
+General and Lloyds TSB, have been working hard to demonstrate best 
+practice around accessible IT."
+
+Despite the progress, the forum knows there is still plenty of work to 
+be done if it is to achieve its ultimate stated goal of completely 
+outlawing discrimination in the workplace. Nevertheless, its founder 
+and chief executive Susan Scott-Parker is determined that this 
+objective will be achieved.
+
+Scott-Parker, a Canadian who has lived in Britain for 25 years, 
+established the forum in 1991. Since then it has grown rapidly to its 
+current size of 400 members including 120 global companies, which 
+between them employ eight million people, or some 20 per cent of the 
+UK's workforce. Members include Barclays, whose group CEO John 
+Varley is current EFD president; and Royal Mail Group, whose CEO 
+Adam Crozier is chair. And the forum's prestigious 'President's group' 
+read like a who's who of British business, from Tesco CEO Sir Terry 
+Leahy to BT's chief Ben Verwaayen. The purpose of such a senior 
+grouping is to signal to colleagues, customers, and government that 
+disability is a strategic business and societal priority, the forum
+says.
+
+Scott-Parker has also been involved in many international projects in 
+the disability arena including helping the International Labour 
+Organisation ILO establish the Sri Lankan employers' network on 
+disability and pioneering the world's first leadership program for 
+people with disabilities, in partnership with consultants The Coverdale 
+Organisation. In 2000 she was honoured with an OBE.
+
+It is a sign of how seriously the forum now takes accessibility
+therefore 
+that Scott-Parker has stepped forward to chair the new taskforce 
+herself.
+
+"The taskforce is a continuation of our work around accessible IT and 
+our long-term goal is to develop guidance to help our members 
+confidently measure and improve the accessibility of internal systems 
+and external services," says Liz Nightingale. "We are also pleased to 
+be represented on IST/45, the British Standards Institution committee 
+responsible for creating BS8878, the first British standard on web 
+accessibility. This is due to be published in the first quarter of 2009.
+
+
+"One of the biggest objectives for the taskforce this year is to engage 
+with key players in the IT industry and we are delighted that 
+representatives from some of these organisations are meeting with 
+taskforce members in the middle of June to informally discuss the 
+business case for disability. We see this as the beginning of a very 
+exciting and meaningful collaboration which will result in barrier free 
+IT for all employees".
+
+Ultimately, the goal of all the forum's work could be summed up by a 
+phrase which appears in its citation to the three-time winner of its 
+disability excellence awards, Lehman Brothers - 'disability 
+confidence'.
+
+"We are looking for an approach to disability that is above and beyond 
+legal compliance," says Rhiannon Suter, research and innovations 
+manager at EFD. "We are looking for 'disability confidence,' meaning 
+that the company understands the benefits and has the flexibility to 
+remove barriers for groups of disabled people, but also make 
+adjustments that enable individuals to contribute."
+
+If the new taskforce can achieve this for the use of technology in the 
+workplace and its development for the consumer, all its goals will have 
+been achieved.
+
+[Section Three ends].
+
+
+++Section Four: Opinion
+- Web Accessibility.
+
++09: Life In the Post-Guideline Age.
+by Julie Howell.
+
+Joe Clark, the Canadian web accessibility expert, has said that he 
+believes we now live in a post-guideline era.
+
+What might Joe mean by this?
+
+To date, talk about making websites usable by disabled people has 
+usually featured the W3C Web Accessibility Initiative Web 
+Accessibility Guidelines as a key aspect. This is absolutely appropriate
+
+and remains the crucial foundation of every website.
+
+However research, such as that undertaken by the Disability Rights 
+Commission in 2004, has suggested that even those organisations that 
+believe they have applied accessibility guidelines when designing their 
+sites are not always producing websites that disabled people can use 
+with sufficient degrees of success.
+
+This would seem to point to a gap in understanding between web 
+developers and the guidelines. It may be that developers fully 
+understand the technical aspects of the guidelines but are failing to 
+address disabled people's user experiences. An accessible website that 
+is unusable is of little help to disabled people, so in order to create
+web 
+experiences that are meaningful for disabled people perhaps it's time 
+we began to think beyond technical guidelines and put stronger focus 
+on usability for disabled people.
+
+It is crucial to understand that thinking around web usability for 
+disabled people is maturing year by year. Technology improves and 
+our understanding of how disabled people use the web improves.
+
+In the past, accessibility advocates have promoted the 'design for all' 
+and 'one size fits all' approaches to web design, where a single version
+
+of the site is designed to be accessible to everyone, regardless of
+ability 
+or disability. However, personalisation is now a very common web 
+design practice where everyone who visits a site (be they disabled or 
+not) is served a version of the content and design that is optimised 
+according to their individual needs and preferences.
+
+In the 'real' world we are naturally opposed to alternative entrances to
+
+buildings or different levels of service provision for disabled people,
+as 
+'alternative' and 'different' in this context often means 'segregated'
+and 
+'poorer quality'. However, online personalisation really means 'better 
+quality' with web experiences optimised to better suit every individual.
+
+This does not mean text-only versions of sites for disabled people. But 
+it can mean optimised content that is easier and quicker to navigate if 
+you are using a screenreader (for example).
+
+I cite as an example Tesco.com. Tesco has - after extensive user testing
+
+with screenreader users - created an optimised version of its e-grocery 
+service to give screenreader users a better quality, faster shopping 
+experience with access to its full product range. Some screenreader 
+users feel this is unacceptable, believing one version of the site
+should 
+cater for everyone's needs, while others are happier to use a site that
+is 
+optimised for screenreader use.
+
+A few years ago I would have agreed that creating an 'alternative' 
+version of a website is not acceptable. But today, with everyone 
+receiving an online experience that is virtually tailored for them 
+individually, the optimised approach seems to offer greater benefits. 
+The UK's Disability Discrimination Act requires equality of service 
+provision. Does this mean blind people should use the same version of 
+a website even if it greatly slows them down, or is an optimised 
+version that allows a faster, better quality user experience preferable,
+
+so long as the standard of service is equal to that received by people 
+who are not disabled? If you think in terms of excellent user 
+experiences for disabled people, optimisation and personalisation 
+would seem to have more to offer.
+
+We need to keep our eyes on web trends and recognise trends that 
+actually help to improve disabled people's experience of the web. 
+Arguably, personalisation is a trend that actually helps as its focus is
+on 
+sites' best possible performance for every user and is a great deal more
+
+effective that the 'one site for all' approach.
+
+Guidance is changing. Watch out for version 2.0 of WCAG, which 
+should be published in 2009, and the new British Standard for web 
+accessibility (BS8878) that should appear next April. There is a shift
+of 
+emphasis towards including user testing by disabled people that 
+encourages web developers to be mindful of disabled people's online 
+experiences.
+
+The new approach will also appeal to businesses and this is also very 
+good news for disabled web users. The aim of any website is to convert 
+its visitors into customers. Businesses are now investing a good deal 
+more time and money into optimising 'user journeys' to ensure that the 
+people using their sites find the route to making a purchase (or finding
+
+the information they are looking for) as quick, easy and enjoyable as 
+possible.
+
+I think of this as a pyramid. Web accessibility is the foundation. 
+Usability by disabled people is the next layer. And both of these 
+underpin the ultimate goal: excellent user experiences by disabled 
+people (and everyone).
+
+If we really want equality on the web, it strikes me that we must adopt 
+the language that businesses are using when they talk about creating 
+websites that maximise profit. Right now, businesses are really 
+interested in how the web can quickly deliver return on investment 
+through increased sales. They are looking to web usability techniques 
+to achieve the creation of excellent user experiences for everyone 
+because they know this leads to increased sales. We need to make sure 
+that businesses understand that disabled people have a right to 
+excellent user experiences too and to view disabled people as simply 
+another target audience. If we can do this, our goal of online inclusion
+
+and equality really could become reality.
+
+NOTE: Julie Howell delivered the keynote speech at this year's E-
+Access '08 conference, hosted by E-Access Bulletin 
+(http://www.headstar-events.com/eaccess08). Julie is Director of 
+Accessibility at Fortune Cookie and chairs the British Standards 
+Institution's committee on web accessibility (see also News in brief, 
+this issue).
+
+[Section Four ends]
+
+
+++Special Notice: Building the Perfect Council Website
+- Major International Keynote Speaker for 2008
+- 16 July, Olympia 2, Central London
+http://www.headstar-events.com/council08/ .
+
+We are pleased to present our third annual event on how to create the 
+perfect council website: a partnership between E-Government Bulletin 
+and the Socitm Insight Programme.
+
+Our keynote speaker this year is international web usability guru Gerry 
+McGovern. An authority on creating effective web content, Gerry has 
+been described by the Irish Times as one of the world's five leading 
+web visionaries (alongside Tim Berners-Lee, Tim O'Reilly, Nicholas 
+Negroponte and Vint Cerf).
+
+Elsewhere, the event will draw on the collected wisdom of a decade of 
+Socitm's annual 'Better Connected' review of all UK council websites. 
+Workshops will cover issues in detail including boosting web service 
+take-up. Secure your place today at:
+http://www.headstar-events.com/council08/
+
+And for companies interested in exhibition spaces please contact Will 
+Knox on
+will.knox@headstar.com or phone him on
+01273 267974.
+
+[Special notice ends].
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email 
+addresses to subscribe in the body of the message. Please encourage all 
+your colleagues to sign up! To unsubscribe at any time, put 
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2008 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this 
+copyright notice are included, and as long as people are always 
+encouraged to subscribe with us individually by email. Please also 
+inform the editor when you are reproducing our content. Sections of 
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+
+from e-access bulletin, a free monthly email newsletter', and our web 
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporter: Majeed Saleh
+Editorial advisor - Kevin Carey
+Marketing Executive - Claire Clinton
+Sales and Marketing - Jo Knell, Will Knox.
+
+ISSN 1476-6337 .
+
+[Issue 102 ends.]

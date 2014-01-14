@@ -1,0 +1,620 @@
++++E-ACCESS BULLETIN.
+- ISSUE 50, FEBRUARY 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 50 CONTENTS.
+
+01: Access gap to narrow within five years
+- says US analyst in live web seminar.
+
+02: Workgroup to promote open source solutions
+- initiative to boost access to Linux.
+
+03: UK radio station plan for blind community
+- charity looks to form broadcasting consortium.
+
+04: Spoken text messages 'live within weeks'
+- BT offers synthesised speech to text land lines.
+
+News in brief: 05: Shining examples - RNIB awards; 06: One format -
+style sheet downloads; 07: Newsletter relaunch - Access World online;
+08: Trial won - web court archives scoop prize.
+
+Section two: 'The Inbox' - Readers' forum.
+09: Type cast - fonts debate; 10: Welsh synthesizer - language
+hardware; 11: Musical coda - email resource.
+
+Section three: Opinion - retrospective.
+12: It's 50 steps forward - and 49 back: On the 50th birthday of E-
+Access Bulletin, Kevin Carey looks back in irritation at 50 months of
+minimal progress in his access to computers.
+Section four: Research - web access.
+13: Problems dissected in the user lab: Results of broad research into
+accessibility show a range of barriers still hinder progress, say John
+Knight and Marie Jefsioutine.
+
+[Contents ends].
+
+
+++SECTION ONE: NEWS.
+
++01: ACCESS GAP TO NARROW WITHIN FIVE YEARS.
+
+The gap between accessible and mainstream technology in the US will
+narrow significantly over the next five years, according to one leading
+expert.
+
+Mike Paciello, founder and president of accessibility consultancy the
+Paciello Group (http://www.paciellogroup.com), made the prediction
+during the course of a seminar broadcast live on the web last week by
+internet TV station AT508 (http://www.at508.com)
+The online debate, 'Homeland security - the roadmap for achieving
+section 508 compliance' (http://fastlink.headstar.com/seminar1),
+focused on section 508 of the Rehabilitation Act 2001
+(http://www.section508.gov), which requires all US government web
+sites to be accessible.
+
+Paciello, who is also co-founder of the World Wide Web Consortium's
+Web Accessibility Initiative (http://www.w3.org/WAI/), said: "We see
+an accessibility gap. Advances made within technology where fields of
+accessibility are concerned tend to lag behind those advances made in
+mainstream information technology." However, he said: "As a result of
+compliance with section 508 and World Wide Web consortium
+standards, what we should see over the next five years is a closing of
+the technology gap, so we see more products coming out immediately
+and inherently accessible".
+
+Viewers could email questions to the seminar. According to Paciello,
+the Department of Homeland Security
+(http://www.dhs.gov/dhspublic/accessibility.jsp) is leading the way in
+Section 508 implementation within the US government, which is the
+single largest employer of people with disabilities in the US.
+In making a technology accessible it is crucial to involve users in the
+testing stages, said Paciello. "If you are solely relying on tools to
+ensure your web site is accessible, I can guarantee you it will not be;
+you need to get the users involved". He said there was also a need to
+educate staff: "Employees need to understand how people with
+disabilities use these electronic information technologies," Paciello
+said.
+
+
++02: WORKGROUP TO PROMOTE OPEN SOURCE SOLUTIONS.
+
+A US-based group which promotes open source software has launched
+an accessibility workgroup to establish standards for making the Linux
+operating system and associated software accessible to people with
+impaired vision.
+
+The free standards group (http://www.freestandards.org), an
+independent non-profit body, launched the workgroup at a Linux
+conference in New York last month
+(http://accessibility.freestandards.org).
+The group will create standards to support assistive technologies for
+users of open source applications - the software that contains a free
+and openly available source code. One key priority will be to develop a
+standard to enable assistive technology such as screen readers and
+magnifiers to interact with graphical user interface controls.
+Janina Sajka, the group's chair, told E-Access Bulletin: "Technology is
+too expensive and too cumbersome to learn to use. Through the Free
+Standards Accessibility Workgroup we aim to change that; we will do
+so in full conformance with the communitarian spirit of open source
+development."
+
+Currently, many open source platforms use inaccessible graphical user
+interfaces for which few assistive technologies exist. The group will
+work with Linux developers to make applications accessible, provide
+advice and information, and encourage the implementation of user
+support across platforms that promote free and open standards.
+"Users are invited to participate in the design and development of the
+technology they need. Our process isn't anybody's private property. 
+It's
+fully public and participatory," said Sajka, who is also research
+director at the American Foundation for the Blind (see E-Access
+Bulletin, issue 49, January 2004, section three). Other members include
+representatives from Sun Microsystems; IBM and several open source
+organisations.
+
+
++03: UK RADIO STATION PLAN FOR BLIND COMMUNITY.
+
+Plans to form a consortium to create the UK's first national radio
+service dedicated to blind and partially sighted listeners were 
+unveiled
+last week by a leading charity.
+
+St Dunstan's (http://www.st-dunstans.org.uk), the charity for people
+with impaired vision who have served in the armed forces, has called
+on interested parties to form a steering group to explore broadcasting
+platforms, funding options and content ideas for the service.
+The UK lags behind other nations that already have bespoke national
+radio stations for the blind community such as Australia, with its 
+Radio
+for the Print Handicapped (RPH - http://www.rph.org.au). And
+America has ACB Radio, owned and operated by the American
+Council for the Blind (http://www.acbradio.org), which webcasts
+programmes across 70 countries.
+
+There is already an RNIB-backed web-based radio station based in
+Scotland, VIP ON AIR (http://www.junction-18.com/viponair/home/view), which broadcasts from Glasgow to the
+world. But to date there is no comparable service for the whole of the
+UK.
+"Our vision is to create a service that is dedicated to the needs of 
+the
+UK's blind and partially sighted communities, but doesn't focus solely
+on 'visually impaired' issues," says Nick Ward, fundraising and
+communications director at St Dunstan's. "We have had a lot of
+interest from blind and partially sighted programme makers. Engaging
+them in the service will ensure that we take a wide view on content."
+The steering group will explore broadcasting the service over BskyB's
+digital satellite platform, but there are other options, such as
+webcasting, that it wants to examine. It will also look at potential
+sources of funding such as grants, sponsorships, advertising sales and
+donations from members of the steering group.
+
+St Dunstan's says several organisations including the RNIB, the Royal
+London Society for the Blind (http://www.rlsb.org.uk) and National
+Talking Express (http://www.ntexpress.org), have already expressed an
+interest in joining the steering group.
+
+NOTE: For more on St Dunstan's see E-Access Bulletin issue 29, May
+2002 (http://www.headstar.com/eab/issues/may2002.html).
+
+
++04: SPOKEN TEXT MESSAGES'LIVE WITHIN WEEKS'.
+
+The telecoms giant BT (http://www.bt.com) is set to launch "within
+weeks" a new service allowing text messages from mobile phones to
+be sent as synthesized voice messages to fixed-line phones.
+The service represents an important breakthrough in mobile technology
+for the blind and partially sighted. "Until recently, SMS [the system
+used to send text messages] has been a no-go area for blind people,"
+says Julie Howell, digital development policy officer at the RNIB
+(http://www.rnib.org.uk). "But if you can use a landline to receive
+speech-enabled text messages from mobile users, that represents an
+interesting opportunity."
+
+Users with voicemail can have messages delivered directly into their
+mailboxes and for those who don't have voicemail, a synthesized voice
+will deliver the text message to them in an automated phone call.
+BT Wholesale (http://www.btwholesale.com), the network services
+arm of BT, will offer the SMS-to-voice service to other fixed line and
+mobile operators in the UK. A number of mobile operators have
+participated in trials and have already signed up for the live service.
+
+"We fully expect all of them to come on board," says Andy Jugg, head
+of messaging products at BT Wholesale. The operators can then
+determine their own pricing for the service to consumers.
+BT says the new service could not only benefit people with sight
+problems who have not been able to use SMS to date, but also business
+users and parents who aren't comfortable with texting but want to keep
+in touch with their children. "This is a great example of a technology
+that happens to be particularly useful for the blind and partially
+sighted, but also has some great mainstream applications," says
+Howell.
+
+
+++NEWS IN BRIEF:
+
++05: SHINING EXAMPLES: The RNIB is inviting nominations for its
+'Simply the best' awards that recognise employers, companies and
+organisations that have enhanced the lives of people with impaired
+vision. Categories include 'accessible information', including web
+sites, and 'accessible TV, film, books and leisure'. Nominations must
+be submitted by 31 March, with awards presented in May:
+http://fastlink.headstar.com/rnib4 .
+
++06: ONE FORMAT: Free 'style sheet' files that allow users of the
+Internet Explorer web browser to quickly and easily view web sites in
+their preferred colours and font sizes can be downloaded from the 'One
+Format' site created by Daljit Singh. The style sheets cover five font
+sizes, 10 colour combinations and the option to add or remove
+underlining and bold text; and they can be used with or instead of
+screen magnification software:
+http://www.oneformat.com .
+
++07: NEWSLETTER RELAUNCH: Access World, the American
+Foundation for the Blind's bi-monthly publication on assistive
+technologies, has been relaunched as a free newsletter available solely
+on the web. New features include 'e-mail this article to a friend' and
+the option to send files directly to Braille printers or Braille note-
+takers. The first online issue includes a feature on Access World's
+ongoing investigation into accessible mobile phones.
+http://www.afb.org/accessworld .
+
++08: TRIAL WON: The Old Bailey Proceedings web site
+(http://www.oldbaileyonline.org), an online edition of accounts of
+thousands of trials from the London court, has been announced as
+overall winner of the Cybrarian project awards. The awards, run by the
+Department for Education and Skills, recognise web site accessibility;
+usability and quality:
+http://www.shef.ac.uk/marcoms/2004/194.html .
+
+[Section one ends].
+
+
+++SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+- Please email all contributions or responses to inbox@headstar.com .
+
++09: TYPE CAST: A large number of readers have responded to John
+Conway's query in our last issue about the best fonts to use for
+readable text - clearly a hot topic. Veronica Dry was brief and to-the-
+point in describing the first choice of font for many: "Definitely 
+Arial.
+
+Everyone I know who can still read prefers Arial to all other fonts."
+Sue Allard, Co-Editor of the Gloucestershire magazine for people with
+impaired vision Modern-Eyes (http://www.modern-eyes.co.uk), agrees:
+"We have carried out extensive research to find out the fonts most
+visually impaired people prefer and Times Roman was a definite no-
+no. Just about everyone we asked preferred Arial as a usable font. We
+also use bold as a matter of course and Arial Black for headings as we
+found that italics and underlining were also found to make reading
+difficult."
+
+Percy Limb writes: "I am registered blind and have little sight in one
+eye. I find that Arial font 24-point size is the best for me although,
+even to read that properly, I need to use a magnifying glass. When I
+receive E-Access Bulletin, I click on 'Reply to Sender' and then
+'Format' and 'Rich Text' and that automatically changes it into my
+default setting of Arial 24."
+
+And the Arial vote is strengthened still further by Erica Cole from
+RNIB New College in Worcester, who says: "All our students use
+Arial, and whatever size they want. It is however, a good idea to ask
+people which font they would like as some people have specific
+requirements."
+
+Sylvie Kashdan, instructor with the Seattle-based KAIZEN programme
+for English learners with visual impairments, largely agrees: "We have
+found that Arial is generally most preferred. We have also found that
+most students and volunteer tutors find a 20-point text size most
+readable, even though we know that 18-point and even 16-point was
+recommended in the past as a standard. [However] now that we have
+the flexibility that computers permit, if it is possible, it is always 
+best
+to allow each person to choose whatever size font suits them best.
+"We have also found that most of our large print readers find text more
+readable if there is no bolding, italics or underlining. Spacing 
+between
+words, between letters and between the lines seems to be the best way
+to set things off while maintaining the maximum readability. But, of
+course, there are always some people who find bolding helpful.
+"Finally, we have found that a few people whose primary problem is
+limited field of vision find it easier to use 13-point Century
+Schoolbook rather than Arial."
+
+And Jane Fowler, marketing officer at Hampshire County Council,
+says serif fonts are not always a no-no: "Our guidance for staff on
+making communications accessible currently advises the use of sans
+serif fonts, particularly when producing information in large print
+formats. However, we are currently reviewing this guidance and will
+be amending it to follow the 'Clear print' guidelines in the RNIB's
+'See it right' pack which state that serif fonts are often easier to 
+read
+for large bodies of text, but warns against using highly stylised
+typefaces."
+
+Judyth Mermelstein from Montreal adds a note about ensuring
+flexibility with fonts when sending emails: "Sending e-mail in plain
+text means your messages go out without any font specifications -- 
+each recipient gets to see your message in the default font he or she 
+has
+chosen in the email program used. Sending e-mail in HTML normally
+means that the user's default font will also be respected, whether the
+message is read in an email program or directly in a browser.
+"On the other hand, people who use Microsoft products usually don't
+know exactly what tags their programs are embedding. Microsoft has
+built its empire on doing things in ways that violate standards and
+inconvenience people using standards-oriented software.
+"If you are writing your message in Outlook Express and sending it in
+Microsoft's version of HTML (which is rather different from both
+standard HTML and standard XML) the program itself inserts the tags
+and specifies that recipients must see the message in the fonts and 
+sizes
+you've chosen. From the perspective of the visually-impaired, this is
+not a good thing. Microsoft software also has a nasty habit of 
+inserting
+far more tags than are necessary which results in doubling or tripling
+the size of the file, a real inconvenience for those who pay by the
+minute for their data transfers or have slow connections."
+Elizabeth Izatt of the Scottish Sensory Centre, University of
+Edinburgh, sends in a useful reference to an academic article on this
+issue: 'Size counts: the significance of size, font and style of print 
+for
+readers with low vision sitting examinations', by Marianna Buultjens,
+Stuart Aitken, John Ravenscroft and Kevin Carey. This piece,
+published in the British Journal of Visual Impairment volume 17, 1999
+(ISSN: 0264-6196), "concludes that Helvetica N24 plain text was the
+winner by a whisker over Arial N24 plain text."
+And John Thompson, managing director of Mousetrap Media, adds
+another useful reference, to a book on accessible web typography:
+http://www.scotconnect.com/webtypography .
+
+Finally Peter Thomson, e-government policy officer at Wolverhampton
+City Council, has a supplementary question which may keep the
+discussion bubbling into our next issue: "In a recent course I attended
+about the Disability Discrimination Act, it was stated that it is
+preferable to use a font in which the letters 'a' and 'g' look like 
+their
+hand-written versions, rather than the fancier ones typically used in
+print. The argument was that people with reading difficulties are
+confused by the different forms of these letters. This was news to me,
+is it an accepted idea?
+
+Also, it seems that unfortunately the only common Windows font that
+meets that requirement is 'Comic Sans' - not really ideal as a 
+corporate standard"
+
+[Responses please to inbox@headstar.com].
+
++10: WELSH SYNTHESIZER: Last month Rebecca Redmile, a daily
+living skills instructor from Toronto, asked about software or screen
+readers which will read the Welsh language. Bob Hall, RNIB
+technology officer for Wales, wrote in with news of the institute's
+Welsh Access Technology project, the development of a Welsh
+language synthesiser so that the speech output is in a near naturally-
+sounding male or female voice.
+
+"This has taken a large step forward recently with the announcement of
+a grant from the European Social Fund and Welsh Language Board to
+fund a project at Bangor University to produce a synthesizer which has
+a wide range of applications. RNIB Cymru has held meetings with the
+grant-holder and Dolphin Computer Access
+(http://www.dolphinuk.co.uk/index_dca.htm - the producers of the Hal
+speech output software) to ensure that one of the first uses of the
+synthesiser will be in access technology software. It is hoped to have 
+a prototype Welsh language synthesiser ready in July 2004 with an
+improved version available in November 2005.
+"In the interim there is an 'Apollo 2' hardware synthesizer available
+from Dolphin with a Welsh language voice but it is expected that the
+new synthesizer described above will be much more advanced."
+Vicky Millson, rehabilitation officer at the Gowerton Resource Centre
+for Visually Impaired People in Swansea, adds that if anyone is
+interesting in buying an Apollo 2 synthesiser "It may be worth trying
+to get a second-hand one as for most [purposes] they are now obsolete,
+but were previously such expensive pieces of hardware that some may
+be reluctant to part with it!"
+
+Finally Russell Bloom, chair of the Wales Council for the Blind, adds
+that Braille Maker for Windows (http://www.braillemaker.com) has a
+Welsh module. [Further responses to inbox@headstar.com].
+
++11: MUSICAL CODA: Further to last issue's tips on technology to
+help people with impaired vision read sheet music, Jerry Weichbrodt
+writes: "In addition to the specific sources of Braille music and
+instruction you gave in January, I'd like to suggest that people
+interested in Braille music join the 'braillem' email discussion list.
+This is a relatively low-traffic list but is frequented by some of the
+best-known leaders in Braille transcription of music from around the
+world. To subscribe, send a blank e-mail message to:
+braillem-subscribe@topica.com ."
+
+[Section two ends].
+
+
+++SECTION THREE: OPINION
+- RETROSPECTIVE.
+
++12: IT'S 50 STEPS FORWARD - AND 49 BACK
+by Kevin Carey  humanity@atlas.co.uk
+E-Access Bulletin is 50 issues old today. Now, anybody who knows
+the variety and extent of my cellar will readily appreciate that I am 
+no
+party pooper; but on this day of celebration, I feel I need to tell you 
+just
+how miserable I am when I think of the last 50 months.
+
+In December 1999 I was very happy with my mid-range 486 laptop
+computer running WordStar 7 for DOS, my Navigator 40-character
+Braille display and its software. The whole unit was heavy for travel
+but everything else about it was efficient and comfortable. But in 2002
+the hardware of the laptop gave out: the disc drive died; the space bar
+stopped working; and when we opened it up we found all sorts of other
+emerging corruptions.
+
+I switched to a Sony Vaio, an ALVA refreshable Braille display and
+JAWS screen-reader software. This was a disaster in spite of the huge
+cost of the assemblage, which was slightly heavier than the old kit: 
+the
+cursor clung slavishly to column 40; fighting for autonomous control
+of layout was exhausting; everything was slower; I missed block-
+marking and needed three hands for most editing operations.
+After four months of hell I gave up and moved to a BrailleNote
+portable notetaker which was brilliant with its cursor tending to the 
+left
+of the display; block markers; ability to output a variety of formats;
+and, of course, size and lightness. However, I subsequently stupidly
+agreed to have it upgraded, at which point: the cursor took residence 
+on
+or near the farthest left column; the system refused to recognise the
+existence of files typed from the prompt, particularly if they had the
+digit 4 in them (which is pretty inconvenient in 2004); the conversion
+protocols began to throw out or swallow work on a random basis; and,
+as I write, the machine is given to showing rubbish on the majority of
+the display.
+
+So, on the whole I am worse off than I was four years ago, with much
+more expensive kit but less control and more faults.
+Never mind. This is, after all, the age of the mobile phone. Four years
+ago I had a Nokia which was the size and weight of a quarter of a
+brick. Now I have a Nokia 9210i Communicator of the same weight
+and size but this one has a full qwerty keyboard, sends e-mails and
+texts, and talks. I am theoretically much better off but in practice 
+the
+front panel with the standard phone doesn't talk and the keyboard
+controlled part of the phone is too much of a faff. I just want a phone
+which tells me in speech what number I have pressed; and I want voice
+out to accompany my use of cursor keys so that I can use standard
+menus.
+
+I am also sad to report that although I am no worse off in the area of
+television access, I am comparatively much worse off. Four years ago
+hardly any of my friends had multi channel satellite television; now
+most of them have it, as I do, but my electronic programme guide is
+inaccessible. Instead of one remote controller I have two; but neither 
+of
+them talk. And every time I go into a hotel I have a struggle to master
+yet another remote controller configuration. My good old 1980s hi-fi
+gave out two years ago and I could not find a new one to buy that I can
+tune myself. I can still tune my good old Sony portable ICF-SW 7600
+radio, but I have not yet found a digital radio that I can access
+autonomously.
+
+Wherever I go I meet numeric key pads which will not talk to me so I
+have to hope that I am keying accurately. It would be so easy to
+produce synthetic speech. Neither would it be difficult to standardise
+key features on remote controllers, as we have done so on telephones.
+The shining exception to this depressing trend is my microwave cooker
+all of whose keys 'talk', assisted by my 'talking' kitchen scales. So
+unless there are some basic improvements in access to technology
+during the period covered by the next 50 issues of E-Access Bulletin, I
+will grow fat from eating for comfort.
+
+[Section three ends].
+
+
+++SECTION FOUR: RESEARCH
+- WEB ACCESS.
+
++13: PROBLEMS DISSECTED IN THE USER LAB
+by John Knight and Marie Jefsioutine .
+
+During the summer of 2003 the Birmingham Institute of Art and
+Design's usability centre User-Lab (http://www.userlab.com) ran an
+online questionnaire, conducted interviews and carried out a literature
+review on web accessibility. Some 117 respondents participated
+including designers, information officers and accessibility advocates.
+The survey found that 86 per cent of respondents agreed that most web
+developers do not have adequate training in web accessibility. Indeed,
+'Lack of expertise' was cited as the main barrier to developing
+accessible web sites.
+
+The survey results also indicate a lack of awareness among managers
+of the importance of accessibility and the barriers to improving
+accessibility. Some 64 per cent of respondents agreed that
+'Management is unaware of the importance of web accessibility', and
+'Lack of policies/management' was the second highest barrier cited to
+web accessibility. This might suggest that improving accessibility
+requires high profile campaigning.
+
+Interestingly however, the vast majority of respondents (94 per cent)
+said that 'Clients ask for their sites to be accessible'. Whether these
+clients are representative of all organisations with a web presence is
+unclear.
+
+The World Wide Web Consortium's Web Accessibility Initiative
+(WAI) guidelines, the generally accepted international standard for
+accessibility, came in for some criticism from respondents. In all, 67
+per cent agreed that 'Some WAI guidelines are difficult to implement',
+and difficulties with the guidelines were placed third in 'Barriers to
+developing accessible web sites.'
+
+The accessibility consultant Joe Clark (http://www.joeclark.org) notes
+that "Virtually all online accessibility resources are glorified 
+rehashes
+of the WAI guidelines, which are opaque, very poorly organised,
+daunting, and in many cases unrealistic".
+Providers of software tools designed to audit sites automatically for
+accessibility - usually against the WAI guidelines - were also said to
+provide a raw deal.
+
+One accessibility testing officer posted an apocryphal tale: 
+"Previously,
+when we planned for the cost of accessibility testing software, we
+planned to purchase one copy of Bobby. Now, Watchfire's new policy
+meant that we would instead have to buy up to ten copies of Bobby,
+increasing the cost to us from 299 US Dollars to 2,999 Dollars - hardly
+a trivial increase".
+
+The consultant Cheryl Wise adds: "Tools are lacking or horribly
+expensive for AAA compliance [the highest benchmark for
+accessibility set by WAI]". And the very notion of accessibility
+standards is criticised by some, who say: "What good are standards
+when browsers change so fast by adding new features every month?
+The needs or demands of the users change with the latest killer
+applications."
+
+Most respondents accepted there is a trade-off between accessibility
+and other design issues. Just over half (56 per cent) agreed with the
+statement: "There is a conflict between usability and accessibility".
+Much of the literature on accessibility questions the tendency for
+people to advocate text-only web sites or versions of sites, and points
+to the opportunities for enriching user experiences for everyone.
+On a more positive note, 48 per cent disagreed with the statement:
+"Most development life-cycles are too short to incorporate
+accessibility." Some 51 per cent agreed that "web accessibility
+provides a return on investment" and 80 per cent that accessibility 
+does not inhibit innovation.
+
+Finally, food for thought in a contribution which noted: "There are
+situations where different problems may impose conflicting
+requirements on accessibility . . . up to now, there has been little 
+open  discussion about this."
+
+NOTE: John Knight is usability engineer at User-Lab, Birmingham
+Institute of Art and Design (BIAD), University of Central England and
+Marie Jefsioutine is Senior Research Fellow in Digital Media at BIAD.
+A version of this article was originally published in Usability News
+(http://www.usabilitynews.com).
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

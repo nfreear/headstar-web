@@ -1,0 +1,52 @@
+__ BUILD [tens2html.pl  v1.14] log Thu Jan 15 22:57:53 2009 __
+
+Input file: ../eab/issues/2008/dec2008.txt
+
+Warning: file already exists: ../eab/issues/2008/dec2008.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: dec | index: 12 | year: 2008
+URLs, prev: ../2008/nov2008.html | next: ../2009/jan2009.html
+Found ++, heading 2: Sponsored Notice: Fortune Cookie
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 38.
+Found ++, heading 2: Issue 108 Contents.
+>> FOUND 2: + | 01:  | Inaccessible Recruitment Websites 'An Emerging Scandal'
+OK, News in brief
+Found: + | 01:  | Inaccessible Recruitment Websites 'An Emerging Scandal'
+>> FOUND 2: + | 02:  | Guidelines Create Landmark Month For Web Accessibility
+Found: + | 02:  | Guidelines Create Landmark Month For Web Accessibility
+>> FOUND 2: + | 03:  | Global Online Accessibility Resource Set For 2009 Launch
+Found: + | 03:  | Global Online Accessibility Resource Set For 2009 Launch
+>> FOUND 2: News in Brief:  | 04:  | Inclusion Solutions - case study database ; 05:
+Found: Inclusion Solutions - case study database  | ; |  05:
+>> FOUND 2: Robo Prize - European award for Braille by email;  | 06:  | DeafBlind
+Found: Robo Prize - European award for Braille by email;  | 06:  | DeafBlind
+>> FOUND 2:  | 08:  | Recession Buster - Accessibility can drive profits; 09: Automatic
+>> FOUND 2:  | 10:  | Fighting Talk From Taskforce Commander: The founder of the
+Warning line 73: expected [Contents ends].
+$toc_count=9
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Inaccessible Recruitment Websites 'An Emerging Scandal'.
+Warning: not found a 'contents' match: Inaccessible Recruitment Websites 'An Emerging Scandal'.
+> ITEM 2:  02:  | Guidelines Create Landmark Month For Web Accessibility.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Global Online Accessibility Resource Set For 2009 Launch.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A new database of projects supporting digital
+> ITEM 1:  05:  | : |  The online text conversion service RoboBraille has
+> ITEM 1:  06:  | : |  A new, multi-function portable
+> ITEM 1:  07:  | : |  A set of accessibility tools which can work on
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 282.
+> ITEM 1:  08:  | : |  Mike Paciello, founder of the leading US-based
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 305.
+> ITEM 1:  09:  | : |  Open source accessibility specialist Steve
+Found ++, heading 2: Special Notice: Opportunities and risks of open source software in
+Found ++, heading 2: Section Three: Interview
+> ITEM 2:  10:  | Fighting Talk From Taskforce Commander
+Warning: not found a 'contents' match: Fighting Talk From Taskforce Commanderby Dan Jellinek.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 491.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 498.

@@ -1,0 +1,61 @@
+__ BUILD [tens2html.pl  v1.14] log Mon Dec  4 14:14:22 2006 __
+
+Input file: ../eab/issues/2006/oct2006.txt
+
+Warning: file already exists: ../eab/issues/2006/oct2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: oct | index: 10 | year: 2006
+URLs, prev: ../2006/sep2006.html | next: ../2006/nov2006.html
+Found ++, heading 2: Issue 82 Contents.
+>> FOUND 2:  | 01:  | Blended Broadband Services Could 'Transform Lives'
+>> FOUND 2:  | 02:  | US Court Sends Message Of Hope To Blind Americans
+>> FOUND 2:  | 03:  | Expert Software Will Analyse User Needs
+>> FOUND 2:  | 04:  | All UK Retail Websites Fail Basic Accessibility Standard
+>> FOUND 2: News in Brief:  | 05:  | Talking Mobile - phone screen reader released; 06:
+OK, News in brief
+Found: Talking Mobile - phone screen reader released | ; |  06:
+>> FOUND 2: Game On - accessible games maker launched;  | 07:  | Multimedia
+Found: Game On - accessible games maker launched;  | 07:  | Multimedia
+>> FOUND 2:  | 08:  | Open Response - Linux screen reader feedback; 09: E-Forums
+>> FOUND 2: Continued - online groups discussed;  | 10:  | Reader Feedback - screen
+Found: Continued - online groups discussed;  | 10:  | Reader Feedback - screen
+>> FOUND 2:  | 11:  | Time to Rock The Boat: At E-Access Bulletin's recent annual
+>> FOUND 2:  | 12:  | Better Than A Manual: A blind screen reader user and resident of
+Warning line 59: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Sponsored Notice: BT Internet Rangers
+Warning, replacing non-ASCII character 233 (line 38, 3): caf&#233; at the BT Satellite Earth Station in Goonhilly.
+
+> ITEM 2:  01:  | Blended Broadband Services Could 'Transform Lives'.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | US Court Sends Message Of Hope To Blind Americans.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Expert Software Will Analyse User Needs.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | All UK Retail Websites Fail Basic Accessibility Standard.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  The first screen reader for smart phones powered
+> ITEM 1:  06:  | : |  A prototype of a tool allowing vision-impaired people
+Warning, replacing non-ASCII character 233 (line 214, 49): 'Audio game maker' has been created by the Bartim&#233;us Accessibility
+
+> ITEM 1:  07:  | : |  The first draft of guidance for website
+Found ++, heading 2: Special Notice: Voice Over IP (VoIP) In The Public Sector
+Found ++, heading 2: Special Notice: Matthew Taylor Is Keynote At 'e-Democracy '06.'
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 316.
+> ITEM 1:  08:  | : |  Tim Pennick of Suffolk in the UK responds to
+> ITEM 1:  09:  | : |  Steve Cutway also contributes to the
+> ITEM 1:  10:  | : |  In response to Don Wessels from South Africa
+Found ++, heading 2: Section Three - Conference Report
+> ITEM 2:  11:  | Time To Rock The Boat
+Warning: not found a 'contents' match: Time To Rock The Boatby Mel Poluck.
+Found ++, heading 2: Section Four - Focus
+> ITEM 2:  12:  | Better Than A Manual
+Warning: not found a 'contents' match: Better Than A Manual
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 613.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 619.

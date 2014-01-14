@@ -1,0 +1,58 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:05 2005 __
+
+Input file: ../eab/issues/2005/jan2005.txt
+
+Warning: file already exists: ../eab/issues/2005/jan2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jan | index: 1 | year: 2005
+URLs, prev: ../2004/dec2004.html | next: ../2005/feb2005.html
+Found ++, heading 2: Issue 61 Contents.
+>> FOUND 2:  | 01:  | Opera Gains a Voice
+>> FOUND 2:  | 02:  | Safety Games Use Text-to-Speech Technology
+>> FOUND 2:  | 03:  | Accessible Conversion for Technical Drawings
+>> FOUND 2:  | 04:  | Improvements Urged for Library Computer Access
+>> FOUND 2: News in Brief:  | 05:  | Working Practice - employers' advice booklet; 06:
+OK, News in brief
+Found: Working Practice - employers' advice booklet | ; |  06:
+>> FOUND 2: Game Boy - accessible interactive adventure;  | 07:  | Jaws Six - latest
+Found: Game Boy - accessible interactive adventure;  | 07:  | Jaws Six - latest
+>> FOUND 2: screen reader;  | 08:  | TIE-In: European training newsletter.
+Found: TIE-In: European training newsletter | . | 
+>> FOUND 2:  | 09:  | European Invitation - research questionnaire; 10: CMS Response -
+>> FOUND 2: recommended software;  | 11:  | Third Degree - second questionnaire; 13:
+Found: Third Degree - second questionnaire | ; |  13:
+>> FOUND 2:  | 14:  | Readers move out of the shade: text and background colour plays a
+>> FOUND 2:  | 15:  | Fighting against the storm: The fascinating tale of a Canadian
+Warning line 50: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: SPONSORED NOTICE: LocalAlert
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Opera Gains A Voice.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Safety Games Use Text-to-Speech Technology.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Accessible Conversion for Technical Drawings.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Improvements Urged for Library Computer Access.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  Compliance with employment law, IT training
+> ITEM 1:  06:  | : |  An accessible interactive adventure game has been
+> ITEM 1:  07:  | : |  The latest version of the JAWS screen reader for
+> ITEM 1:  08:  | : |  The European Training, Implementation, Education and
+Found ++, heading 2: Sponsored Notice: J-Say Standard from T and T Consultancy Ltd.
+Found ++, heading 2: Sponsored Notice: 'Advances In Technology' to Form Major Part of
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  09:  | : |  Jenny Craven, research associate at the
+> ITEM 1:  10:  | : |  In our last issue, E-Access Bulletin technician
+> ITEM 1:  11:  | : |  Vicki Bale, a student at the University of the West
+> ITEM 1:  13:  | : |  Elaine Ainsworth would like to hear from blind or
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Focus
+> ITEM 2:  14:  | Readers Move Out of The Shade
+Warning: not found a 'contents' match: Readers Move Out Of The Shadeby Peter Irons.
+Found ++, heading 2: Section Four - My Story
+> ITEM 2:  15:  | Fighting Against the Storm.
+Warning: not found a 'contents' match: Fighting Against The Storm.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.

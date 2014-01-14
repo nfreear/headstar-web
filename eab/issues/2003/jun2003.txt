@@ -1,0 +1,452 @@
++++E-ACCESS BULLETIN.
+- ISSUE 42, JUNE 2003.
+
+Technology news for people with vision impairment
+(http://www.e-accessibility.com).
+
+Sponsored by RNIB (http://www.rnib.org.uk)
+and National Library for the Blind (http://www.nlbuk.org).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard. For example, all items are numbered. For details see:
+http://www.headstar.com/ten .
+
+
+++ISSUE 42 CONTENTS.
+
+01: Accessible web modules for local government
+- national project gains 2.9 million pounds.
+
+02: Wish-list for digital television
+- survey finds viewers want flexibility.
+
+03: RNIB relaunches web site
+- two-year project brings service up to date.
+
+04: Further education guidance published
+- help with student access to technology.
+
+News in brief: 05: Driving advice - training standard; 06: Interactive
+awards - new access category; 07: Village people - Birmingham
+events.
+
+Section two: 'The Inbox' - Readers' forum.
+08: B-sites - are the A-sites accessible? 09: Fulbright award - US
+research request.
+
+Section three: Analysis - access checkers.
+10: The human factor: Derek Parkinson report on why automated web
+accessibility checkers can never replace a designer's knowledge and
+judgment.
+
+Section four: Opinion - e-democracy.
+11: Karl Marx and the technology gap: in the rush to use new
+technologies to improve the workings of democracy, the opposite may
+be achieved if sections of society are left behind and disenfranchised,
+says Kevin Carey.
+
+[Contents ends].
+
+
+++SECTION ONE: NEWS.
+
++01: ACCESSIBLE WEB MODULES FOR LOCAL
+GOVERNMENT.
+
+From March next year, all UK local authorities will be able to use a
+centrally-developed set of accessible web site components, following
+the release of 2.9 million pounds of government funding for the Local
+Authority Websites National Project
+(LAWS - http://www.laws-project.org.uk).
+
+LAWS will develop web site technology that can handle public
+transactions in hundreds of service delivery categories, based on an
+architecture that encourages councils to build in usability and
+accessibility from the outset.
+
+The project, which is being co-ordinated by West Sussex County
+Council (http://www.westsussex.gov.uk), will produce a series of
+modules that are easy to distribute and install. It will also formulate
+and share best practice guidelines for accessible design, and identify
+accessibility issues where more work is needed.
+
+"It is important for designers of online services to think through what
+they're trying to achieve. LAWS will provide an information
+architecture that should encourage this," said project director Roland
+Mezulis of West Sussex. "Designers should be thinking about the
+easiest way to navigate through a site to a given point, not just about
+what colour combinations to have," he said. According to Mezulis,
+specific challenges include designing accessible transactional services
+such as online payments, and how to present content stored on legacy
+systems in accessible formats.
+
+The new national LAWS project builds on earlier work by the
+APLAWS project (http://www.aplaws.org.uk - see also E-Access
+Bulletin issue 29, May 2002).
+
+
++02: WISH-LIST FOR DIGITAL TELEVISION.
+
+The ability to change the text size and colour balance of the
+electronic
+programme guides would be the most useful accessibility function to
+build in to interactive digital television services, according to a
+survey
+of more than 200 vision impaired people published by the RNIB last
+month.
+
+Speech output for all functions was also favoured by 165 of the 204
+respondents, while a similar number called for audio described
+programming and fewer functions.
+
+One survey respondent said: "I'd like a screen-reading function (like
+JAWS for a PC) on all text-based screens so that I can use my TV
+similarly to the way in which I use my PC." Another said: "If this one
+device could have a selection of interfaces (visual or otherwise),
+text,
+sign language, audio (speech) output and variable settings then all
+users could customise it to their personal needs."
+
+A third respondent looked forward to an age of technology
+convergence: "In the long run I'd like one machine that serves as an
+entertainment centre, PC and communications device, so that
+everything I currently do with a PC, telephone, TV, stereo, video,
+DVD player and so on could be housed in one bit of kit with one
+screen, one set of speakers and one keyboard, mouse or remote control.
+I've got too much to plug in right now!"
+
+The survey was stage four of a five stage research programme
+conducted by Sylvie Perera of the RNIB Scientific Research Unit. The
+first three parts provide an overview of the issues; an assessment of
+the
+use of smart cards as a way for people to save personal viewing
+settings; and a usability assessment by partially sighted people. The
+final stage attempted to create a design specification for some of the
+requested functions.
+
+To download the report see:
+http://www.tiresias.org/itv/intro.htm .
+
+
++03: RNIB RELAUNCHES WEB SITE.
+
+The RNIB is to relaunch its main web site (http://www.rnib.org.uk)
+next week, to make it more user-friendly for visitors with impaired
+vision.
+
+According to website manager Margaret O'Donnell the previous site,
+which went live in 1995, had grown too large and as a result contained
+out-of-date information and had layout inconsistencies between
+sections. "Before, we had a big maintenance problem with 20,000
+HTML files on the site and a team of only three people." To combat
+this, a new accessible content management system has been installed,
+which has also been applied to the RNIB's intranet.
+
+The new site, which has been two years in the making, will also be
+easier to navigate with assistive technologies. "Better-structured
+documents will make it easier to read or scan with screen readers,"
+O'Donnell said. Staff have also been trained in how to write for text-
+to-speech software, and other web accessibility issues including plain
+style and the avoidance of jargon.
+
+The site will include information on accessing technology, with fact-
+sheets and resources.
+
+
++04: FURTHER EDUCATION GUIDANCE PUBLISHED.
+
+Guidance for further education providers on how to overcome access
+difficulties faced by students, including access to technology, has
+been
+published by further education technology information service Ferl.
+
+A series of 13 papers covers topics ranging from the basic legal
+requirements of the Special Educational Needs and Disability Act 2001
+to practical guidance on how to make the most of a disabled person's
+education (http://fastlink.headstar.com/ferl1).
+
+Other papers include ways to improve online assessment; assistive
+technologies; learning platforms and the learning experience.
+
+
+++NEWS IN BRIEF.
+
++05: DRIVING ADVICE: The British Computer Society is to create
+an online noticeboard for issues relating to the accessibility of the
+European Computer Driving Licence (ECDL), a standard training
+course for basic computer skills (see E-Access Bulletin issue 40, April
+2003, story 02). From September the service will offer advice and
+information on ECDL participation by people with disabilities,
+including different levels of vision impairment:
+http://www.ecdl.co.uk .
+
++06: INTERACTIVE AWARDS: This year's British Interactive Media
+Association awards for technology innovation have added a new
+accessibility and usability category in association with the RNIB, to
+coincide with the European Year of People with Disabilities. The
+closing date for entries by companies and individuals is 30 June:
+http://fastlink.headstar.com/bima1 .
+
++07: VILLAGE PEOPLE: The British Computer Association of the
+Blind is holding a special seminar alongside this year's annual 'Sight
+Village' exhibition at Queen Alexandra College for vision impaired
+people in Birmingham from 15 to 17 July
+(http://www.qac.ac.uk/sightvillage). 'Sight village plus' on 18 July
+will
+cover computer security and measures that can be taken to protect
+personal data:
+http://www.bcab.org.uk .
+
+[Section one ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com .
+
++08: B-SITES: Leesa Lavigne, a web designer and computer operator
+for the State of Maine in Canada, wrote in with some concerns about
+the National Library for the Blind's new 'A-Sites' accessible web sites
+portal (see E-Access Bulletin, May 2003, story 03).
+
+"I was really excited when I saw the listing of accessible sites and
+couldn't wait to pass it on to other State of Maine workers as an
+example. But the first site I visited, 'Cats Online' in the 'Animals
+and
+wildlife' category (http://www.cats.org.uk), was lacking the alt text
+for
+the navigation buttons and for most of the images on the pages.
+
+"Close but not quite . . . keep trying. We really need a resource like
+that but someone has to maintain quality control. I will check out some
+of the other sites that are listed. Maybe this one was just a fluke."
+[further responses to inbox@headstar.com].
+
+
++09: FULBRIGHT AWARD: Jenny van Tinteren, currently head of
+accessibility solutions with the government's jobs service JobCentre
+Plus (http://www.jobcentreplus.gov.uk), is about to embark on a UK
+civil service Fulbright scholarship in the US (see
+http://www.fulbright.co.uk).
+
+She will be researching the impact of section 508 of the US
+Rehabilitation Act, which requires public sector bodies to purchase
+accessible systems, including whether improved on-line access has
+increased the take up of government services.
+
+By the end of the scholarship period Jenny aims to produce an
+accessibility handbook for project managers, including tips on how to
+involve users in system building and a best practice report containing
+case studies that could be applied to UK's Department of Work and
+Pensions.
+
+She is keen to hear from any E-Access Bulletin readers who may have
+suggestions or useful contacts for her to follow up in the US. Please
+email them to her directly at jvantinteren@yahoo.co.uk or telephone:
+0114 291 1766 .
+
+[Section two ends].
+
+
+++SECTION THREE: ANALYSIS
+- ACCESS CHECKERS.
+
++10: THE HUMAN FACTOR
+by Derek Parkinson  derek@headstar.com .
+
+A growing number of web sites proudly demonstrate their commitment
+to accessibility by displaying logos for automated accessibility
+checkers such as Bobby (http://bobby.watchfire.com), WAVE
+(http://wave.webaim.org) or A-Prompt
+(http://aprompt.snow.utoronto.ca).
+
+Jostling together at the foot of home pages, these banners can give the
+impression that sites are as accessible as any reasonable person could
+expect. But an automated checker is no panacea. Broadly speaking,
+they tell a site designer where changes may be needed, and more
+advanced products will offer some options for solving the problems,
+but they don't assess the overall coherence of a site, and some aspect
+of accessibility simply cannot be mechanically assessed.
+
+This is partly because most checkers base their site analysis on
+recognised standards such as the Web Accessibility Initiative (WAI -
+http://www.w3.org/WAI), and the standards themselves don't offer a
+simple recipe for accessibility. "It's important to remember that WAI
+is
+only a set of guidelines, not rules, and not a checklist," says Julie
+Howell of the RNIB. "For example the guidelines will recommend that
+images on a site are linked to text descriptions, but that doesn't
+guarantee that the descriptions will be clear or useful," she says. "I
+think most people would agree that checkers are never good enough on
+their own."
+
+To be effective, checkers must form part of a wider process that
+includes an informed person acting on their recommendations.
+"Checking for accessibility is a bit like spell-checking a document.
+The
+spell-checker can make best guesses of misspelled words based on
+patterns that it knows. However, it takes a human to make the final
+decision," says Wendy Chisholm, head of the evaluation tools working
+group at WAI.
+
+Does this mean that a capable web designer using a checker will
+always produce a more accessible site? Well not necessarily, according
+to recent research from Stanford University in the US
+(http://fastlink.headstar.com/stanf1). In one of the first studies of
+its
+kind, the team gave experienced web designers two groups of sites to
+work on, making changes to the first using only their own knowledge;
+and to the second using only prompts from three widely used checkers,
+Bobby, LIFT (http://www.usablenet.com), and Validator
+(http://jigsaw.w3.org/css-validator).
+
+The modified sites were tested by vision impaired volunteers and the
+results compared. Perhaps surprisingly, this particular study found
+that
+in many cases, sites modified using a checker were no more accessible
+than unmodified sites or sites modified using only the designer's
+knowledge. "Results suggest that the three automated evaluation tools
+were not very effective in helping designers to improve web site
+usability and accessibility," the study concludes.
+
+There are , however, several ways to improve on this disappointing
+performance according to the experts. "More research needs to be done
+to make the guidelines and the tools themselves more usable," the
+Stanford report says. "Guidelines are often too long or too vague for
+designers without a human-factors background to understand. Thus,
+designers experienced difficulties interpreting them, which in turn
+interfered with their ability to implement appropriate changes".
+According to Wendy Chisholm several international groupings are now
+working to harmonise test criteria. "In the next year, expect more
+agreement on the tests that are needed to evaluate content and more
+agreement between tools," she says.
+
+There are further advantages to be gained by integrating accessibility
+testing more tightly into the content production process. "I wasn't
+surprised by the results of this study. There's a big gap between
+identifying what's wrong and understanding what changes need to be
+made," says Helen Petrie, Professor of Human Computer Interaction at
+City University in London. "If a designer coding web pages is the only
+person responsible for making changes, there are difficulties. This is
+a
+job more suitable for the author. The author has a better understanding
+of what the content should mean," she says.
+
+Perhaps the greatest danger ahead is the lazy assumption that
+automated tools can somehow replace human involvement in
+improving accessibility. "By all means use these tools, but remember
+they are only one part of the toolkit," says Julie Howell. "Use people
+with disabilities in the testing cycle, and if you can, consult with
+people before you start." Where accessibility is concerned, the human
+factor is key.
+
+[Section three ends].
+
+
+++SECTION FOUR: OPINION
+- E-DEMOCRACY.
+
++11: KARL MARX AND THE TECHNOLOGY GAP
+by Kevin Carey  humanity@atlas.co.uk .
+
+The Office of the e-Envoy (OeE) has begun to show an admirable
+interest in the subject of e-democracy, defined as the use of
+information and communications technologies to enhance citizen
+participation, as opposed to e-government which is supposed to
+enhance the government's services to citizens.
+
+Now although Marxism is an almost completely discredited political
+theory, some of its social theories still hold good and are based on
+historical analysis rather than malicious cynicism. Two such
+observations are: that in periods of change, the rich benefit more than
+the poor so that the gap between the two groups widens; and that the
+faster the change, the wider the gap.
+
+These truisms apply to economic and technological development. In
+economics, for example, they are demonstrated in the fact that
+although the government has had a serious and sustained anti-poverty
+strategy since 1997, the gap between the rich and the poor in the late
+1990s actually widened because of the rate of economic growth.
+
+There is no reason to believe that technological development will be
+any different, and if the government wants to use technology as the
+basis for citizen participation in democracy then we are on very shaky
+ground.
+
+For a start, as the government uses on-line consultation instead of the
+tedious face-to-face method, it shortens consultative periods. This, in
+turn, cuts out trusted intermediaries for consumers, such as the RNIB
+or Action for Blind People. Instead of consultative documents being
+passed from officers to elected trustees and from them to their
+constituencies, with a reverse flow back up to officials, officers of
+interest groups might have to take snap decisions on behalf of citizens
+in order for an organisation's views to be included. The whole system
+of civil society we built up in the 20th century is in danger of
+crumbling in less than a decade.
+
+Second, the use of the home computer for local referenda and other
+kinds of votes will bias the results in favour of computer owners - in
+other words, the rich and powerful. If a council wants to know people's
+thoughts about a planning proposal to build a chemical factory, for
+example, who is going to be most effective in the lobbying and where
+do you suppose the factory will be built?
+
+Third, most people make their views known through the ballot box.
+They may not vote in such great numbers as we would all like, but
+collectively we lay down a democratic mandate for a council or the
+government. How will the poor and the disabled figure when mass
+straw polling can be conducted through the broadband PC, digital
+television and the text message?
+
+As if these concerns were not enough, there is still considerable
+reluctance on the part of the government to guarantee access by blind
+and vision impaired people to digital broadcasting through the
+Communications Bill currently working its way through the House of
+Lords (see http://www.communicationsbill.gov.uk). It is only after
+ferocious campaigning by the RNIB that the matter has even
+grudgingly been put on the agenda.
+
+At the very least we should insist that all democratic processes should
+use every available channel, including land line phones. We should
+also remember that although home computer-based technology is
+important, access to broadcasting has never been more crucial for all
+of
+us in an age of technology convergence and e-democracy.
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.e-accessibility.com is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Phil Cain  phil@headstar.com
+News editor - Derek Parkinson  derek@headstar.com
+Reporter - Mel Poluck  mel@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk .
+
+ISSN 1476-6337
+
+[Issue ends.]
+

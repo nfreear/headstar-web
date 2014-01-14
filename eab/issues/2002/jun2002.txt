@@ -1,0 +1,628 @@
+* E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment.
+Bulletin web site (including archive):
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute of the Blind
+<http://www.rnib.org.uk>
+and the National Library for the Blind
+<http://www.nlbuk.org>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+NOTE: As a navigation aid to those using screen readers, all headings 
+begin with an asterisk and end with a full stop. Please let us know if 
+there is anything else we could do to make navigation of the bulletin 
+easier.
+
+[Issue starts.]
+
+* ISSUE 30, JUNE 2002.
+
+* CONTENTS:
+
+News:
+- Concerns over new anti-discrimination body.
+- UK launch for accessible laptop.
+- Europe backs common design standards.
+- 'Cynthia' interprets the web.
+- Techshare 2002: learning and work.
+
+News in brief: iCan do - online consumer survey; Finger panic - free 
+accessible games; Bright threads - RNIB fundraiser; On the ball - 
+World Cup site.
+
+Section two: 'The Inbox'
+- Readers' forum.
+
+Section three: Profile - talking newspapers.
+- All the news that's fit to email: the UK talking newspaper 
+association has moved from audio tapes to a high-tech service that 
+could represent the future of news for everyone.
+
+Section four: Special report – accessible banking.
+- Usability on trial: Tamara Fletcher charts the patchy progress made 
+by high street banks towards accessible online services.
+
+Section five: Trade secrets – keyboard shortcuts.
+- Basic computer survival skills from John Wilson.
+
+[Contents ends.]
+
+
+*SECTION ONE: NEWS.
+
+
+* CONCERNS OVER NEW ANTI-DISCRIMINATION BODY.
+
+Government plans to set up a single new anti-discrimination 
+commission, replacing three existing agencies, could make disability 
+laws more difficult to implement, the RNIB has warned.
+
+The scheme, announced to Parliament last month by Home Office 
+minister Barbara Roche (http://fastlink.headstar.com/anti), proposes 
+to replace the Equal Opportunities Commission, Commission for 
+Racial Equality and Disability Rights Commission with a single body 
+that would also cover discrimination on the grounds of age, sexual 
+orientation and religion.
+
+However, the RNIB fears the new body would lack focus, which 
+could jeopardise the effective introduction of new laws covering 
+disability, with key parts of the Disability Discrimination Act and the 
+Special Educational Needs and Discrimination Act being phased in 
+over the next few years.
+
+“It’s important that there’s a body focusing uniquely on disability, 
+providing advice and consultation to employers and schools, for 
+example, as each part of an act comes in,” Steve Winyard of the 
+RNIB told E-Access Bulletin this week.
+
+The government aims to report findings this autumn, but according to 
+Roche, any major changes are unlikely in the short-term. “I would not 
+expect any new structures to be operative in the lifetime of this 
+Parliament,” she said.
+
+
+* UK LAUNCH FOR ACCESSIBLE LAPTOP.
+
+LapTalk, a laptop computer with integrated screenreader designed 
+specifically for visually impaired users, is expected to launch in the 
+UK later this summer.
+
+The product, developed by US company Beyond Sight 
+(http://www.beyondsight.com), will be around the same size and 
+weight as a conventional laptop computer and has the Window-Eyes 
+screenreader built in.
+
+LapTalk will run the Windows XP operating system, provide internet 
+access through a built-in modem or network port, and offer full 
+versions of Microsoft's Internet Explorer web browser and Outlook 
+Express email software. Microsoft-compatible word processor, 
+spreadsheet and database applications are also planned.
+
+If it lives up to its maufacturer's claims, LapTalk could replace the 
+combination of note-taker and computer to which visually impaired 
+users have grown accustomed, at around half the cost. Beyond Sight 
+is also expected to launch DeskTalk, a desktop version of the 
+computer. Both machines will include a connector for screens, 
+allowing visually impaired users to share information with sighted 
+users.
+
+
+* EUROPE BACKS COMMON DESIGN STANDARDS.
+
+European Union members will have to adopt common standards for 
+the design of public sector web sites by 2003, making them easy to 
+access by users with disabilities, under new laws set to be passed by 
+the European Parliament.
+
+The parliament debated a report yesterday on a common design 
+framework (http://fastlink.headstar.com/ep) that will eventually form 
+the basis of a Council Resolution. The resolution will also establish 
+independent national bodies to handle complaints about inaccessible 
+web sites.
+
+The report, compiled by the Parliament Industry Committee, also 
+reviewed the progress by member states in reaching accessibility 
+targets already laid out in the EU's 'eEurope 2002' information 
+society action plan. In particular, the committee recommended that 
+government, health and education web sites include speech 
+technologies that allow navigation by voice commands.
+
+In addition, the report found that while all web sites use standards-
+based technologies like XML in their construction, they do so in 
+different ways, noting: “That is particularly problematic for disabled 
+with special navigation apparatus.”
+
+Meanwhile the European Telecommunications Standards Institute 
+(http://www.etsi.org), has released a first draft of a standard that will 
+define computer speech commands for all major European languages, 
+making multilingual speech recognition technology more viable for a 
+wide range of devices:
+http://portal.etsi.org/HF/STFs/STF182.asp
+
+
+* 'CYNTHIA' INTERPRETS THE WEB.
+
+A web navigator with a built-in 'interpreter' that produces voice 
+descriptions of web content is being developed by Paris-based 
+technology company Daumas Informatique (http://www.daumas-
+informatique.fr).
+
+'Cynthia' is designed to present web content to users in large, bright, 
+customisable text formats accompanied by descriptions in English, 
+French or German, in male or female voices.
+
+According to its manufacturer, the technology can interpret pictures 
+where a web designer has included a description in HTML. It is also 
+designed to reveal some of the structure of a web site, such as 
+numbers of pages and links, and short descriptions of their functions. 
+Cynthia can also produce flexible voice responses, with louder output 
+indicating titles of documents and lower volumes for body text, for 
+example.
+
+The browser's VoiceXML technology is designed to be compatible 
+with all Unix, Mac and PC operating systems.
+
+Daumas has also produced a small handheld device with Braille-
+tagged keys, 'LISON', that speaks currency conversions to and from 
+the euro. For more information on both these projects email:
+info@daumas-informatique.fr
+
+
+* TECHSHARE 2002 – LEARNING AND WORK.
+
+Learning, work and the rise of a digital society are to be the three key 
+themes at this year's Techshare, the RNIB's annual conference on 
+technology for visually impaired people.
+
+The event's organisers have issued a call for papers, and in the 
+learning category, are keen to cover e-learning, computer training and 
+regulation. The work theme covers procurement, standards, training 
+and ways of working, while digital society topics include mobile 
+phones, internet voting, digital television and e-books, together with 
+the perennial issue of web accessibility.
+
+The conference will take place on 21-22 November at the 
+International Convention Centre, Birmingham. To submit a paper 
+online visit:
+http://www.rnib.org.uk/techshare/paperform.htm
+
+
+* NEWS IN BRIEF:
+
+* iCAN DO: The US-based disability portal iCan 
+(http://www.ican.com) has launched a consumer survey aiming to 
+improve product development and consumer services for people with 
+disabilities. To participate in the survey, which focuses on computers, 
+travel, media and vehicles, visit:
+http://www.ican.com/research.cfm?irs=ib1
+
+* FINGER PANIC: Accessible gaming company BSC has released 
+two free games. Score points avoiding your computer opponent with 
+‘Deekout’ http://www.bscgames.com/deek.asp and search for the 
+‘crackerjack’ in ‘Finger Panic’:
+http://www.bscgames.com/finger.asp
+
+* BRIGHT THREADS: The RNIB is launching a viral email 
+campaign today to encourage people to dig out their gaudiest clothes 
+for its annual fundraising event, LookLoud. Users will be able to 
+dress a virtual doll in loud clothes and email the result onto a friend:
+http://www.lookloud.co.uk
+
+* ON THE BALL: A new web site aims to offer live text coverage of 
+all football World Cup matches from 15 June. User feedback is 
+encouraged:
+http://www.enableall.org
+
+[Section one ends.]
+
+
+* SECTION TWO - 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com 
+
+* HOME ENTERTAINMENT: Bulletin reader Paul Schomburg is 
+seeking information on accessibility of the new Multimedia Home 
+Platform interactive television standard (MHP - http://www.mhp.org) 
+developed by the industry consortium Digital Video Broadcasting 
+(DVB – http://www.dvb.org).
+
+He says: “As much interactive TV will be in a textual format 
+(including XML-based formats), I am looking for information on 
+accessibility tools for MHP development. If interactive TV is 
+launched without accessibility then many blind users will be unable to 
+participate.
+
+“In the US recently the cable industry research consortium CableLabs 
+introduced a series of ‘OpenCable’ specifications based on MHP, but 
+apparently without accessibility tools (see 
+http://www.opencable.com/specifications.html). The OpenCable 
+application platform specification OCAP 1.0 defines a Java based 
+execution environment, while OCAP 2.0 adds content formats based 
+on web technologies such as XML.
+
+“Any information on the European situation, or pointers to relevant 
+discussion forums, would be appreciated.” [Responses to 
+inbox@headstar.com]
+
+
+* ONE-WAY TRAFFIC: In our last issue Larry Johnson from Texas 
+queried an apparent anomaly in the international library exchange 
+system whereby his regional library for the blind cannot borrow from 
+the UK National Library for the Blind, despite these resources being 
+listed in international catalogues.
+
+Mrs Chris McMillan, a regular correspondent of ours from the US, 
+confirms: “The answer Larry has been given is correct. The National 
+Library for the Blind has a system which gives Canada and the UK 
+readers access to both libraries but at present that’s as far as it goes. I 
+believe there are discussions under way with other English speaking 
+countries to extend this system though.
+
+“I should point out that the National Library for the Blind in the UK 
+only deals with material in Braille. Anything to do with audio would 
+be a separate issue entirely. The RNIB supplies us with both Braille 
+and audio material.”
+
+
+* SHOP SMART: Several readers sent in advice following last 
+month’s appeal from David Porter on behalf of a friend of his with 
+tunnel vision, for information on gadgets to help her avoid bumping 
+into people when shopping in a supermarket and also when 
+swimming in a pool.
+
+Chris McMillan says: “Over the years there have been electronic 
+warning or guidance devices, but they've been so expensive that 
+they've never caught on. I haven't heard of anything in the UK for 
+some years now.”
+
+She also has visually impaired friends who swim and says they either 
+swim with sighted help or swim when ‘lanes’ are in use. “Growing up 
+in a partially sighted school, we learned to swim without bumping 
+into each other, and some of my schoolmates have gone on to become 
+Olympic winners!”
+
+Rod Carne, chief executive of the National Blind Children's Society, 
+also has low-tech advice: “I walk in front of the shopping trolley and 
+find this reduces accidents. If you are not hellbent on being 
+independent the stores usually fall over themselves to provide an 
+assistant to help you.
+
+On swimming he says: “I crack this problem by using my local pool 
+when they have lane swimming. I can at most times locate the black 
+line on the bottom of the pool which fortunately is midway between 
+the barrier ropes. Prior to this they would always put in a lane for me 
+when it was not busy.
+
+“I consider that you have a case for this sort of concession under the 
+Disability Discrimination Act. If you cannot get anywhere with your 
+local pool, try writing to the chief executive of the local council, or I 
+could try negotiating for you.”
+
+Larry Johnson says: “To deal with the problem in the pool, she might 
+swim with a buddy along side to alert her about other swimmers or 
+obstacles. Another technique, one which I follow, is to swim along 
+the side of the pool touching it from time to time to keep position. A 
+third alternative is to choose to swim at a time when there are fewer 
+swimmers. None of these are perfect solutions, but they work.”
+
+[Section two ends.]
+
+
+* SECTION THREE: PROFILE
+- TALKING NEWSPAPERS.
+
+* ALL THE NEWS THAT'S FIT TO EMAIL.
+by Phil Cain  phil@headstar.com
+
+There are now many up to date news services available on the 
+internet, much of it accessible to visually impaired people. 
+Nevertheless, the bulk of the information appearing in the latest 
+newspapers and magazines in your local newsagent is still not online.
+
+Up until now this problem has been tackled by sighted people 
+volunteering to reading the publications onto tape – the ‘talking 
+newspaper’. From the beginnings of this work in the early 1970s the 
+UK has become home to the world's most extensive network of 
+volunteer newspaper readers, made up of some 520 local groups, 430 
+of which are affiliated to the Talking Newpaper Association UK 
+(TNAUK - http://www.tnauk.org.uk).
+
+Overall, the national network delivers around 1,100 of the UK's 1,500 
+local newspapers, to an audience of 200,000 visually impaired people. 
+TNAUK, based on a small industrial estate in Heathfield, East 
+Sussex, is also responsible for voicing the UK's national newspapers 
+and around 200 magazines and newsletters in its eight on-site studios.
+
+Though popular, the tape transcription method does have its 
+drawbacks. The biggest problem is that the process is extremely 
+labour intensive, with the Sunday Times alone taking around 30 hours 
+to read from front to back. When this time is added to that needed to 
+copy and deliver the tapes, it means a timely service is nigh-on 
+impossible without cutting corners. And, when it comes to factual 
+information, there is a fine line between cutting corners and 
+censorship. In TNAUK chief executive Tim McDonald's point of 
+view, "There should be a right to access newspapers and books under 
+the Disability Discrimination Act."
+
+Now however, new software tools and internet-based delivery 
+methods are revolutionising the service, so much so that is sometimes 
+now even faster than delivery of the paper version. Using automated 
+text editing machines and email delivery TNAUK now delivers the 
+complete text of newspapers to visually impaired people hours before 
+they arrive at the newsagents. On a good day, TNAUK says a 
+newspaper will be on the subscriber's electronic doormat by 4.30am.
+
+Publishers play their part in the digital supply chain by sending the 
+raw copy of their newspapers to the association in Quark or 
+PageMaker desktop publishing formats. To do so is an act of trust, 
+with publishers wary of piracy, but McDonald says they can rest easy: 
+"We will fight piracy as hard as anyone.”
+
+TNAUK's electronic catalogue doesn't stop with the national papers, 
+offering subscribers around 200 other magazines and newsletters 
+electronically. According to TNAUK programmer Ian McGregor, 
+"These types of publications offer considerable challenges in their 
+‘standard’ form for visually impaired people. They are difficult and 
+often impossible to read, even with a strong magnifier. The pages are 
+often printed in many colours on glossy paper, and text is sometimes 
+superimposed over images."
+
+Other tasks which need to be carried out before a publication can be 
+despatched include the substitution of contractions for full words and 
+linear text for tables, a particular favourite of consumer titles like 
+Computer Shopper. "The biggest difficulty we have here is the rather 
+slack standards of composition," says McGregor. "A lot of people 
+don't know the difference between 'soft' carriage returns and 'hard' 
+carriage returns. Nobody takes into account what we have to do later 
+on."
+
+Despite its advantages, TNAUK’s digital subscription rates remain 
+low, with only 10 percent of the association’s 20,000 or so 
+subscribers choosing this format. TNAUK's head of IT Tony Dart 
+explains the low uptake on the fact that visually impaired people tend 
+to be older and so are less likely to be familiar with computers.
+
+For people who prefer the human voice, TNAUK is committed to 
+continuing with the tape format. But even this trusty format is due to 
+get a high tech facelift, with the studios due to digitise this year.
+
+Ultimately, these high-tech developments for the visually impaired 
+could even come full circle and end up teaching the sighted a thing or 
+two. To Tim McDonald, email delivery is the future of news for 
+everybody, and the techniques being developed by TNAUK could 
+lead the way.
+
+NOTE: For more information about subscribing to TNAUK 
+publications email info@tnauk.org.uk
+
+[Section three ends.]
+
+
+* SECTION FOUR: SPECIAL REPORT
+- ACCESSIBLE BANKING (Part One).
+
+* USABILITY ON TRIAL.
+by Tamara Fletcher  tamara@headstar.com
+
+Online banking is often one of the first ways in which people start to 
+gain confidence in using the internet for everyday transactions, but for 
+those with visual impairment it has not been so easy.
+
+In September 2000, the RNIB tested the accessibility of web sites of 
+17 well-known high street businesses, including four banks: Abbey 
+National, Alliance and Leicester, HSBC and NatWest. Of these four, 
+none passed all the basic tests set for them, and one (who was 
+generously allowed to remain anonymous) did not pass any.
+
+Last year even more extensive usability testing took place at six banks 
+and a follow-up report, 'Accessible e-banking', was published in 
+October 2001 by the RNIB with the British Banking Association, 
+ahead of a conference in April.
+
+The conference heard of a situation which is fast improving, but still 
+with some way to go before internet banking becomes fully 
+accessible. Joe Norburn, head of the web team that runs Natwest.com 
+and its parent company's site Royal Bank of Scotland 
+(http://www.rbs.co.uk), said he would not consider using an agency 
+that had could not understand how to make web sites accessible, not 
+least because of the obligations for accessible digital services implied 
+by the Disability Discrimination Act.
+
+He advised developers to incorporate accessibility from the start of a 
+project as it is more difficult to retrofit an existing site and underlined 
+the importance of user testing while addressing the misconception 
+that to make a web site accessible is to make the user experience less 
+compelling – saying that it is possible to push the boundaries of 
+design while still complying with accessibility guidelines.
+
+Abbey National recently relaunched its e-banking service 
+(http://www.abbeynational.co.uk/ebanking_home.htm) and is 
+currently working on a text only version of their site, which may be 
+available later this year. A spokesman for the bank said: “RNIB had 
+been quite verbal about our previous web site. At the end of January 
+we relaunched it and are committed to further improvements. We sit 
+in the office and use the Jaws browser with it so we’re confident with 
+it.”
+
+Nationwide (http://www.nationwide.co.uk) is also making progress. 
+One employee at the building society told E-Access Bulletin: “We’re 
+making our pages more accessible generally. Parts of the site are 
+already compliant, for example banking, credit cards, investment and 
+pensions, but the home page is still very inaccessible – so the front 
+door hasn’t been addressed but the hallway has.”
+
+The online banking parts of the site are due to be relaunched soon, 
+and the bank says during the development process of the new site 
+they have learned much more about accessibility issues and will 
+continue work to improve it.
+
+One bank customer and experienced internet user who has been in 
+communication with the RNIB about accessibility problems is Ian 
+Dawson, who has been totally blind since 17, and has accounts with 
+Nationwide and NatWest. He says he lost his original registration 
+with the NatWest web site through problems logging on, and hasn’t 
+been able to reregister since.
+
+“Each bank has different security processes - with Nationwide, the 
+log on process is relatively straightforward. You have a customer 
+number, choice of password and a pass number. With NatWest 
+there’s a random element to it – you have a user number uniquely 
+identifiable to you, then they ask for three letters from your password. 
+Using a screen-reader, you have a limited time to do this but it also 
+depends much on which screen-reader you use.”
+
+The RNIB/British Banking Association report highlights a series of 
+other key features of accessible banking:
+
+- Make logging in straightforward - make login link one of the first to 
+be accessed within the tab order. When login process has a number of 
+stages, use the word ‘continue’ rather than ‘send’ or ‘confirm’. Make 
+sure user is made aware of any new browser windows.
+
+- Keep it simple - terminology should be unambiguous. Provide a link 
+to a list of abbreviations, if used. Error messages should be concise 
+and give the user an indication of what to do next.
+
+- Use tables correctly and consider how they might be read.
+
+- Provide help and clear messages on screen and ensure that 
+navigation round the site is reasonable - forms can be particularly 
+confusing at first as the whole page is not visible.
+
+- Lay out statements clearly - make sure credit and debit amounts are 
+easily distinguishable.
+
+- Keep users informed when logging out, and provide a link to log 
+back in.
+
+NOTE: Next month we look at the accessibility of ATM cash 
+machines. 'Accessible e-banking' is available from the BBA in print, 
+audio and Braille formats for 80 pounds - email 
+publications@bba.org.uk
+
+[Section four ends.]
+
+
+* SECTION FIVE: TRADE SECRETS
+- KEYBOARD SHORTCUTS.
+
+* THE KEYS TO TAMING THE METAL BOX.
+By John Wilson  jwjw@onetel.net.uk
+
+I have been using computers for over ten years now, but I well 
+remember some of the frustrations and seeming impossibilities I faced 
+when I first started. Nevertheless, having grasped the essentials of 
+using keyboard shortcuts, screenreaders and Braille displays, a blind 
+person can quite rapidly turn a frustrating metal box into a very 
+helpful and life-enriching aid and companion.
+
+There are special programs written for blind people designed to be 
+easy to use from the keyboard only. But the reality is that, both at 
+home and at work, visually impaired people need to learn to use the 
+same programs as their sighted counterparts. For visually impaired 
+people this means learning to use keyboard shortcuts. There can be 
+considerable differences between programs in how easily this can be 
+done, with some having few or no 'hot keys'. But the main problem 
+for visually impaired people is often obtaining meaningful feedback 
+to check you have achieved your goal, not using the keyboard or 
+remembering the hot keys.
+
+Fortunately most Windows-based programs come with a enough 
+keyboard shortcuts and a good screenreader will let you know if you 
+have succeeded. But still, for the beginner, learning how to use some 
+of these massive programs - such as the MS Word processor, the 
+Sound Forge audio system, or Nero-Burner CD copying software - 
+can be a daunting prospect.
+
+This is where good quality training or good text and tape tutorials 
+tailored specifically to the needs of visually impaired users is crucial. 
+With the best will in the world, a sighted trainer of sighted people 
+using sighted methods often cannot grasp how a blind person must 
+use alternative methods to achieving their goal and verify the results.
+
+I remember the difficulties I had years ago learning to use the DOS 
+DataEase database manager with a sighted trainer alongside sighted 
+colleagues. One problem the trainer had no answer for was the 
+difficulty I had reading the tables the program produced. Once 
+halfway down a page, the table's contents disassociated from their 
+heading. I later discovered that DataEase reports can be created in a 
+variety of formats, including one in line by line format, which meant 
+reading and understanding the report file was much easier than in 
+columns. 
+
+When using mainstream software such as Microsoft Word, Excel, 
+WordPerfect, TextBridge Millennium, Sound Forge or the main web 
+browsers, it is more important to learn the general shortcut keystrokes 
+and hot keys embedded in Windows programs than learn the hot keys 
+of your screenreader.
+
+By becoming dependent on the special keystrokes of a particular 
+screenreader, you could find yourself unable to operate a machine 
+with a different screenreader on it. For example shortcuts such as 
+Control + O to open a file, Control + P to print, Windows key + M to 
+go to the desktop, Tab and Shift + Tab to move through web page 
+elements, will work on most Microsoft software and packages 
+following Windows conventions. 
+
+This said, it is useful to learn the keystroke shortcuts built into their 
+screenreader where Windows does not have equivalents. For 
+example, with the Window Eyes screenreader, Insert + S reveals the 
+System Tray; with the JAWS screenreader, Shift + Insert + Down 
+arrow tells you what has been highlighted; and with HAL, Control + 9 
+switches between column-reading and line-reading modes.
+
+I would recommend the use of a modern Windows-based computer, 
+together with a printer and print scanner, with a speech, Braille or 
+magnification system, to anyone who has a need to read their own 
+literature and a desire to be as independent as possible. They must be 
+aware though, before they buy a computer, that it will require a 
+considerable investment of their time and effort to become proficient, 
+but the results will be well worthwhile.
+
+NOTE: John Wilson is author of the 'From the keyboard' series of 
+tutorials for visually impaired people. For more details call 0113 
+2575957 or visit:
+http://web.onetel.net.uk/~fromthekeyboard
+
+[Section five ends.]
+
+
+* HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail
+eab-subs@headstar.com with 'subscribe eab' in the subject header. 
+You can list other email addresses to subscribe in the body of the 
+message. Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject 
+header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2002 Headstar Ltd. http://www.headstar.com
+ISSN 1476-6337
+The Bulletin may be reproduced in full as long as all parts including 
+this copyright notice are included. Sections of the report may be 
+quoted as long as they are clearly sourced as 'taken from e-access 
+bulletin, a free monthly email newsletter', and our web site address 
+http://www.e-accessibility.com is also cited.
+
+* PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  phil@headstar.com
+News Editor - Derek Parkinson  derek@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial Advisor - Kevin Carey  humanity@atlas.co.uk 
+
+[Issue ends.]

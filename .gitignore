@@ -1,0 +1,25 @@
+#.gitignore for headstar_web
+
+CVS
+docs
+headstar
+1
+*old*
+
+Thumbs.db
+.DS_Store
+FINDER.DAT
+
+00readm*.txt
+*copy*.*
+*Copy*.*
+archiv*_*.html
+*_*20*.*
+
+/*.vcf
+/*.gif
+em*.txt
+/*.html
+
+
+#End.

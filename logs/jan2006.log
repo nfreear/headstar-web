@@ -1,0 +1,61 @@
+__ BUILD [tens2html.pl  v1.14] log Tue May 23 09:06:51 2006 __
+
+Input file: ../eab/issues/2006/jan2006.txt
+
+Warning: file already exists: ../eab/issues/2006/jan2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jan | index: 1 | year: 2006
+URLs, prev: ../2005/dec2005.html | next: ../2006/feb2006.html
+Found ++, heading 2: Issue 73 Contents.
+>> FOUND 2:  | 01:  | US State to Mandate Open Source Despite Access Fears
+>> FOUND 2:  | 02:  | 'Talking Bus Stops' Go Live in Scotland
+>> FOUND 2:  | 03:  | Situation 'Critical' for Talking Newspaper Service
+>> FOUND 2:  | 04:  | Mobile Software Makes Emails and Word Documents Speak
+>> FOUND 2: News in Brief:  | 05:  | News Conversion - RSS to TEN Standard; 06:
+OK, News in brief
+Found: News Conversion - RSS to TEN Standard | ; |  06:
+>> FOUND 2: Poetic License - online recordings archive;  | 07:  | Talking Back -
+Found: Poetic License - online recordings archive;  | 07:  | Talking Back -
+>> FOUND 2:  | 08:  | Broad Palette - colour-blindness web site; 09: Members Only -
+>> FOUND 2: Fijian library request;  | 10:  | Talking Shop - gadget database; 11: Mobility
+Found: Talking Shop - gadget database | ; |  11: Mobility
+>> FOUND 2:  | 12:  | A Level Playing Field? Blind or vision-impaired sports fans can
+>> FOUND 2:  | 13:  | Stimulation and Response: It can be hard to distinguish between
+Warning line 52: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: Special Notice: Flexible Working in the Public Sector
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | US State to Mandate Open Source Despite Access Fears.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | 'Talking Bus Stops' Go Live in Scotland.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Situation 'Critical' for Talking Newspaper Service.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Mobile Software Makes Emails and Word Documents Speak.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  Readers are invited to test a 'TENbot' tool to
+> ITEM 1:  06:  | : |  Sound recordings of a wide range of English
+> ITEM 1:  07:  | : |  'Dolphin Producer' software that allows students
+Found ++, heading 2: Special Notice: Email Management '06
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 268.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 277.
+> ITEM 1:  08:  | : |  Andrew Lewis of the libraries department at
+> ITEM 1:  09:  | : |  Rakesh Chand, a customer service representative
+> ITEM 1:  10:  | : |  Roy Drever who works in IT for the UK's
+> ITEM 1:  11:  | : |  "I have recently upgraded
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Focus
+> ITEM 2:  12:  | A Level Playing Field?
+Warning: not found a 'contents' match: A Level Playing Field?By Carli Hawes.
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 491.
+Found ++, heading 2: Section Four - Techshare Conference Report
+> ITEM 2:  13:  | Stimulation and Response
+Warning: not found a 'contents' match: Stimulation And Responseby Derek Parkinson.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 2.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 591.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 597.

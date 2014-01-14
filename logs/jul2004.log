@@ -1,0 +1,55 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:56 2004 __
+
+Input file: ../eab/issues/2004/jul2004.txt
+
+Warning: file already exists: ../eab/issues/2004/jul2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jul | index: 7 | year: 2004
+URLs, prev: ../2004/jun2004.html | next: ../2004/aug2004.html
+Found ++, heading 2: ISSUE 55 CONTENTS.
+>> FOUND 2:  | 01:  | Supermarket web sites fail basic checks
+>> FOUND 2:  | 02:  | Personal navigation system to be tested in Finland
+>> FOUND 2:  | 03:  | UN employment programme announced for Ethiopia
+>> FOUND 2:  | 04:  | Satellite audio description service to cover all channels
+>> FOUND 2: News in Brief:  | 05:  | Digital hope - Asian support schemes; 06:
+OK, News in brief
+Found: Digital hope - Asian support schemes | ; |  06:
+>> FOUND 2: Accessible telephony - Singaporean call centre;  | 07:  | Handheld pioneer
+Found: Accessible telephony - Singaporean call centre;  | 07:  | Handheld pioneer
+>> FOUND 2:  | 13:  | Life on the front line: Mel Poluck talks to an academic and
+>> FOUND 2:  | 14:  | The weight of evidence: All the research shows that people with
+Warning line 51: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: Special Notice: Access Technology Sector Marketeer Wanted
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | Supermarket Web Sites Fail Basic Checks.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Personal Navigation System to be Tested in Finland.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | UN Employment Programme Announced for Ethiopia.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Satellite Audio Description Service to Cover All Channels.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF:
+> ITEM 1:  05:  | : |  The Digital Hope 2004 programme providing
+> ITEM 1:  06:  | : |  The Singapore Association of the
+> ITEM 1:  07:  | : |  An accessible handheld computer for
+Found ++, heading 2: Special Notice: Techshare 2004 Call for Papers
+Found ++, heading 2: Section Two: The Inbox'
+> ITEM 1:  08:  | : |  DPM Weerakkody, Professor of Western
+> ITEM 1:  09:  | : |  Further to our recent piece on accessibility
+> ITEM 1:  10:  | : |  In a recent issue a reader asked for
+> ITEM 1:  11:  | : |  Bart Simons, Web Accessibility
+> ITEM 1:  12:  | : |  John Loader of DotSix Brailling Services
+Found ++, heading 2: SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+Found ++, heading 2: Section Three: Interview
+> ITEM 2:  12:  | Life on the Front Line
+Warning: not found a 'contents' match: Life On The Front Lineby Mel Poluck.
+Warning, replacing non-ASCII character 233 (line 465, 47): called 'Red de solidaridad con los ciegos de Am&#233;rica Latina (Red
+
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Found ++, heading 2: Section Four: Opinion
+> ITEM 2:  14:  | The Weight of Evidence
+Warning: not found a 'contents' match: The Weight Of Evidenceby Kevin Carey.
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

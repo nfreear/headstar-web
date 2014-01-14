@@ -1,0 +1,42 @@
+__ BUILD [tens2html.pl  v1.14] log Sat Jul  3 23:09:06 2010 __
+
+Input file: ../eab/issues/2009/nov2009.txt
+
+Warning: file already exists: ../eab/issues/2009/nov2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: nov | index: 11 | year: 2009
+URLs, prev: ../2009/oct2009.html | next: ../2009/dec2009.html
+Found ++, heading 2: Special Notice: Designing For All: Two for One Training Offer
+Found ++, heading 2: Issue 119 Contents.
+>> FOUND 2:  | 01:  | US Universities Reject 'Inaccessible' Kindle E-Book
+>> FOUND 2:  | 02:  | 'Podcasts From Past' On Cultural Access Prize Shortlist
+>> FOUND 2:  | 03:  | First Internet Web Radio Launched For Blind Users.
+>> FOUND 2: News in Brief:  | 04:  | Benchmark Concern - survey reveals website fears;
+OK, News in brief
+Found: Benchmark Concern - survey reveals website fears | ; | 
+>> FOUND 2:  | 05:  | Tuning Up -iTunes guidelines; 06: Cookie Monster - pop-up
+>> FOUND 2:  | 07:  | Universal Life: The online virtual world Second Life recently
+Warning line 60: expected [Contents ends].
+$toc_count=6
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | US Universities Reject 'Inaccessible' Kindle E-Book.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | 'Podcasts From Past' On Cultural Access Prize Shortlist.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | First Internet Web Radio Launched For Blind Users.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Only 44% of organisations believe their
+> ITEM 1:  05:  | : |  Guidelines for helping people create accessible media
+> ITEM 1:  06:  | : |  Accessibility problems could soon be created
+Found ++, heading 2: Special Notice: Future Democracy '09
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Two: Focus
+> ITEM 2:  07:  | Universal Life
+Warning: not found a 'contents' match: Universal Lifeby Kel Smith.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 431.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 460.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 467.

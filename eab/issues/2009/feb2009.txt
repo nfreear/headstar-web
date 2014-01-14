@@ -1,0 +1,440 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 110, February 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++E-Access '09: Technology For All
+- Access To All Technologies By People With Disabilities
+- Fifth Annual Conference And Exhibition
+http://www.headstar-events.com/eaccess09/
+
+In an ageing population, and in tough economic times, ensuring all
+your customers, service users and staff are included in everything you
+do is more vital than ever, from your externally-facing websites to
+internal IT systems.
+
+E-Access Bulletin's fifth annual conference and exhibition on access to
+technology by people with disabilities is taking place on 23rd April
+2009 at Olympia Conference Centre in London. Our keynote speaker is
+Bill Thompson, technology critic and broadcaster, who will explore the
+day's key themes.
+
+Other speakers include Graeme Whippy, Senior Manager, Lloyds TSB
+IT Accessibility Group; Shadi Abou-Zahra, of the W3C Web
+Accessibility Initiative, on the new international web access guidelines
+WCAG 2.0; Julie Howell, Chair of the committee developing a new
+British Standard for web accessibility BS8878; and Damon Rose,
+Editor of the award-winning BCC disability website 'Ouch', on the
+future of accessibility.
+
+Places cost just £195 +VAT for public sector delegates; £295 +VAT
+for private sector; and £165 + VAT for small charities and non-profits
+(turnover less than £150k a year). To find out more and sign up today,
+visit:
+http://www.headstar-events.com/eaccess09/
+
+[Special notice ends].
+
+
+++Issue 110 Contents.
+
+01: More Workplace Assistance Needed With IT, Guide Warns.
+- Employers' Forum on Disability issues procurement advice.
+
+02: Lost Weekend Spawns Accessible Facebook
+- Software developers create tool live at 'code-a-thon'.
+
+03: Navigational Device Wins International Research Prize
+Mobile phone application helps users of public transport.
+
+News in Brief: 04: Linux Package - Adapted for visually impaired; 05:
+Room Rights -accessible hotel search; 06: June Prizes - eWell-Being
+awards.
+
+Section Two: Focus - Web 2.0.
+07: Licence To Tweet: Twitter is a microblogging system that has
+soared in popularity, but there are numerous accessibility issues which
+make the system difficult for some disabled users. Gez Lemon explores
+the issues and offers his own possible solution using 'Greasemonkey',
+a plug-in for the Firefox browser.
+
+[Contents ends].
+
+
+++Section One: News.
+
+
++01: More Workplace Assistance Needed With IT, Guide Warns.
+
+Employers should do more to help disabled people with their IT
+workplace needs, according to a new guide from the Employers'
+Forum on Disability (EFD).
+
+The 'Reasonable adjustments - line manager guide' (
+http://fastlink.headstar.com/efd1 )
+advises employers to ensure they procure the correct equipment to
+ensure disabled workers can work to their full potential, including
+voice-activated software; adapted keyboards; and chairs which support
+the back and neck.
+
+The guide includes example scenarios with solutions to common
+problems associated with disabilities in the workplace. One of the
+scenarios explores the difficulties that can occur from using IT
+equipment incorrectly including back and neck pain, and swollen
+wrists. Proposed solutions include an adaptor keyboard to place less
+strain on the user's wrists, a mouse which does not need to be grasped
+tightly and a chair adapted to suit the sitter's position.
+
+Though focused on those with disabilities, the guide aims to maximise
+the potential of all employees, by increasing understanding of and
+adapting to the needs of disabled workers. It also sets out legal
+guidelines and helps employers identify what can and cannot be
+classed as a disability.
+
+The EFD is a UK membership organisation helping businesses and
+companies to recruit disabled workers and providing services and
+products geared towards making the workplace more accessible.
+
+
++02: Lost Weekend Spawns Accessible Facebook.
+
+A tool to make the social networking site Facebook more accessible to
+visually impaired users has been created by Project:Possibility (
+http://www.projectpossibility.org/,
+a group of not-for-profit software developers in the US. The
+application (
+http://fastlink.headstar.com/pp2 )
+allows visually impaired users to log in, navigate and use the site by
+combining screen reader technology with other coding techniques.
+
+Brian D'Souza, a team member who worked on the project, explained:
+"We leveraged an existing technology developed by Google called
+AxsJax (accessibility + AJAX) which combines use of screen readers
+and java script and navigation methods to make navigation and
+modification of content of webpages easier. It provides a lot of value
+for a blind person."
+
+Facebook's popularity has risen dramatically in recent years, with
+more than 150 million users worldwide. However some users claim it
+does not fully support assistive tools, with several groups active on the
+site itself pressing for a more accessible service, such as The Official
+Petition for a More Accessible Facebook (
+http://en-gb.facebook.com/group.php?gid=2384051749 ),
+which contains almost 1,500 members. Some measures have already
+been taken by Facebook to accommodate the needs of disabled users,
+such as releasing screen reader-friendly versions of some of its
+applications.
+
+The Facebook tool was one of a series of projects created at the recent
+UCLA SS12, an annual 'code-a-thon' held at the University of
+California, Los Angeles. Software developers spend a weekend
+working on projects for disabled people.
+
+Other projects developed by the same team at this year's SS12
+included Project AWE (
+http://projectpossibility.org/projects/handicapannotate/),
+a 'website accessibility tagging tool', which allows users and third
+parties to rate the accessibility of web pages. Ratings are automatically
+retrieving when the disabled user visits the page, allowing them to
+immediately gain an idea of how easy the page will be to navigate.
+
+
++03: Navigational Device Wins International Research Prize.
+
+A device installed in mobile phones to help blind and visually impaired
+people navigate from place to place has won the fifth International
+Research and Development Award in New Technologies for the Blind
+and Visually Impaired from ONCE (Spanish National Organisation of
+the Blind).
+
+The prize of 240,000 Euros to help fund further research was won by
+the Shinobu Project, developed by the Human Communication and
+Interaction Research Group http://www.hci-rg.com/ at the University
+of Oviedo in Spain.
+
+The device allows users to choose the best path to their destination
+using public transport networks, by supplying information about the
+route as they travel. This includes live information about train and bus
+connections and details of possible points of interest to visit along a
+choice of alternative routes. The information is relayed to the user's
+mobile phone in real time.
+
+ONCE received 58 applications for the latest award, from projects in
+14 different countries worldwide.
+
+http://www.once.es/new/otras-webs/english
+
+
+
+++News in Brief:
+
++04: Linux Package: A version of the open source computer operating
+system Linux has been released for users with visual impairments.
+Vinux (a customisation of the popular Ubuntu distribution of Linux)
+automatically activates a screen reader, detects USB Braille displays
+and provides full screen magnification. The system was developed by
+Anthony Sales of the Royal National College for the Blind:
+http://vinux.org.uk/ .
+
++05: Room Rights: Wheelchair-friendly hotel rooms can now be
+reserved online through two of the largest travel websites, signalling
+the end of a two-year lawsuit. Expedia.com and Hotels.com have
+agreed to include a search function for accessible accommodation on
+their sites, following legal action by public interest law firm Disability
+Rights Advocates, which had claimed the lack of such an option
+violated civil rights:
+http://fastlink.headstar.com/hotel1 .
+
++06: June Prizes: ICT projects which promote social inclusion can be
+entered in the 'Reaching the digitally excluded' category at the
+National eWell-Being Awards 2009. The awards promote innovative
+uses of ICT for environmental, social and economic benefits, with the
+winners announced in June:
+http://www.sustainitawards.co.uk/ .
+
+[Section One ends].
+
+
+++Sponsored Notice: Designing For All:
+- An Inclusive Approach To Web, Print And Electronic Publishing
+- A Practical, One-day Training Course and Document Clinic
+- Tuesday 17 March, Central London
+http://www.headstar-events.com/dfa/
+
+Trainer: Katie Grant, former publications manager, Disability Rights
+Commission.
+
+Our 'Designing for all' course is a practical seminar designed to
+introduce organisations to the importance of designing accessible, easy
+to read information for a range of different audiences including older
+people and people with disabilities.
+
+In a society which now includes a large proportion of disabled people,
+people for whom English is not their first language and an ageing
+population, it is imperative that all your organisation's information is
+written and designed as accessibly and inclusively as possible. This
+includes both traditional media such as leaflets and reports, and new
+media such as the web.
+
+Designing for all makes good business sense - boosting online sales
+and improving recruitment and retention; good ethical sense; and good
+legal sense.
+
+Our course help you assess your current design and content of
+information - please bring examples to our document clinic.
+Registration costs £395 + VAT. Find out more and register online
+today, at:
+http://www.headstar-events.com/dfa/ .
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: Focus
+- Web 2.0.
+
++07: Licence To Tweet
+- by Gez Lemon.
+
+[EDITOR'S NOTE: Twitter is a 'microblogging' system that allows
+people to supply a feed of very short messages, or 'tweets' - just 140
+characters long, to whoever subscribes to their feed. Subscribers can
+then reply openly with their own messages, or use the system to send
+private messages in reply. However, despite the fact that it is such a
+simple concept (and leaving aside for the moment the question of who
+has time to use it), the service raises various accessibility issues. Here,
+blogger Gez Lemon offers one innovative solution.]
+
+Considering the standard Twitter website is so basic, it's surprising it is
+so inaccessible.
+
+There are many accessibility problems with Twitter, but by far the
+biggest issue is the use of various links that can only be activated using
+a mouse. The links for making a particular tweet a favourite; the links
+for replying to a particular tweet; and the links to delete a tweet or
+direct message can only be activated using the mouse on the standard
+Twitter website. The favourite, reply and delete links are revealed
+when the user hovers the mouse over a tweet.
+
+Hiding actions and only revealing them when the user moves the
+mouse results in a very poor user experience for everyone, since many
+mouse users will be unaware that the functionality exists at all. But for
+keyboard-only users, the situation is far worse, as they could never
+possibly know the functionality exists.
+
+Twitter also offers a set of commands to use with Twitter updates,
+including an '@username' command to send a reply to a particular
+user. However, use of these commands from the keyboard does not
+offer the full functionality available to mouse users, who can click on
+function buttons.
+
+The syntax for the manual command is '@username message you want
+to send to the user'. While useful, there are two significant difficulties
+with this syntax.
+
+First, the reply is associated with the last tweet the user sent. If the 
+user
+has sent tweets since the particular message a user intends to reply to,
+the reply is associated with the wrong tweet. By contrast, the reply is
+always associated with the correct tweet when using the mouse-
+operated reply button.
+
+Second, the user has to physically type the username. As usernames
+aren't always simple to remember, the user sometimes has to copy and
+paste them. By contrast, the name is automatically put into the reply
+box with the correct syntax, and associated with the correct tweet,
+when a user hits the reply button.
+
+So overall, using commands to manually send replies is not an
+equivalent for a button that does everything for the user.
+
+There is also a manual 'FAV' command to make a tweet a favourite.
+The syntax is 'FAV username', which will make the last tweet by the
+user a favourite. But as with replies, the FAV command assumes you
+are talking about the very last tweet from a user, which may or may not
+be the case, and once again requires the user to type the username.
+
+Keyboard-only users also cannot delete tweets or direct messages, as
+there are no manual commands for deletion.
+
+So how to solve these problems?
+
+In fact, there are so many accessibility issues with Twitter that I
+originally wanted to build an entire new accessible application for
+using Twitter. The problem is that I wouldn't have the bandwidth to
+run a server-side Twitter application, and Twitter doesn't currently use
+'OAuth', an open authorisation system that allows other applications to
+interact with it, without which I would have to ask users to trust me
+directly with their usernames and passwords.
+
+When discussing this on Twitter, one correspondent Derek Feather
+suggested using 'Greasemonkey', a plug-in for the Firefox web
+browser that allows users to install scripts to change web pages. This
+was a good idea, as it at least allowed the biggest accessibility
+problems to be addressed immediately.
+
+So it was that I wrote the 'Focus Twitter Greasemonkey' script. The
+script reveals Favorite, Reply and Delete links when appropriate for
+each tweet in the timeline. The link phrases have contextual
+information for assistive technology, but hidden visually, as the links
+are clearly grouped with the tweet to which they belong. I also
+removed the avatar from the keyboard tab order to reduce the number
+of redundant links for keyboard-only users, as the name immediately
+by the side of the avatar activates the same link. I have left the link in
+place so that mouse users have a larger target area, as they can click on
+the avatar.
+
+If you don't already have Greasemonkey installed, you will first need
+to install Greasemonkey in Firefox first. After installing the extension,
+select the Focus Twitter Greasemonkey script, and you will be
+prompted to install the script. From then on, you will have access to
+reply, favourite and delete links using the keyboard.
+
+This goes to show what's possible, but more needs to be done. Web 2.0
+has great promise, offering software developers the ability to get rich
+applications out to a wide audience on multiple platforms, but basic
+usability principles are often overlooked. Software developers have a
+responsibility to ensure their applications are accessible and usable by
+everyone, regardless of ability.
+
+Gez Lemon runs Juicy Studio:
+http://juicystudio.com/ .
+
+[Section Two ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue 110 ends.]

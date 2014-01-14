@@ -1,0 +1,57 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Nov 15 21:06:34 2009 __
+
+Input file: ../eab/issues/2009/sep2009.txt
+
+Warning: file already exists: ../eab/issues/2009/sep2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: sep | index: 9 | year: 2009
+URLs, prev: ../2009/aug2009.html | next: ../2009/oct2009.html
+Found ++, heading 2: Special Notice: Designing for all: an inclusive approach to web,
+Found ++, heading 2: Issue 117 Contents.
+>> FOUND 2:  | 01:  | Google reCAPTCHA Purchase Boosts Accessibility Potential
+>> FOUND 2:  | 02:  | BBC Opens Up iPlayer To Audio Description
+>> FOUND 2:  | 03:  | Australian Web Accessibility Reviews Open To All
+>> FOUND 2: News in Brief:  | 04:  | Healthy Apple? Computer giant wins web access
+OK, News in brief
+Found: News in Brief:  | 04:  | Healthy Apple? Computer giant wins web access
+>> FOUND 2: award;  | 05:  | Electric Vision: video input translated into electrical signals
+Found: award;  | 05:  | Electric Vision: video input translated into electrical signals
+>> FOUND 2: on tongue;  | 06:  | Sign Online: live webcam service for Deaf Olympics.
+Found: Sign Online: live webcam service for Deaf Olympics | . | 
+>> FOUND 2:  | 07:  | Council Gripe - poor consideration for accessible applications; 08:
+>> FOUND 2: Perplexing Piece: Adaptability versus accessibility;  | 09:  | Twitter Chatter
+Found: Perplexing Piece: Adaptability versus accessibility;  | 09:  | Twitter Chatter
+>> FOUND 2: - Accessible tool discussion;  | 10:  | Rotten Apple? Technical support
+Found: - Accessible tool discussion;  | 10:  | Rotten Apple? Technical support
+>> FOUND 2: glitch;  | 11:  | Audio Research - Source suggestions; 12: BBC Defence -
+Found: Audio Research - Source suggestions | ; |  12: BBC Defence -
+>> FOUND 2:  | 13:  | The Road To Achievement: The UK's leading pan-disability
+Warning line 71: expected [Contents ends].
+$toc_count=15
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Google reCAPTCHA Purchase Boosts Accessibility Potential.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | BBC Opens Up iPlayer To Audio Description.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Australian Web Accessibility Reviews Open To All.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | ? |  Computer giant Apple has been recognised for its
+> ITEM 1:  05:  | : |  A portable device that allows blind users a degree
+> ITEM 1:  06:  | : |  A real-time online sign language interpretation
+Found ++, heading 2: Special Notice: Future Democracy '09
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 259.
+> ITEM 1:  07:  | : |  A Scottish local government worker, David
+> ITEM 1:  08:  | : |  In last issue's web research feature
+> ITEM 1:  11:  | : |  Last month Ken Ingham, President of
+> ITEM 1:  12:  | : |  Last issue James Wright, a reader from the West
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: Publications
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 510.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 543.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 572.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 579.

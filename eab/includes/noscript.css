@@ -1,0 +1,49 @@
+/**
+ * Title: 'No script' base E-accessibility Stylesheet (CSS2).
+ * URL:   http://www.e-accessibility.com/includes/noscript.css
+ * Rights: Copyright 2003-07-23 2006-10-18 Nick, Bunbury IS.
+ */
+@import "textonly.css";
+
+@media screen
+{
+  body, #Body {
+    color:       #000;
+    background:  #fff;
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+  }
+  pre { font-family: Arial, Helvetica, Geneva, sans-serif; font-weight: normal; font-size: 1.05em; }
+  p, address, #main li { line-height: 1.3em; }
+  a img { border: none; }
+  address { font-style: normal; letter-spacing: .05em; }
+  acronym, abbr { cursor: help; }
+
+  h1 { font-size: 1.55em; }
+  #main table { width: 80%; }
+  th, caption { text-align: left; }
+
+  #switch li, #switch, #totop li, #totop, #menu li, #menu
+  {
+    padding:0%;
+    margin: 0%;
+  }
+  
+  /* Bulletins */
+  #toc, #personnel li { list-style: none; }
+  
+  #switch li, #totop li, #totop h3 { list-style: none; display: inline; }
+  #headstar { width: 92px; height: 90px; }
+  #validators img { width: 88px; height: 32px; border: none; }
+  
+  /*#switch a:hover:after,#switch a:focus:after,#menu a:hover:after,#menu a:focus:after*/
+  a.Key:hover:after, a.Key:focus:after { content: " [" attr(accesskey) "]"; }
+}
+
+.vcard address { font-style: normal; }
+.vcard li { margin-top: 0.5em; }
+.adr span { display: block; }
+.adr span span { display: inline; }
+.adr .org span { display: block; }
+.adr .region, .adr .postal-code { display: inline; }
+
+.vhide { display: none; }

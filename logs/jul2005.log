@@ -1,0 +1,51 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:01 2005 __
+
+Input file: ../eab/issues/2005/jul2005.txt
+
+Warning: file already exists: ../eab/issues/2005/jul2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jul | index: 7 | year: 2005
+URLs, prev: ../2005/jun2005.html | next: ../2005/aug2005.html
+Found ++, heading 2: Special Notice: Techshare 2005 Call for Papers
+Found ++, heading 2: Issue 67 Contents.
+>> FOUND 2:  | 01:  | Talking Cashpoint Machines In Small-Scale European Tests
+>> FOUND 2:  | 02:  | First Electronic Travel Guide Published This Month
+>> FOUND 2:  | 03:  | More Bodies Sign Up To Text Email Newsletter Standard.
+>> FOUND 2:  | 04:  | Tickets Please - talking bus stops; 05: Free Browse - WebbIE 3;
+>> FOUND 2:  | 06:  | Caribbean DAISY - Jamaican e-books; 07: Access Survey -
+>> FOUND 2:  | 08:  | E-Books Located - library suggestions; 09: Scan Plan - microfilm
+>> FOUND 2: accessibility;  | 10:  | Screen Solutions - flexible screen reader; 11: Music
+OK, News in brief
+Found: Screen Solutions - flexible screen reader | ; |  11: Music
+>> FOUND 2:  | 12:  | On The Map: More and more digital map-based systems and
+>> FOUND 2:  | 13:  | From Games to Word Processing - The Structure of Inclusion: If
+Warning line 69: expected [Contents ends].
+$toc_count=10
+Found ++, heading 2: Special Notice: e-Access'05
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Talking Cashpoint Machines In Small-Scale European Tests.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | First Electronic Travel Guide Published This Month
+Found 'contents' match: 1.
+> ITEM 2:  03:  | More Bodies Sign Up To Text Email Newsletter Standard.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Bus stops around Bristol were last week fitted
+> ITEM 1:  05:  | : |  A new version of 'WebbIE', a free accessible web
+> ITEM 1:  06:  | : |  Jamaica has introduced DAISY audio books
+> ITEM 1:  07:  | : |  Deafblind people fear they will continue to be
+Found ++, heading 2: Sponsored Notice: QAC Sight Village 2005
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  08:  | : |  In response to last issue's request from
+> ITEM 1:  09:  | : |  In our last issue Mark Pimm, Disability Coordinator at
+> ITEM 1:  10:  | : |  John Getz, director of the blind rehabilitation
+> ITEM 1:  11:  | : |  E-Access Bulletin would like to hear from
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Two: Focus
+> ITEM 2:  12:  | On The Map
+Warning: not found a 'contents' match: On The Mapby Mel Poluck.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Four: Analysis
+> ITEM 1:  13:  | : |  The Structure of Inclusion
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.

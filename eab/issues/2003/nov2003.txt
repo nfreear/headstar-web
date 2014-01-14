@@ -1,0 +1,574 @@
++++E-ACCESS BULLETIN.
+- ISSUE 47, NOVEMBER 2003.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription
+details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 47 CONTENTS.
+
+01: Award for TV voice control experiment
+- 'virtual human interface' accepts spoken commands.
+
+02: Guide to work experience placements
+- insights into problems faced by students with disabilities.
+
+03: Sentient access to e-learning resources
+- web-based product scans university libraries.
+
+04: Speech technology market set to explode
+- analysts predict 'leap forward'.
+
+News in brief: 05: Daisy, Daisy - two new e-book readers; 06:
+Educational guide - RNIB catalogue; 07: Lieberman pledge - assistive
+technology funding.
+
+Section two: 'The Inbox' - Readers' forum.
+08: Interest group - procurement community; 09: Caught out? - design
+site inaccessible; 10: Flat facts - monitors and magnification.
+
+Section three: Technology - Global Positioning System
+11: Eyes in the sky:
+
+Section four: Interview - Fayyaz Afzal.
+12: Court life - Phil Cain talks to one of the UK's few registered
+blind barristers who touch-types as he cross-examines witnesses and
+has no problems with bloodstained evidence.
+
+[Contents ends].
+
+++SPECIAL NOTICE: TECHSHARE: LEARNING, WORK AND
+LIFE
+
+This year's major UK conference on technologies for the vision-
+impaired, Techshare, will focus on the themes of learning, work and
+life. The event, hosted by the RNIB and sponsored this year by
+Microsoft, will cover the internet; e-learning; and making music.
+There
+will be a pre-conference workshop 'Techshare for teachers' sponsored
+by government agency for technology in education, Becta.
+
+The results of a survey of blind and partially sighted people in the
+UK on their current use of, and attitudes towards technology will be
+presented to delegates. Techshare is held on 20-21 November 2003 at
+Jury's Inn, Birmingham and costs 180 pounds per person or 120
+pounds for one day. To register visit:
+http://www.techshare.org.uk .
+
+[Special notice ends].
+
+
+++SECTION ONE: NEWS.
+
++01: AWARD FOR TV VOICE CONTROL EXPERIMENT.
+
+An experimental system allowing people to access digital television
+sets using voice commands has won a Royal Television Society award
+for technical innovation (http://fastlink.headstar.com/rts1).
+
+The Virtual Human Interface for a Set-Top box Agent (VISTA -
+http://www.vista-epg.org.uk) interacts with the viewer through voice
+commands rather than the handset with onscreen menu format that
+makes current digital TV electronic programme guides (EPGs) difficult
+to use for many people with disabilities.
+
+With VISTA, a virtual person appears and speaks directly to the
+viewer, asking questions and responding to voice commands for
+services. Unlike many interactive voice response systems, VISTA is
+also designed to respond to a broad range of pronunciation. "As part
+of the project we used testers with a range of accents. One person was
+Glaswegian for example," said project manager Dr Jonathan Freeman.
+According to Freeman, the VISTA technology is designed to be
+compatible with set-top boxes which are already widely-used such as
+those issued with the Freeview and BskyB broadcast services.
+
+It is unclear if the VISTA project team, which included the
+Independent Television Commision, BSkyB and City University, will
+develop the project further. "It has to be emphasised that the aim
+was to demonstrate the concept, not develop a product," said Freeman.
+However, Ofcom (http://www.ofcom.gov.uk), the new regulator of
+digital communications, is scheduled to launch a public consultation
+on access to EPGs later this month.
+
+
++02: GUIDE TO WORK EXPERIENCE PLACEMENTS.
+
+Advice on work experience placements for students with disabilities,
+including those with impaired vision, is offered in a new free guide
+from Skill (http://www.skill.org.uk), the national organisation for
+students with disabilities.
+
+'Into work experience' (http://www.skill.org.uk/shared/into_we.asp)
+includes practical advice about finding and starting a placement;
+disabled people's legal rights; a reference section listing helpful
+publications and organisations; a section for employers highlighting
+the benefits of taking on disabled people; and contributions from
+students about their varied experiences of work placements.
+
+According to Jenny Hayden, a blind former student at the University
+of North London who supplied one of the case studies, a work placement
+may be difficult at first but can pay off in the longer term. "It was
+really hard going into an unfamiliar environment, to do a new job
+with
+people I didn't know," she told E-Access Bulletin. "But it's a good
+way
+of finding out the difficult things with a safety net," she said. "I
+now feel quite happy about looking for any kind of job."
+
+A particular difficulty was gaining access to company IT systems
+during her work placement, Hayden said. "I use a Braille 'n Speak
+notetaker but the IT department wouldn't let me load any equipment
+onto their computers. So the office manager transferred data onto a
+disk, and onto my notetaker," she said.
+
+The guide is available in large print, tape, disk or Braille format.
+To order a copy contact Sue Beckford on sue@skill.org.uk .
+
+
++03: SENTIENT ACCESS TO E-LEARNING RESOURCES.
+
+E-learning could become easier for vision-impaired lecturers and
+students with the launch of an accessible version of a web-based
+product that can search digital content held in university libraries.
+
+According to developer Sentient Learning
+(http://www.sentientlearning.com), its upgraded Sentient Discover
+software is the first of its kind to receive a 'triple A' rating when
+tested
+against the international Web Accessibility Initiative standards
+(http://www.w3.org/WAI).
+
+Sentient Discover sits between online learning environments, such as
+WebCT and Blackboard, and resources such as library and online
+journal catalogues. It enables academics and course designers to
+search
+a university's entire bank of resources and to construct online
+resource
+lists for their courses. Students can use the lists to discover if a
+library
+book is out on loan for example, or to link directly to an online
+journal article.
+
+However, although Sentient Discover is designed to be accessible,
+colleges and universities will also need to ensure that the
+information
+retrieved by the software is also presented in accessible formats.
+
+At present, Sentient Discover is used by the universities of Leeds,
+Edinburgh and Middlesex, and the London School of Economics.
+Users of earlier versions may upgrade to the accessible version free
+of charge.
+
+
++04: SPEECH TECHNOLOGY MARKET SET TO EXPLODE.
+
+The worldwide market for speech technology products is set to leap
+forward over the next 18 to 24 months, according to one leading US
+analyst.
+
+Donna Fluss, a principal at DMG Consulting
+(http://www.dmgconsult.com), says a number of changes signal that
+the market is set to take off. "In the last five years, the accuracy
+of speech applications has reached more than 95 per cent," says Fluss.
+"That is a crucial threshold in terms of it gaining wider
+acceptance."
+
+The cost of speech hardware has also dropped significantly, Fluss
+says.
+Vendors such as Intel have been cutting the cost of voice boards
+continually, while infrastructure vendors such as IBM, HP, Oracle and
+Intel are taking this market more seriously than ever before.
+
+One reason for this increased activity may be the entrance of
+Microsoft
+into the market, she says. "Microsoft's involvement will move speech
+to the forefront and raise awareness. It will also force the hand of
+the other vendors to invest more widely."
+
+Technology analysts Gartner (http://www.gartner.com) are also
+predicting strong growth in the sector. Their latest reports say the
+global speech software license market will grow from 127.5 million
+dollars in 2002 to more than 258 million dollars in 2007.
+
+NOTE: This article is based on a piece by Donna Fluss for the
+'CRMXchange' site
+(http://www.crmxchange.com/speech_technology/oct03.html).
+
+
+++NEWS IN BRIEF.
+
++05: DAISY DAISY: Two new e-book readers conforming to the
+DAISY standard (http://www.daisy.org) are due on the market by the
+end of this month. EaseReader software costs 30 pounds from Dolphin
+audio publishing
+(http://www.dolphinse.com/products/easereader.htm). And the CD
+walkman-shaped Scholar Daisy Player from Telex, priced 195 pounds,
+is aimed at younger users and is the smallest player yet:
+http://fastlink.headstar.com/scholar1 .
+
++06: EDUCATIONAL GUIDE: The RNIB's new Learning Catalogue,
+its guide to products, services and publications for vision-impaired
+learners of all ages, was published last week. Products covered
+include
+educational software and hardware. To view the catalogue or order a
+copy in various formats visit:
+http://onlineshop.rnib.org.uk/learning .
+
++07: LIEBERMAN PLEDGE: US Democratic presidential runner Joe
+Lieberman has pledged dedication to support renewed funding for the
+Assistive Technology Act, which offers federal government funding for
+projects to develop and provide technology for people with
+disabilities.
+According to the candidate, President Bush's 2004 budget proposal is
+threatening these projects:
+http://fastlink.headstar.com/lieb1 .
+
+[Section one ends].
+
+
+++SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new
+accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so do come along
+and join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+- Please email all contributions or responses to inbox@headstar.com .
+
++08: INTEREST GROUP: Ruth Loebl, Senior technology
+development officer with the RNIB's Technology in Learning and
+Employment division, writes in with a warning against a tendency to
+define the term 'accessibility' too narrowly.
+
+"Is there some creeping influence at work, whereby the word
+'accessibility' is starting to mean 'web accessibility', leaving
+other
+technologies and issues out in the cold? In your October issue there
+was a notice which said: "Accessify Forum is a web-based discussion
+forum devoted to all topics relating to accessibility." It isn't,
+it's devoted to all topics relating to web accessibility.
+
+"Similarly, the European Accessibility Consortium (section four,
+October issue) hasn't called itself the European Web Accessibility
+Consortium, despite the fact that that's what it is.
+
+"There are many other types of accessibility - access to software, to
+fax machines and photocopiers, access to information, to kiosks and
+cashpoints, to telephone systems, to buildings and to services. My
+team
+has been looking in particular at the accessibility of IT systems on
+desktop PC interfaces, and the need to address accessibility at the
+very
+start of the procurement process rather than trying to add on access
+technology at some late stage.
+
+"We are drawing together a group of organisations that share this
+view
+into an online community, the Accessible IT Procurement Framework
+Interest Group (IT-include). This is now available for public
+subscription at
+http://groups.yahoo.com/group/IT-include and readers of E-Access
+Bulletin are invited to join."
+
+
++09: CAUGHT OUT? Craig Massey, principal webmaster at Barnsley
+Metropolitan Borough Council, writes: "I read your article titled
+'Web
+design body embraces accessibility' [on the British Web Design and
+Marketing Association accessibility working group - see E-Access
+Bulletin, issue 46, October 2003] and will follow the work of this
+organisation. As the webmaster for Barnsley
+(http://www.barnsley.gov.uk) I have an obvious interest in usability
+and accessibility.
+
+"I was concerned to note though, that the home page of the digital
+design company Nomensa (http://www.nomensa.com), whose
+accessibility consultant LTonie Watson is acting chair for the
+working
+group, itself fails the basic level 'A' test using the online
+accessibility
+testing tool WebXact (http://webxact.watchfire.com). I haven't
+checked
+the rest of the site but it seems that everyone finds it hard to get
+it right all the time."
+
+
++10: FLAT FACTS: Finally, our tireless correspondent Chris
+McMillan has some advice for Steve Richard, who wrote in last month
+to ask about compatibility of the Zoomtext screen magnifier with TFT
+flat-screen monitors. She writes: "While not a Zoomtext user
+(circumstances dictated otherwise), Lunar works perfectly on my TFT
+monitor. I've had the iiyama AS 4611 UT 18-inch screen a couple of
+years now.
+
+"So far as I know Zoomtext works as well as Lunar on TFT. I have
+Lunar magnification for reading text and emails but I can 'disable'
+it and use 'OneFormat' by Dalgit Singh for reading the web. OneFormat
+(http://www.oneformat.com) is a free, simple to use web browsing
+system which you can set to your personal preferences."
+
+[Section two ends].
+
+
+++ SECTION THREE: TECHNOLOGY
+- GLOBAL POSITIONING SYSTEM.
+
++12: EYES IN THE SKY
+by Mel Poluck  mel@headstar.com .
+
+The ability to know exactly where you are at any particular time by
+using signals sent from satellites is of clear use to people sailing
+boats
+or driving cars. But it is also of enormous value to people who are
+blind, potentially allowing far greater independence of movement.
+
+Currently, the main working technology in this field is the Global
+Positioning System (GPS), which uses a network of 24 satellites in
+geostationary orbits 11,000 miles high positioned so that at least
+three
+are visible from any point on the Earth.
+
+GPS receivers use triangulation of radio signals sent by these
+satellites
+to work out the position of a person or object to within 10 metres or
+so.
+The system is owned, operated and licensed for civilian use by the US
+military, which itself uses an enhanced service with an accuracy of
+one centimetre or less.
+
+The main player in the application of GPS technology to location
+finders for blind people is Canadian firm VisuAide, with its Victor
+Trekker device (http://www.visuaide.com/gpssol.html), which came on
+to the UK market in June this year with assistance from the RNIB.
+"People are exploring their locale like they've never been able to do
+in the past," says Mervyn Robertson, technical director of Sight and
+Sound Technology (http://www.sightandsound.co.uk) which distributes
+the Trekker. It currently costs 1,125 UK pounds, although the price
+will come down, he says.
+
+A Personal Digital Assistant (PDA) with a GPS receiver attached to a
+harness, the device is hooked up to an electronic voice-box that
+provides location data to the user using electronic maps developed by
+Navigation Technologies (http://www.navtech.com).
+
+The Trekker allows users to add to existing information by recording
+"points of interest" such as "I'm home now" or "I'm at the bank"
+which can be recorded and played back on familiar routes. Where the
+information is available, Robertson says, pub and restaurant names
+are programmed into maps.
+
+"You can say "where am I?" and it'll say "23 South Street", but it
+doesn't allow you to pre-plan a route," says Robertson. However, this
+looks set to change this February, when the Trekker will provide a
+free
+upgrade to all users, making route-planning available for the first
+time.
+
+One potential pitfall of GPS is loss of signal. If a satellite is out
+of range or if users are situated in built-up areas for example,
+navigation
+temporarily disappears. "In a narrow street or alley, if you don't
+have
+the satellite to view, you could potentially be in a bit of trouble,"
+Robertson says.
+
+Dr John Gill, chief scientist at the RNIB, says that for GPS
+technology
+to work well, navigational data needs to include temporary as well as
+permanent outdoor features and information such as which side of the
+Town Hall the front entrance is located, or whether there are
+roadworks.
+
+Dr Gill says the most promising development in this field is being
+developed by a team at Brunel University headed by Professor Bala
+Balachandran. The team is developing a system which uses existing
+mobile phone technology linked to a control centre staffed by human
+operators.
+
+"A blind person will never totally rely on technology," Balachandran
+says. "They like a friendly voice at the other end. If the blind
+person
+wants to go from A to B, they press a button and an operator knows
+exactly the location of the blind person." The operator sees a
+digital
+map with the whereabouts of the user and verbally guides them.
+
+The beauty of the Brunel system is that users don't have to have
+guidance all the time and the navigated area doesn't have to be
+familiar
+territory, he says. The opportunity for two-way conversation also
+makes it a potentially useful tool for people with intellectual as
+well as
+visual impairments.
+
+To avoid signal loss inside buildings or underground, the Brunel team
+have also devised a wearable TV camera to allow the operator to
+continue guiding. The system also has the potential to allow
+relatives
+or friends to navigate the vision-impaired user.
+
+The Brunel project already has the support of mobile phone company
+02 and the mapping agency Ordnance Survey, but is currently seeking
+further funding to develop the product for market. When ready the
+device should cost no more than a high specification mobile phone,
+Balachandran says.
+
+One final concern remains. Because GPS is US military-owned, in
+times of war or crisis the system could theoretically be cut off or
+restricted. "You're at the beck and call of the American military,"
+Robertson says. This could soon change with the launch of GALILEO,
+a complementary European navigation system due to launch its first
+satellite next year (http://fastlink.headstar.com/galileo1). The
+future for
+Europe could be pinpoint accurate.
+
+[Section three ends].
+
+
+++SECTION FOUR: INTERVIEW
+- FAYYAZ AFZAL.
+
++12: COURT LIFE
+by Phil Cain  phil@vitalpublishing.com .
+
+"My heart leaps up when I behold a rainbow in the sky - or a murder
+in the offing," said Horace Rumpole, the iconic lawyer created by
+novelist John Mortimer. But 26-year-old Fayyaz Afzal, one of only
+three barristers currently practising in the UK who are registered as
+blind, shows little enthusiasm for murder trials.
+
+The reason for this is not his blindness. One might think that an
+inability to see would be an insurmountable handicap in a murder
+trial,
+with the presentation of bloodstained instruments and other pieces of
+evidence in plastic bags to examine and hand round. In fact however,
+"with exhibits there has always got to be a written statement with
+it,
+otherwise it is not a piece of evidence," Afzal says.
+
+The real reason for his disinclination to work on such cases is that,
+"murders are the most boring cases because they are all to do with
+forensic science, with experts spending a whole day telling you how
+eminent they are." Afzal's low boredom threshold means that a fast-
+moving robbery trial lasting three to four weeks is much more to his
+liking.
+
+A love of law films and an urge to help other people led Afzal to his
+profession, and since qualifying as a barrister in 1999 he has been
+involved in a wide range of cases on immigration, family law, road
+traffic and crime, working from Leicester's New Walk chambers
+(http://www.newwalkchambers.co.uk). "You don't really have control
+of cases that come in, it's a case of supply and demand. Robbery,
+burglary, theft, assault, public order - I do anything that comes up
+in the magistrate or crown court," he says.
+
+Although he still has a very small amount of sight, closed circuit
+television magnifiers can only give him the gist of what is on a
+page. "I
+still walk around with reams of paper under my arm, but just for
+effect," he jokes. But the paper documents are useful to him as well
+because he carries a portable scanner and a speech-enabled laptop.
+Although he learned Braille at primary school, he doesn't use it a
+great
+deal. "If I had all the papers I needed in printed out in Braille I
+would need a wheelbarrow," he says.
+
+Judges who ask if he can manage soon realise they need not worry, he
+says. While in court he makes and refers to notes using his laptop
+and an earphone and has the knack of touch-typing while standing to
+cross-examine witnesses. When giving a complex closing speech to
+summarise his argument he uses a set of around 25 bullet point
+prompts spoken through his earphone. "Anyone will tell you that the
+best speeches are never written down verbatim," he says.
+
+With a typical workload of five or six hours of preparation for a
+court
+appearance the following morning, and a wife and three children at
+home, learning to surf the internet has had to wait.
+
+"I don't use the internet myself, but I need it all the time," Afzal
+says.
+It is particularly useful when researching immigration cases when, for
+example, someone says they might be stoned to death for committing
+adultery if sent back to Iran. To find out how true such a statement
+is he sits with one of his assistants as they summarise pages from the
+Human Rights Watch or Amnesty International web sites. If it sounds
+relevant he will ask them to cut and paste the text into a document
+which he can read from his laptop.
+
+With faxes remaining the most common way for legal documents to be
+sent, either he or an assistant has to scan them into his machine.
+But
+email is becoming more popular, and the arrival of fax machines able
+to send faxes to email addresses means there is likely to be more in
+his inbox and less under his arm in future.
+
+Afzal is also excited about the ease of getting online with his new
+laptop which contains a wireless internet card, providing broadband
+connections to the internet in wireless "hot spots". His biggest
+technology bugbear, he says, is not being able to read text messages.
+Instead he uses his Nokia 3310 to send and receive voice messages.
+
+Overall, Afzal finds life around the courts to be more friendly and
+less
+formal than is often supposed. "It's a very embracing profession.
+There
+are some very nice people," he says. Of those who succumb to
+stereotypical stuffiness, he says: "It is not them, it is the job. If
+you don't keep your social life alive then you end up like them."
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as
+'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek dan@headstar.com
+Deputy editor - Derek Parkinson derek@headstar.com
+Reporter - Mel Poluck mel@headstar.com
+Correspondent - Phil Cain phil@vitalpublishing.com
+Editorial advisor - Kevin Carey humanity@atlas.co.uk .
+
+ISSN 1476-6337 .
+
+[Issue ends.]

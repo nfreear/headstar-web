@@ -1,0 +1,65 @@
+__ BUILD [tens2html.pl  v1.14] log Thu Jan 15 22:27:06 2009 __
+
+Input file: ../eab/issues/2008/nov2008.txt
+
+Warning: file already exists: ../eab/issues/2008/nov2008.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: nov | index: 11 | year: 2008
+URLs, prev: ../2008/oct2008.html | next: ../2008/dec2008.html
+Found ++, heading 2: Special Notice: Designing for all: an inclusive approach to web,
+Found ++, heading 2: Issue 107 Contents.
+>> FOUND 2: + | 01:  | Democracy Websites 'Inaccessible To Audio Browsers'
+OK, News in brief
+Found: + | 01:  | Democracy Websites 'Inaccessible To Audio Browsers'
+>> FOUND 2: + | 02:  | 'Digital Mentor' Trials Form Part Of Draft Inclusion Plan
+Found: + | 02:  | 'Digital Mentor' Trials Form Part Of Draft Inclusion Plan
+>> FOUND 2: + | 03:  | Paper Urges Better Integration For Assistive Technologies
+Found: + | 03:  | Paper Urges Better Integration For Assistive Technologies
+>> FOUND 2: News in Brief: 04 Vienna Prizes - e-inclusion awards;  | 05:  | Awareness
+Found: News in Brief: 04 Vienna Prizes - e-inclusion awards;  | 05:  | Awareness
+>> FOUND 2: test - last day of survey;  | 06:  | Dolphin Leap- updated software.
+Found: Dolphin Leap- updated software | . | 
+>> FOUND 2:  | 07:  | Elbow Grease - the reality of the labour market; 08: Alarm Bells -
+>> FOUND 2:  | 09:  | Running To Catch Up: Many people with disabilities will be
+Warning line 67: expected [Contents ends].
+$toc_count=8
+Found ++, heading 2: Sponsored Notice: Fortune Cookie
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 89.
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Democracy Websites 'Inaccessible To Audio Browsers'.
+Warning: not found a 'contents' match: Democracy Websites 'Inaccessible To Audio Browsers'.
+> ITEM 2:  02:  | 'Digital Mentor' Trials Form Part Of Draft Inclusion Plan.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Paper Urges Better Integration For Assistive Technologies.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  The winners of this year's European e-
+> ITEM 1:  05:  | : |  A survey to assess the status of accessibility
+> ITEM 1:  06:  | : |  Assistive technology company Dolphin has
+Found ++, heading 2: Special Notice: Techno-Footprint: ICT and Sustainability in the
+Warning, replacing non-ASCII character 194 (line 268, 19): Registration costs &#194;£295 + VAT for public sector workers and Â£395 +
+
+Warning 2 (TENS), found non-ASCII character 163 (line 268, 25).
+Warning, replacing non-ASCII character 194 (line 268, 66): Registration costs &#194;£295 + VAT for public sector workers and &#194;£395 +
+
+Warning 2 (TENS), found non-ASCII character 163 (line 268, 25).
+Warning 2 (TENS), found non-ASCII character 163 (line 268, 72).
+Warning 2 (TENS), found non-ASCII character 163 (line 268, 72).
+Warning 2 (TENS), found non-ASCII character 163 (line 268, 25).
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 317.
+> ITEM 1:  07:  | : |  Roger Wilson-Hinds, Director of
+Warning, replacing non-ASCII character 195 (line 313, 50): "It's kind of cosy to keep repeating the old clich&#195;©s every few years, but
+
+Warning 2 (TENS), found non-ASCII character 169 (line 313, 56).
+Warning 2 (TENS), found non-ASCII character 169 (line 313, 56).
+> ITEM 1:  08:  | : |  Salvatore Lagati from Trento in Italy writes in
+Found ++, heading 2: Special Notice: Opportunities and risks of open source software in
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  09:  | Running To Catch Up
+Warning: not found a 'contents' match: Running To Catch Upby Stephen Duckworth.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 509.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 516.

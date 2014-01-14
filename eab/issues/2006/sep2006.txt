@@ -1,0 +1,562 @@
++++E-ACCESS BULLETIN.
+- ISSUE 81, SEPTEMBER 2006.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+Sponsored by:
+RNIB
+( http://www.rnib.org.uk )
+BT Age and Disability Unit
+( http://www.btplc.com/age_disability/ )
+Ford Motor Company
+( http://www.ford.co.uk )
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 81 Contents.
+
+++Section One: News.
+
+01: RNIB Addresses Software Accessibility Gap
+- resource for developers and decision makers goes live.
+
+02: Win For Campaigners In Massachusetts
+- government to accommodate users of assistive technology.
+
+03: Councils To Launch Talkative Robots.
+- call centre services cut waiting time and keypad navigation.
+
+04: Path Cleared For Wearable Navigational Device
+- research team wins funds.
+
+News in Brief: 05: Moving News - RSS feeds for mobiles; 06: Show
+Support - online radio show petition; 07: Description Expansion -
+more cinemas to have audio description capability; 08: Price Error -
+screen readers price correction.
+
+Section Two: 'The Inbox' - Readers' Forum.
+09: Reader Questions - screen reader feedback request; 10: Locked
+Out - debate on technology in developing countries continues; 11:
+Reading Linux - compatibility question.
+
+Section Three: Focus - Education.
+12: Lessons Learned In Strathclyde And Malawi. The assistive
+technology team at the University of Strathclyde in Scotland is
+working with teachers and lecturers in Malawi to increase access to
+education for vision impaired students. Derek Parkinson reports.
+
+Section Four: Opinion - Personal Computing
+13: All Change!: Providing working people with subsidised access to
+assistive technology is a wonderful thing, but technical support and
+replacements for faulty devices can be inadequate. And we must not
+forget unemployed people. Kevin Carey argues for alternative
+approaches.
+
+[Contents ends].
+
+
+++Sponsored Notice: BT's BSL Guide
+- Improving Communication for All.
+
+To celebrate the third anniversary of British Sign Language (BSL) BT
+launched the first ever campaign in BSL to raise awareness of the
+benefits broadband technology has to offer to deaf people, the first
+time an internet communications organisation has run a commercial
+internet campaign in sign language.
+
+High speed internet coupled with the use of web-cams and video
+streaming allows BSL users to communicate via the internet and break
+down geographical barriers.
+
+By logging on to:
+http://fastlink.headstar.com/bt2 ,
+users can access BT's BSL Broadband Guide which was created in
+partnership with SignPost, Britain's largest supplier of BSL on-screen
+services for all media platforms.
+
+[Sponsored Notice ends]
+
+
+Section One: News.
+
+
++01: RNIB Addresses Software Accessibility Gap
+
+The RNIB has launched an online resource of advice and information,
+the first stage in a wider initiative to raise awareness of accessibility
+issues for software generally, rather than just the technology used for
+websites.
+
+Aimed at web designers and developers, systems integrators,
+purchasing professionals and policymakers, the 'Software access
+centre'
+( http://fastlink.headstar.com/rnib7 )
+provides information and advice on testing and evaluating software for
+accessibility, procuring software and information on the relevant
+legislation in the UK and Europe.
+
+The site will expand to include more examples of good software design
+and purchasing, tools and techniques including company case studies.
+The team behind the site also plans to introduce a software
+accessibility audit service and training courses.
+
+"We needed to get some information and resources into the public
+domain," Senior ICT Development Officer and site author Ruth Loebl
+told E-Access Bulletin. She said there is already a glut of resources on
+web accessibility proved by the high hit rate of RNIB's 'Web access
+centre' on which the resource was based. "Access barriers in software
+are just as high," Loebl said.
+
+The resource was launched in response to an assumption the word
+"accessibility" stands for 'web accessibility according to Loebl. "Web
+accessibility is generally easier and quicker to fix than software
+accessibility because software renewal cycles are in the range of five to
+10 years compared with website renewal which is more like five to 10
+months," she said.
+
+The software centre includes the RNIB's top five recommendations for
+ensuring software is accessible including: 'get to know the standards
+and guidelines' and 'try to carry out every task and action without
+having to use a mouse.'
+
+
++02: Win For Campaigners In Massachusetts
+
+Anti-discrimination campaigners in Massachusetts have won important
+concessions that will ensure electronic documents published by the
+State government are accessible to users of screen reader technology.
+
+Campaigners attacked government plans to switch its electronic
+publishing from proprietary software such as the Microsoft Office
+suite, to software based on the Open Document Format
+( ODF - http://fastlink.headstar.com/odf ),
+the first State in the Union to do so. See E-Access Bulletin Issue 73,
+January 2006 for more details.
+
+Campaigners protested that many screen readers are built to work with
+Microsoft products rather than those based on open source software.
+The move, originally intended for 80,000 desktops by January 2007,
+has been replaced by a plan that will see official documents published
+in both formats.
+
+Beginning in January 2007 the State government will deploy plug-in
+software for its Microsoft products that will enable documents to be
+saved in ODF as an option. According to the State, the Massachusetts
+Office on Disability will be among the first wave of government
+agencies to deploy the plug-in, and the migration is set to be complete
+by June 2007.
+
+However, an official statement from the government suggests that this
+is seen as a transition arrangement, and that regular reviews will be
+made of the software market for products that comply with ODF and
+are accessible
+( http://fastlink.headstar.com/mass3 ).
+
+The Information Technology Division of the State government did not
+respond to requests for further details from E-Access Bulletin.
+
+
++03: Councils To Launch Talkative Robots
+
+By next summer, residents of Camden in London will access
+information about local services by phoning a council number and
+holding a normal conversation with interactive voice software, instead
+of using a phone keypad to navigate through menus, or waiting for an
+operator to respond.
+
+Users can ask questions as if they were speaking to a human operator,
+and receive a natural-sounding spoken response. "It should be able to
+handle quite general queries like 'What's on tonight in Camden?'" said
+Alasdair Mangham, Camden Council's Head of Business Systems and
+IT. "It would probably respond with a question like 'Are you interested
+in cinema or theatre..?' and so on," he said.
+
+According to Mangham, such a system is well-suited to local
+authorities because of the large number of services they deliver.
+"Councils deliver around 500 services. You can't have 500 options
+available through menus and key presses, there's a lot to gain from
+having an interactive voice technology like this," he said.
+
+The system, put together from a mixture of existing technologies and
+bespoke components by councils in Camden, Barcelona and Turin
+( http://www.bcn.es/hops/ ),
+also has the potential to respond automatically to a caller in a range of
+languages. So far it has been tested in Catalan, Spanish, Italian, and
+English, on two types of service: a guide to local events and
+entertainment and a service for removing large items such as unwanted
+furniture.
+
+The next step will be to invite between 60 and 100 Camden residents to
+test the service, probably in late October or early November. "We hope
+to have a prototype built by the end of December, and to launch the
+service in Camden around April next year," said Mangham.
+
+NOTE: This story was originally published in E-Government Bulletin,
+the sister publication of E-Access Bulletin.
+
+
++04: Path Cleared For Wearable Navigational Device
+
+Research on a wearable device that provides a detailed "audio map" of
+a user's environment, enabling navigation around small obstacles in
+the street and through buildings, has been boosted by 600,000 dollars
+funding from the US National Science Foundation.
+
+The System for Wearable Audio Navigation (SWAN), developed by
+the Georgia Institute of Technology
+( http://sonify.psych.gatech.edu/research/swan/index.html ),
+provides audio "beacons" to help direct the user. As the user nears a
+destination their tempo increases until a chime sounds to indicate
+arrival. "Consider a ring around your head, about a meter away, at eye
+level," assistant professor in Georgia Tech's School of Psychology and
+College of Computing Bruce Walker. "Sounds seem to be located at
+any point on the circumference of the ring."
+
+While other navigational devices for vision impaired people have been
+developed, few allow for indoor navigation. But the development team
+are to improve the indoors navigation capability of the device
+following the funding award.
+
+At present, the system consists of a backpack holding a laptop
+computer, Global Positioning Satellite (GPS) and other sensors, a
+digital compass, a tracking chip, a head tracker, four cameras, a light
+sensor and bone-conduction headphones, which convert electric signals
+into vibrations, sending sound to the internal ear through the cranial
+bones thus allowing other sounds to permeate.
+
+Work is also underway on reducing the size of the device. "We are
+relying on more wireless and bluetooth, to eliminate wires and cables,"
+Walker said. "The dream is to make the cameras embedded in a
+headband," said assistant professor in the Georgia Tech College of
+Computing Frank Dellaert.
+
+The project team will shortly begin usability testing of the device with
+sighted and blind participants. In future there are also plans to use the
+built-in camera for facial recognition to speak the name of the person
+to the user.
+
+
+++News in Brief:
+
++05: Moving News: A free pilot of a text-to-speech Really Simple
+Syndication (RSS) feed for mobile phones has been launched allowing
+vision impaired users to listen to up-to-the-minute sports, weather and
+news reports and blogs. SpeakFeed by US company DemandVoice,
+originally designed for trapped commuters, uses internet technology:
+http://www.demandvoice.com/news/speakfeed.html .
+
++06: Show Support: Over 1,200 people have signed an online petition
+to reverse a decision to axe Ireland's only radio show dedicated to
+blindness issues. Audioscope, broadcast on Ireland's National RTE
+Radio One, had been running for 30 years. The National Council for
+the Blind of Ireland has called on the station's boss to reverse the
+decision:
+www.saveaudioscope.com .
+
++07: Description Expansion: Some 240 screens at 200 cinemas will use
+digital projection allowing audio description to be more easily installed
+in the UK by Spring 2007. Following the rollout of the Digital Screen
+Network initiative, the overall scheme received 12 million pounds of
+funding from the National Lottery through the UK Film Council:
+http://www.creativematch.co.uk/viewNews/?92703 .
+
++08: Price Error: In the last issue of the bulletin in story 04 on the
+launch of a free screen reader, Thunder, we wrote incorrect prices for
+screen readers Window-Eyes and JAWS. Window-Eyes costs 520
+pounds and JAWS costs 655 pounds for operating system Windows
+XP Home Edition and 785 pounds for Windows XP Professional.
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
+
++09: Reader Questions: Don Wessels from South Africa writes: "The
+August issue of the bulletin reports on the launch of a free screen
+reader called Thunder. Is there anyone out there that has tried it? How
+good is it for surfing the internet? I am still using the rather old JAWS
+3.7 which is not very good with the internet."
+[responses please to inbox@headstar.com]
+
+
++10: Locked Out: Asim Rauf from Islamabad in Pakistan writes in
+response to Diana Monahan's offer of a 'Eureka' with manuals and a
+range of access software: "Thanks Ms Monahan for your generosity.
+The fact is that although we are living in the third world by the
+standards of developed countries and we have access to all the latest
+inventions in the field of information technology, the only problem for
+visually impaired people is that they are not available at our price. I
+don't think that anyone in these countries is using those programmes
+you have mentioned in your mail. I have seen that even in England, the
+adaptive technology is so expensive that an ordinary person can't
+afford to buy it. The need now is to urge governments to take steps to
+bring down the prices of these things and to force the manufacturers to
+sell them on a no-profit basis. In my opinion, the price hike of adaptive
+technology amounts to inaccessibility.
+
+Asim also asks readers: "Can any one guide me how to scan and read
+at the same time in Kurzweil?"
+[responses please to inbox@headstar.com]
+
+
++11: Reading Linux: DPM Weerakkody, Professor of Western Classics
+and Head of the Department of Classical Languages at the University
+of Peradeniya, Sri Lanka writes: "I am writing to find out whether you
+have information regarding any screen reader with voice synthesis for
+use with the Red Hat Linux operating system?"
+[responses please to inbox@headstar.com]
+
+[Inbox ends]
+
+
+++Special Notice: 'e-Access '06' - Technology For All.
+- 14 September 2006
+- New Connaught Rooms, London.
+
+'e-Access'06' is the UK's leading annual event on access by people
+with disabilities to all technologies. The conference and exhibition
+focuses on how digital technology both enables and prevents people
+with disabilities to achieve greater independence.
+
+Speakers include Peter White, BBC Disability Affairs Correspondent;
+Kevin Carey, vice-chair RNIB and Ofcom Content Board Member;
+and Guido Gybels, Director of New Technologies, RNID. Sponsors
+include BSkyB, BT, Jadu and Ford.
+
+Places cost 195 pounds for public sector, 295 pounds for private sector
+and 145 pounds for small charities and not-for-profit organisations (all
+prices exclude VAT) See:
+http://www.headstar-events.com/eaccess06/ .
+
+[Special Notice ends]
+
+
+++Section Three: Focus
+- Education.
+
++12: Lessons Learned In Strathclyde And Malawi
+by Derek Parkinson
+
+As the start of the new academic year approaches, university
+departments are gearing up for the new intake of students, but for Carol
+Murphy, an Assistive Technology Adviser at the University of
+Strathclyde, this summer has been busier than most.
+
+This year, Murphy has been involved in the early stages of setting up a
+project to improve the accessibility of learning materials for vision
+impaired students at schools and universities in the African republic of
+Malawi.
+
+Supported by 180,000 pounds from the Scottish Executive
+International Development Fund, the 'Making Wonders' project has
+supplied laptops, assistive technology such as screen readers and
+magnifiers, training and support to three schools and one teacher
+training centre in the African country
+( http://fastlink.headstar.com/strath1 ).
+
+This first phase of the three-year project involved laying the
+foundations, installing products such as the Freedom Scientific JAWS
+screen reader and the Zoomtext magnifier from AI Squared on
+computers, and training teachers in Malawi to use them effectively.
+"The training began with switching on the computer," says Murphy.
+"We taught them to touch-type without looking at a monitor,
+sometimes using headphones and sometimes with blindfolds," she
+says.
+
+The teachers were also taught about how the operating systems worked
+using Sarah Morley's book 'Windows XP Explained'
+( http://www.winguide.co.uk/ ),
+says Murphy. Over the next two years, Murphy and her colleagues will
+deliver further support for Malawi's teachers as they take their newly
+acquired skills into the classroom, providing educational opportunities
+that weren't available before. "Examination papers are available in
+Braille, but not course materials," says Murphy. Although the
+government of Malawi has little funding available to spend on
+technology, it is committed to helping support the training of teachers,
+she says.
+
+ Although there may not be obvious similarities between the education
+systems of the UK and Malawi, Murphy says that her experiences in
+Africa will certainly benefit her work in Strathclyde. "I've hardly had a
+chance to take my notes out of my case and look at them, but they're
+so comprehensive they will certainly be useful here," she says.
+
+At Strathclyde, Murphy's work involves liaising with assistive
+technology developers and the IT department to ensure that the
+University's JAWS and Zoomtext equipment is up-to-date and the
+licences paid for, helping students use the equipment, and flagging up
+problems with the accessibility of coursework to academic staff.
+"Generally they're very good and try to help," she says. "There was
+one course that involved heavy use of websites, and some were very
+difficult to use with screen readers. The problems were fixed within
+days," says Murphy.
+
+Unfortunately, other issues can take longer, she says. Overall, Murphy
+says that Strathclyde's IT staff, lecturers, and library staff are generally
+very supportive of her team's efforts. But the process of assessing a
+student, applying for funding, setting up equipment and training can
+take months. This can mean that most of the first term has gone before
+a new student has their assistive technology needs sorted out.
+
+Strathclyde has found ways of minimising the worst effects, says
+Murphy. "We can loan students equipment until the funding is sorted
+out," she says. With 10 years work experience in this area, Murphy is
+well-placed to spot shifts in attitudes in the education sector.
+"Legislation has helped to focus people's minds," she says. "One of the
+changes is that dealing with disability is increasingly seen as
+everyone's responsibility, not just disability advisors."
+
+[Section three ends].
+
+
+++Section Two: Opinion
+- Personal computing
+
++13: All Change!
+by Kevin Carey
+
+There is no doubt that, in terms of access technology, I am one of the
+elite: I am a self-employed consultant with a well appointed office
+where my Index Braille embosser is attached to my PA's computer. I
+work on a [HumanWare] BrailleNote qwerty version and tend to
+transfer all my messy files to my PA for editing and routing. The
+equipment was initially supplied through the Department for Work and
+Pensions's Access to Work (ATW) programme. It's a fine life.
+
+Except that, in the past two years, since I acquired the new embosser
+neither the software it came with nor the software I used before work
+properly. I have had to settle for a situation where every apostrophe
+and single quote comes out as 'ae' (which makes reading awkward as
+these letters contract with contiguous characters); and I have to put up
+with huge slabs of Braille because the translator can't handle hard or
+soft line breaks. My BrailleNote is wonderful, as are the people who
+support it, but it hasn't worked properly for the past two years; and, as I
+write, I have been waiting for a new one for four weeks. I will have to
+buy this as ATW says the 'Friday afternoon' model that I've got is
+repairable; well, so is a vintage car!
+
+In the past 10 years my whole system has never gone for more than
+four months without a fault. I gave up trying to use standard systems
+with bolt-on accessibility because the incompatibility disputes never
+got solved; but the turnkey solutions are provided by companies that
+are too fragile. Incidentally, I have never been able to work out how
+you stop the Braille display cursor in either kind of system defaulting
+to the extreme right or disappearing onto the invisible next line; this
+started when I moved from WordStar to Word on a bolt-on system and
+persists in the BrailleNote.
+
+All in all then, with my sound basic knowledge of the technology, my
+accessibility life is quite difficult; so what must it be like for people
+who are unfamiliar with technology and find it hard to pick up the
+phone and get some service? And as the kit originally came from
+ATW, what about people who are not working?
+
+I think it is time that we had a total change. Starting with the ATW
+programme, but expanding to all vision impaired people, there should
+be a legislated right to access information based not on grants for
+purchases of hardware and client side software, but on financial
+support for hardware leasing and a subscription-based server side
+service providing applications and storage.
+
+Of course this will only work with broadband and flexibility will
+require that to be delivered by wireless, for example. But as the policy
+will take years to implement there is no need for my elite peers to
+worry about whether they will be able to pick up their emails on Mount
+Snowdon at three in the morning. Clearly a broadband, server side
+service will not be totally ubiquitous but anyone who wants something
+better should pay for it.
+
+What I am proposing would spare us all the problems of
+incompatibility and the wretched upgrade. It would allow us to use
+much thinner clients with much less complicated technology and this
+would facilitate a much faster turnaround of faulty kit.
+
+Obviously there will have to be a joint agreement between the
+Government and organisations like the RNIB and perhaps even the
+accessibility industry, as long as it does not try to preserve the status
+quo. The cartel of companies that run global accessibility have had
+their chance and failed; it's time to face the broadband future with a
+more viable accessibility package.
+
+NOTE: Kevin Carey is director of HumanITy, a digital inclusion
+charity and vice-chair of the RNIB.
+
+[Section Four ends].
+
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2006 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]

@@ -1,0 +1,627 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 101, May 2008.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 101 Contents.
+
+01: Digital TV Switchover Help Scheme Package 'Misunderstood'
+- findings could explain low take-up of subsidy scheme.
+
+02: Web Access Focus Will Shift To ISPs, Analyst Predicts
+- But Kevin Carey warns public funding will be needed to police
+content.
+
+03: Umbrella Specification For Web Standards Published
+- British Standards Institution project includes accessibility reference.
+
+News in Brief:
+04: Senior PC - home computer designed for elderly; 05: Public Failure
+- government websites fail standards; 06: Prophetic Guidance -
+technology guidelines from Tiresias.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: CAPTCHA Objection - audio alternative; 08: Subtle Approach -
+grading web accessibility.
+
+Section Three: Workshop Report - Accessible Publishing.
+09: Are They Receiving You, Loud And Clear? Not all information
+your organisation produces can be presented in all formats, but key
+messages much reach a wide audience. Dan Jellinek hears consultant
+Katie Grant describe a blueprint for accessible publishing strategies
+integrated web and print.
+
+Section Four: Opinion - Regulating Accessibility.
+10: Time for a New Beginning: With new, small, specialised internet
+content providers springing up all the time which do not have the
+budget to make all their content accessible, regulators have a global
+headache. How can accessibility be policed? Kevin Carey goes back to
+first principles.
+
+[Contents ends].
+
+
+++Special Notice: Designing for all: an inclusive approach to web,
+print and electronic publishing
+- A practical, one-day training course and document clinic
+- Tuesday 24 June, Central London
+http://www.headstar-training.com/dfa/
+
+Trainer: Katie Grant, former publications manager, Disability Rights
+Commission.
+
+'Designing for all' is a practical seminar designed to introduce
+organisations to the importance of designing accessible, easy to read
+information for a range of different audiences including older people,
+people with disabilities and people for whom English is not their first
+language.
+
+It will help you assess current design and content of information -
+please bring examples to our document clinic - and follow an inclusive
+model to improve accessibility across your communications mix.
+
+The course will be of interest to anyone who is involved in the design
+and delivery of information in print, electronic and web formats
+including web content managers; content teams; marketing and
+communications officers; and publications staff. To book a place see:
+http://www.headstar-training.com/dfa/
+
+[Special notice ends].
+
+
+++Section One: News.
+
++01: Digital TV Switchover Help Scheme Package 'Misunderstood'.
+
+A lack of understanding of the digital TV switchover help scheme
+package for the elderly and disabled has been found in the official
+report into the first live UK digital switchover in Whitehaven in
+Cumbria.
+
+The Whitehaven report (
+http://fastlink.headstar.com/copeland1 )
+is published by Digital UK, the broadcaster-funded body charged with
+overseeing the switchover from analogue to digital TV signals across
+the UK between now and 2012.
+
+It found that on the whole Whitehaven residents were well informed
+about switchover when it took place last November, with 95% of
+people in the area aware of the process a year before it happened.
+
+However, while many were also aware of the existence of the help
+scheme which provides a digital set-top box and installation assistance,
+the system of charging for help was not well understood.
+
+The help scheme is offered free to those on certain benefits and to
+other eligible TV users for a payment of 40 pounds. However many
+people did not realise that the 40 pound charge is subsidised, and
+provides a range of assistance worth far more than the charge
+including an accessible set-top box; installation and advice; and, where
+necessary, the installation of a new aerial (which alone can cost more
+than 80 pounds).
+
+The misunderstanding of the scheme's value could help explain an
+extremely low take-up of the subsidised scheme, which totalled just
+14% of eligible households, the report finds. In contrast, take-up
+figures of 50% were reported among those on lower incomes who were
+eligible for completely free assistance under the scheme.
+
+A programme of community engagement was undertaken to in
+Whitehaven spread the word about the switchover and sources of help.
+Digital UK opened four help centres, while the charity Age Concern
+organised over 100 small drop-in sessions in different community
+locations.
+
+
++02: Web Access Focus Will Shift To ISPs, Analyst Predicts.
+
+Responsibility for ensuring web content is accessible will have to shift
+in future from content publishers to internet service providers (ISPs), a
+leading accessibility analyst has warned.
+
+"Because the internet is global, regulation will have to shift from the
+country of production to the country of consumption", Kevin Carey,
+director of digital inclusion charity humanITy, told the recent E-Access
+'08 conference (
+http://www.headstar-events.com/eaccess08/ ).
+
+This means that regulation of accessibility as well as issues such as
+security and child protection will have to pass to the local ISPs
+providing access to the sites, he said.
+
+"The globalisation of production and publishing will sound the death
+knell for accessibility unless we can forge alliances with those
+concerned with security, privacy, child protection and public service
+content to achieve a public stake in the way we filter and receive
+content. But if ISPs are to become pornography, security, virus and
+accessibility police, they are going to need paying through a
+combination of consumer and public sector revenue."
+
+Some of the costs of policing may have to be borne by the content
+providers and ISPs, he said, but small companies should not be
+expected to pay as much towards making content accessible as large
+firms; and it would also be necessary to take into account the purpose
+for which the multi media enterprise has been established, Carey said.
+"We might allow, for example, that a BBC television channel should
+be required to provide 100% accessibility, whereas a student blog
+should not."
+
+NOTE: For a full report of Kevin Carey's speech see Section Four, this
+issue.
+
+
++03: Umbrella Specification For Web Standards Published.
+
+An umbrella specification for website standards, including references
+to usability and accessibility standards, has been published by the
+British Standards Institution (
+http://www.bsi-global.com/).
+
+The Publicly Available Specification (PAS) 124, entitled 'Defining,
+implementing and managing website standards,' covers 11 separate
+categories of website quality, of which accessibility and usability are
+two. It was commissioned from the BSi by website content
+management software provider Magus (http://www.magus.co.uk/).
+
+The BSi had already produced a more focused specification on website
+accessibility, PAS 78, which is now being developed into a full British
+Standard number BS8878. Julie Howell, Director of Accessibility at
+Fortune Cookie which commissioned PAS 78, has been appointed to
+chair the technical committee tasked with developing the standard (see
+story 01, E-Access Bulletin Issue 98, February 2008).
+
+Howell told E-Access Bulletin this month that people looking for
+accessibility guidance should look to PAS 78, which "contains all the
+guidance site developers and owners should need on how to ensure
+disabled people can use their sites. PAS 124 references PAS 78 but
+does not seek to build on it."
+
+And according to Simon Lande, founder and CEO of Magus, PAS 124
+references PAS 78 because the intention of PAS 124 was not to
+"reinvent the wheel". It is the first complete set of website
+specifications of its kind in the world, he said, and was created after
+Magus' research found many large companies either do not have or fail
+to stick to formal technical standards governing their websites.
+
+The specifications are available for download from the BSI website for
+£85:
+http://fastlink.headstar.com/bsi2 .
+
+
+++News in Brief:
+
++04: Senior PC: A home computer designed for easy access by elderly
+people is under development by Microsoft UK in conjunction with the
+charities Age Concern and Help the Aged. The PC will come with
+simplified software for email, word processing as well as managing
+prescriptions, finances, travel planning and photographs. Microsoft
+already produces Senior PC packages for the US market:
+http://www.microsoft.com/enable/aging/seniorpc.aspx
+
++05: Public Failure: A third of government websites are failing to meet
+their own accessibility standards, according to a report from the House
+of Commons Public Accounts Committee. Moving more services to
+the central government service portals Directgov for citizens and
+Businesslink.gov.uk for businesses - as the government is committed
+to do - ought to improve the situation as those sites are accessible, the
+report finds. According to 'Government on the internet: progress in
+delivering information and services online', the government has made
+it a priority to consult on how its other websites can be made more
+accessible, though this work may be hindered as "[it] does not know
+exactly how many websites it operates":
+http://fastlink.headstar.com/pac8 .
+
++06: Prophetic Guidance: A set of guidelines for the design of
+accessible information and communication technology systems has
+been published by the RNIB's Scientific Research Unit on its website,
+'Tiresias'. The guidelines can be searched by disability user group,
+technology area or application areas (such as household appliances,
+computing, television or accessible tourism). A range of other free
+publications and information on technology accessibility are also
+available from the site:
+http://www.tiresias.org .
+
+[Section One ends].
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: CAPTCHA Objection: Our Inbox items this month were posted
+as comments to the E-Access Bulletin Live blog (
+http://www.headstar.com/eablive ).
+The first is from Darrell Shandrow, who also runs his own blog, the
+Blind Access Journal, at:
+http://blog.blindaccessjournal.com/ .
+
+Darrell posted a comment on our recent feature on the five most
+common accessibility errors made by web designers, extracted from
+the local government Society of IT Management (Socitm) publication
+on web accessibility, and written for that document in turn by Robin
+Christopherson of Abilitynet.
+
+Darrell wrote: "I object to the suggestion in item number 5 [the use of
+website features without an accessible alternative] that an email or
+telephone based alternative to the CAPTCHA is acceptable. It is
+patently unacceptable to be forced to wait anywhere from hours to days
+or weeks for something that is granted our sighted peers instantly if
+only one is able to physically see a CAPTCHA image.
+
+"At a bare minimum, all sites should now feature an audio CAPTCHA
+playback. There's really no excuse for omitting this feature now that
+services such as ReCAPTCHA.net exist as turn key solutions for web
+developers.
+
+"At this point, failure to provide at least an audio playback on any
+CAPTCHA represents nothing less than a "no blind people allowed"
+sign."
+
+[Further responses please to inbox@headstar.com or post direct to the
+blog at
+http://www.headstar.com/eablive/?p=183 ].
+
+
++08: Subtle Approach: Another recent blog post from Martin Kliehm,
+who works as a Senior Web Developer in Frankfurt, Germany and runs
+the web standards and accessibility blog 'Learning the World' (
+http://learningtheworld.eu/ ). Martin referred to the current prevalent
+approach to website accessibility of measuring sites against the main
+international 'WCAG' standards of level A, AA or AAA and stating
+whether or not they pass or fail the test.
+
+"I don't think this binary approach of passed or failed is helpful," he
+says. "Just because a website failed level A or AA doesn't necessarily
+mean it is inaccessible to people with disabilities. Also it would be
+interesting how badly they failed.
+
+"In Germany people often use the 'BITV-Test' [German website at:
+http://bitvtest.de/ ]
+based on our legislation of WCAG. It is a well-documented site with
+much discussion of how to apply the tests. For a quick check, only
+three pages of different types are chosen, like the home page, a content
+page, and a contact form.
+
+"Each criterion is assigned with a severity: major, normal, or minor.
+Starting with a total of 100 points, for each failed criterion either 3, 2,
+or 1 points are subtracted, half of the points when a criterion is
+partially fulfilled. A website is highly accessible when the total is 95 or
+above, well accessible at 90-94 points, and badly accessible below 90.
+Also a few checkpoints can change the result into "inaccessible", no
+matter what the actual score was. Think of navigational images without
+alt-text.
+
+"So what we have here is a score that can be benchmarked with other
+websites, a more precise result how accessible a website is. I think
+that's a better approach."
+
+[Further responses please to inbox@headstar.com or post direct to the
+blog at
+http://www.headstar.com/eablive/?p=183 ].
+
+[Inbox ends].
+
+
+++Special Notice: Building the Perfect Council Website
+- Major International Keynote Speaker for 2008
+- 16 July, Olympia 2, Central London
+http://www.headstar-events.com/council08/ .
+
+We are pleased to present our third annual event on how to create the
+perfect council website: a partnership between E-Government Bulletin
+and the Socitm Insight Programme.
+
+Our keynote speaker this year is international web usability guru Gerry
+McGovern. An authority on creating effective web content, Gerry has
+been described by the Irish Times as one of the world's five leading
+web visionaries (alongside Tim Berners-Lee, Tim O'Reilly, Nicholas
+Negroponte and Vint Cerf).
+
+Elsewhere, the event will draw on the collected wisdom of a decade of
+Socitm's annual 'Better Connected' review of all UK council websites.
+Secure your place today at:
+http://www.headstar-events.com/council08/
+
+And for companies interested in exhibition spaces please contact Will
+Knox on will.knox@headstar.com or phone him on 01273 267974.
+
+[Special notice ends].
+
+
+++Section Three: Workshop Report
+- Accessible Publishing.
+
++09: Are They Receiving You, Loud And Clear?
+by Dan Jellinek.
+
+Public sector bodies should draw up accessible publishing strategies
+that integrate their approaches to web and print publishing thereby
+ensuring dissemination of their most important messages to the most
+relevant audiences, delegates heard at last month's E-Access '08
+conference.
+
+Katie Grant, director of the accessible communications consultancy
+Raincharm Communications and former publications manager at the
+Disability Rights Commission, told a workshop session
+that'accessibility' is a term used to describe the degree to which a
+device, service or working environment is accessible by as many
+people as possible. Within that definition, 'accessible' has three
+meanings: able to be accessed; friendly and approachable; and easily
+understood or appreciated.
+
+There are certain key steps which need to be followed within any
+accessible publishing strategy, Grant said. These are:
+- Do you need to publish?
+- If so, which audience or audiences are you trying to reach?
+- What formats are you going to produce?
+- How will the information you produce inform and influence?
+- How does what you publish fit within the overall strategy of your
+organisation?
+- How will the information be disseminated?
+- How do you measure success?
+
+The task of designing accessible information goes far beyond the more
+obvious and technical aspects such as how information is conveyed or
+illustrated using images, Grant said. It is important to begin by
+considering the audience you are trying to reach even before you select
+a format and design a document.
+
+"Ask yourself who is your target audience, and did you consider their
+needs when setting up your website, for example? Publishing formats
+should always be based on user research, and a balance struck between
+accessibility and functionality."
+
+Clearly budget issues will affect what formats can be delivered, and
+how much information can be published, Grant said, but in looking at
+affordability, organisations should look at the cost versus value
+delivered in terms of improved service. A business case for
+accessibility should also investigate the urgency of each type of
+information.
+
+As part of an interactive exercise during the workshop, delegates
+produced their own examples of issues to consider when developing
+the business case for an accessible publishing strategy. These included
+ensuring there is no ambiguity in stated business requirements;
+developing a flexible and scalable strategy; and to implement constant
+reviews and evaluation to keep up with changes in technology.
+
+A range of cultural and 'people' issues were also highlighted by
+delegates. These included the need to ensure broad ownership of the
+strategy, with buy in from both production/marketing staff and senior
+budget holders and managers.
+
+"You need to establish a publishing team at the planning stage,
+involving the people who are going to be producing the work - web
+people and marketing people - and others from across the
+organisation," Grant said.
+
+"Then to ensure proper implementation, who need to work out who is
+responsible for each bit," she said. "It needs to be built into job
+descriptions."
+
+"Access to clearly designed, easy to read information should be a
+fundamental right for everyone. Building and embedding an accessible
+publishing strategy into an organisations communications culture
+should be at the forefront of any business planning process.
+
+NOTE: Katie Grant is the trainer in an exclusive practical one-day
+Headstar Training course, 'Designing for all', designed to introduce
+public sector organisations to the importance of designing accessible,
+easy to read information for a range of different audiences. The first
+course runs on 24 June in central London. To book a place see:
+http://www.headstar-training.com/dfa/
+
+[Section Three ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Four: Opinion
+- Regulating Accessibility.
+
++10: Time for a New Beginning
+by Kevin Carey.
+
+There is an elegant correspondence between the amount of information
+in circulation and its accessibility which can be expressed in two
+formulae.
+
+First, that the greater the quantity of information, the lower its cost of
+production; and second, that the lower the cost of production, the
+greater is the additional percentage cost of making it accessible.
+
+Take television. When spectrum was limited, the medium was
+analogue and the labour was unionised, the cost of producing television
+was high; so was the cost of producing accessibility services such as
+captioning, audio description and signing; but the percentage cost of
+these special services was relatively low.
+
+Now think about the explosion of television since 1990 when satellite
+was introduced and project this forward to internet television: there
+will be no spectrum and therefore no scarcity, and digital production is
+cheap. Smaller and smaller players will find a toe-hold with niche
+products, but the smaller the player, the higher the relative percentage
+cost of accessibility services will become.
+
+This scenario can be extended to multi media channels and on-demand
+services. So the question is, do we expect multi media providers to
+provide a full range of accessibility services, regardless of their
+economic capacity?
+
+If we want to look for a rational answer to this question, the starting
+point is the way that television accessibility has been regulated. The
+2003 Telecommunications Act obliged Ofcom to regulate accessibility
+services. It set rational percentages of compliance, taking into account
+the percentage of turnover they would need to spend in order to
+comply. If the percentage was too high, the broadcaster was exempt.
+
+That is a good starting principle, but it does not go far enough. A
+second factor which we need to take into account is the purpose for
+which the multi media enterprise has been established. We might
+allow, for example, that a BBC television channel should be required
+to provide 100% accessibility, whereas a student blog should not.
+Between these two there are all kinds of information providers who
+need to be subjected to a rational principle in addition to their
+economic capacity. I suggest that the principle should be that the
+degree of accessibility required should depend on the public purpose of
+the information provider. We might argue that a major retailer should
+be under a higher obligation than a wholesale supplier of nuts and
+bolts.
+
+There is a principle which directly relates both to economic capacity
+and public purpose, and that is reach. If we are going to insist on a
+level of accessibility, it should relate to the number of people likely to
+benefit. This does not simply involve producing a ball-park figure for
+blind and visually impaired people or deaf and hearing impaired
+people; the evidence has to be based on actual behaviour rather than on
+some wild estimate of uptake.
+
+If we combine the organisation's mission, economic capacity and
+reach, we are getting closer to a rational way of understanding the
+relationship between the supplier and the customer requiring an
+accessibility service.
+
+Ultimately, we need a new approach to accessibility which is
+proportionate, evidence-based and economically viable. That, however,
+is not the end of the matter. One of the key features of the digital
+information age is that production and publishing are becoming global.
+If regulation is too harsh in one political sphere then companies will
+move.
+
+This, in turn, means that regulation of content will have to shift from
+the country of origin to the country of consumption, which would
+mean enormous cost shifts from publishers to internet service providers
+(ISPs) and information brokers. If ISPs are to become pornography,
+security, virus and accessibility police, they are going to need paying
+through a combination of consumer and public sector revenue.
+
+This is an important discussion because the globalisation of production
+and publishing will sound the death knell for accessibility unless we
+can forge alliances with those concerned with security, privacy, child
+protection and public service content in order to achieve a public stake
+in the way we filter and receive content.
+
+In summary, then, the old game is over. We will no longer be able to
+rely on national or even European regulators, to deliver accessibility
+from the publisher. We are going to have to switch to information
+brokers, distributors and deliverers, working out some mechanism for
+imposing obligations similar to those which no doubt governments will
+ultimately impose for the purposes of national security and child
+protection. We have wasted almost twenty years waiting for each other
+to act and now we are entering very tough times. We need a new
+approach, we need to make a new start. This will not be easy, but it
+will have to be done.
+
+NOTE: Kevin Carey is Director of humanITy. This articleis an edited
+version of a talk given by Kevin at the recent Headstar conference e-
+Access '08, hosted by E-Access Bulletin.
+
+[Section Four ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2008 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporter: Majeed Saleh
+Editorial advisor - Kevin Carey
+Marketing Executive - Claire Clinton
+Sales and Marketing - Jo Knell, Will Knox.
+
+ISSN 1476-6337 .
+
+[Issue 101 ends.]

@@ -1,0 +1,119 @@
+/**
+ * Title: Graphical E-accessibility Stylesheet (CSS2).
+ * URL:   http://www.e-accessibility.com/includes/graphic.css
+ * Rights: Copyright 2003-06-18 Nick, Bunbury IS.
+ */
+body, #Body {
+  /*font-weight: bold;*/
+  margin:      0;
+  padding:     0;
+  min-width:   655px;
+}
+a {
+  color:      #862c86;
+  background: #fff;
+  text-decoration: none;
+}
+a:hover {
+  color:      #900;
+  background: #fff;
+}
+#menu, #switch, #totop { font-weight: bold; }
+
+#top, h1 { margin: 0; }
+h1  .imgAlt { display:none; }
+#top {
+  background-image: url("../images/eab-band1.png");
+  background-repeat:repeat-x;
+  width:      100%;
+  min-width: 640px;
+  height:     93px;
+}
+h1 { /* #logo */
+  background-image: url("../images/eab-logo1.png");
+  background-repeat:no-repeat;
+  width:  150px;
+  height:  93px;
+  float:   left;
+}
+#switch {
+  margin:  1%;
+  float:   right;
+}
+
+blockquote { margin: 4pt; }
+ul#menu {
+  color:      #000;
+  background: #c9c;
+  list-style: none;
+  margin: 0;
+  width: 120px; /*117px;*/
+  float: left;
+  padding-top: 30pt;
+  padding-bottom:5pt;
+ /* min-height: 300px; */
+}
+#menu a {
+  display: block;
+  width:  100px; /*112px;*/
+  height: 30px;
+  padding:2pt;
+  padding-left: 5pt;
+}
+#switch li {
+  list-style: none;
+  display:    inline;
+}
+#switch a { padding: 2pt; }
+#main {
+  width:       80%; /*85%;*/
+  min-width:   520px;
+  float:       right;
+  margin-right:1%;
+}
+#bulletin, #content {
+  width:       70%;
+  min-width:   350px;
+  float:       left;
+  line-height: 1.2em;
+  border-right:1px solid #862c86;
+}
+h2 {
+  color:         #862c86;
+  background:    #fff;
+  padding-bottom:4pt;
+  margin-top:    10pt;
+  font-weight:   normal;
+  border-bottom: 1px solid #862c86;
+}
+#menu h3 { display: none; }
+/*  color:      #900; */
+#comment {
+  width:     25%;
+  min-width: 140px;
+  float:     right;
+}
+#comment  blockquote { margin-top: 50pt; }
+#foot, #comment {
+  font-weight: normal;
+}
+ul, #foot { font-size: .95em; }
+#comment, #switch { font-size: .9em; }
+#comment, #content {
+  margin: 2pt;
+  padding:2pt;
+}
+li#headstar  a {
+  color:      #000;
+  background: #c9c;
+  margin-top: 100pt; /*160pt;*/
+  margin-bottom: 5pt;
+}
+#main { padding-bottom: 5pt; }
+#foot { text-align: center; margin-top: 20pt; clear: both; }
+#switch { text-align: right; margin-right: 12pt; }
+#totop { margin: 1%; }
+
+ol.Archive { list-style: disc; }
+.thKey { width: 30%; }
+

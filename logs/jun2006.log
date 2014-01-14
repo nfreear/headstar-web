@@ -1,0 +1,180 @@
+__ BUILD [tens2html.pl  v1.14] log Tue Aug 15 13:05:49 2006 __
+
+Input file: ../eab/issues/2006/jun2006.txt
+
+Warning: file already exists: ../eab/issues/2006/jun2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jun | index: 6 | year: 2006
+URLs, prev: ../2006/may2006.html | next: ../2006/jul2006.html
+Found ++, heading 2: Special Notice: 'e-Access '06' - Technology For All
+Warning 2 (TENS), found non-ASCII character 145 (line 19, 0).
+Warning 2 (TENS), found non-ASCII character 146 (line 19, 13).
+Found ++, heading 2: Issue 78 Contents.
+>> FOUND 2:  | 01:  | Football Fans Will Lose Out, Web Sites Review Finds
+>> FOUND 2:  | 02:  | Accessible Automatic Tellers To Be Deployed Across Italy
+>> FOUND 2:  | 03:  | Resource For Accessible Media Players Launched
+>> FOUND 2:  | 04:  | First Online Multiplay Board Game Released  
+>> FOUND 2: News in Brief:  | 05:  | TV Trial – Bolton digital TV report; 06: Audio
+OK, News in brief
+Found: TV Trial – Bolton digital TV report | ; |  06: Audio
+>> FOUND 2: Entries – New Statesman award nominees;  | 07:  | Virtual Conference –
+Found: Entries – New Statesman award nominees;  | 07:  | Virtual Conference –
+>> FOUND 2:  | 08:  | Expense Debate – technology cost debate continues; 09: Braille
+>> FOUND 2: Exchange – Elba users sought;  | 10:  | Group Request – online forum
+Found: Exchange – Elba users sought;  | 10:  | Group Request – online forum
+>> FOUND 2: information sought;  | 11:  | Number Puzzle – number pad query; 12:
+Found: Number Puzzle – number pad query | ; |  12:
+>> FOUND 2:  | 12:  | In Search Of The Holy Grail: Kevin Carey suggests  we should
+>> FOUND 2:  | 13:  | Carving A Path For Navigational Aids: A recent seminar
+Warning line 79: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Fans Will Lose Out, World Cup Web Sites Review Finds.
+Warning: not found a 'contents' match: Fans Will Lose Out, World Cup Web Sites Review Finds.
+Warning 2 (TENS), found non-ASCII character 146 (line 49, 29).
+Warning 2 (TENS), found non-ASCII character 146 (line 54, 35).
+Warning 2 (TENS), found non-ASCII character 150 (line 54, 63).
+Warning 2 (TENS), found non-ASCII character 146 (line 56, 19).
+Warning, replacing non-ASCII character 233 (line 56, 38): and the competition’s governing body F&#233;dération Internationale de
+
+Warning 2 (TENS), found non-ASCII character 146 (line 56, 19).
+Warning, replacing non-ASCII character 233 (line 56, 45): and the competition’s governing body F&#233;d&#233;ration Internationale de
+
+Warning 2 (TENS), found non-ASCII character 146 (line 56, 19).
+Warning 2 (TENS), found non-ASCII character 150 (line 57, 27).
+Warning 2 (TENS), found non-ASCII character 146 (line 68, 29).
+Warning 2 (TENS), found non-ASCII character 147 (line 69, 16).
+Warning 2 (TENS), found non-ASCII character 148 (line 70, 24).
+Warning 2 (TENS), found non-ASCII character 147 (line 81, 50).
+Warning 2 (TENS), found non-ASCII character 146 (line 82, 4).
+Warning 2 (TENS), found non-ASCII character 133 (line 83, 37).
+Warning 2 (TENS), found non-ASCII character 148 (line 84, 6).
+Warning 2 (TENS), found non-ASCII character 146 (line 96, 5).
+Warning 2 (TENS), found non-ASCII character 147 (line 97, 12).
+Warning 2 (TENS), found non-ASCII character 146 (line 97, 14).
+Warning 2 (TENS), found non-ASCII character 148 (line 98, 5).
+Warning 2 (TENS), found non-ASCII character 147 (line 100, 0).
+Warning 2 (TENS), found non-ASCII character 148 (line 104, 39).
+Warning 2 (TENS), found non-ASCII character 145 (line 107, 38).
+Warning 2 (TENS), found non-ASCII character 146 (line 107, 59).
+Warning 2 (TENS), found non-ASCII character 145 (line 109, 8).
+Warning 2 (TENS), found non-ASCII character 146 (line 109, 24).
+Warning 2 (TENS), found non-ASCII character 146 (line 109, 47).
+> ITEM 2:  02:  | Accessible Automatic Tellers To Be Deployed Across Italy.
+Found 'contents' match: 1.
+Warning 2 (TENS), found non-ASCII character 145 (line 127, 7).
+Warning 2 (TENS), found non-ASCII character 146 (line 127, 25).
+Warning 2 (TENS), found non-ASCII character 146 (line 132, 26).
+Warning 2 (TENS), found non-ASCII character 145 (line 132, 28).
+Warning 2 (TENS), found non-ASCII character 146 (line 132, 40).
+> ITEM 2:  03:  | Resource For Accessible Media Players Launched.
+Found 'contents' match: 2.
+Warning 2 (TENS), found non-ASCII character 146 (line 158, 5).
+Warning 2 (TENS), found non-ASCII character 146 (line 163, 58).
+Warning 2 (TENS), found non-ASCII character 147 (line 168, 0).
+Warning 2 (TENS), found non-ASCII character 148 (line 172, 9).
+Warning 2 (TENS), found non-ASCII character 147 (line 179, 11).
+Warning 2 (TENS), found non-ASCII character 146 (line 180, 73).
+Warning 2 (TENS), found non-ASCII character 148 (line 181, 28).
+> ITEM 2:  04:  | First Online Multiplay Board Game Released.
+Found 'contents' match: 3.
+Warning 2 (TENS), found non-ASCII character 146 (line 192, 9).
+Warning 2 (TENS), found non-ASCII character 147 (line 200, 3).
+Warning 2 (TENS), found non-ASCII character 148 (line 200, 44).
+Warning 2 (TENS), found non-ASCII character 147 (line 207, 0).
+Warning 2 (TENS), found non-ASCII character 146 (line 207, 2).
+Warning 2 (TENS), found non-ASCII character 148 (line 208, 25).
+Warning 2 (TENS), found non-ASCII character 147 (line 208, 45).
+Warning 2 (TENS), found non-ASCII character 146 (line 209, 63).
+Warning 2 (TENS), found non-ASCII character 148 (line 210, 61).
+Warning 2 (TENS), found non-ASCII character 146 (line 212, 64).
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  Some 83 per cent of vision-impaired participants in
+Warning 2 (TENS), found non-ASCII character 147 (line 223, 60).
+Warning 2 (TENS), found non-ASCII character 148 (line 223, 71).
+> ITEM 1:  06:  | : |  Roaring Girl Productions and Your Local Cinema,
+Warning 2 (TENS), found non-ASCII character 146 (line 233, 37).
+Warning 2 (TENS), found non-ASCII character 145 (line 233, 49).
+Warning 2 (TENS), found non-ASCII character 146 (line 234, 6).
+Warning 2 (TENS), found non-ASCII character 147 (line 237, 49).
+Warning 2 (TENS), found non-ASCII character 148 (line 237, 58).
+> ITEM 1:  07:  | : |  Accessible web logging (“blogging”) and
+Warning 2 (TENS), found non-ASCII character 146 (line 239, 40).
+Warning 2 (TENS), found non-ASCII character 147 (line 241, 0).
+Warning 2 (TENS), found non-ASCII character 148 (line 241, 6).
+Found ++, heading 2: Special Notice: Building the Perfect Council Web Site
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 314.
+> ITEM 1:  08:  | : |  Asim Rauf from Pakistan continues the debate
+Warning 2 (TENS), found non-ASCII character 147 (line 280, 32).
+Warning 2 (TENS), found non-ASCII character 148 (line 286, 10).
+Warning 2 (TENS), found non-ASCII character 147 (line 288, 50).
+Warning 2 (TENS), found non-ASCII character 147 (line 296, 63).
+> ITEM 1:  09:  | : |  “I'm
+Warning 2 (TENS), found non-ASCII character 148 (line 299, 3).
+Warning 2 (TENS), found non-ASCII character 150 (line 302, 41).
+> ITEM 1:  10:  | : |  Women in London (WiL –
+Warning 2 (TENS), found non-ASCII character 147 (line 306, 62).
+Warning 2 (TENS), found non-ASCII character 148 (line 313, 58).
+> ITEM 1:  11:  | : |  Barry Blomkamp, professional public speaker,
+Warning 2 (TENS), found non-ASCII character 147 (line 317, 42).
+Warning 2 (TENS), found non-ASCII character 146 (line 324, 50).
+Warning 2 (TENS), found non-ASCII character 147 (line 327, 0).
+Warning 2 (TENS), found non-ASCII character 148 (line 328, 59).
+> ITEM 1:  12:  | : |  Sue Buckley writes in response to a contribution
+Warning 2 (TENS), found non-ASCII character 148 (line 338, 41).
+Found ++, heading 2: Sponsored Notice: QAC Sight Village 2005
+Warning 2 (TENS), found non-ASCII character 150 (line 366, 0).
+> ITEM 2:  12:  | In Search Of The Holy Grail
+Warning: not found a 'contents' match: In Search Of The Holy Grailby Kevin Carey
+Warning 2 (TENS), found non-ASCII character 150 (line 374, 0).
+Warning 2 (TENS), found non-ASCII character 150 (line 375, 43).
+Warning 2 (TENS), found non-ASCII character 147 (line 389, 8).
+Warning 2 (TENS), found non-ASCII character 148 (line 389, 19).
+Warning 2 (TENS), found non-ASCII character 150 (line 399, 29).
+Warning 2 (TENS), found non-ASCII character 150 (line 399, 72).
+Warning 2 (TENS), found non-ASCII character 146 (line 439, 53).
+Warning 2 (TENS), found non-ASCII character 150 (line 440, 11).
+Warning 2 (TENS), found non-ASCII character 150 (line 452, 17).
+Found ++, heading 2: Seminar report – Seminar Report
+Warning 2 (TENS), found non-ASCII character 150 (line 453, 0).
+> ITEM 2:  13:  | Carving A Path For Navigational Aids
+Warning: not found a 'contents' match: Carving A Path For Navigational Aidsby Mel Poluck
+Warning 2 (TENS), found non-ASCII character 147 (line 476, 33).
+Warning 2 (TENS), found non-ASCII character 148 (line 478, 23).
+Warning 2 (TENS), found non-ASCII character 147 (line 484, 19).
+Warning 2 (TENS), found non-ASCII character 148 (line 486, 41).
+Warning, replacing non-ASCII character 246 (line 496, 57): and government and industry bodies, Dr Jan-Ingvar Lindstr&#246;m told
+
+Warning 2 (TENS), found non-ASCII character 147 (line 509, 50).
+Warning 2 (TENS), found non-ASCII character 148 (line 511, 15).
+Warning 2 (TENS), found non-ASCII character 150 (line 513, 38).
+Warning 2 (TENS), found non-ASCII character 146 (line 515, 49).
+Warning 2 (TENS), found non-ASCII character 146 (line 516, 32).
+Warning 2 (TENS), found non-ASCII character 150 (line 519, 39).
+Warning 2 (TENS), found non-ASCII character 150 (line 519, 60).
+Warning 2 (TENS), found non-ASCII character 147 (line 523, 47).
+Warning 2 (TENS), found non-ASCII character 148 (line 523, 65).
+Warning 2 (TENS), found non-ASCII character 147 (line 527, 57).
+Warning 2 (TENS), found non-ASCII character 146 (line 527, 68).
+Warning 2 (TENS), found non-ASCII character 148 (line 529, 21).
+Warning 2 (TENS), found non-ASCII character 147 (line 529, 32).
+Warning 2 (TENS), found non-ASCII character 148 (line 530, 27).
+Warning 2 (TENS), found non-ASCII character 147 (line 531, 25).
+Warning 2 (TENS), found non-ASCII character 148 (line 532, 66).
+Warning 2 (TENS), found non-ASCII character 145 (line 537, 56).
+Warning 2 (TENS), found non-ASCII character 146 (line 538, 5).
+Warning 2 (TENS), found non-ASCII character 145 (line 541, 38).
+Warning 2 (TENS), found non-ASCII character 150 (line 543, 23).
+Warning 2 (TENS), found non-ASCII character 146 (line 550, 4).
+Warning 2 (TENS), found non-ASCII character 147 (line 550, 61).
+Warning 2 (TENS), found non-ASCII character 148 (line 550, 71).
+Warning 2 (TENS), found non-ASCII character 147 (line 556, 30).
+Warning 2 (TENS), found non-ASCII character 148 (line 556, 45).
+Warning 2 (TENS), found non-ASCII character 146 (line 559, 31).
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 625.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 631.
+Warning 2 (TENS), found non-ASCII character 150 (line 609, 18).

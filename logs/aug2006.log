@@ -1,0 +1,56 @@
+__ BUILD [tens2html.pl  v1.14] log Mon Dec  4 14:14:23 2006 __
+
+Input file: ../eab/issues/2006/aug2006.txt
+
+Warning: file already exists: ../eab/issues/2006/aug2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: aug | index: 8 | year: 2006
+URLs, prev: ../2006/jul2006.html | next: ../2006/sep2006.html
+Found ++, heading 2: Special Notice: 'e-Access '06' - Technology For All.
+Found ++, heading 2: Issue 80 Contents.
+>> FOUND 2:  | 01:  | Google Research Labs Launches Accessible Search Service
+>> FOUND 2:  | 02:  | Access To Work Funding Closed To Central Government
+>> FOUND 2:  | 03:  | Voice Activation Software Offers 99 Per Cent Accuracy
+>> FOUND 2:  | 04:  | Free Screen Reader Released Online
+>> FOUND 2: News in Brief:  | 05:  | Shopping Trip - supermarket sites reviewed; 06:
+OK, News in brief
+Found: Shopping Trip - supermarket sites reviewed | ; |  06:
+>> FOUND 2: Cheap Talk - free and discounted;  | 07:  | Sprechen ze English? - free
+Found: Cheap Talk - free and discounted;  | 07:  | Sprechen ze English? - free
+>> FOUND 2:  | 08:  | Records Straight - British Museum responses; 09: E-Group Debate
+>> FOUND 2:  | 10:  | A Victory for Persistent Pestering: Navigating DVDs can be hard
+>> FOUND 2:  | 11:  | The Fight for Real World Innovation. Exciting developments are
+Warning line 81: expected [Contents ends].
+$toc_count=10
+Found ++, heading 2: Sponsored Notice: BT's Age and Disability Unit
+> ITEM 2:  01:  | Google Research Labs Launches Accessible Search Service.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Access To Work Funding Closed To Central Government.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Voice Activation Software Offers 99 Per Cent Accuracy
+Found 'contents' match: 2.
+> ITEM 2:  04:  |  Free Screen Reader Released Online.
+Warning: not found a 'contents' match:  Free Screen Reader Released Online.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  The Tesco website is the only supermarket site to
+> ITEM 1:  06:  | : |  Some 300 talking glucose meters are to be made
+> ITEM 1:  07:  | : |  Free online English and German language
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 274.
+> ITEM 1:  08:  | : |  Matthew Cock of the New Media Unit at the
+> ITEM 1:  09:  | : |  The debate on accessible e-groups continues.
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  10:  | A Victory for Persistent Pestering.
+Warning: not found a 'contents' match: A Victory For Persistent Pestering.By Dan Jellinek.
+Found ++, heading 2: Section Two - Focus
+> ITEM 2:  00:  | The Fight for Real World Innovation
+Warning: not found a 'contents' match: The Fight For Real World Innovationby Mel Poluck.
+Warning, replacing non-ASCII character 233 (line 459, 58): and behind the times," according to van Tol, of the Bartim&#233;us
+
+Warning, replacing non-ASCII character 233 (line 524, 48): team, comprising seven students under the Bartim&#233;us Accessibility
+
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 595.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 601.

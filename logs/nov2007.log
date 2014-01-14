@@ -1,0 +1,80 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 08:29:16 2008 __
+
+Input file: ../eab/issues/2007/nov2007.txt
+
+Warning: file already exists: ../eab/issues/2007/nov2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: nov | index: 11 | year: 2007
+URLs, prev: ../2007/oct2007.html | next: ../2007/dec2007.html
+Found ++, heading 2: Issue 95 Contents.
+>> FOUND 2:  | 01:  | Concerns Over Government Web Accessibility Plan
+>> FOUND 2:  | 02:  | Exclusion Fears Over Digital TV Pilot Technology
+>> FOUND 2:  | 03:  | NZ Student Exposes Inaccessibility of Government Sites
+>> FOUND 2: News in Brief:  | 04:  | SharePoint Kit - Microsoft access package; 05:
+OK, News in brief
+Found: SharePoint Kit - Microsoft access package | ; |  05:
+>> FOUND 2: Easy Mobile - new phone handset;  | 06:  | Bookshare Correction -
+Found: Easy Mobile - new phone handset;  | 06:  | Bookshare Correction -
+>> FOUND 2: tips;  | 08:  | Government Vapourware - UN policy scepticism; 09: Tricky
+Found: Government Vapourware - UN policy scepticism | ; |  09: Tricky
+>> FOUND 2: Job - council complaint;  | 10:  | Thunder Offer - Chinese screenreader
+Found: Job - council complaint;  | 10:  | Thunder Offer - Chinese screenreader
+>> FOUND 2:  | 11:  | Cracking the Code of Accessible Search: Searching the internet is
+>> FOUND 2:  | 12:  | Frustration 2.0? At the recent Techshare conference, Kath Moonan
+Warning line 51: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Special Notice: Techno-Footprint, 29 November 2007
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 76.
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Concerns Over Government Web Accessibility Plan.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Exclusion Fears Over Digital TV Pilot Technology.
+Found 'contents' match: 1.
+Warning, replacing non-ASCII character 194 (line 122, 5): just &#194;£40, including installation and some training (see
+
+Warning 2 (TENS), found non-ASCII character 163 (line 122, 11).
+Warning 2 (TENS), found non-ASCII character 163 (line 122, 11).
+Warning, replacing non-ASCII character 195 (line 136, 17): Manager Leen Petr&#195;© told E-Access Bulletin this week. "Once that help
+
+Warning 2 (TENS), found non-ASCII character 169 (line 136, 23).
+Warning 2 (TENS), found non-ASCII character 169 (line 136, 23).
+Warning, replacing non-ASCII character 195 (line 143, 27): speaking menu options, Petr&#195;© said. A decision would then have to be
+
+Warning 2 (TENS), found non-ASCII character 169 (line 143, 33).
+Warning 2 (TENS), found non-ASCII character 169 (line 143, 33).
+Warning, replacing non-ASCII character 195 (line 146, 69): would hope it doesn't affect the price which users have to pay," Petr&#195;©
+
+Warning 2 (TENS), found non-ASCII character 169 (line 146, 75).
+> ITEM 2:  03:  | NZ Student Exposes Inaccessibility of Government Sites.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Microsoft has announced the launch of an
+> ITEM 1:  05:  | : |  A new handset in the 'Easy' range of accessible
+Warning, replacing non-ASCII character 194 (line 196, 36): Vodafone Pay as you Talk package at &#194;£139.99:
+
+Warning 2 (TENS), found non-ASCII character 163 (line 196, 42).
+Warning 2 (TENS), found non-ASCII character 163 (line 196, 42).
+> ITEM 1:  06:  | : |  We incorrectly stated last issue that the
+Found ++, heading 2: Special notice:
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 266.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 267.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 276.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 283.
+> ITEM 1:  07:  | : |  Jeff Seager, Communications Specialist at the
+> ITEM 1:  08:  | : |  Gustaw Kon, a reader living in
+> ITEM 1:  09:  | : |  Our reader Norman Waddington writes in to let us
+> ITEM 1:  10:  | : |  Further to our September feature and October
+Found ++, heading 2: Section Three: Interview
+> ITEM 2:  11:  | Cracking the Code of Accessible Search
+Warning: not found a 'contents' match: Cracking The Code Of Accessible Searchby Dan Jellinek.
+Found ++, heading 2: Section Four: Technology
+> ITEM 2:  12:  | Frustration 2.0?
+Warning: not found a 'contents' match: Frustration 2.0?By Dan Jellinek.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 697.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 704.

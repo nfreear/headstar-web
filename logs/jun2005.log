@@ -1,0 +1,53 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:02 2005 __
+
+Input file: ../eab/issues/2005/jun2005.txt
+
+Warning: file already exists: ../eab/issues/2005/jun2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jun | index: 6 | year: 2005
+URLs, prev: ../2005/may2005.html | next: ../2005/jul2005.html
+Found ++, heading 2: Issue 66 Contents.
+>> FOUND 2:  | 01:  | Many Blogs 'Impossible to Access'
+>> FOUND 2:  | 02:  | Frustrated Consumer Launches Product Review Site
+>> FOUND 2:  | 03:  | World's First Working Group on Accessible Biometrics
+>> FOUND 2: News in Brief:  | 04:  | Discussion Forum - technology debate; 05: Twenty
+OK, News in brief
+Found: Discussion Forum - technology debate | ; |  05: Twenty
+>> FOUND 2: Questions - intelligent game;  | 06:  | Talking Macs - natural speech.
+Found: Talking Macs - natural speech | . | 
+>> FOUND 2:  | 07:  | Electronic Sorcery - Tolkien e-book request.; 08: Microfilm Query
+>> FOUND 2: - how to convert?  | 09:  | Tactile Intervention - digital maps.
+Found: Tactile Intervention - digital maps | . | 
+>> FOUND 2:  | 10:  | In the Public Eye: The UK government's plans to introduce
+>> FOUND 2:  | 10:  | The Language of Flexibility: The leading screen-reader software
+Warning line 50: expected [Contents ends].
+$toc_count=9
+Found ++, heading 2: Sponsored Notice: QAC Sight Village 2005
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Many Blogs 'Impossible to Access'.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Frustrated Consumer Launches Product Review Site.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | World's First Working Group on Accessible Biometrics.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  An online discussion forum on access
+> ITEM 1:  05:  | : |  An accessible version of the game Twenty
+> ITEM 1:  06:  | : |  Text-to-speech software 'ATandT natural voices'
+Found ++, heading 2: Special Notice: Techshare 2005 Call for Papers
+Warning 2 (TENS), found non-ASCII character 163 (line 195, 54).
+Warning 2 (TENS), found non-ASCII character 163 (line 196, 14).
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  07:  | : |  The bulletin's esteemed Italian translator,
+> ITEM 1:  08:  | : |  Mark Pimm, Disability Coordinator at
+> ITEM 1:  09:  | : |  Rich Caloggero writes in to respond to Allen
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2:  Section Three - Seminar Report
+> ITEM 2:  09:  | In The Public Eye
+Warning: not found a 'contents' match: In The Public Eyeby Mel Poluck.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Four: Technology
+> ITEM 2:  10:  | The Language of Flexibility
+Warning: not found a 'contents' match: The Language Of Flexibilityby Nick Apostolodis.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.

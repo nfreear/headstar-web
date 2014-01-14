@@ -1,0 +1,627 @@
++++E-ACCESS BULLETIN.
+- ISSUE 51, MARCH 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription
+details at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 51 CONTENTS.
+
+01: Accessible cinema set to treble
+- UK film council helps fund audio-description and subtitling.
+
+02: Technology starter courses simplified
+- British Computer Association of the Blind revamps one-day training.
+
+03: Museums urged to consult on technology
+- no substitute for advance user testing, conference hears.
+
+04: National library launches free online guides
+- 'access technology primer' aimed at support workers.
+
+News in brief: 05: Life enrichment - UN conference on older people;
+06: Online salute - St Dunstan's commemorates D-Day; 07: Techshare
+dates - for 2004.
+
+Section two: 'The Inbox' - Readers' forum.
+08: Double header - Java compiler and Braille font; 09: Fonts
+continued - readability debate; 10: Standard Braille - UK development
+query; 11: Goods mart - synthesiser sought.
+
+Section three: Snapshot - local government.
+12: A mountain to climb: council web sites are supposed to meet high
+standards for accessibility, but a new survey shows they fall far
+short.
+Dan Jellinek and Derek Parkinson report.
+
+Section four: Focus - broadcasting.
+13: A solid start: the new broadcast super-regulator Ofcom is
+consulting on how to ensure digital television is accessible for all.
+Mel Poluck attends a meeting which hears that much progress has been
+made, but further work is needed.
+
+[Contents ends].
+
+
+++SECTION ONE: NEWS.
+
++01: ACCESSIBLE CINEMA SET TO TREBLE.
+
+Audio description and subtitling equipment is set to be installed in
+78 cinemas across England, more than trebling the number of accessible
+cinemas in the country, the UK Film Council
+(http://www.ukfilmcouncil.org.uk) has announced.
+
+The project, which is part of the council's 500,000 pound National
+Lottery-funded Cinema Access Programme, will enable thousands of
+people with sight and hearing impairments to enjoy movies, from the
+latest blockbusters to independent releases.
+
+The majority of popular film releases are now distributed with an
+audio description narrative and subtitles embedded in digital files.
+However,
+until now only around 30 cinemas in the UK and Ireland have been
+equipped to read these files so that audio description can be
+broadcast
+through personal, wireless headphones, and subtitles can be projected
+on to the screen.
+
+Some 350,000 pounds has been allocated to buy and install the
+equipment, covering 50 per cent of its costs; cinemas will have to
+provide the other 50 per cent themselves. The equipment costs between
+5,000 and 8,000 pounds per screen, although a cinema would typically
+only need to install it on one screen.
+
+"When 'silent' movies were replaced by 'talkies' over 70 years ago,
+people with visual impairments began to enjoy the cinema experience,"
+says Derek Brandon, editor of yourlocalcinema.com
+(http://www.yourlocalcinema.com), a web site which informs people
+with sight and hearing problems about local cinema screenings. "But
+for those with hearing impairments, the loss of captions on the
+screen
+to explain the plot was the end of their cinema enjoyment," he said.
+"This year, over 100 cinemas nationwide will become fully accessible
+again for people with sight and hearing problems." Brandon's site has
+now received 50,000 pounds of funding over three years to help
+publicise the new services.
+
+The new equipment will only be installed in cinemas in England,
+although the UK Film Council is working with the Northern Ireland
+Film and Television Commission (http://www.niftc.co.uk), Scottish
+Screen (http://www.scottishscreen.com) and Sgren Cymru Wales
+(http://www.sgrin.co.uk) to ensure that similar services can be
+provided across the UK.
+
+
++02: TECHNOLOGY STARTER COURSES SIMPLIFIED.
+
+The British Computer Association of the Blind (BCAB -
+http://www.bcab.org.uk) is to simplify its foundation training course
+for the use of assistive technology, making the intensive one-day
+course cheaper and providing more places for students.
+
+The 'Access technology foundation certificate'
+(http://www.bcab.org.uk/btcs/atfc-handout.htm) will from next month
+cost 350 pounds, a drop of 150 pounds. The course is designed for all
+professionals who work with vision impaired people and who need to
+understand access technology, such as teaching assistants and
+rehabilitation workers.
+
+According to course manager Stephen Plumpton, students do not need
+to have a training background. "The course encompasses some very
+basic coaching skills and an introduction to access technology for
+the
+visually impaired, such as CCTV; screen readers and screen
+enlargement," he says. "It is intended to ensure access training in
+the UK is of a consistently high standard."
+
+Plumpton is also working on a training video designed to lead people
+into the foundation course, which has run in its current format since
+last August. BCAB has also been in meetings this week with
+international charity Sightsavers International
+(http://www.sightsavers.org.uk) to discuss working with them to help
+develop similar programmes for development work in Africa.
+
+Beyond the foundation course, BCAB offers a five-day Trainer
+Certification Scheme (http://www.bcab.org.uk/btcs) for those new to
+training and a two-day course for those with some experience.
+Trainers
+have a written assessment on their assistive technology product of
+choice, followed by a face-to-face assessment. Students are
+re-assessed
+after three years and the product knowledge course can be re-taken as
+new versions of products emerge.
+
+"We aim to take to the fear out of taking access products out of the
+box," says Plumpton.
+
+
++03: MUSEUMS URGED TO CONSULT ON TECHNOLOGY.
+
+Museums must consult people with disabilities before implementing
+new technologies, Peter Berridge, head of Colchester Museums
+(http://www.colchestermuseums.org.uk) told a conference on the
+accessibility of cultural institutions last month.
+
+'Is your museum fully accessible?' was organised by the Museums
+Association (http://www.museumsassociation.org) with the Museums,
+Libraries and Archives Council (MLA - http://www.mla.gov.uk). It
+aimed to provide practical advice for museums working towards the
+Disability Discrimination Act, which comes into full force in October
+2004.
+
+Berridge said Colchester Museums' own experience of introducing
+induction loops for people with hearing difficulties had taught it
+valuable lessons about introducing new technology. The museums only
+realised that deaf users received conflicting commentaries for audio-
+visual presentations when people complained, as the technology hadn't
+been sufficiently tested on users prior to implementation.
+
+"This was a key turning point for us," he said. "Never again would we
+spend scarce resources on technology without consulting users first."
+Colchester Museums has since established an access advisory group
+called Portal, with a membership of nine people with visual, hearing,
+physical and other impairments. The group, whose members are paid
+for their services, ensures that accessibility is now built into all
+new projects at the museum from the outset.
+
+Colchester Museums is currently exploring the use of different
+technologies to make visiting its exhibitions more rewarding for
+people
+with impaired vision. These include audio guides delivered through
+handsets; Braille labelling; a greater emphasis on touch in its
+displays;
+and an accessible web site, due to be launched in a few weeks' time.
+
+The MLA has produced a guide offering museums advice on how they
+can use technology to provide better services to disabled people
+(http://www.resource.gov.uk/documents/dis_guide07.pdf).
+
+
++04:  NATIONAL LIBRARY LAUNCHES FREE ONLINE GUIDES.
+
+The National Library for the Blind (NLB), the library service for
+vision-impaired people, has developed a series of free online
+training
+courses for support workers and others on the basics of access
+technology (http://atp.nlb-online.org/Lessons/p_00.php).
+
+The 'Access technology primer' is aimed at rehabilitation workers,
+library staff and educational support staff. Its initial sections
+are:
+Introduction to access technology; Training visually impaired people
+to use computers; Changes you can make to your computer without
+access technology; Windows keyboard commands; JAWS; Supernova;
+and Zoomtext (these last three are types of screen reader and screen
+magnification software).
+
+The courses are funded by international independent charity the
+Health
+Foundation (http://www.health.org.uk), and a spokesperson for the
+NLB told E-Access Bulletin the courses have already attracted a lot
+of interest.
+
+The library is also developing a visual impairment directory, an
+online
+introduction to working with people with impaired vision, and a guide
+to working with people with mobility issues. It is also gearing up
+for its annual 'Make a noise in libraries week' (MANIL
+http://www.nlb-online.org/campaigns), a campaign 19 to 25 July to
+encourage libraries
+to improve access to libraries for vision impaired people.
+
+
+++NEWS IN BRIEF:
+
++05: LIFE ENRICHMENT: Former US congressman Benjamin
+Gilman has recommended that communities worldwide form advisory
+councils and liaise with business and marketing experts to develop
+new policies to use technology to enrich the lives of older people.
+Gilman
+was a keynote speaker last month's UN-hosted meeting, 'Age of
+connectivity: harnessing the generations':
+http://www.un.org/events/agingcf.htm .
+
+
++06: ONLINE SALUTE: St Dunstan's, the independent charity for
+vision-impaired ex-service men and women, will shortly be posting
+members' eyewitness accounts of the D-Day landings in the Second
+World War on their web site to mark the 60th anniversary of D-Day. In
+the past two weeks, secondary school pupils have begun using bulletin
+boards with similar stories as part of a GCSE module on citizenship
+which includes the use of new technologies to help people with
+disabilities:
+http://fastlink.headstar.com/dunstans1 .
+
+
++07: TECHSHARE DATES: Techshare, the annual international
+conference on technologies for vision-impaired people, is to be held
+this year on 18 and 19 November 2004 at the Jury's Inn hotel,
+Birmingham, with pre-conference workshops to be held on 17
+November. The RNIB event is aimed at professionals supporting
+people with vision impairment and costs 195 pounds, with an 'early
+bird' rate of 130 pounds for those enrolling by 1 October:
+http://www.rnib.org.uk/techshare .
+
+[Section one ends].
+
+
+++SPECIAL NOTICE: ACCESSIBLE E-GOVERNMENT
+- Planning for Accessibility Seminar
+- 30 March, Globe Theatre, London.
+
+On 30 March, E-Access Bulletin's sister publication E-Government
+Bulletin presents a one-day seminar on strategies for ensuring your
+e-services are accessible to all regardless of ability. Government
+guidance for public sector web sites is clear that accessibility
+needs to
+be radically improved, and the passing of the Disability
+Discrimination
+Act means that this is now a legal as well as a moral imperative for
+all e-service channels.
+
+'E-government for all: planning for accessibility' takes place at
+Shakespeare's Globe Theatre, central London. Speakers include Helen
+Petrie, Professor of Human Computer Interaction Design at City
+University; Guido Gybels, Head of Technology, Royal National
+Institute for Deaf People; and Kevin Carey, vice chairman of the RNIB
+and Director of HumanITy.
+
+The event is aimed largely at our public sector readers and their
+private
+sector partners, and there is a fee payable. Places cost 295 pounds
+plus VAT for public sector and 395 for private  sector delegates.
+Additional
+delegates booking at the same time receive a 100 pound discount. For
+more information and to register see:
+http://www.electronic-government.com/access.htm .
+
+[Sponsored notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+- Please email all contributions or responses to inbox@headstar.com .
+
++08: DOUBLE HEADER: Karina Gregory writes in with two queries.
+First, she asks: "Does anyone know of an accessible compiler that I
+can
+use to write and compile Java? I am currently using jGrasp but am not
+finding it very easy to use. Any recommendations gratefully
+received."
+
+And secondly, she asks: "Does anyone know where I can get a Braille
+font to translate on-screen text into Braille so that it can be
+printed out
+and transferred onto 'swell paper' to create readable Braille? I am
+aware that the RNIB offered one that could be downloaded from their
+website a couple of years ago, but this has been removed and I was
+wondering where else I could get one from?"
+[Responses please to inbox@headstar.com].
+
+
++09: FONTS CONTINUED: Meanwhile the discussion about readable
+fonts continues. Karina Gregory (see previous item) says: "I use
+Arial
+or Tahoma as my standard fonts as I find these the easiest to read
+and
+most people who I have met, both visually impaired and fully sighted,
+also recommend the use of these two fonts."
+
+And Terry Kenaghan of Optek Systems in Australia
+(http://www.mpx.com.au/~terryk) says: "I became involved with this
+issue of fonts when I was requested to create software for a typing
+program for vision-impaired children.
+
+"Initially I used large Arial fonts in the program, which seemed OK,
+until the software was used with very young children, and we ran into
+the problem of recognition where the letters differed from the shapes
+that the child had been introduced to by their parents. I found that
+by using the Century Gothic font it solved these problems and seems
+acceptable to all - a better solution than the Comic Sans font [Last
+issue Peter Thomson of Wolverhampton City Council said Comic Sans
+was the only font he knew of where the letters 'a' and 'g' looked
+like their handwritten counterparts.]
+
+
++10: STANDARD BRAILLE: Rebecka Boman, who works for a
+manufacturer of assistive technology in the US, has a question about
+Braille: "I have heard that there will be a Braille standard
+implemented
+in the UK in May, 2004. I would like to know what this means "Braille
+standard" and also how will the making of Braille be affected?"
+[Responses please to inbox@headstar.com].
+
+
++11: GOODS MART: Peter Taylor suggests we should start a section
+of the bulletin where second hand access equipment can be bought and
+sold. For the moment, we propose to do this at the end of the 'Inbox'
+section if there is demand, starting with his own requirement: "I
+personally would like to find a Dolphin JUNO speech synthesiser,
+which many will have ceased to use long ago but I still find
+extremely
+useful for using dbase3 in DOS."
+[Responses please to inbox@headstar.com].
+
+[Section two ends].
+
+
+++SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+
+Accessify Forum is a discussion forum devoted to all topics relating
+to web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new
+accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along
+and join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++SECTION THREE: SNAPSHOT
+- LOCAL GOVERNMENT.
+
++12: A MOUNTAIN TO CLIMB.
+by Dan Jellinek and Derek Parkinson.
+
+The annual 'Better Connected' survey provides a useful snapshot of
+local e-government across the UK. Conducted on behalf of the Society
+of IT managers (Socitm - http://www.socitm.gov.uk), the survey looks
+at each of the 467 council web sites in England, Wales, Scotland and
+Northern Ireland and assesses the range, design and sophistication of
+online services.
+
+This year, Better Connected has tested all the sites for
+accessibility
+against standards set out by the international World Wide Web
+Consortium's Web Accessibility Initiative (http://www.w3.org/WAI),
+which rates sites as 'A' for basic accessibility; 'AA' for higher
+level accessibility and 'AAA' for near-perfection.
+
+These standards form the cornerstone of UK policy on web
+accessibility. In the government's guidance for the third round of
+council 'implementing electronic government' (IEG) statements
+(http://fastlink.headstar.com/ieg3), councils are urged to work
+towards
+'AA' standards.
+
+All web sites were initially tested using automated software tools,
+and
+those that passed were then subjected to thorough manual tests by a
+team that included specialist consultants from RNIB. The Socitm
+report finds that just 18 councils achieve level 'A' conformance, and
+of the 23 sites assessed as transactional, only three achieve level 'A':
+Surrey, Tameside and Wrexham. Only one site - Tameside - achieves
+'AAA' standard.
+
+Around half of council sites fail to attain very basic accessibility
+levels
+due a lack of meaningful text tags for images on their sites; and
+many
+sites failed latter stages because when accessed by a browser that
+does
+not support JavaScript, the functionality did not work and there was
+no
+alternative provided. 'Text-only' alternative sites are not much help
+either; of the 143 council web sites with a text-only alternative,
+just seven reached 'A' standard overall.
+
+While awareness of accessibility has improved greatly among UK
+councils, the survey shows that many are failing to translate this
+into
+effective results. According to Helen Williams of the Socitm Insight
+team, this could be because councils are under more pressure to
+launch
+transactional services and publish a wider range of content on their
+sites. "For example, more councils are publishing data like council
+tax
+bandings on their sites in the form of tables. But they often forget
+to include table header codes for screen readers," she said.
+
+The general trend is a widening gap between those councils getting to
+grips with accessibility, and those that are failing to act,
+according to
+RNIB consultant Donna Smillie. "The sites that were doing well were
+doing very well. Even some that failed are paying a great deal of
+attention to accessibility," she says. "But some that get it wrong
+get it
+very wrong." According to Smillie, this may be because some councils
+can't meet staff training requirements, or because a completely
+redesigned site is in the pipeline, soaking up all available
+resources.
+
+"With accessibility, there is clearly a mountain to climb," says
+Martin
+Greenwood, who leads the Better Connected project for Socitm. "I
+don't think there's any chance of councils achieving 'AA' within two
+years." Councils that had made efforts to meet accessibility
+standards
+were "very concerned" about the amount of effort involved,
+Greenwood says, with particular problems arising where councils were
+trying to make sites accessible that had not had accessibility in
+mind when first created.
+
+"But in a sense, they don't have a choice," he says. "The fact is
+that
+there is a law about accessibility - the Disability Discrimination
+Act - so it would seem single 'A' accessibility is a minimum."
+
+Note: A version of this feature appeared first in our sister
+publication,
+E-Government Bulletin (http://www.headstar.com/egb).
+
+[Section three ends].
+
+
+++SECTION FOUR: FOCUS
+- BROADCASTING.
+
++13: A SOLID START
+by Mel Poluck.
+
+Audio description of television programmes and the accessibility of
+electronic programme guides to digital TV were chief among topics
+raised at an open meeting last month at the RNIB's headquarters in
+London.
+
+The meeting was called to feed into a consultation on access to TV
+services being run by Ofcom, the UK's new broadcasting and
+telecommunications 'super-regulator'
+(http://fastlink.headstar.com/ofcom2).
+
+Ofcom is seeking the views of people with disabilities to ensure it
+fully
+understands their needs. It is looking to bodies like the RNIB to
+help it
+decide how to regulate television, and has drafted two codes of
+practice: 'Provision of television access services'
+(http://fastlink.headstar.com/ofcom3), and a code for electronic
+programme guides (EPGs - http://fastlink.headstar.com/ofcom4), the
+on-screen programme menus that will eventually appear on all TVs.
+
+This month, Ofcom will be appointing the first chair of its advisory
+committee for older and disabled people.
+
+Currently 10 per cent of programmes per channel are obliged under the
+Communications Act 2003 to carry audio-description within 10 years
+of the date the channel starts broadcasting. This follows a victory
+achieved by a group of activists including RNIB who lobbied
+parliament last year, when targets were raised from 5 per cent (see
+E-Access Bulletin, issues 37 and 38, January and February 2003).
+However the majority at the consultation felt that the new 10 per
+cent
+target remains disappointing, particularly when compared with an 80
+per cent target for subtitling.
+
+Although the audio-description targets are now hard-wired into the
+Communications Act, changes could still be made, particularly as
+technical restraints lift, according to Ofcom policy executive Peter
+Bourton. "We have pretty low levels of audio description and I'm sure
+that's going to increase," he told the meeting.
+
+Caroline Ellis, Parliamentary Affairs Manager at the Disability
+Rights
+Commission, said that while government said last year they couldn't
+raise audio description targets, later in the year the TV channel
+Five
+became the first UK public service broadcaster to broadcast audio
+described programmes using the Sky satellite service (see E-Access
+Bulletin, issue 48, December 2003). It emerged that, while the BBC
+quoted 640 pounds an hour to provide description, Sky undercut this
+price. "The BBC was a blockage on progress," Ellis said.
+
+One topic on which Bourton was seeking feedback was Ofcom's aim
+to introduce a requirement that 1 per cent of service providers'
+budget
+should be spent on TV access services. One idea fed back from the
+workgroups was raise this to the RNID's suggestion of 2 per cent.
+
+Bourton told attendees that according to the law, the requirement for
+whether audio description provision would be provided at all will
+depend on a channel having an audience share of at least 0.05 per
+cent.
+However, feedback from attendees' workgroups suggested that the
+decision to use audio description should not be dictated in this way.
+
+Also under discussion was the way in which audio description is
+transmitted. The usual way is to have a separate audio-described
+soundtrack which gets transmitted to headphones during a programme.
+"There's a working assumption that people would still prefer to have
+audio description on separate soundtracks," Bourton said. But this
+may
+not be so among users. "Why should blind people have to sit in the
+corner with headphones on?" said one attendee, arguing that the need
+to always wear headphones isolates vision-impaired users and prevents
+interaction with co-viewers.
+
+RNIB members argued strongly that repeat programmes should not be
+counted as part of reaching targets. "It's outrageous to count
+repeats to
+up the target figure," said one RNIB employee. Also, "frontloading"
+targets for audio description should be avoided, they said, and Ofcom
+should instead ensure there are incremental increases year-on-year.
+
+The need for variety among programmes chosen for accessible
+broadcasting - not just "soaps, soaps, soaps" - was also stressed.
+Some
+programmes which are already highly verbal, such as University
+Challenge, were thought by some to be "a waste of audio description,"
+although another said it was dangerous to "say no to anything."
+
+With the draft code on electronic programme guides also under
+consultation, Bourton said Ofcom has informed EPG providers that
+they are expected to make 'reasonable adjustments' to ensure
+accessibility in line with the Disability Discrimination Act and to
+consult with disability groups about what they should be doing.
+"We've asked for statements to be ready by September and annual
+statements to be produced thereafter," he said.
+
+While 'talking EPGs' are in development, Bourton said technology
+currently limits what accessible services can be introduced.
+
+"Set top boxes lack the processing power - they simply can't handle
+talking EPGs," Bourton said. However he was promptly contradicted
+on this point by RNIB's demonstration to attendees of the Netgem box
+(http://www.netgem.com). This provides full audio description as well
+as internet and radio access and went on the market last January.
+
+All present agreed, however, that where technical restraints do
+exist,
+service providers should use other methods such as web sites, radio
+announcements and publications from disability organisations to
+disseminate their programme guides.
+
+And Ellis concluded on an optimistic note: "At least the government
+can't lower the audio description targets," she said. "We have
+parliamentarians working very hard for us. The only way is up."
+
+NOTE: The deadline for comments on the access services consultation
+was Friday 12 March, and the EPG consultation closes on 25 March.
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as
+'taken from e-access bulletin, a free monthly email newsletter', and
+our web site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

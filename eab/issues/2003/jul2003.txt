@@ -1,0 +1,607 @@
++++E-ACCESS BULLETIN.
+- ISSUE 43, JULY 2003.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard. For details see:
+http://www.headstar.com/ten .
+
+
+++ISSUE 43 CONTENTS.
+
+01: Secret action may trigger wave of cases
+- web site owners could end up in court.
+
+02: European procurement embraces accessibility
+- new directive due by end of the year.
+
+03: Harry Potter and the missing version
+- delays for audio book of publishing phenomenon.
+
+04: Talking lampposts for North London
+- Trials for orientation guides.
+
+News in brief: 05: Digital bridge - Brazil conference; 06: Virtual
+museum - children's resource; 07: Ensuite provision - access portal;
+08: Thin access - screen reader adapts.
+
+Section two: 'The inbox' - Readers' forum.
+09: Spanish lessons - tape request; 10: Canvassing views - online
+questionnaire; 11: Radio days - keeping in touch; 12: Maine mistake -
+correction.
+
+Section three: Interview: Higher education.
+13: Mainstreaming choice: Emma Price, equality officer at King's
+College London, talks to Mel Poluck about the institution's new access
+policy.
+
+Section four: Debate - Local government.
+14: No alternative to accessible sites: The debate over whether or not
+it
+is a good thing to offer a text-only alternative for an entire web site
+continues to rage. Dan Jellinek reports.
+
+[Contents ends].
+
+
+++SPONSORED NOTICE:
+- DISABILITY RIGHTS IN EUROPE: FROM THEORY TO
+PRACTICE
+
+The UK Disability Rights Commission, with the Department of
+Law and the Centre for Disability Studies at the University of
+Leeds, is pleased to announce a conference to celebrate the
+European Year of Disabled People to be held in Leeds on 25-26
+September 2003.
+
+The conference will examine legal strategies adopted
+internationally to counter discrimination against disabled people.
+It will also lead to the creation of a network of interested parties
+to develop ongoing work. This event has been accredited with
+eleven 'CPD' (continuing professional development) points by
+the Law Society and the Bar Council.
+
+For more information and to book visit:
+http://www.disability-europe.info/lawconference
+or email Anna Lawson on
+a.m.m.lawson@leeds.ac.uk
+or telephone 0113 2335054.
+
+[Sponsored notice ends].
+
+
+++SECTION ONE: NEWS.
+
++01: SECRET ACTION COULD TRIGGER WAVE OF CASES.
+
+A landmark legal action, launched in secret this month against
+companies with web sites that are difficult to access for people with
+visual impairments, could be the trigger for many more cases, E-
+Access Bulletin has learned.
+
+The cases are being brought by the RNIB. Details cannot
+be revealed for legal reasons, although E-Access Bulletin understands
+one of the cases may involve a well-known online shopping site.
+
+The action is believed to be the first time the Disability
+Discrimination
+Act (DDA - http://www.disability.gov.uk/dda/) has been used to
+compile a case against site owners.
+
+"We could well see a lot more cases like this. It raises the profile of
+web accessibility and many people will realise they have rights and can
+exercise them, instead of just putting up with problems," according to
+a spokesperson for the Disability Rights Commission, which is not
+itself involved in the action.
+
+According to the commission, although this is the first time the DDA
+has been brought to bear on web sites, settlements will be reached in a
+similar way to other anti-discrimination cases. An initial independent
+assessment is made to identify the problems, followed by negotiations
+to resolve them. Only if negotiations fail will a full court case
+follow.
+
+"The main objective of this legislation is not to tell people they will
+be
+fined if their sites are inaccessible, but to encourage them to go away
+and change their sites," said solicitor Richard Swinburne. The RNIB
+declined to comment on the cases in detail. A spokesperson said:
+"Cases can halt, reach confidential settlement or be obviated by
+conciliation at any stage and cannot accurately be commented on until
+these processes have been completed."
+
+
++02: EUROPEAN PROCUREMENT EMBRACES
+ACCESSIBILITY.
+
+Public sector bodies will need to take into account the needs of
+vision-
+impaired people when awarding contracts for digital services,
+following a European Parliament vote this month.
+
+The parliament voted to adopt a proposal now set to be included in an
+EU public sector procurement directive by the end of this year
+(http://fastlink.headstar.com/europroc). The Council of the European
+Union, made up of the economic and finance ministers from member
+states, will now consider whether any final amendments are necessary
+before voting on a final draft of the proposal within the next three
+months. If this process runs smoothly it will become part of public
+sector procurement policy across all EU member states by the end of
+2003.
+
+Although the new directive falls short of obliging public bodies to
+include accessibility in all procurement contracts, they are strongly
+recommended to do so. Specifically, the draft requires of authorities
+that "whenever possible, the contracting authority should take into
+account accessibility criteria for people with disabilities or
+design-for-
+all requirements when laying down specifications".
+
+According to campaign group European Disability Forum
+(http://www.edf-feph.org/en/welcome.htm), the new draft carries a
+significantly stronger commitment to accessibility than existing
+procurement legislation. "Previously, accessibility was included in the
+criteria that could be taken into account when awarding contracts, but
+now authorities will have to provide a good justification if they
+don't,"
+said a spokesperson (see E-Access Bulletin issue 28, April 2002).
+
+
++03: HARRY POTTER AND THE MISSING VERSION.
+
+The audio-described version of the latest Harry Potter book has been
+delayed, meaning vision-impaired readers will not be able to enjoy this
+publishing phenomenon until the end of September, E-Access Bulletin
+has learned.
+
+BBC Books has been commissioned by Bloomsbury, the publisher of
+'Harry Potter and the order of the phoenix', to produce the audio
+version on cassette and CD. However it says it has to wait until actor
+Stephen Fry is ready to undertake the reading. "The aim was to get the
+audio version out at the same time [as the book]", a BBC spokesperson
+said. "But Stephen Fry is in the middle of directing a film. The first
+chance he will get to record will be the last two weeks of July."
+
+The audio version will be available on cassette and CD on 22
+September at a list price of 75 pounds, although according to the BBC
+its own shop and a number of other retailers will be offering discounts
+of 20 to 30 per cent.
+
+Once complete, the RNIB will duplicate the audio version for its
+Talking Books membership scheme
+(http://fastlink.headstar.com/talk2), which costs 60 pounds a year to
+join.
+
+An RNIB spokeswoman said: "It's very frustrating and
+disadvantageous for people who are blind or visually impaired but this
+situation is by no means unusual - over 90 per cent of books are not
+put into any accessible version."
+
+Braille translation of the Harry Potter book is already underway, with
+work beginning within two weeks of its general release by the charity
+Scottish Braille Press (http://www.scottish-braille-press.org). The
+charity's general manager John Donaldson said: "Just 5 per cent of
+books are produced in Braille. Harry Potter is a high profile book so
+we decided early on in the year that we would get it out as quickly as
+we could".
+
+Scottish Braille Press have so far received 70 orders for the book,
+split
+into 16 volumes, at a subsidised price of 12.50 per book. Donaldson
+said there has been a higher demand for it than for any of the previous
+four Harry Potter books.
+
+
++04: TALKING LAMPPOSTS FOR NORTH LONDON.
+
+A trial that uses talking lampposts to orientate vision-impaired people
+began last week in the London borough of Barnet, and may roll out to
+other parts of the capital if successful.
+
+The project, entitled 'React', will involve audio guide units fixed to
+26
+lampposts, mostly in the Golders Green area. It was instigated by non-
+profit disability access consultancy JMU
+(http://www.jmuaccess.org.uk), with support from the RNIB and
+Zurich Financial Services.
+
+Mark Rose, electronic signs consultant at JMU, said "It's a typical
+London suburb with difficult crossings and junctions. The area has had
+a similar system in place for two years at its bus and train stations."
+
+Users of the system will carry a matchbox-sized activator, which when
+held in an upright position triggers audible orientation guides
+attached
+to lampposts. Mounted speakers provide information about the location
+of the user when they are eight to nine metres away. Activators, which
+are standardised across the UK, can be obtained for free from the
+RNIB, JMU or Jewish Care Homes.
+
+"Its a system that tells you where you are," said Rose. "For example,
+it
+tells you what road or crossroads you are on or what bus stop you have
+just got off at. While most vision-impaired users have good local
+knowledge, that is different to knowing where you are at a given time,
+or knowing the distance between places."
+
+Other UK cities testing the scheme are Leeds - where users can hear
+messages in Hindi, Gujarati or Urdu - Birmingham, Bristol, Glasgow
+and York. The projects in Birmingham and Bristol are being funded by
+the local council, while the other areas have drawn funding from a
+variety of sources, including lottery money.
+
+In future, the scheme could also be used to provide tourist information
+Rose said, although he was unsure whether vision-impaired people
+would still receive the cards for free if this became the case.
+
+
+++NEWS IN BRIEF.
+
++05: DIGITAL BRIDGE: The role of accessible digital technologies in
+tackling social inequalities will be discussed at 'Accessibility, ICT
+and
+digital bridge solutions', a conference running from 23 to 25
+September at the School of Public Health, University of Sao Paulo,
+Brazil. For a Portuguese-only language site see:
+http://www.fsp.usp.br/acessibilidade .
+
++06: VIRTUAL MUSEUM: The American Foundation for the Blind
+has launched a virtual museum for children devoted to Helen Keller,
+the deaf-blind advocate for people with disabilities. The exhibition is
+the latest to be added to the foundation's award-winning children's
+site
+'Braille Bug', and contains video footage, photographs and a reading
+list for schoolchildren.
+http://www.afb.org/braillebug/hkmuseum.asp .
+
++07: ENSUITE PROVISION: Nine specially-adapted computer suites
+and several touch screen kiosks were launched in Leicester last week,
+allowing people with vision impairments to learn new IT skills. A web
+portal providing information on disability issues and services was also
+launched:
+http://www.ldicn.org.uk .
+
++08:  THIN ACCESS: Dolphin Computer Access has announced that
+users of the company's 'HAL' screen reader will be able to access
+'thin client' computer terminals with a new version of the software to
+be launched later this year. According to Dolphin, the upgraded
+product is compatible with Microsoft Windows Server, a leading
+solution allowing large organisations to hold data on central servers
+to
+be accessed by pared-down desk-top terminals (the 'thin clients'):
+http://www.dolphinuk.co.uk .
+
+[Section one ends].
+
+
+++SPECIAL NOTICE: TECHSHARE CALL FOR PAPERS -
+REMINDER.
+
+Techshare 2003 is an important conference for professionals interested
+in technology and the role it plays in learning, work and life for
+people
+with sight problems.
+
+Do you want to showcase your new products and services at
+Techshare? If you are planning on submitting a paper for this event,
+then this is a reminder that the deadline is fast approaching. The call
+ends 31 July, so get your paper to us as soon as you can.
+
+Successful speakers will be offered a reduced rate on their conference
+fee. For more details see
+www.rnib.org.uk/techshare
+or e-mail: techshare@rnib.org.uk .
+
+[Special notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com .
+
+
++09: SPANISH LESSONS: Jane Sellers, a reader from Surrey,
+England, writes in with a request related to learning a language: "I am
+looking for a box of tapes which will enable me to learn the basics of
+Spanish as my parents are moving to Malaga next year - as they are
+going to a little village, I need to learn the language because very
+little
+English is spoken there.
+
+"Does anyone have such tapes, or does anyone know of anyone who
+could teach a nearly-blind girl a crash course in Spanish?" [Reponses
+please to inbox@headstar.com].
+
+
++10: CANVASSING VIEWS: John Knight of the Birmingham
+Institute of Art and Design, part of the University of Central England,
+is conducting an online survey into views on web accessibility. E-
+Access Bulletin readers are encouraged to take part by filling out the
+form at:
+http://www.biad.uce.ac.uk:8080/questionnaire/accessibility
+
+To receive the questionnaire in alternative formats, including by
+telephone interview, contact John on john.knight@uce.ac.uk or
+telephone 0121 331 7868. The personal data you supply will be
+processed in accordance with data protection law, and results will only
+be made available in an anonymous format.
+
+
++11: RADIO DAYS: Peter Petersen writes in with a request for
+information on internet radio on behalf of his mother, age 93, who
+lives in a retirement village in New Zealand.
+
+"Her sight is not good and she finds it difficult to watch television,"
+he
+says. "It seems to me that one way she could keep in touch with the
+world is to listen to worldwide radio stations on the internet. I only
+discovered the variety of internet radio by accident but it means that
+a
+person in Australia or New Zealand can have good quality reception
+for an enormous variety of small European or North American music
+or talkback stations.
+
+"I can organise a computer and an internet connection for her but there
+may be some excellent software suitable for her to use or learn to use
+that would enable her to scan the world for music and news or talk-
+back shows. Do you know of any such software or even hardware
+internet devices? Or is there a special subject list or internet radio
+chat-
+room that I could enter to collect and swap information?" [Responses
+please to inbox@headstar.com].
+
+
++12: MAINE MISTAKE: Last month we erroneously located the State
+of Maine in Canada - it is of course a US state. Apologies to web
+designer Leesa Lavigne whose 'Inbox' item we relocated in this way!
+
+[Section two ends].
+
+
+++SECTION THREE: INTERVIEW
+- HIGHER EDUCATION.
+
++13: MAINSTREAMING CHOICE
+by Mel Poluck  mel@headstar.com .
+
+One of the most basic ways of improving access to education for
+people with sensory impairment is the provision of course materials in
+a range of formats.
+
+The need for such provision has now become a legal imperative in the
+UK, with the introduction of the Special Educational Needs and
+Disability Act 2001 (SENDA - http://fastlink.headstar.com/senda1).
+One higher education institution which is responding positively to the
+new requirements is Kings College London (KCL -
+http://www.kcl.ac.uk), where equality and diversity officer Emma
+Price says accessibility work "is about mainstreaming: getting it into
+people's consciousness".
+
+At KCL, alternative formats - including Braille, CD, floppy disk,
+internet, large print, cassette, tactile maps and Moon - are offered
+when
+anything is produced for mass distribution among students or staff,
+from departmental prospectuses to leaflets for student healthcare
+provision or classroom handouts.
+
+To provide guidance and to ensure no student is deprived of any
+information offered by the college, Price has written a policy on
+accessible formats, in line with the college's equal opportunities
+policy
+and current UK legislation.
+
+Suggestions from staff and students were used in the policy drafting
+process and a volunteer from the employment training programme at
+RNIB's Redhill College (http://fastlink.headstar.com/redhill)
+contributed by assessing existing facilities. "I also used the RNIB's
+See
+It Right package (http://fastlink.headstar.com/see1), to help me draft
+the policy," Price says.
+
+Throughout the college, departmental disability liaison officers were
+given specific training by Price and her team and by SKILL: the
+National Bureau for Students With Disabilities
+(http://www.skill.org.uk) They then advise students on specific subject
+areas and specific disabilities.
+
+As to which formats are requested the most, she says: "Disk and
+internet are the most popular, it is really going that way - the
+majority
+of students use email. Lots of work is uploaded onto the internet to
+update departmental pages. We have not had one request for Braille".
+
+Some formats cause particular problems. "Attachments are hard to read
+with assistive software. For example, portable document format (pdf)
+files need to have a Word or plain text alternative," she says.
+
+To solve this problem, the policy says a web link should be provided
+with any pdf, linking it to Access Adobe, a programme that translates
+pdf files to html or text versions which can then be read using
+assistive
+software. "I had a meeting with the director of web services about
+accessibility and they are now feeding it into their training," she
+says.
+
+The policy is not just about technology: style is an issue for
+accessibility too. "Clearly written and printed materials are valuable
+for all," Price says. Accordingly, the policy states: "Accessibility of
+information should always be borne in mind, not only for disabled
+students but also for the wider community."
+
+What targets do Price and her team have now? "It's very difficult to
+ensure 100 per cent of staff are aware of the issues, but for the short
+to
+medium term it would be wonderful to have every access request
+responded to quickly," she says. "We need more talk in this area, more
+staff training and more awareness".
+
+What about other institutions - are they set to follow suit?
+Alarmingly,
+Price has noted a lack of enthusiasm from other institutions'
+disability
+departments. "I sent an email to an online discussion forum recently
+but the only kind of response I got was 'yes, it's an issue for us
+too.' I
+was surprised only three people came back to me - for us, it was
+something we just had to do".
+
+The perceived high cost of accessibility work is likely to be the
+sticking point for many, she says. "In many institutions the initial
+gripes are usually 'how much will it cost?' but there is now a business
+case as well as a moral and a legal case for it".
+
+Ultimately, Price says the crux of good accessible format provision is
+to include its planning early in the publication process. "For example,
+if the School of Medicine produces a handbook, it's important to work
+transcription services into the strategy at the planning stages."
+
+A Catch-22 situation can arise however where some people say they'll
+only take action on accessibility if they receive a request for it, but
+if
+information is not available in accessible formats then people will not
+request it or know that it can be made available, she says.
+
+"The more requests received, the more people realise we must provide
+accessible formats. But unless you say you produce alternative formats,
+no-one comes forward."
+
+[Section three ends].
+
+
+++ SECTION FOUR: DEBATE
+- LOCAL GOVERNMENT.
+
++14: NO ALTERNATIVE TO ACCESSIBLE SITES.
+by Dan Jellinek  dan@headstar.com
+
+Web site accessibility was the hottest topic for debate on this year's
+'Better Connected Live' online forum, hosted by the local government
+IT managers' body Socitm (http://www.socitm.gov.uk).
+
+Accessibility refers to the ease with which all types of user,
+including
+people with disabilities such as vision impairment, can access the
+information on a web site. Many local authorities and other public
+bodies offer a text-only version of their web sites as these are
+considered more accessible for example to text-to-speech screen
+readers: but most participants in the online debate said such a
+strategy
+was misguided.
+
+Martin Bottomley of Dorset County Council said: "I continue to be
+amazed that virtually every local government website has a text-only
+alternative, in spite of the fact that this is not best practice.
+
+"In fact, there should be one graphical version of a site that meets a
+minimum of the international WAI accessibility standard
+(http://www.w3c.org/wai), to 'priority 1' level. This is because people
+with disabilities dislike being given special provision, and text-only
+sites are unnecessary if the graphical site is accessible. It also
+follows
+central government guidelines, which state: "alternative text-only
+pages should rarely be necessary and are not best practice"; and "the
+challenge to your web developers has to be in creating web pages that
+are both visually appealing and fully accessible to a wide range of
+users" (see http://fastlink.headstar.com/oee2).
+
+"Another reason not to use text-only sites is that there is a very real
+possibility of creating a separate but inferior site for some groups of
+people, to a much greater extent than their needs. For example, 90 per
+cent of people who are registered as blind have some vision. Their
+needs may well be better met by using a graphical version with
+increased font size, where the text is supported by graphics, rather
+than
+just plain text."
+
+Chris Swaine, webmaster at Reading-city.net, said: "One huge problem
+is that many council members and officers - even those responsible for
+council websites - know very little about e-government, and they know
+even less on the issues surrounding accessible websites.
+
+"I find this extremely frustrating as a member trying to educate both
+colleagues and officers. I have also not been particularly impressed
+with the many content management software solutions and companies
+who demonstrate their extremely expensive options, yet who are not
+genuinely interested in creating truly accessible websites, and
+templates that meet basic accessibility standards, which is not
+particularly hard.
+
+ "As a professional, involved in accessibility issues with the UK
+online
+movement, I would like to see solutions that integrate full
+accessibility
+as a norm, without people thinking of it as an add-on."
+
+Mary Ann Hooper, adult care services web site project manager at
+Herts County Council said: "I think much more work is needed to
+ensure that website designers, providers, and users understand what
+accessibility means. There seems to be an assumption that it is about
+blind users, which it is of course, but they are only one group which
+need website design to be accessible. It is also needed for a very wide
+range of users, such as those with old browsers, those who can't
+physically use a mouse, or those who need large or different-coloured
+text, and many more. Universal accessibility is what we should be
+aiming to achieve."
+
+Steve Crossan of open source programmers Runtime Collective said:
+"The only way to really make it work is to have a representative group
+of users involved throughout the process, preferably sitting down with
+the designers as much as possible. This doesn't have to be large -
+three
+to five people works well - and in the context of most e-government
+budgets it does not have to be expensive. It should represent a range
+of
+potential users. On top of that you can use an accessibility
+consultancy
+where appropriate - at the very least get a screen reader and put all
+your designs through it.
+
+"And here's my number one top tip for accessibility from experience
+which is very cheap to implement: big text."
+
+NOTE: This article first appeared in our sister publication, E-
+Government Bulletin (http://www.headstar.com/egb). 'Better
+Connected 2003 - a snapshot of all local authority websites' is
+available from Socitm. See:
+http://fastlink.headstar.com/soc3 .
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Phil Cain  phil@headstar.com
+News editor - Derek Parkinson  derek@headstar.com
+Reporter - Mel Poluck  mel@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk .
+
+ISSN 1476-6337
+
+[Issue ends.]

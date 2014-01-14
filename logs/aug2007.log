@@ -1,0 +1,54 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:24 2008 __
+
+Input file: ../eab/issues/2007/aug2007.txt
+
+Warning: file already exists: ../eab/issues/2007/aug2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: aug | index: 8 | year: 2007
+URLs, prev: ../2007/jul2007.html | next: ../2007/sep2007.html
+Found ++, heading 2: Special notice: Techshare Expo 2007
+Found ++, heading 2: Issue 92 Contents.
+>> FOUND 2:  | 01:  | International Trials For Groundbreaking Scanner
+>> FOUND 2:  | 02:  | Campaign For Accessible Mobile Phones Launched In US
+>> FOUND 2:  | 03:  | Audio Description Included As Standard For Sony TVs.
+>> FOUND 2: News in Brief:  | 04:  | Market Access - accessibility guide for business;
+OK, News in brief
+Found: Market Access - accessibility guide for business | ; | 
+>> FOUND 2:  | 05:  | Speaking Out - online petition for Yahoo! user verification
+>> FOUND 2: accessibility;  | 06:  | Your Space - social networking site for vision
+Found: accessibility;  | 06:  | Your Space - social networking site for vision
+>> FOUND 2:  | 07:  | Content Management - Content Management System accessibility
+>> FOUND 2: and UK website law queries answered;  | 08:  | Local Heroes - accessible
+Found: and UK website law queries answered;  | 08:  | Local Heroes - accessible
+>> FOUND 2:  | 09:  | Breaking The Circle: Mobile devices are a key part of RNIB's
+>> FOUND 2:  | 10:  | A Question Of Mobility: Technology aimed at providing tailored
+Warning line 81: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | International Trials For Groundbreaking Scanner.
+Warning: not found a 'contents' match: International Trials For Groundbreaking Scanner.
+> ITEM 2:  02:  | Campaign For Accessible Mobile Phones Launched In US.
+Warning: not found a 'contents' match: Campaign For Accessible Mobile Phones Launched In Us.
+> ITEM 2:  03:  | Audio Description Included As Standard For Sony TVs.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A guide aimed at private sector buyers who want
+> ITEM 1:  05:  | : |  An online petition has been launched to encourage
+> ITEM 1:  06:  | : |  A social networking website aimed at vision
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 254.
+> ITEM 1:  07:  | : |  Simon Pavitt, Director of Headware writes
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 308.
+> ITEM 1:  08:  | : |  Suzette Keith from the Middlesex University
+Found ++, heading 2: Section Three - Focus
+> ITEM 2:  09:  | Breaking The Circle
+Warning: not found a 'contents' match: Breaking The CircleBy Derek Parkinson.
+Found ++, heading 2: Section Four: Focus
+> ITEM 2:  10:  | A Question Of Mobility
+Warning: not found a 'contents' match: A Question Of MobilityBy Dr Evangelos Bekiaris.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 574.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 580.

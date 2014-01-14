@@ -1,0 +1,664 @@
++++E-ACCESS BULLETIN.
+- ISSUE 55, JULY 2004.
+ 
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+ 
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+ 
+ 
+++ISSUE 55 CONTENTS.
+ 
+01: Supermarket web sites fail basic checks
+- Just one in five offers accessible service.
+ 
+02: Personal navigation system to be tested in Finland
+- Technologies combined to offer information on the move.
+ 
+03: UN employment programme announced for Ethiopia
+- Technology skills training for vision-impaired.
+ 
+04: Satellite audio description service to cover all channels
+- Mainstream TV to be accessible to millions.
+ 
+News in Brief: 05: Digital hope - Asian support schemes; 06:
+Accessible telephony - Singaporean call centre; 07: Handheld pioneer
+- tactile computer launched.
+ 
+Section two: 'The inbox' - Readers' forum.
+08: Double plight - developing world issues; 09: Money talks -
+banking tips; 10: Bridge building - card games; 11: Validator defence
+- HTML checking tool; 12: Audio demand - web leaflets.
+ 
+Section three: Interview - Paul Blenkhorn.
+13: Life on the front line: Mel Poluck talks to an academic and
+entrepreneur who has been designing and making assistive technology
+for 20 years, including some of the world's best-known software tools,
+and is still going strong.
+ 
+Section four: - Opinion - Access to knowledge.
+14: The weight of evidence: All the research shows that people with
+impaired vision are struggling to access education, training and
+employment resources in the modern age. Kevin Carey says the
+voluntary sector must be funded to play a greater assistive role.
+ 
+[Contents ends].
+ 
+ 
+++Special Notice: Access Technology Sector Marketeer Wanted
+ 
+The publishers of E-Access Bulletin are seeking a freelance marketing
+executive with experience of the disability and technology
+communities to help develop a new conference project later this year.
+ 
+Please email CVs and details of current work/rates of pay to Dan
+Jellinek on dan@headstar.com .
+ 
+[Special notice ends].
+ 
+ 
+++SECTION ONE: NEWS.
+ 
++01: Supermarket Web Sites Fail Basic Checks.
+ 
+Only one of the UK's top five supermarkets has a web site that meets
+even the most basic accessibility needs of disabled consumers, a survey
+by the charity AbilityNet (http://www.abilitynet.org) has found.
+ 
+'State of the e-nation: online supermarkets' is an audit of web sites
+operated by Asda, Morrisons, Sainsburys, Somerfield and Tesco. Each
+site was tested for usability and accessibility using Watchfire's
+'Bobby' software (http://bobby.watchfire.com) and a range of manual
+checks. The sites were then ranked on a five-star scale, where one star
+signifies "very inaccessible" and five stars mean "very accessible."
+ 
+The highest score of four stars went to Tesco's 'alternative' site -
+http://www.tesco.com/access - which was the only site that could be
+easily accessed by those with visual impairments, dyslexia or a
+physical disability. Asda (http://www.asda.co.uk), Morrisons
+(http://www.morereasons.co.uk) and Sainsburys
+(http://www.sainsburys.co.uk) scored one star each, while Somerfield
+(http://www.somerfield.co.uk) and Tesco's mainstream site
+(http://www.tesco.com) fared marginally better with two stars.
+ 
+Common problems encountered by AbilityNet's researchers included
+"hard-coded" text which could not be enlarged; a lack of text labels for
+images; and the use of JavaScript mini-programmes which aren't
+recognised by some older browsers or by some of the specialist
+browsers used by the visually impaired.
+ 
+The report praised Somerfield for having the "most accessible of the
+'mainstream' supermarket web sites." However, its site is not e-
+commerce enabled and so doesn't offer the convenience of online
+shopping for disabled users, said the report.
+ 
+"We are quite pleased with our two-star ranking, which is better than
+some of the other supermarket sites," said Nicholas Hall, marketing
+controller at Somerfield. "But we don't think we should be harshly
+judged for not offering an e-commerce site. It is a deliberate part of our
+strategy not to be an e-commerce operation, because we are a local
+high-street retailer that encourages people to physically visit our stores.
+We aren't like some of the larger supermarkets who often have stores
+out of town and are more suited to an e-commerce offering."
+ 
+Asda, Morrisons, Sainsburys and Somerfield have made pledges to
+improve the accessibility of their sites. The report says that by having
+inaccessible sites, the supermarkets are missing out on a market of over
+seven million people with an estimated spending power of 120 billion
+pounds a year.
+ 
+ 
++02: Personal Navigation System to be Tested in Finland.
+ 
+Testing of a personal navigation system for blind and vision-impaired
+people will begin this summer in the Finnish cities of Helsinki and
+Tampere.
+ 
+The system, called NOPPA, has been developed by the Technical
+Research Centre of Finland (VTT - http://www.vtt.fi), a government-
+owned agency. It combines mobile phone, wireless internet, global
+positioning system (GPS) and voice technologies to guide users around
+town and to help them use public transport. It is part of a 465,000 euro,
+three-year pilot, funded by the Finnish Ministry of Transport and
+Communications
+(http://www.mintc.fi/www/sivut/english/default.html), the Arla
+Institute (http://www.arlainst.fi/englisht.htm) and the Finnish
+Federation of the Visually Impaired (http://www.nkl.fi/english).
+ 
+The navigation system uses a 3G mobile phone with GPRS (General
+Packet Radio Service) and Bluetooth connectivity, coupled with a GPS
+device. It connects to public transport information, such as timetables
+and municipal route plans, which can be queried using speech
+recognition and production software.
+ 
+"Our specially designed information server acts as the interpreter
+between the services available and the user," says Ari Virtanen,
+research scientist at VTT. "It handles the speech interface and does all
+the hard work of relaying users' queries to the services and feeding
+back the response."
+ 
+The result is that a blind or vision-impaired person can use the system
+to plan their trip with real-time access to bus, train and tram timetables,
+as well as up-to-date information about roadworks and possible
+obstacles. The system can also guide them to their relevant public
+transport stop, inform them when the vehicle arrives and tell them
+where to get off. The idea is that it acts as a complement to rather than
+a replacement for a guide dog or white stick.
+ 
+NOPPA will be formally evaluated by blind and visually impaired
+users from August to September 2004. However, VTT says that the
+system is also suitable for guiding people with normal eyesight or
+people who travel a lot for their work. Although VTT isn't a
+commercial organisation, its research often forms the basis of
+marketable products and Vitanen is confident that the product has a
+commercial future. "I think that NOPPA will be in common usage in
+the next five to ten years," he says.
+ 
+ 
++03: UN Employment Programme Announced for Ethiopia.
+ 
+A training programme to create employment opportunities for people
+with visual disabilities in Ethiopia is set to be launched by the United
+Nations Educational, Scientific and Cultural Organisation (UNESCO -
+http://www.unesco.org).
+ 
+The programme will be delivered in partnership with the Adaptive
+Technology Centre for the Blind (ATCB -
+http://www3.sympatico.ca/tamru), an Ethiopian organisation which
+conducts training with adaptive technology for the country's vision-
+impaired community. According to its latest census figures, Ethiopia
+has some 500,000 blind people, while Africa has the majority of the
+world's 45 million blind people, according to the International Eye
+Foundation (http://www.iefusa.org).
+ 
+UNESCO and ATCB have been working together since 2003, when
+they jointly established a computer training centre for people with
+impaired vision in the Ethiopian capital, Addis Ababa. This latest
+project will set up an employment-oriented training centre for the
+visually impaired, develop a training curriculum and train at least 50
+people with a view to them gaining jobs using their ICT skills.
+ 
+The employment project is one of UNESCO's contributions to the
+realisation of the action plan drawn up by the UN's recent World
+Summit on the Information Society (http://www.itu.int/wsis), which
+highlighted the need for ensuring access to ICTs by disadvantaged
+groups. "ICTs offer individuals the ability to . . . access knowledge by
+adapting digital media to the nature of their disabilities and to enhance
+their social and economic integration in communities by enlarging the
+scope of activities available to them," said a UNESCO statement. It is
+hoped that these projects will act as a model for other similar initiatives
+in Africa.
+ 
+ 
++04: Satellite Audio Description Service to Cover All Channels.
+ 
+Vision-impaired users of the UK's satellite TV service Sky will soon
+be able to receive audio-described programmes across all mainstream
+channels, after the BBC, ITV and Channel 4 announced they are to
+begin supporting the service from early autumn.
+ 
+Until now, Britain's seven million Sky customers have only had access
+to audio description on Sky One, Five, and Sky's premiere Movie,
+Sports and Travel channels but they will now be able to receive audio
+described programmes on BBC1, BBC2, BBC3, BBC4, Cbeebies,
+CBBC, ITV1, ITV2 and Channel 4 by setting the set top box to
+"narrative" mode from the language menu.
+ 
+However, users of the service will not be able to alter the volume of the
+audio description - which will be audible to everybody in the room
+because there is no way of isolating it - meaning it could potentially be
+drowned out by other noise. RNIB campaigns officer for accessible
+information Julianne Marriot welcomed the development but said it
+was "a more cheap and cheerful method" than the fully accessible
+Netgem set top box (see E-Access Bulletin, issue 49, January 2004 and
+issue 51, March 2004).
+ 
+The RNIB is also continuing to campaign for an increase from 10 per
+cent of the government-set targets for the proportion of all programmes
+that are required to be audio-described. The institute is also calling for
+Sky to broadcast on the same system as the BBC-led digital terrestrial
+service Freeview in the future because it says it is technically superior,
+allowing users to listen to audio description using headphones and to
+adjust the volume. It is also trying to persuade cable platforms
+Telewest and ntl to provide audio-description through their set-top
+boxes.
+ 
+Meanwhile the broadcasting regulator Ofcom
+(http://www.ofcom.org.uk), has drawn up a draft code on subtitling,
+signing and audio description, due to be published later this month.
+The body has a duty under the 2003 Communications Act to encourage
+manufacturers to develop equipment which can be easily used by
+people with disabilities.
+ 
+ 
+++NEWS IN BRIEF:
+ 
++05: DIGITAL HOPE: The Digital Hope 2004 programme providing
+cash, products and facilities to non-governmental, educational and
+research organisations' technology projects benefiting disabled people
+is being launched in seven Asian countries by electronics firm
+Samsung:
+http://fastlink.headstar.com/hope1 .
+Meanwhile, Microsoft has teamed up with Indonesian welfare body
+Yayasan Mitra Netra to set up five computer training centres for the
+vision-impaired as part of a 8.7 million dollar scheme to raise
+computer literacy in Asia:
+http://fastlink.headstar.com/asia1 .
+ 
++06: ACCESSIBLE TELEPHONY: The Singapore Association of the
+Visually Handicapped is to implement an internet-enabled call centre
+accessible to vision-impaired workers. The system, developed with
+communications company Avaya Singapore and Radiance
+Communications, allows users to hear caller identity; determine which
+callers are on hold; and see how many calls are queued:
+http://www.savh.org.sg/news/article5.html .
+ 
++07: ACCESSIBLE PDA: An accessible handheld computer for
+vision-impaired users has been launched by Canadian assistive
+technology company VisuAide which uses text-to-speech technology
+and a tactile keyboard membrane over a touch screen. The 'Maestro' is
+said to be the first accessible handheld computer available on the
+mainstream and allows users to perform text and vocal note taking and
+Braille input among others:
+http://www.visuaide.com/news_maestro_en.html .
+ 
+[Section one ends].
+ 
+ 
+++Special Notice: Techshare 2004 Call for Papers
+- 18-19 November 2004, Jury's Inn, Birmingham, UK
+ 
+The RNIB's Techshare 2004 conference is an important event for
+professionals who are interested in technology and the role it plays in
+learning, work and society for people with sight problems.
+ 
+We are currently looking for people to give presentations in the
+following areas: Practical applications of technology; Innovation in
+education; Accessible web authoring; IT training; Broadcasting and
+digital information delivery; Mobile technology; Producing alternative
+formats; Technology in the workplace; Access to operating systems.
+ 
+If you are interested in presenting, please email techshare@rnib.org.uk
+for more information on the format of submissions. The closing date
+for submissions is 2 August.
+ 
+Speakers will be entitled to a reduced rate when registering for the
+conference of 130 pounds (or 95 pounds for one day). Speakers and
+delegates will also have the opportunity to have an informal exhibit at
+a 'Delegate's showcase' table in the conference coffee area at a cost of
+40 pounds per table per day.
+ 
+For further information including standard attendance prices, email
+techshare@rnib.org.uk or visit:
+http://www.rnib.org.uk/techshare .
+ 
+[Special notice ends].
+ 
+ 
+++Section Two: The Inbox'
+- Readers' Forum.
+ 
+Please email all contributions or responses to inbox@headstar.com .
+ 
++08: DOUBLE PLIGHT: DPM Weerakkody, Professor of Western
+Classics at the University of Peradeniya in Sri Lanka, writes in with
+advice for our recent correspondent who wrote asking for advice on
+affordable access products on behalf of a nurse whose 13-year-old son
+Rafail is blind.
+ 
+"The sad plight of Rafail is, unfortunately, the same plight of all
+vision-impaired people in the so-called 'Third World'," he says. "We
+are doubly handicapped by being blind as well as by being born in the
+Third World. We very much wish to be computer-literate, and there is
+no doubt that computers can contribute to our education and
+employment prospects. But we cannot afford the colossal sums
+required to buy the access software. I have a few suggestions for
+Rafail, but these may not be all that satisfactory.
+ 
+"First, obtain a demonstration version of [the screenreader] JAWS, or
+Window-Eyes, or HAL, which will allow him to use the computer for
+30 or so minutes at one time. Second, install Windows 3.1 and
+download JAWS 2.0 free of charge. Finally, there are some less
+expensive screen readers, such as Lookout, but I have not tried them,
+so I do not know how useful they are. There are also some Indian
+programmes which are either free or cost little. Obviously, all these
+suggestions have their drawbacks, and none of them may be totally
+satisfying."
+ 
+NOTE: For a feature by Professor Weerakkody on access to
+technology in the developing world see 'Divided we stand', E-Access
+Bulletin, issue 34, October 2002.
+ 
+ 
++09: MONEY TALKS: Further to our recent piece on accessibility
+issues with the new 'Chip and PIN' credit card system and many
+banks' failure to explain the alternatives, Clare Page writes: "I have
+just read [your] article about the problems with the alternative to typing
+in a PIN number when using a UK credit card. I am curious as to why
+there should be a problem with typing in a PIN number, or the need for
+an alternative.
+ 
+"Ever since I have lived in France, anyone here with a credit card has
+had a PIN number, which can be used in any place where the card is
+accepted. I use a French credit card myself, and when I type in my PIN
+number, the only problem I sometimes have is knowing where the
+button to validate it is: although the numbers on the keypads here are
+usually in the same order on every pad, the pads themselves are not
+standardised, so the "validate" button is not always in the same
+position.
+ 
+"So I am curious to know what prevents visually impaired British
+credit card holders from using their PIN numbers to make purchases as
+the French do?"
+ 
+And Amar Latif, Senior Financial Analyst at BT Global Services, has
+another query about accessible banking, as well as some valuable tips
+about how to make the banks do your bidding: "I am registered blind,
+and do not use Braille. The banks have said they can send out an audio
+cassette with my statement. However, I have told them that this is such
+an inconvenient medium.
+ 
+"Now that blind people use computers, it would be so simple to receive
+your statement on email. This way, it would be easy to analyse.
+However, they say this would be insecure. My answer to that has been
+that we don't need our account number on the email, just a list of
+transactions. They then say this is not technically possible, which I find
+very hard to believe. I have been chasing banks to provide this service
+for the past two years. I am getting very frustrated and wonder if
+something can be done collectively.
+ 
+"I receive my credit card statements on email. Even they had given me
+the same reasons as the banks, however, they do now provide the
+statement less the account details. I achieved this by running a 3,000
+pound balance on my credit cards, and then demanding that I needed a
+suitable medium to read my statement before paying them off. Now I
+receive this and it is wonderful.
+ 
+"Many banks mention that you can access their statements online.
+However, as we all know, it takes time logging onto the site, working
+out what you need to download and so on. If sighted people still
+receive their statements through their letterbox, then it is unfair that we
+have to go online; we need ours in our inbox.
+ 
+"Your views on how this can be taken forward would be very much
+appreciated. In addition, are you able to ask your readers if they would
+prefer this medium, to judge how many people may be in the same
+boat as me?" [Responses please to inbox@headstar.com].
+ 
+ 
++10: BRIDGE BUILDING: In a recent issue a reader asked for
+information on an accessible computer game  version of the card game
+Bridge, and our regular correspondent Chris McMillan writes: "I don't
+play bridge, sighted or otherwise, but I did a quick search [which]
+revealed an upgrade for a game called 3D Bridge Deluxe (see
+http://news.freeverse.com/archives/000417.php)."
+ 
+Chris also suggested that our reader contact Tom Lorimer of
+Whitestick, who "probably knows more about accessible games than
+anyone else in the UK. He certainly has written lots over the years
+himself. He also has links on his web site
+(http://www.whitestick.co.uk) to lots of other games sites and
+magazines."
+ 
+ 
++11: VALIDATOR DEFENCE: Bart Simons, Web Accessibility
+Specialist at the Belgian e-government solutions firm ASCii, writes in
+to defend the World Wide Web Consortium's HTML Validator
+(http://validator.w3.org/) which our reader Karina Gregory found
+"incredibly difficult to use" (see inbox, previous issue).
+ 
+He says: "I really don't see the problem here. I use that validator daily.
+I am blind and use JAWS. If a page is valid you know this by pressing
+'h' twice and you'll land on the message "this page is valid". If there
+are errors you just press 'l' to access the list of errors. The page can't
+be called inaccessible. I would point to the W3C WAI interest group
+(http://www.w3.org/WAI/IG/) if Karina likes to discuss this issue."
+ 
+ 
++12: AUDIO DEMAND: John Loader of DotSix Brailling Services
+writes in for information about audio versions of leaflets available on
+demand over the web. "I run a not-for-profit Braille, audio, large print
+and tactile diagram company and, with the advent of broadband, I feel
+that there is scope for organisations like councils, rather than get me to
+produce umpteen tapes for leaflets, newsletters and so on, to have a
+recording on their website for either audio streaming or straight file
+download. Is anyone doing this that I can consult on what is necessary?
+[Responses please to inbox@headstar.com].
+ 
+[Section two ends].
+ 
+ 
+++SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+ 
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+ 
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+ 
+[Special notice ends].
+ 
+ 
+++Section Three: Interview
+- Paul Blenkhorn.
+ 
++12: Life on the Front Line
+by Mel Poluck.
+ 
+Paul Blenkhorn, professor of assistive technology at the University of
+Manchester Institute of Science and Technology (UMIST), is no out-
+of-touch academic. His work at UMIST is practical and focused on the
+real world, like all his work in a 20-year career which has seen him
+create some of the most widely-used assistive technology tools in the
+world.
+ 
+Blenkhorn started his career in the early 1980s working with vision-
+impaired children as a research fellow at the Research Centre for the
+Visually Handicapped in Birmingham, now the Visual Impairment
+Centre for Teaching and Research (VICTAR -
+http://www.education.bham.ac.uk/research/victar). Together with a
+colleague Eamonn Fetton, now RNIB's director of education and
+employment, he drove a minibus to every school for blind children in
+the country, demonstrating software; gleaning ideas from teachers and
+pupils and helping to produce a termly newsletter for communication
+aids for disabled children.
+ 
+"In those days, there were two BBC Micros [a type of early desktop
+computer made by Acorn] per school: but it's not those sort of pioneer
+years any more," he says.
+ 
+Then in 1986, after leaving the Birmingham research centre, Blenkhorn
+created a piece of access technology history: "I started a company with
+a friend called Dolphin (http://www.dolphinuk.co.uk/)." He went on to
+design what have become some of the household names in the world of
+assistive technologies including the Apollo speech synthesiser and the
+screen-reader packages HAL and Narrator
+(http://fastlink.headstar.com/narrator1), of which the latter is now used
+in every Windows 2000 and Windows XP package, and is the
+invention of which Blenkhorn says he is most proud.
+ 
+On leaving Dolphin in 1991, he went back to academia and took up a
+post at UMIST, where he was made professor of assistive technology
+three years ago. During this time, he has worked mainly on assistive
+technology for people with a print impairment which covers those with
+dyslexia as well as those with a vision impairment.
+ 
+Blenkholrn's work spreads beyond the UK. Alva, the Braille devices
+company based in the Netherlands uses a Braille translation tool
+developed by Blenkhorn for their mobile phone.
+And he is currently working through UMIST with Spanish blindness
+organisation ONCE on a partnership project beginning in January
+called 'Red de solidaridad con los ciegos de América Latina (Red
+Social - 'solidarity network for blind organisations of South America')
+in  Columbia; Cuba; Guatemala; Mexico; and Peru. The scheme is
+designed to encourage people in those countries to use screen readers
+and other assistive technologies and to campaign to make them
+affordable. Software will be translated into Spanish and indigenous
+languages such as Maya.
+ 
+Last week, Blenkhorn met with representatives of the Association of
+the Blind of Prizren, Kosovo after the body received government
+funding for a project starting in August. He is planning the building of
+an Albanian screen reader.
+ 
+Having been in the business of assistive technology for two decades
+that have seen a particularly rapid rate of development, what does
+Blenkhorn see as the biggest changes in the field? "The biggest change
+reflects society and charities. For me, most of what I see out there is
+about business, not users: the focus has shifted. Everything now has a
+cost and not necessarily a value."
+ 
+In an attempt to redress the balance, and return control to the hands of
+users, Blenkhorn has set up a new company called Sensory Software
+(http://sonantsoft.com/sensory) whose 'LookOUT' screenreader sells
+in the UK for around 80 pounds compared with more usual
+screenreader costs of between 400 and 900 pounds. This and the
+company's other products are designed to be extremely simple, he
+says, since 95 per cent of people with low vision don't need very much
+in terms of different functions. In fact, the goal for him in designing a
+screen reader was to make the user interface straightforward. "There's
+a real need for simple, straightforward [products] for ordinary people
+to use. It's not about ivory tower research, it's about getting it out
+there."
+ 
+[Section three ends].
+ 
+ 
+++Special Notice: Test Your Site's Accessibility.
+ 
+Headstar, the publishers of E-Access Bulletin, is offering a range of
+independent, expert assessment packages to ensure your web services
+comply with best practice and the law. We can provide you with a
+clear, detailed report on the current access status of your site, and a list
+of tasks you will need to carry out to ensure compliance with
+government requirements.
+ 
+Reports also include results from general quality assurance tests such
+as link-checking. Taking accessibility action benefits all users, will
+make your site easier to maintain, and can improve your search-engine
+rating! Please note the service is tailored in particular to larger
+organisations with major web sites or services.
+ 
+For more information please email:
+access-consult@headstar.com .
+ 
+[Special notice ends].
+ 
+ 
+++Section Four: Opinion
+- Access to knowledge.
+ 
++14: The Weight of Evidence
+by Kevin Carey.
+ 
+Recent research by Zoe Neumann of the RNIB showed that people
+with impaired vision using web-based educational materials spend 70
+per cent of their time faffing about (my term, not hers) and only 30 per
+cent of their time directly using the resources (see E-Access Bulletin,
+issue 53, May 2004). This finding fits grimly with separate Disability
+Rights Commission research which found that of all disability groups,
+blind people show the lowest rates of task completion on the web at 53
+per cent, compared with an average for all disabilities of 76 per cent.
+ 
+Both these findings also fit with a third lot of research undertaken by
+Forrester for Microsoft which ranks 'Likelihood to benefit from the use
+of accessible technology by type of difficulty/impairment among
+computer users' (http://fastlink.headstar.com/forrester1). In the table
+for mild disabilities, people with impaired vision are ranked third
+behind manual dexterity and hearing but in the rankings for severe
+disability, vision-impaired people come top with 11.1 million people
+likely to benefit, with manual dexterity in second (6.8 million).
+ 
+I want to add only one piece of objective but unpublished data to this
+sorry tale: when I worked on research into the typographical reading
+preferences of vision-impaired teenagers (published in the article
+headed 'Size counts' in the British Journal of Visual Impairment,
+volume 17, 1999), of the group I observed in a further education
+college only one student read anything outside the set curriculum.
+ 
+So we can readily conclude from all this data that gathering
+information from the internet poses severe problems for people with
+impaired vision, and that these are compounded by difficulties with
+handling enlarged print. As for tape and Braille users, they may have
+all the facility in the world with their medium but the quantity of
+material available to them is pathetically low. I have just finished a
+part-time course which required the study of classic texts and modern
+interpretations; the former were all available, but the latter non-
+existent. The RNIB provided a brilliant service but the Braille and even
+tape resources available were paltry.
+ 
+In a society of conflicting needs and limited resources you have to ask
+whether the struggle is worth the effort. The answer has to be positive
+but, not for the first time, we should be discussing voluntary sector
+capacity rather than rights. There is not much point, other than the
+symbolic, in international organisations and national governments
+legislating ends but ignoring means.
+ 
+The one key conclusion I draw from all this data is that the government
+must at last begin to take seriously the task of facilitating information.
+As Vice Chair of RNIB I am reluctant to specify that we should be the
+agent of government funding for this purpose but there is now an
+overwhelming case for the voluntary sector as a whole in the field of
+vision impairment to work in partnership to provide appropriate and
+timely information.
+ 
+In the age of classic text, blind people could, with enormous effort and
+ingenuity, hope to compete with sighted peers in such areas as classics,
+literature, law, theology, philosophy and even some branches of
+theoretical science. At work they could hope to succeed in jobs where
+the frameworks and practices were stable over decades. But now all
+that has changed, and there have not been consequently radical changes
+in provision of support for them.
+ 
+Of course we will all continue to campaign for more accessible web
+sites, more inclusive e-learning and more market sensitive operating
+systems and software, but in parallel we need to campaign for in-sector
+facilitation. Without it, the gap between people with impaired vision
+and the rest of society will widen still further.
+ 
+NOTE: Kevin Carey is Director of HumanITy
+(http://www.humanity.org.uk).
+ 
+[Section four ends].
+ 
+ 
+++END NOTES.
+ 
++HOW TO RECEIVE THIS BULLETIN.
+ 
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+ 
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+ 
+Copyright 2004 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+ 
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+ 
+ISSN 1476-6337 .
+ 
+[Issue ends.]

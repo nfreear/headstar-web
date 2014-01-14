@@ -1,0 +1,676 @@
+E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site:
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for 
+the Blind
+<http://www.rnib.org.uk>
+the National Library for the Blind
+<http://www.nlbuk.org>
+and the Guide Dogs for the Blind Association
+<http://www.guidedogs.org.uk>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts.]
+
+ISSUE 16, APRIL 2001.
+
+IN THIS ISSUE:
+Section One: News.
+- Treasury banks on deafblind access; The 
+bulletin goes multilingual; Pret a porter; 
+Italian government site open for testing; 
+Internet users look back on radio days; 
+Cybersatirists wanted; quiet please: the RNIB 
+library goes online; News in brief: BT results, 
+drug talk.
+
+Section Two: Democracy
+- Electoral technology.
+
+Section Three: Mobile technology
+- Bluetooth.
+
+Section Four: News analysis
+- DERA.
+
+[Contents ends.]
+
+
+SECTION ONE - NEWS.
+
+
+TREASURY BANKS ON DEAFBLIND 
+ACCESS.
+
+A 0.5 million UK Pounds research project 
+into tactile Internet access began this week 
+with the backing of a three UK government 
+agencies.
+
+The project aims to create a computer 
+communication device unifying tactile mice, 
+gloves and screens with traditional deafblind 
+communication techniques of palm spelling, 
+tactile Morse code and 'tadoma', a way to 
+recognise speech with touch.
+
+Funding for the research comes from the 
+Treasury's 62 million 'Invest to Save' budget, 
+which was channelled through the 
+Department of Health to the Defence 
+Evaluation and Research Agency, which will 
+be overseeing the work.
+
+According to Maurice Bardsley at DERA, the 
+research secured funding partly because it 
+may help the government to reach its targets 
+for the provision of government services 
+online. A Treasury spokesperson said the 
+savings which Invest to Save required of 
+Invest to Save projects can be "savings in 
+terms of convenience," not just of public 
+money.
+
+The DERA team will collaborate with 
+researchers at the Sensory Disabilities 
+Research Unit at the University of 
+Hertfordshire 
+(http://phoenix.herts.ac.uk/SDRU/hmpage.ht
+ml); and Deafblind UK 
+(http://www.deafblinduk.org.uk), a charity 
+which plans to find deafblind people to test 
+the technology. Dr John Gill, who heads the 
+RNIB's scientific research unit, will sit on the 
+project's management board.
+
+* See also 'Special needs – the mother of 
+invention', section four, this issue.
+
+
+THE BULLETIN GOES MULTILINGUAL.
+
+This issue sees the launch of an Italian 
+language version of E-Access Bulletin, in 
+partnership with the Cavazza Institute in 
+Bologna.
+
+The concept is the brainchild of the institute's 
+director Mario Barbuto, who offered to 
+translate each issue and the necessary 
+subscription messages, and to help promote 
+the bulletin in Italy. The Cavazza Institute for 
+the Blind, founded in 1881, is one of Italy's 
+leading organisations in the field of blindness. 
+Its wide-ranging work includes education, 
+vocational training, the distribution of 
+technical devices, and Braille and talking 
+book production.
+
+The institute's Italian language web site is at 
+www.cavazza.it and information on the 
+Italian version of E-Access Bulletin including 
+an archive can be found at 
+http://www.cavazza.it/eab
+To subscribe, Italian readers simply send a 
+blank email to:
+eab-it-subs@headstar.com
+
+E-Access Bulletin is seeking partners in other 
+countries to create new language versions. 
+Partners will share copyright in their 
+language version, and be able to promote 
+their work through it. So if you represent an 
+organisation outside the UK working with 
+blind and visually impaired people, perhaps 
+you could help us produce our next version in 
+French, Spanish, Portuguese, Russian, 
+Norwegian, Swedish . . . the world's the 
+limit! Please email the bulletin's Dan Jellinek 
+on dan@headstar.com with your proposal.
+
+
+PRET A PORTER.
+
+E-Access Bulletin reader David Porter, who 
+is visually impaired, has sent in a query about 
+a hand-held device to help blind people select 
+clothes to wear without choosing clashing 
+colours, by emitting sound signals.
+
+"My interest is in something which would 
+enable totally blind people to find articles of 
+clothing electronically, which would enable 
+them to dress in appropriate colours or 
+shades", he says. "This would be a great 
+advance on sewing buttons to various 
+garments, so that they could be matched by 
+button combinations. Some time ago I heard 
+of the hand-held device and would like to 
+hear from anyone who may know anything 
+more about it". However, he adds that "even 
+when my sight was normal, I could never 
+match clothing colours which my wife said 
+were right!"
+
+If anyone has heard of such a device, please 
+email the editor on dan@headstar.com and 
+we will pass the information on to David.
+
+
+ITALIAN GOVERNMENT SITE OPEN 
+FOR TESTING.
+
+The Italian government has taken the 
+innovative step of opening up a test version 
+of its main web site for accessibility testing 
+ahead of its relaunch later this year.
+
+The test site, which has been publicised to the 
+Italian speaking blind and visually impaired 
+community through the World Wide Web 
+Consortium's accessibility initiative, is at 
+http://194.242.231.57 and can be accessed 
+using user name: 'wai' and password: 
+'demo'. It will eventually come online to 
+replace the one currently at 
+http://www.governo.it, 
+
+The move follows a directive from the Italian 
+government "inviting" all web designers who 
+are in a position to comply with W3C web 
+accessibility guidelines to do so – a 
+compromise wording after legislation forcing 
+accessibility was ruled out.
+
+
+INTERNET USERS LOOK BACK ON 
+RADIO DAYS.
+
+A new email discussion group has been 
+created to provide a platform for blind and 
+sighted people to reminisce about favourites 
+of radio.
+
+The group was started by Clive Lever of the 
+Visually Impaired Radio and Electronics 
+Society (VIRES), an organisation promoting 
+the use enjoyment of radio and electronics by 
+blind and visually impaired people.
+
+"If you get half-a-dozen blind people together 
+in a bar, within the first hour, the chances are 
+that some of them will be comparing 
+experiences of radio", Lever says.
+
+Recent topics discussed on the list range from 
+radio versions of Balzac's Old Goriot to Meet 
+the Huggets, a programme for children 
+broadcast on BBC Radio 2. To join in, send a 
+blank message to uk-radio-listeners-
+subscribe@yahoogroups.com
+
+
+CYBERSATIRISTS WANTED.
+
+Web designers with an axe to grind about 
+accessibility are invited to volunteer their 
+ideas and services to produce a web site 
+parodying the worst in commercial web 
+design.
+
+Once complete Joe Clark, the accessibility 
+guru behind the project, says that the site will 
+say to users: "After you're done laughing, 
+you can learn how we made what seems to be 
+a perfectly ordinary site completely 
+accessible."
+
+Since issuing his invitation to comedy coders 
+in late May, Clark has been sent a handful of 
+good ideas and had pledges of help from over 
+twenty designers, but he is still keen to enlist 
+more. To get involved email 
+joeclark@joeclark.org
+
+And to read more about Joe Clark see 
+http://www.joeclark.org
+
+
+QUIET PLEASE: THE RNIB LIBRARY 
+GOES ONLINE.
+
+Europe's most extensive research and 
+reference library on sight loss and blindness 
+went online this month. The resource is the 
+result of a collaboration between the National 
+Library for the Blind and the RNIB, which 
+contributed their classification systems and 
+publication archive respectively.
+
+Other libraries, such as the Canadian National 
+Institute for the Blind can also be accessed, 
+along with a wide range of electronic 
+resources.
+
+To visit the library, go to:
+http://www.rnib.org.uk/library/research
+
+
+NEWS IN BRIEF.
+
+BT RESULTS: The telecommunications 
+giant BT has recently completed a user 
+survey of the accessibility of its corporate 
+web site (http://www.bt.com). Results are due 
+in June - for more information email 
+disability@bt.com
+
+DRUG TALK: A gadget that can read labels 
+on medicine bottles is being tested by 
+Chicago's Hines Veterans Administration 
+Hospital and the Rush-Presbyterian-St.Lukes 
+Medical Center. The system, called 
+ScripTalk, is manufactured by En-Vision 
+America:
+http://www.envisionamerica.com/grst1.html
+
+[Section One ends.]
+
+
+SECTION TWO: DEMOCRACY
+- ELECTORAL TECHNOLOGY.
+
+VOTING IN PRIVATE - A BASIC HUMAN 
+RIGHT.
+By Tamara Fletcher  tamara@headstar.com
+
+If something good were to emerge from the 
+US election fiasco in Florida, it could be that 
+America takes a closer look at how their 
+voting system could be improved, including 
+new access facilities allowing people with 
+disabilities to vote, unaided, in the privacy of 
+their own booth.
+
+From September last year, Texas reluctantly 
+led the way with a law - forced through by 
+litigation lasting a decade - requiring that any 
+county in the state purchasing new voting 
+equipment had to buy machines that are 
+accessible to all. However in other states, 
+disabled or visually impaired people who are 
+not able to cast their own vote still have to be 
+accompanied by another person to verify or 
+cast the vote for them.
+
+In the UK, in the forthcoming general 
+election voters will benefit from new 
+legislation – the Representation of the People 
+Act 2000 - requiring that all polling stations 
+must use a 'tactile ballot template' to slot 
+over the ballot paper. Stations must also 
+display a large print copy of the ballot paper, 
+and a person requiring assistance in the 
+voting booth is now legally entitled to 
+second-person support.
+
+The tactile ballot template was developed in 
+consultation with organisations representing 
+the interests of the blind or visually impaired 
+including RNIB and launched by the Home 
+Office in March. The template will slot over 
+the ballot paper with raised numbers and 
+Braille to represent each candidate. The voter 
+will be able to lift the area of the template 
+next to the corresponding number to mark the 
+ballot paper and make his or her decision 
+privately.
+
+Research by the RNIB shows that 60 per cent 
+of blind or visually impaired people voted at 
+the last general election, compared with 71.5 
+per cent of the total UK electorate. More than 
+half of those that did not vote felt that it was 
+too difficult.
+
+The institute hopes that the figure will 
+improve this time around, although according 
+to Dermot Ryan, Campaigns Officer for 
+accessible information, there are still a few 
+problems associated with the new tactile 
+device.
+
+"While it's fantastic that the device has been 
+implemented, the Home Office have not 
+given any money to publicise it so many 
+people won't actually know about it", Ryan 
+said. "Many people who are visually impaired 
+don't look it and the use of the device in 
+individual polling stations depends largely on 
+the vigilance of the presiding officer 
+recognising them as such.
+
+"The device also has limitations as the 
+presiding officer will need to tell the voter 
+which number represents which candidate if 
+they are unable to see the large print posters."
+
+The Electoral Reform Society has similar 
+reservations.
+
+"The Home Office is progressing quite 
+slowly, which is disappointing", says Alex 
+Folkes, the society's Press and Campaigns 
+Officer. These are small steps in the right 
+direction – however many people will still 
+have to be accompanied".
+
+"Small moves are being made in one area but 
+not in others. It's a very serious issue – 
+people should be able to vote privately 
+unassisted. Having someone standing over 
+you is a disincentive to vote.
+
+"The Home Office seem to be offloading all 
+the responsibility on to the Electoral 
+Commission. I think there will be little 
+impact on this election. Hopefully, they will 
+look seriously at these issues for next time".
+
+The RNIB also seem optimistic about 
+changes for the election in 2005 or 2006. "We 
+imagine the next election will be very 
+different with a promotional campaign, more 
+people registering to vote by post and a move 
+towards electronic voting", Ryan says.
+
+At this year's general election a voluntary 
+survey will issued to the administrators and 
+returning officers so that the feedback can be 
+used by the Electoral Commission. One 
+question covers the effectiveness of the tactile 
+voting device.
+
+"The general consensus is that if everyone is 
+happy with it, it will probably stay as it is", 
+says Home Office spokesman Martin Ellis. 
+"Electronic voting has been considered but 
+obviously one factor is cost, although it has 
+not been ruled out."
+
+Scope, the national disability organisation 
+whose focus is people with cerebral palsy, is 
+to publish results of a nationwide survey of 
+polling stations across the country for the 
+Polls Apart 3 campaign. The website, 
+www.pa3.org.uk is due to go live shortly. 
+Scope are calling for disabled voters to 
+complete a survey after they have voted to aid 
+their research, and this will be made available 
+from this site.
+
+The RNIB has published a factsheet on voting 
+and will also be looking for feedback on good 
+and bad practice to help their campaign for 
+further improvements after the election. For 
+more information email 
+dermot.ryan@rnib.org.uk
+
+[Section two ends.]
+
+
+SECTION THREE: MOBILE 
+TECHNOLOGY
+- BLUETOOTH.
+
+A FAREWELL TO WIRES AND CABLES.
+By Kevin Carey  humanity@atlas.co.uk
+
+Bluetooth, named after the 10th century 
+Viking King Harald Blatand who united 
+Denmark and Norway, is a wireless 
+communications protocol set to revolutionise 
+the way blind people can access technology 
+in the home and office.
+
+Developed by the mobile phone giant 
+Ericsson and already adopted by such 
+companies as IBM, Microsoft, Nokia, 
+Motorola and Sony, it uses radio frequencies 
+to enable a wide variety of devices to 
+communicate with each other over short 
+distances.
+
+It expands the possibilities for devices to 
+interact with each other way beyond the 
+personal computer and its standard peripheral 
+devices so that telephones, computers, 
+consumer electronics, navigation systems and 
+security devices can all communicate without 
+the usual messing about with wires and 
+cables.
+
+In the office environment, Bluetooth will 
+scrap the need for cables between pieces of 
+equipment and make flexibility of ownership 
+and use much more practical. And because it 
+is radio-based there will be no need for the 
+'lines of sight' between equipment required 
+by infra-red systems.
+
+From the point of view of blind and visually 
+impaired people this means that interaction 
+will be easier between specially adapted kit 
+and the ordinary stuff in the office. It also 
+means that you will be able to avoid the 
+tedium of updating information in currently 
+incompatible devices like a Braille note-taker 
+and a mobile phone, so that if you update the 
+address book in your phone it will update the 
+note-taker simultaneously. This will mean it 
+is also much easier to change devices.
+
+At home it really will be possible for your 
+remote controller to drive everything from 
+your television to your cooker timer and your 
+curtains. The dream of the 'smart house' will 
+finally come true. This will be particularly 
+important for people who find moving around 
+difficult but it will also save a good deal of 
+dragging ones' hands across mucky surfaces 
+to find a cooker knob.
+
+Out and about it will now be possible for 
+phones to link efficiently with satellite 
+navigation systems so that it will be easier to 
+find out where you are and specify where you 
+want to go. At the macro level this means that 
+your mobile phone will be able to tell you to 
+within five metres where you are and at the 
+micro level, as the uptake of the technology 
+improves, you will also be able to find small 
+objects such as the door handle of a specified 
+shop.
+
+You will also be able to use your own hand 
+held device to interrogate public information 
+systems and operate a bank cash machine, 
+although for the next few years you will still 
+have to grab bank notes rather than down 
+loading digital money into your phone.
+
+Of course, you can put all this together so that 
+as you leave the office you can turn your 
+cooker on and as you stand on the platform 
+waiting for a train that never comes you can 
+turn it off again.
+
+One of the most important benefits for people 
+with low vision, particularly the elderly, will 
+be the reduction in learning required to access 
+new devices. Once you have learned how to 
+operate your remote controller, your handheld 
+personal assistant or your laptop you will be 
+able to run all your devices as long as they 
+are Bluetooth enabled. The mechanism is a 
+tiny chip attached to each device, together 
+with a couple of lines of enabling software 
+written into each operating system.
+
+For more information see:
+http://www.bluetooth.com
+and Ericsson's Bluetooth page is at:
+http://www.ericsson.com/Bluetooth/
+
+* Kevin Carey is Director of HumanITy 
+(http://www.humanity.org.uk)
+
+[Section three ends.]
+
+
+SECTION FOUR: NEWS ANALYSIS
+- DERA.
+
+SPECIAL NEEDS - THE MOTHER OF 
+INVENTION?
+By Phil Cain  phil@headstar.com
+
+The news of the UK government's Defence 
+Evaluation and Research Agency's 
+involvement in developing deafblind 
+technology (see news, this issue) may seem 
+surprising, but such interest is not 
+unprecedented and far from sentimental.
+
+DERA, smarting from cuts in defence 
+spending and in the throes of having much of 
+its operations semi-privatised, faces strong 
+pressure to turn brainwaves into bucks.
+
+Furthermore special needs have often inspired 
+some extremely lucrative inventions: Cassette 
+tapes were first designed to provide a medium 
+for talking books; Alexander Graham Bell 
+was moved to develop the telephone as a way 
+to communicate with his partially deaf wife; 
+Meanwhile, Josiah Wedgewood, the man who 
+gave his name to a world famous pottery, is 
+often said to have invented the revolutionary 
+kick-wheel to overcome a problem with his 
+leg. Some even contend that the idea of the 
+biro came about as a way to stop visually 
+impaired people knocking over inkpots.
+
+In July the Ministry of Defence is scheduled 
+to spin-off most of DERA's activities into a 
+company called QinetiQ (pronounced 
+'kinetic') Plc. This new company, though still 
+part-owned by the state, will operate on a 
+fully commercial basis. Meanwhile the 
+smaller military-research side of DERA will 
+change its name to the Defence Science and 
+Technology Laboratory but will remain under 
+MoD control.
+
+When the DERA demerger occurs DERA's 
+existing assistive technology projects, 
+including the newly funded deafblind project, 
+will fall under QinetiQ's control. Should a 
+product based on ideas arising from the 
+research catch on, either as an aid to 
+deafblind, or in a non-deafblind applications, 
+the potential profits from intellectual property 
+rights could be enormous. QinetiQ's military 
+background will mean it is well placed to 
+market its wares to both civilian and military 
+buyers, the latter being particularly generous 
+early adopters of new technology.
+
+There are many possible commercial spin-
+offs from tactile interfaces, since the need to 
+send messages in a tactile way can result 
+from social pressure and sensory overload, 
+not just from sensory impairment.
+
+A simple tactile feature is already built into 
+many mobile phones in the form of a 
+vibrating 'ring'. Some people are already 
+using this facility to transmit discreet phone 
+messages in Morse code, according to 
+BTexaCT Research (http://www.labs.bt.com).
+
+Similar modes of communication may also 
+find a place on the battlefield. Louis Braille, 
+the inventor of the Braille system, developed 
+the concept after learned a writing system 
+called 'night writing' invented by Charles 
+Barbier in the early nineteenth century for 
+communicating on the battlefield in the dark.
+
+DERA researcher Trevor Dobbins heads a 
+tactile interface project which aims to find 
+reliable tactile ways to relay navigational data 
+from a global positioning satellite. As part of 
+the research Dobbins equipped Steve 
+Cunningham with gadgets allowing him to set 
+the blind water-speed record of 70 mph in a 
+boat on lake Windermere in October last year 
+(see www.blindvision.co.uk). A month earlier 
+DERA's technology helped Graham 'G-
+Force' Hicks, a deafblind man, ride a pillion 
+jet ski from Lands End to the Isle of Scilly 
+(see www.deafblinduk.org.uk/text/quadbike). 
+
+From defence to derring-do, tactile 
+technology could be one of the secrets to the 
+success of the newly privatised QinetiQ.
+
+[Section four ends.]
+
+
+HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-
+mail eab-subs@headstar.com with 'subscribe 
+eab' in the subject header. You can list other 
+email addresses to subscribe in the body of 
+the message. Please encourage all your 
+colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe 
+eab' in the subject header.
+
+Please send comments on coverage or leads 
+to Dan Jellinek at: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. 
+http://www.headstar.com The Bulletin may 
+be reproduced in full as long as all parts 
+including this copyright notice are included. 
+Sections of the report may be quoted as long 
+as they are clearly sourced as 'taken from e-
+access bulletin, a free monthly email 
+newsletter', and our web site address 
+http://www.e-accessibility.com is also cited.
+
+PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  
+phil@headstar.com
+Reporter - Tamara Fletcher  
+tamara@headstar.com
+Editorial Advisor - Kevin Carey  
+humanity@atlas.co.uk 
+
+[Issue ends.]

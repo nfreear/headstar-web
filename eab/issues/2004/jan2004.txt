@@ -1,0 +1,615 @@
++++E-ACCESS BULLETIN.
+- ISSUE 49, JANUARY 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription
+details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 49 CONTENTS.
+
+01: Italian web law pulls down barriers
+- but rules strongest for public sector sites.
+
+02: 'Global garden' showcases accessible animation
+- rare example of 'Flash' children's game allowing text access.
+
+03: Long-awaited breakthrough for talking TV
+- Freeview launches affordable audio description.
+
+04: RNIB leads on progressive procurement policy
+- draft strategy examined by major government departments.
+
+News in brief: 05: Registration numbers - blindness statistics for
+England; 06: Views welcome - education consultation; 07:
+Maintaining momentum - European rallying cry. 08: Commission
+investigation - ombudsman lays down the law.
+
+Section two: 'The Inbox' - Readers' forum.
+09: Font wisdom - typeface query; 10: Musical resources - scores and
+dots; 11: Welsh voice - language products; 12: Talking phones -
+handset compatibility; 13: Screen correction - magnifier usability.
+
+Section three: Interview - Janina Sajka.
+14: One-woman army targets 'add-on' access culture: Mel Poluck talks
+to the American Foundation of the Blind's prolific research director
+about how technology firms have it all backwards; and the liberating
+potential of open source software.
+
+Section four: Conference report - Techshare 2003.
+15: Technology - help or hindrance? Adaptive products can be costly
+to buy and maintain, and that's before the costs and headaches of
+training are taken into account. Derek Parkinson reports on a lively
+debate at the recent international RNIB event.
+
+[Contents ends].
+
+
+++SECTION ONE: NEWS.
+
++01: ITALIAN WEB LAW 'PULLS DOWN BARRIERS'.
+
+The Italian government has passed new legislation designed to give
+people with disabilities greater access to online services. The
+so-called
+'Stanca law', which forces all Italian government agencies to make
+their web sites fully accessible and will develop non-compulsory
+access standards for private sector sites, was unanimously approved
+by the country's Parliament in December.
+
+According to a statement by Lucio Stanca, the Italian Minister for
+Innovation and Technologies, the new requirements will "help to pull
+down digital barriers and create opportunities for more than three
+million Italian disabled people to study, work and actively
+participate in society." He said that lack of ICT access for Italy's
+disabled people caused social marginalisation and democratic and
+economic disadvantage.
+
+In 1999, an Italian government circular was sent out encouraging
+local
+and central government agencies to ensure their web services were
+accessible. But the new law has gone much further by introducing
+disciplinary sanctions for public sector managers who don't comply.
+The law also provides for the cancellation of web site contracts if
+they fail to meet the Stanca requirements, in an echo of the US
+government web accessibility law known as 'section 508.'
+
+Citizens groups have welcomed the law, while expressing regret that
+its provisions are non-mandatory for private firms. "The law
+represents
+a real turning point," said a spokeswoman for the Citizens Defence
+Movement (Movimento Difesa del Citadino  - http://www.mdc.it).
+"However, it should be followed up with economic incentives for
+private web sites to be made fully accessible."
+
+The Italian government now plans to draft regulations defining the
+new accessibility criteria by March 2004 in co-operation with disability
+organisations and technology suppliers.
+
+
++02: 'GLOBAL GARDEN' SHOWCASES ACCESSIBLE ANIMATION.
+
+A ground-breaking children's web site which has been created using
+accessible 'Flash' web animation could set a new trend for accessible
+games and cartoons, according to the RNIB (http://www.rnib.org.uk).
+
+'Our Global Garden' is a collaboration between Eureka!
+(http://www.eureka.org.uk), a children's museum in Halifax, and
+'showme' (http://www.show.me.uk), the children's section of the
+government's online cultural resource the 24-Hour Museum
+(http://www.24hourmuseum.org.uk). The site mirrors a current
+exhibition at Eureka! By allowing children aged between four and
+seven to explore and compare six different global environments.
+
+The game was built using a combination of HTML and accessible web
+animation software Flash MX 2004, developed by Macromedia
+(http://www.macromedia.com). The software allows access to
+descriptive text within an animation file which can be interpreted by
+assistive devices such as screen readers.
+
+"This is an exciting development," says Julie Howell, digital policy
+development officer at the RNIB. "Over the past few years,
+Macromedia has modified its software tools to make them more
+accessible [see for example E-Access Bulletin, issue 10, October
+2000]. However, best practice examples of using accessible flash to
+create web sites are few and far between."
+
+Howell hopes that projects such as this will help galvanise the web
+design community to experiment with the technology. "It is easy for
+web designers to think that accessibility means creating uninspiring,
+text-only sites. However, this project proves that this isn't the
+case. We need web designers to start experimenting with accessible
+Flash, sharing their learning experiences and creating best practice
+examples of accessible, interactive web development."
+
+
++03: LONG-AWAITED BREAKTHROUGH FOR TALKING TV.
+
+Accessible digital TV in the UK took a leap forward this month with
+the release of an affordable set-top box that provides audio
+description for Freeview, the popular free-to-air digital service
+used by terrestrial broadcasters ITV and the BBC.
+
+Audio description is the verbal description of scenes that occur
+between periods of dialogue, which can be carried as a separate
+sound-track on digital television or in specially adapted cinemas.
+Until now, it has only been commercially available through the Sky
+digital satellite service. It is not supported at all by cable TV
+and was only previously available on Freeview to just 45 households
+as part of a pilot project.
+
+The Netgem i-Player product costs 125 pounds and provides access to
+all audio described programmes available on six BBC channels; ITV1
+and ITV2; Channel 4; and Channel 5. "At last! This is very good news
+and something for which we've been campaigning for a long time,"
+said Jill Whitehead, broadcasting and talking images officer at the
+RNIB.
+
+The Freeview service offers users more choice because it enables
+users to adjust the volume of the audio description track
+independently of the programme's main soundtrack, unlike the Sky
+system. The Netgem box also speaks the name of each channel
+automatically, and will soon be available with a headphone adaptor
+so users have the option of listening to audio description in privacy.
+In addition, the box provides a link to the RNIB website so that
+users can check programme times.
+
+At present, the Netgem i-Player is not available in shops and must be
+ordered from the manufacturer by calling the freephone number
+0800 015 3092.
+
+
++04: RNIB LEADS ON PROGRESSIVE PROCUREMENT POLICY.
+
+The RNIB has drafted a policy setting out standards for organisations
+and companies to procure IT systems fully accessible to employees
+with vision impairments, and has adapted the policy for its own
+procurement practice, the institute announced this month.
+
+The policy says accessibility must be taken into account when
+procuring corporate IT systems and emphasises the business benefit to
+the supplier. "The RNIB want to people to use best practise when
+procuring IT so employees with a disability can use it," RNIB's
+senior ICT development officer Ruth Loebl told E-Access Bulletin.
+
+Under the policy, the RNIB is using International Standard
+Organisation ISO standard 16071 (http://fastlink.headstar.com/iso1)
+to test a corporate IT system about to be rolled out to users within
+theRNIB to check its accessibility, such as the ability to perform
+tasksfrom the keyboard. A report will then be made of problems
+encountered before negotiating with the supplier to ensure they act
+on the problems, Loebl says.
+
+In an effort to encourage other large organisations to develop
+similar policies, the RNIB and several other disability organisations
+including AbilityNet, RNID and Scope met before Christmas with
+representatives of a number of government departments, including the
+Department of Work and Pensions and the Department of Trade and
+Industry.
+
+Following this meeting, an online discussion group "IT-include"
+(http://groups.yahoo.com/group/IT-include/) was established to
+discuss setting up a framework for accessible IT procurement in all
+sectors and
+recommending testing and evaluation methods. Further talks have
+taken place this week with the government procurement agency the
+Office of Government Commerce.
+
+Up until now, no standards have been in place for ensuring the
+accessibility of corporate IT systems, although according to Loebl,
+if a
+system needs adapting to suit a disabled employee, the Employment
+Service's 'Access to work' scheme pays for the work. However, an
+accessible IT procurement policy is important because, unlike with a
+web site, improving inaccessible hardware after it is purchased is
+often difficult and expensive.
+
+
+++NEWS IN BRIEF:
+
++05: REGISTRATION NUMBERS: There are 157,000 blind and
+partially sighted people registered with English local councils,
+according to the latest figures from the Department of Health. The
+figures represent an increase of four per cent since last year, and
+100 per cent over the past 20 years:
+http://www.doh.gov.uk/public/blindpartiallysighted03.pdf .
+
++06: VIEWS WELCOME: A draft equality and diversity strategy for
+2004-07 that aims to challenge discrimination in education and
+learning has been published for consultation by the Learning and
+Skills Council. Interested parties have until 30 March to comment:
+http://fastlink.headstar.com/lsc1 .
+
++07: MAINTAINING MOMENTUM: The European Parliament
+member and disability campaigner Liz Lynn has said too many EU
+countries have not yet complied with legislation protecting people
+with disabilities against discrimination in the workplace. She has
+urged the
+Irish government, which currently holds the European presidency, to
+exert pressure on laggard nations in an effort to maintain the ideals
+of the 2003 European Year of People with Disabilities:
+http://www.lizlynne.org.uk/story.php?id=175 .
+
++08: COMMISSION INVESTIGATION: The European ombudsman
+P. Nikiforos Diamandouros, who has independent powers to
+investigate alleged maladministration by European institutions, has
+launched an investigation into the European Commission's compliance
+with European disability law. The Commission must now respond by
+29 February with details of actions it has taken or proposes to take:
+http://www.euro-ombudsman.eu.int/disabilities/en .
+
+[Section one ends].
+
+
+++SPECIAL NOTICE: USABILITY TESTERS WANTED
+
+Headstar, the publishers of E-Access Bulletin, is seeking
+computer users who use special access or adaptive technologies
+such as screen readers, for paid web site testing work.
+
+The occasional work would involve visiting web sites and filling
+in a simple questionnaire about your experiences (we can provide
+questionnaires in any preferred digital or other format).
+
+If you might be interested in this kind of work, please email
+usability@headstar.com with details of the access technology or
+technologies that you use to browse the web, and we will contact
+you with further information.
+
+[Special notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+- Please email all contributions or responses to inbox@headstar.com .
+
++09: FONT WISDOM: John Conway, Disability Officer at the Royal
+Agricultural College, has a query about the best fonts to use for
+readable text. "I understood that for visually impaired people one
+should use a sans serif font - I'm about to try and introduce that
+standard here, and I've got my computer set to Arial as default font,
+but your accessible text email newsletter (TEN) standard document
+(http://www.headstar.com/ten) opened in Times New Roman." Do any
+of our readers have any comments on this topic? [Responses please to
+inbox@headstar.com].
+
+
++10: MUSICAL RESOURCES: Last issue Scott Rae of the Highland
+Society for Blind wrote in to ask about technology that would help
+young people with impaired vision read sheet music.
+
+Our tireless correspondent Chris McMillan has three further
+suggestions for useful resources. The first is the Netherlands-based
+Talking Music project, which runs the excellent Accessible Music
+Newsletter:
+http://projects.fnb.nl/Talking%20Music/ .
+
+The second is the Visually Impaired Musicians Association (VIMA),
+an organisation of blind and partially sighted musicians and music
+lovers - in the UK telephone 0208 3666019 or see:
+http://fastlink.headstar.com/vima1 .
+
+And the third is Share Music, an organisation which arranges
+residential and non-residential courses in music, theatre and dance
+for  people with physical disabilities or sensory impairments aged 16
+or over:
+http://www.sharemusic.org.uk .
+
+Bill McCann, Founder and President of Dancing Dots Braille Music
+Technology, further responded: "Of course, Louis Braille himself
+invented his code for music as well as literary and mathematics
+Braille (try getting all of that done by the time you're 20 years
+old!).
+
+"In 1997 Dancing Dots published the world's first Braille music
+translator software, GOODFEEL, which has numerous transcription
+options including a set of UK formatting options that apply UK
+variations to the Braille output. We publish a few courses on Braille
+music reading and our UK distributor, Techno-Vision Systems, is to
+release a new Braille music course for UK readers.
+
+"Our Sibelius Speaking product gives the JAWS user premium access
+to the Sibelius music notation software, allowing a blind person to
+navigate through the score and hear musical and verbal descriptions of
+score elements or create a new score. Students might also be interested
+to create their own sound recordings with our access solution for
+Cakewalk SONAR which we call CakeTalking.
+
+"For further information on all these products see
+http://www.dancingdots.com and to contact Techno-Vision email
+info@techno-vision.co.uk ."
+
+Another reader, Chris Towers, adds: "Have you tried using the
+software Cubase from Steinberg (http://www.steinberg.net/en/start)? I
+used it when doing my degree and it was excellent. I am partially-
+sighted and it enabled me to enlarge music, and read off screen or
+print it out."
+
+
++11: WELSH VOICE: Rebecca Redmile, a daily living skills instructor
+and community access facilitator at the non-profit organisation
+BALANCE in Toronto (http://www.balancetoronto.org), has a question
+following from our article last month on new synthetic speech
+technology allowing access to magazines and newspapers (see
+'Revolutionary speech technology to launch', story 01, E-Access
+Bulletin issue 48, December 2003).
+
+She writes: "I certainly applaud the British reading services. North
+America is a little behind in this area. [However] I have a very
+specific question which you may be able to answer.
+"I have been looking for software, or an external screen reader which
+will read Welsh properly. Would you know who might be able to
+recommend some?" [Responses to inbox@headstar.com].
+
+
++12: TALKING PHONES: Clare Page writes in to ask for more
+information on talking mobile phones: "Within the past few months I
+have noticed that the new Talx software, which brings speech output
+to mobile phones, has been mentioned in the bulletin more than once. I
+live in France, and have bought a mobile phone here, but of course
+with modern mobile phones there are some features visually impaired
+people like me cannot use without some adaptation. So I was
+wondering - is Talx compatible with all mobile phones, or only with
+certain models? And if it can be used with any phone, might it be
+possible to obtain it outside the UK?
+
+"I have only recently bought a new mobile phone, a Sagem
+(http://www.sagem.com/en) with a lot of modern features but without
+some means of adding speech to the phone I cannot use them all. In
+France I have only heard of one program that seems to be similar to
+Talx, called Mobile Accessibility, but it is only compatible with
+certain Siemens and Nokia phones." Please send advice or information
+to
+inbox@headstar.com .
+
+
++13: SCREEN CORRECTION: In our last issue we reported that Chris
+McMillan had used ZoomText with the TFT iiyama AS 4611 UT 18-
+inch flat computer screen without encountering problems; in fact we
+should have said it was Lunar, not ZoomText, that she has used
+without difficulty with this screen. She has not tried using ZoomText
+with it.
+
+[Section two ends].
+
+
+++ SECTION THREE: INTERVIEW
+- JANINA SAJKA.
+
++14: ONE-WOMAN ARMY TARGETS 'ADD-ON' ACCESS CULTURE.
+by Mel Poluck mel@headstar.com .
+
+Janina Sajka, director of research and development at the American
+Foundation of the Blind, is dismayed by the culture of "add-on"
+accessibility which prevails among technology companies that develop
+products that later have to be adapted for vision-impaired users.
+
+"I firmly believe they have it backwards. By working with people with
+disabilities at the outset, they would end up making better products
+for themselves", she says. "I am increasingly concerned about how much
+further there is to go, how much accessibility is still ghettoised,
+how much it is not integrated into the mainstream flow of how services
+are supplied."
+
+Sajka's work involves providing consultative support to and
+developing accessible technology standards for industry and
+governments worldwide, in the fields of emerging information systems
+and access technologies.
+
+One of the projects she is currently undertaking, is the development
+of a strategy for vision-impaired people in the US to be able to access
+medical information from mobile phones using technology from the
+DAISY talking books consortium (http://www.daisy.org), for whom
+Sajka also works.
+
+The new medical information service would provide content similar to
+free pamphlets available in doctors' surgeries, such as how to obtain
+medicines or how to get more information, and uses existing
+technology - something Sajka feels passionately about. The concept
+has been proven she says, and all that remains is for her team to
+meet with the relevant government department to discuss implementation.
+
+According to Sajka, there are some serious usability issues inherent
+in audio cassette recordings, the current method for vision-impaired
+patients to access this kind of information. With DAISY style
+recordings however, users can go directly to the relevant place
+without having to use the rewind and fast-forward buttons or listen to
+the lists and "shrieking beeps" that denote sections of an audio cassette,
+often requiring the user to remember multiple options. "Why have lists at
+all?" Sajka says. "Why not do it on a cellphone? It's snappy. It's a
+way to get the information you need now, comfortably and effectively".
+
+Sajka has fingers in many other pies. As well as advising the US
+government on accessibility law and helping it to develop a digital
+talking book standard (http://www.loc.gov/nls/z3986/), she also works
+for the world wide web consortium's web accessibility initiative (WAI
+- http://www.w3.org/WAI/).
+
+And as if these projects were not enough, Sajka says for the next few
+years, she will be focusing her energy on chairing the Free Standards
+Group (FSG - http://www.freestandards.org) access work group, which
+aims to help develop accessibility standards for open source
+software.
+The group is set to be launched at the LinuxWorld conference on 27
+January in New York (http://www.linuxworldexpo.com/linuxworldny).
+
+The potential of the open source movement to make the internet a more
+accessible place is one of Sajka's real passions. In a past interview
+with E-Access Bulletin (see issue 24, December 2001), Sajka said that
+thanks to the open source movement people with disabilities now
+"don't need advocates, we need engineers."
+
+She still feels the same way: "With traditional proprietary systems,
+if the computer isn't working, you ask who manufactured it, call them
+and then sort out the problem," she says. "But open source invites
+the community in. Everything you need to change it is already there - you
+can scratch your own itch. And if someone wants to submit a standard
+or a patch and it works, it is likely that will be included in a
+future version of a piece of software."
+
+Overall however, it is not access to computers which concerns her in
+trying to improve the daily lives of people with impaired vision but
+more basic, established technologies such as thermostats or security
+systems. "I'm not too worried about computers, but common devices
+are just not accessible."
+
+Typically, Sajka has a solution brewing. In the pipeline as part of
+her work with the International Committee for Information Technology
+Standards is the 'V2 Spec' (http://www.v2access.org). This is the
+specification for a universal device to be carried by disabled people
+to discover what other devices are in an area.
+
+The 'Universal remote console', will detect and "negotiate" with a
+wide range of objects in the user's vicinity to return information
+about what is nearby, from TV and radio to lifts, roads or coffee
+pots. In future, the device may even be able to determine distance
+of other devices away from its user. To succeed, Sajka says, it will
+need to be attractive to mainstream industry. A specification is due
+to be released for public consultation in around a month.
+
+Overall, Sajka says that what is needed to build a better
+technological environment for people with disabilities is simple:
+"A smarter way to use things we share with everybody else. We've made
+wheelchair ramps - we can do the same in e-space".
+
+[Section three ends].
+
+
+++SECTION FOUR: CONFERENCE REPORT
+- TECHSHARE 2003.
+
++15: TECHNOLOGY - HELP OR HINDRANCE?
+by Derek Parkinson
+
+Most of us have pinned great hopes on technology at some time or
+another. It's easy to dream of gadgets that will dispatch boring
+tasks with the ruthless efficiency of The Terminator and be as
+user-friendly
+as a well-worn pair of shoes. Happily, sometimes things do turn out
+this way, but all too often the reality disappoints.
+
+The topic of whether technology has helped or hindered people with
+impaired vision was therefore an excellent subject for the RNIB's
+November Techshare conference (http://www.rnib.org.uk/techshare) to
+have chosen for an open debate. According to keynote speaker Brian
+Charlson of the American Council of the Blind (ACB -
+http://www.acb.org), adaptive technology is often designed and built
+in a way that ignores the practical demands of everyday life.
+
+The effect of this is that adaptive technology often makes
+unreasonable demands of the user. "We're just regular schmoes like
+everyone else, but we have no choice but to master all this
+technology," he said.
+"It's well-known that many telephone operators were blind people,
+because this was one of the few jobs open to them. But what these
+people had to do was actually very difficult, operating a Braille
+output with one hand, a Braille input with the other, while listening
+to audio over the headphones at the same time," he said.
+
+It is difficult enough for many people to meet the cost of adaptive
+products, upgrades and maintenance, Charlson said, yet they also have
+to meet the cost and demands of training, not to mention finding
+decent training in the first place. "The cognitive load of adaptive
+technology is unreasonable," he said.
+
+The thought that technology only benefits a minority of people
+resurfaced during a lively debate chaired by Newsnight presenter
+Jeremy Paxman. "Many of us agree that we have benefited from
+technology, but who is this 'we'? This room is full of well-educated
+caucasian people," said Janina Sajka, Director of Technology Research
+and Development at the American Foundation for the Blind (see also
+section three, this issue for an interview with Sajka).
+
+According to Peter White, presenter of the BBC Radio 4 blindness
+issue programme 'In Touch', we often forget that technology is a
+means to an end. "People don't want technology, they want answers to
+problems," he said. White also argued that the momentum behind the
+implementation of new technology often has more to do with saving
+money than the needs of users. "It has been used to get rid of costs,
+in other words face-to-face contact between people," he said.
+
+Charlson said that training for adaptive technology must be more
+affordable, useable and available, not only at the time of its
+original purchase but over the entire time it is in use. In his view,
+we have been
+slow to encourage development of alternatives to the face-to-face
+training model. "We have to ask whether online learning is part of
+the answer," he said. This is not to say that face-to-face training
+should be scrapped, rather that teaching resources could be targeted
+more wisely.
+
+Training materials would also reach more end users if they were
+distributed to a broader cross-section of teachers, he said. "We need
+more training materials for teachers who aren't assistive technology
+specialists."
+
+The theme of partnership featured strongly in a keynote presentation
+from Rob Lees, technology executive for Vodafone Global Products
+and Services. Lees was keen to highlight the mutual benefits to
+Vodafone and the RNIB of partnering to share expertise, and to
+illustrate how the organisations could pursue common aims in
+practice.
+He was quick to acknowledge that market share and profits are the
+main drivers for the mobile phone giant, but suggested that the
+community of people with impaired vision has much to gain too.
+
+According to Lees this comes about because of the way markets tend
+to get split up by  retailers. For Vodafone, all people aged over 45
+are lumped together as "mature users", a segment that remains under-
+exploited yet tends to have a high disposable income. In addition, a
+high proportion of this age group have some kind of vision
+impairment. "So there is a strong demand for voice-enabled services,
+the sort of phone that can be customised to individual needs," said
+Lees. Consequently, Vodafone has consulted the RNIB for evaluation
+and feedback on such services, and is keen to use its power in the
+marketplace to ensure that handsets support them. "With 125 million
+customers we can put pressure on handset manufacturers," he said.
+
+Such practical suggestions were typical of the Techshare meeting,
+which seems to gain strength each year and has already become far
+more than a showcase for new products and a rallying point for
+campaigners.
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as
+'taken from e-access bulletin, a free monthly email newsletter', and
+our web site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

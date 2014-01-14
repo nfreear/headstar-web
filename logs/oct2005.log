@@ -1,0 +1,53 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:57:59 2005 __
+
+Input file: ../eab/issues/2005/oct2005.txt
+
+Warning: file already exists: ../eab/issues/2005/oct2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: oct | index: 10 | year: 2005
+URLs, prev: ../2005/sep2005.html | next: ../2005/nov2005.html
+Found ++, heading 2: Special Notice: e-Democracy '05
+Found ++, heading 2: Issue 70 Contents.
+>> FOUND 2:  | 01:  | Employers 'Ignorant of Technology Access Issues'
+>> FOUND 2:  | 02:  | Blunkett Announces New Disability Agency
+>> FOUND 2:  | 03:  | Latest Version of JAWS Compatible With Firefox
+>> FOUND 2:  | 04:  | European E-Accessibility Communication Is 'Waste of Time'
+>> FOUND 2:  | 05:  | Digital Guide - Swiss navigational device; 06: PDF Converter -
+>> FOUND 2: audible access to files;  | 07:  | Moving Experience -screen reader for
+OK, News in brief
+Found: audible access to files;  | 07:  | Moving Experience -screen reader for
+>> FOUND 2:  | 08:  | External Input - web site contributor query; 09: Colour Theory -
+>> FOUND 2: colour blindness test;  | 10:  | Political Debate - parliamentary audio book
+Found: colour blindness test;  | 10:  | Political Debate - parliamentary audio book
+>> FOUND 2:  | 11:  | Reviving The Wow Factor: A survey of delegates at our recent e-
+>> FOUND 2:  | 12:  | A Waste of Communication: Kevin Carey on why he feels a new
+Warning line 71: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Special Notice
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Employers 'Ignorant Of Technology Access Issues'.
+Found 'contents' match: 0.
+> ITEM 2:  03:  | Latest Version of JAWS Compatible With Firefox.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | European E-Accessibility Communication Is 'Waste of Time.'
+Warning: not found a 'contents' match: European E-Accessibility Communication Is 'Waste Of Time.'
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A handheld computer for outdoor navigation has
+> ITEM 1:  06:  | : |  Software allowing Adobe PDF documents to be
+> ITEM 1:  07:  | : |  Screen reader software for Windows-based
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  08:  | : |  Judyth Mermelstein from Quebec in Canada
+> ITEM 1:  09:  | : |  John Starbuck, from the corporate ICT
+> ITEM 1:  10:  | : |  Mary Zaccai from Quadrant Media and
+Found ++, heading 2: Section Three - Accessibility
+> ITEM 2:  11:  | Reviving The Wow Factor
+Warning: not found a 'contents' match: Reviving The Wow Factorby Mel Poluck.
+Warning, replacing non-ASCII character 224 (line 387, 63): amount of ignorance as to what legal obligations there are vis-&#224;-vis
+
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Found ++, heading 2: Section Four - Europe
+> ITEM 2:  12:  | A Waste Of Communication
+Warning: not found a 'contents' match: A Waste Of Communicationby Kevin Carey
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.

@@ -1,0 +1,56 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:03 2005 __
+
+Input file: ../eab/issues/2005/apr2005.txt
+
+Warning: file already exists: ../eab/issues/2005/apr2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: apr | index: 4 | year: 2005
+URLs, prev: ../2005/mar2005.html | next: ../2005/may2005.html
+Found ++, heading 2: Issue 64 Contents.
+>> FOUND 2:  | 01:  | A Quarter of Council Sites Make False Accessibility Claims
+>> FOUND 2:  | 02:  | Commercial Sites Lack Guidance on Accessibility
+>> FOUND 2:  | 03:  | Kurzweil Predicts Accessible Future
+>> FOUND 2:  | 04:  | US Supermarket tests Robotic Guide
+>> FOUND 2: News in Brief:  | 05:  | Strain Solution -  workplace guidance; 06: Talks
+OK, News in brief
+Found: Strain Solution -  workplace guidance | ; |  06: Talks
+>> FOUND 2: Two - mobile update;  | 07:  | Arabic Honours - student success.
+Found: Arabic Honours - student success | . | 
+>> FOUND 2:  | 08:  | Device Advice - age concern; 09: Research Request - users needed;
+>> FOUND 2:  | 10:  | Statement Views - bank update; 11: Braille Dispute - teaching aid;
+>> FOUND 2:  | 12:  | Musical Access -  translator search; 13: Tactile Tactics - accessible
+>> FOUND 2:  | 14:  | Accessible Technology is Not Science Fiction: exciting new work
+>> FOUND 2:  | 15:  | Claims and Counter-Claims: The RNIB's expert testers found that
+Warning line 50: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | A Quarter of Council Sites Make False Accessibility Claims.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Commercial Sites Lack Guidance On Accessibility.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Kurzweil Predicts Accessible Future.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | US Supermarket Chain tests Robotic Guide.
+Warning: not found a 'contents' match: Us Supermarket Chain Tests Robotic Guide.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A CD that advises on how to avoid stress, back,
+> ITEM 1:  06:  | : |  The second version of the screen reader for mobile
+> ITEM 1:  07:  | : |  The first batch of students on a course teaching
+Found ++, heading 2: Special Notice: E-Government for All: Planning for Accessibility
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  08:  | : |  Alan P. Magson, IT Project Coordinator at Age
+> ITEM 1:  09:  | : |  "I am currently studying for a Masters degree
+> ITEM 1:  10:  | : |  The debate on accessible bank statements
+> ITEM 1:  11:  | : |  "I am a
+> ITEM 1:  12:  | : |  The Inbox has received a request from Marta
+> ITEM 1:  13:  | : |  Allen Hoffman from the Section 508 project at
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Three - Conference Report
+> ITEM 2:  14:  | Accessibility Is Not Science Fiction.
+Warning: not found a 'contents' match: Accessibility Is Not Science Fiction.By Derek Parkinson
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Four - Research
+> ITEM 2:  12:  | Claims and Counter-Claims
+Warning: not found a 'contents' match: Claims And Counter-Claimsby Dan Jellinek
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.

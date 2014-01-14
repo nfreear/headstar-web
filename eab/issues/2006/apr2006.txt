@@ -1,0 +1,667 @@
++++E-ACCESS BULLETIN.
+- ISSUE 76, APRIL 2006.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+Sponsored by RNIB ( http://www.rnib.org.uk ).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 76 Contents.
+
+Section One: News.
+
+01: MyGuide Portal Prepared For Launch
+- new phase for government's web inclusion plan.
+
+02: Free IT Skills Training Launches Across The UK
+- EyeT4All Goes Live.
+
+03: Art Gallery Wins Major Web Accessibility Award
+- Tate Modern's i-Map comes up trumps.
+
+04: Inaccessibility Will Create 'Second Class Citizens,' Says MP
+- Ann Widdecombe launches IT training scheme.
+
+News in Brief: 05: Windows Explained - software guides; 06:
+Feedback Request - views on digital book samples; 07: Digital Europe
+- inclusion policy meeting.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Vacancy Feedback - assistive technology job sources; 09: Radio
+Wave - more on accessible two-way radios; 10: Price Slash - assistive
+technology costs; 11: Web Wise - guidelines for Lithuanian request;
+12: Size Settings - taming Internet Explorer.
+
+Section Three: Opinion - Accessible Gaming
+13: Adventures In Endless Soundscapes: Founder of US-based BSC
+Games Justin Daubenmire looks at the challenges for small accessible
+games companies and hints at future developments.
+
+Section Four: Focus - IT Procurement
+14: How To Buy Software And Not Break The Law: Six years ago a
+consortium of councils set out to work with the creators of a leading
+piece of software to make it more accessible, and now they have
+succeeded. Ruth Loebl reports on how they managed it, and the lessons
+learned.
+
+[Contents ends].
+
+
+++Sponsored Notice: QAC Sight Village 2005
+- Birmingham, UK
+- 18-20 July 2006
+
+The latest in cutting edge technology for people who are blind or
+partially sighted will be on show this July at Sight Village at Queen
+Alexandra College in Birmingham.
+
+Now in its thirteenth year, the event includes presentations covering
+tactile graphics and employment as well as panel discussions and high
+quality displays from companies and organisations from around the
+world and from all over the UK. Sighted guides and tactile maps will
+be available for delegates.
+
+Registration for this major international exhibition is free. For details
+and to register go to:
+http://www.viewplus.com/sightvillage-registration/
+
+[Sponsored Notice ends].
+
+
+++Section One: News.
+
++01: MyGuide Portal Prepared For Launch
+
+Tests have begun on MyGuide, a new portal that helps people with
+little experience of the internet start to use email, search for
+information and browse web sites. The six month tests will gather
+feedback from user groups likely to be "digitally excluded", such as
+vision impaired people and the elderly.
+
+MyGuide is being tested in Leicester, Blackburn, Gloucester, Kings
+Lynn and Wisbech, Southwark and Lambeth with the aim of tackling
+any remaining design flaws, and gaining valuable feedback about how
+useful the service is. The trials are being run by University for Industry
+(UfI - http://www.ufi.com/home/default.asp ),
+the body responsible for delivering the Learndirect service and running
+the 6,000 UK online centres. Depending on the response, MyGuide
+could be given a full launch, backed by a government publicity
+campaign later this year.
+
+Development work on MyGuide, which has a key role in the
+government's digital inclusion strategy, is supported by 22.5 million
+pounds from the Capital Modernisation Fund and co-ordinated by the
+Department for Education and Skills (DfES), originally under the
+project name 'Cybrarian'.
+
+According to DfES research, about 16 million of the 40 million adults
+in the UK could benefit from the service, including people with
+physical or cognitive disabilities, older people, those with specific
+cultural needs, those with low basic skills, and those who do not yet
+see the benefit of the internet for them.
+
+MyGuide is designed to be used at home as well as in public libraries
+and community centres. Market research by Ofcom suggests that many
+people, especially the elderly, prefer to learn media skills from family
+and friends or by themselves, rather than in formal groups
+http://www.ofcom.org.uk/advice/media_literacy/medlitpub/medlitpubr
+ss/medialit_audit/.
+A range of stakeholder organisations are contributing to the project,
+including Age Concern, the Disabled Living Foundation, RNIB and
+RNID.
+
+
++02: Free IT Skills Training Launches Across The UK
+
+A free training scheme aiming to broaden access to computers for
+vision impaired people went live across England and Northern Ireland
+this month.
+
+The initiative introduces vision impaired people to computers who
+have little or no experience of technology and will focus on teaching
+those not currently employed or studying and those who have become
+blind later in life.
+
+Training sessions will see qualified British Computer Association of
+the Blind
+(BCAB - http://www.bcab.org.uk/ ),
+tutors teaching basic everyday computer-based tasks to local vision
+impaired people, such as how to write a letter on a computer, send and
+receive email, listen to internet radio stations and scan and magnify
+printed materials. The one-day sessions, the first of which took place at
+Kent County Council, will be conducted in conjunction with local
+blindness societies across the country.
+
+Students will learn on computers installed with accessible software
+packages: the voice recognition software 'Freedom box,' used for
+accessing email and the internet from US company Serotek
+Corporation
+( http://www.freedombox.info/about.html )
+and 'Guide'
+(
+http://www.softwareexpress.co.uk/read_more_about_Guide.asp?P=GB
+P  ),
+a magnifier and screen reader from UK company Software Express.
+
+The scheme currently has funding for 30 more training sessions and
+has been funded overall by 26,000 pounds raised solely by sales of
+CDs of poetry read by celebrities, written by folk poet Les Barker.
+
+The launch of 'EyeT4All,' by BCAB was described by BCAB Chair
+Dr Mike Townsend as "a special day" for blind people in the UK.
+
+
++03: Art Gallery Wins Major Web Accessibility Award
+
+Online service i-Map, provided by the Tate Modern art gallery, has
+scooped the Jodi Award, the annual prize awarded to web sites that
+make museums, libraries and galleries accessible to vision-impaired
+people.
+
+According to the judges, the service is one of the few to provide
+comprehensive audio descriptions of exhibits, and is destined to set the
+standard in global best practice, they said. The Tate's i-Map enables
+vision impaired people to engage with exhibits using animation, audio
+and raised image technology.
+
+The Jodi Award for excellence with low budgets was awarded to
+Speaking Volumes, a community web site enabling vision impaired
+visitors to share opinions about audio books and set up reading circles
+from Wakefield Library
+( http://www.24hourmuseum.org.uk/nwh_gfx_en/ART36038.html ).
+
+The shortlist included the Birmingham Museums and Art Gallery web
+site 'Finds,' for amateur archaeologists run by the British Museum.
+Also shortlisted were Their Reading Futures, an online resource for
+library staff who work with young people and The History of
+Wolverhampton, a web site developed by Wolverhampton Arts and
+Museums Service with input from disabled users.
+
+Selection for the shortlist was by a combination of automated testing
+and user reports. The winner was chosen by a panel that included Nina
+Baptiste of the Yorkshire Museums, Libraries and Archives Council,
+Ross Parry of the Department of Museum Studies, University of
+Leicester, Jon Pratty from the 24 Hour Museum,  and Marcus Weisen,
+an accessibility consultant for the Museums, Libraries and Archives
+Council.
+
+Designers of web sites must think beyond accessibility standards such
+as those laid down in the Web Accessibility Initiative
+(WAI - http://www.w3.org/WAI/ ),
+according to one of the judges, Jon Pratty of the 24 Hour Museum.
+"It's important to get the message across that flare and creativity are
+also important in making a web site accessible and engaging," he told
+E-Access Bulletin.
+
+
++04: Inaccessibility Will Create 'Second Class Citizens,' Says MP.
+
+Lack of access to computers by people with a disability will breed a
+class of "new poor," Member of Parliament Ann Widdecombe
+( http://www.annwiddecombemp.com/ )
+said at the launch of an initiative aimed to encourage vision impaired
+people to use computers.
+
+The MP for Maidstone and the Weald in Kent told the audience at the
+launch event of the national UK computer training skills initiative
+'EyeT4All' last week "You can become - by not having access to
+technology - second class citizens."
+
+According to British Computer Association of the Blind
+(BCAB - http://www.bcab.org.uk/ ),
+just 31 per cent of vision impaired people have access to a computer,
+compared with 58 per cent of sighted people.
+
+The event was hosted by Kent County Council, who held the first ever
+training day as part of the scheme. EyeT4All aims for vision impaired
+people with little or no experience of computers to learn everyday
+computer skills such as using email, internet, writing letters and
+accessing online audio content.
+
+
+++News in Brief:
+
++05: Windows Explained: An online guide designed to help people
+using magnifiers or Jaws screen readers to access Windows XP has
+been released by Henshaws society for blind people. The guides give
+step-by-step instructions on using email, documents and browsing the
+web, and are based on computer classes run at Chorlton Workshop in
+Manchester:
+http://vip.chowo.co.uk/
+
++06: Feedback Request: Webwords, a library service run by the Royal
+Borough of Windsor and Maidenhead that enables vision-impaired
+users to hear audio samples of talking books is asking for feedback
+from users. The audio samples, designed to make choosing a book
+easier, are accessed by hyperlinks in the borough's online library
+catalogues:
+http://www.webwords.org/index.php
+
++07: Digital Europe: The European Commission is holding a public
+meeting in Brussels on 25 April to help shape its future policy on
+digital inclusion, an important theme in the Commission's i2010
+Information Society initiative for jobs and growth. Contributions can
+address a broad range of topics, including good practice promotion,
+research and regulatory work. More details on how to become involved
+are available at:
+http://europa.eu.int/information_society/policy/accessibility/eincl/polic
+y/2006-04ws/index_en.htm
+
+
+[Section One ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proofread before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+[Special notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
++08: Vacancy Feedback: In response to a query in the February issue
+on assistive technology job vacancy sources, several readers have
+contributed ideas: Margaret Hill from the UK government's
+Department for Work and Pensions Accessibility Solutions Team and
+Aidan Parr, a researcher at London-based Foundation for Assistive
+Technology (FAST) both write to suggest FAST's online database of
+assistive technology jobs found at:
+http://www.fastuk.org/list_of_all_ATJobs.php .
+Aidan adds: "There's also the Rehabilitation Engineering and Assistive
+Technology Society of North America (RESNA). See:
+http://careers.resna.org/ ."
+
+Rachel Rosenbaum in the US writes: "Most people look for jobs
+through the Association for Education and Rehabilitation of the Blind
+and Visually Impaired (AERVI) in Virginia, US (phone number 877-
+492-2708 or 703-671-4500) or through the Association of Agency
+Directors' National Council of Private Agencies serving Blind and
+Visually Impaired Persons (NCPABVI -
+http://www.ncpabvi.org/ )
+in Missouri. The contact is Roxann Mayros, the Chief Executive. Her
+e-mail is roxannmayros@agenciesfortheblind.org .
+
+[further responses to inbox@headstar.com].
+
++09: Radio Wave: Terry Robinson, owner of Scotland-based online
+navigation service Describe Online, writes in response to Giovanni
+Urso's comments on two-way radio accessibility (E-Access Bulletin,
+February 2006): "Most modern amateur radio transceivers are
+equipped with a computer interface which allows them to be controlled
+remotely via a home computer or similar device, although you still
+need to buy extra parts to enable this.
+
+"I'm sure things have moved on and transceivers can be plugged into
+computers without any of this messing about. The more recent models,
+including the Kenwood TS870 are supplied with their own software
+which simulates a transceiver on your computer but I'm not sure how
+accessible these programs are.
+
+"You could acquire a self-tuning amplifier, thereby bypassing further
+potential accessibility problems.
+
+"We can bypass many accessibility limitations of transceiver interfaces
+by controlling them remotely via an accessible home computer or
+similar device. I use an old DOS computer which can produce
+synthetic speech and Braille output. I prefer to use the Braille as I don't
+want a synthesiser talking away while trying to read a remote station.
+
+"We can obtain usable, if not terribly accessible automatic tuning units
+to adjust aerials and can monitor the results through audio power or
+voltage standing wave ratio (VSWR) meters. We can also get self-
+tuning amplifiers. I have a rotator which has a tactile knob, so I can
+even set my own beam headings. Again, this can be done via software,
+according to the callsign or locator of the remote station.
+
+"I suggest others on the 'blind-hams' mailing list would know more.
+To join send a blank email to:
+blind-hams-subscribe-request@listserv.icors.org"
+[further responses to inbox@headstar.com]
+
++10: Price Slash: Roger Wilson-Hinds, director of UK-based Choice
+Technology
+( www.screenreader.co.uk )
+writes in response to Fay Rohrlach who, in the last issue, wrote on the
+high cost of assistive technology: "I am blind and have worked for
+several years on low-cost technology. It's not easy because selling at
+low cost fails to bring in money for marketing our products.
+
+"However, we have taken the bull by the horns. In July, we shall
+launch a free screen reader which will give excellent access to
+Microsoft Word, email, the internet and others within the Windows
+Operating system. It will be free to home users and we anticipate
+organisations will pay for the use of the screen reader. Our enterprise
+must be financially sustainable. We view what we are doing as an
+opportunity to ensure computer literacy is [acquired by] blind people
+regardless of financial circumstances."
+[further responses to inbox@headstar.com].
+
++11: Web Wise: Dr Mark Magennis, Director of the Centre for
+Inclusive Technology of the National Council for the Blind of Ireland
+( www.cfit.ie )
+writes to respond to Dalia Zamuiskaite from Lithuania who last issue
+requested guidance on web accessibility standards.
+
+Mark writes: "The international standard for website accessibility is the
+Web Content Accessibility Guidelines (WCAG) from the Web
+Accessibility Initiative of the World Wide Web Consortium
+(www.w3.org/TR/WAI-WEBCONTENT/).
+These are a little difficult to read and understand, so the
+Irish National Disability Authority (NDA) has produced a resource
+with a simpler structure and clearer explanations of WCAG
+( http://accessit.nda.ie/technologyindex_1.html ). "For application
+software, the NDA provides a good set of functional guidelines
+( http://accessit.nda.ie/technologyindex_4.html ).
+
+"These guidelines cover design for all users, taking into account all
+disabilities. Guidelines specific to vision impairment may exist but it is
+not good practice to design for a specific impairment. This is itself
+discriminatory. It promotes the incorrect view that accessibility is
+about design for specific disabilities rather than design for diversity
+and leads to fragmentation of the disability community, dilution of
+power and internal divisions that ultimately work against all people
+with disabilities."
+[further responses please to inbox@headstar.com].
+
++12: Size Settings: Geoff Adams-Spink, Age and Disability
+Correspondent at BBC Online writes: "I'm using Internet Explorer (IE)
+version 6.0.2900.2180.xpsp.040806-1825. It seems unable to
+remember the text size setting so that I'm constantly having to reset it
+to 'largest'.  This is irritating and utterly pointless: does anyone know
+how to get around this?"
+[responses please to inbox@headstar.com]
+
+
+[Section Two ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+Section Three - Opinion
+- Accessible Gaming
+
++11: Adventures In Endless Soundscapes
+by Justin Daubenmire
+
+I founded BSC Games in 2002 to create accessible computer games for
+the blind or visually impaired. I enjoy it tremendously. It is my deep
+respect and identification with the blind community that encourages
+me to bring audio games to them.
+
+I oversee the work of the company's dedicated programmers, sound
+engineers, content writers, musicians, sales support, technical support,
+technical writers, marketers, and beta testers, all of whom are blind or
+visually impaired.
+
+At BSC Games we create exactly the types of games sighted gaming
+enthusiasts play, with one exception: there are no graphics, which
+forces us to be more creative with audio imagery and interactive
+devices such as game pads or joysticks. We have sounds at our
+fingertips to paint the scenes of the games in the mind of the blind
+gamer.
+
+Although we create audio games for the blind, there are sighted gamers
+who play our games, who enjoy the challenge of an audio game since it
+tests their skills in new ways that graphical games cannot. One of those
+sighted gamers is Anne Walker who plays our Pipe2 Blast Chamber
+game
+( http://www.bscgames.com/pipe2.asp ),
+a game in which players assume the role of an undercover agent whose
+mission is to prevent the San Diego Mafia from blowing up the city.
+"Playing games in the non-visual realm makes it more interesting to
+figure out what it is you are supposed to be doing!" Walker says.
+"Rather than just looking around and going for it, with these games I
+have learned to listen more and be more attentive to what the game
+documentation says."
+
+It is interesting to see the accessible games industry creating online
+group multiplay games. The fun part of this type of game is joining
+with groups of friends, moving through cities, going on quests for
+items, having adventures and fighting enemies together. These games
+come with a chat program so you can communicate with your friends
+as you quest around the world. Players log on with a user name and
+password and pay a monthly fee to play the game and for good reason:
+hours of entertainment at their fingertips.
+
+This style of game typically takes mainstream companies four years to
+create. This is roughly equivalent to producing a movie as nearly all
+the same concepts and resources apply to it. It is common to have a
+staff of around five full-time programmers, content writers to create
+scripts that voice actors must act out, graphic designers to create
+pictures to represent cultures, tribes and characters in the world.
+Finally, sound engineers and musicians must co-ordinate their sounds
+and music to fit these and the programming team must programme the
+engine to render all content. To say the least, multiplay games are a
+very involved and extremely expensive effort.
+
+At BSC Games we are in the initial exploratory phase of programming
+a game with both graphics and audio for the blind and sighted to play
+together. One setback has been finding qualified programmers to assist
+on the project, and trained consultants to instruct us on it. We are
+progressing and hope our next title will be internet-enabled.
+
+More generally, accessible games developers are slowly making
+progress with programming multiplay games - some companies have
+accomplished this large task already. Our progress is slower, but
+consistent. Because of our limited resources, we have to take smaller
+steps than mainstream game companies but there is a cameraderie
+among us accessible games developers that you don't often see in other
+industries.
+
+In terms of the future of accessible game development, I think initially
+you will see one-on-one internet-based games then, as resources
+permit, larger games where you can play in teams and quest around
+worlds. Typically, the worlds in these types of games are endless. That
+is what makes them so fun.
+
+[Section Three ends].
+
+
+++Special Notice: Test Your Site's Accessibility.
+
+Headstar, the publishers of E-Access Bulletin, is offering a range of
+independent, expert assessment packages to ensure your web services
+comply with best practice and the law. We can provide you with a
+clear, detailed report on the current access status of your site, and a list
+of tasks you will need to carry out to ensure compliance with
+government requirements.
+
+Reports also include results from general quality assurance tests such
+as link-checking. Taking accessibility action benefits all users, will
+make your site easier to maintain, and can improve your search engine
+rating! Please note the service is tailored in particular to larger
+organisations with major web sites or services.
+
+For more information please email:
+access-consult@headstar.com .
+
+[Special notice ends].
+
+
+++Section Two: Focus
+- IT Procurement.
+
++08: How To Buy Software And Not Break The Law
+by Ruth Loebl.
+
+Have you heard of the public sector duty to promote disability equality,
+which forms part of the Disability Discrimination Act (DDA)? From
+the perspective of voluntary bodies and charities like the Royal
+National Institute of the Blind, the duty (known as the Disability
+Equality Duty, or DED) is a great step forward. From your perspective
+it may have had little impact. But if you are involved in IT
+procurement, you should know about it.
+
+The Disability Rights Commission (DRC) publishes a code of practice
+( http://www.drc-gb.org/thelaw/publicsectordutycodes.asp )
+that offers practical guidance about the DED to public authorities. One
+of the examples given by the code reads as follows: "A government
+department that is planning to procure a new IT system should ensure
+that its action plan includes the work it will do to ensure that the new
+system is suitable for use by disabled employees. The action plan
+should also indicate the way it will develop the specification so that the
+system delivers the right products for disabled customers. This might
+include having a means of identifying those customers and their
+requirements, which could lead to being able to, for example, print
+notifications and letters in accessible formats for visually impaired
+people."
+
+The RNIB's legal team receives a large number of complaints about
+citizens' interaction with government. Sometimes 'The System' cannot
+produce the information in a format that the service user can actually
+read. Sometimes it can, but there is no way to indicate that an
+alternative format is required, so print is sent out every single time, and
+the recipient then has to go back and request the format he or she
+actually needs. Every single time.
+
+The most effective time to address this issue is during procurement, as
+the DRC's code of practice suggests, but what if there is no accessible
+option on offer by suppliers? This is a situation that arose about six
+years ago with a software system called CareFirst, a system designed
+to help local authorities run their social services.
+
+In 1999, Glasgow City Council was beginning to implement CareFirst
+in its social services department, and all was going well. The system
+met all the council's business requirements, it made data collection and
+reporting much more efficient, and seemed sure to improve services to
+clients. But there was a problem - CareFirst was not accessible, and
+Glasgow employed quite a number of blind people who would need to
+use the system, as well as serving many residents who as service users
+would need accessible output.
+
+Glasgow contacted quite a few other CareFirst customers, and found
+they had the same problem. Together with RNIB, they approached the
+software developer OLM Group
+( http://www.olmgroup.com/ ),
+and explained what was needed. With considerable effort, OLM, RNIB
+and the users fixed the immediate problems by redesigning some of the
+software's interfaces and configuring them for speech output.
+
+So far so good, but the truth is a one-off fix is never going to change an
+inaccessible product to an accessible one. The real trouble was that
+OLM didn't really see the point of putting a lot of effort into
+accessibility, which they perceived as being peripheral to their main
+business objectives.
+
+"During the initial testing and configuration to get the system working
+effectively it became apparent that this was going to be a long term
+task and that the costs could potentially be significant," says Brian
+Paterson of Glasgow City Council. "We also realised that other users
+were all at different levels of knowledge, understanding and
+development. It therefore made sense to look at a consortium
+approach."
+
+The CareFirst Access Consortium was duly formed in 2002, comprised
+of CareFirst customers from local authorities around the UK.
+Membership fees contributed to the campaign and to supporting end
+users, as well as setting up an accessible web site
+( http://www.cfaccess.org.uk/ ).
+
+Realising that numerous customers throughout the UK felt that
+accessibility was an issue that needed to be addressed, OLM started to
+appreciate the benefits of an accessible product to all users, not just to
+those few using speech output.
+
+The process needed more time than consortium members initially
+anticipated - it has taken six years from that initial contact - but when
+OLM recently announced the latest version of CareFirst, the
+consortium was able to endorse it as a fully accessible product, making
+it a major success story.
+
+The software has now changed to a browser-delivered application,
+usability is vastly improved (not only for disabled people but for all its
+users), and it has cost OLM no more to develop into an accessible
+version than it would to have made it inaccessible. The consortium's
+work is done, and it will shortly be disbanded.
+
+Together, the consortium's members have learned a lot about how to
+make software accessible, and not just the technical stuff. We learned
+that a lot of very small steps forward can lead to tremendous outcomes,
+given time. We learned about the power of collaboration, uniting many
+disparate interests behind a common objective.
+
+We learned there can be benefits for suppliers in compliance as well:
+with awareness of the DED rising, OLM may well be asking procurers
+whether their competitors' products are compliant with the provisions
+of the DDA.
+
+But perhaps the most important lesson of all is that suppliers listen
+hardest to customers, not to well-meaning representatives of user
+communities like RNIB. Money talks louder than discussion about the
+benefits of accessibility.
+
+NOTE: Ruth Loebl is Senior ICT Development Officer at the RNIB
+( http://www.rnib.org.uk/technology ).
+
+[Section Four ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2006 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]

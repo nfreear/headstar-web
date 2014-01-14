@@ -1,0 +1,533 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 126, June 2010.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 126 Contents.
+
+01: Association To Set UK Digital Format Standards
+ - guidelines for accessible e-books due next year.
+
+02: Public-Private 'Unwillingness to Co-operate' Over Smart
+Homes
+- Plan needed to help elderly and disabled at home, say
+experts.
+
+03: Danes Are Latest To Miss EU Web Access Target
+- Research reveals poor record for government sites.
+
+News in Brief: 04: Football Crazy - Online World Cup guide;
+05: Canvassing Opinion - BBC joins online TV standards
+project; 06: Big Problems - what US screen-reader users hate
+about the net.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Research Call - basic information sought on use of
+technology by people with disabilities; 08: Cut Links - we ask
+for readers' web address formatting preferences; 09: Facebook
+Solutions - social networking site access suggestions.
+
+Section Three: Focus - Electronic Books.
+10: The Right to Borrow: The UK's Digital Economy Act 2010
+sought to widen and simplify the borrowing rules for electronic
+and audio books from public libraries. But how well will the
+new system serve readers with disabilities, who rely on new
+formats to access information? Guy Whitehouse reports.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Association To Set UK Digital Format Standards.
+
+The new UK Association for Accessible Formats ( UKAAF:
+http://www.ukaaf.org/ )
+is to set national standards next year for accessibility of digital
+formats such as electronic books and synthesised speech, E-
+Access Bulletin has learned.
+
+The association, a charity formed last year, refined its work
+programme for the next two years at its annual general meeting
+in London earlier this month.
+
+This included setting suggested minimum acceptable standards
+for large print, Braille and audio formats by the end of 2010,
+followed in 2011 by work on standards for synthesised speech,
+electronic books and other digital formats.
+
+All standards will be aimed at content and service providers;
+transcribers; and end users, Alan Matthews, the association's
+public relations officer, told E-Access Bulletin following the
+meeting. "The goal is to set out an achievable minimum UK
+standard that everyone can work towards, so the odd producer
+out there who is not quite hitting the mark would have
+something to aim at, service providers would have minimum
+requirement for end users, and end users would have minimum
+standard they could expect and service providers could not say
+they can't do it, because of technical issues," Matthews said.
+
+"For example, if I work for a utility, and I know I should
+provide accessible formats, and I want to write them into a
+tender but I don't know what standards to use, I could come to
+UKAAF. Then I would know what I am asking for is
+reasonable, achievable and what the end-user is expecting."
+
+Ultimately, the association would like its standards to be
+included in government regulations relating to accessibility, he
+said. "If we can be talking to government within five years, it
+would give our work a stamp of authority."
+
+The association will also be looking at how current law in this
+area, including the new Equalities Act 2010 and the Disability
+Discrimination Act 1995 with its provision for 'reasonable
+adjustments' to services, affect the way organisations need to
+take account of format accessibility.
+
+The meeting had been due to pass an emergency motion on
+whether to endorse Unified English Braille (UEB) as the
+"preferred" Braille format for UK use, in the face of US moves
+to endorse the alternative Unified Braille Code. However the
+meeting decided to delay a decision pending further
+deliberations.
+
+Three appointments were made to the board of UKAAF:
+Michael Lewington, Director of Calibre Audio Library; Richard
+West, former chair of BCAB and Sheila Armstrong, text
+transcription co-ordinator at Torch Trust. The association's
+president is former RNIB chairman Lord Low of Dalston.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=446
+
+
++02: Public-Private 'Unwillingness to Co-operate' Over Smart
+Homes.
+
+A coherent national plan is needed to develop integrated
+systems and services for 'smart homes' to meet the needs of
+disabled and elderly people, overcoming "entrenched
+behaviours, convention, ego and unwillingness to co-operate"
+across the public and private sectors, a London seminar heard
+this month.
+
+Delegates at the 'smart living' seminar heard that although
+many pilot schemes were already testing components of next
+generation home systems, there was little co-ordination
+between the sectors involved including architecture,
+engineering, building, health and care, energy,
+communications, transport and bodies representing disabled
+and older people.
+
+"Without such a plan, the situation in five years time is likely
+to be as fragmentary as it is today," said Professor Patrick Roe
+of the European CARDIAC project (Coordination Action in
+R&D in Accessible and Assistive ICT: http://www.cardiac-eu.org ),
+which aims to create a 'road-map' to co-ordinate
+research in this field.
+
+Martyn Gilbert of 'UK3.0', a private-sector-led project to
+create "next generation" homes, said the barriers to progress
+lay not with technology but with organisational cultures.
+
+"All of the substantive technology necessary to help older and
+disabled people live as they wish in their own homes is here,
+and has been here for several years. The obstacles are
+entrenched behaviours in the public and private sectors. They
+are obstacles of convention, ego and unwillingness to co-
+operate in good will with other stakeholders.
+
+"The nation can no longer afford the luxury of such
+behaviours... it makes societal, business and national sense to
+collaborate to bring about the widest installation of these
+technologies in people's homes."
+
+UK 3.0 is attempting to co-ordinate private and public sector
+services to smart homes including intelligent energy and water
+management and health promotion, with a target of
+contributing £100 billion a year to the UK economy by 2019.
+
+'Smart Living - the way forward for disabled and older people'
+was hosted by the Department for Business, Innovation and
+Skills (BIS) in association with the accessible ICT charity
+PhoneAbility ( http://www.phoneability.org.uk ).
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=444
+
+
++03: Danes Are Latest To Miss EU Web Access Target.
+
+Some 52% of Danish government websites are not fully
+accessible to citizens with disabilities, new research has
+revealed, in the latest blow for hopes of Europe-wide
+accessibility improvements.
+
+Conducted on behalf of the Danish Ministry of Science,
+Technology and Innovation, a survey by Sensus - a Danish
+consulting company specialising in accessibility, IT and
+disability - assessed 226 government websites against
+international Web Content Accessibility Guidelines (WCAG
+2.0)
+
+The results of the survey are another setback to the goal set at a
+ministerial conference of EU member states in 2006 of all EU
+government websites becoming fully accessible by the end of
+2010. It is now expected that not one state will hit this target.
+
+The Danish ministry now plans to launch an e-learning tool in
+2011 featuring guidance on creating more accessible websites
+and documents.
+
+In the UK, guidance from the Central Office of Information on
+'delivering inclusive websites'
+(http://www.coi.gov.uk/guidance.php?page=131 )
+in 2008 stating that all government websites should have
+conformed to international 'AA' standards by 2011. However,
+the public sector Society of IT Management's annual 'Better
+Connected' review of every UK council website, published
+earlier this year, found only 32 of 479 sites achieved even
+basic accessibility levels (see E-Access Bulletin, March 2010
+http://www.headstar.com/eablive/?p=400 ).
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=441
+
+
+++News in Brief:
+
++04: Football Crazy: An email guide to the ongoing FIFA
+World Cup in South Africa, featuring match schedules,
+statistics, and information on teams, players and stadiums, has
+been produced for blind and visually impaired football fans by
+the Royal National Institute of Blind People (RNIB). The guide
+is also available in large and giant print booklet form, Braille,
+and DAISY audio format, all costing £2.99 and available from
+RNIB's website:
+http://bit.ly/aOimfj
+
++05: Canvassing Opinion: Confirmation that the BBC is to
+participate in 'Project Canvas', an initiative between major
+broadcasters and telecommunications companies develop a
+standard for internet-linked on-demand services through TV
+sets, has been welcomed by the Royal National Institute of
+Blind People (RNIB). The standard is seen as important for
+ensuring usability and accessibility of such services. However,
+the institute has warned that many blind and partially sighted
+people will not be able to use Canvas on its launch without a
+text-to-speech (TTS) function to navigate the menus, and is
+pushing for a TTS requirement in the project's upcoming
+technical specification:
+http://www.bbc.co.uk/bbctrust/our_work/canvas/index.shtml
+
++06: Big Problems: Use of CAPTCHA tests - images that
+present text to verify human computer users - and inaccessible
+Adobe 'Flash' online multimedia content were rated as the
+most problematic items by disabled computer users, in a recent
+survey by US web accessibility company WebAIM. The survey
+also gathered information and user opinions on different types
+of screen-readers, and disabled computer users' experience of
+social media tools:
+http://www.webaim.org/projects/screenreadersurvey2/
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Research Call: A short and sweet request for information
+from reader Noel Hatch, head of innovation projects and
+research at Kent County Council in the UK.
+
+Noel asks: "I was wondering if there was any research on how
+and what disabled people use digital technologies?"
+
+Ideas and links please to inbox@headstar.com .
+
+
++08: Cut Links: Another reader and regular correspondent from
+the same organisation - Clive Lever, diversity advisor with
+Kent Council - has written in to suggest a change to the way
+we publish web addresses in the bulletin. Clive's suggestion
+was triggered by problems he experienced accessing a long
+web link in our last issue that split over a line.
+
+"I did get to the article with an interesting bit of "text knitting"
+in my 'open' slot on Internet Explorer. [But] please may I
+suggest that we consider alternatives to long URLs [uniform
+resource locators, or web links] in newsletters, possibly even as
+part of newsletter accessibility standards?"
+
+Clive continues: "I'm a great fan of services like Tinyurl (
+http://www.tinyurl.com - a service that creates short links that
+expand into longer ones), as you may not always know that
+you haven't pasted in the complete link if you're playing about
+with them in emails.
+
+"If one [format] suits some people and the other suits the rest,
+would it be too much to suggest being greedy and having both?
+My preference would be for the original URL to be used alone,
+except where it looks likely that it could run over two lines,
+when it would be accompanied by a short URL so people
+could chose which one to click.
+
+"I'm a great believer in giving people choices, rather than
+having a one-size-fits-all approach."
+
+[EDITOR'S NOTE: We think this is an excellent suggestion,
+because we have heard both sides now: first, that short link like
+Tinyurl or Bit.ly are themselves not very accessible; and
+second, that longer links are not accessible. To offer both
+would therefore seem logical - but what precise format and
+text layout should we use to do this? Please send in your
+suggestions.]
+
+[Responses please to inbox@headstar.com].
+
+
++09: Facebook Solutions:
+
+Last issue, our Italian version translator Margherita Giordano
+asked for advice on overcoming problems with accessing the
+social networking site Facebook, and in particular its chat
+features, using JAWS screen-reader software.
+
+Jerry Weichbrodt of Michigan writes in to say: "With respect to
+Facebook Chat, I agree that it can be awkward using a screen
+reader. I, too, use JAWS and it's awkward to keep popping in
+and out of Forms Mode to enter text and then look for
+responses.
+
+"One suggestion I have heard of, though I have not tried it
+myself, is to use AIM version 7.2 to access Facebook Chat.
+There is an explanation of this and a demonstration in Freedom
+Scientific's 'FSCast' episode number 40 for March of this year.
+See
+http://www.freedomscientific.com/FSCast/episodes/fscast040-
+march2010.asp .
+
+Other than that, using the actual Facebook chat page, I believe
+JAWS seems to see two edit boxes that it appears you could
+type into, but only one of them actually works for the
+purpose. [so] it may be useful to arrange to chat with
+someone specifically for experimental purposes and then see
+which edit box actually works for entering text."
+
+Responding to the same appeal, Tim Carrington, a reader from
+Kent, UK (where else?) had a different suggestion: "The
+student should give up on JAWS and consider using WebbIE,
+the free web browser for blind people with little or no sight
+available from
+http://www.webbie.org.uk  ."
+
+[Further responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Focus
+Electronic Books.
+
++10: The Right to Borrow
+by Guy Whitehouse.
+
+One of the last pieces of legislation passed earlier this year by
+the UK's outgoing Labour government was the Digital
+Economy Act 2010, which, among other things, extended the
+Public Lending Right to audiobooks and ebooks in libraries.
+
+This transfers out of copyright both physical hardcopy
+audiobooks in libraries, and audio/ebooks downloaded to an
+mp3 player or ebook reader on library premises; authors
+receive a payment from the government for each loan based on
+a rather complicated formula. The US does not currently have
+a similar scheme, following a failed attempt to introduce one in
+the 1980s.
+
+The UK legislative change represents an attempt to simplify the
+model of lending non-print material in libraries which had
+hitherto occurred under a licensing regime which had never
+really functioned properly. This had made librarians reluctant
+to build up large stocks of such material, although interestingly
+customers seem to welcome audiobooks: the global electronic
+book distribution platform OverDrive has been extending its
+business in the US, and in 2008 there were 11 million loans of
+audiobooks from UK public libraries. Statistics for the year
+2009 will soon be available. There are also some avant garde
+librarians who regard ebooks as key to making libraries
+relevant to younger members.
+
+Since libraries have always been the key source of income for
+audiobooks on traditional media such as cassette or CD, at least
+in the UK, the change in the law has been broadly welcomed
+by advocacy groups for people with impaired vision. However,
+there are those who are critical, for example objecting to the
+fact that audio- and ebooks accessed remotely via download
+are not covered by the Public Lending Right (government
+lawyers said this was impossible because such activity was
+covered by the authors' right of communication to the public).
+Many, not least the UK Registrar of Public Lending Right, feel
+this is a significant gap because they do not think most people
+download ebooks or e-audiobooks on library premises.
+Nevertheless, it is a step forward.
+
+Such issues are only going to gain in importance. In 2009 for
+the first time the sales of ebooks were significantly higher than
+those of audiobooks in the US. Many of the most passionate
+advocates of audiobooks are moving to positions in companies
+associated with the download market, and Audible.com
+expanded its catalogue of unabridged audiobooks from 20,519
+in October 2009 to 26,113 titles in May 2010.
+
+Where does this leave issues relating to the accessibility of e-
+books to people with disabilities?
+
+The recent disputes over the Kindle's text-to-speech and over
+the read-out-loud function of Adobe ebooks in public libraries
+only makes sense in the context of an audiobooks industry
+fearing that in some sense the future is slipping away from it,
+whether those fears are justified or not.
+
+If downloads are the future, particularly of unabridged
+audiobooks narrated by a human voice, then securing access to
+the internet and to computers in general for the visually
+impaired becomes of ever-greater significance. It would be a
+real tragedy if, just at the moment books become available in
+non-print formats in large numbers, a lack of access to
+technology in general and/or to the internet or mainstream
+ebook readers prevented us from reaping maximum benefit.
+
+In this regard, ensuring internet accessibility, whether through
+enforcement of guidelines or through user testing, is critical
+and making media players that visually impaired people
+already use capable of playing ebooks and protected audio
+downloads is as important as capturing access to a mainstream
+e-books reader.
+
+Guy Whitehouse is a PhD research student at Loughborough
+University, UK.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=439
+
+[Section Three ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure
+that everyone finds the web sites we design easy to use. As
+well as being accessible, Fortune Cookie sites are beautiful and
+deliver stunning return-on-investment. They're award-winning
+too. In 2007, our work was nominated for major web design
+awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some
+of the big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more
+accessible. If you'd like to know what accessibility can do for
+your business, talk to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you'll find discussion of
+accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you're looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 126 ends.]

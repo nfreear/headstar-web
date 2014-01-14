@@ -1,0 +1,59 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:02 2004 __
+
+Input file: ../eab/issues/2003/oct2003.txt
+
+Warning: file already exists: ../eab/issues/2003/oct2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: oct | index: 10 | year: 2003
+URLs, prev: ../2003/sep2003.html | next: ../2003/nov2003.html
+Found ++, heading 2: ISSUE 46 CONTENTS.
+>> FOUND 2:  | 01:  | UK to pioneer location-based services
+>> FOUND 2:  | 02:  | Accessible formats copyright law enacted
+>> FOUND 2:  | 03:  | Web design body embraces accessibility
+>> FOUND 2:  | 04:  | Politicians promote benefits of e-voting
+>> FOUND 1: News in brief:  | 05: Indigo forum - European project; 06: Mobile guide
+>> FOUND 2:  | 09:  | Government standards - RNIB response; 10: Chinese stars -
+>> FOUND 2: language tips;  | 11:  | Smart response - smart card resources; 12: Flat
+OK, News in brief
+Found: Smart response - smart card resources | ; |  12: Flat
+>> FOUND 2: screen - magnifier query;  | 13:  | Training gap - teachers sought; 14:
+Found: Training gap - teachers sought | ; |  14:
+>> FOUND 2:  | 15:  | Building bridges: Phil Cain talks to a pioneer who combines
+>> FOUND 2:  | 16:  | Fighting European fragmentation: a new international consortium
+Warning line 51: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: SPECIAL NOTICE: TECHSHARE: LEARNING, WORK AND LIFE
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | UK TO PIONEER LOCATION-BASED SERVICES.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | ACCESSIBLE FORMATS COPYRIGHT LAW ENACTED.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | WEB DESIGN BODY EMBRACES ACCESSIBILITY.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | POLITICIANS PROMOTE BENEFITS OF E-VOTING.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  The European Blind Union (EBU) is calling
+> ITEM 1:  06:  | : |  The telecommunications regulator Oftel -
+> ITEM 1:  07:  | : |  The London Borough of Brent has
+> ITEM 1:  08:  | : |  The National Center for Accessible Media
+Found ++, heading 2: SPECIAL NOTICE: ACCESSIBILITY DISCUSSION FORUM.
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  09:  | : |  Following last month's news
+> ITEM 1:  10:  | : |  Last issue Fernando Botelho, Technical
+> ITEM 1:  11:  | : |  Last month Geoff Doggett, project officer
+> ITEM 1:  12:  | : |  Steve Richards has a query about flat-screen
+> ITEM 1:  13:  | : |  Sondra Billings of the John Innes Centre
+> ITEM 1:  14:  | : |  Finally Dave Williams, Interim
+Found ++, heading 2: SECTION THREE: INTERVIEW
+> ITEM 2:  15:  | BUILDING BRIDGES
+Warning: not title-casing possible HTML:
+  15: BUILDING BRIDGESby Phil Cain  <a href="mailto:phil@headstar.com">phil@headstar.com</a> .
+Warning: not found a 'contents' match: BUILDING BRIDGESby Phil Cain  <a href="mailto:phil@headstar.com">phil@headstar.com</a> .
+Found ++, heading 2:  SECTION FOUR: FOCUS
+> ITEM 2:  16:  | FIGHTING EUROPEAN FRAGMENTATION
+Warning: not title-casing possible HTML:
+  16: FIGHTING EUROPEAN FRAGMENTATIONby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: FIGHTING EUROPEAN FRAGMENTATIONby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

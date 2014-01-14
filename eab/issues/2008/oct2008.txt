@@ -1,0 +1,495 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 106, October 2008.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 106 Contents.
+
++01: Final Countdown To Long-Awaited Web Access Guidelines
+- World Wide Web Consortium standards due in December.
+
++02: Recession Is Poor Excuse For Exclusion, Analyst Warns
+- Downturn is 'good time to increase accessibility activity'
+
++03: People With Impaired Vision 'Less Likely To Be Employed'
+- RNIB labour market report finds older people hardest hit.
+
+News in Brief: 04: Action Plan - digital divide; 05: Mobile Future -
+Bluetooth tags; 06: Nano Praise - accessible iPod.
+
+Section Two: Organisation in the Spotlight - W3C.
+07: Global Standards Giant Gears Up For Battle: With version 2.0 of
+the W3C's Web Content Accessibility Guidelines due to finally see the
+light of day in December, the stage is set for a new wave of awareness
+work. Dan Jellinek speaks to two W3C staff members about what the
+future holds for web accessibility, with urgency added to their task by
+the world's ageing population.
+
+[Contents ends].
+
+
+++Special Notice: Designing for all: an inclusive approach to web,
+print and electronic publishing
+- A practical, one-day training course and document clinic
+- Wednesday 3 December, RIBA, Central London
+http://www.headstar-training.com/dfa/ .
+
+Trainer: Katie Grant, former publications manager, Disability Rights
+Commission.
+'Designing for all' is a practical course designed to introduce
+organisations to the importance of designing accessible, easy to read
+information for a range of different audiences including older people,
+people with disabilities and people for whom English is not their first
+language.
+
+It will help you assess current design and content of information -
+please bring examples to our document clinic. The course will be of
+interest to anyone who is involved in the design and delivery of
+information in print, electronic and web formats. To book a place see:
+http://www.headstar-training.com/dfa/
+
+[Special notice ends].
+
+
+++Section One: News.
+
++01: Final Countdown To Long-Awaited Web Access Guidelines.
+
+A long-awaited updated version of the main international standard for
+making websites accessible to people with disabilities is expected to be
+published in December, E-Access Bulletin has learned.
+
+The Web Content Accessibility Guidelines (WCAG) version 2.0 from
+the World Wide Web Consortium (W3C - http://www.w3c.org) have
+been in development for several years.
+
+The first version of the WCAG guidelines now dates back around a
+decade, and though it has proved a vital tool for raising awareness of
+accessibility issues it has long been seen as over-technical, complex
+and unclear in many situations.
+
+Version 2.0 is set to address many of these problems by moving away
+from rigid technical 'checkpoints' to more flexible 'success criteria.'
+
+Earlier this month week, the responsible World Wide Web consortium
+working group met in Boston, US to finalise the current 'Candidate
+recommendation' phase of WCAG 2.0 in which the new guidelines
+have been tested on real web sites to confirm their applicability.
+
+The group will debate which success criteria can be considered
+sufficiently stable to be implemented, and some of the requirements
+previously marked as 'At risk' will be reviewed to ensure the guidelines
+can be met in practice. A W3C spokesman told E-Government Bulletin
+this week that publication in December was now expected, and that if
+the deadline did slip any further it would be a matter of weeks, not
+months.
+
+NOTE: For an exclusive interview with two W3C staff see
+'Organisation in the spotlight', Section Three, this issue.
+
++02: Recession Is Poor Excuse For Exclusion, Analyst Warns.
+
+Organisations should not use the economic downturn as a reason not to
+carry out work to make their websites more accessible to people with
+disabilities, a leading analyst said this week.
+
+In fact there is extensive evidence that an economic downturn is a good
+time to increase such activity, with significant opportunities to increase
+market share, Ted Page of PWS web services told the Law Society of
+Scotland's 'Nothing But The Net' conference
+(http://www.lawscot.org.uk/update/NBTN/).
+
+"A study published by McKinsey in 2002 found one of the most
+significant differences between the most and least profitable firms over
+the economic cycle was with respect to their spending on marketing
+and advertising during the recession period," he said.
+
+"Far from battening down the hatches when the economy turned down,
+the best performers actually increased spending in these areas, not just
+relative to their competitors but also compared to their own spending in
+better economic times. There have been many similar studies that have
+come to broadly the same conclusions."
+
+A recent survey by PWS found more than 80 per cent of professional
+services firms are failing to comply with the Disability Discrimination
+Act with respect to their websites, despite the costs of fixing
+accessibility problems generally being moderate or low, Page said.
+
+Fixing problems would enable companies to better reach 10 million
+disabled people in the UK, with £80 billion annual spending power, he
+said. It also offers better access to people using mobile web devices
+which are not designed to cope with inaccessible websites; and could
+improve access to the £160 billion a year public sector procurement
+market which encourages and may soon be made dependent on
+accessibility of goods and services purchased.
+
+There is one final reason why accessibility should not be ignored, Page
+said - Google. "It is in no way controversial to state that an accessible
+website is almost always a Google-friendly one. When Google comes
+to index your web content it navigates in much the same way that a
+blind person using screen reader does. It is for good reason that Google
+is often referred to as the "big blind billionaire". Shut it out at your
+peril."
+
+For a full copy of Page's talk see:
+http://www.pws-ltd.com
+
+
++03: People With Impaired Vision 'Less Likely To Be Employed'.
+
+People with visual impairments are less likely to be employed than
+people with other disabilities, according to a report on the UK labour
+market experiences of people with sight problems prepared for the
+RNIB by the Institute of Employment Studies (
+http://fastlink.headstar.com/ies1 ).
+
+The report was compiled through secondary analysis of the UK Labour
+Force Survey (LFS -
+http://fastlink.headstar.com/lfs1 )
+over the period July 2004 to June 2007. The LFS recorded 184,000
+people of working age in the UK who describe themselves as having
+'seeing difficulties'. Of those 108,000 are classed as disabled, 95,000
+of whom have a 'work-limiting' disability.
+
+The RNIB report finds people over 55 are three times more likely to
+have seeing difficulties as those in the 16-24 age bracket, which is a
+greater increase with age than with other kinds of disabilities.
+
+In addition, the report finds that people who are disabled with seeing
+difficulties are less likely to be employed (48 per cent) than those with
+other kinds of disability (50 per cent); this compares to an overall
+employment rate of 75 per cent among people of working age. For
+people with more than one disability, the employment rate drops to 38
+per cent, however for people with 'seeing difficulties' that do not
+constitute a disability the rate is much higher at 83 per cent.
+
+The unemployment rates are 8 per cent for disabled people as a whole
+but 13 per cent for those disabled by visual impairment.
+
+In contrast, the report also found that a higher than average proportion
+of visually impaired disabled people are employed in high-level
+positions.
+
+
+++News in Brief:
+
++04: Action Plan:This Friday, the government is set to launch a draft
+of its first ever Digital Inclusion Action Plan, marking the beginning of
+a major public consultation exercise including online responses via the
+Department of Communities and Local Government website. The 24
+October was selected for the launch because it is also 'Get online day',
+an event to encourage new internet users hosted by more than 6,000
+government-funded UK Online centres:
+http://www.getonlineday.com
+
++05: Mobile Future: A Bluetooth tagging system designed to provide
+information to blind people about their surroundings has been unveiled
+by developers at the University of Michigan. The system, known as
+Talking Points, uses Radio Frequency Identification (RFID) chips to
+impart information to passers-by with a special reader device. Reader
+equipment is currently expensive, but the developers say the use of
+Bluetooth means that in the future mobile phones could be used as
+readers:
+http://fastlink.headstar.com/umich1 .
+
++06: Nano Praise: Apple's latest iPod Nano has been praised by the
+American Federation of the Blind for incorporating innovations that
+make the device accessible to blind users. The latest model of Apple's
+popular portable music player features spoken menus to allow listeners
+to hear track names and details, a variable contrast screen and the
+ability to resize text. Screen reader users will also find it easier to
+access the features of Apple's iTunes music store after accessibility
+improvements were made to the website:
+http://fastlink.headstar.com/afb3 .
+
+[Section One ends].
+
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Special Notice: E-Democracy '08
+- Tuesday 11 November 2008, RIBA, Central London
+- Less Than One Month To Go - Don't Miss Out!
+http://www.headstar-events.com/edemocracy08/ .
+
+The UK's biggest and best annual conference on 'E-Democracy' is
+back for a fourth year, with a range of unmissable speakers. Anyone
+with an interest in connecting with communities; consultation; e-
+participation; or campaigning should register.
+
+Confirmed presenters include Mark Byford, Deputy Director-General
+of the BBC; Bethan Jenkins, Member of the Welsh Assembly; Andy
+Williamson, head of the digital government programme at the Hansard
+Society; James Crabtree, Trustee, UK Citizens Online Democracy; and
+Tom Steinberg, founder of MySociety.org. Partners and supporters
+include the Hansard Society, Cisco and the London Borough of
+Redbridge.
+
+Plenary sessions, networking and lively workshops combine to create
+the buzz that always surrounds this event. Fees are £165 + VAT for
+public and voluntary sector and £215 +VAT for private sector:
+http://www.headstar-events.com/edemocracy08/
+
+[Special notice ends]
+
+
+++Section Two: Organisation in the Spotlight
+- W3C.
+
++07: Global Standards Giant Gears Up For Battle
+by Dan Jellinek.
+
+With the long-awaited appearance of version 2 of the World Wide Web
+Consortium's Web Content Accessibility Guidelines (WCAG) now
+expected in December, the spotlight is set to fall once more on the
+workings of this key international standards body.
+
+The consortium, known as W3C, was founded in 1994 by the inventor
+of the web Tim Berners-Lee, who remains its director. It functions as a
+developer and repository of key technical standards and protocols that
+are needed to be shared by technology companies and users to ensure
+that the web remains open and universal.
+
+With a current membership of more than 400 organisations, from large
+multinational technology companies to universities and charities, W3C
+has three main global bases: the European Research Consortium for
+Informatics and Mathematics (ERCIM) at the Sophia Antipolis
+technology park in the South of France; Massachusetts Institute of
+Technology's Computer Science and Artificial Technology
+Laboratory; and Keio University in Japan.
+
+The consortium has a core staff of around 70, with around 30 in
+Europe, 30 in the US and 10 Japan. But the actual headcount of those
+involved in its work is more than 500 if a tally is taken of everyone in
+the consortium's working groups, interest groups, and the wider
+community.
+
+The WCAG work falls under the auspices of W3C's Web Accessibility
+Initiative (WAI), a programme that cuts across all the consortium's
+other areas. In a UK visit last month, two WAI staff Shadi Abou-Zahra
+and Andrew Arch met E-Access Bulletin in London to explain their
+work programme.
+
+"WAI is one of the consortium's main work areas, and cuts across all
+the W3C's global locations," said Abou-Zahra. "One of our tasks is to
+cross-check all W3C's work such as that on [the web's core protocol]
+HTML to check it supports accessibility, because if standards like
+HTML don't support accessibility, you won't have accessible websites.
+
+"This is really one of the most important pieces of work we are doing,
+though it is the least visible to the outside world. What's most well-
+known about WAI's work is its development of three guidelines -
+WCAG, ATAG (Authoring Tool Accessibility Guidelines) and UAAG
+(User Agent Accessibility Guidelines).
+
+Authoring tools guidelines relate to content management systems, and
+are aimed at ensuring these systems need to create accessible content,
+while user agents are tools like browsers and media players, Abou-
+Zahra says.
+
+"Other areas of our work include education and outreach, which is
+really important, because most people who make inaccessible websites
+are  often unaware of the issues for people with disabilities."
+
+One major new piece of work undertaken by WAI is the EC-funded
+WAI-AGE Project (
+http://www.w3.org/WAI/WAI-AGE/ ),
+a look at the implications of an ageing population for web access,
+given the older people are more likely to have disabilities and may also
+be less familiar with new technologies.
+
+"Demographics worldwide are dramatically changing at the moment,"
+says Andrew Arch, who works with Abou-Zahra on WAI-AGE. "The
+proportions of older to younger people are changing as well as the
+numbers. We're living longer, and we haven't got the support behind
+us.
+
+"Lots of things have got to change in governments and organisations -
+with an ageing workforce, you have to keep learning to stay
+accessible."
+
+The WAI-AGE project is partly aimed at finding out whether there are
+any significant new pieces of work needed to ensure web accessibility
+for an older population, Arch says.
+
+"We've looked at what research and user observation has gone on over
+the decade. There is a pretty big overlap between older people and
+others with disabilities - sight starts to decline, motor dexterity - and
+individually these overlap. But with older people there is often a lack
+of recognition that there is a disability there. For example some people
+might just say they can't remember so well, rather than that they have a
+cognitive impairment. Or people won't see failing eye-sight as a
+disability, it's just 'part of growing old'. But they are disabilities, and
+often multiple disabilities."
+
+Having gained a grasp of current research the project returned to
+guidelines such as WCAG 2.0 to see if any changes might be needed.
+"A large proportion of the needs of older people are met by the new
+guidelines, but other things might need to feed into the guidance we
+will issue on implementing the guidelines, for example guidance on
+how people prepare content for older people.," said Arch.
+
+"Many older people have not grown up with computers, and may not
+realise their capabilities, for example that you can magnify text in your
+browser."
+
+However as well as helping to address the problems of ageing it is also
+important to challenge myths and assumptions about older people such
+as none of them have any interest or expertise in using computers, says
+Abou-Zahra. "Social networking is an important part of ageing, for
+example. And making social networking sites more accessible for older
+users benefits everybody."
+
+This argument is a development of the age-old mantra from the
+accessibility sector that people with disabilities want to use the web in
+the same way as everybody else - "it is a human right recognised by
+the UN," says Abou-Zahra. But he recognizes that businesses in
+particular will also  be interested in the additional business benefits,
+especially in the current financial climate.
+
+"With commercial organisations the return on investment is often an
+important argument. Well, a few years ago, companies might have said
+'how many older people are online?' but with demographics changing
+they know the answer. And with the current surge in mobile phone use
+there is another incentive, since accessible sites work better on mobile
+phones."
+
+Other financial factors include helping to hold onto employees as their
+average age rises through making internal web systems more
+accessible, though more work is needed on in all these areas, he says.
+"We know there are not enough numbers attached to these business
+cases, and we hope for more soon. There is a business case document
+for accessibility on the WAI website, and we are updating it to reflect
+new developments."
+
+For many, however, the key accessibility event of the year - assuming
+it does scrape into 2008 - will be the release of WCAG 2.0.
+
+The WCAG working group held a face-to-face meeting in Boston at
+the beginning of October to examine the results of trial implementation
+of the draft guidelines on real websites, and now expects to finalise
+WCAG 2.0 as a fully-fledged W3C recommendation by December or
+at the latest by early next year, Abou-Zahra says.
+
+The first version of the WCAG guidelines now dates back around a
+decade, and though it has proved a vital tool for raising awareness of
+accessibility issues it has long been seen as over-technical and complex
+and unclear in many situations.
+
+Version 2.0 is set to address many of these problems by moving away
+from rigid technical 'checkpoints' to more flexible 'success criteria.'
+
+Another change of style will be a greater separation between the core
+guidelines and references to specific technologies such as Javascript or
+browser types, Abou-Zahra says.
+
+"The work needs to be coupled to technologies, but how do we do that
+in such a way as to not make it outdated the moment it is released?
+This is the complex issue," he says.
+
+"WCAG 1.0 was too  technology-specific. Back then HTML was more
+dominant, and there was less use of multimedia, but today we have a
+flurry of technologies such as Ajax, so the first lesson we learned is
+don't write for a specific technology. Also, in the days of WCAG 1.0
+we had to exclude Javascript because it was not sufficiently
+standardised and  assistive technology could not handle it consistently,
+but now that has largely changed so you need to include it, to look at
+how any technology should be accessible. The requirements - such as
+tagging images with text - needs to apply to any technology you are
+using.
+
+"So WCAG is more decoupled - but having said that, no matter how
+much you decouple it from specific technologies, there still need to be
+points of contact with real technologies, places where the tyre hits the
+road. It is an issue the group is looking to resolve by updating
+implementation guidance."
+
+Another ongoing problem with the WAI web content guidelines is that
+they do not fully address the needs of people with cognitive
+disabilities, admits Abou-Zahra, though he says this is a challenging
+longer term issue that the organisation is working to resolve alongside
+the wider access community.
+
+"We know it does not fully meet the needs of people with cognitive
+disabilities such as  some forms of learning  disabilities, we admit this
+up-front," he says. "It is a longer term project, maybe one for WCAG
+3.0. I feel this is an issue that the accessibility community as a whole
+needs to address, more research is needed."
+
+Beyond the publication of WCAG 2.0, W3C and WAI will continue to
+prioritise accessibility across all its areas of work, he says. "WAI's
+work is often reduced to WCAG in the public eye, but it is a whole lot
+more than content, it is about making the web accessible in its broadest
+sense."
+
+[Section Two ends].
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2008 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporter: Majeed Saleh
+Editorial advisor - Kevin Carey
+
+ISSN 1476-6337 .
+
+[Issue 106 ends.]

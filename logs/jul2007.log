@@ -1,0 +1,58 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:24 2008 __
+
+Input file: ../eab/issues/2007/jul2007.txt
+
+Warning: file already exists: ../eab/issues/2007/jul2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jul | index: 7 | year: 2007
+URLs, prev: ../2007/jun2007.html | next: ../2007/aug2007.html
+Found ++, heading 2: Special notice: Techshare Expo 2007
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 39.
+Found ++, heading 2: Issue 91 Contents.
+>> FOUND 2:  | 01:  | Training Portal For Personal Computing Launches
+>> FOUND 2:  | 02:  | Guide Aims To Push Accessibility Up The IT Agenda
+>> FOUND 2:  | 03:  | New Accessibility Guidelines Will Be More "Testable"
+>> FOUND 2: News in Brief:  | 04:  | Innovators Sought - disabled entrepreneur of the
+OK, News in brief
+Found: News in Brief:  | 04:  | Innovators Sought - disabled entrepreneur of the
+>> FOUND 2: year award launched;  | 05:  | Face Up - popular social networking site
+Found: year award launched;  | 05:  | Face Up - popular social networking site
+>> FOUND 2: creates accessible user verification;  | 06:  | Easy Read - Google book
+Found: creates accessible user verification;  | 06:  | Easy Read - Google book
+>> FOUND 2:  | 07:  | Underground Scene - tube train navigation update; 08: Course
+>> FOUND 2: Response - web design course suggestions;  | 09:  | CMS Enquiry - Help
+Found: Response - web design course suggestions;  | 09:  | CMS Enquiry - Help
+>> FOUND 2: the Hospices charity request;  | 10:  | Inaccessible PARIS - legal and
+Found: the Hospices charity request;  | 10:  | Inaccessible PARIS - legal and
+>> FOUND 2:  | 11:  | Power To The New Generation: The launch of the second version
+>> FOUND 2:  | 12:  | Moving On Up: E-Access Bulletin interviews Isaac Porat, the
+Warning line 83: expected [Contents ends].
+$toc_count=16
+> ITEM 2:  01:  | Training Portal For Personal Computing Launches.
+Warning: not found a 'contents' match: Training Portal For Personal Computing Launches.
+> ITEM 2:  02:  | Guide Aims To Push Accessibility Up The IT Agenda.
+Warning: not found a 'contents' match: Guide Aims To Push Accessibility Up The It Agenda.
+> ITEM 2:  03:  | New Accessibility Guidelines Will Be More "Testable".
+Warning: not found a 'contents' match: New Accessibility Guidelines Will Be More "Testable".
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Entrants are invited to enter a contest to find
+> ITEM 1:  05:  | : |  One of the world's largest social networking websites is
+> ITEM 1:  06:  | : |  A "View plain text" option link, enabling access to
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 270.
+> ITEM 1:  07:  | : |  Terry Robinson, of Describe Online writes
+> ITEM 1:  08:  | : |  Phia Damsma from Sonokids, an international
+> ITEM 1:  09:  | : |  Simon Brasch, Database and Website Manager at
+> ITEM 1:  10:  | : |  David Rosser from the Sensory Team
+Found ++, heading 2: Section Two - Focus
+> ITEM 2:  11:  | Power To The New Generation
+Warning: not found a 'contents' match: Power To The New GenerationBy Mel Poluck.
+Found ++, heading 2: Section Four: Multimedia Devices
+> ITEM 2:  12:  | Moving On Up
+Warning: not found a 'contents' match: Moving On UpBy Isaac Porat.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 684.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 690.

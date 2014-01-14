@@ -1,0 +1,61 @@
+__ BUILD [tens2html.pl  v1.14] log Thu Jan 15 22:27:06 2009 __
+
+Input file: ../eab/issues/2008/oct2008.txt
+
+Warning: file already exists: ../eab/issues/2008/oct2008.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: oct | index: 10 | year: 2008
+URLs, prev: ../2008/sep2008.html | next: ../2008/nov2008.html
+Found ++, heading 2: Issue 106 Contents.
+>> FOUND 2: + | 01:  | Final Countdown To Long-Awaited Web Access Guidelines
+OK, News in brief
+Found: + | 01:  | Final Countdown To Long-Awaited Web Access Guidelines
+>> FOUND 2: + | 02:  | Recession Is Poor Excuse For Exclusion, Analyst Warns
+Found: + | 02:  | Recession Is Poor Excuse For Exclusion, Analyst Warns
+>> FOUND 2: + | 03:  | People With Impaired Vision 'Less Likely To Be Employed'
+Found: + | 03:  | People With Impaired Vision 'Less Likely To Be Employed'
+>> FOUND 2: News in Brief:  | 04:  | Action Plan - digital divide; 05: Mobile Future -
+Found: Action Plan - digital divide | ; |  05: Mobile Future -
+>> FOUND 2: Bluetooth tags;  | 06:  | Nano Praise - accessible iPod.
+Found: Nano Praise - accessible iPod | . | 
+>> FOUND 2:  | 07:  | Global Standards Giant Gears Up For Battle: With version 2.0 of
+Warning line 41: expected [Contents ends].
+$toc_count=7
+Found ++, heading 2: Special Notice: Designing for all: an inclusive approach to web,
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Final Countdown To Long-Awaited Web Access Guidelines.
+Warning: not found a 'contents' match: Final Countdown To Long-Awaited Web Access Guidelines.
+> ITEM 2:  02:  | Recession Is Poor Excuse For Exclusion, Analyst Warns.
+Found 'contents' match: 1.
+Warning, replacing non-ASCII character 194 (line 110, 32): disabled people in the UK, with &#194;£80 billion annual spending power, he
+
+Warning 2 (TENS), found non-ASCII character 163 (line 110, 38).
+Warning 2 (TENS), found non-ASCII character 163 (line 110, 38).
+Warning, replacing non-ASCII character 194 (line 113, 22): improve access to the &#194;£160 billion a year public sector procurement
+
+Warning 2 (TENS), found non-ASCII character 163 (line 113, 28).
+Warning 2 (TENS), found non-ASCII character 163 (line 113, 28).
+> ITEM 2:  03:  | People With Impaired Vision 'Less Likely To Be Employed'.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : | This Friday, the government is set to launch a draft
+> ITEM 1:  05:  | : |  A Bluetooth tagging system designed to provide
+> ITEM 1:  06:  | : |  Apple's latest iPod Nano has been praised by the
+Found ++, heading 2: Sponsored Notice: Fortune Cookie
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 241.
+Found ++, heading 2: Special Notice: E-Democracy '08
+Warning, replacing non-ASCII character 194 (line 244, 52): the buzz that always surrounds this event. Fees are &#194;£165 + VAT for
+
+Warning 2 (TENS), found non-ASCII character 163 (line 244, 58).
+Warning 2 (TENS), found non-ASCII character 163 (line 244, 58).
+Warning, replacing non-ASCII character 194 (line 245, 32): public and voluntary sector and &#194;£215 +VAT for private sector:
+
+Warning 2 (TENS), found non-ASCII character 163 (line 245, 38).
+Warning 2 (TENS), found non-ASCII character 163 (line 245, 38).
+Found ++, heading 2: Section Two: Organisation in the Spotlight
+> ITEM 2:  07:  | Global Standards Giant Gears Up For Battle
+Warning: not found a 'contents' match: Global Standards Giant Gears Up For Battleby Dan Jellinek.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 2.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 468.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 475.

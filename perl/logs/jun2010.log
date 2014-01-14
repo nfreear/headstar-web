@@ -1,0 +1,53 @@
+__ BUILD [tens2html.pl  v1.14] log Sat Jul  3 23:09:05 2010 __
+
+Input file: ../eab/issues/2010/jun2010.txt
+
+Warning: file already exists: ../eab/issues/2010/jun2010.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jun | index: 6 | year: 2010
+URLs, prev: ../2010/may2010.html | next: ../2010/jul2010.html
+Found ++, heading 2: Issue 126 Contents.
+>> FOUND 2:  | 01:  | Association To Set UK Digital Format Standards
+>> FOUND 2:  | 02:  | Public-Private 'Unwillingness to Co-operate' Over Smart
+>> FOUND 2:  | 03:  | Danes Are Latest To Miss EU Web Access Target
+>> FOUND 2: News in Brief:  | 04:  | Football Crazy - Online World Cup guide;
+OK, News in brief
+Found: Football Crazy - Online World Cup guide | ; | 
+>> FOUND 2:  | 05:  | Canvassing Opinion - BBC joins online TV standards
+>> FOUND 2: project;  | 06:  | Big Problems - what US screen-reader users hate
+Found: project;  | 06:  | Big Problems - what US screen-reader users hate
+>> FOUND 2:  | 07:  | Research Call - basic information sought on use of
+>> FOUND 2: technology by people with disabilities;  | 08:  | Cut Links - we ask
+Found: technology by people with disabilities;  | 08:  | Cut Links - we ask
+>> FOUND 2: for readers' web address formatting preferences;  | 09:  | Facebook
+Found: for readers' web address formatting preferences;  | 09:  | Facebook
+>> FOUND 2:  | 10:  | The Right to Borrow: The UK's Digital Economy Act 2010
+Warning line 46: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Association To Set UK Digital Format Standards.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Public-Private 'Unwillingness to Co-operate' Over Smart
+Warning: not found a 'contents' match: Public-Private 'Unwillingness To Co-Operate' Over Smarthomes.
+> ITEM 2:  03:  | Danes Are Latest To Miss EU Web Access Target.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  An email guide to the ongoing FIFA
+> ITEM 1:  05:  | : |  Confirmation that the BBC is to
+> ITEM 1:  06:  | : |  Use of CAPTCHA tests - images that
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 248.
+> ITEM 1:  07:  | : |  A short and sweet request for information
+> ITEM 1:  08:  | : |  Another reader and regular correspondent from
+> ITEM 2:  09:  | Facebook Solutions:
+Warning: not found a 'contents' match: Facebook Solutions:
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  10:  | The Right to Borrow
+Warning: not found a 'contents' match: The Right To Borrowby Guy Whitehouse.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 475.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 506.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 513.

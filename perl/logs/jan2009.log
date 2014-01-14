@@ -1,0 +1,48 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Nov 15 21:06:35 2009 __
+
+Input file: ../eab/issues/2009/jan2009.txt
+
+Warning: file already exists: ../eab/issues/2009/jan2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jan | index: 1 | year: 2009
+URLs, prev: ../2008/dec2008.html | next: ../2009/feb2009.html
+Found ++, heading 2: E-Access '09: Technology For All
+Found ++, heading 2: Issue 109 Contents.
+>> FOUND 2:  | 02:  | Tech Industry Slams 'Fragmented' EU Inclusion Policy
+>> FOUND 2:  | 03:  | Sign Language Videos And Virtual Tours Win Cultural Awards
+>> FOUND 2: News in Brief:  | 04:  | Driving Innovation - computer exam system; 05:
+OK, News in brief
+Found: Driving Innovation - computer exam system | ; |  05:
+>> FOUND 2: Future Build - ICT access in schools;  | 06:  | Language Access - web
+Found: Future Build - ICT access in schools;  | 06:  | Language Access - web
+>> FOUND 2:  | 07:  | Double Opt-In - Captcha alternative; 08: Style Problems? -
+>> FOUND 2:  | 09:  | Quality, Not Quantity: The Dutch government's IT agency has
+Warning line 79: expected [Contents ends].
+$toc_count=8
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Visual Memory Is Key To Use Of Graphic Interfaces.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Tech Industry Slams 'Fragmented' EU Inclusion Policy.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Sign Language Videos And Virtual Tours Win Cultural Awards.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  An accessible examination system to allow
+> ITEM 1:  05:  | : |  Local IT accessibility and special educational needs
+> ITEM 1:  06:  | : |  A new version of the 'Talklets' talking web
+Found ++, heading 2: Sponsored Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 246.
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 281.
+> ITEM 1:  07:  | : |  Tedd Sperling, a freelance programmer based
+> ITEM 1:  08:  | ? |  Diana Monahan of Moor End Technology
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 344.
+Found ++, heading 2: Special Notice: Opportunities and risks of open source software in
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three: Special Report
+> ITEM 2:  09:  | Quality, Not Quantity.
+Warning: not found a 'contents' match: Quality, Not Quantity.- By Dan Jellinek.
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 492.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 499.

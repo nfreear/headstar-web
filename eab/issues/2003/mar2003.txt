@@ -1,0 +1,661 @@
++++E-ACCESS BULLETIN.
+- ISSUE 39, MARCH 2003.
+
+Technology news for people with visual impairment
+(http://www.e-accessibility.com).
+
+Sponsored by RNIB (http://www.rnib.org.uk)
+and National Library for the Blind (http://www.nlbuk.org).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard. For example, all items are numbered. For details see:
+http://www.headstar.com/ten
+
+
+++ISSUE 39 CONTENTS.
+
+- Section one: News.
+
+01: Planned EU directive to ban technology discrimination
+   - draft proposal could be law by year end.
+
+02:  Education support database goes live
+- universities and colleges assistance guide.
+
+03: Call for UN action on technology access
+- guidelines for development work.
+
+04: Audio e-greetings from Bafta-nominated site
+- online messages with poems.
+
+News in brief: 05: Mobile organiser - wireless technology launched; 06:
+Digitally undivided - inclusion
+awards; 07: Sky description - schedules online.
+
+Section two: 'The Inbox' - Readers' forum.
+08: Visual definition - terminology issue; 09: Bounce back - job-search
+web site; 10: Black rectangle -
+cursor query; 11: Living paintings - art site invites reponses.
+
+Section three: Conference preview - CSUN 2003
+- 12: Mobile highlights for technology showcase: Derek Parkinson looks
+at some of the new technologies on
+offer at the world's largest annual accessible technology showcase.
+
+Section four: The Arts
+- 13: Paintings that speak volumes: Provisions are improving for
+visually impaired visitors to museums and
+galleries. Mel Poluck looks at new developments in the area.
+
+Section five: Banking - Talking cash machines
+- 14: Financial independence: Banks in Australia are among the first in
+the world to provide 'talking' ATM
+cash machines. Julia Schofield tries one out.
+
+[Contents ends.]
+
+
+++SECTION ONE: NEWS.
+
++01: PLANNED EU DIRECTIVE TO BAN TECHNOLOGY DISCRIMINATION.
+
+Proposed EU rules banning discrimination against disabled users of
+media, telecommunication and online
+services have been unveiled this month by European disability groups,
+which hope the provisions will pass
+into law by the end of this year.
+
+The draft directive would require all private and public bodies to
+deliver their internet services in accessible
+formats, and all telecommunications services to be made accessible
+within five years.
+
+The measures form part of a broad anti-discrimination initiative
+developed by the umbrella lobby group the
+European Disability Forum (EDF -
+http://www.edf-feph.org/en/welcome.htm) with the European Parliament
+Disability Intergroup (http://www.edf-feph.org/apdg/index-en.htm), an
+informal grouping of MEPs working
+on disability policy.
+
+If passed, the rules would represent the first European move to
+prohibit discrimination against the disabled
+across multiple sectors and services including the workplace,
+healthcare, social services, education, goods,
+facilities, services and product design. At present, most
+anti-discrimination law in EU member states is
+contained in provisions which form part of broader laws governing areas
+such as transport, education or
+social security.
+
+The law would also introduce enforcement procedures, including the
+right for people with disabilities to go
+to court in any EU member state.
+
+"We expect changes will be made to the draft in the next stage, where
+it is considered by the European
+Commission directorate concerned with employment and social affairs.
+But the draft has been two years in
+the making and we have been very careful not to exceed the powers of
+European institutions. We hope the
+commission will give its support," an EDF spokesperson said this week.
+
+
++02: EDUCATION SUPPORT DATABASE GOES LIVE.
+
+Students with disabilities can check what kinds of accessibility and
+support facilities and services are
+provided for them by colleges and universities in 17 European countries
+with the Higher Education
+Accessibility Guide (HEAG - http://www.heagnet.org), a European
+Commission-funded service that
+launched earlier this month.
+
+HEAG users can access online information resources on each country or
+find telephone contacts for
+educational and government bodies. In the UK section, users can search
+for all colleges and universities that
+provide syllabuses or books in alternative formats such as Braille,
+large print, tape or disk.
+
+Most institutions have provided links to their web sites together with
+contact information for disability
+advisers. "The idea is to provide people with a general idea of what is
+available," said a spokesperson for the
+education and employment charity Skill (http://www.skill.org.uk), the
+UK partner in the HEAG project.
+According to Skill, a student needing information about a specific
+course should contact university disability
+advisers directly.
+
+
++03: CALL FOR UN ACTION ON TECHNOLOGY ACCESS.
+
+An urgent call for the United Nations to build basic technology
+accessibility rules into their development
+programmes was launched last week at an international meeting in the
+Philippines, attended by
+representatives of ten Asian countries, the US and Canada.
+
+The event, 'empowering persons with disabilities through ICT'
+(http://www.worldenable.net/manila2003),
+was organised by 'WorldEnable' (http://www.worldenable.net), an
+international accessibility consortium
+developed by Canadian company Vision Office
+(http://www.visionoffice.com) and US social sector
+consultancy AIMS (http://www.intlmgt.com). It was supported by the
+Philippine government and the United
+Nations department of social and economic affairs.
+
+The problems of access to technology in the developing world are
+particularly acute because of lack of funds
+and training, so people with disabilities faced even more severe
+problems unless action is taken, the
+conference heard. A joint statement from delegates called on the UN to
+undertake a global study on norms
+and standards for technology accessibility in the developing world;
+develop a pilot web site accessibility
+assessment tool for use in a development context; and develop relevant
+training and resource materials
+usable by poorer nations.
+
+Cynthia Waddell, director of the US-based centre for disability
+resources on the internet
+(http://www.icdri.org) and co-facilitator of the conference, said: "The
+call from Manila is for a minimum
+threshold worldwide for accessible design of all technologies in
+general, and of web technology in
+particular."
+
+Waddell said the remit of an existing UN committee on rights of people
+with disabilities
+(http://www.un.org/esa/socdev/enable/disA56168e1.htm), which is working
+towards a global convention,
+could be expanded to specifically mention accessible design of
+technology.
+
+
++04: AUDIBLE E-GREETINGS FROM BAFTA-NOMINATED SITE.
+
+A set of audible 'e-greetings cards' accessible to visually impaired
+people (http://www.yrguk.com/poetry)
+has been launched by the UK Audio Network, a free resource created by
+accessibility enthusiast Bill Teale.
+
+Users can choose from 25 poems grouped by themes such as 'humour' and
+'birthday', which are played
+using the Real Audio standard and are compatible with major types of
+screen reader software. Using number
+keys for navigation, audio instructions lead the user through options,
+which include sending a personalised
+message with a poem.
+
+The UK Audio Network site (http://www.yrguk.com) also provides links to
+online radio stations, news,
+sports commentary, interactive audio quizzes and games for visually
+impaired people. In 2002 the site and
+was nominated for a British Academy of Film and Television Arts award
+for accessible interactive
+entertainment (http://www.bafta.org/interactive), to the astonishment
+of Teale, who runs the entire operation
+unfunded, from his bedroom in Halifax.
+
+
+++NEWS IN BRIEF.
+
++05: MOBILE ORGANISER: An innovative mobile phone and personal
+organiser with a Braille display
+and keyboard, providing text messaging, email, mobile telephony and
+note-taking functions, will be
+launched by Dutch company Alva (http://www.alva-bv.nl) this month,
+E-Access Bulletin has learned. The
+project was first unveiled at last year's RNIB Techshare conference:
+http://www.rnib.org.uk/techshare/phone_weij.htm
+
+
++06: DIGITALLY UNDIVIDED: This year's eWell-Being awards are inviting
+nominations by 31 March for
+'digital inclusion' technology projects which have helped improve
+access to jobs, education, entertainment
+and leisure interests for disadvantaged groups. The awards are hosted
+by non-profit body SustainIT:
+http://www.sustainit.org/ewell-being/2003_info.htm
+
+
++07: SKY DESCRIPTION: The digital satellite television broadcaster Sky
+has added audio description
+programme schedules to its web site. Sky currently exceeds the
+government quota of 4 per cent of
+programming to be audio described:
+http://www1.sky.com/disability/tvguide.htm
+
+[Section one ends.]
+
+
+++SPECIAL NOTICE: 'ACCESS IT' AND 'COMPUTE IT'
+- MONTHLY TECHNOLOGY MAGAZINES FROM RNIB.
+
+'Access IT' provides computer access technology information of
+particular interest to blind and partially
+sighted people. It features articles both for the novice and
+experienced user. 'Compute IT' is designed for the
+computer enthusiast/amateur and will bring you the latest information
+on hardware and software
+developments.
+
+To subscribe to either of these magazines by email, Braille or disk, at
+a cost of 49 pence an issue, email
+RNIB Customer Services at cservices@rnib.org.uk
+or call 0845 702 3153
+
+[Special notice ends.]
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com .
+
+
++08: VISUAL DEFINITION: Trevor Frost, Adaptive Technology Coordinator
+at the Royal Society for the
+Blind of South Australia, writes in with a point of terminology. "As
+someone with an almost radical
+disrespect for political correctness I find it difficult to believe I
+am writing on just that topic.
+
+"As a reader of E-Access Bulletin I am constantly confronted with the
+term 'visually impaired', a common
+enough term worldwide but one seldom used here in Australia where we
+refer to people with sight loss as
+being 'vision impaired'.
+
+"I believe this came about when some pedant decided that a 'visually
+impaired' person meant someone who
+is unpleasant to look at. When I have pointed this out to visitors from
+the UK it has been the cause of great
+mirth but one must concede that it is the vision that is affected not
+the looks of the individual.
+
+"As a 'vision impaired' person I am curious for others' comments on
+this" [Reponses to
+inbox@headstar.com].
+
+
++09: BOUNCE BACK: Jackie Wright of technology firm Disability Dynamics
+writes in following last
+month's 'Inbox' snippet from Chris Gregory about online job search
+modules developed by Action for Blind
+People.
+
+She says: "I thought readers might be interested to look at an
+accessible CV design and job search site
+'Bounce Back' (http://www.bounceback.org.uk) we developed last year
+with EU funding, which is being
+used by the Wheatsheaf Trust Employment Access Centre in Southampton
+and a number of local colleges.
+We are keen for people to make use of it and wish to develop it
+further, so any feedback would be
+welcome." Please send feedback to Jackie at:
+wright.jackie@btinternet.com .
+
+
++10: BLACK RECTANGLE: John Loader of DotSix Brailling Services writes
+in for assistance on behalf of
+a relative: "My mother-in-law has macular degeneration and can no
+longer see the standard cursor on her
+computer screen, even at 18 point. I've tried in Windows for a more
+prominent cursor to no effect, and
+searches on the internet seem only to give animated and fun cursors.
+What we want is a big black rectangle.
+Any idea where I might be able to download one please?" [Reponses to
+inbox@headstar.com].
+
+
++11: LIVING PAINTINGS: Camilla Oldland of The Living Paintings Trust,
+which provides free tactile
+versions of paintings and illustrations for visually impaired people,
+is seeking help in a review of the
+charity's web site (http://www.livingpaintings.org) .
+
+"We are keen to improve the quality of our web facilities, and are
+looking for visually impaired internet
+users who might guide us in this development. Our web developers have
+put together a brief questionnaire
+that should take no more than five minutes to complete - all responses
+will be treated in confidence". For a
+copy of the questionnaire please email lpt@livingpaintings.org .
+
+[Section two ends].
+
+
+++SECTION THREE: CONFERENCE PREVIEW
+- CSUN 2003.
+
++12: MOBILE HIGHLIGHTS FOR TECHNOLOGY SHOWCASE
+by Derek Parkinson  derek@headstar.com .
+
+The largest annual global showcase of new technology for people with
+disabilities, staged at California State
+University (CSUN -  http://www.csun.edu/cod/conf), opens on Monday and
+runs for six days.
+
+Topics of interest to the visual impairment community this year include
+developments in mobile computing;
+educational games; and the latest thinking on technology training.
+
+The conference, which will receive visitors from more than 35
+countries, will feature a keynote speech by
+technology pioneer Ray Kurzweil, who pioneered reading machines for
+visually impaired people (see
+http://www.kurzweiltech.com/aboutray.html).
+
+The mobile technology highlights will include the unveiling of new
+capabilities for the PAC Mate, a
+handheld computer made by Freedom Scientific that combines a JAWS
+screenreader, browser, email,
+calendar, contacts and document functions (see
+http://fastlink.headstar.com/csun1). The company will
+demonstrate how to connect PAC Mate - which uses the Microsoft Pocket
+PC operating system - to a mobile
+phone, printer or home computer using Bluetooth wireless technology. It
+will also preview future models.
+
+Pulse Data will demonstrate KeyWeb, an accessible web-browser for the
+company's mobile BrailleNote
+notetakers and other devices; and KeySync, which enables accessible
+mobile access to Microsoft Outlook
+email software (see http://fastlink.headstar.com/csun2). The company is
+also expected to demonstrate new
+multilingual capabilities of these products.
+
+VisuAide, a developer of advanced audio products, will demonstrate
+Victor Trekker, which combines GPS
+satellite connectivity with audio navigation guides (see
+http://fastlink.headstar.com/csun3). The company
+will also release a new, lower cost version of its Victor Classic
+e-book reader
+(http://www.visuaide.com/victorclassic.html). The device retains full
+functionality and a rechargeable
+battery pack, but the power transformer has moved from inside the
+player onto the power cord to reduce its
+weight when used with batteries. E-Access Bulletin would like to
+correct a statement implying reduced
+functionality for this device carried in our last issue.
+
+GW Micro will announce the inclusion of a Macromedia Flash online
+animation reader for their leading
+Window-Eyes screen-reader, which can also now access multimedia content
+in formats used by Real Audio
+players (see http://fastlink.headstar.com/csun4).
+
+Meanwhile Freedom Scientific and others will demonstrate how the latest
+version of its JAWS for Windows
+screenreader can navigate forms, tables and frames on web pages
+(see http://fastlink.headstar.com/csun5).
+
+As in previous years, training and education will be a key theme, and
+this year a European Commission-
+funded project exploring educational online games for children is
+likely to stir particular interest. The Tactile
+Interactive Multimedia (TIM) project intends to develop and to adapt
+computer games, making them
+accessible through devices like tactile boards, Braille displays or
+speech synthesisers. Children as young as
+three will be able to navigate through sound environments to boost
+their academic and social or emotional
+learning (see http://fastlink.headstar.com/csun6).
+
+Among others, the session will examine 'Reader rabbits', an adaptation
+of a mainstream discovery game
+designed for very young children; 'MudSplat', where the player defeats
+mud throwing monsters by squirting
+water at them; 'Tim's journey', an exploration game where the player
+solves a mystery by exploring a sound
+environment; and 'X-tune', a musical game where the player can sequence
+and play with different sound
+environments. 'TiM's Magic dictation' is a educational game for
+learning reading and writing.
+
+New ways of teaching music will be explored by technology developer
+Dancing Dots in a session
+showcasing its Speech-Assisted Learning product
+(http://fastlink.headstar.com/csun7). SAL works by
+placing a standard page of embossed braille over a flat touch-screen.
+When the student presses on a Braille
+character, SAL responds with auditory feedback. The system also
+incorporates a Braille keyboard, a
+synthetic speech engine and an audio file player. After completion of a
+set activity, the product can report
+the results to a tutor.
+
+Finally, a session led by Harris Rosensweig of the Royal New Zealand
+Foundation for the Blind; Steve Tyler
+of the RNIB and Shan Sasser of the Iowa Department for the Blind will
+assess the viability of forming an
+international consortium that will provide professionals from around
+the world with a resource for
+information and training materials on providing computer training to
+blind, visually impaired, or deafblind
+individuals (http://fastlink.headstar.com/csun8). The session will
+discuss the approaches and materials
+currently used by the three organisations.
+
+[Section three ends.]
+
+
+++SECTION FOUR: FOCUS
+- THE ARTS.
+
++13: PAINTINGS THAT SPEAK VOLUMES
+by Mel Poluck  mel@headstar.com .
+
+Many museums and galleries are seeking to enhance access to exhibitions
+for visually impaired visitors by
+combining tactile experience with use of technologies such as web sites
+and audio guides.
+
+The National Gallery web site for example, since January 2003, has
+featured an online zooming system
+whereby users can enlarge details of paintings such as Van Gogh's
+'Sunflowers'
+(http://www.nationalgallery.org.uk/collection/news/newsitems/zoom.htm).
+And recent exhibitions at
+Newcastle's Laing Art Gallery have incorporated relief versions of
+paintings by artists such as Stanley
+Spencer with accompanying audio descriptions, some of which remain as
+permanent exhibits.
+
+The problem with many of these services, however, arise from a lack of
+detail in visual descriptions issued
+through audio channels. One regular gallery visitor with a visual
+impairment told E-Access Bulletin that
+audio description often comes over as superficial and lacking in
+detail. "I would love to have the textures,
+perspectives and information about techniques explained to me," she
+said. "These are the kinds of details
+sighted people absorb unconsciously. I want to be able to feel the
+depth of a painting."
+
+To explore such issues further and examine possible solutions, the Arts
+Council is funding 'Talking images,'
+a project to interview around 300 visually impaired people to discover
+and analyse their attitudes towards
+museum and gallery visits. Another strand of the 18-month project - run
+by RNIB with accessible arts
+charity VocalEyes (http://www.vocaleyes.co.uk) - is sending 12 visually
+impaired 'auditors' to around 50
+cultural institutions to test the accessibility of their audio guides.
+
+Some galleries are already attempting to set the pace for accessible
+art. Tate Britain
+(http://www.tate.org.uk/britain) provides a service whereby visitors
+can feel mock-up canvases of paintings
+by artists such as Jackson Pollock and handle sculptures. It also began
+last month to offer free audio
+description tours in association with VocalEyes using new, lightweight
+hand sets. In future, the Tate is
+aiming to create an audio description 'bank' online, which rotates
+according to changing displays.
+
+The British Museum's Compass project
+(http://www.thebritishmuseum.ac.uk/compass), a web site
+containing images of and information about 5,000 key artefacts, has
+also been made accessible for visually
+impaired people. Users can change the text size, style and colour
+through browser settings and view a text
+only version of the service (see http://fastlink.headstar.com/museum1).
+Besides Compass, which last year
+won the National Library of the Blind's visionary design award
+(http://fastlink.headstar.com/nlbuk1), a
+terminal for audio-described literature about the museum's collections
+was installed in the museum's
+reading room last month.
+
+Compass project manager Matthew Cock told E-Access Bulletin: "People
+are realising that to start an
+accessible site is not just a question of making a text-only option,
+but that accessibility for visually impaired
+people should pervade the whole site. Not to do so is like only putting
+a wheelchair ramp round the back of a
+building."
+
+NOTE: For more coverage of access to art galleries and museums see
+E-Access Bulletin, Section Four, Issue
+35, November 2002 and story four in the News section of our October
+2002 issue.
+
+[Section four ends.]
+
+
+++SECTION FIVE: BANKING
+- TALKING CASH MACHINES.
+
++14: FINANCIAL INDEPENDENCE
+by Julia Schofield  julia.schofield@jsc.co.uk .
+
+Australia, Canada and the US currently lead the world in the
+development of talking 'ATMs' (automated
+teller machines) at banks, for visually impaired customers (see
+E-Access Bulletin, issue 31, July 2002, story
+16).
+
+In Australia, two banking groups - National Australia Bank, and Westpac
+which incorporates Bank of
+Melbourne and Challenge Bank - have been the first to deploy the
+systems in selected locations, and earlier
+this year I had the chance to assess one of these cash machines in
+Melbourne.
+
+The idea is to provide fully independent access to the ATM for people
+with poor or no sight. The ATMs
+used by Bank of Melbourne are manufactured by NCR and are available for
+normal use, with additions to
+make them 'talk'. The main external changes are some transparent
+Braille labelling and a walkman-type
+audio socket beneath a small sliding cover.
+
+Whenever visually impaired customers enquire about the system, they
+should be directed to a bank that has a
+talking machine. Staff in these branches have been trained in how to
+show people with poor or no sight the
+machine and are instructed too that they must cover how to find it from
+the entrance - the present machines
+are inside the bank.
+
+Accessible ATMs must be positioned near a door in a location where
+someone can easily find it, for example
+by following a wall along a route that does not have furniture or
+queues of people in the way.
+
+The first time the talking ATM is used, a member of staff at the bank
+will accompany the visually impaired
+person to ensure they understand how it works. At this short training
+session, they provide a small earpiece
+with a hook to attach it to the ear so that both hands are free, but
+subsequently it is most convenient for users
+to bring their own earpiece. In Melbourne, staff training is provided
+by the Royal Victorian Institute for the
+Blind.
+
+On the machine itself, slots have been marked in Braille with what they
+are (for example "cash", "receipt",
+"card"). A jack socket has been placed under a small cover so that the
+headphone can be plugged in.
+
+The keyboard has tactile markings - the '5' key is marked with a raised
+bump, as with a telephone, and the
+'enter' and 'clear' keys have additional markings. And then, of course,
+there are the spoken instructions -
+the element that makes it a 'talking' machine.
+
+To hear the instructions, the customer plugs in their earpiece.
+Instantly the machine introduces how it works
+in brief, good quality speech. It invites the customer to put in their
+card, describing the orientation - "place
+your card in the slot marked 'card' with the raised printing uppermost
+and to the left".
+
+The customer is next asked to type their card number on the keypad and
+press 'Enter' (they are told this key
+is next to the 9 and it has a tactile marker). The 'Clear' button is
+also described, in case of error. For
+withdrawal of cash, the customer is asked to press 1 for 20 Australian
+dollars, 2 for 50 dollars, 3 for 100
+dollars and so on. When there is a pause, a message reassures the user
+that their transaction is being
+processed.
+
+Whether the customer wants a receipt is also confirmed with keystrokes
+on the numbers and the customer is
+told to remove their card then take the money and receipt. Other
+transactions work in a similar way and if a
+balance is requested then this is given through the earpiece, which
+ensures the information remains secure.
+
+Overall, the machine was very usable. The audio instructions were
+carefully worded, and the assistance I
+received from staff was efficient, sensitive and extremely clear.
+Machines such as this represent a major step
+forward in financial independence for visually impaired people.
+
+NOTE: Dr Julia Schofield is Founder and Director of Julia Schofield
+Consultants Limited
+(http://www.jsc.co.uk).
+
+[Section five ends.]
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.e-accessibility.com is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Phil Cain  phil@headstar.com
+News editor - Derek Parkinson  derek@headstar.com
+Reporter - Mel Poluck  mel@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk .
+
+ISSN 1476-6337
+
+[Issue ends.]
+

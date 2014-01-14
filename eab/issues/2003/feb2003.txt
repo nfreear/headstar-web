@@ -1,0 +1,683 @@
++++E-ACCESS BULLETIN.
+- ISSUE 38, FEBRUARY 2003.
+
+Technology news for people with visual impairment
+(http://www.e-accessibility.com).
+
+Sponsored by RNIB (http://www.rnib.org.uk)
+and National Library for the Blind (http://www.nlbuk.org).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard. For example, all items are numbered. For details see:
+http://www.headstar.com/ten
+
+
+++ISSUE 38 CONTENTS.
+
+- Section one: News.
+
+01: Audio description subsidy bid
+- RNIB seeks millions from culture ministry.
+
+02: Concern over direction of European law
+- access appears to be low priority.
+
+03: Guidelines for accessible online forms
+- company aims to set the standard.
+
+04: Signals from space through the internet
+- testing for wireless navigation technology.
+
+05: The dating game
+- Valentine's role-play sets pulses racing.
+
+News in brief: 06: Reading aloud - talking newspaper online; 07:
+Braille India: first course begins; 08: Raised awareness: digital radio
+information in Braille.
+
+Section two: 'The Inbox' - Readers' forum.
+09: Sound response - national archive director writes; 10: Career
+guidance - job-hunting advice; 11: Machine quest - copying machine
+wanted; 12: Ah so - karate lessons.
+
+13: Section three: Report - Digital politics
+- Voices for change: As the Communications bill proceeds through
+Parliament, Mel Poluck reports on a mass lobby at the House of
+Commons that urged MPs to beef up its access provisions.
+
+14: Section four: Debate - Web testing
+- Seeing it wrong? Some aspects of web site accessibility are clear-cut
+but others reside in a more subjective 'grey area'. Mel Poluck
+adjudicates.
+
+15: Section five: Technology review - Talking books
+ - Pick of the DAISY players: Phil Cain looks at a range of e-book
+players: those on the UK market and those available in the coming
+months.
+
+[Contents ends.]
+
+
+++SECTION ONE: NEWS.
+
+
++01: AUDIO-DESCRIPTION SUBSIDY BID.
+
+The RNIB is to urge the government to subsidise the technology
+needed to receive audio-described digital television, to ensure
+affordable access to description for all who need it, E-Access Bulletin
+has learned.
+
+A proposal will be delivered to broadcasting minister Kim Howells
+later this month for three million pounds to subsidise the production of
+around 20,000 plug-in cards to allow users to access audio description
+on Freeview, the digital terrestrial service run by a consortium headed
+by the BBC.
+
+If successful the bid could see audio description available later this
+year to visually impaired people at a cost of two hundred and fifty
+pounds - 110 pounds for the card and 150 pounds for the set-top
+decoder box.
+
+When inserted into Freeview decoders the cards, designed by SCM
+Microsystems (http://www.scmmicro.com), allow viewers to play an
+audio description track over headphones or through an amplifier into
+loudspeakers. Many hours of audio described programming are
+produced by the BBC, ITV, Channel Four and Channel Five each
+week, but go unwatched because there is no suitable decoder on the
+market.
+
+Alongside the funding bid, the plug-in is due to be tested by 45 people
+who have been part of a group assessing broadcasters' audio
+description output using makeshift technology for the past three years
+run by the Digital Network, a consortium of broadcasters. The man
+running the trial, Jim Slater, does not expect the change to the units
+to present any technical problem.
+"Everybody who has audio description loves it," says Slater. "The only
+negative feedback is that there is not enough."
+
+NOTE: Audio descriptions of video e-learning material could be
+automated by technology being developed by French company Ecrans
+Magique. The company, which specialises in technology that
+categorises online content, is looking for research partners to
+collaborate on 'VoxVision'. Interested companies or universities
+should contact director Jean-Paul Decle on jpdecle@wanadoo.fr .
+
+
++02: CONCERN OVER DIRECTION OF EUROPEAN LAW.
+
+Plans for European legislation designed to ensure widespread access to
+digital television and third generation mobile services need to be
+radically reconsidered if they are to protect the rights of people with
+disabilities, according to international lobby groups.
+
+The legislation, which is scheduled to be considered by the European
+Parliament by the end of 2003, will set out a framework within which
+broadcasting and communications regulators in EU member states will
+operate to ensure that interactive communications services are widely
+available.
+
+However, at a meeting with the European Commission on 4 February,
+disability groups expressed concern that a report outlining the proposed
+direction of the legislation (http://fastlink.headstar.com/EU5) focuses
+on rolling out the technology infrastructure and the costs of services
+but overlooks the needs of people with disabilities.
+
+"We were amazed that the commission can put out a report on access
+to services without mentioning accessibility," said Cathy Toscan of the
+European Design for All e-Accessibility Network (http://www.e-accessibility.org).
+According to Toscan, the commission has "promised
+to take a closer look at accessibility issues" before a final report is
+drawn up.
+
+Separately, the commission has supported a proposal for a UN
+Convention that would protect and promote the rights of disabled
+people, which is scheduled to be discussed at a UN committee meeting
+in June. The European Disability Forum campaign group
+(http://www.edf-feph.org/en/welcome.htm) welcomed the move but
+emphasised that support from member states is essential. "Because of
+UN regulations, member states must negotiate as individuals rather
+than as communities, so it is important for ministers of foreign
+affairs to know about this issue and support it," said a spokesperson.
+
++03: GUIDELINES FOR ACCESSIBLE ONLINE FORMS.
+
+Guidelines to help developers design accessible online forms were
+published this month by forms software company Mandoforms
+(http://www.mandoforms.com).
+
+The Manchester-based firm began drafting the guidance after an RNIB
+audit in August last year identified potential access problems with its
+forms.
+
+According to product manager Kevin Trembath, the many accessibility
+pitfalls for online forms include not allowing people to use the
+keyboard to move the cursor between fields in a form; to make error
+messages hard for people using screen-readers by not putting them at
+the top of the screen; or to use a colour such as red to indicate there
+is a problem.
+
+To provide an accessible form using the current version of
+Mandoforms software, version 4.1, designers need to provide a
+separate page. But the next version of the software will allow designers
+to make just one version accessible to everyone, Trembath says. "Our
+overall goal is universal design."
+
+To view a text version of the guide visit:
+http://fastlink.headstar.com/mando1
+
+And to submit comments visit:
+http://fastlink.headstar.com/mando2
+
+
++04: SIGNALS FROM SPACE THROUGH THE INTERNET.
+
+Detailed spoken navigation instructions in an outdoor environment,
+accurate to 'a few metres', could be made available to visually
+impaired people with new satellite and wireless internet technology
+being tested this month by volunteers from ONCE, Spain's national
+organisation of the blind (http://www.once.es).
+
+Until now, positioning data from satellites has only been accurate to
+around 40 metres, and connections are easily lost in areas with tall
+buildings and underpasses.
+
+The volunteers will test a small navigator that can be carried in a
+shoulder bag. The device, developed by GMV Sistemas
+(http://www.gmvsistemas.es), combines data from satellites and mobile
+phone networks to deliver location information in voice and Braille
+formats. Because the system uses phone networks, systems could also
+be developed to allow users to request location-specific directions or
+assistance.
+
+The satellite positioning data for the service is provided by the
+European Space Agency via an internet-enabled network called
+SISNet, which stands for 'signal-in-space through the internet' (see
+http://fastlink.headstar.com/sisnet).
+
+
++05: THE DATING GAME.
+
+A virtual dating game launched by the RNIB for Valentine's Day aims
+to prove that accessible web sites do not have to be boring.
+
+'RNIB Blind Date: an accessible game for Valentine's Day'
+(http://rnibblinddate.nomensa.com) uses Flash animation to lead the
+player through an interactive adventure in which players have a choice
+of who to take on their blind date and where to go. In one possible
+story, players can take the sophisticated Tara to the cinema to watch
+an
+audio-described film; in another, you can invite James the 'technology
+genius' (or is that computer geek?) to a party (tip: order him a pizza).
+Just like in real life, depending on the choices made the evening can
+turn out to be a success or a disaster.
+
+Developed for the RNIB by design company Nomensa
+(http://www.nomensa.com), the game can be used with standard screen
+reader software. It was produced as part of the institute's campaign
+for good web design (http://www.rnib.org.uk/digital) to make web
+designers aware of accessibility guidelines.
+
+A poll undertaken to coincide with the launch to find the UK's best
+looking celebrity saw Tony Blair out-voted by over-weight comedian
+Johnny Vegas. That proved, according to the RNIB, that love is indeed
+blind.
+
+
+++NEWS IN BRIEF.
+
++06: READING ALOUD: The German newspaper Frankfurter
+Allgemeine Zeitung (http://www.faz.com) has become the first to
+launch a web site producing text-to-speech output and accepting
+speech input. The voice portal, 'FAZ.NET Fonservice' uses ScanSoft's
+RealSpeak software (http://www.scansoft.com/realspeak) to translate
+commands such as "news" or "traffic" to access content. For a report
+by European speech technology site 'Euromap' see:
+ http://www.hltcentral.org/page-1058.shtml
+
++07: BRAILLE INDIA: A computer driven facility opened last week
+in the north western Indian city of Ahmedabad which will allow up to
+ten students to study Braille under the instruction of a single teacher.
+Run by the Blind People's Association (India), it is the first facility
+of its kind in the country:
+http://www.bpaindia.org
+
++08: RAISED AWARENESS: Information packs about digital radio
+services in the UK are now available in Braille, the Digital Radio
+Development Bureau has announced. The information in the pack also
+mentions products available, prices and coverage information. To
+request a Braille pack, call 08707 747474 or visit:
+http://www.digitalradionow.com
+
+[Section one ends.]
+
+
+++SPECIAL NOTICE: 'ACCESS IT' AND 'COMPUTE IT'
+- MONTHLY TECHNOLOGY MAGAZINES FROM RNIB.
+
+'Access IT' provides computer access technology information of
+particular interest to blind and partially sighted people. It features
+articles both for the novice and experienced user. 'Compute IT' is
+designed for the computer enthusiast/amateur and will bring you the
+latest information on hardware and software developments.
+
+To subscribe to either of these magazines by email, Braille or disk, at
+a cost of 49 pence an issue, email RNIB Customer Services at
+cservices@rnib.org.uk
+or call 0845 702 3153
+
+[Special notice ends.]
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com .
+
++09: SOUND RESPONSE: Crispin Jewitt, director of the National
+Sound Archive (NSA) at the British Library, has written in to respond
+to Clive Lever's account of negative experiences when visiting the
+archive (see E-Access Bulletin, issue 36, December 2002).
+
+He says: "Provision of services for the visually impaired has greatly
+improved since Clive's first visit in the early 1990s to the Victorian
+premises then occupied by the NSA. The new British Library at St
+Pancras incorporates far more facilities for the disabled.
+
+"To deal with the points relating to Clive's visits, I assure your
+readers that the library makes no charge to those wishing to access its
+collection and there never has been any question of users having to
+'pay up first . and take your chance'. The catalogue of the NSA is
+available on the library's website (http://www.bl.uk) and on terminals
+in public areas.
+
+"The British Library now has a readers' adviser whose role is to help
+users with disabilities to make the most of its facilities. Help
+available ranges from assistance with forms for readers' passes to escorting
+readers around the building and introducing them to the specialist
+equipment available in the reading rooms. For NSA users specialist
+staff are available to show users to the study carrels and explain how
+to use the equipment.
+
+"For readers with visual impairments, some leaflets are available in
+large print format and on tape. In addition the library issues passes
+to those assisting readers with disabilities and assistance dogs are also
+welcome in the reading rooms.
+
+"The library is committed to improving the level of service it offers
+to users with disabilities and welcomes feedback. I hope this sets the
+record straight and trust that Clive's next visit to the library will
+be a 100 per cent joyful experience."
+
+
++10: CAREER GUIDANCE: Chris Gregory from Opsis, a group of
+blindness support charities in Birmingham, has information for Ellen
+Bedford of Connecticut who wrote in last month seeking assistance in
+starting a high school job club for visually impaired and blind
+students.
+
+"There is a group that meets in this country twice-yearly called the VI
+Colleges Employment and Careers Advisers Group," he says.
+
+"The most recent meeting was last Wednesday, when Sue Murphy and
+Sarah Lang-Jones of Action for Blind People showed us a number of
+impressive job search modules that they have developed and which
+will be available in the near future. Sue has said she is happy to be
+contacted on 020 7635 4835 or email sue_m@afbp.org ."
+
+
++11: MACHINE QUEST: Katy Dymoke of the Manchester-based arts
+group Touchdown Dance is still looking for an audio cassette copying
+machine, new or second-hand. If anyone has one to sell please email
+touchdd@aol.com .
+
+
++12: AH SO: Ever thought about taking up martial arts? E-Access
+Bulletin reader Terry Taylor is a karate instructor based in Kent who
+runs weekly sessions for people with disabilities including visual
+impairment. For more information and to find out about a martial arts
+festival for disabled people in December - all very welcome regardless
+of ability or experience - see Terry's web site at
+http://www.twt.org.uk
+or email terry.taylor@dial.pipex.com
+
+[Section two ends].
+
+
+++SPONSORED NOTICE: 'CSUN' 2003 INTERNATIONAL
+CONFERENCE.
+
+The 18th annual international conference on 'Technology and persons
+with disabilities', hosted by the Center on Disabilities at California
+State University (CSUN), will be held at the Hilton and Marriott hotels
+at Los Angeles Airport from 17 to 22 March, 2003.
+
+The event is the longest-running and largest annual university-
+sponsored conference in its field, and serves as a major training venue
+for professionals worldwide involved in disability and technology.
+
+A preregistration brochure is now available. For more information
+telephone +1 (818) 6772578 (Voice/TTY compatible service); email
+ctrdis@csun.edu or visit:
+http://www.csun.edu/cod/conf
+
+[Sponsored notice ends.]
+
+
+++: SECTION THREE: REPORT
+- DIGITAL POLITICS.
+
++13: VOICES FOR CHANGE.
+by Mel Poluck  mel@headstar.com .
+
+Hundreds of visually impaired and deaf-blind lobbyists from across the
+UK descended on Parliament last week to protest that their needs in
+accessing vital new technologies such as digital television were set to
+be bypassed by the new Communications Bill
+(http://fastlink.headstar.com/bill1) currently before the Commons.
+
+The RNIB-organised lobby was convened to press for some 57
+amendments to the bill, and the atmosphere as the protestors filled
+Westminster Hall to corner their MPs was one of indignance.
+
+Lesley Kelly, honorary secretary of the UK National Federation of the
+Blind (http://www.nfbuk.org) said: "We are hoping that someone will
+take notice of the fact blind people need access to the TV and radio
+and
+that the publicity will make people notice. What bothers me is that no
+one really seems aware of the need for telecommunications to be
+accessible: the manufacturers need to know."
+
+The lobby's organisers urged visually impaired technology users - who
+are the experts on these issues, after all - to explain to their MPs
+the daily usability problems that they encounter, such as remote control
+handset buttons which often use colour to distinguish between
+functions. One suggestion for a practical demonstration was to ask
+MPs to cover up their mobile phone screen with a label and then ask
+them to attempt to use it.
+
+As a minimum, lobbyists want to see all their proposed amendments
+established as guidelines for the new communications 'super-regulator'
+Ofcom (http://www.ofcom.org.uk), which becomes operational later
+this year.
+
+The RNIB supports the creation of a single regulator for the
+communications, internet and broadcasting industries because this may
+provide an effective joined-up approach to tackling accessibility
+obstacles. However lobbyists wanted to see increased pressure on
+Ofcom to use its powers to promote universal access and 'inclusive'
+product design with an enforceable framework that will ensure
+improved access to electronic programme guides, the text menus that
+will be a key feature of digital television.
+
+Some lobbyists said they felt angry for paying for services for which
+they cannot reap the full benefits. "We are subsidising the whole
+service but not receiving it completely," one person told E-Access
+Bulletin. "We want every piece of menu-driven media equipment to be
+accessible for all."
+
+Among key objectives demanded by the lobby on the day was that
+audio description be included not on ten per cent of all broadcasts -
+as laid out in the bill - but be increased to 50 per cent over a ten year
+period. They also sought a guarantee that the audio description will be
+receivable on all digital platforms at a price which is not
+significantly more expensive than standard equipment.
+
+While there is the occasional late-night audio described broadcast on
+terrestrial television, Sky Digital is the only digital service to
+offer basic audio-description. Sky now carries listings of audio described
+programmes on its web site and is working on providing the service via
+telephone (http://www1.sky.com/disability/tvguide.htm). The RNIB
+wants others to follow suit, and would like to see description made
+available through software downloads, although this would still require
+set-top boxes and televisions to be upgraded.
+
+"We do not want expensive add-ons," said Chris Friend of Sightsavers
+International and the World Blind Union.
+
+Mary Ghatineh, a deafblind lobbyist, said: "I hope to raise awareness
+of the specific needs that people with sensory loss face each day when
+they want to use information and communication equipment. Now its
+going to be digital, these people will find it worse. I want the
+government to make changes so digital equipment manufacturers will
+consider accessible formats."
+
+New communications technologies have the potential to bring strong
+practical and financial advantages to the growing section of society
+with visual and combined dual sensory impairments: the ability to
+shop, to email a care worker, to vote, to check the entertainments
+listings, to book a taxi, or pay bills. However, the protestors said that
+if MPs fail to act now, people with sight problems even stand to lose out
+on access to radio services in the digital era.
+
+As Labour backbencher MP Dr Roger Berry told the gathering: "We
+have the technology, we can make communications technology
+accessible, all we need now is the political will."
+
+[Section three ends.]
+
+
+++: SECTION FOUR: DEBATE
+- WEB TESTING.
+
++14: SEEING IT WRONG?
+by Mel Poluck  mel@headstar.com .
+
+The RNIB's web accessibility audit scheme, 'See it Right,'
+(http://www.rnib.org.uk/digital/siraccess/), checks sites for ease of
+use by visually impaired users. To receive a logo that denotes it has
+'passed,' a site must attain what the RNIB describes as a 'reasonable
+standard of accessibility', and is then subject to annual re-audits.
+
+See it Right uses test reviewers to visit and check sites rather than
+simply using automated review software, and bases its checks on the
+international standards set out by the World Wide Web consortium's
+Web Accessibility Initiative (http://www.w3.org/TR/WAI-
+WEBCONTENT). Auditors check, for example, that all images have
+text alternatives and check that links have clear destinations. Detailed
+reports are then compiled with any examples of inaccessible features.
+
+Users are also encouraged to report inaccessibility on sites bearing
+the logo (by emailing webaccess@rnib.org.uk.) and the RNIB estimates
+that bringing sites up to standard is equivalent to one to two per cent
+of original design costs (for more on 'See it Right' see E-Access
+Bulletin, issues 26 and 31, February and July 2002).
+
+The process is being watched with particular interest by public sector
+bodies, since government guidelines require public agencies including
+local councils to ensure their web sites are accessible. Last week
+Welwyn Hatfield Council (http://www.welhat.gov.uk) became the first
+English local authority to receive the accreditation, following
+Wrexham council in Wales (http://www.wrexham.gov.uk).
+
+Other public sector sites to have passed the audit include the main
+government web portal UKOnline (http://www.ukonline.gov.uk),
+Greater Manchester Police (http://www.gmp.police.uk), the Criminal
+Justice site (http://www.cjsonline.org), and the local government
+Improvement and Development Agency (http://www.idea.gov.uk).
+
+As with all systems of accessibility audit however, the RNIB initiative
+has its critics, who are quick to pounce on any apparent
+inaccessibilities which remain even after sites gain the stamp of
+approval.
+
+According to Welwyn Hatfield, its site received the See it Right logo
+thanks to an appropriate font size; simple layout; the option of using
+a text only version; the use of descriptive tags to explain the content
+of pictures; easy-to-use navigation and little or no use of complex
+graphics. It also offers the ability to change typeface.
+
+However Tavis Reddick, a web publishing technologist, told E-Access
+Bulletin this week that he has found an array of inaccessibilities on
+the council's site including moving text on the home page; and use of a
+smaller-than-average font size.
+
+"If this is held up to other designers as an accessible website template,
+then it could be very damaging to future accessibility design," he says.
+
+His comments highlight the fact that, alongside a range of accessibility
+features which are fairly simple to assess, there are many areas where
+best practice is more a matter of opinion, and much may depend on
+context and the expert assessment of the site testers.
+
+Henny Swan, Website Accessibility Best Practice Officer at the RNIB,
+told E-Access Bulletin: "This is exactly the kind of feedback that is
+good as it provides us with the opportunity to discuss the areas of
+accessibility that fall into the 'grey' or 'judgement' areas, where
+interpretation of the WAI guidelines is required."
+
+"With regards to blinking text, according to our See it Right guidelines
+this is acceptable, if the rotation is both slow and rests after 3-5
+cycles. As with all instances of blinking text in sites that we audit a
+subjective
+decision is made as to how the image affects the page and the scope of
+causing problems for people accessing the page and whether blinking
+text has been used extensively in the site."
+
+"In Welwyn Hatfield's case there is one image that rotates every three
+seconds which is considered slow. There is also a very small amount of
+text on the two sides of the images which makes it easier to read. In
+addition to this there is a text link directly below the image for users
+to access and the image is tucked away at the bottom of the page. All of
+this creates a strong case for passing the site, especially given
+blinking text has not been used elsewhere."
+
+"That said, the instance of blinking text was not on the home page
+when the site went through both the initial audit and the re-audit
+which shows how problematic is to monitor sites once audited. This also
+displays how useful it is to get feedback from users! I have been in
+touch with Welwyn Hatfield to notify them of the issue."
+
+The issue of 'less-than-average' font size was also one discussed with
+the council, Swan said . "The font size on the page is fixed, however
+an 'accessible alternative' is provided in the form of buttons to switch
+text size from the browser default to 16-, 14- and 12-point sizes. These
+images also have alternative text links at the bottom of the page."
+
+"As this is an accessible alternative, the site passed the audit
+checkpoints. Again this is a unique case and one that requires judgment
+and interpretation of the WAI Guidelines."
+
+Clearly all this means that automatic software checking can never offer
+the same sophistication of assessment as human checkers. "Automated
+checking tools can only provide 55 per cent accessibility checks, and
+some guidelines may fail an automated check as the tools are unable to
+detect an accessible alternative," Swan says. Subjective it may be, but
+human judgment seems to be the best system we have for accessibility
+testing.
+
+[Section four ends.]
+
+
+++: SECTION FIVE: PRODUCT REVIEW
+- TALKING BOOKS.
+
++15: PICK OF THE DAISY PLAYERS.
+by Phil Cain  phil@headstar.com .
+
+The DAISY digital book format, developed by an international
+consortium of talking book libraries formed in 1996
+(http://www.daisy.org), has many advantages to visually impaired
+people.
+
+The ability to bookmark a page and search the text for key words
+makes it far easier to find the appropriate section, particularly in
+complex reference works. Also extremely useful is the ability to speed
+up and slow down recorded speech without changing its pitch.
+Meanwhile the option to record in MP3 format, which compresses data
+up to 12 times, allows more audio material to be fitted onto fewer
+discs.
+
+With no DAISY player hardware manufactured in the UK, however,
+until recently the only way to get hold of a player in the UK has been
+to import one from abroad, a process fraught with pitfalls. Even after
+the user has managed to modify the power supply and translate the
+instructions, he or she will still only have access to technical
+support in another country.
+
+In December last year the RNIB began to address this gap by selling
+the Victor Reader Pro player from Canada-based company Visuaide.
+According to marketing manager Tom Whittle, some 40 Victor Reader
+Pros have been sold so far at a price of 350 pounds, despite a lack of
+publicity. Among the keenest customers for the device are educational
+bodies, says Whittle. Unlike its rivals, the Pro is designed to cater
+for the sophisticated reading needs of students, with a number pad making
+it easy to skip between numbered pages easily (for a review of this
+reader by Saqib Shaikh, see E-Access Bulletin issue 27, March 2002).
+
+In the coming months three other hardware DAISY book players are
+set to join the Victor Pro on full UK release, and as with this player
+the RNIB aims to ensure they conform to UK safety standards and are
+adequately documented, and will also provide users with ongoing local
+support.
+
+One of the most eagerly awaited DAISY machines among technology
+buffs is the Japanese-built Plextalk PTR1
+(http://www.plextalk.org/plextalk_portable.html), due to go on sale at
+the end of March. Combining the portability of the Telex and having
+the numeric keypad functions of Victor Pro, the machine also allows
+people to record DAISY books on the move. There has already been
+interest in this device from the BBC, Whittle says, whose radio
+journalists - visually impaired or not - may find its recording and
+indexing useful in the field. The price tag of around 800 pounds means,
+however, the machine is likely to be the preserve of the professional
+and enthusiastic amateur.
+
+Next to appear will be Visuaide's scaled down Victor Classic
+(http://www.visuaide.com/victorclassic.html), which is expected to
+come on sale in April following RNIB testing. Unlike the Pro it does
+not have a numeric keypad and is less easily moved, having no integral
+rechargeable battery pack. Priced at around 280 pounds plus VAT it
+hopes to find users, possibly older people, who are happy to sacrifice
+high-sophistication for lower cost and operational simplicity.
+
+Another lower cost option will be the Telex player
+(http://fastlink.headstar.com/telex), which will go on sale in May for
+around 175 pounds. The machine's design is based on the 'clam shell'
+design commonly used for market portable CD players, which will
+make it far more easy to carry around than either the Victor Classic or
+Pro.
+
+To place an order for any of the machines mentioned above contact the
+RNIB on 0845 7023153; email cservices@rnib.org.uk or visit the
+online shop at:
+http://onlineshop.rnib.org.uk/storefront.asp
+Or if you want to keep informed of latest availability please email
+your contact details to:
+ict@rnib.org.uk .
+
+[Section five ends.]
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.e-accessibility.com is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Phil Cain  phil@headstar.com
+News editor - Derek Parkinson  derek@headstar.com
+Reporter - Mel Poluck  mel@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk .
+
+ISSN 1476-6337
+
+[Issue ends.]

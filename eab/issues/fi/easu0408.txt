@@ -1,0 +1,550 @@
++++E-ACCESS UUTISKOOSTE
+- NUMERO 56, elokuu 2004
+
+Osittainen suomennos englanninkielisestä julkaisusta E-ACCESS 
+BULLETIN (http://www.e-accessibility.com)
+
+Uutiskooste ilmestyy kuukausittain ja sisältää lyhyitä juttuja 
+näkövammaisten arkea helpottavista teknisistä laitteista ja 
+sovelluksista.
+
+Englanninkielistä uutiskoostetta sponsoroivat Britannian kansallinen 
+näkövammaisjärjestö RNIB (http://www.rnib.org.uk) ja Britannian 
+Sokeainkirjasto National Library for the Blind
+(http://www.nlbuk.org).
+
+++SISÄLLYS
+
+Osa 1: Uutiset
+
+01: Sähköisten tiedotteiden standardit
+?	Uutiskoosteen julkaisijat etsivät organisaatioita, jotka sitoutuvat 
+kannattamaan uutta ohjeistoa. 
+
+02: Uusi keskustelualue Unixin saavutettavuudesta
+?	Avoimen lähdekoodin hjelmistoja kehittävien ryhmien välille 
+yritetään luoda yhteyksiä.
+
+03: Internet-selainten muunteluohjelma saapuu  Britanniaan
+?	Itselleen parhaat selausominaisuudet saa käyttöönsä muullakin 
+kuin omalla tietokoneellaan.
+
+04: Kiitosta Chillingham-seikkailupelille
+?	Kummituskylässä suunnistetaan äänen avulla.
+
+05: Työllisyyskampanja
+?	Kohderyhmänä työnantajat.
+
+06: EU:n palkinto
+?	Kaikille sopivaa suunnittelua.
+
+Osa 2: Lukijoilta
+
+07: Tiliotteita saatava sähköpostitse
+- Voimakas kannanotto. 
+
+08: Lisää sirukortteja
+?	Pankkiasioita sirukortin ja pin-koodin avulla.
+
+Lisähuomautus
+
+Osa 3: Artikkeli
+09: Integroitu portaali: palvelua kaikille
+?	Ken Matthewsin mukaan puheen avulla toimiva portaali, jossa olisi 
+hierarkkinen valikkorakenne, voisi auttaa vammaisia pääsemään 
+käsiksi suureen määrään tietoa ja palveluita.
+
+Huomautukset
+
+(Sisällysluettelo päättyy.)
+
+++OSA 1: UUTISET
+
++01: SÄHKÖISTEN TIEDOTTEIDEN STANDARDIT
+
+Uutiskoosteen julkaisijat loivat kirjainlyhenteellä TEN tunnetun 
+standardin ohjeistoksi, jonka tarkoituksena on auttaa sähköisten 
+tiedotteiden kokoajia laatimaan tiedotteet niin, että niitä on helppo 
+lukea saavutettavuuden apuvälineiden, esimerkiksi 
+ruudunlukuohjelmien, avulla. Nyt standardista on julkaistu paranneltu 
+versio.
+
+Uusitut ohjeet (http://www.headstar.com/ten) perustuvat monilta 
+johtavilta organisaatioilta viimeaikoina saatuun palautteeseen. Kyseiset 
+organisaatiot ovat jo sitoutuneet hyväksymään ohjeet ja noudattamaan 
+niitä omassa viestinnässään. Varmoihin sitoutujiin kuuluvat nyt 
+Britannian valtion työ- ja eläkelaitos ja kahden kunnan – Lontoon 
+Brentin alueen sekä Tunbridge Wellsin – paikallisviranomaiset. 
+Mukana on myös laitoksia muista maista, esimerkiksi Kanadan 
+Kansallisen Sokeaininstituutin kirjasto (http://www.cnib.ca/library) ja 
+verkkosivujen saavutettavuutta EU:ssa edistävä ”Design for All” –
+verkosto (http://www.e-accessibility.org).
+
+TEN-standardin versio 1.1 sisältää ehdotuksia fonttityyleistä, siitä mitä 
+kannattaa sijoittaa tiedotteen alku- ja loppuhuomautuksiin, sekä 
+kätevimmistä tavoista liittää tekstiin internet-linkkejä. Tarjolla on uusia 
+vinkkejä siitä, miten tiedotteen voi rakentaa niin, että sitä on helppo 
+selata. Ohjeistossa kerrotaan, mihin kohtiin sisällysluettelo tai 
+taustatiedot on järkevää sijoittaa, ja miten sähköisen tiedotteen eri osiot 
+tulisi aloittaa ja päättää. 
+
+Organisaatioita, jotka haluavat liittyä uusitun standardin käyttäjiin, 
+pyydetään ilmoittautumaan osoitteeseen ten-standard@headstar.com . 
+Liittyminen edellyttää vain ohjeiston yleisten periaatteiden 
+hyväksymistä.
+
+Huomautus: Englanninkielisen Uutiskoosteen pääverkkosivua 
+(http://www.headstar.com/eab) on myös paranneltu entistä 
+saavutettavammaksi. Siellä on nyt entistä helpompi liikkua muutamien 
+harvojen näppäinkomentojen avulla. Tärkeät elementit, kuten valikko, 
+on erotettu selkeästi muusta tekstistä. Valinta tavallisen graafisen sivun 
+ja isokirjoitustekstin välillä tapahtuu yhdellä hiiren klikkauksella. 
+Sivusto täyttää nyt kaikki World Wide Webin laatiman verkkosivujen 
+sisällön saavutettavuutta koskevan ohjeiston tasojen 1 ja 2 kriteerit 
+sekä useimmat kolmannen prioriteettitason vaatimukset 
+(http://www.headstar.com/eab). 
+
++02: KESKUSTELUFOORUMI UNIXIN 
+SAAVUTETTAVUUDESTA
+
+Unix-käyttöjärjestelmän saavutettavuuden parantamiseksi tehtävässä 
+työssä koettiin edistysaskel elokuussa, kun tämäkin asia sai oman 
+keskustelufoorumin (http://accesibility.kde.org/forum).
+
+Keskustelualuetta ylläpitää KDE-projekti (http://www.kde.org). Tässä 
+hankkeessa ryhmä avoimen lähdekoodin ohjelmistosuunnittelijoita 
+kehittää Windowsin ja Mac OS:n tapaista työpöytäympäristöä, jossa 
+voi käyttää Unixia. Unix on yleisesti käytetty avoimen lähdekoodin 
+käyttöjärjestelmä. Uusi keskustelualue kokoaa yhteen ihmisiä, jotka 
+kehittävät siihen soveltuvaa ruudunluku- ja suurennusteknologiaa. 
+
+Kymmenen viimevuoden aikana Unixin suurennusohjelmia on 
+vähitellen paranneltu. Kuitenkin ohjelmistoihin on vasta viimeaikoina 
+alettu tehdä muutoksia, jotka mahdollistavat ruudunlukuohjelmien 
+liittämisen Unix-pohjaisiin järjestelmiin. 
+”Tämä on tärkeää. Monien suurten työllistäjien, esimerkiksi pankkien, 
+sisäiset järjestelmät toimivat Unixissa”, kertoo tohtori Terry Barnaby 
+Beam-yhtiöstä (http://www.beam.ltd.uk), jossa kehitetään Unixiin ja 
+Linuxiin sopivaa apuvälineteknologiaa. Linux on suosittu 
+käyttöjärjestelmä, joka on rakennettu Unixin pohjalta. 
+
+”Monet pankkityöntekijät joutuvat käyttämään graafista Unix-
+käyttöliittymää dokumentoidessaan asiakastapahtumia: vaikkapa sitä, 
+milloin shekki on maksettu tilille”, hän jatkaa.
+
+Barnabyn mukaan Unixin tekemistä saavutettavaksi vaikeuttaa se, että 
+sovellusohjelmat, kuten graafiset ohjelmistot ja internet-selaimet, ovat 
+eri työryhmien kehittämiä. Niitä ei useinkaan saada sopimaan yhteen 
+ilman yksityiskohtaista teknistä tietämystä. Esimerkiksi 
+ruudunlukuohjelmia suunnitellaan sekä KDE-projektissa että erillisessä 
+Gnome-työryhmässä (http://www.gnome.org), joka toimii yleisesti 
+Unixin sovellusohjelmien parissa. Yksi uuden keskustelufoorumin 
+tavoitteista onkin rakentaa siltoja monien eri työryhmien välille.
+
++03: INTERNET-SELAINTEN MUUNTELUOHJELMA SAAPUU 
+BRITANNIAAN
+
+IBM on kehittänyt uden ohjelman, jonka avulla Internet-selaimeen voi 
+valita mieleisiään ominaisuuksia, kuten vaikkapa isokokoisen tekstin. 
+Selain toimii valintojen mukaisesti myös muualla kuin omalla 
+kotikoneella. Britanniassa ohjelman käyttöön ottoa tukee Abilitynet-
+niminen hyväntekeväisyysjärjestö. 
+
+Järjestelmässä käyttäjän tietokoneelle ladataan pieni lisäohjelma. 
+Kukin käyttäjä tallentaa haluamansa ominaisuudet ja asetukset 
+verkkopalvelimelle, jolle hänellä on yksilöllinen salasana. 
+Tietokoneessa pitää olla Internet Explorerin selain 5.5 tai sitä uudempi 
+versio. Kun käyttäjä kirjautuu - töissä tai kotona - mille tahansa 
+verkkoon kytketylle tietokoneelle, johon lisäohjelma on asennettu, 
+valitut ominaisuudet ja asetukset saa käyttöön antamalla tunnuksen ja 
+salasanan.
+
+Järjestelmän nimi on ”Web Adaptation Technology” – verkkosivujen 
+sovellusteknologia – (WAT - http://www.webadapt.org). Sillä voi 
+säädellä sellaisia asetuksia kuin sivujen koon suurentaminen, tekstin 
+koko ja rivivälit, tekstin ja taustan värikontrasti, grafiikan esittäminen 
+ja sivun lukeminen äänenä.
+
+Yksityishenkilöt ja ei-kaupalliset järjestöt voivat käyttää ohjelmaa 
+ilmaiseksi. Kaupalliset organisaatiot joutuvat neuvottelemaan 
+lisenssimaksuista IBM:n kanssa. USA:ssa monet 
+hyväntekeväisyysjärjestöt ja tutkimuslaitokset ovat jo kokeilleet 
+järjestelmää. 
+”Vaikka jotkut verkkosivujen omistajat ottavat saavutettavuuden hyvin 
+vakavasti, kuluu luultavasti monta vuotta, ennen kuin enemmistö 
+sivuista on saavutettavia. Sitä odotellessa tällaisesta palvelusta on 
+jonkin verran apua”, toteaa Mark Wakefield, IBM:N Iso-Britannian 
+osaston PR-päällikkö.
+
+Wakefieldin mukaan monet näkövammaiset tarvitsevat todennäköisesti 
+apua uuden ohjelman asentamisessa ja käytössä. Abilitynet 
+(http://www.abilitynet.org.uk) aikoo tarjota tietoa ja neuvontaa 
+yksittäisille käyttäjille sekä koulutusta sellaisten organisaatioiden 
+työntekijöille, jotka tilaavat WAT-palvelun. 
+
++04: KIITOSTA CHILLINGHAM-SEIKKAILUPELILLE
+
+Chillingham on tietokoneella pelattava seikkailupeli, joka perustuu 
+pelkästään ääneen eikä vaadi lainkaan näkökykyä. Pelin kehittäneen 
+Bavisoft-yhtiön mukaan siitä on saatu erittäin positiivista palautetta 
+(http://www.bavisoft.com). 
+
+Pelin nimi viittaa kummituskylään, jossa sen toiminta tapahtuu. Pelaaja 
+esittää tarinan Frederick-nimistä sankaria, jonka tehtävänä on löytää 
+kadonnut ystävänsä Lily. Seikkailussa etenemiseen tarvitaan vain 
+tietokoneen näppäimistön neljää nuolinäppäintä. Niiden avulla valitaan 
+käyttöön erilaisia esineitä, suunnistetaan kylässä ja päätetään puhutella 
+kylän asukkaita, esimerkiksi vanhaa Erakko-Billiä. 
+
+Saadakseen käyttöönsä seikkailun kannalta hyödyllisiä esineitä 
+Frederickin täytyy ratkaista arvoituksia, suorittaa tehtäviä ja hätistää 
+tieltään vihollisia, kuten käkättäviä noitia. Aseina käytetään kohdalle 
+sattuneita tavaroita. 
+”Chillingham syntyi, kun halusimme luoda uudelleen pelejä, joista 
+nautimme nuorina, nimittäin tekstipohjaisia seikkailuja”, muistelee 
+Russ Byer, Bavisoftin varamarkkinointijohtaja. 
+”Tuntui loistavalta idealta yhdistää seikkailuun joitakin 
+maalaistyyliseen ympäristöön sijoittuvien pelien piirteitä”, hän jatkaa. 
+
+Mark Byerin mukaan ensimmäiset pelaajat ovat  kiitelleet yhtiötä pelin 
+äänen laadusta, sopivan vaikeista tehtävistä, itse tarinasta sekä sen 
+tapahtumien moninaisuudesta. 
+”Ihmiset kertovat nauttineensa hirviöitä vastaan puolustautumisesta, 
+kuoriaisten pyydystämisestä, lautan ohjaamisesta ja erakon 
+matkimisesta. Vaikka he käyttivät vain neljää näppäintä, kunkin pelin 
+sisäiset tilanteet ja kuviot muodostuivat niin erilaisiksi, ettei 
+pelaaminen käynyt tylsäksi”, Byer kertoo. 
+
+Chillingham-peli maksaa 44 Yhdysvaltain dollaria. Aiemmin Bavisoft 
+on kehittänyt kaikkien aikojen ensimmäisen ääneen perustuvan 
+seikkailupelin, jonka nimi on Grizzly Gulch. Pelin tapahtumat 
+sijoittuvat Villiin Länteen (katso alkuperäisen Uutiskoosteen numerot 5 
+toukokuulta 2000 ja 24 joulukuulta 2001).
+
++05: TYÖLLISYYSKAMPANJA
+
+RNIB ja ”Action for Blind People” (toimintaa sokeille) –niminen 
+järjestö ovat käynnistäneet työllisyyteen liittyvän kampanjan. 
+Tempauksen tarkoituksena on osoittaa työnantajille, että näkökyvyn 
+puuuttumisen ei tarvitse estää työntekoa. Kampanjan materiaaliksi on 
+julkaistu raportti otsikolla ”Pois stereotyypeistä: sokeat, heikkonäköiset 
+ja työ”, johon liittyy Työ on tärkeää -niminen julistus. Lisäksi on 
+saatavilla DVD, joka sisältää työnantajien ja näkövammaisten 
+työntekijöiden haastatteluja (http://fastlink.headstar.com/rnib5).
+
++06: EU:N PALKINTO
+
+EU:n komissio ilmoittaa, että sen ensimmäinen kaikille soveltuvan 
+suunnittelun ja apuvälineteknologian palkinto luovutetaan saajalleen 
+marraskuussa. Unionin jäsenmaiden apuvälinesuunnittelijoita ja 
+sellaisiksi aikovia opiskelijoita, insinöörejä ja yrityksiä kehotetaan 
+tuomaan ehdolle kaikilta yhteiskuntaelämän alueilta hankkeita, jotka 
+takaavat tasavertaiset osallistumismahdollisuudet erilaisille 
+käyttäjäryhmille (http://www.dfa-at-awards.org).
+
+(osa 1 Päättyy.)
+
+OSA 2: LUKIJOILTA
+
+Kaikki Uutiskoosteen tähän osaan tarkoitetut kirjoitukset ja vastaukset 
+voi lähettää osoitteella inbox@headstar.com.
+
++07: TILIOTTEITA ON SAATAVA SÄHKÖPOSTITSE
+
+Amar Latifin ajatus, että pankkien tulisi lähettää tiliotteita 
+sähköpostitse (turvallisuuden vuoksi tosin ilman tilinumeroita) on 
+saanut laajaa kannatusta lukijoiltamme: sähköpostia pidetään 
+saavutettavimpana tiedonvälitysmuotona tähän tarkoitukseen. 
+Kawal Gucukoglu toteaa: ”Olen Amar Latifin kanssa täysin samaa 
+mieltä. Nykyään täytyy liittyä verkkoon voidakseen tarkistaa 
+pankkitilinsä tilanteen pankin Internet-sivujen kautta, eivätkä nämä 
+sivut yleensä ole saavutettavia. Olen useita kertoja kysellyt, mitä 
+pankkini aikoo tehdä saadakseen sivustonsa näkövammaisten kannalta 
+saavutettavaksi. Tyydyttävää vastausta en ole koskaan saanut. Odotan 
+edelleen, milloin pankit tekevät sivustonsa sellaisiksi, että niitä voi 
+käyttää    ruudunlukuohjelmien avulla. Haluaisin myös saada tiliotteita 
+sähköpostitse!”
+
+Carl Jolley kirjoittaa: ”Minäkin kannatan ajatusta, että tiliotteet 
+lähetettäisiin minulle sähköpostitse. Käytän Halifaxin 
+verkkopankkipalvelua, jos minulla on aikaa. Mutta kuten sanot, 
+verkkoon liittymiseen ja muuhun sellaiseen tuhlautuu aikaa, ja se ei 
+tosiaankaan käy kiireisessä nykymaailmassa. Sähköpostina lähetetyissä 
+dokumenteissa ei tarvitsisi mainita mitään luottamuksellista tietoa. Jos 
+annamme pankille sähköposti osoitteemme, se riittää varmistamaan, 
+että oikeat tiedot menevät oikealle henkilölle. Tällöin ainoa 
+turvallisuusriski olisi se, että näkövammainen itse antaa väärän 
+sähköpostiosoitteen. Silloin joku saa selville, että kyseinen henkilö on 
+tuhlannut liikaa rahaa supermarketissa!”
+
+Saavutettavuuskonsultti Julia Schofield kertoo, että hänkin haluaisi 
+saada tiliotteet sähköpostitse. Hän kommentoi: ”Minusta ei ole kovin 
+turvallista, että tiliotteita lähetetään pankin ulkopuolella oleviin 
+organisaatioihin jäljennettäviksi pistekirjoituksella.”
+
+Simon Cavendishkin kannattaa sähköpostia: ”Minustakin olisi loistava 
+idea lähettää tiliotteet sähköpostina ilman tilinumeroa. Pankit vetoavat 
+typerään tekosyyhyn. Uskonpa, että jotkut organisaatiot vieläkin 
+käyttävät terveyteen ja turvallisuuteen liittyviä näkökohtia tekosyinä 
+vammaisten ihmisten syrjinnälle.”
+
+Kaksi lukijaa oli sitä mieltä, että pankkiasioiden hoitaminen 
+puhelimessa on hyvä vaihtoehto huonosti saavutettaville 
+verkkosivuille. Bart Simons toimii verkkosivujen saavutettavuuden 
+asiantuntijana Ascii-nimisessä belgialaisessa yrityksessä, joka 
+suunnittelee julkishallinnon sivustoja. Hän kertoo: ”Minun pankissani 
+toimii puhelinpalvelu. Tämä tarkoittaa, että voin kuulla tiliotteeni sekä 
+luettelon toteutuneista tilitapahtumista puhelimen välityksellä. 
+Kyseessä on normaali palvelu, ei siis vain vammaisille asiakkaille 
+tarkoitettu mahdollisuus. Järjestelmä on tosi kätevä ja nopea käyttää. 
+Minusta tämä on itse asiassa turvallisempaa kuin saada kyseiset tiedot 
+sähköpostitse.”
+
+Herefordilainen Debbie Payne kirjoittaa: ”En hoida pankkiasioitani 
+internetissä, vaan käytän pankkini tarjoamaa puhelinpalvelua. Minusta 
+se toimii hienosti. Sen avulla saa puheena tiedot saldosta, 
+viimeisimmistä tilitapahtumista ja muusta sellaisesta. Operaattorin 
+kanssa voi keskustella, jos kaipaa yksityiskohtaista tietoa aiemmissa 
+tiliotteissa mainituista tapahtumista. Tämä on erinomaista varsinkin 
+ihmisille, jotka eivät osaa pistekirjoitusta, tai joiden mielestä 
+pankkiasioiden hoito internetissä vie liikaa aikaa.”
+
++08: LISÄÄ SIRUKORTTEJA
+
+Pankkiasioihin liittyy myös toinen jatkuva keskustelu. Se koskee 
+uuteen mikrosiruun ja PIN-koodiin perustuvan järjestelmän 
+saavutettavuutta – tai sen puutteita. Järjestelmän ajatuksena on, että 
+nimikirjoitus korvataan luottokorttien käytössä sähköisillä koodeilla.
+
+Debbie Payne kirjoittaa: ”Olen samaa mieltä Clare Pagen kanssa, joka 
+ihmetteli, miksi näkövammaiset eivät voisi käyttää sirukortti ja PIN-
+koodi –järjestelmää. Itse maltan tuskin odottaa, että pääsen sitä 
+käyttämään. Olen täysin sokea ja välttelen luottokortin käyttöä 
+kaupoissa. Minusta kuittien allekirjoittaminen on tavattoman vaikeaa ja 
+saa minut aina tuntemaan oloni vaivautuneeksi. Kuten Clare aivan 
+oikein totesi, uuden järjestelmän ainoa ongelma näyttäisi olevan oppia 
+käyttämään näppäimistöä. Olisi takuulla paljon helpompaa näppäillä 
+nelinumeroinen tunnusluku kuin pohtia, mihin kohtaan paperilappua 
+allekirjoitus pitää laittaa.”
+
+Julia Schofield  kysyy: ”Suhtaudummeko me Britit aina kielteisesti 
+muutoksiin? Reagoimmeko kehitykseen näin siksi, että tiedämme 
+uusista asioista liian vähän ja siksi, että johtavat sokeainjärjestöt usein 
+ottavat niihin kielteisen kannan?” ”Minusta on inhottavaa penkoa kynä 
+esille ja kysyä joltakulta, mihin kohtaan luottokorttilaskua tai muuta 
+kuittia minun tulisi kirjoittaa nimeni. Pystymme käyttämään 
+kännyköitä, joten voiko PIN-koodilaitteen näppäimistö olla sen 
+vaikeampi? Ehkäpä pitäisi vain keskittyä vaatimaan, että tärkeät 
+näppäimet, kuten ”enter”- ja varmistusnäppäin, tehtäisiin helposti 
+sormin tunnistettaviksi.”
+
+”Ehkäpä mielemme muuttuisi, jos saisimme hieman puolueettomia 
+käyttöohjeita ja apua, kun käytämme järjestelmää ensimmäisen kerran. 
+Uusi toimintatapa on paljon entistä helpompi ja turvallisempi. 
+Kokemukseni mukaan ihmiset eivät yleensä pidä asioista, joita eivät 
+tunne. Olen aiemmin toiminut asiantuntijana postilaitoksen piirissä. 
+Siinä työssä huomasimme, että ihmiset alkoivat heti kannattaa PIN-
+koodijärjestelmää, jos tarvittava laite esiteltiin heille 
+henkilökohtaisesti.
+
+(Osa 2 päättyy.)
+
+++LISÄHUOMAUTUS: 
+KESKUSTELUALUE VERKKOSIVUJEN 
+SAAVUTETTAVUUDESTA
+
+”Accessify Forum” on keskustelualue, jolla paneudutaan kaikkiin 
+verkkosivujen saavutettavuuteen liittyviin aiheisiin. Esillä on kaikkea 
+mahdollista: aloittelijoiden ongelmat, sivujen laatiminen ja 
+testaaminen, sellaiset hankkeet kuin uusi saavutettavuuden 
+tarkistustyökalu WaiZilla sekä avoimen lähteen ohjelmistojen oma 
+saavutettavuus. Liittyäksesi alueelle tarvitset vain toimivan 
+sähköpostiosoitteen ja riittävän englannintaidon. Tervetuloa rentoon 
+keskusteluun: http://www.accessifyforum.com 
+
+(Lisähuomautus päättyy.)
+
+++OSA 3: ARTIKKELI
+
++09 INTEGROITU PORTAALI:
+PALVELUA KAIKILLE
+
+(Ken Matthews)
+
+Mielessäni on ajatus voimakkaasti strukturoidusta verkkosivustosta, 
+jonka avulla näkövammainen tai luku- ja kirjoitusvaikeuksista kärsivä 
+käyttäjä voitaisiin integroida täydellisesti digitaaliseen maailmaan: hän 
+voisi kommunikoida toisten samaan ryhmään kuuluvien käyttäjien ja 
+muiden kanssa yhtä helposti kuin kuka tahansa verkkoyhteyden 
+omaava ihminen. Tälle mahdolliselle kehitelmälle olen antanut nimen 
+TIP – täysin integroitu portaali. Uskon, että ajatuksen voi laajentaa 
+koskemaan muitakin vammaisryhmiä, ja että sen voisi toteuttaa melko 
+nopeasti. Tarvittava teknologia on jo olemassa: pitää vain olla tahtoa 
+toteuttaa tämä tavoite.
+
+Näin se toimisi. Kun ihmiset tulisivat sivustolle, heitä tervehtisi ääni, 
+joka ohjaisi heidät numeroituun valikkoon. Tietokone tai muu 
+asiakkaan käyttämä laite tunnistaisi puhetta. Käyttäjän tarvitsisi siis 
+vain sanoa haluamansa numero. Tässä on muutama esimerkki 
+mahdollisista vaihtoehdoista, vaikka valikko voisikin itse asiassa 
+sisältää mitä tahansa: 
+
+1: uutisotsikot
+2: sanomalehdet kokonaisuudessaan
+3: radio-ohjelmien aikataulut
+4: kirjasto
+5: uutta ajankohtaistietoa kullekin erityisryhmälle
+6: viestintä
+7: muita saavutettavia sivustoja 
+8: verkossa pelattavia pelejä
+9: puheeseen perustuvia keskustelualueita
+10: arkistoituja keskusteluviestejä
+11: mahdollisuus antaa kommentteja järjestelmän hoitajalle
+12: radiokanavat.
+
+Valittuaan haluamansa numeron käyttäjä pääsisi uuteen numeroituun 
+valikkoon. Äskeisen esimerkkivalikon kohdat 1 ja 2 voisivat johtaa 
+maan tärkeimpien sanomalehtien pääotsikoihin. Tarjolla voisi olla 
+vaikkapa 10 artikkelia kustakin lehdestä. Kohdasta 3 pääsisi 
+strukturoituun radio-ohjelmien aikataululistaan. Kohdassa 4 – kirjasto 
+– olisi valittavana kokoelma suoraan verkosta saatavia äänikirjoja. 
+Kohta 5 välittäisi ajankohtaista tietoa erityisryhmille. Siellä voisi olla 
+RNIB:n ilmoituksia sokeille tai vaikkapa tietoa luku- ja 
+kirjoitusvaikeuksista kärsiville tai niille, joilla on motorisia vaikeuksia, 
+kuten cp-vammaisille. Kohdassa 6, viestintä, olisivat puhelinluettelot. 
+Sieltä saisi myös suoraan yhteyden monenlaisiin palveluihin. Voisi 
+lähettää ääniviestejä tai vaikkapa ottaa yhteyttä lääkäreihin, 
+erikoislääkäreihin tai sairaaloihin. Ajatuksena on, että tämä kohta 
+räätälöitäisiin yksilöllisesti kunkin käyttäjän tarpeiden mukaan.
+
+Kohdasta 7, muita saavutettavia sivustoja, pääsisi muille tämän 
+portaalin tavoin toimiville verkkosivuille. Tässäkin mahdollisuuksia on 
+rajattomasti, kun yhä useammista sivustoista tulee saavutettavia. 
+Kohdassa 8, verkossa pelattavia pelejä, voisi pelata erilaisia 
+saavutettavia pelejä kuten tietokilpailuja ja bingoa. Kohdan 9 
+puhepohjaisilla keskustelualueilla olisi yleensä tarjolla vilkasta 
+jatkuvaa puhetta. Tämän kohdan toiminta olisi kuitenkin 
+pääsääntöisesti asiakkaiden aikaansaamaa. Millä tahansa 
+keskustelualueella alueen ylläpitäjä voisi tarvittaessa järjestää 
+mahdollisuuden yksilölliseen neuvontakeskusteluun. Neuvontaa voisi 
+saada sosiaalityöntekijältä, yleisestä kansalaisneuvonnasta, lääkäriltä, 
+asianajajalta, sosiaalietuasioista tai poliittisista kysymyksistä.
+
+Kohdasta 10 voisi kuulla keskustelualueilla käytyä mielipiteen vaihtoa 
+arkistoituna, jos ei ole seurannut sitä tapahtuma-aikana. Kohdassa 11 
+voisi kertoa järjestelmän hoitajalle palveluissa esiintyneistä ongelmista 
+tai ehdottaa uusia toimintoja. Kohdasta 12, radioasemat, pääsisi 
+suoraan olemassa oleville radiokanaville. Siellä toimisi myös uusi 
+aktiivinen 24 tuntia vuorokaudessa toimiva verkkopohjainen 
+radioasema, joka välittäisi eri vammaisryhmille tarkoitettua ohjelmaa. 
+Siitä voisi tulla myös tärkein yhteydenpito- ja kohtaamispaikka 
+kaikkien eri ryhmien välille.
+
+Täysin integroitu portaali perustuisi yleisesti ottaen siihen, että kunkin 
+asiakkaan omissa laitteissa olisi äänentunnistusjärjestelmä, jonka 
+avulla otettaisiin yhteys eri palveluihin. Esimerkiksi vaikeasti 
+puhevammainen asiakas voisi siis ilmaista haluamansa numeron millä 
+tahansa valitsemallaan tunnistettavalla äänellä. Sellaisten vammaisten, 
+jotka eivät pysty lainkaan liikkumaan tai tuottamaan minkäänlaista 
+ääntä, olisi kyettävä käyttämään järjestelmää jollain muulla tavalla. 
+Mieleen tulevat ensiksi silmän tai silmäluomen liikkeet, koska niitä on 
+jo käytetty muissa yhteyksissä. ”Eyetracker”-niminen järjestelmä 
+tuntuu sopivan erittäin hyvin laitteiden käytön apuneuvoksi niille 
+vammaisille, jotka pystyvät kommunikoimaan vain silmien liikkeen 
+avulla. Tämä tuntuisi olevan ilmeisen hyvä ratkaisu siihen, miten näin 
+vaikeasti vammautuneet voisivat käyttää portaalia. Myös 
+liikuntarajoitteiset asiakkaat voisivat käyttää numeronäppäimiä.
+
+Koko edellä ehdotetun toimintamallin kannalta on erittäin tärkeää, että 
+erilaisten vaikeassa asemassa olevien ryhmien etua ajavat 
+asiantuntijaorganisaatiot osallistuvat sen kehittämiseen. Ne voivat 
+auttaa tunnistamaan ihmisten tarpeita ja avustaa välttämättömien 
+laitteiden ja ohjelmistojen hankinnassa. TIP olisi itsenäinen palvelin, 
+jonka kaikki palvelut toimisivat yhtenä itsenäisenä sovelluksena. 
+Vähitellen sen voisi ehkä tietyillä elämänalueilla yhdistää muihin 
+palvelimiin. TIP-palvelin voisi esimerkiksi yhdistyä 
+kirjastopalvelimeen niin, että asiakas pääsisi kuuntelemaan äänikirjoja. 
+Kun asiakas valitsisi portaalin valikosta kirjaston, kirjaluettelon 
+sisältävä alivalikko ja itse äänikirja voitaisiin ladata hänen 
+tietokoneelleen toiselta palvelimelta.
+
+Portaali suunniteltaisiin niin, että asiakkaat voisivat sen avulla 
+kommunikoida ystäviensä ja sukulaistensa kanssa, olivatpa nämä sitten 
+missä päin maailmaa tahansa. Portaalin kautta heille avautuisi 
+kokonainen mahdollisuuksien maailma. Samalla tavoin voisi päästä 
+käsiksi moniin palveluihin, esimerkiksi niihin, joita kunnat tuottavat.
+
+Täysin integroitu portaali on hyvä idea yksinkertaisesti siksi, että se 
+antaisi vaikeavammaisille ihmisille entistä paremmat mahdollisuudet 
+integroitua heitä ympäröivään maailmaan. En usko, että sen 
+toteuttaminen tulisi liian kalliiksi. Vammaisten elämän laatua se 
+parantaisi mittaamattomasti.
+
+Huomautus: Artikkelin tekijänoikeus Ken Matthews 2004. Ken 
+Matthews on Mid-Fife Newstape –nimisen nauhoitettuja sanoma- ja 
+aikakauslehtiä näkövammaisille tuottavan äänilehtipalvelun 
+varapuheenjohtaja Glenrothesin ja Kirkcaldyn alueella. Henkilöt ja 
+järjestöt, jotka haluavat keskustella täysin integroidun portaalin 
+toteuttamismahdollisuuksista, voivat lähettää hänelle sähköpostia 
+osoitteeseen kenmatthews@blueyonder.co.uk.
+
+(Osa 3 päättyy.)
+
+++HUOMAUTUKSET
+
++UUTISKOOSTEEN TILAAMINEN
+
+Suomenkielisen E-Access uutiskoosteen voi tilata 
+sähköpostiosoitteesta  eab-liita@headstar.com . Jos haluat tilata 
+koosteen joillekin muille, kirjoita heidän sähköpostiosoitteensa viestin 
+tekstiosaan. Toivomme, että kerrot ystävillesi ja kollegoillesi 
+mahdollisuudesta tilata Uutiskooste. Tilauksen voi perua lähettämällä 
+sähköpostiviestin osoitteeseen eab-poista@headstar.com .
+
+Englanninkielinen E-Access Bulletin on luettavissa osoitteessa 
+http://www.e-accessibility.com . Sen voi tilata säännöllisesti osoitteesta  
+eab-subs@headstar.com . Viestin aihe-riville kirjoitetaan teksti 
+"subscribe eab".
+
+Toivomme suomenkielistä uutiskoostetta koskevaa palautetta 
+Näkövammaisten kirjastoyhdistys ry:hyn (iiro.nummela@pp.nkl.fi).
+
+Uutiskoosteen englanninkielistä versiota koskevan palautteen tai 
+ideoita juttujen aiheiksi voi lähettää Dan Jellinekille osoitteeseen 
+dan@headstar.com.
+
+Tekijänoikeudet:
+Copyright 2003 Headstar Ltd. http://www.headstar.com
+ISSN 1476-6337
+
+Suomennoksen osalta: Copyright 2003 Headstar Ltd.
+http://www.headstar.com ja Näkövammaisten kirjastoyhdistys ry
+(kirjastoyhdistys@nkl.fi).
+
+Sekä alkuperäinen teksti että suomennos ovat tilaajille ilmaisia, ja niitä 
+voi kopioida kokonaisuudessaan edellyttäen, että myös tämä ilmoitus 
+tekijänoikeuksista ja uutiskoosteen tilausohjeet on kopioitu mukaan. 
+Pyydämme myös ilmoittamaan toimittajallemme Uutiskoosteen 
+sisällön julkaisemisesta.
+
+Koosteen osia lainattaessa on merkittävä  selkeästi, että ote on "otettu 
+E-Access Bulletinista, joka on ilmainen sähköinen kuukausijulkaisu", 
+ja www-sivujen osoite http://www.e-accessibility.com on liitettävä 
+mukaan.
+
+HENKILöKUNTA
+
+päätoimittaja - Dan Jellinek  dan@headstar.com
+apulaispäätoimittaja - Phil Cain  phil@headstar.com
+uutistoimittaja - Derek Parkinson  derek@headstar.com
+toimittaja - Mel Poluck  mel@headstar.com
+toimitussihteeri - Kevin Carey  humanity@atlas.co.uk
+
+Suomennoksen tuottaja on Näkövammaisten kirjastoyhdistys ry 
+(kirjastoyhdistys@nkl.fi).
+
+Käännettävät tekstit on valinnut Iiro Nummela 
+(iiro.nummela@pp.nkl.fi), ja tämän numeron tekstit on kääntänyt Satu 
+Linna (satu.linna@pp.nkl.fi).
+
+(Uutiskooste päättyy.)

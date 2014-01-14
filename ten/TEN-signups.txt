@@ -1,0 +1,271 @@
++++ Text Email Newsletter Standard (TEN Standard): List of 
+Signatories.
+
+++Contents.
+
+Section one: About this document.
+Section two: UK signatory list.
+Section three: International signatories.
+Section four: Non-English language versions of the TEN Standard.
+
+[End of contents].
+
+++Section One: About This Document.
+
+The organisations listed below have pledged their support to the TEN 
+Standard, a standard for layout of email newsletters designed to ease 
+navigation of the newsletters by all readers, including those using 
+special access technologies. The standard’s web site is:
+http://www.headstar.com/ten .
+
+The signatory list is correct as at February 2005. If you would like to 
+add your name to this list, and use the standard for your own work, 
+please email us at ten-standard@headstar.com .
+
+[End of Section One].
+
+
+++Section Two: UK Signatory List.
+
+The following organisations have expressed broad agreement with the 
+principles of the TEN Standard, and are using the standard wholly or 
+partly in the newsletters listed at the end of their entries below. The 
+first signatory is its creator, Headstar; after that signatories are listed in 
+alphabetical order.
+
++01: Headstar
+http://www.headstar.com .
+Headstar is a Brighton, UK-based publishing house specialising in 
+email newsletters, seminars and online events on technology and social 
+issues. Headstar is the creator of the TEN Standard and its first 
+signatory.
+Newsletters: ‘E-Access Bulletin’; ‘E-Government Bulletin’; ‘Future 
+Democracy Bulletin’; ‘Future Health Bulletin’.
+
++02 Access Matters
+http://www.accessmattersltd.co.uk .
+A company which helps organisations become more inclusive 
+employers and provide more inclusive services.
+Newsletter: The Disability Equality Agenda.
+
++03: Becta: The British Educational Communications and Technology 
+Agency
+http://www.becta.org.uk .
+UK agency which supports the government’s four education 
+departments in their strategic ICT developments. The agency’s 
+Community Learning Resource supports the TEN Standard.
+Newsletter: ‘Apollo’s Arrow’.
+
++04: Brent, the London Borough of
+http://www.brent.gov.uk .
+Local authority in London.
+Newsletter: Brent Council Email Alerts.
+
++05: Bridgnorth District Council
+http://www.bridgnorth.gov.uk
+Local authority.
+
++06: Bristol City Council
+http://www.bristol-city.gov.uk .
+Local authority.
+Newsletter: ‘eBristol Bulletin’.
+
++07: Bunbury Information Services
+http://www.bunburyis.com .
+Accessible web and information services consultancy, and partner of 
+Headstar, developers of the TEN Standard.
+
++08: Carers UK
+http://www.carersonline.org.uk
+The main UK charity supporting carers.
+Newsletter: ‘Carers UK e-Campaigners Newsletter’.
+
++09: Clackmannanshire Council 
+http://www.clacksweb.org.uk .
+Local authority.
+
++10: Contact a Family
+http://www.cafamily.org.uk .
+For families with disabled children.
+Newsletters: 'General e-Newsletter', 'Rare Disorders e-Newsletter'.
+
++11: Department for Work and Pensions
+http://www.dwp.gov.uk .
+UK central government department overseeing welfare reform.
+Newsletter: ‘Access matters’.
+
++12: Disability Now
+http://www.disabilitynow.org.uk .
+Email newsletter from the magazine of the same name published by 
+Scope, the disability organisation in England and Wales whose focus is 
+people with cerebral palsy.
+Newsletter: Disability Now newsletter.
+
++13: East Sussex County Council
+http://www.eastsussex.gov.uk .
+Local authority.
+Newsletter: Your e-County monthly.
+
++14: Environment Agency
+http://www.environment-agency.gov.uk .
+The UK’s leading public body for protecting and improving the 
+environment in England and Wales.
+Newsletter: e-business environmental news bulletin.
+
++15: Hairnet UK
+http://www.hairnet.org .
+Hairnet is a social business bringing IT literacy training to those who 
+might not otherwise find access easy, using a network of mobile, self-
+employed licensed trainers.
+
++16: Hertfordshire County Council
+http://www.hertsdirect.org
+Local authority.
+
++17: LocalAlert
+http://www.localalert.co.uk .
+A company providing location-aware electronic newsletter solutions 
+for local authorities.
+
++18: Merseyside Disability Federation
+http://www.merseydisability.org.uk .
+Support, research and information for voluntary and community groups 
+in Greater Merseyside (England), that are of, and for, disabled people.
+Newsletter: Merseyside Disability Federation News.
+
++19: Message Digital Design
+http://www.message.uk.com .
+Web design company specialising in web standards-compliant, 
+accessible websites.
+
++20: MouseAbility
+http://www.mouseability.co.uk .
+Directory identifying businesses and organisations that positively 
+welcome disabled people.
+
++21: National Autistic Society
+http://www.autism.org.uk
+Charity championing the rights and interests of all people with autism.
+
++22: NEMLAC (North East Museums Libraries & Archives Council)
+http://www.nemlac.co.uk .
+
++23: NESTA Futurelab
+http://www.nestafuturelab.org .
+Centre for experimentation with the use of new and emerging 
+technologies for innovation in learning, part of the National 
+Endowment for Science Technology and the Arts.
+Newsletter: NESTA Futurelab Newsletter
+
++24: Skill Scotland
+http://www.skill.org.uk .
+The Scottish branch of Skill, the National Bureau for Students with 
+Disabilities.
+Newsletter: Skill Scotland E-News.
+
++25: Tunbridge Wells Borough Council
+http://www.tunbridgewells.gov.uk .
+English local authority in Kent.
+Newsletter: E-News from Tunbridge Wells
+
++26: Shrewsbury & Atcham Borough Council
+http://www.shrewsbury.gov.uk .
+Local authority.
+
++27: South Shropshire District Council
+http://www.southshropshire.gov.uk .
+Local authority.
+
++28: Student Volunteering UK
+http://www.studentvol.org.uk .
+Student Volunteering England works towards ensuring every student 
+has the opportunity to volunteer and make a positive difference in their 
+community and beyond.
+Newsletter: ‘VINE Online’.
+
++29: Vital Publishing
+http://www.clear-profit.com .
+Vital Publishing produces Clear Profit, a free, independent email 
+newsletter containing news, features and opinion on financial ethics.
+Newsletter: ‘Clear Profit’.
+
++30: Youreable
+http://www.youreable.com .
+A leading portal with information, products and services for disabled 
+people.
+
+[End of Section Two].
+
+
+++Section Three: International Signatories.
+
++31: CNIB Library for the Blind
+http://www.cnib.ca/library
+The library, a division of the Canadian National Institute for the Blind, 
+is a not-for-profit, national organisation offering free library and 
+information services to approximately 3,000,000 Canadians who are 
+blind, visually impaired, and print-disabled. The CNIB Library is one 
+of the largest producers of materials in accessible formats in the world.
+
++32: European Design for All e-Accessibility Network (EDeAN)
+http://www.e-accessibility.org .
+The network was established in July 2002, in accordance with one of 
+the goals of the eEurope 2002 Action Plan agreed on by the European 
+Commission and all member states, to “ensure the establishment and 
+networking of national centres of excellence in design-for-all and 
+create recommendations for a European curriculum for designers and 
+engineers”.
+
++33: Stiftung Digitale Chancen
+http://www.digitale-chancen.de .
+Stiftung Digitale Chancen (‘Digital Opportunities Network’) is a body 
+set up by the University of Bremen with AOL Germany with German 
+government support to research and help tackle questions relating to 
+the digital divide.
+
+
++34: TECNO S.R.L. 
+http://www.tecnologievisione.it . 
+Italian company that produce technology aids for vision-impaired and 
+blind people. 
+Newsletter: tecno e-marketing newsletter.
+
++35: UI Access
+http://www.uiaccess.com .
+UI Access is a free resource for universal interface design and usable 
+accessibility information, maintained by Shawn Lawton Henry of the 
+World Wide Web Consortium (W3C) Web Accessibility Initiative 
+(WAI).
+
++36: Visuaide
+http://www.visuaide.com .
+Canada-based innovator in high-tech solutions for the blind and 
+visually impaired, and the world leader in digital audio book solutions 
+for the print disabled.
+
++37: Netzwerk Recherche e.V.
+http://www.netzwerk-recherche.de .
+The netzwerk recherche is the association of investigative journalists in 
+Germany.
+
+[End of Section Three].
+
+
+++Section Four: Non-English Language Versions of the TEN 
+Standard.
+
++38: German TEN Standard
+http://www.ude.de/ten .
+Translated by Albrecht Ude.
+
++39: Portuguese TEN Standard
+http://www.acesso.umic.pcm.gov.pt/ten.html .
+Translated by Jorge Fernandes.
+
++40: Spanish TEN Standard
+http://www.redespecialweb.org/tensp-1.2.htm .
+Translated by Graciela Caplan.
+
+[End of Section Four].
+
+[Document ends].

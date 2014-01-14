@@ -1,0 +1,58 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Nov 15 21:06:35 2009 __
+
+Input file: ../eab/issues/2009/apr2009.txt
+
+Warning: file already exists: ../eab/issues/2009/apr2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: apr | index: 4 | year: 2009
+URLs, prev: ../2009/mar2009.html | next: ../2009/may2009.html
+Found ++, heading 2: Special Notice: E-Access '09: Technology For All
+Found ++, heading 2: Issue 112 Contents.
+>> FOUND 2:  | 01:  | Disability Redefined As E-Learning 'Mismatch'
+>> FOUND 2:  | 02:  | Concerns Raised Over Australian Mobile News Service
+>> FOUND 2:  | 03:  | Finnish Trial For Touch-Screen Braille On Mobiles
+>> FOUND 2: News in Brief:  | 04:  | Outstanding contribution - Lloyds TSB accessibility
+OK, News in brief
+Found: News in Brief:  | 04:  | Outstanding contribution - Lloyds TSB accessibility
+>> FOUND 2: manager Graeme Whippy wins award;  | 05:  | London Calling - Olympic
+Found: manager Graeme Whippy wins award;  | 05:  | London Calling - Olympic
+>> FOUND 2: accessibility survey;  | 06:  | BlackBerry Speech - first screenreader for
+Found: accessibility survey;  | 06:  | BlackBerry Speech - first screenreader for
+>> FOUND 2: smartphones;  | 07:  | Our Survey - Bloor research linked to Headstar
+Found: smartphones;  | 07:  | Our Survey - Bloor research linked to Headstar
+>> FOUND 2:  | 08:  | Discrimination Complaint - E-Book speech function removal; 09:
+>> FOUND 2: Permission Pending - online video vaults;  | 10:  | Second Guess - British
+Found: Permission Pending - online video vaults;  | 10:  | Second Guess - British
+>> FOUND 2:  | 11:  | The Best Of Intentions, Clearly Stated: Local authority websites
+Warning line 77: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Disability Redefined As E-Learning 'Mismatch'.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Concerns Raised Over Australian Mobile News Service.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Finnish Trial For Touch-Screen Braille On Mobiles.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Graeme Whippy, Senior IT
+> ITEM 1:  05:  | : |  A survey to gather information to help make
+> ITEM 1:  06:  | : |  The first text-to-speech screenreader for
+> ITEM 1:  07:  | : |  Anyone involved in using or selecting accessibility
+Found ++, heading 2: Sponsored Notice: BrowseAloud - E-Access '09 Preview
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 258.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 284.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 293.
+> ITEM 1:  08:  | : |  In a comment left on our website on
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 318.
+> ITEM 1:  09:  | : |  Mary Watkins, Director of Communications
+> ITEM 1:  10:  | : |  Gustaw Kon, a reader living in Germany, writes in
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: Special Report
+> ITEM 2:  11:  | The Best Of Intentions, Clearly Stated.
+Warning: not found a 'contents' match: The Best Of Intentions, Clearly Stated.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 495.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 502.

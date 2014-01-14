@@ -1,0 +1,834 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 98, FEBRUARY 2008.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 98 Contents.
+
+01: Work Begins on British Standard for Accessible Websites
+- Exclusive: technical committee formed to develop guidance.
+
+02: Public Bodies 'Face Assistive Technology Legal Action'
+- Analyst warns organisations can no longer afford not to act.
+
+03: Kurzweil Unveils Smallest Text Scanner and Converter
+- mobile phone camera and software allows portable text recognition.
+
+News in Brief: 04: Audio Awareness - TV description campaign; 05:
+Better Accessed - council websites supplement; 06: Checker List - free
+online accessibility tester tools.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Flash Encouragement - Adobe urged to educate developers; 08:
+Poor Show - employers criticised over pdf implementation; 09:
+Leopard Displays - Apple and Braille.
+
+Section Three: News Analysis - Web Accessibility Standards.
+10: Raising the Standard: The British Standards Institution is to move
+towards development of a full British Standard for the development of
+accessible websites, E-Access Bulletin has learned. Dan Jellinek
+interviews Julie Howell, the driving force behind the project.
+
+Section Four: Conference Report - Dyslexia and the Civil Service.
+11: Premonitions of Judgment Day: Dyslexia is a problem for many
+people, and employers must act to ensure their staff have the assistive
+technology they need. If they do not they could fall foul of the courts
+sooner rather than later, since the evidence of what helps is now
+widespread and the solutions are low-cost, the conference heard.
+
+[Contents ends].
+
+
+++Special Notice: E-Access '08
+- The Accessibility Event of the Year
+- 23 April, Central London
+http://www.headstar-events.com/eaccess08/
+
+E-Access Bulletin's fourth annual conference and exhibition on access
+to technology by people with disabilities is on 23 April, sponsored by
+Fortune Cookie and supported by E-Access Bulletin, RNIB and Ability
+Magazine.
+
+A fantastic line-up will look at issues surrounding access to the web; e-
+learning and education; digital TV switchover; accessible books; and
+employment issues. This is the place for all organisations in all sectors
+to find out how to comply with the law and how to make the best use
+of the talents of all your staff, students and service users.
+
+Delegate rates are just £195 for public sector, £295 for private sector
+and £165 for small charities and non-profits (turnover under £150k).
+Book today to guarantee your place, at:
+http://www.headstar-events.com/eaccess08/
+
+And for information about sponsoring or exhibiting please email Will
+Knox on:
+will.knox@headstar.com or call him on 01273 267974.
+
+[Special Notice ends].
+
+
+++Section One: News.
+
++01: Work Begins on British Standard for Accessible Websites.
+
+Work has begun on the development of a full British Standard for
+developing accessible websites, E-Access Bulletin has learned.
+
+The move follows the publication by the British Standards Institution
+(BSi) in March 2006 of initial guidance known as a 'PAS' or 'Publicly
+Available Specification'. This was 'PAS 78: a guide to good practice
+in commissioning accessible websites'.
+
+A new technical committee IST/45 is now being assembled to oversee
+the development of a full standard, of which the chair elect is PAS78
+lead author Julie Howell, former RNIB digital access campaigner and
+currently head of accessibility at the digital agency Fortune Cookie.
+Other members of the committee are likely to be drawn from
+organisations represented on the PAS78 steering group such as the
+British Computer Society; Cabinet Office; and the former Disability
+Rights Commission (DRC), now part of the Equality and Human
+Rights Commission.
+
+When finished, the British Standard will be available for purchase from
+the BSi at a price comparable with other standards, usually between
+£30 and £100. PAS78 was made available for free download by DRC,
+which sponsored its development and bought a distribution licence,
+though this type of arrangement is not possible for full standards. The
+PAS has been downloaded more than 54,000 times to date.
+
+The new standard will relate to procurement or development of
+accessible websites. It will not set out the technical requirements of
+accessibility, but will outline a process developers can follow to ensure
+they are taking all the right actions to make their websites and services
+as inclusive as possible. In an exclusive interview with E-Access
+Bulletin published in this issue, Julie Howell says BSi would like the
+standard to be based on PAS78 but she is also keen to widen it to
+embrace some of the new types of web service such as social
+networking. Other issues to be revisited from the PAS include the need
+for user testing of websites by disabled people; and the need for
+organisations to produce an accessibility policy.
+
+The standard is likely to be published in the first quarter of 2009,
+Howell says, and the committee IST/45 could eventually produce other
+work such as leaflets and training materials, some of which might be
+made available without charge.
+
+NOTE: For the full interview with Julie Howell see Section Three, this
+issue.
+
+
++02: Public Bodies 'Face Assistive Technology Legal Action'.
+
+An increasing amount of research showing that large numbers of staff
+with dyslexia and other disabilities can benefit from assistive
+technology mean that public sector bodies face the likelihood of legal
+action this year or next under the Disability Discrimination Act, a
+leading analyst said this month.
+
+David Evans, Education development manager at computer access firm
+Microlink PC (http://www.microlinkpc.co.uk/), told the Dyslexia and
+the Civil Service conference in London that research carried out by his
+company in schools had found that some 28% of pupils could benefit
+from assistive software.
+
+A large amount of similar research, coupled with ever-falling costs of
+assistive technologies such as screen filters, text to speech and voice
+recognition tools, mean it is only a matter of time before public sector
+employers are forced to implement assistive technology through legal
+action, Evans said.
+
+Under the terms of the Disability Discrimination Act public sector
+employers must make "reasonable" adjustments to facilities to allow
+access by all staff, he said. "So what information is available to
+employers at the moment? We know at least 10% of the workforce is
+dyslexic. We know there is a truckload of technology out there that can
+help, for probably less than 1% of the employment costs of the
+individual. So the information is there, it is public knowledge, the
+resources are there and they know people will benefit.
+
+"So the judge will say - yes, that was reasonable, why wasn't it done?
+There are going to be some landmark cases, this year or next year."
+
+NOTE: For a full conference report see Section Four, this issue.
+
+
++03: Kurzweil Unveils Smallest Text Scanner and Converter.
+
+The smallest ever portable device allowing users to scan printed text
+and convert it to speech has been unveiled by KNFB Reading
+Technology. The KNFB Reader uses software installed on a Nokia
+N82 multi-function mobile phone handset weighing only 114 grams
+(http://www.knfbreader.com/).
+
+The device allows users to take pictures of printed materials using the
+phone's integrated camera while the KNFB software, which includes
+intelligent imaging and character recognition, allows the text to be
+resized, tracked and highlighted on-screen or converted into synthetic
+speech. In addition the screen reader software can help a visually
+impaired user to access more of the phone's features which include a
+calendar, internet access, music player, voice recorder, GPS navigation
+and PDF viewer.
+
+KNFB is a partnership of the National Federation of the Blind in the
+US and Kurzweil Technologies, the company set up by celebrated
+inventor and futurologist Raymond Kurzweil, pioneer of Optical
+Character Recognition and text-to-speech technology in the 1970s.
+
+The software is available in the UK for 1,080 pounds, with a package
+including software, a Nokia handset and half a day of training available
+for 1,725 pounds.
+
+In May Kurzweil will be further enhancing his reputation as a man of
+the future when he appears as an interactive hologram to be the
+keynote speaker at a charity dinner. The Children's Vision Awards
+Dinner is organised by the Association for Retinopathy of Prematurity
+and Related Diseases (http://www.ropard.org/) and Kurzweil's
+hologram will use 'digital teleportation' technology developed by
+Teleportec (http://www.teleportec.com/).
+
+
+++News in Brief:
+
++04: Audio Awareness: A publicity campaign to raise awareness of
+audio description services for television programmes is being launched
+this month by RNIB. The ads will highlight the benefits that audio
+description can provide to visually impaired people and the increasing
+availability of the services on digital TV. In addition a new symbol has
+been created for broadcasters and retailers which will make audio
+description services easier to identify. The series of adverts will run for
+six weeks, reaching 80% of the UK population:
+http://www.audiodescription.org.uk/ .
+
++05: Better Accessed: A new supplement on accessibility will be
+published alongside March's annual 'Better Connected' report on the
+state of UK council websites, from the local government Society of IT
+Management. The report - now in its tenth year -has always covered
+accessibility but growing awareness of the complexity of these issues
+has prompted the decision to publish an in-depth supplement:
+http://www.socitm.gov.uk .
+
++06: Checker List: A list of 25 free online website accessibility
+checkers has been posted online at the blog Virtualhosting.com:
+http://fastlink.headstar.com/vh1 .
+
+[Section One ends].
+
+
+++Sponsored Notice: The Age Agenda Conference 2008
+- The complete picture on public policy and older people
+- Tuesday 26 February 2008, London, W1
+
+Age Concern England's annual conference provides an overview of the
+policies affecting older people today. Chaired by Angela Rippon, the
+conference features an impressive line up of speakers including three
+government ministers: Ivan Lewis MP, Parliamentary Under Secretary
+of State for Care Services; Mike O'Brien MP, Minister of State for
+Pensions Reform and Baroness Andrews, Parliamentary Under-
+Secretary of State.
+
+Other plenary speakers include David Willets MP, Baroness Sally
+Greengross, Equality and Human Rights Commission, Katie Ghose,
+British Institute of Human Rights and Andrew Haldenby, Reform.
+
+For a full programme and booking details please visit:
+www.ageconcern.org.uk/ageagendaconference .
+
+[Sponsored notice ends].
+
+
+++Sponsored notice: Access by Design Journal
+- National Register of Access Consultants (NRAC) Spring Conference.
+
+The National Register of Access Consultants (NRAC) is holding its
+Spring Conference on 12 March 2008 at the Lowry, Manchester.
+Topics under discussion include:
+
+- How to get listed building consent;
+- Changing Places;
+- Regulatory Reform (Fire Safety) Order and meeting the needs of
+disabled people;
+- The difficulties in establishing the law relating to disability
+discrimination;
+- Design of Home Zones as researched by DPTAC;
+- An update from the Equalities and Human Rights Commission (tbc).
+
+For a full conference overview, and to book a place, visit the NRAC
+website at:
+http://www.nrac.org.uk .
+
+[Sponsored notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Flash Encouragement: Julie Howell, Director of Accessibility at
+Fortune Cookie (and interviewee elsewhere in this issue of E-Access
+Bulletin for her work on a British Standard for developing accessible
+websites), writes in with feedback on last month's articles on the
+accessibility of Adobe Flash web multimedia technology. She says:
+"Your report on accessible Flash was extremely encouraging. Many of
+us remember the days when a Flash site was an inaccessible site.
+
+"But how many Flash developers are aware that they can make the
+Flash they code more accessible? For its efforts to produce real
+success, Adobe must invest energy in educating web developers in how
+to create accessible Flash.
+
+"I also hope that Adobe will do more outreach with blind and partially
+sighted web users, many of whom remember the dark days of Flash
+only too well and who will need a bit of encouragement (training and
+persuasion!) to give it another go. I've lost count of the number of
+times I've heard blind web users say 'That site's not accessible to me
+because it's in Flash,' without actually trying to access it.
+
+"The stigma that still surrounds Flash must be challenged. I hope
+Adobe will extend its outreach activities beyond Techshare, so blind
+and partially sighted people will understand that a Flash site can be an
+accessible site.
+
+"Adobe's accessibility heroes (Andrew Kirkpatrick and Greg Pisocky)
+are based in the USA. Perhaps Adobe should consider recruiting an
+outreach person for the UK and Europe. Even a short burst of effort
+would help to bring all those who live in 'Flash accessibility limbo' up
+to speed.
+
+"The hard work of making Flash accessible has been done. The task
+before Adobe now is in encouraging blind and partially sighted people
+to use it: a win for Adobe, a win for Flash developers, a win for any
+company that has a Flash web site and a win for blind and partially
+sighted web users."
+
+[Further comments please to inbox@headstar.com].
+
+
++08: Poor Show: Also on the topic of Flash, Jude DaShiell, a computer
+programmer in the US civil service from Lexington Park, Maryland,
+had an indignant reaction: "No! At least not the way it gets
+implemented by whoever prepares mandatory training using it for my
+employer. So far there's one persistent problem. Buttons you have to
+click on keep getting put on slides. Screen readers see these slides as
+single graphic objects so it takes sighted assistance to do the clicking
+whenever this happens.
+
+"My employer is now using alternative media solutions for
+presentations for screen reader users the problem is so bad. What
+they're using are pdf files but at least you can get the text extracted out
+of that trash then delete those files. My employer continues guzzling
+that Adobe Kool-Aid though and until that stops and the employer
+figures out how to prise its data out of the forms it used it's going to
+continue losing the taxpayer's money. But after all who cares so long
+as it's the taxpayer's money not management's salaries that get lost?"
+
+[Editor's note: for non-US readers, Jude's reference to 'guzzling that
+Kool-Aid' adapts the American expression, 'drinking the Kool-Aid',
+meaning to blindly following a belief.]
+
+[Further comments please to inbox@headstar.com].
+
+
++09: Leopard Displays: Our tireless correspondent, Jude DaShiell, has
+also written in this month to continue our discussion about support for
+refreshable Braille displays by the new Apple operating system
+'Leopard'.
+
+Jude provides a link to a list of supported displays, from Apple's own
+website:
+http://fastlink.headstar.com/apple1 .
+
+And Jude also forwarded a relevant notice from earlier this month:
+
+"Today, Apple released the Braille Display Update 1.0 for VoiceOver
+in Leopard. VoiceOver, part of the Universal Access family of
+accessibility tech, allows blind or visually impaired users to hear
+what's on the screen. Via the new update, when you connect a
+compatible Braille display, "VoiceOver automatically detects it and
+sends it information about what is displayed on the screen."
+
+"This update adds new support for certain Braille displays, including
+the HandyTech Braille Star 8, GW Micro BrailleSense, and more. This
+update is available for users of Mac OS X Leopard by using Software
+Update (Apple menu > Software Update) or by downloading the
+installer package from the Apple support downloads site. If you're
+currently using a Braille screenreader under Leopard - or you were
+waiting for support for your screenreader via this update - drop us a
+comment to let us know if the update makes a difference for you."
+
+The download is available at:
+http://fastlink.headstar.com/apple2 .
+
+[Further comments please to inbox@headstar.com].
+
+[Inbox ends].
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice:
+- The British Computer Association of the Blind.
+
+The British Computer Association of the Blind (BCAB) is a committed
+organisation that focuses on computer related issues for visually
+impaired people of all skill levels and interests. Our membership
+ranges from computer professionals working in the field, to people
+taking their first steps in computing.
+
+We offer training, discussion, help and support on a variety of
+computer related topics. With four different membership packages to
+choose from and a growing choice of member benefits,  there's
+something to suit everyone. Visit our website for more information or
+to join online:
+http://www.bcab.org.uk/ .
+
+[Sponsored notice ends].
+
+
+++Section Three: News Analysis
+- Web Accessibility Standards.
+
++10: Raising the Standard
+by Dan Jellinek.
+
+Although awareness of the importance of web accessibility is now
+relatively high after years of struggle by disability campaigners,
+website owners and developers still face a confusing task in trying to
+ascertain exactly what they should do to make their sites accessible.
+
+There are a variety of guidelines and standards, and the main
+recognised international standard, the Web Content Accessibility
+Guidelines (WCAG) from the World Wide Web Consortium's Web
+Accessibility Initiative (WAI), is now outdated. A new version -
+WCAG 2.0 - might appear next year, but no-one is holding their breath
+since already almost a decade of wrangling and delays has passed since
+the appearance of WCAG version 1.0.
+
+Into this minefield strides the British Standards Institution (BSi), the
+UK's national standards body, now in the process of establishing a new
+technical standards committee to oversee the development of a
+standard which all organisations will be able to follow in procuring or
+developing an accessible website. It will not in itself set out in detail
+the technical requirements of accessibility, but it will aim to outline a
+thorough process developers can follow to ensure they are taking all
+the right actions at the right time to make their websites and services as
+inclusive as possible.
+
+The work will build on BSi's existing 'PAS 78', where 'PAS' stands
+for 'Publicly Available Specification'. A PAS is an initial
+specification, developed in a consultative manner, which marks the
+first step on the way to a full British Standard, and indeed many
+members of the team which developed the PAS for BSi will join the
+new technical committee. Chief among these is Julie Howell, head of
+accessibility at web design agency Fortune Cookie and long-term web
+accessibility campaigner on behalf of RNIB and others. Howell drafted
+PAS 78 and is chair elect of the new technical committee 'IST/45'.
+
+The work will be the culmination of almost a decade of hard work,
+Howell told E-Access Bulletin in an exclusive interview to announce
+the new project.
+
+"The story starts back in 1999, when four things happened," Howell
+says. "WAI published the first draft of the Web Content Accessibility
+Guidelines; the UK government published its white paper
+'Modernising government', with targets for moving public services
+online; I was appointed internet campaigns officer at RNIB; and Part
+III of the Disability Discrimination Act (DDA) came into force, which
+extended the act's provisions to services and service providers,
+including websites.
+
+"So there was quite a lot going on: noise was being made in Whitehall,
+things were starting to happen."
+
+The work was taken up by the UK's then Disability Rights
+Commission - now part of the expanded Equality and Human Rights
+Commission - which issued a code of practice on the DDA in 2002
+expanding on its application to websites and then, in 2004, launched a
+formal investigation into web accessibility in the UK.
+
+The commission engaged City University to undertake research into
+1,000 UK websites, published later that same year as 'Disabled people
+and the web'. The research found that only 19% of websites met level
+'A' of WCAG 1.0, says Howell, and that a significant percentage of
+problems experienced by disabled people could not be met by WCAG.
+
+"Through the research the commission found there was a gap - that
+there was a high level of goodwill to people with disabilities, but a
+failure to act," she says. In all the report made 16 recommendations, of
+which one was the production of new guidance to bridge a gap in
+understanding.
+
+"Another was to launch a public awareness campaign, which it never
+has," she says.
+
+It was in relation to the recommendation on guidance that DRC was
+approached by BSi, which said it had a product and a process that
+could help. The results was that DRC sponsored the process of creating
+PAS78 - a PAS is always sponsored, though full standards are funded
+and owned by BSi itself - and the commission turned to Howell for
+advice and support in forming a steering group and drawing up the
+specification.
+
+"A PAS is part way on the journey to a standard, but it does not require
+consensus, so it can be published quickly," Howell says. "It was
+consultative, we consulted with a wide range of stakeholders, but did
+not require consensus like the WCAG revision process, so it was
+possible to produce within a year."
+
+To begin with, Howell had to assess what role the PAS would play in a
+field where guidelines already existed. "I was the one with a blank
+sheet of paper, who decided what it should include. BSi and DRC had
+drawn up the scope, but the steering group changed it, because it had
+been intended for developers, and it became obvious to us that we
+already had technical guidelines - WCAG - and what was needed was
+guidance on procurement."
+
+As the PAS was developed - and there were strict BSi rules to be
+followed, including the Kafkaesque BS0, the standard for writing
+standards - it was redrafted twice by a steering group which had
+representation from a variety of organisations: AbilityNet; BBC;
+British Computer Society; Cabinet Office; DRC; IBM; RNIB;
+Tesco.com; University College London; and the Usability
+Professionals Association.
+
+At the end of this process, it set out a robust generic process for
+creating an accessible site, emphasising site testing by disabled people;
+the need for organisations to produce an accessibility policy for
+internal use; and publication of an accessibility statement on each
+website site for the benefit of users with disabilities.
+
+After a wider consultation process with more than 100 stakeholder
+organisations such as Adobe and WAI, the PAS was launched in
+March 2006. Although the specification was made available by BSi for
+a £30 download charge, DRC bought a licence for open publication so
+the PAS could be made available for free public download from its
+own website (now the website if its successor body, the Equality and
+Human Rights Commission), resulting in a rush of interest that has led
+to download figures of some 54,000 to date.
+
+BSi rules state that after two years a PAS has to be reviewed with a
+view to becoming a full standard, though Howell says that at first,
+when this deadline was approaching and the institution contacted her
+with the next step in mind, she and her fellow committee members
+were not sure if the time was yet right to move towards a full standard.
+
+"With the two-year mark is approaching, at first we were resistant to
+talk of it becoming a standard. I felt not enough had been done when
+the PAS was published to promote awareness of it. To have 54,000
+downloads is not bad, but my fear was that we had released something
+that had been downloaded and that was all. It was not necessarily being
+used.
+
+"On the other hand, with a PAS you always have to explain to
+everyone what a PAS is, whereas people have heard of a British
+Standard. So I was persuaded, but at the same time daunted - while the
+creation of a PAS does not require full consensus, a BS does. There is
+an awful lot of work to be done."
+
+The fledgling new committee IST/45 will be charged with looking at
+the area of web accessibility in general, including e-commerce and
+social networking sites, with other work beyond the initial BS also
+possible, Howell says. "There might also be leaflets and training
+materials." She is currently in the process of finalising initial
+membership of the committee, with representation confirmed from
+many of the bodies involved with drawing up PAS 78, and others
+invited. Further members will be co-opted to advise the committee on
+an ad-hoc basis as its work progresses, Howell says.
+
+But the committee's chief task, and its first piece of work, will be to
+draw up the British Standard. Initially to be drafted by a sub-group of a
+few committee members, Howell says BSi would like the standard to
+be based on PAS78 but she is also keen to widen it to embrace some of
+the new types of web service that were not around just a couple of
+years ago when the PAS was drawn up.
+
+"PAS78 was before Web 2.0, before social networks, before rich
+internet applications. We will have to look at these."
+
+As with all British Standards, the completed standard will be wholly
+owned by BSi, and therefore, unlike with the DRC-sponsored PAS78,
+there will be a price attached to it, Howell says. But it will be aimed at
+a fairly specialised, professional audience who should be able to afford
+the price, and the committee will also be likely to produce other more
+general materials that might be free, such as additional documentation
+and training.
+
+The committee's aim is to get the BS out within a year - in the first
+quarter of 2009 - a far swifter process than the seemingly endless
+debate over the creation of WCAG 2.0.
+
+"We've all agreed this has to be fast - I don't want it to be so
+collaborative and consultative that it takes a decade," Howell says.
+"BSi will not let it drag on, and I will not let it drag on. I am a
+disability campaigner. I want to see change."
+
+NOTE: For more information on the work of the new BSi technical
+committee, readers may contact Julie Howell on
+Julie.Howell@fortunecookie.co.uk . Julie will also be speaking at
+Headstar's annual event E-Access '08, on 23 April in central London:
+http://www.headstar-events.com/eaccess08 .
+
+[Section Three ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Four: Conference Report
+- Dyslexia and the Civil Service.
+
++11: Premonitions of Judgment Day
+by Dan Jellinek.
+
+It is impossible to state a definitive number for the percentage of
+people who suffer from dyslexia because there is no single definition
+of dyslexia, delegates heard at this month's conference on Dyslexia
+and the Civil Service.
+
+"It is a spectrum, a continuum," Rachel Davies, National Institute of
+Adult Continuing Education (NIACE), told the conference, hosted by
+the Adult Dyslexia Organisation.
+
+"If you set the bar low, 40% may have some indications, but the most
+commonly quoted figures are around 4% for severe dyslexia and
+around 10% for mild and severe dyslexia," Davies said.
+
+"But it's also important to remember that lots of people who don't
+have dyslexia will find the adjustments that you make useful."
+
+David Evans, Education development manager at specialist computer
+access firm Microlink PC (http://www.microlinkpc.co.uk/), said some
+74% of disability recorded in the UK is dyslexia-related, making
+dyslexia by far the biggest single disability issue.
+
+Evans said that research carried out by his company in schools had
+found that the average take-up of software designed to help people
+with dyslexia was around 28% of pupils per day. "I don't know if it
+was the same 28% - we will test for that next time - so the true figure
+of total pupils helped could be even higher. But schools actually only
+budget for about 4% of pupils who need assistance."
+
+Other factors which could increase the number of people benefiting
+from software designed to help people with dyslexia include people
+with English as their second language (about 18% of entrants to the
+workforce, many of these suffering from dyslexia in their own
+language as well); attention deficit disorder sufferers; people with
+impaired vision; and people who prefer to learn in a more visual way.
+
+"My inclination is that the true proportion of people who could be
+helped by access software is probably closer to 40%," Evans said. "But
+even if we accept that only approximately 10% of the UK workforce
+can understand and present data much more quickly than they can read
+or write, it is clear that much talent is being wasted."
+
+One practical definition of dyslexia is simply the condition whereby
+people are able to understand spoken information faster than they are
+able to absorb it through reading or set it down in writing, he said. I
+know one extremely bright individual at Cardiff university who will
+get a first class degree, got three As at 'A' level, and can mentally
+process around 700 words a minute, but can only manage six words a
+minute reading, and even less writing. The average for dyslexia is
+around 20 words a minute.
+
+"But we can harness technology to enable people to access data at a
+speed which reflects their ability to process and absorb it," Evans said.
+"Technology can help get data into your mind, and out of your head
+and onto paper, at speed."
+
+Low-cost solutions that can help people with dyslexia use computers
+include colour overlays to alter the colour and contrast of text and
+background. "The difference they can make is stunning", Evans said.
+"A digital one is free, if you want it profiled it is still very cheap."
+
+Text to speech software including screen-readers has also become
+cheaper, better quality and easier to use in the past few years, he said.
+And voice recognition software, which can be of enormous assistance
+to people with dyslexia as well as those with impaired vision, has taken
+a giant leap forwards with the latest version of 'Dragon' software.
+
+"When Dragon version 9 came out it was as if we had jumped from
+version 8 to version 80 - it now has 90% accuracy. It actually works
+better the faster you talk," Evans said. "Its processing power is
+awesome, though it needs a good computer to use it. At around £120
+for the basic version, it's affordable, and it can be used with digital
+note-takers such as the Olympus DS-40. I'm not dyslexic, but I use it
+every day."
+
+Other software tools that can be useful include 'mind-mapping' tools
+that help portray ideas and build documents in 3-D visual diagrams
+rather than as linear notes. "Some of the new mind-mapping tools are
+fantastic, and they can convert back to a nice linear structure at the
+press of a button," he said. "And they are not as conspicuous for
+someone to use as a screen-reader, it is not as obvious that they have a
+disability."
+
+With all these low-cost technology options available and a growing
+body of research showing how many people could benefit, it is only a
+matter of time before more employers are forced to implement far
+more technology through legal action, Evans said.
+
+Under the terms of the Disability Discrimination Act public sector
+employers must make "reasonable" adjustments to facilities to allow
+access by all staff. "What is 'reasonable adjustment'? The reactive
+definition in common law is retrospective - it is what a judge believes
+was reasonable given the circumstances and the information that was
+available," Evans said. "So what information is available to employers
+at the moment? We know at least 10% of the workforce is dyslexic.
+We know there is a truckload of technology out there that can help, for
+probably less than 1% of the employment costs of the individual. So
+the information is there, it is public knowledge, the resources are there
+and they know people will benefit.
+
+"So the judge will say - yes, that was reasonable, why wasn't it done?
+There are going to be some landmark cases, this year or next year."
+
+Some public bodies may say that the money to make adjustments is not
+there in their budgets, but they could go and bid for it from the centre.
+
+"There must be a cost-benefit analysis, could be technology for £100
+that increases productivity by 20%. It will only take a strong test case
+to change people's attitudes."
+
+Ultimately, the strongest reason for employers and educational
+institutions to start to make wider use of assistive technology is not
+simply to avoid legal action or to comply with regulations but to make
+the best use of their employees' or learners' talent, improving their
+productivity, Evans said.
+
+"In my experience, more than 90% of assessments in the workplace are
+compliance driven. It wasn't 'how can we harness this person's talent?'
+It was 'How quickly can we tick a box?'"
+
+But being 'employee-centred' does not just mean reacting to individual
+problems, he said. "An individual-centred approach is not about
+compliance, employers should be saying 'We ought to do this, because
+we will get more from our staff. It is active talent management."
+
+In a lot of organisations, it will be a lot easier to take a decision based
+on this kind of high level approach, he said. Research from the
+University of Southampton has identified that nearly 90% of people
+using assistive technologies reported an improvement in their
+performance. "Go back to your unions, begin to ask questions."
+
+As part of his session, Evans told the story of one 15-year-old student
+whose experiences were both inspirational and sobering. "I was there
+at a school and we were doing some testing with screen filters and this
+boy just went mad. He went crazy, we had to pull him down off the
+ceiling. But he wasn't angry because it didn't work - he was angry
+because a free colour contrast tool did work, and it was so easy After
+20 minutes of using it, he could read.
+
+"And he said, why has it taken so long to find this? He was angry at the
+time that had been wasted."
+
+[Section Four ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2008 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporter: Majeed Saleh
+Editorial advisor - Kevin Carey
+Marketing Executive - Claire Clinton
+Sales and Marketing - Jo Knell, Will Knox.
+
+ISSN 1476-6337 .
+
+[Issue 98 ends.] 

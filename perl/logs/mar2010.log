@@ -1,0 +1,40 @@
+__ BUILD [tens2html.pl  v1.14] log Sat Jul  3 23:09:05 2010 __
+
+Input file: ../eab/issues/2010/mar2010.txt
+
+Warning: file already exists: ../eab/issues/2010/mar2010.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: mar | index: 3 | year: 2010
+URLs, prev: ../2010/feb2010.html | next: ../2010/apr2010.html
+Found ++, heading 2: Issue 123 Contents.
+>> FOUND 2:  | 01:  | Exclusive: EU Set To Ditch Rules On Accessible Goods.
+>> FOUND 2:  | 02:  | Praise for Councils' Web Accessibility Progress
+>> FOUND 2:  | 03:  | Technology Trust To Launch Online Hub For Social Good
+>> FOUND 2: News in Brief:  | 04:  | Mixed Messages - on accessibility from
+OK, News in brief
+Found: News in Brief:  | 04:  | Mixed Messages - on accessibility from
+>> FOUND 2: Australian Government;  | 05:  | Free Surf - web learning days; 06:
+Found: Free Surf - web learning days | ; |  06:
+>> FOUND 2:  | 07:  | Better Than They Seem? The latest annual review of every
+Warning line 37: expected [Contents ends].
+$toc_count=7
+Found ++, heading 2: Section One: News.
+> ITEM 1:  01:  | : |  EU Set To Ditch Rules On Accessible Goods.
+> ITEM 2:  02:  | Praise for Councils' Web Accessibility Progress.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Technology Trust To Launch Online Hub For Social
+Warning: not found a 'contents' match: Technology Trust To Launch Online Hub For Socialgood.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Australian government websites will be
+> ITEM 1:  05:  | : |  Making a Google search and accessing the
+> ITEM 1:  06:  | : |  Talking books in DAISY (Digital
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Two: Special Report
+> ITEM 2:  07:  | Better Than They Seem?
+Warning: not found a 'contents' match: Better Than They Seem?By Tristan Parker.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 425.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 456.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 463.

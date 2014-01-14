@@ -1,0 +1,47 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:04 2004 __
+
+Input file: ../eab/issues/2003/jun2003.txt
+
+Warning: file already exists: ../eab/issues/2003/jun2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jun | index: 6 | year: 2003
+URLs, prev: ../2003/may2003.html | next: ../2003/jul2003.html
+Found ++, heading 2: ISSUE 42 CONTENTS.
+>> FOUND 2:  | 01:  | Accessible web modules for local government
+>> FOUND 2:  | 02:  | Wish-list for digital television
+>> FOUND 2:  | 03:  | RNIB relaunches web site
+>> FOUND 2:  | 04:  | Further education guidance published
+>> FOUND 1: News in brief:  | 05: Driving advice - training standard; 06: Interactive
+>> FOUND 2:  | 08:  | B-sites - are the A-sites accessible? 09: Fulbright award - US
+>> FOUND 2:  | 10:  | The human factor: Derek Parkinson report on why automated web
+>> FOUND 2:  | 11:  | Karl Marx and the technology gap: in the rush to use new
+Warning line 50: expected [Contents ends].
+$toc_count=10
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | ACCESSIBLE WEB MODULES FOR LOCAL
+Warning: not found a 'contents' match: Accessible Web Modules For Localgovernment.
+> ITEM 2:  02:  | WISH-LIST FOR DIGITAL TELEVISION.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | RNIB RELAUNCHES WEB SITE.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | FURTHER EDUCATION GUIDANCE PUBLISHED.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  The British Computer Society is to create
+> ITEM 1:  06:  | : |  This year's British Interactive Media
+> ITEM 1:  07:  | : |  The British Computer Association of the
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Leesa Lavigne, a web designer and computer operator
+> ITEM 1:  09:  | : |  Jenny van Tinteren, currently head of
+Found ++, heading 2: SECTION THREE: ANALYSIS
+> ITEM 2:  10:  | THE HUMAN FACTOR
+Warning: not title-casing possible HTML:
+  10: THE HUMAN FACTORby Derek Parkinson  <a href="mailto:derek@headstar.com">derek@headstar.com</a> .
+Warning: not found a 'contents' match: THE HUMAN FACTORby Derek Parkinson  <a href="mailto:derek@headstar.com">derek@headstar.com</a> .
+Found ++, heading 2: SECTION FOUR: OPINION
+> ITEM 2:  11:  | KARL MARX AND THE TECHNOLOGY GAP
+Warning: not title-casing possible HTML:
+  11: KARL MARX AND THE TECHNOLOGY GAPby Kevin Carey  <a href="mailto:humanity@atlas.co.uk">humanity@atlas.co.uk</a> .
+Warning: not found a 'contents' match: KARL MARX AND THE TECHNOLOGY GAPby Kevin Carey  <a href="mailto:humanity@atlas.co.uk">humanity@atlas.co.uk</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

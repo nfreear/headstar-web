@@ -1,0 +1,591 @@
++++E-ACCESS BULLETIN.
+- ISSUE 61, JANUARY 2005.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++Issue 61 Contents.
+
+Section One: News.
+
+01: Opera Gains a Voice
+- Advanced speech functions in new browser.
+
+02: Safety Games Use Text-to-Speech Technology
+- Fire education modules use text to speech.
+
+03: Accessible Conversion for Technical Drawings
+- European consortium develops free software.
+
+04: Improvements Urged for Library Computer Access
+- Aberdeen survey urges more equipment and training.
+
+News in Brief: 05: Working Practice - employers' advice booklet; 06:
+Game Boy - accessible interactive adventure; 07: Jaws Six - latest
+screen reader; 08: TIE-In: European training newsletter.
+
+Section Two: 'The Inbox' - Readers' Forum.
+09: European Invitation - research questionnaire; 10: CMS Response -
+recommended software; 11: Third Degree - second questionnaire; 13:
+Gift Rap - accessible presents.
+
+Section Three: Focus - Colour Contrast.
+14: Readers move out of the shade: text and background colour plays a
+major part in readability of information on a screen, says Peter Irons.
+But awareness of the issues is low.
+
+Section Four: My Story - Angus MacKinnon.
+15: Fighting against the storm: The fascinating tale of a Canadian
+man's journey to St Lucia in the Caribbean to help blind people learn
+computer skills. In a tough environment, a little help went a long way.
+
+[Contents ends].
+
+
+++SPONSORED NOTICE: LocalAlert
+- Accessible Email Newsletters for Councils.
+
+Highlighted as an example of achieving Priority Outcome G3,
+LocalAlert allows local authorities to disseminate information on a
+wide range of topics including Planning, Liquor Licensing, Jobs,
+Procurements, Committee Minutes and Crime.
+
+Newsletters are automatically generated in either HTML, Plain Text or
+Accessible Text (TEN) format, extracting content from databases as
+required. And, uniquely, subscribers may restrict information to a
+specified radius of their home(s).
+
+LocalAlert also provides the ability to target consultations to specific
+areas. For further details or to register for our forthcoming seminar see:
+http://www.localalert.co.uk
+or call Hans Grefte on 0208 4523627.
+
+[Sponsored notice ends].
+
+
+++Section One: News.
+
++01: Opera Gains A Voice.
+
+Advanced voice functions have been introduced into the latest version
+of Opera, the free web browser software compatible with Apple Mac,
+Windows, Solaris and Linux operating systems.
+
+The new beta version of Opera, Opera 8, launched for testing at the end
+of December 2004, allows users to browse the web using spoken
+commands and to have web and email content read aloud to them.
+
+Using a microphone and headset, users highlight the text they want
+read out and say "Opera speak" to have content spoken to them. There
+are 50 different voice commands, including browsing commands, such
+as "Opera next link", "Opera back" or "Opera home".
+
+The voice feature uses IBM voice technology and is currently only
+available on the Windows operating system. Because it requires users
+to have some sight of the screen to highlight text, the Opera browser is
+principally of use to people with some residual vision.
+
+However, the company claims that its product is "the most accessible
+browser on the market" with a range of features that includes a zoom
+function for enlarging content by 20 to 1000 per cent, the option to
+change text size and text and link colours, and the ability to disable
+animations, video or audio applications. Users can also implement their
+own style sheets to customise pages as they prefer to view them.
+
+As well as new voice functionality, the next version of the browser also
+includes the ability to magnify web pages and have content adapted to
+fit the width of the screen. This means that users don't have to scroll
+horizontally when the web page width exceeds that of the screen - "a
+compelling accessibility tool for visually impaired users," says Opera.
+
+Although not all the browser's functions will be compatible initially
+with screen readers, the company will continue to make improvements
+to offer full functionality to users of assistive techology, Opera told E-
+Access Bulletin.
+
+The beta version of Opera's latest browser is available as a free
+download from its web site. The final version of the browser is due to
+be released at the end of February. Opera can be used freely with
+advertisements and at low cost for a version without ads.
+
+
++02: Safety Games Use Text-to-Speech Technology.
+
+Interactive online games that educate children about fire safety using
+text-to-speech technology have been launched by the UK's Office of
+the Deputy Prime Minister (ODPM - http://www.odpm.gov.uk).
+
+The games, called Route to Safety and Hazard a Guess (both available
+at http://www.firekills.gov.uk/seniors/fun/), can be played with or
+without access technology, such as screen readers. This enables a blind
+or vision-impaired child to play the game together with a sighted
+sibling.
+
+The games were developed as part of an ODPM inclusion programme
+to educate children who might return from school before a parent
+arrives home about fire hazards, and are also available on CD.
+
+Hazard a Guess asks players to rank the severity of fire hazards in the
+home, while in Route to Safety players are asked questions about fire
+safety as they roll the dice and move across the board. To play the
+games online, the user has to download Macromedia's Shockwave
+plug-in.
+
+
++03: Accessible Conversion for Technical Drawings.
+
+Free software allowing vision-impaired software engineers to read
+technical drawings produced in many common formats has been
+released following a two-year European Commission-funded research
+project.
+
+Technical Drawings Understanding for the Blind (TeDUB -
+http://www.tedub.org/) has been headed by the TeDUB Consortium
+which comprises partners from the UK, Germany, Ireland, Italy and the
+Netherlands.
+
+TeDUB works by uploading diagrams, such as the "box and pointer"
+diagrams often used to design family trees, to a web site where they are
+converted into a compatible format and then emailed back to the user.
+It has been designed to work best with diagrams created in Unified
+Modeling Language (UML), a coding language often used by software
+engineers to represent real-world objects.
+
+The system also allows vision-impaired users to move around diagrams
+with a joystick. It provides basic sound to accompany navigation
+allowing users to hear where they are, and is also compatible with
+screen readers.
+
+The software is available by download from the TeDUB web site
+where tutorials and examples of UML diagrams can also be found. It is
+funded by the sixth framework of the European Commission's
+Information Society Technologies research programme
+(http://www.cordis.lu/ist/).
+
+
++04: Improvements Urged for Library Computer Access.
+
+More assistive equipment, trained staff, and consultation with users is
+needed if electronic services in public libraries are to be useful to
+vision-impaired people, according to a survey by Robert Gordon
+University in Aberdeen (http://www.rgu.ac.uk/abs).
+
+Although many respondents thought that electronic information
+services improve the lives of vision-impaired people, there was little
+reason for people to travel to a library when many services can be
+accessed at home using more familiar equipment, the report said.
+
+The respondents, all experienced users of electronic services, said that
+providing assistive equipment without trained staff would not
+significantly increase use of library services by people with impaired
+vision. Respondents also highlighted the need to involve user groups
+from the start, and to adhere strictly to technical and accessibility
+standards.
+
+The report, compiled by postgraduate student Andrew Lewis, also
+recommends further work on a national system for delivering
+information electronically.
+
+
+++News in Brief:
+
++05: Working Practice: Compliance with employment law, IT training
+for people with impaired vision and adapting computers in the
+workplace are among issues covered in 'See to IT at work,' a booklet
+aimed at employers. Published by the RNIB, it costs 10 pounds:
+http://onlineshop.rnib.org.uk .
+
++06: Game Boy: An accessible interactive adventure game has been
+released that can run on Windows, Macintosh, handheld computers and
+Linux operating systems. 'Future Boy!', from the Toronto-based firm
+General Coffee Company Film Productions, is recommended for ages
+13 and up and costs 20 dollars:
+http://www.generalcoffee.com/futureboy .
+
++07: Jaws Six: The latest version of the JAWS screen reader for
+Windows, JAWS 6.0, has been released by US-based manufacturer
+Freedom Scientific. New features include a built-in DAISY electronic
+book reader, a customisable skim-reading tool and remote access
+allowing users to connect to a work computer at home and use JAWS
+with applications and files. The release coincides with JAWS' tenth
+anniversary:
+http://fastlink.headstar.com/jaws1 .
+
++08: TIE-In: The European Training, Implementation, Education and
+Support project from the World Wide Web Consortium's Web
+Accessibility Initiative has published an update on its work. The WAI-
+TIES electronic newsletter may be freely distributed through mailing
+lists:
+http://www.w3.org/WAI/TIES/update3 .
+
+[Section One ends].
+
+
+++Sponsored Notice: J-Say Standard from T and T Consultancy Ltd.
+
+J-Say Standard combines the unparalleled flexibility of JAWS for
+Windows with the outstanding voice recognition capabilities of Dragon
+Naturally Speaking Preferred.
+
+Imagine being able to:
+- Create word processor documents using natural speech;
+- Create and process email using your voice;
+- Browse the internet using a combination of voice input and keyboard;
+- Rapidly move to specific cells within an Excel worksheet;
+- Access an interactive help system, manuals and a tutorial;
+- Train the speech recognition software to understand your voice, as
+well as having speech-based access to all the features of Dragon
+software.
+
+J-Say Standard is ideal for any JAWS user wishing to use voice input
+as an additional means of computer input. For more information please
+contact T&T Consultancy Ltd by telephone on 08452 303015 or email
+on:
+enquiries@tandt-consultancy.com .
+
+[Sponsored notice ends].
+
+
+++Sponsored Notice: 'Advances In Technology' to Form Major Part of
+the World's Largest Conference on Low Vision and Sight Loss
+
+'Advances in technology will form a major part of the Vision 2005
+conference, the world's premier event on low vision and sight loss
+hosted by RNIB in London this spring. Designers, technology experts,
+scientists and academics will gather from across the world to share best
+practice in inclusive design and technology for people with sight
+problems.
+
+Keynote speakers include inventor and entrepreneur Dr Raymond
+Kurzweil.
+
+Vision 2005 takes place at London's Queen Elizabeth II Conference
+Centre from Monday 4 to Thursday 7 April 2005. Day delegates can
+receive an early bird discount before 17 February. Register or see the
+full programme at:
+http://www.rnib.org.uk/vision2005 .
+
+[Sponsored Notice Ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
+
++09: European Invitation: Jenny Craven, research associate at the
+centre for research in library and information management at
+Manchester Metropolitan University (CERLIM -
+http://www.cerlim.ac.uk/), writes in to invite readers to participate in a
+European Union-funded project to help make web sites more
+accessible.
+
+She writes: "Your responses will help to inform the development of the
+European Internet Accessibility Observatory project (EIAO -
+http://www.cerlim.ac.uk/projects/eiao/). The goal is to contribute to
+better e-accessibility for all citizens and to increase the use of standards
+for online resources. The project aims to provide ranked lists of
+accessible web sites and to develop accessibility issues to enable policy
+makers to develop more effective policies, among others."
+
+A questionnaire is available to complete online at
+http://www.ico-trg.mmu.ac.uk/eiao.html . For the plain text or Word
+version, please email Jenny on: j.craven@mmu.ac.uk . All responses
+will remain anonymous.
+
+
++10: CMS Response: In our last issue, E-Access Bulletin technician
+Nick Apostolidis requested advice on content management systems
+(CMS) that work well with the JAWS screenreader. Bart Simons, a
+web accessibility specialist at Brussels-based communications
+company ASCii (http://www.ascii.be) replies: "Depending on which
+kind of CMS you are looking for I might recommend Nucleus
+(http://www.nucleuscms.org/). It does not only provide accessible
+content but the machinery itself is accessible as well. Of course one is
+free to delete or add accessibility features. It is mainly a CMS to create
+weblogs but if you take a look at 'sites running nucleus,' you will
+notice a variety of sites."
+
+Martin Vickery, corporate brand manager at the NHS Information
+Authority also responds to Nick's request: "You may be interested to
+know we have just relaunched the website for the NHS National
+Programme for IT (NPfIT - http://www.npfit.nhs.uk) using [the open
+source CMS] Plone. The site was constructed by my team in less than
+six weeks without any prior knowledge of the system but with
+experience of working with open source products and Linux servers.
+
+"The benefits of putting this together in-house were: speed of
+development; no long procurement process as nothing had to be
+purchased; it is highly accessible, although any CMS is reliant on the
+accuracy of content added by authors; it complies with XHTML, CSS
+and WAI; and we provide links to validators on each page for checking
+which is risky but assists in debugging the system.
+
+"Based on experience with this product I can certainly recommend
+open source working."
+
+[Further suggestions please to inbox@headstar.com]
+
+
++11: Third Degree: Vicki Bale, a student at the University of the West
+of England in Bristol writes in inviting readers to respond to a
+questionnaire she has compiled as part of her dissertation on
+accessibility of web sites and software. For details, please email Vicki
+at:
+vicki@onecomputer.co.uk
+
+
++13: Gift Rap: Elaine Ainsworth would like to hear from blind or
+vision-impaired internet users for a project she is undertaking on the
+market opportunities for Braille cards and gifts sold via the internet. "I
+am very interested to hear about types of assistive technology and am
+looking into web accessibility issues and would like to hear any
+positive or negative experiences users have.
+
+"I am also interested to hear from people who are related to, work with,
+care for or are friends with people who are blind or vision-impaired
+and whether or not they would consider buying personalised Braille
+cards, chocolates with Braille menus, flowers with personalised tags or
+any other type of gift - your ideas are welcomed. I can prepare some
+specific questions to send to anyone who contacts me if this is
+preferable." If you would like to help Elaine, please email:
+elaine@sitesolved.com .
+
+[Section Two ends]
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Three - Focus
+- Colour Contrast.
+
++14: Readers Move Out of The Shade
+by Peter Irons.
+
+A quiet revolution is taking place across the UK.  Day after day, new
+people are rejecting the white background on their computer screens
+and adjusting the gaudy colour displays on websites. Why? It is
+because they find reading screens difficult or tiring, and have realised
+that they can reset it to an optimum colour arrangement, according to
+their personal needs.
+
+The reading process is akin to any sport: some people find it easier
+than others, and this has nothing to do with intelligence. Studying
+reading is a bit like studying sport science for eyeballs!
+
+The Eye Science/TintaVision project (http://www.tintavision.com)
+started in 1984 because many students found words so difficult when
+they had to read or write them, but not when they were discussing
+topics verbally. The visual component seemed to be getting in the way.
+
+Whiteboards were being introduced into schools and perfectly rational,
+intelligent students started complaining about the colours of the
+markers that teachers were using. The colour palette on the
+Archimedes- an early desktop computer - soon allowed the first
+objective experiments on colour and reading.
+
+In 1998, the foresight of David Laycock, manager at the University of
+Westminster's Computer Centre for people with Disabilities
+(http://www.wmin.ac.uk/ccpd), led to a study of human computer
+interaction focused on access to text. My own team started a
+methodical study of the outcomes of changing the background and
+foreground colours on the computers that dyslexic students were
+getting as part of their Disabled Students Allowance.
+
+In 1999 it started to become clear that people's access to text could be
+enhanced by measuring their response to changes in pixel brightness
+on a screen. Since then, things have moved a long way. For example, a
+person we have seen recently had been told that she needed a yellow
+filter because it "helped dyslexic people". She is now using a computer
+screen which is a sort of "muddy cyan" in colour, reading three times
+as fast and reading for fun. All web sites she views are now displayed
+with that background, and she now loves her computer!
+
+Over the past two or three years it has become increasingly accepted
+by academic researchers that colour is important in access to text, and
+the growth in awareness seems to be almost exponential. In computing
+and retinal biology, colour is definable very precisely whereas many
+people see it as an "arty" or "fluffy" concept. Most people think that as
+long as the background is not "white," it is "colour". This is a bit like
+having a counting system that only goes up to two or three.
+
+At a recent London seminar hosted by E-Access Bulletin's sister
+publication E-Government Bulletin (http://www.electronic-
+government.com/accessibility/), it became clear that the three main
+tools to be applied in response to disability legislation, with the
+purpose of improving access to the web are user's choice of font size,
+background colour, and compatibility with speech-generating software.
+
+The challenge we face now is to raise awareness in the 'accessibility
+industry' to a level where precise, measured colour is understood to be
+part of creating a level playing field for users.
+
+NOTE: Peter Irons is Technical Director at Tintavision
+(http://www.tintavision.com/).
+
+[Section Three ends].
+
+
+
+++Section Four - My Story
+- Angus MacKinnon.
+
++15: Fighting Against the Storm.
+
+My story begins after the St. Lucia Blind Welfare Association
+(SLBWA) in the Caribbean received 14 reconditioned computers,
+equipped with speech output software JAWS, from a charitable
+organisation in Europe. The problem was that no one in St. Lucia knew
+anything about JAWS. But one person's problem is another person's
+opportunity, as I was soon to learn.
+
+My opportunity to go to St. Lucia came when I convinced the
+Canadian National Institute for the Blind (CNIB -
+http://www.cnib.ca/eng/), and the SLBWA that I was the best
+candidate for a posting as an intern from Canada for the CNIB and
+Foreign Affairs Canada (http://www.fac-aec.gc.ca/menu-en.asp).
+
+I had never heard of St. Lucia, but so what! I knew this was an
+opportunity that I had to grab.
+
+My guide dog Dabney and I landed at Hewanorra Airport on the south
+end of the island, where we were met by the director of the SLBWA
+and some of his staff. I guess we were quite a sight. After the long
+flight and my mobility challenge - of which they had been unaware - I
+came wobbling off the plane and through the airport. As I later heard,
+their initial reaction was: "What have we got ourselves into?"
+
+Dabney was the first guide dog on the island, so the first couple of
+months was spent on orientation. Introducing St Lucians to the concept
+of a service animal that went everywhere with me proved interesting -
+most dogs in St. Lucia are feral or aggressive guard animals and
+receive little attention. But the education went smoothly despite a few
+confrontations with business owners and park managers and the staff
+and members of the St. Lucia Blind Welfare Association proved to be
+great allies.
+
+Once orientation was complete, I began training blind and vision-
+impaired people on the use of JAWS. My clients were extremely
+varied in age, computing experience, visual ability and other factors.
+All of them were eager to learn but some had to overcome their fear of
+computers.
+
+As time went on, I took a number of individuals into advanced
+computer literacy training and increased the independence of other
+trainees. For example Anthony Avril, director of the SLBWA,
+progressed from having no typing skills to writing documents on the
+computer. This was great for Mr Avril but worried his administrative
+assistant. Happily, in spite of Mr Avril's achievements, Angel Louis
+still has plenty to keep her busy.
+
+Teaching other people taught me a lot. My first lesson was realising
+that my clients did not share the same level of computer literacy I was
+used to. To avoid losing my students, I had to organise and simplify
+my knowledge into a format that would work for them, a skill I had
+garnered from my training as a human resources generalist with a
+major interest in training and development.
+
+All around us were constant reminders we were working in a
+developing country. While the expected computer lab was actually the
+kitchen because it had the fewest leaks and the most reliable electricity
+supply, electrical outages were a constant occurrence.
+
+The infrastructure of St Lucia also leaves much to be desired for a
+vision-impaired person. Very few of the buildings, for example, are
+blind-friendly. The few elevators there are do not have Braille for the
+floor buttons. The sidewalks that do exist, mainly in the capital
+Castries, are continually changing in height, width, and state of repair
+or disrepair. Perhaps the greatest challenge is the storm sewers; open
+ditches of every size, depth and width imaginable.
+
+All in all, my five months in St. Lucia were great. I watched the
+director of the SLBWA go from not knowing the location of the keys
+on the keyboard to receiving and sending his own email. I was able to
+help nine vision-impaired students learn the basics of computer-use
+and JAWS. My legacy is Magdelane Maxwell, who I trained to use and
+understand JAWS: she now continues training others.
+
+These small successes stand in stark contrast to the circumstances of
+the great majority of the blind and vision-impaired community on St
+Lucia, which numbers over 2,500 - largely a community of the hidden
+and the ignored. The cause of sight loss is normally glaucoma but the
+outcome is always the same: people will often lose their job and thus
+go from being a contributor to being a lost member of society.
+
+Fourteen reconditioned Pentium I computers do not go far. They do
+make a difference and offer some hope to people like my former
+students Jasmine, Stashia, Tony and others struggling to access a
+computer and some basic training to use it. But think for just a moment
+of how far and how fast other parts of the world are moving.
+
+Developing countries like St. Lucia are being left further behind. The
+blind and vision-impaired citizens of these countries are being dumped
+in the storm sewers.
+
+NOTE: Angus MacKinnon is vice president of the Choroideremia
+Research Foundation (http://www.choroideremia.org). His personal
+web page is at: http://members.shaw.ca/dabneyadfm .
+
+If any other readers have their own true story to tell about an inspiring
+trip or episode in their life involving any aspect of the use of access
+technologies, please email Mel Poluck on mel@headstar.com .
+
+[Section Four ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2005 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Technician - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

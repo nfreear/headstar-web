@@ -1,0 +1,758 @@
+* E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site (including archive):
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for the Blind
+<http://www.rnib.org.uk>
+and the National Library for the Blind
+<http://www.nlbuk.org>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+NOTE: As a navigation aid to those using screen readers, all headings 
+begin with an asterisk and end with a full stop. Please let us know if there 
+is anything else we could do to make navigation of the bulletin easier.
+
+[Issue starts.]
+
+* ISSUE 28, APRIL 2002.
+
+* CONTENTS:
+
+News:
+- Disability Act code of practice delayed.
+- New technology unveiled at Cambridge conference.
+- EU procurement laws get disability clause.
+- Education technology agency launches online advice service.
+- Accessible web rises up the EU agenda.
+
+News in brief: Braille word; Specialist internet providers; Access to law; 
+United colours.
+
+Section two: 'The Inbox'
+- Readers' forum.
+
+Section three: policy
+- 'E-Europe: laying siege to the city walls. The EU has placed access 
+issues at the heart of its e-Europe initiative, but could the early 
+recommendations of this project end up being ignored? UK 
+representative Kevin Carey has the inside story.
+
+Section four: reader response
+- Braille music: Setting the standard. Last month's feature on the 
+development of hi-tech alternatives to Braille music prompts a strong 
+reader response.
+
+Section five: focus
+- Speech technology: any time, any place, any device.  Speech 
+technology is widely touted as the interface of the future, and not just for 
+blind people. Judith Markowitz assesses the state of the art.
+
+
+[Contents ends.]
+
+
+* SECTION ONE - NEWS.
+
+
+* DISABILITY ACT TIMETABLE SLIPS.
+
+A delay in the publication of guidance relating to the education 
+provisions of the Disability Discrimination Act could cause problems 
+with the act's implementation, a leading charity has warned.
+
+The government was expected to publish codes of practice explaining the 
+obligations of schools and colleges under the DDA in May but a delay in 
+their presentation to Parliament has meant these may now not appear 
+until July or even later.
+
+Once implemented, the act will make it unlawful for schools, colleges 
+and universities to reject applications from students purely on the 
+grounds of their disabilities.
+
+According to Skill (http://www.skill.org.uk/about), an education and 
+employment charity that helped draft the code of practice, the delay may 
+cause problems as schools, colleges and universities must review and 
+amend each curriculum and their staff training, admissions and 
+disciplinary procedures by September 2002. 
+
+Skill policy director Sophie Corlett said: “This legislation should have a 
+major impact. In the past, colleges could be quite up-front about rejecting 
+applications because of disabilities. It also means that education 
+providers have a duty to make reasonable adjustments to provide support 
+and access to disabled people.”
+
+The whole of Great Britain will be subject to the September 2002 
+deadline, with Northern Ireland expected to follow shortly after. By April 
+2003, the act further requires educational establishments to offer 
+“auxiliary services” such as sign language interpreters, and by 2005 to 
+complete physical adjustments such as installing lifts.
+
+To help fund the changes, the Department for Education and Skills has 
+made 70 million pounds available to schools in England, the second 
+chunk of a total budget of 220 million under the Schools Access 
+Initiative that will be spent on upgrading facilities for the disabled by 
+2004. 
+
+However, Caroline Ellis, parliamentary officer at the RNIB, said more 
+sustained funding is necessary to make a substantial impact on disabled 
+access to education. "RNIB strongly welcomes the increases but they 
+will not touch on many of the key barriers faced by pupils with sight 
+loss. Specific and sustained funding is needed from the government to 
+ensure every school and local education authority can provide accessible 
+information to children and to ensure each authority has enough mobility 
+officers to train children to get around independently. The situation at the 
+moment is dire on both counts, leaving parents, children and their 
+teachers and support staff at their wits' end.”
+
+
+* CWUAAT’S UP DOC.
+
+A range of futuristic technologies for people with visual impairment 
+were unveiled last month at ‘CWUAAT’, the first international 
+Cambridge Workshop on Universal Access and Assistive Technology.
+
+Research into three-dimensional virtual reality training environments for 
+the visually impaired was presented by Dimitrios Tzovaras of the 
+Informatics and Telematics Institute in Greece. The work, which forms 
+part of an EU project entitled ENORASI, used a ‘CyberGrasp’ haptic 
+glove to create the impression of solid objects which could be felt, 
+picked up, held and examined.
+
+Trials undertaken by 26 blind volunteers included the identification of 
+three-dimensional virtual geometric objects on a table-top which could 
+be used in mathematics teaching; the physical representation of moving 
+graphs such as sinusoidal waves; virtual maps with tactile features; a 
+selection of virtual spheres of different simulated materials that could be 
+lifted and squeezed; and some entertainment games including target 
+shooting.
+
+Another highly practical trial involved the simulation of a cane that could 
+be used to tap virtual objects to simulate situations such as crossing the 
+road at traffic lights. The users felt sensations of holding a cane and also 
+realistic vibrations and sounds as virtual objects were tapped. For more 
+information see:
+http://www.iti.gr/db.php/en/projects/ENORASI.html
+
+Other technologies on display included a system to allow blind or 
+visually impaired people to create and read graphs and charts such as bar 
+graphs or pie charts developed by Professor Stephen Brewster of the 
+University of Glasgow. Using a ‘haptic mouse’ which creates a physical 
+sensation when a user moves over a line on the chart, Brewster said the 
+system might for the first time allow blind people to gain a proper 
+overview of a diagram or chart (see http://www.multivis.org).
+
+Joanne Coy of the privatised postal service Consignia, which sponsored 
+the workshop, told delegates that new Disability Discrimination Act and 
+an ageing population meant that large employers had to take access 
+technologies seriously if they are to recruit from the best available talent 
+and retain their existing staff. arger Because of their scale and profile, 
+organisations like Consignia would be expected to lead in this field, she 
+said.
+
+CWUAAT is scheduled to be reconvened every two years. Its web site is 
+at:
+http://rehab-www.eng.cam.ac.uk/cwuaat
+And to find out how to buy a copy of the proceedings email Simeon 
+Keates at Cambridge University on lsk12@eng.cam.ac.uk
+
+
+* EU TENDER LAW TO EMBRACE ACCESSIBILITY.
+
+Accessibility issues could be allowed to overrule economic factors in the 
+allocation of public sector technology contracts across Europe under new 
+laws being considered by the European Parliament.
+
+On Monday the Parliament is to hold a public hearing to discuss 
+amendments to EU law that would apply to all public contracts within its 
+borders. Although it would not oblige organisations to take accessibility 
+issues into account, those that do could be protected from challenges 
+mounted under existing competition laws.
+
+Until now, EU laws on tendering have made promoting cross-border 
+trade their main priority, and have encouraged competition for tenders by 
+focusing on economic factors alone.
+
+According to Labour MEP Richard Howitt, the move represents a 
+significant change in direction for European law. “It’s a very important 
+piece of legislation. It’s about Parliament revisiting social and 
+environmental clauses that were abandoned years ago in favour of 
+promoting competition, and recognising corporate and social 
+responsibility as legitimate goals in the public sector,” he said. However, 
+more progress is needed to bring Europe up to speed with the US, Howitt 
+said.
+
+Public procurement transactions are thought to account for over 11 per 
+cent of EU nations' combined economic output, but also have a major 
+impact on construction and public works, energy, telecommunications 
+and heavy industry.
+
+Readers can participate participate in the public hearing at:
+http://www.edf-feph.org/en/policy/empl/empl_pol.htm
+
+
+* ASK BECTA.
+
+BECTA, the UK government agency in charge of information 
+technology in education, is this month running an online advice service 
+on using technology to improve access to learning.
+
+The panel has already been asked about the education of visually 
+impaired people, with the question: "Where can I find good curriculum 
+activities on the web for blind children?"
+
+Panel member John Liddle from the technology access charity 
+AbilityNet advised the consideration of consideration of the resources 
+developed by the University of Birmingham's Visual Impairment Centre 
+for Teaching And Research unit, VICTAR:
+http://www.education.bham.ac.uk/research/victar
+
+To visit the BECTA forum and seek advice see:
+http://fastlink.headstar.com/becta
+
+
+* EU COUNCIL CALLS FOR ACCESSIBLE WEB.
+
+The Council of the European Union, the body representing EU 
+governments, last month issued a resolution that aims to encourage its 
+members to improve the accessibility of public sector sites.
+
+The resolution supports a communication issued late last year by the 
+European Commission that encourages European institutions and 
+governments to improve web accessibility (see E-Access Bulletin, issue 
+22, October 2001).
+
+The resolution "stresses" the need to increase efforts to improve the 
+accessibility of the web and "encourages" member states and the 
+commission to require their web sites to conform to the World Wide 
+Web Consortium's Web Accessibility guidelines.
+
+It is non-binding, but the council said it will be monitoring progress and 
+has asked member states and the commission to submit a progress report 
+in the first half of 2004.
+
+To see the full text of the resolution see:
+http://fastlink.headstar.com/EU
+
+NOTE: Last month the European Commission opened its first 
+documentation facility for visually impaired people, the VIP Office at the 
+Albert Borschette Conference Centre in Brussels. The centre offers 
+access for up to three people at a time to all commission documentation 
+currently available on the internet via technologies such as text-to-speech 
+and Braille keyboards. Other such centres could follow in other EU 
+institutions, and the commission hopes the initiative will help to increase 
+the number of visually impaired staff working for it.
+
+
+*NEWS IN BRIEF.
+
+* BRAILLE WORD: A comprehensive new Braille tutorial for Word 
+2000 keyboard users has been published by Hotkey Systems. The paper 
+version of the book costs 63 pounds plus postage from the US while a 
+floppy disk costs 16 pounds. A table of contents can be found at the 
+'download center' at: http://www.wyfiwyg.com
+
+* ISP INPUT: E-Access Bulletin is planning to run a feature assessing 
+internet service providers which provide services tailored to the needs of 
+blind people. We would like to hear of readers' experiences of such 
+services, positive or negative. Please contact Phil Cain on 
+phil@headstar.com or call 01273 231 291
+
+* ACCESS TO LAW: Information about accessible website law is 
+available at TechDis, a government-funded online service on 
+technologies improving disabled access to higher education. It has been 
+compiled by Martin Sloan of Glasgow University:
+http://www.techdis.ac.uk/resources/msloan01.html
+
+* RESEARCH BULLETIN: The National Library for the Blind Research 
+Bulletin is a free, twice-yearly email newsletter covering national and 
+international research projects in the visual impairment, library and 
+information technology worlds. Anyone interested in receiving the next 
+edition should contact Sarah Bundock on sarah.bundock@nlbuk.org or 
+call 0161 3552089 – and back copies can be found at:
+http://www.nlbuk.org/common/bulletin.html
+
+
+[Section one ends.]
+
+
+* SPONSORED NOTICE: PATHFINDER GOLD DATABASE.
+
+Pathfinder Gold from Enable Enterprises is a database of over 11,000 
+contacts in the disability and lifestyle fields with email and web 
+addresses where available, categorised in over 700 topics. The CD 
+database covers all major disability organisations, national and 
+international sporting bodies, educational institutions and more.
+
+The CD will have three sections: companies, organisations and media, in 
+a number of formats including CSV, Access and Outlook XP. The 
+database is priced at 100 pounds for a single copy or 150 pounds for a 
+copy and an updated copy in October.
+
+Orders can be paid for by cheque or paypal. Contact 
+pathfinder@enableenterprises.com
+
+[Sponsored notice ends].
+
+
+* SECTION TWO - 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com
+
+
+* EDUCATIONAL ASSISTANCE: In our last issue Juan Carlos Benito, 
+a special education teacher in Santander, Spain, wrote in to seek advice 
+on helping his 18-year old pupil Bruno to use a computer. Bruno has 
+cerebral palsy and cannot control the movement of his limbs.
+
+In response Anna Dresner wrote in to say: “At the ‘Closing the Gap’ 
+conference in 1998, someone demonstrated a piece of hardware and a 
+related computer program that allowed a person to control a computer 
+via brain waves. They could move a mouse, type, play games and so on. 
+It seemed to be easy to learn, and very effective.”
+
+Following an enquiry Sarah Anderson, administrative assistant at 
+Closing the Gap, said the technology remembered here was the 
+Cyberlink from Brain Actuated Technologies, whose web site is:
+http://www.brainfingers.com
+To find more about this product readers can also search by company or 
+product name at the conference’s online resource directory:
+http://www.closingthegap.com/rd
+
+Meanwhile Deanne Ferris of Augusta, Western Australia, suggests 
+another possible solution - the Eyegaze Communication System by LC 
+Technologies:
+http://www.eyegaze.com/indexdis.htm
+
+She writes: “I have no experience with this system, but the website 
+appears to give all the relevant details (including the price in US dollars - 
+youch) and mentions that the system has already been used in Spain.”
+
+
+* ON THE MAP:  Last month, Kate Page of English Nature asked for 
+advice on the creation of accessible maps on the web, for example maps 
+that display information about sites of special scientific interest.
+
+In response Dave Pawson from the RNIB wrote in to say: “I've been 
+playing with a combination of scalable vector graphics 
+(http://www.w3.org/Graphics/SVG) and Microsoft’s Speech Application 
+Programming Interface (SAPI), to provide a keyboard based navigation 
+of maps with voice output. It is very early days, but this looks like a very 
+good example case.”
+
+Other readers expressing an interest in this area include David Bailey of 
+the British Geological Survey (http://www.bgs.ac.uk), which he says is 
+interested in making its maps accessible; and David Hawgood of 
+GENUKI, a virtual library of genealogy links for UK and Ireland, whose 
+website provides and advises on maps which can be printed and raised:
+http://www.genuki.org.uk/b
+
+
+* UNITED COLOURS:  Further to our feature on technologies to help 
+blind people choose clothes (E-Access Bulletin, issue 17, May 2001), 
+Anthony Barnett of Chris Kay International writes with more 
+information on 'Lextra' Braille. Using heat applied transfers and welded 
+graphics, the system carries information on colours and clothing care 
+fused into clothing fibres. The company says it could also act as an anti-
+counterfeiting device, and has support from Benetton. For more 
+information email:
+abarnett@chriskay.com
+
+[Section two ends.]
+
+
+* SECTION THREE: POLICY
+- 'E-EUROPE'.
+
+* LAYING SIEGE TO THE CITY WALLS.
+by Kevin Carey  humanity@atlas.co.uk
+
+In the first half of 2000, during the Portuguese presidency of the EU, the 
+'e-Europe' initiative was launched. At its core was the idea that Europe 
+needed to get its act together or it would be left totally behind by digital 
+developments in the US. But although it already lagged behind in the use 
+of desktop and laptop computers, the EU was heartened at the time by 
+Europe's lead in the mobile phone and digital television fields.
+
+At a ministerial conference in April 2000 there was a strand dedicated to 
+discussing the disability and access chapter of the draft e-Europe 
+Declaration. Of the 40 or so people present only three were disabled: 
+Judy Brewer, a wheelchair user from the US representing the Web 
+Accessibility Initiative (WAI); Rodolfo Cattani, an observer from the 
+European Disability Forum (EDF) who is totally blind; and myself, also 
+totally blind and representing the RNIB.
+
+Most participants in the strand were well-meaning but out of touch. They 
+were too concerned with access to education and employment which are 
+already an integral part of other EU and member states' initiatives, too 
+interested in milestones and benchmarks and the paraphernalia of 
+international diplomacy, and too little interested in access to shopping, 
+banking, dating, broadcasting, health and financial information.
+
+On each of the two days the rapporteur - as the EU official responsible 
+for recording proceedings is known - read his notes which I challenged 
+for totally failing to reflect the substance of the discussions and for 
+possibly being written in advance of the discussions. The notes were 
+abstract, my calls were for concrete measures. However I made a fatal 
+tactical error by calling for the currently trendy option of integrating 
+disability into all aspects of the declaration (a cross grained approach) 
+rather than keeping it as a separate chapter. In the next three months all 
+the significant proposals in the original chapter on disability were traded 
+away in their cross-grained manifestation. The only way you can get 
+anything if you are disadvantaged is to camp outside the city but near its 
+walls in order to cause trouble and get food parcels; once inside you 
+become invisible.
+ 
+The e-Europe Declaration was duly approved by the EU Council of 
+Ministers in June 2000 and, as a result, a 'high level' committee was set 
+up to handle the Economic and Social Dimension of the Information 
+Society (ESDIS). For historical reasons this committee was linked to 
+member states' departments of employment or social welfare under 
+which disability usually falls. As far as I am aware, nobody from a 
+department of trade, industry, technology or communications was 
+nominated.
+
+ESDIS subsequently established an 'expert group' in e-accessibility. Each 
+member state could nominate two experts, one from government and one 
+from the voluntary or academic sectors. But, because the EU would only 
+pay for one per country, member governments concentrated on sending a 
+government official, leaving the the voluntary sector to contribute a 
+member if it paid for itself. This is a pity because, again, the officials 
+almost all come from welfare and employment backgrounds whereas the 
+expert group is necessarily supposed to contain technology experts.
+
+I first heard about this group a year ago and it took me a while to find out 
+who represented the UK. I then discovered that he wasn't all that keen on 
+the assignment. So I proposed myself to the Department for Work and 
+Pensions (http://www.dwp.gov.uk) as his replacement; and at the 
+beginning of this year it agreed. So I am the first disabled voting member 
+of the group, although the redoubtable Mr Cattani of the EDF is an 
+observer.
+
+The group is currently reviewing legislation on disability and e-Europe 
+and is likely to come out soon with some recommendations on 
+procurement. I doubt they will be as rigorous as those under 'Section 508' 
+in the US but we must do our best once the proposals are published to 
+tighten them up.
+
+The group's second current work area is a review of technical standards 
+which has been farmed out to a some consultants who will report back 
+shortly. This is an interesting area of work but its impact on real life will 
+be severely limited unless there is some political weight behind any 
+emerging consensus. The problem is that accessibility legislation in 
+general terms is being formed against a background of industrial 
+deregulation. The outcome for access rights is as inevitable as that for a 
+bicycle in the path of a juggernaut. Nonetheless, it may well be that 
+formulating standards will be the new way forward.
+ 
+Which leads, naturally, to the Web Accessibility Initiative (WAI - 
+http://www.w3.org/WAI). This has been a very successful instance of 
+promoting a principle through a set of standards. The EU has now 
+accepted WAI's Web Content Accessibility Guidelines (WCAG) at the 
+level of basic ('A') compliance. There are four major issues to watch 
+here:
+
+- First, minimum compliance at level 'A' is rapidly becoming maximum 
+compliance; the basics are being seen as a ceiling and not a floor.
+
+- Secondly, there are massive areas where the WAI guidelines need 
+improvement, particularly in the cognitive sector and with respect to 
+multimedia - we are a long way from establishing that all multimedia 
+should be 'multimodal', meaning that users can use a variety of different 
+inputs.
+
+- Thirdly, member states seem unable to resist a spot of unilateral 
+improvement. So, instead of participating in WAI to formulate WCAG 
+2.0, each state is trying to make little improvements. There is a danger of 
+fragmentation which will, in turn, lead to problems with assessment and 
+compliance tools which will be naturally designed to assess WAI 
+compliance, not nationally legislated compliance.
+
+- Fourthly, in spite of WAI already having a process to design and 
+approve assessment tools for compliance, some countries want to 
+develop their own, again leading to fragmentation. In this area, however, 
+the problems would be particularly severe because impartiality, 
+transparency and comparability are the backbone of any system of 
+compliance.
+
+The final current strand of work for the expert group concerns the 
+establishment of an EU network of 'centres of excellence' to formulate a 
+design for all curriculum. This may sound rather dull but it is potentially 
+the most important development after the WAI work because one of the 
+big problems of accessible design is that many designers don't have a 
+clue what to do other than whip out all the graphics.
+
+So a lot of good work is going on, but we are still a long way away from 
+contemplating universal standards of service in banking, broadcasting, 
+dating, shopping, health and financial information. Nevertheless, it is 
+vital that we do eventually develop such standards.
+
+[Section three ends.]
+
+
+* SECTION FOUR: READER RESPONSE
+- BRAILLE MUSIC.
+
+* SETTING THE STANDARD.
+
+Last issue’s article on music notation from the blind (E-Access Bulletin, 
+issue 27, March 2002) received a large response from readers, many of 
+whom felt the article had been unfairly hard on the Braille music system. 
+We reproduce edited versions of two of these responses below, and 
+would like to thank their authors – readers with further views are 
+welcome to email us on inbox@headstar.com
+
+Lisette Wesseling, a soprano and Braille music teacher, writes: “As a 
+fluent Braille music reader who performs and teaches professionally, I 
+take issue with the general tone of the piece. A great deal of 
+standardisation of Braille music notation was achieved worldwide 
+throughout the entire 20th century.
+
+“Music Braille has always had a great deal of standardisation, though 
+there is always more that could be done. I have borrowed and purchased 
+countless scores from overseas libraries, some produced early last 
+century, and all have been completely accessible to me. To say that 
+Braille music has had no standardisation until the 1997 manual was 
+released is inaccurate.
+
+“Blind musicians have used Braille music for professional and amateur 
+reasons for 150 years. It has served us well all this time, and certainly 
+does not need to be replaced. If anybody suggested changing the system 
+of print music notation they would be told to stop interfering where they 
+were not wanted.
+
+“The beauty of Braille music is that the performer can have independent 
+access to the score, making his or her own interpretative decisions as any 
+sighted performer would.
+
+“Using this system, we can sight sing in a sighted choir! No gadget 
+would let us do that silently, or without headphones. Any machine which 
+gives audio descriptions of a piece could not be used in an orchestral or 
+choir rehearsal, since the "reader" is not actually accessing the score, but 
+a second-hand version of it.
+
+“Braille music scores can be, and often are, laid out so that information 
+can be skimmed over, in headings, on lines of their own. Bar numbers 
+can be judicially printed on a separate line above the bar to which they 
+refer, so the fingers can easily locate them and any other such headings 
+using good tactile navigation techniques. A purely pictorial method does 
+not work, as we discovered 150 years ago. But there is a lot of spatially 
+presented information in Braille music that can help the reader read in 
+greater or lesser detail as desired.
+
+“Braille music is linear because that's how Braille works, but a fluent 
+reader can skim across a line and learn to recognise a phrase mark, word 
+sign, or a staccato mark extremely quickly. He or she can then ignore 
+that information if not required in that particular reading. Of course a 
+Braille reader can't get an overview of a whole score as a sighted person 
+can, and we all would embrace technology which would assist in this. 
+But for detailed study the Braille music system works very well indeed.
+
+“In my experience, it is also true that children take to it extremely 
+quickly. Even my seven-year-old student loves using it, and doesn't find 
+it confusing or unduly difficult.
+
+“The lack of Braille music currently used or taught is due to a lack of 
+available scores quickly enough, and a lack of teachers willing and able 
+to teach it in a fun and relevant way. Funding should be directed at 
+greater production (using Braille music translation software and manual 
+transcription as appropriate), and in the area of producing good UK 
+based teaching material.
+
+Of course signs need to be added to Braille music to cope with 21st 
+century compositional techniques (graphical scores and so on), as well as 
+world musics, and I have no objection to research being conducted in 
+technology which can give extra information about a score which Braille 
+music does not, but let it be done in a spirit of adding to what we already 
+have, not replacing it because people without proper knowledge think it's 
+best for us.”
+
+Meanwhile Bettye Krolick, Compiler of The New International Manual 
+of Braille Music Notation, writes: “John Henry, the outstanding blind 
+musician and scholar, asked me to share the following information about 
+what is going on in North America with new developments regarding 
+Braille music.
+
+“Educators are realising that with a quick knowledge of how to help 
+blind students read music, they can open the advantages of music 
+participation to all youngsters by using the software that is now 
+available. Vocal, orchestral, and band parts as well as keyboard music 
+can be prepared by musicians who do not necessarily know Braille. 
+Goodfeel from Dancing Dots and Toccata from Optek Systems are two 
+translation programs that accurately produce Braille scores containing 
+exactly what is in the print scores.
+
+“I recently returned from a conference of transcribers and educators in 
+the state of California where I showed a group of 26 sighted vision 
+teachers how easy it is to read Braille music. As soon as I reassured them 
+that there are only seven different notes in Braille music - the same seven 
+notes that appear in each octave of a piano - they relaxed, and within the 
+90 minute workshop all of them were reading beginning music with great 
+confidence. In order to read more music signs, each teacher now has a 
+small dictionary of all the signs needed up through the first 12 grades of 
+school with very few exceptions, and their blind students will have the 
+same information in Braille.
+
+“The complete Dictionary of Braille Music Signs that I wrote contains 
+information about the international work that began with the Cologne 
+Congress of 1888. It states details about the remarkable number of 
+Braille music signs (notes, note values, octave signs, rests, accidentals, 
+key and time signatures and so on) that have never changed since 1888, 
+thanks to a series of international meetings and agreements.
+
+“As far as tactile reading is concerned; it will die quickly - as soon as 
+someone gives the tester a few pages of cello music that is commonly 
+written with up to four different clef signs per page.”
+
+[Section four ends.]
+
+
+* SECTION FIVE: FOCUS
+- SPEECH TECHNOLOGY.
+
+* ANY TIME, ANY PLACE, ANY DEVICE.
+by Judith Markowitz
+
+If you ask people in speech processing where the industry is headed, 
+many of them will say they envision a time in the near future when 
+speech will be a mainstream tool for communication and information 
+access anytime, anywhere and using any device. I would add that this 
+implies communication could be in any language.
+
+Although opinions vary widely on how long it will take to achieve these 
+dramatic goals, in the past couple of years speech technology has made 
+significant progress. All major speech and voice-processing technologies 
+have made huge gains in speed, accuracy, size and flexibility.
+
+The most visible advances towards the anytime, anywhere, any device 
+goal have been made in automatic speech recognition (ASR). ASR 
+systems are now being successfully used in environments as diverse as 
+handheld devices, automobiles, public telephone networks and 
+warehouses. These implementations can range from a dozen words to a 
+million or more proper names. They can require command-and-control, 
+dictation and increasingly complex dialogue structures.
+
+Overall, the technology is far more accurate than it used to be, although 
+noise and deviations from standard speech patterns (for example when 
+someone has a cold, a speech impediment, or is shouting) still cause 
+performance degradation. Support of multiple languages is increasing 
+and a few systems incorporate language identification technology so that 
+the choice of language can be done unobtrusively.
+
+Distributed technology, which does some processing on the device and 
+some on the network, represents a significant advance towards the 
+anytime, anywhere, any device goal. Using distributed processing, a 
+person can use device-embedded ASR technology to navigate a menu on 
+a hand-held computer device or dial a telephone number by voice. That 
+person can also use the same device to access network-based ASR, such 
+as dictation tools, directory assistance and other more complex, larger-
+vocabulary systems.
+
+Text-to-speech synthesis technology (TTS) is another area that has seen 
+major developments recently. Some of the new breed of ‘concatenated’ 
+TTS systems, which create words by linking together or concatenating 
+pre-recorded spoken sounds, are almost indistinguishable from human 
+voices. These systems have made it possible to deliver news, alerts and 
+frequently changing customised information to people automatically - 
+anytime, anywhere and to any device. Today, these high-quality systems 
+are too large to embed in handheld devices, but the trend is to use 
+compression and other techniques to reduce the size of good TTS.
+
+Voice-based biometrics, whose most widespread implementation is 
+speaker authentication to allow access to be blocked by unauthorised 
+users, supports anytime, anywhere, any device access to data and 
+services. Today, access is primarily via telephones, but there is a strong 
+trend to reduce voice models to sizes suitable for embedded 
+deployments.
+
+As with ASR, noise remains an issue, particularly when a person enrolls 
+on one type of telephone but authenticates on another, for example a 
+mobile phone. Companies have begun to deploy model noise conditions 
+on different kinds of telephone channels. Another important trend is the 
+use of "background models" and other techniques that model the voices 
+of potential imposters.
+
+Access control is also being enhanced through the verification of 
+knowledge. In some instances the person is asked to supply specific 
+pieces of information, (for example favorite colour, father's middle 
+name) and both the content and the voice speaking it are authenticated. 
+Other systems perform knowledge authentication unobtrusively, as part 
+of a general dialogue that the system or an agent is having with the user.
+
+Another key area of development to track in the field of speech 
+technology is one that is often overlooked, but an essential component - 
+that of microphones. Good audio input is an unobtrusive asset to both 
+ASR and voice-based biometrics. Poor audio input can lead to higher 
+error rates and the failure of an application.
+
+Significant advances in microphone technology include far-field 
+technology and miniaturisation. Far-field technology can process speech 
+at distances of a foot or more, and makes wearing a headset optional and 
+supports spoken input to handheld devices and embedded systems, for 
+example in cars.
+
+Tools that identify and extract noise from a signal are now provided by 
+microphone manufacturers, ASR technology developers and by 
+companies for which noise cancellation is important. The results can be 
+excellent, especially when the person is using a close-talking 
+microphone. It is also improving at a rapid pace for far-field input. There 
+is, for example, a great deal of work being done in telematics on 
+modeling noise associated with different driving speeds. Unfortunately, 
+with dynamic noise cancellation, too many cooks spoil the broth. When a 
+noise-canceling microphone is used with noise-canceling ASR, the signal 
+is actually degraded.
+
+Unexpected variability in noise, for example from passing vehicles, 
+represent a persistent challenge. Variable noise and extremely high noise 
+levels are, however, also challenges for human listeners. Addressing 
+those problems is likely to require intelligence about dialogue content 
+and may need to exploit image processing such as lip reading for 
+disambiguation.
+
+NOTE: Part two of this article in our next issue will cover topics 
+including voice-driven web technologies. This article first appeared in 
+the US-based magazine ‘Speech technology’ 
+(http://www.speechtek.com/st.mag/index.shtml). Dr. Judith Markowitz 
+(http://www.jmarkowitz.com) is associate editor of the magazine and a 
+leading independent analyst of speech technology and voice biometrics.
+
+[Section five ends.]
+
+
+HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail
+eab-subs@headstar.com with 'subscribe eab' in the subject header. You 
+can list other email addresses to subscribe in the body of the message. 
+Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2002 Headstar Ltd. http://www.headstar.com
+ISSN 1476-6337
+The Bulletin may be reproduced in full as long as all parts including this 
+copyright notice are included. Sections of the report may be quoted as 
+long as they are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address http://www.e-
+accessibility.com is also cited.
+
+PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  phil@headstar.com
+News Editor - Derek Parkinson  derek@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial Advisor - Kevin Carey  humanity@atlas.co.uk 
+
+[Issue ends.]

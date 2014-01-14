@@ -1,0 +1,484 @@
++++E-ACCESS BULLETIN.
+- ISSUE 45, SEPTEMBER 2003.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details 
+at the end). We conform to the accessible Text Email Newsletter 
+(TEN) Standard. For details see:
+http://www.headstar.com/ten .
+
+
+++ISSUE 45 CONTENTS.
+
+01: Web standards mismatched?
+- accessible web site guidelines under scrutiny.
+
+02:  New software boost to accessible scores
+- Dutch spoken music scores.
+
+03: Batcane to be launched by January
+- innovative new cane uses 'echolocation'.
+
+04: Techshare conference: learning, work and life
+- New focus on 'user experience'.
+
+News in brief: 05: Web awards - nominate now; 06: Outlook handbook - programme tutorial;
+07: Once award - 180 000 euro prize.
+
+Section two: 'The Inbox' - Readers' forum.
+08: Smart cards - call for information; 09: Digital degree - online course request; 10: Teacher 
+training - open to suggestions; 11: Chinese whispers - language learning resource; 12: 
+Musical guide - product recommendation; 13: Making waves - online radio.
+
+Section three:  Analysis.
+14: Accessibility - Raising the stakes: The government has raised the standard by which 
+council web site accessibility will be judged. David Kreps assesses the challenge ahead.
+
+
+Section four:   .
++15: 
+Caroline White reports.                               
+
+
+[Contents ends].
+
+
+++SPECIAL NOTICE: ACCESSIBILITY DISCUSSION FORUM.
+
+Accessify Forum is a web-based discussion forum devoted to all topics relating to 
+accessibility. Topics cover everything from 'Beginners' and 'Site building and testing' 
+through to projects such as the new accessibility testing tool WaiZilla and the 
+accessibility of the open source forum software itself.
+
+The forums were launched by Nigel Peck on 6 August and have already attracted 
+nearly 2,000 contributions. All you need to register is a working email address, so 
+head over and join in the party at:
+http://www.accessifyforum.com .
+
+NOTE: See also feature, section four, this issue.
+
+[Special notice ends].
+
+
+++SECTION ONE: NEWS.
+
++01: COUNCILS FACE WEB STANDARDS MISMATCH.
+
+The RNIB's high-profile 'See it Right' web accessibility audit scheme, which launched in
+February 2002, does not match new government requirements for local council web sites, E-
+Access Bulletin has learned.
+
+So far four local authorities - Kensington and Chelsea, Thurrock, Welwyn Hatfield and 
+Wrexham councils - have paid to receive See it Right accreditation
+(http://fastlink.headstar.com/rnib3) although Welwyn Hatfield council covered their costs 
+through sponsorship.
+
+The See It Right scheme is based on a series of 'checkpoints' based on guidelines published
+by the global Web Accessibility Initiative (WAI - http://www.w3.org/WAI - see also issue 31, 
+July 2003 and issue 38, February 2002).
+
+For web sites to pass the audit and receive the See It Right logo, they need to fully comply 
+with WAI level 'A' guidelines, but only partially with the higher 'AA' and 'AAA' standards.
+
+The problem for councils is that the government-required standards they must meet in their 
+Implementing E-Government (IEG) statements, which declare whether electronic public 
+service targets are being met, were raised last July to a minimum of full compliance with 
+WAI level 'AA'.
+
+The discrepancy is causing confusion among councils currently waiting to join the RNIB 
+audit scheme such as Dorset County Council. Martin Bottomley, communications manager at 
+Dorset, is unsure whether his authority may incur government funding penalties by obtaining 
+an audit. "All of a sudden the goal posts have been moved," he told E-Access Bulletin. His
+team will make a final decision on 16 October. 
+
+The RNIB does offer a service where they will audit a site against any chosen accessibility 
+guidelines such as WAI AA, although the process takes longer and costs more than See it 
+Right.
+
+However, RNIB web accessibility best practice officer Lis Angle said the aspects of WAI 
+'AA' compliance that are excluded by the See it Right audit are "very difficult to achieve." 
+She said the RNIB did not have plans to re-examine their audit guidelines. "Government sites 
+are a small proportion of sites we audit. We're really happy with what we have in our 
+requirements. We think we've covered everything. We are keeping our standards as they are".
+
+NOTE: For more on local government web accessibility standards see section three, this 
+issue.
+
+
++02: NEW SOFTWARE FOR MUSICAL SCORES.
+
+Accessible Music, a software tool for blind and vision-impaired people that produces spoken 
+and Braille scores from scanned sheet music in seven languages, is to be launched at the end 
+of the year by FNB Netherlands, a Dutch state-subsidised accessible library.
+
+The software allows users to hear the contents of an entire book of musical scores, saving 
+what can amount to months of waiting time to obtain accessible sheet music. Users track 
+detail down to individual bars and notes, playing fragments or accessing detailed spoken 
+descriptions.
+
+"Everything that's on the page of a music score is represented on talking music," a 
+spokesperson from FNB Netherlands said.
+
+The tool uses the structure of the international DAISY standard for e-books 
+(http://www.daisy.org). It will be marketed to amateur and professional musicians, 
+composers, teachers, librarians, publishers, software engineers and technologists through the 
+FNB web site (http://projects.fnb.nl/am/home.html), conferences and workshops and sold 
+initially under licence before it is sold to individuals. FNB has not yet agreed on a retail price.
+
+A free demonstration CD of Accessible Music will be available from the end of 
+October - email projects@fnb.nl . And a free email newsletter on accessible music is available 
+from the FNB Talking Music project site:
+http://projects.fnb.nl/Talking%20Music
+
+
++03: BATCANE DUE BY JANUARY.
+
+The 'Batcane', a cane for vision-impaired people that uses echo-location, is due to go on sale 
+to a global market by the beginning of next year after almost two years of trials by user 
+groups in four countries.
+
+The cane is the result of a collaboration between independent technology company 
+Cambridge Consulting (http://www.cambridgeconsultants.com) and Sound ForesightLtd, 
+(http://www.soundforesight.co.uk), an assistive technologies company founded in 
+collaboration with the University of Leeds. It won 'Design application of the year' at the 
+European Electronic Industry Awards on 24 September 
+(http://www.electronicsweekly.com/awards/).
+
+The system works by bouncing ultrasound waves off objects close to the user, and detecting 
+the echoes. The information is then transferred to software which interprets it as a distance 
+between user and object and sends a vibration to four pads on the handle of the cane which 
+relate to the space above, behind and to each side of the user. The vibration begins as a pulse 
+and intensifies the closer it moves to an object.
+
+"Testers found and identified street furniture without walking into it", says Jane Fowler, 
+project manager at Sound Foresight. "It's been successful from the point of view that
+feedback has been so consistent. It has been very well received". The collapsible long-cane, 
+which runs on two AA batteries, will go on the market after trials in the UK, Canada, 
+Germany and the US.
+
+However, Peter Hings, products and publications support service manager at the RNIB said 
+the manufacturers are still consulting with the RNIB due to "some fundamental design
+faults". He said, "It picks up objects. It's good at picking up gaps and objects probably better
+than any other product of its kind on the market but so far, at a very slow walking pace".
+
+Batcanes will be on sale for 399 pounds via the Sound Foresight Ltd web site, the RNIB and other
+vision-impairment organisations. "Four-hundred pounds is still a lot of money when you think
+a standard cane costs 25 pounds 50", says Hings. The Bat-cane continues to be tested by the
+RNIB until its launch.
+
+
++04: TECHSHARE: LEARNING, WORK AND LIFE 
+
+'Thanks to technology, people with sight problems are better off than they were ten years 
+ago." Such will be the topic of a new-format large-scale debate at this year's major UK
+conference on technologies for the vision-impaired, Techshare, hosted by the RNIB 
+(http://www.techshare.org.uk).
+
+The conference, sponsored this year by Microsoft, will focus on the themes of learning, work 
+and life. 
+
+"There are always a lot of product developers present so this year we are going to balance that 
+with people speaking about user experience", a spokesperson said. The results of a survey of 
+blind and partially sighted people in the UK on their current use of, and attitudes towards 
+technology will be presented to delegates.
+
+Other presentation topics will cover the internet; e-learning; and making music and for the 
+first time, there will also be the pre-conference workshop 'Techshare for Teachers' sponsored
+by government agency for technologyion, Becta. This will include presentations from five 
+technology practitioners in the field of education for pupils under 16 with impaired vision and 
+blindness.
+
+Also new to the event the latest projects, products and services for the vision-impaired will be 
+shown in the form of informal 'coffee table' demonstrations, including a new mobile phone 
+for vision-impaired users from Spain, OWASYS. Techshare is held on 20-21 November 2003 
+at Jury's Inn, Birmingham and costs 180 pounds per person or 120 pounds for one day.
+
+
+++NEWS IN BRIEF.
+
++05: NEW WAVE: The first radio developed by the British Wireless for the Blind Fund 
+(BWBF), which includes push button tuning among other new features, is nearing 
+completion. The 'Symphony' should go into production early next year. :
+http://www.blind.org.uk/newsletter4.html .
+
++06: WEB AWARDS: The National Library for the Blind are calling for nominations for 
+their visionary design awards for accessible web sites with UK-based content from 
+individuals, organisations or web designers. Entries must be received by 10 October and 
+awards will be presented in London on 2 December:
+http://visdesign.nlbuk.org .
+
++07: OUTLOOK HANDBOOK: The accessibility author John Wilson's latest tutorial, 
+Microsoft Outlook 2000 and 2002/XP for vision-impaired users, covers emailing; 
+customisation for screenreaders, shortcut keystrokes and 'hot keys' for screen-readers. It costs 
+30 pounds for an email version and 32 pounds on disk. Wilson has also created free accessible 
+user guides for accessible home technologies such as the LG Talking Microwave oven, the 
+Zeon talking watch and an answerphone and audio transcriber machine. See the 'free stuff' 
+link at: http://web.onetel.net.uk/~fromthekeyboard .
+
++08: INTERNATIONAL PRIZE: The Spanish national blindness organisation ONCE is 
+accepting entries for its biennial international prize for research and development in 
+biomedicine and new technologies for the blind. Categories include 'technologies that aim to 
+enhance blind people's access to information and communication' and entries are welcome
+until 31 May 2004. First prize is 180,300 euros and second prize 60,100 euros:
+http://fastlink.headstar.com/once1 .
+
+[Section one ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+- Please email all contributions or responses to inbox@headstar.com .
+
++09: SMART CARDS: Geoff Doggett, project officer for the Suffolk 'DISC' concessionary
+card scheme at Mid Suffolk District Council, says: "I'm working in Suffolk on a project
+which will deliver concessionary smart cards for people on benefits and with registered 
+disabilities. I would like to understand the issues of use of smart cards by people with a vision 
+impairment, especially the physical characteristics of the card by way of the surface graphics 
+and the possibility of adding a simple Braille ID label. Also, are there issues surrounding use 
+of photographs on such cards?
+
+"Typical providers providing discounted services would include libraries, for charged-for
+services such as CD or cassette loans; leisure centres; bus passes and retailers. The card 
+would also act as a single source proof of identity when claiming housing or council tax 
+benefits - preventing the constant proof of eligibility to multiple departments and 
+organisations" [Responses please to inbox@headstar.com].
+
+
++10: DIGITAL DEGREE: Ray Cassar writes in to ask if any of our readers knows of a 
+masters degree course in clinical psychology which can be taken online. "Does anyone know
+of any university which offers such a course? The university has to be accredited by the 
+British Psychological Society or the American Psychological Association." Please send
+replies to Ray on raycassar@bigfoot.com .
+
+
++11: TEACHER TRAINING: Jamie Westall has another educational query. "I am interested
+in teaching the blind and would be grateful if you could point me in the right direction for 
+suitable courses in the UK" [Responses please to inbox@headstar.com].
+
+
++12: CHINESE WHISPERS: Long-time subscriber Fernando Botelho, Technical 
+Development Director of the eSight Careers Network (http://www.eSightCareers.Net), writes 
+in with an interesting language-related request. "I have decided to study Chinese. Are any
+readers aware of any optical character recognition software, Braille or electronic dictionary, 
+or any other materials designed to give someone who is blind access to the Chinese language? 
+Alternatively, would anyone know someone I can get in touch with who might be able to 
+help?" [Responses please to inbox@headstar.com].
+
+
++13: MUSICAL GUIDE: Mike Brace, Development Director at the vision impairment 
+umbrella organisation Vision 2020 (http://www.vision2020uk.org.uk), writes in with a 
+product recommendation.
+
+He says the MP3 music file player from cd30 (http://www.cd30.com) is an "interesting piece
+of kit. This device plugs in to your amplifier and then gives speech accessibility for any music 
+recorded onto your computer [using a 'Voice-Guide' remote control]. You can search by
+artist, album or even for specific words in track titles.
+
+"I gather that someone in Northern Ireland is looking into importing these devices to then sell
+at a reasonable cost and thus avoid the import costs. I have seen this device in operation and 
+was immediately impressed and plan to get one as soon as possible." If anyone else has used
+this device, or knows about import plans, please email inbox@headstar.com .
+
+
++14: MAKING WAVES: Chris McMillan, a long-term reader and inbox contributor, writes in 
+to add to our ongoing discussion about online radio stations and similar resources (see also 
+the inbox section of our last two issues). She suggests readers tune in to ACB Radio for the 
+Blind (http://www.acbradio.org), an international resource funded by the American Council 
+for the Blind which is run by Jonathan Mosen, a blind man from New Zealand. The station 
+features blind broadcasters from eight countries.
+
+Chris points out that Jonathan Mosen is "much more than just a radio station owner" as well -
+for details of his illustrious career as a broadcaster and assistive technology pioneer see:
+http://www.mosenexplosion.com/bio.html .
+Incidentally Chris now also has her own home page at 
+http://fastlink.headstar.com/chris1
+
+[Section two ends].
+
+
+++SECTION THREE: ANALYSIS
+- ACCESSIBILITY.
+
++15: RAISING THE STAKES.
+by David Kreps  david@fourquarters.biz .
+
+Local councils and fire authorities in England are currently embroiled in the third round of 
+'implementing electronic government' statements (IEG3) - an annual task to record and
+demonstrate the progress they have made with e-government, and their plans for future 
+improvements. 
+
+When the draft proforma for IEG3 returns was published for consultation early in the 
+summer, among its proposed targets were that minimum standards of accessibility for council 
+web sites should be set at level 'A', the lowest of three standard levels of accessibility
+specified by the Web Accessibility Initiative (WAI - http://www.w3.org/WAI) undertaken by
+the World Web Consortium. The higher levels specified in the WAI web content accessibility 
+guidelines are 'AA' and 'AAA'.
+
+However, in the final IEG3 guidelines released in July, for return by 10 November, the 
+government raised the stakes and set the minimum standard at level 'AA'. This upgrading of
+the standard will have a major impact on councils' web strategies.
+
+It is relatively easy to upgrade most sites to level 'A' standards. Minimum requirements to
+achieve this include to ensure there are alternative text 'tags' in the code behind all graphical
+material, and to write basic HTML mark-up for speech synthesisers. The latter ranges from 
+the simple - like marking-up natural language changes so phrases like "c'est la vie" and
+names like "Javier Solana" are pronounced by speech synthesisers as you would expect - to
+the more arcane, for example using special HTML tags that give basic co-ordinates for those 
+listening to a web page with which to navigate data in a table.
+
+Level 'AA' standards require much more, however. What is needed here is a fundamental
+change in working practices for web authors, towards allowing the users of their web sites to 
+determine how pages are displayed.  This is achieved by using a 'style sheet' alongside the
+HTML pages, containing the specifications for all visual formatting: and visitors with their 
+own preferences can then simply substitute their own style sheet.  
+
+This change in working practices for web authors involves three fundamental requirements: to 
+adhere to current World Wide Web Consortium (W3C) HTML code standards; to adopt the 
+principle of fluid design; and to cater for people unable to use a mouse.
+
+The first of these requirements implies perhaps the greatest change, requiring web authors to 
+unlearn much of what they are used to and adopt whole new ways of doing things. They will 
+need to retrain to apply style sheets and web accessibility techniques, and entire new web 
+maintenance and updating strategies are likely to be needed to keep the site accessible.
+
+The second requirement - for fluid design - makes the final break from print-based design,
+requiring web developers to create pages which the end user can see the way they want to see 
+them, and not solely as determined by the designer.
+
+Finally, it is important that anyone navigating without a mouse - be it with keyboard
+shortcuts or a TV remote - is not excluded from the very services from which they are most
+likely to benefit.  Many browsers for the visually impaired, for example, scan web pages for 
+hyperlinks and present them all at the top of the page. Taken out of context in this way, a link 
+which is entitled simply "click here" means nothing. There are also UK Government
+Standards for use of the HTML tag "accesskey" which enables users to press, for example,
+Alt+0 and Enter, on their keyboard, to navigate to the webpage that has the list of which 
+accesskeys apply to which page - typically Alt+1 for Home, and so on.
+
+The effect of these changes on transactional sites - those which allow council tax payments
+for example - is likely to be profound, and a strategy for compliance has to be ready in the
+short timescale of the IEG3 return.
+
+Unfortunately, recent research undertaken by web designers Gez Lemon and Jane Wilcock 
+and published by Accessify (http://fastlink.headstar.com/accessify) shows most local 
+authorities are likely to score badly on this issue. In fact at the time of this research, the 
+authors found only a single council web site that was properly accessible. E-government 
+officers take note - the clock is ticking.
+
+NOTE: David Kreps is Director of fourquarters Information Solutions 
+(http://www.fourquarters.biz ).
+
+[Section three ends].
+
+
+++ SECTION FOUR: FOCUS
+- DEBATE FORUMS.
+
++12: TOPICS OF DISCUSSION.
+by Caroline White  caroline@white-site.com .
+
+Two new online discussion forums dedicated to accessibility issues have been 
+launched in recent weeks, highlighting the rising profile of such issues and acting as a 
+test-ground for the accessibility of the debate interfaces themselves.
+
+The forums are run by WebProWorld, a site for web design professionals 
+(http://www.webproworld.com/viewforum.phpf=12); and by the accessibility 
+information resource site Accessify (http://www.accessifyforum.com).
+
+Garrett French, email newsletter editor at WebProWorld, told E-Access Bulletin: "We 
+launched our forum to go with an article by Sue Bolander, giving five simple tests to 
+show whether sites are accessible or not. We have around 400,000 regular users and 
+we wanted to provide a place they could discuss these issues, because it's so
+important to e-business."
+
+The second site, Accessify Forum, has already attracted nearly 2,000 contributions 
+since it launched two weeks ago. Administrator Nigel Peck told EAB: "We felt the 
+web needed a set of forums dedicated to discussing accessibility alone, rather than as 
+one of many design topics covered. This way we can cover all the related issues 
+without danger of them being lost and cluttered by other topics."
+
+Interestingly, both sites use the free, open source 'phpBB' discussion software 
+interface (http://www.phpbb.com) because it was robust, popular with other similar 
+sites and offers plenty of useful features. However, the interface appears to be raising 
+its own accessibility issues.
+
+With nice circularity, Accessify has set up a forum specifically to improve the 
+accessibility of the forum itself, and is working towards making it compliant with the 
+highest international standards. "Once we've brought the software up to standard I
+will be releasing the code to enable others to do the same thing," Peck said.
+
+Garrett French at WebProWorld said his site would also be looking at ways to 
+improve the interface: "I don't believe this software was designed with accessibility in
+mind." One forum user has already recommended adding subject and message body 
+label tags to the online forms used by the software to input messages, and adding tags 
+to the text formatting buttons.
+
+Both sites are based in the US and are generating lively discussion about 'section 508', 
+a 1998 amendment to the country's Rehabilitation Act requiring government web and 
+other technology projects to be accessible, even where these are outsourced to 
+suppliers.
+
+"Right now in the US only government websites have to be accessible," said French. 
+"Some of our members feel the government should step in and demand that all sites 
+become so. However most people seem to feel the changes should be voluntary."
+
+One WebProWorld forum user says: "I have used screen access technology almost 
+since it was first introduced. I think that, just as with anything, training is the key. If 
+accessibility programming is including in programming courses, then people will do 
+the right thing."
+
+Another says: "I now look at web accessibility very differently. It's not just about
+catering for blind people, it benefits everyone. Sites that follow the guidelines, even in 
+a small way, are improving their overall usability."
+
+It is not always a simple matter. At AccessifyForum, one recent contributor says: 
+"Making your site accessible can seem like an impossible mission. The problem is 
+that even validation tools like Bobby can only cover things which can be tested, like 
+images and forms having the right tags. They can't test for readability, like contrast
+between text and background colour. Getting the validation logo saying "well done"
+is only part of the process."
+
+There is a positive message as well however: "There is so much involved when you 
+look at the overall picture, but if you take it a step at a time you will soon work it 
+out."
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header. 
+You can list other email addresses to subscribe in the body of the 
+message. Please encourage all your colleagues to sign up! To 
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this 
+copyright notice are included, and as long as people are always 
+encouraged to subscribe with us individually by email. Please also 
+inform the editor when you are reproducing our content. Sections of 
+the report may be quoted as long as they are clearly sourced as 'taken 
+from e-access bulletin, a free monthly email newsletter', and our web 
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Derek Parkinson  derek@headstar.com 
+Reporter - Mel Poluck  mel@headstar.com
+Correspondent - Phil Cain  phil@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk .
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

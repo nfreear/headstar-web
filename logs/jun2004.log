@@ -1,0 +1,54 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:57 2004 __
+
+Input file: ../eab/issues/2004/jun2004.txt
+
+Warning: file already exists: ../eab/issues/2004/jun2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jun | index: 6 | year: 2004
+URLs, prev: ../2004/may2004.html | next: ../2004/jul2004.html
+Found ++, heading 2: ISSUE 54 CONTENTS.
+>> FOUND 2:  | 01:  | Europe launches major access programme
+>> FOUND 2:  | 02:  | Banks named and shamed over card problems
+>> FOUND 2:  | 03:  | Guidelines for local government chiefs
+>> FOUND 2:  | 04:  | Council trio claim 'AAA' rating
+>> FOUND 2: News in Brief:  | 05:  | Inclusion focus - Hong Kong conference; 06:
+OK, News in brief
+Found: Inclusion focus - Hong Kong conference | ; |  06:
+>> FOUND 2: Additions revealed - publisher database;  | 07:  | Arabian rights - UN-
+Found: Additions revealed - publisher database;  | 07:  | Arabian rights - UN-
+>> FOUND 2:  | 12:  | Chain reaction: 'Self-help' collaborative email lists where access
+>> FOUND 2:  | 13:  | The hard road to progress: The recent Disability Rights
+Warning line 49: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: SPECIAL NOTICE: Sight Village 2004
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | EUROPE LAUNCHES MAJOR ACCESS PROGRAMME.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | BANKS NAMED AND SHAMED OVER CARD PROBLEMS.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | GUIDELINES FOR LOCAL GOVERNMENT CHIEFS.
+Found 'contents' match: 2.
+Warning, replacing non-ASCII character 233 (line 146, 57): The guidelines were developed in collaboration with Comit&#233; Européen
+
+Warning, replacing non-ASCII character 233 (line 146, 69): The guidelines were developed in collaboration with Comit&#233; Europ&#233;en
+
+> ITEM 2:  04:  | COUNCIL TRIO CLAIM 'AAA' RATING.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF:
+> ITEM 1:  05:  | : |  The seventh international conference on
+> ITEM 1:  06:  | : |  Ulverscroft and BBC Audiobooks
+> ITEM 1:  07:  | : |  'Iinformation and communication
+Found ++, heading 2: Special Notice: Techshare 2004 Call for Papers
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  "I just wanted
+> ITEM 1:  09:  | : |  Matt King, Accessibility End User
+> ITEM 1:  10:  | : |  Javad Momayez of Indiana University
+> ITEM 1:  11:  | : |  We did not receive a response last month to
+Found ++, heading 2: SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+> ITEM 2:  12:  | CHAIN REACTION
+Warning: not found a 'contents' match: Chain Reactionby Mel Poluck.
+Found ++, heading 2: SECTION FOUR: ANALYSIS
+> ITEM 2:  13:  | THE HARD ROAD TO PROGRESS
+Warning: not found a 'contents' match: The Hard Road To Progressby Julie Hill
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

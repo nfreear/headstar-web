@@ -1,0 +1,56 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Nov 15 21:25:39 2009 __
+
+Input file: ../eab/issues/2009/oct2009.txt
+
+Warning: file already exists: ../eab/issues/2009/oct2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: oct | index: 10 | year: 2009
+URLs, prev: ../2009/sep2009.html | next: ../2009/nov2009.html
+Found ++, heading 2: Special Notice: Designing for all: an inclusive approach to web,
+Found ++, heading 2: Issue 118 Contents.
+>> FOUND 2:  | 01:  | EC Proposes Law To Address 'Fragmented' Accessibility Rules
+>> FOUND 2:  | 02:  | Access Information Absent From TV Set Maker Websites.
+>> FOUND 2:  | 03:  | ICT Data Gap 'Hindering Disabled Business Owners'
+>> FOUND 2: News in Brief:  | 04:  | Model Employers - good practice awards; 05: TV
+OK, News in brief
+Found: Model Employers - good practice awards | ; |  05: TV
+>> FOUND 2: Opinions - Regulator code consultation;  | 06:  | Good Form - Assistance
+Found: Opinions - Regulator code consultation;  | 06:  | Good Form - Assistance
+>> FOUND 2: for elderly with web services;  | 07:  | Windows Guide - software
+Found: for elderly with web services;  | 07:  | Windows Guide - software
+>> FOUND 2:  | 08:  | Book Barriers - overseas copyright problems for electronic
+>> FOUND 2: formats;  | 09:  | Accountability Concern - worry over online requirements
+Found: formats;  | 09:  | Accountability Concern - worry over online requirements
+>> FOUND 2: for small firms;  | 10:  | Format Reassurance - 'no issues' with browser
+Found: for small firms;  | 10:  | Format Reassurance - 'no issues' with browser
+>> FOUND 2:  | 11:  | Open for Business? Almost all business these days make use of
+Warning line 74: expected [Contents ends].
+$toc_count=15
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | EC Proposes Law To Address 'Fragmented' Accessibility Rules.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Access Information Absent From TV Set Maker Websites.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | ICT Data Gap 'Hindering Disabled Business Owners'.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Public and private sector organisations
+> ITEM 1:  05:  | : |  Responses to a review of its code of television
+> ITEM 1:  06:  | : |  Help for older people with completing complex
+> ITEM 1:  07:  | : |  A guide to developing accessible software is
+Found ++, heading 2: Special Notice: Future Democracy '09
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 286.
+> ITEM 1:  08:  | : |  A reader who wishes to remain anonymous writes
+> ITEM 1:  09:  | : |  Concern about how far small businesses
+> ITEM 1:  10:  | : |  In our January 2009 issue, Diana Monahan
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: Debate report
+> ITEM 2:  11:  | Open for Business?
+Warning: not found a 'contents' match: Open For Business?By Tristan Parker.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 574.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 603.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 610.

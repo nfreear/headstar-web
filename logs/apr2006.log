@@ -1,0 +1,63 @@
+__ BUILD [tens2html.pl  v1.14] log Tue May 23 09:06:51 2006 __
+
+Input file: ../eab/issues/2006/apr2006.txt
+
+Warning: file already exists: ../eab/issues/2006/apr2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: apr | index: 4 | year: 2006
+URLs, prev: ../2006/mar2006.html | next: ../2006/may2006.html
+Found ++, heading 2: Issue 76 Contents.
+>> FOUND 2:  | 01:  | MyGuide Portal Prepared For Launch
+>> FOUND 2:  | 02:  | Free IT Skills Training Launches Across The UK
+>> FOUND 2:  | 03:  | Art Gallery Wins Major Web Accessibility Award
+>> FOUND 2:  | 04:  | Inaccessibility Will Create 'Second Class Citizens,' Says MP
+>> FOUND 2: News in Brief:  | 05:  | Windows Explained - software guides; 06:
+OK, News in brief
+Found: Windows Explained - software guides | ; |  06:
+>> FOUND 2: Feedback Request - views on digital book samples;  | 07:  | Digital Europe
+Found: Feedback Request - views on digital book samples;  | 07:  | Digital Europe
+>> FOUND 2:  | 08:  | Vacancy Feedback - assistive technology job sources; 09: Radio
+>> FOUND 2: Wave - more on accessible two-way radios;  | 10:  | Price Slash - assistive
+Found: Wave - more on accessible two-way radios;  | 10:  | Price Slash - assistive
+>> FOUND 2: technology costs;  | 11:  | Web Wise - guidelines for Lithuanian request;
+Found: Web Wise - guidelines for Lithuanian request | ; | 
+>> FOUND 2:  | 12:  | Size Settings - taming Internet Explorer.
+>> FOUND 2:  | 13:  | Adventures In Endless Soundscapes: Founder of US-based BSC
+>> FOUND 2:  | 14:  | How To Buy Software And Not Break The Law: Six years ago a
+Warning line 53: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: Sponsored Notice: QAC Sight Village 2005
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | MyGuide Portal Prepared For Launch
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Free IT Skills Training Launches Across The UK
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Art Gallery Wins Major Web Accessibility Award
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Inaccessibility Will Create 'Second Class Citizens,' Says MP.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  An online guide designed to help people
+> ITEM 1:  06:  | : |  Webwords, a library service run by the Royal
+> ITEM 1:  07:  | : |  The European Commission is holding a public
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 284.
+> ITEM 1:  08:  | : |  In response to a query in the February issue
+> ITEM 1:  09:  | : |  Terry Robinson, owner of Scotland-based online
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 342.
+> ITEM 1:  10:  | : |  Roger Wilson-Hinds, director of UK-based Choice
+> ITEM 1:  11:  | : |  Dr Mark Magennis, Director of the Centre for
+> ITEM 1:  12:  | : |  Geoff Adams-Spink, Age and Disability
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+> ITEM 2:  11:  | Adventures In Endless Soundscapes
+Warning: not found a 'contents' match: Adventures In Endless Soundscapesby Justin Daubenmire
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 513.
+Found ++, heading 2: Section Two: Focus
+> ITEM 2:  08:  | How To Buy Software And Not Break The Law
+Warning: not found a 'contents' match: How To Buy Software And Not Break The Lawby Ruth Loebl.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 641.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 647.

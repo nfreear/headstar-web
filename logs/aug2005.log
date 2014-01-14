@@ -1,0 +1,57 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:01 2005 __
+
+Input file: ../eab/issues/2005/aug2005.txt
+
+Warning: file already exists: ../eab/issues/2005/aug2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: aug | index: 8 | year: 2005
+URLs, prev: ../2005/jul2005.html | next: ../2005/sep2005.html
+Found ++, heading 2: Issue 68 Contents.
+>> FOUND 2:  | 01:  | Talking Cash Machines Go Live in New Zealand
+>> FOUND 2:  | 02:  | Orange Admission Over Switching Off Wildfire
+>> FOUND 2:  | 03:  | 'Huge Talent Pool Squandered' If Technology Inaccessible
+>> FOUND 2:  | 04:  | Onetel Most Accessible of Telecoms Web Sites
+>> FOUND 2:  | 05:  | Audible Monopoly - accessible board game; 06: Working Practice
+>> FOUND 2: - inclusive office design;  | 07:  | Tactile Nomination - European awards.
+OK, News in brief
+Found: Tactile Nomination - European awards | . | 
+>> FOUND 2:  | 08:  | Blog Suggestion - content system; 09: Talking Bank - web
+>> FOUND 2: recommendation;  | 10:  | Show Schedule - BBC7 radio listings; 11: Game
+Found: Show Schedule - BBC7 radio listings | ; |  11: Game
+>> FOUND 2: Check - chess query;  | 12:  | Life Story - seeking inspirational tales.
+Found: Life Story - seeking inspirational tales | . | 
+>> FOUND 2:  | 13:  | The Portable Audio Revolution: portable MP3 players such as
+>> FOUND 2:  | 14:  | A New Cash Fund Seeks New Ideas: digital technologies can open
+Warning line 51: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Special Notice: e-Access'05
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Talking Cash Machines Go Live in New Zealand.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Orange Admission Over Switching Off Wildfire.
+Found 'contents' match: 1.
+> ITEM 2:  03:  |  'Huge Talent Pool Squandered' If Technology Inaccessible.
+Warning: not found a 'contents' match:  'Huge Talent Pool Squandered' If Technology Inaccessible.
+> ITEM 2:  04:  | Onetel Most Accessible of Telecoms Web Sites
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A new audible version of the famous board
+> ITEM 1:  06:  | : |  Guidance on inclusive design in offices has
+> ITEM 1:  07:  | : |  GRAB, A European research project to
+Found ++, heading 2: Special Notice: Techshare 2005
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  08:  | : |  Tom Worthington IT strategy consultant and
+> ITEM 1:  09:  | : |  Graham Wilkins from Gillingham in Kent, UK
+> ITEM 1:  10:  | : |  Jim Taylor writes in to offer a source for BBC7
+> ITEM 1:  11:  | : |  I am a keen blind chess
+> ITEM 1:  12:  | : |  If readers
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Technology Focus
+> ITEM 2:  13:  | The Portable Audio Revolution
+Warning: not found a 'contents' match: The Portable Audio Revolutionby Mel Poluck.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Four - Focus
+> ITEM 2:  14:  | A New Cash Fund Seeks New Ideas
+Warning: not found a 'contents' match: A New Cash Fund Seeks New Ideasby Will Pearson.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.

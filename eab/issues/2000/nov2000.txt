@@ -1,0 +1,722 @@
+E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site:
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute 
+for the Blind
+<http://www.rnib.org.uk>
+the National Library for the Blind
+<http://www.nlbuk.org>
+and the Guide Dogs for the Blind 
+Association
+<http://www.guidedogs.org.uk>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts]
+
+ISSUE 11, NOVEMBER 2000.
+
+IN THIS ISSUE:
+Section One: News.
+- Design forum champions usability and 
+aesthetics; 20,000 dollar penalty for 
+Olympics web site; Canadian institute 
+expands digital library; Future bright for web 
+accessibility; Disability Commission 
+publishes workforce figures.
+
+Section Two: Web accessibility
+- Public sector.
+
+Section Three: Education case study
+- Washington University.
+
+Section Four: Technology
+- Speech enablement.
+
+[Contents ends.]
+
+
+SECTION ONE - NEWS.
+
+DESIGN FORUM CHAMPIONS 
+USABILITY AND AESTHETICS.
+
+Design issues facing young disabled people 
+are the subject of a public forum to be hosted 
+next month by the Helen Hamlyn Research 
+Centre at the Royal College of Art.
+
+Design Challenge 2000, in partnership with 
+the Design Business Association (DBA), 
+recognises that design can play a crucial role 
+in improving the quality of life for disabled 
+people.
+
+According to the forum's organisers, four 
+million disabled people in the UK use 
+equipment or assistive technology to 
+improve the quality of their lives. However, 
+although many of these products meet the 
+specific clinical needs of disabled users, they 
+fail to address their aesthetic or lifestyle 
+aspirations.
+
+"They are engineered rather than designed 
+and stigmatise rather than integrate, even 
+where they are intended for use as a 
+consumer product."
+
+The forum's launch follows the publication 
+of reports by the Department of Trade and 
+Industry, the Audit Commission and leading 
+disability organisation RADAR on the poor 
+design of products and services for disabled 
+people.
+
+Some of the UK's leading design 
+consultancies have been working with user 
+groups ahead of the event to develop design 
+initiatives focused on the aspirations of 
+younger disabled users, identified as the one 
+group most overlooked in all product and 
+service categories.
+
+Design consultancy Priestman Goode 
+(http://www.priestmangoode.com) is 
+developing a 'Sensory Web' interface to aid 
+internet browsing and interaction by disabled 
+users. And Design House 
+(http://www.designhouse.co.uk) is creating 
+an accessible interface for a broadband 
+internet access using ADSL digital line 
+technology.
+
+The Design Challenge site is at:
+http://www.hhrc.rca.ac.uk/events/DBAChall
+enge/
+
+
+20,000 DOLLAR PENALTY FOR 
+OLYMPICS WEB SITE.
+
+A blow has been struck for web site 
+accessibility worldwide with an Australian 
+ruling this month that the organisers of this 
+year's Sydney Olympics and Paralympics 
+must pay 20,000 Australian Dollars' 
+compensation to a blind internet user.
+
+Bruce Maguire successfully took action 
+against the Olympics committee (SOCOG) 
+in Australia's Human Rights and Equal 
+Opportunity Commission when SOCOG 
+refused to make its websites accessible to 
+blind and partially-sighted people (see E-
+Access Bulletin, September and October 
+issues). On 6 November, the commission 
+ordered SOCOG to pay the compensation by 
+way of damages for the "pain and suffering" 
+they had caused him.
+
+Mr Maguire told E-Access Bulletin this 
+week: "This is one of the highest disability 
+discrimination damages awards ever made 
+under Australian disability legislation, and 
+the commissioner's decision makes 
+compelling reading in its condemnation of 
+the conduct of SOCOG."
+
+The commission's rulings are not legally 
+binding unless taken to the Federal Court, 
+although Maguire had said he was prepared 
+to take the court action if necessary. There 
+were fears, however, that the committee – 
+set up as a temporary body to oversee the 
+Olympics with no ongoing role - might be 
+dissolved before the matter could be 
+concluded.
+
+Australian politician Lee Rhiannon, a Green 
+Party member of the New South Wales 
+Legislative Council who had taken up 
+Maguire's case on her website 
+(www.nsw.greens.org.au/parl/lee), 
+discovered recently that there was legislation 
+being drafted to wind up SOCOG's 
+operations.
+
+"Naturally this was of concern, because it 
+meant there might not be anyone to take to 
+the Federal Court, and the perpetrators of the 
+original discrimination would not be held 
+accountable", Maguire said.
+
+After making the discovery, Ms Rhiannon 
+began a lobbying campaign to obtain 
+assurances from the New South Wales 
+Premier and Minister for Sport and the 
+Olympics that SOCOG would comply with 
+the damages order. Last week SOCOG 
+finally confirmed it would comply.
+
+
+CANADIAN INSTITUTE EXPANDS 
+DIGITAL LIBRARY
+
+The Canadian National Institute for the 
+Blind has launched a range of innovative 
+new digital library services for its users, 
+including web and telephone access to daily 
+newspapers and a customisable interface to 
+accessible web and reference resources.
+
+The 'VISUNET Canada' service includes 
+'VisuTEXT', a gateway to accessible digital 
+information including electronic books and 
+electronic Braille files. Clients can also link 
+to web sites selected by CNIB librarians for 
+their accessibility and quality; access 
+VisuCAT, the Library's online catalogue; 
+and browse Encylopedia Britannica online 
+and other reference resources.
+
+VisuTEXT also allows CNIB clients to 
+customise their online experience so that 
+they can easily organise and access Internet 
+resources. For example, if clients need 
+information on eye conditions, they could 
+search the system for relevant magazine and 
+journal articles; locate websites relating to 
+eye disorders; or search for books and place 
+requests for them online.
+
+Another new service, VisuNEWS, allows 
+people to use a telephone to listen to any 
+stories from the entire content of 13 daily 
+newspapers in English and French, or access 
+the papers through the library's web site. The 
+VISUNET site is at:
+http://www.cnib.ca/library/visunet/
+
+
+FUTURE BRIGHT FOR WEB 
+ACCESSIBILITY?
+
+Visually-impaired and disabled people will 
+be empowered by the next generation of 
+internet software to gain full access to the 
+web, according to a new book by Michael G 
+Paciello, founder of the web accessibility 
+group WebABLE!
+
+The book explains how to make sites 
+accessible as well as looking at how 
+advances in technology could boost 
+accessibility. It explains current accessibility 
+initiatives; how to evaluate site accessibility; 
+and web design and programming for users 
+with disabilities including coding 
+techniques.
+
+'Web accessibility for people with 
+disabilities' is published by R&D books, 
+ISBN: 1929629087. More information, 
+including how to order, is at:
+http://www.webable.com/book_desc.htm
+
+
+DISABILITY COMMISSION PUBLISHES 
+WORKFORCE FIGURES
+
+Disabled people are only about half as likely 
+as non-disabled people to be in employment, 
+according to the latest quarterly labour force 
+survey from the Disability Rights 
+Commission, an independent body set up to 
+advise the UK government on civil rights for 
+disabled people.
+
+There are currently more than 3.1 million 
+disabled people in employment - 12% of all 
+people in work.  However, there are more 
+than 6.6 million disabled people of working 
+age in Great Britain, accounting for nearly a 
+fifth of the working age population.
+
+Disabled people are twice as likely as non-
+disabled people to have no qualifications, the 
+figures show. They were published via the 
+commission's web site:
+http://www.drc-gb.org/drc/default.asp
+
+
+[Section One ends]
+
+SECTION TWO: WEB ACCESSIBILITY
+- PUBLIC SECTOR
+
+PATCHY RECORD FOR IRISH 
+GOVERNMENT
+
+The Irish government has taken a firm stance 
+on the accessibility of web sites produced by 
+its departments and agencies. It has stated 
+that it wants all sites to be fully accessible by 
+the end of 2001, and the country's National 
+Disability Authority has been invited to 
+monitor standards.
+
+However many key sites including that of 
+the Department of the Taoiseach (the Irish 
+Prime Minister) have a fair amount of 
+progress to make. A new accessibility primer 
+for public sector officials with responsibility 
+for websites, published by web usability 
+experts Frontend, confirms that most 
+government sites in Ireland are still 
+inaccessible.
+
+Using the 'Bobby' international accessibility 
+test (http://www.cast.org.bobby), Frontend 
+tested three sample sites: Donegal County 
+Council (http://www.donegal.ie/dcc); The 
+Department of the Taoiseach 
+(http://www.irlgov.ie/taoiseach/) and The 
+Revenue Commissioners (http://revenue.ie). 
+The first two were found to be wholly 
+inaccessible. The text-only version of the 
+Revenue Commissioners passed the Bobby 
+test, although the graphic homepage, which 
+is the main point of entry for the text-only 
+pages, failed.
+
+The most common problems identified with 
+the sites were images missing 'alt' text tags, 
+poor use of frames, and poor navigational 
+structure, for example with links appearing 
+out of context.
+
+The paper sets out how current legislation 
+applies to the web, what accessibility means 
+and how to apply the right site building 
+techniques. 
+
+"Accessibility is a usability issue", it says. 
+"Make a commitment to investing in 
+usability and accessibility. Your investment 
+will produce a measurable return by 
+delivering a better service to your customers 
+and reducing development times and costs in 
+the long run, while reaching a larger 
+audience. The sooner you introduce good 
+usability and accessibility practise, the 
+greater the saving on repairs or "retro-
+fitting" a web site to make it accessible.
+
+"Database-driven web sites in particular can 
+grow at a tremendous rate, as it is easy to 
+add content on a regular basis. If this is not 
+accessible, the problems and costs of repair 
+are compounded. Investing in usability and 
+accessibility will reduce the likelihood of 
+suffering potentially expensive legal actions.
+
+"The best practise is to pursue an inclusive 
+development process. Involve users who are 
+representative of your target audience from 
+the onset of your project. Include people 
+with disabilities as well as those without."
+
+Local councils in Ireland are involved in an 
+accessibility project of their own. The Irish 
+branch of the European Institute for Design 
+and Disability (http://www.design-for-
+all.org/) is carrying out a major campaign 
+entitled 'Citizen 2000' to obtain the 
+agreement of all local authorities in Ireland, 
+North and South, to adopt the Barcelona 
+Declaration. This commits them to ensuring 
+the access of disabled persons to all 
+information they generate.
+
+So far Drogheda, Dublin, Limerick, Wexford 
+and Sligo councils have adopted the 
+declaration and are in the process of 
+completing the formalities of registration. It 
+is envisaged the project will take two years 
+to complete.
+
+Although there is as yet no direct legislation 
+in Ireland concerning web accessibility, 
+planned legislation dealing with 
+discrimination against people with 
+disabilities could be used as a basis for legal 
+action against web site providers.
+
+The Taoiseach, Bertie Ahern, has stated his 
+commitment to the work: "The preparation 
+of a Disabilities Bill will proceed as quickly 
+as possible. I would envisage that the Bill 
+will cover areas such as access to public 
+bodies, the use of telecommunications 
+services and participation in the judicial 
+system. The providers of basic state services 
+will, from today on, have the concerns of 
+people with disabilities as part of their core 
+work."
+
+An Inter-Departmental Web Publication 
+Group chaired by the Department of the 
+Taoiseach was set up in 1999 to prepare 
+guidelines and standards for public sector 
+web sites. Its first report can be found at:
+http://www.irlgov.ie/taoiseach/publication/w
+ebpg/guidelines.htm
+
+And the Frontend paper, 'Accessibility and 
+usability for e-government - a primer for 
+public sector officials', is at:
+http://www.frontend.com/accessibility_paper
+.html
+
+[Section two ends]
+
+
+SECTION THREE: EDUCATION CASE 
+STUDY
+- WASHINGTON UNIVERSITY.
+
+ONLINE MENTORING HELPS 
+DISABLED STUDENTS DO IT ALL.
+
+Internet-based mentoring, Internet training at 
+youth camps and disability awareness 
+training for primary school children are 
+among the expanding range of innovative 
+projects being pioneered by Washington 
+University under its 'DO-IT' initiative.
+
+DO-IT – which stands for 'Disabilities, 
+Opportunities, Internetworking and 
+Technology' – has a Scholars Programme 
+which assists 20 disabled maths, science and 
+technology high school students from every 
+year.
+
+Students accepted onto the scheme must 
+show an interest in pursuing a college course 
+or career in one of a range of specified fields 
+in which people with disabilities are 
+traditionally underrepresented, including 
+maths, science, technology-related fields and 
+business studies.
+
+Other programmes under DO-IT include 
+DO-IT Pals, an online community for 
+teenagers with disabilities considering 
+applying for college or starting a career; and 
+DO-IT Campers, in which children and 
+young people with disabilities are taught at 
+summer camps how to use computers, 
+prepare for college and employment and 
+network with other students with disabilities. 
+
+All these three programmes are backed up 
+by a system of mentoring which takes place 
+online, mainly using email lists. Adult 
+academics or former students with 
+disabilities are matched with current students 
+or prospective students with similar 
+disabilities, and offer them ongoing advice 
+and support.
+
+There is a central email list for all DO-IT 
+participants, and separate lists for the DO-IT 
+scholars and mentors, plus five groups of 
+participants with similar disabilities. 
+
+Imke Durre, a blind former student at 
+Washington University, is a DO-IT mentor. 
+"I monitor, contribute to, and initiate 
+discussions on the DO-IT email lists", she 
+says. "As a blind DO-IT Mentor, I am part 
+of the general list, the mentors list, and the 
+list for participants with visual impairments.
+
+ "Besides participating in list discussions, I 
+also exchange emails with individual 
+scholars. I have been in particular close 
+contact with an eleventh-grader who is blind 
+and joined the program this year. We just 
+write about our lives, and sometimes she 
+asks me questions. These are usually work 
+and study related, but often people want to 
+talk about personal experiences with their 
+disability.
+
+"As a blind individual who has completed a 
+PhD in a scientific field (atmospheric 
+science), I can share my experiences with 
+students who are interested in pursuing a 
+career in science or in going to college in 
+general. I can provide advice based on my 
+own experience and on what I have heard 
+and read about others."
+
+DO-IT grew out of a proposal to the 
+National Science Foundation by Sheryl 
+Burgstahler, IT director at Washington 
+University. Its core programme is DO-IT 
+Scholars, which has so far had about 25 
+blind members.
+
+DO-IT scholars receive adaptive equipment 
+on loan, attend summer camps at the 
+University of Washington for two 
+consecutive years, and are in touch with each 
+other and with DO-IT mentors all year-round 
+through the scheme's various email lists.
+
+A separate DO-IT project, 'Show and Tell', 
+is aimed at younger schoolchildren. It sends 
+successful college students with disabilities 
+to visit pupils in elementary schools to help 
+them develop positive perceptions of people 
+with disabilities and experience how people 
+with disabilities use computers and perform 
+day-to-day tasks.
+
+Presenters share information about their 
+disability, set up problem-solving activities 
+in which the children participate, answer 
+questions, and demonstrate technology.
+
+Imke Durre has been involved in this project 
+too, visiting first-grade classes once a week 
+to talk to children about what it's like to be 
+blind. She demonstrates refreshable Braille 
+display and speech output from computers - 
+the children love to hear the computer talk. 
+She also demonstrates how she uses a cane 
+for mobility and brings along a child-size 
+cane for the children to try. She shows them 
+the alphabet in Braille and produces each 
+child's name in Braille for them to keep.
+
+Recently Durre won a University of 
+Washington 'Hall of Fame' Award for 
+students who have been involved in 
+community service and student organisations 
+for at least two years, for her involvement in 
+the DO-IT program.
+
+For more information see:
+http://www.washington.edu/doit/
+
+[Section three ends]
+
+
+SECTION FOUR: TECHNOLOGY
+- SPEECH-ENABLEMENT.
+
+HIGHLANDS COMMUNITY PIONEERS 
+VOICE ACCESS.
+
+A major community web site in the Scottish 
+Highlands is taking a novel approach to 
+speech-enabling its services, using a lesser-
+known piece of free software from none 
+other than Microsoft.
+
+The Caithness Community Web Site 
+(http://www.caithness.org), set up and built 
+by volunteers in the most Northerly 
+mainland county in Scotland, has grown in 
+under two years from a two-page site to a 
+300-page resource with more than 600 
+visitors a day. It is now the main source of 
+information for news and events in the 
+region.
+
+The original concept behind the site was to 
+offer free web space to every local group and 
+business in the county. "It all started with 
+Caithness Voluntary Group, where we were 
+putting together information about all the 
+voluntary organisations in the county", says 
+site founder Bill Fernie. "I thought we could 
+go one better and prepare a computer 
+database, then I thought we may as well put 
+all that information on a web site too.
+
+More recently, a desire to make the site more 
+accessible to visually impaired and disabled 
+people has led to innovative trials of audio 
+capability for the site, combining voice 
+recognition with speech navigation.
+
+"While we realise that in many ways our site 
+is not good for people with sight problems 
+we hope to solve these problems by making 
+it talk. We are at the start of a trial to see if 
+we can make the site have audio and speech 
+capabilities. That is the possibility to give 
+audio commands and get the web site to 
+reply and carry out the orders given by the 
+user."
+
+The group is using a free but little-known 
+piece of software called Microsoft Agent, a 
+voice recognition tool created to work 
+towards more intuitive ways for people to 
+interact with their computers.
+
+The software is described by Microsoft as "a 
+set of services that supports the presentation 
+of software agents as interactive 
+personalities within the Windows interface. 
+Microsoft Agent's conversational interface 
+approach is an extension and enhancement 
+of the existing interactive modalities of the 
+Windows interface".
+
+What this rather confusing waffle often 
+seems to mean in practice is a slightly 
+irritating little green cartoon parrot that tries 
+to help computer users. However the 
+Caithness web team, led by Bill Fernie's son 
+Niall, has adapted the system for genuine 
+voice interaction with the web.
+
+"A couple of years ago while trawling 
+newsgroups for web design tips I came 
+across a discussion about the Bobby web 
+accessibility project", Niall says.
+
+"I am a JavaScript programmer and this was 
+a big no-no with Bobby. It seemed to me that 
+instead of trying to advance the technology 
+of the web, this project was going to take it 
+back to the Dark Ages. I could not get my 
+head round the reasons for giving visually 
+impaired people such a raw deal.
+
+"So I introduced the newsgroup to MS 
+Agent. Many were amazed with the 
+possibilities and with the addition of a small 
+plug-in called the 'Agent Powertoy' from 
+Costas Andriotis 
+(http://members.theglobe.com/costas5/windo
+ws_05.htm) they could see how much better 
+Agent was than the other text-reading 
+software. The only limitation I saw was the 
+interface between user and PC but as far as 
+reading web pages is concerned I feel it is 
+second to none.
+
+"This prompted me to start work using the 
+speech recognition engine also supplied free 
+from Microsoft as it was already integrated 
+with MS Agent. This I felt could bridge the 
+gap for people who could not see the screen 
+to select passages or pages to be read.
+
+"With the business pages on the Community 
+Site a perfect candidate for another project of 
+mine - the removal of all the HTML - I knew 
+that this would render them unreadable by 
+most text readers but a perfect testing ground 
+for MS Agent. Voice navigation and the 
+ability to request information from any page 
+is my long term goal. As all of the text most 
+users see on the screen is created by 
+JavaScript I would like to have all of the text 
+users can read from the screen be read by 
+Agent."
+
+So far, the Caithness site's business section 
+is the only area to implement the technology. 
+As E-Access Bulletin went to press, the 
+section was being transferred to a new 
+server, but should be back online within a 
+few days and the team is welcoming 
+feedback from blind users from next week.
+
+"So far it's going well, and we each have 
+readout functions on our PCs", says Bill. 
+"This can read any website, not just our own. 
+The opening business page will have a 
+limited audio function and response to audio 
+commands, after the Agent software has 
+been installed on the user's computer. All of 
+the instructions are on the site but we are 
+encouraging people to get in touch if they 
+have problems.
+
+"We hope to be in a position eventually to 
+add full readout functions and possibly even 
+the ability to go into other web sites from 
+Caithness.org and have them read out as 
+well.
+
+"We think Microsoft Agent has good 
+possibilities and are surprised that the 
+software - which we understand is aimed at 
+speech engines for typing - has not been 
+used in this way before. We would be 
+interested to hear from anyone involved in 
+similar projects".
+
+Bulletin readers with knowledge of similar 
+work can contact Bill Fernie on 
+bill@caithness.org
+
+And the Microsoft Agent home page is at:
+http://msdn.microsoft.com/msagent/default.a
+sp
+
+
+[Section four ends]
+
+HOW TO RECEIVE THIS BULLETIN
+
+To subscribe to this free monthly bulletin, e-
+mail eab-subs@headstar.com with 'subscribe 
+eab' in the subject header. You can list other 
+email addresses to subscribe in the body of 
+the message. Please encourage all your 
+colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe 
+eab' in the subject header.
+
+Please send comments on coverage or leads 
+to Dan Jellinek at: dan@headstar.com
+
+Copyright 2000 Headstar Ltd. 
+http://www.headstar.com The Bulletin may 
+be reproduced in full as long as all parts 
+including this copyright notice are included. 
+Sections of the report may be quoted as long 
+as they are clearly sourced as 'taken from e-
+access bulletin, a free monthly email 
+newsletter', and our web site address 
+http://www.e-accessibility.com is also cited.
+
+[Issue ends]
+National Helpline: 0800 269545  e-
+mail:enquiries@abilitynet.co.uk 
+http://www.abilitynet.co.uk  
+PO Box94  Warwick  CV34 5WS Tel:  
+01926 312847  Fax: 01926 407425

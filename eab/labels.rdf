@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xml:lang="en"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:label="http://www.w3.org/2004/12/q/contentlabel#"
+  xmlns:icra="http://www.icra.org/rdfs/vocabularyv03#"
+
+  xmlns:iq="http://www.iqua.net/imgfiles/1/vocabularyv01#"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:quatro="http://purl.org/quatro/elements/1.0/"
+  xmlns:vCard="http://www.w3.org/2001/vcard-rdf/3.0#"
+  xmlns:eGMS="http://purl.oclc.org/NET/e-GMS_v2">
+<!-- 
+  2007 Headstar/EAB PICS/RDF labels - ICRA generated, unauthenticated. 
+  (PICS Platform for Internet Content Selection.)
+  Last Modified: 20090226 (+ Quatro FOAF vCard IQUA DC e-GMS).
+-->
+  <rdf:Description rdf:about="">
+    <dc:creator rdf:resource="http://www.icra.org" />
+    <dcterms:issued>2007-1-18</dcterms:issued>
+    <label:authorityFor>http://www.icra.org/rdfs/vocabularyv03#</label:authorityFor>
+    <label:authorityFor>http://purl.org/quatro/elements/1.0/</label:authorityFor>
+  </rdf:Description>
+
+  <label:Ruleset>
+    <label:hasHostRestrictions>
+      <label:Hosts>
+        <label:hostRestriction>headstar.com</label:hostRestriction>
+      </label:Hosts>
+    </label:hasHostRestrictions>
+    <label:hasDefaultLabel rdf:resource="#label_1" />
+  </label:Ruleset>
+
+  <label:ContentLabel rdf:ID="label_1">
+    <rdfs:comment>Label for /eab section of website</rdfs:comment>
+    <iq:id>--</iq:id>
+
+    <dc:title xml:lang="en">E-Access Bulletin</dc:title>
+    <dc:description xml:lang="en"></dc:description>
+    <dc:subject xml:lang="en">EAB, TENS, e-access, bulletin, e-accessibility, accessibility,
+    blind, visually impaired, RNIB, access technology, Headstar, Freear</dc:subject>
+    <dc:date>2010-07-03<!--2009-02-26--></dc:date>
+    <dc:format>text/html</dc:format>
+    <dc:language>en-GB</dc:language>
+    <dc:creator>N.D.Freear<!--, 2004-2009--></dc:creator>
+    <dc:creator>http://freear.org.uk</dc:creator>
+    <!--dc:creator>Mousetrap Media</dc:creator-->
+    <dc:publisher>Headstar Limited - http://headstar.com</dc:publisher>
+
+    <dc:coverage></dc:coverage>
+    <dc:identifier scheme="ISSN"> 1476-6337 </dc:identifier>
+    <eGMS:Accessibility  scheme="eGMS.WCAG10"> WCAG Double-A </eGMS:Accessibility>
+
+    <foaf:name xml:lang="en">Headstar Limited</foaf:name>    
+    <foaf:mbox>info@headstar.com</foaf:mbox>
+    <foaf:homepage rdf:resource="http://headstar.com/eab" />
+
+    <dcterms:issued>--</dcterms:issued>
+    <quatro:validUntil>--</quatro:validUntil>
+    <vCard:ADR rdf:parseType="Resource">
+        <vCard:Orgunit> E-Access Bulletin </vCard:Orgunit>
+        <vCard:Orgname> Headstar Limited </vCard:Orgname>
+        <vCard:Street> 68 Middle Street </vCard:Street>
+        <vCard:Locality> Brighton </vCard:Locality>
+        <vCard:Pcode> BN1 1 AL </vCard:Pcode>
+        <vCard:Region> East Sussex </vCard:Region>
+        <vCard:Country> United Kingdom </vCard:Country>
+    </vCard:ADR>
+    <vCard:TEL rdf:parseType="Resource">
+        <rdf:value> +44 (0)1273 267173 </rdf:value>
+        <rdf:type rdf:resource="http://www.w3.org/2001/vcard-rdf/3.0#voice"/>
+        <rdf:type rdf:resource="http://www.w3.org/2001/vcard-rdf/3.0#work"/>
+    </vCard:TEL>
+    <vCard:TEL rdf:parseType="Resource">
+        <rdf:value> +44 (0)1273 232179 </rdf:value>
+        <rdf:type rdf:resource="http://www.w3.org/2001/vcard-rdf/3.0#fax"/>
+        <rdf:type rdf:resource="http://www.w3.org/2001/vcard-rdf/3.0#work"/>
+    </vCard:TEL>
+    <vCard:UID rdf:parseType="Resource">
+        <rdf:value> 1476-6337 </rdf:value>
+        <rdf:type rdf:resource="http://www.bl.uk/bibliographic/issn.html"/>
+    </vCard:UID>
+    
+    <label:hasClassification rdf:resource="http://www.iqua.net/rdfs/vocabularyv01#Categoria5"/>
+    <quatro:gf>EN</quatro:gf>
+
+    <quatro:gk rdf:resource="quatro:WAI-AA"/>
+
+    <icra:nz>1</icra:nz>
+    <icra:sz>1</icra:sz>
+    <icra:vz>1</icra:vz>
+    <icra:lz>1</icra:lz>
+    <icra:oz>1</icra:oz>
+    <icra:cz>1</icra:cz>
+    <rdfs:label xml:lang="en">
+      Web Accessibility Initiative level AA - Consideration for accessibility criteria and compliance therewith insofar as it is possible (only for public administration);
+      No nudity; No sexual material; No violence; No potentially offensive language; No potentially harmful activities; No user-generated content;
+    </rdfs:label>
+  </label:ContentLabel>
+
+</rdf:RDF>

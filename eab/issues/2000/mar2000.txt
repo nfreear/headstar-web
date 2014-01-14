@@ -1,0 +1,594 @@
+***************************************
+*
+E-ACCESS BULLETIN
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+
+www.e-accessibility.com
+
+Sponsored by the Royal National Institute for the 
+Blind
+www.rnib.org.uk
+the National Library for the Blind
+www.nlbuk.org
+and the Guide Dogs for the Blind Association
+www.gdba.org.uk
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing eab-subs@headstar.com
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+**************************************
+
+ISSUE 3, MARCH 2000
+
+IN THIS ISSUE:
+Section One:
+News: Funding fears over access to libraries; 
+Email that talks; Technology for independence; 
+'JobsGoPublic' goes accessible; Downing Street's 
+missed opportunity.
+
+Section Two:
+New technology - audio description
+
+Section Three:
+Education - virtual learning environments
+
+Section Four:
+Viewpoint - accessibility and cost
+
+************************************
+SECTION ONE: NEWS
+************************************
+
+FUNDING FEARS OVER ACCESS TO 
+LIBRARIES
+
+Funding for vital access projects for the use of 
+public libraries by blind and visually impaired 
+people could be jeopardised by the imminent 
+absorption of the UK's Library and Information 
+Commission into a sprawling new Museums, 
+Libraries and Archives Commission, to include 
+everything from libraries to art galleries.
+
+The current LIC has a strong track record on 
+promoting access to libraries by blind and 
+visually impaired people, and has commissioned 
+more than a dozen major reports on the subject 
+including the modernisation of the catalogue 
+system to include alternative formats; the 
+development of an efficient inter-library loan 
+scheme; the enrolment of any visually impaired 
+library user through only one of the many 
+specialist providers; and a more rational method 
+for title selection.
+
+The reports have been commissioned from a 
+£200,000 grant from the Department of Culture, 
+Media and Sport which is subject to renewal 
+under the Treasury's comprehensive spending 
+review - already a subject of some nervousness in 
+the visual impairment sector. But the emergence 
+next week of the new monster Museums, 
+Libraries and Archives Commission has led to 
+greater concerns that even if the money is 
+renewed, it could be expected to cover not only 
+library access but also access to museums and art 
+galleries, and perhaps even be further stretched to 
+cover access by other major groups of disabled 
+people such as those who have hearing 
+difficulties, physical access problems or learning 
+difficulties.
+
+To date the grant has been administered jointly 
+by the LIC and Share The Vision (STV), the 
+umbrella organisation for public libraries and 
+alternative format producers such as the RNIB 
+and the NLB. The funding has been widely 
+welcomed as government recognition that 
+universal access has to be backed up by careful 
+studies of access problems.
+
+One of the programme's most interesting recent 
+findings is that Microsoft NT is the best 
+operating system for public libraries to ensure 
+their systems are optimally accessible for blind 
+and visually impaired people and people with 
+other disabilities.
+
+This finding comes in a report prepared by 
+Tornado Labs for the LIC. Tornado tested a 
+number of software packages and concluded that 
+NT met its primary requirement that visually 
+impaired users should be able to customise a 
+mainstream operating system, add personal 
+characteristics for screen readers and 
+magnification packages and then use these 
+identifiers on other systems.
+
+The problem for the research team was to find a 
+package which would allow the user to store 
+characteristics, identify these in a registry, copy 
+them onto a carrier such as a floppy disk, reload 
+them into another system and the reproduce them 
+without complications. The NT system allows the 
+construction of 'roaming profiles' which can be 
+used from any workstation on the system but it 
+also allows this until now elusive property of re-
+installing on another system.
+
+The drawback of this solution - as the report 
+admits - is that NT is not likely to be used in the 
+domestic environment, so many users of public 
+terminals who go through a lengthy 
+customisation procedure will not be able to copy 
+the relevant file and use it at home. Most 
+domestic users have Windows 9X on their 
+systems, and convergence between the two 
+Microsoft products is still some way off.
+
+However, the importance of the LIC finding is 
+that the accessibility characteristics identified as 
+vital will be incorporated into any specification 
+issued to tenderers for the supply of equipment to 
+public libraries. It is hoped that the specification 
+will be parachuted into other government 
+departments where public interaction is key, such 
+as the health service.
+
+
+EMAIL THAT TALKS
+
+A real-time voice discussion service which 
+operates using ordinary email and computer 
+microphones has been launched by US firm 
+HearMe. The company claims that 
+VoiceCONTACT is the first technology of its 
+kind, and says it will remain free, although it 
+plans to charge for upgrades with additional 
+functionality.
+
+VoiceCONTACT users must visit the HearMe 
+website at 
+http://www.hearme.com/products/voicecontact/d
+ownload/
+The user is then prompted with instructions on 
+how to send a live voice e-mail discussion using 
+ordinary PC microphones. HearMe sends the 
+invitation and the recipient then clicks on an 
+embedded link in the e-mail to join the 
+conversation.
+
+"With VoiceCONTACT, all you need to know is 
+someone's email address in order to invite them 
+to a voice conversation. That's what's so 
+powerful. You don't need to know if they have 
+particular software, a user name, just their email 
+address," company spokesman Danielle Borel 
+said.
+
+Although the service is not specifically designed 
+for people with sight loss, HearMe says it could 
+prove of great use to blind people.
+
+However there may currently be access problems 
+for blind users in using the web site and typing e-
+mail addresses into the online form. It seems 
+likely that a more accessible version will have to 
+be designed before blind users can take full 
+advantage. E-Access Bulletin would be interested 
+to hear from readers about their experiences in 
+trying to use HearMe, or if they know of any 
+other similar services.
+
+
+TECHNOLOGY FOR INDEPENDENCE
+
+The RNIB is to hold a special action group 
+meeting on 5 April on 'ICT for independence - 
+developing a strategy for learning, working and 
+living'.
+
+The meeting will plan the institute's strategy over 
+the next few years for developing and lobbying 
+for access to all kinds of information and 
+communications technologies by blind and 
+visually impaired people. Topics under 
+discussion will include access to digital TV; the 
+establishment of a partnership with a mainstream 
+PC distributor to ensure lower costs of access 
+technology; ways to alleviate technology access 
+difficulties for deafblind people; and the need to 
+ensure a key presence on any industry group 
+involve in setting standards for new technologies 
+such as Wireless Access Protocol.
+
+A full report of the meeting will be carried in our 
+next issue.
+
+
+'JOBSGOPUBLIC' GOES ACCESSIBLE
+
+The UK's major online gateway to jobs in the 
+public sector - 'JobsGoPublic' - is creating an 
+accessible version of its entire web site, so blind 
+and visually impaired people will be able to 
+access jobs information and accessible versions 
+of application forms.
+
+JobsGoPublic carries recruitment details for a 
+wide range of public sector bodies including 
+government departments, local councils and NHS 
+bodies. The accessible version of the site will 
+conform to the BOBBY web access standard.
+
+At the time of writing the site is not yet 
+functional, but it is promised online in the next 
+week or two at:
+http://bobby.jobsgopublic.com/
+And the main (non-accessible) site is at:
+www.jobsgopublic.co.uk/
+
+
+DOWNING STREET'S MISSED 
+OPPORTUNITY
+
+Access to technology by blind, visually impaired 
+and disabled people was conspicuous by its 
+absence from a report unveiled by Prime Minister 
+Tony Blair last month into a strategy for realising 
+universal access to the internet.
+
+The report, commissioned from consultant Booz-
+Allen & Hamilton, warned of the potential for a 
+digital divide to open up in the UK over the next 
+three years, seriously disadvantaging people and 
+communities who were not connected to the 
+internet and equipped with the skills to use it 
+properly.
+
+However, greater accessibility for blind and 
+visually impaired people - surely a crucial factor 
+in any programme to universalise internet access 
+- was not specifically mentioned as a policy 
+priority. Among the recommendations that were 
+included was the classification of 
+telecommunication companies as central utilities; 
+offering tax incentives to companies that provide 
+access to underserved populations; encouraging 
+National Lottery grants for relevant projects; 
+issuing 'internet credits' for free access to public 
+terminals; providing the unemployed with free 
+access; and providing incentives for more people 
+to access government services online.
+
+The report is online at:
+www.number-
+10.gov.uk/default.asp?PageID=1203
+
+
+************************************
+SECTION TWO: NEW TECHNOLOGY - 
+AUDIO DESCRIPTION
+************************************
+
+DIE HARD - BUT FIRST, LISTEN HARD
+
+You are watching the film 'Die Hard', and Bruce 
+Willis is talking on the phone to a policeman. 
+Injured and trapped in a hijacked tower block 
+after a gunfight, Willis sounds tired and nervous. 
+A blind or visually impaired member of the 
+audience can pick this up, but what they would 
+not realise is that, as Willis is talking, he is 
+pulling a piece of glass from the sole of his foot.
+
+Recent research shows that many people with 
+sight loss find films or television programmes 
+extremely difficult to follow. Reasons for this 
+include the fact that there are no verbal 
+descriptions of subtitles; there is often confusion 
+between characters; scenes change too fast; and 
+films and dramas often conclude without any 
+dialogue.
+
+There is a solution, however: audio description, 
+the verbal description of scenes that occur 
+between periods of dialogue, which can be 
+carried as a separate sound-track on digital 
+television or in specially adapted cinemas.
+
+The RNIB has launched a campaign, Talking 
+Images', to raise £2.3 million to help film makers 
+and producers set up audio description, find 
+relevant technical information and get in touch 
+with skilled 'describers'.
+
+Audio describing should only cost about £6,000 
+per film and the campaign aims to raise 
+awareness in the film industry about its benefits 
+for those with sight loss. Once a film is 
+completed, scenes are described and recorded on 
+audio track which is then mixed and transmitted 
+alongside the film using equipment such as the 
+Cinetracker in cinemas. From there the signal is 
+broadcast to members of the audience wearing 
+headsets.
+However, although £6,000 is a tiny fraction of 
+the production costs of a film, the RNIB has dug 
+in for a long campaign and expects few changes 
+in the short term.
+
+For television, audio description will only be 
+available in the summer through providers of 
+digital terrestrial TV although the RNIB is also 
+lobbying cable and satellite providers to provide 
+a service.
+
+Viewers will need a special module for set top 
+boxes or integrated digital televisions which can 
+decode the audio description track. Guidelines 
+from the ITC state that 2% of programmes 
+should be audio-described this year and the 
+targets rise by 2% every 2 years after 2000.
+
+The RNIB has welcomed last month's increase in 
+the TV licence fee concession for blind people to 
+50%, but has warned it should not be used as an 
+excuse for broadcasters to ignore access issues 
+like audio description. "The 50% concession is a 
+recognition that although 94% of blind people 
+watch TV, they do not get the full benefit of what 
+TV has to offer," said RNIB's Broadcasting 
+Officer Denise Evans.
+
+Evans warned that description technology may 
+be costly and that the government should 
+subsidise the additional module that is necessary 
+for set-top boxes. "Without this, blind people's 
+access to television could remain a matter of 
+wealth".
+
+Programmes identified by those with sight loss as 
+particularly difficult to follow without 
+description include films, dramas, soaps and 
+wildlife documentaries. However, the RNIB is 
+campaigning for programme makers to transmit 
+more audio-described programmes and want to 
+see a wide variety available.
+
+There are currently 60 videos available in 
+described format include Four Weddings and a 
+Funeral, Junglebook, Braveheart, Hear My Song, 
+Lady and the Tramp, Little Mermaid, the Horse 
+Whisperer, and yes . . . Die Hard. For more 
+information on described videos use the RNIB 
+helpline: 0345 669999.
+
+
+***********************************
+SECTION THREE - EDUCATION:
+VIRTUAL LEARNING ENVIRONMENTS
+***********************************
+
+STAFFORDSHIRE UNIVERSITY PIONEERS 
+RESEARCH INTO ACCESS PROBLEMS
+
+Staffordshire University is investigating access 
+by the blind and visually impaired to 'virtual 
+learning environments' (VLEs) including 
+internet-based education.
+
+Staffordshire has pioneered the use of VLEs for 
+its staff and students: in the 1998-99 academic 
+year 3,500 students used the systems, and the 
+figure is expected to jump to 6,000 this year.
+
+Virtual learning means resources can be accessed 
+by students online in an organised manner. 
+Students and tutors can search published material 
+on a server and gather relevant items in a 'basket'. 
+All users can communicate with each other using 
+email and notice boards, and the use of content is 
+tracked giving feedback to tutors. VLEs can also 
+be used to improve central administration, assign 
+work and track submitted work.
+
+Mark Stiles, manager of the university's Learning 
+Development Centre, told E-Access Bulletin that 
+while Staffordshire has a good track record on 
+access to information technology, feedback from 
+some visually impaired students showed they 
+were experiencing difficulties with the virtual 
+learning environment.
+
+The study will look at difficulties faced by those 
+in four categories of disability including the 
+visually impaired. Stiles expects the study to be 
+completed in the next few weeks, when the 
+results will be published.
+
+The Staffordshire project is one of more than a 
+dozen across the UK supported by DISinHE, 
+otherwise known by its snappy full title of the 
+Central Clearing House for Information 
+Technology for Accessibility and Disability in 
+Higher Education. Several others of these 
+projects are focused specifically on solving 
+problems experienced by the blind and visually 
+impaired.
+
+Funded by the Joint Information Systems 
+Committee of the UK Higher Education Funding 
+Councils, DISinHE's overarching objective is "to 
+make sure all information is available in some 
+form or another to all people."
+
+Established in 1998 as part of the Department of 
+Applied Computing at the University of Dundee, 
+DISinHE is focused on tackling five accessibility 
+problems: excessive graphic portrayal of 
+information; the requirement to use a mouse; 
+poor structuring of content; excessive use of 
+cutting edge technology which is not fully 
+supported; and poor choice in output options.
+
+The organisation says the victims of these 
+problems are most often disabled users who are 
+visually impaired, dyslexic, have motor disability 
+or are cognitively impaired. However, it says 
+poor design affects everyone.
+
+Another study backed by DISinHE is one 
+examining voice recognition software, at 
+University College Worcester. This aims to 
+develop effective training and usage guidelines 
+for good practice in voice recognition which can 
+be used throughout the university and elsewhere. 
+Meanwhile City University is looking at the web 
+for people with visual impairment. Study 
+objectives include a review of software and other 
+systems that assist those with sight loss to access 
+the web.
+
+For more information on DISinHE and the 
+supporting studies see:
+www.disinhe.ac.uk
+
+
+*************************
+SECTION FOUR:
+VIEWPOINT - ACCESSIBILITY AND COST
+**************************
+
+MACHINES THAT TALK MAKE 
+PERFECT COMMERCIAL SENSE
+
+Manufacturers of technological devices 
+often feel they cannot easily make them 
+more accessible to blind people because 
+they are - quite rightly - concerned about 
+the cost of building better displays, 
+speech conversion or speech recognition 
+into their products. They may use the 
+argument in their defence that visually 
+impaired are merely one interest group 
+among many.
+
+But the point they are missing is that one 
+day - if indeed it is not happening already 
+- the majority of sighted people will also 
+have access difficulties because they will 
+become overloaded with visual cues.
+
+Visually impaired people have a uniquely 
+insightful experience of technology, 
+ironically because of the very difficulties 
+they face in accessing it. They are 
+therefore well-placed to advise 
+manufacturers on how easy it is to use 
+various devices, and how designs might 
+be altered for the benefit of everyone.
+
+How many people really bother to read 
+information that they are being charged 
+for their ATM transactions when the 
+charge information is displayed as they 
+take their card? How many sighted 
+people know what the icons on the 
+computer do without the text labels? If 
+manufacturers concentrate exclusively on 
+visual information, these problems arise. 
+Currently everything from mobile web 
+browsing to in-car navigation systems are 
+on displays which are either far too 
+cramped, or inappropriately large in a 
+situation where a car driver should be 
+looking at the road.
+
+To take another example, it is well known 
+that many people have trouble setting 
+their video recorders, and there is still 
+only a visual indication when you enter 
+an invalid 'Video Plus' number. Why not 
+use an audible signal, which would both 
+help alert a sighted user and be vital for a 
+visually impaired user?
+
+Accessible design should be commercially 
+viable, since disabled people are among the 
+highest users of technology. The popular 'Parrot' 
+talking organiser was not designed for blind 
+people, but once it became popular in this 
+market, its manufacturer realised it would be 
+worthwhile to modify it and build in new features 
+specifically targeted at blind users.
+
+There could be much wider use of speech 
+synthesis technology in consumer goods for the 
+benefit of everyone, for example in car radios 
+and traffic navigation systems where the driver 
+could be concentrating on the road. If this 
+technology were applied in volume, 
+implementation costs should fall significantly.
+
+Much of the technology behind text-to-speech 
+chips already exists, and price need not remain a 
+barrier to implementation for long. Speech chips 
+are getting more and more powerful while 
+remaining relatively stable in price. The increase 
+in power should provide faster, more responsive 
+and better quality speech.
+
+If we can demonstrate the benefits of this 
+approach for general use it could be 
+instrumental in bringing the cost of 
+accessibility down to a point where it is 
+no longer a cause for its exclusion.
+
+* Article by Tristram Llewellyn of The 
+Visually Impaired Radio and Electronics 
+Society (VIRES). VIRES promotes the 
+enjoyment of amateur radio and 
+electronics for visually impaired people. 
+See:
+http://freespace.virgin.net/vires.uk/
+
+***************************************
+***
+* * * ISSUE ENDS * * *
+***************************************
+***
+
+HOW TO RECEIVE THIS BULLETIN
+To subscribe to this free monthly bulletin,
+e-mail eab-subs@headstar.com with 'subscribe 
+eab' in the subject header.
+You can list other email addresses to subscribe in 
+the body of the 
+message. Please encourage all your colleagues to 
+sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' 
+in the subject header.
+
+Please send comments on coverage or leads to
+Dan Jellinek at: dan@headstar.com
+
+********************************
+Published by Headstar Ltd www.headstar.com
+Copyright 2000 Headstar Ltd
+The Bulletin may be reproduced in full as long as 
+all parts including this copyright notice are 
+included. Sections of the report may be quoted as 
+long as they are clearly sourced as 'taken from e-
+access bulletin, a free monthly email newsletter', 
+and our web site address (www.e-
+accessibility.com) is also cited.
+*******************************

@@ -1,0 +1,623 @@
++++E-ACCESS BULLETIN
+- ISSUE 83, NOVEMBER 2006.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+Sponsored by:
+RNIB
+( http://www.rnib.org.uk )
+BT Age and Disability Unit
+( http://www.btplc.com/age_disability/ )
+Ford Motor Company
+( http://www.ford.co.uk )
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 83 Contents.
+
+++Section One: News.
+
+01: Boost For Fans Of Bestselling Fiction
+- groundbreaking book launch, more funds for accessible formats.
+
+02: Experts To Provide Remote Help For Computer Users
+-  low cost interactive service ready for launch.
+
+03: Public Sector Needs Improved Guidance On Web Accessibility
+- experts agree strategy at accessibility summit.
+
+04: BBC Blog On Second Generation Web Accessibility Goes Live
+- online news and discussion journal for Web 2.0.
+
+News in Brief: 05: Universal Vision - accessible DVDs; 06: Access
+Course - e-learning consortium set up; 07: Word Up - online Boggle
+release.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Rich Pickings - WAI guidance clarified; 09: Open Invitation -
+open source screen reader response; 10: Testing Times - computing
+accreditation hurdles; 11: Description Experience - audio described
+TV in the US.
+
+Section Three: Focus - Travel.
+12: Crossing Boundaries: Amar Latif tells Mel Poluck how he uses
+navigational technologies to increase the independence of travellers
+during trips abroad with his extraordinary holiday company.
+
+Section Four: Focus - Banking.
+13: The Future Of Accessible Banking: At the recent annual
+conference e-Access'06, experts discussed the future of accessible
+banking, and how existing technologies could be further exploited to
+meet the needs of disabled users; particularly the use of mobile phones
+and biometrics to undertake transactions. Derek Parkinson was there.
+
+[Contents ends].
+
+
+++Sponsored Notice: BT Age and Disability Action Team
+- BT recognised for serving the needs of people with disabilities.
+
+The BT Age and Disability Action team's approach to accessibility has
+been recognised by the Southampton Centre for Independent Living in
+their annual Disabled People's Business in the Community Award.
+
+The team beat off stiff competition to scoop the award in the Disability
+Equality Achievement for Services and Utilities category, recognising
+BT's long standing commitment to serving the needs of people with
+disabilities including the recent introduction of product information in
+British Sign Language.
+
+Accepting the award for BT, David Barrett said "It's great to be
+recognised in this way and this award will certainly inspire the team to
+continue striving for more widespread inclusion of people with
+disabilities".
+
+[Sponsored Notice ends]
+
+
+Section One: News.
+
++01: Boost For Fans Of Bestselling Fiction.
+
+The best-selling writer and Children's Laureate Jacqueline Wilson has
+become the first UK author to release accessible versions of a new
+book at the same time as its standard print version.
+
+Large print, audio, Braille and DAISY digital talking book editions of
+'Starring Tracy Beaker' appeared last month alongside the mainstream
+version. Earlier this year, Wilson became the first author to ask her
+publisher to add accessibility as a clause to her publishing contract, and
+has committed to ensuring all her future books are accessible to her
+vision impaired fans (see E-Access Bulletin, issue 75, March 2006).
+
+Meanwhile the National Library for the Blind (NLB) has announced it
+has received a donation of 10,290 pounds from the organisers of the
+Man Booker Prize to create Braille, large print and DAISY formats of
+the novel that won this year's prize and the five other shortlisted books.
+
+This is the third year that Man Booker Prize short listed novels have
+been produced in Braille and large print but the first time they have
+been produced in DAISY format.
+
+This year, publishers were required to supply text files of the
+shortlisted books and all of them have done so. This speeds up the
+production process.
+
+Currently only 4.4 per cent of books are translated into formats that
+visually impaired people can use, and conversion often takes months or
+even years, according to the NLB.
+
+The RNIB and NLB are among 20 organisations which in 2002 formed
+a 'Right to Read Alliance', calling for people with sight impairment to
+be able to access the same books at the same time and the same price
+as everyone else.
+
+
++02: Experts To Provide Remote Help For Computer Users.
+
+A low cost service to remotely evaluate the computing needs of
+disabled people is to be launched this week by AbilityNet, the UK
+computing charity for people with a disability.
+
+Aimed at users in the home, workplace, college, school or
+rehabilitation unit, the 'Barrier-free assessment service' will enable
+users to be assessed by a trained consultant wherever they are located
+to establish which adjustments or assistive technologies are needed.
+
+Once users have completed an online assessment form to gather
+background information about them, assessors make the necessary
+changes to the user's computer, using 'GoToAssist' remote desktop
+support from technology company Citrix. This allows assessors to
+download screen reader and magnifier demonstration software onto
+clients' computers from their own.
+
+AbilityNet assessors plan to talk to users over the 'voice over IP'
+(VoIP) telephony service Skype and a webcam will be loaned to users
+so assessors can spot any physical access problems in their work
+station set-up. AbilityNet has a small stock of equipment to lend to
+clients so they can "try before they buy" any assistive devices or
+software.
+
+"It's about what can you do to improve the accessibility of your work
+station without spending much money," David Banes, AbilityNet's
+Director of Operations told E-Access Bulletin. "The biggest barrier we
+face is cost."
+
+The scheme aims to eliminate the need for users to travel to an
+AbilityNet centre, saving time and money, although the initiative does
+not replace AbilityNet's existing in-centre assessments. According to
+Banes, these can be "expensive to the point of insupportable,"
+particularly where consultants need to visit people in remote areas such
+as the UK's small islands in Scotland, he told E-Access Bulletin.
+
+The programme, which follows a year-long pilot in Scotland funded
+initially by the Big Lottery Fund, will be launched at an event at the
+Houses of Parliament in Westminster on 22 November.
+
+
++03: Public Sector Needs Improved Guidance On Web Accessibility.
+
+A group of leaders in the field of accessibility, including representation
+from the government's, Central Office of Information (COI -
+http://www.coi.gov.uk/ )
+are to call on the public sector to rethink policy and guidelines on
+accessibility of the web to people with a disability.
+
+Some 19 experts from higher education, the private and non-profit
+sectors and central government, who met this month at the
+Accessibility Summit II in York, are to call for change in the way web
+accessibility is advocated particularly in local and central government,
+education and the museum and cultural sectors.
+
+"What we're trying to do is address what we collectively felt are
+weaknesses in the way web accessibility is currently, promoted
+portrayed, supported and implemented in the public sector," said David
+Sloan, Research Assistant at the School of Computing at the University
+of Dundee and co-founder of the summit.
+
+Sloan said the meeting unanimously agreed that the globally
+recognised World Wide Web Consortium's Web Content Accessibility
+Guidelines (WCAG -
+http://www.w3.org/TR/WAI-WEBCONTENT/ )
+were inadequate. "This situation [affects] formulation, implementation
+and monitoring of policy and law relating to accessible online
+information and services, but it also leaves web authors uncertain about
+what they can and can't do," Sloan said.
+
+"At the moment the government is following highly specific [WCAG]
+points: some work, some don't," said Summit delegate Kevin Carey,
+Vice-Chair of the Royal National Society of the Blind and director of
+digital inclusion charity HumanITy.
+
+Initially, a manifesto will be published by the end of this year outlining
+both the shared vision of Summit delegates and how best to implement
+improvements. The group is soon to reconvene to further discuss how
+each person can convey these messages to the communities they have
+most influence over.
+
+NOTE: This story was first published in E-Access Bulletin's sister
+publication, E-Government Bulletin, issue 226, 13 November 2006.
+
+
++04: BBC Blog On Second Generation Web Accessibility Goes Live.
+
+A blog dedicated to the accessibility of the latest web-based tools and
+applications, 'web 2.0 technologies,' has been launched by the BBC
+online disability magazine 'Ouch!'
+
+The blog, 'Access 2.0'
+( http://www.bbc.co.uk/blogs/access20/ ),
+focuses on the accessibility of so-called 'Web 2.0' applications, the
+second generation of internet-based services. These could include
+"mash-ups" - applications that integrate content in various formats
+from one or more sources on the web; social networking sites; or wikis
+- websites that allow visitors to add, remove and edit content.
+
+"We are all asked to be more than spectators on the web now, we're
+becoming participants. But if these websites are excluding sections of
+society then that's a real problem," said blog author Paul Crichton.
+
+The blog site invites the public to comment on issues relating to Web
+2.0 accessibility and focuses on the ways disabled people currently use
+the internet. "If we can push readers in the direction of good,
+accessible websites that help them to participate, that's got to be a good
+thing. Similarly, anything that can highlight accessibility issues to web
+2.0 developers has got to be good," he said.
+
+"Whether Web 2.0 is a revolution or just evolution, there's no doubt
+that the landscape of the web is changing," he told E-Access Bulletin.
+"It is still a place to gather information, or buy CDs [but] it's also
+becoming a place where so much more is going on, from social
+networking sites like MySpace, to Video-on-Demand. That's web 2.0 -
+simple in theory but if such things were made inaccessible it could be
+quite debilitating," he said.
+
+The Access 2.0 blog will also focus on the latest web accessibility-
+related developments at the BBC. "I'm independent from the BBC so
+I'm in a position where I can be critical of what they do as well. In
+fact, they're encouraging me to do so," said Crichton, who is also a
+director of web consultancy Net-Progress
+( http://www.net-progress.co.uk/ ),
+and creator of accessible search engine Net Guide
+( http://www.net-guide.co.uk ).
+
+
+++News in Brief:
+
++05: Universal Vision: DVDs containing accessible navigation and
+audio description will go on the mainstream market in the UK on 20
+November for the first time in the UK. Three disks containing 13
+episodes of Series Two of the popular TV fantasy drama Doctor Who
+will include audible navigation of scenes, director's commentary and
+out-takes, as well as audio description of the action:
+http://fastlink.headstar.com/dvd1 .
+
++06: Access Course: Improvement of the accessibility of e-learning
+programmes and services will be the focus of the Consortium for
+eLearn Accessibility, established this month by the European Network
+Visually Impaired Training Education Research. The group is open to
+all companies and organisations active in e-learning:
+http://fastlink.headstar.com/elearn2 .
+
++07: Word Up: A free, accessible word game based on the popular
+game Boggle has been released by Spoonbill Software. Players must
+make as many words as they can from letters on 16 adjacent "cubes"
+arranged in a grid:
+http://fastlink.headstar.com/boggle1 .
+To order the game contact Ian Humphreys, with your full name and
+country of residence, at:
+irhumph@omninet.net.au .
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
++08: Rich Pickings: Rich Caloggero, adaptive technology consultant at
+the Massachusetts Institute of Technology's Adaptive Technology for
+Information and Computing laboratory
+( http://web.mit.edu/atic/ )
+writes in to comment on a news in brief story from the last issue of the
+bulletin, 'Multimedia Initiative.'
+
+We wrote: "The first draft of guidance for website developers to create
+accessible multimedia content has been released by the World Wide
+Web Consortium (W3C) Web Accessibility Initiative (WAI): the
+Accessible Rich Internet Application suite."
+
+Rich writes: "This is not about multimedia, although it could be. What
+they have rolled out is a suite of documents meant to be digested and
+acted upon by developers and others in the business of creating 'Web
+2.0' sites. These are sites which [use] modern web browser technology
+to produce sites which look and feel like desktop graphical user
+interface (GUI) applications.
+
+These sites are comprised of normal HTML elements such as headings,
+lists and paragraphs; things which current screen reader technology
+can handle quite well. However, they also contain custom-made
+"widgets." Think of these as custom-built form controls. They can act
+just like things screen readers handle quite well, like check boxes,
+buttons, or list boxes but because they are custom-built from more
+basic HTML fragments, the screen reader does not see them for what
+they are; it sees the elements from which they are built. This prevents
+screen reader users from interacting with these sites.
+[Further responses please to: inbox@headstar.com ].
+
+
++09: Open Invitation: Jon Gibbins, who runs UK web design company
+November Fifth Web Solutions and is a member of the Guild of
+Accessible Web Designers (GAWDS), writes in response to DPM
+Weerakkody's request for information about Linux open
+source screen readers in the Bulletin's September issue: "The Linux
+Screen Reader project, which was part of [technology company] IBM,
+is now an open source project, and very active:
+http://live.gnome.org/LSR .
+People may be interested in the following list of resources on the open
+source Assistive Technology Software (OATS) website:
+http://fastlink.headstar.com/oatsoft
+- specifically, the section 'screen readers, TTS, speech synth" listed
+under "specific AT projects.'
+[Further responses to: inbox@headstar.com]
+
++10: Testing Times: Claire Cheskin writes in about her experiences
+with the computing proficiency accreditation course, the European
+Computer Driving Licence (ECDL). "I am registered blind and I have
+passed several modules, but have had trouble with others. I have been
+using LookOUT and Thunder screen readers, and also [screen
+magnifier] Supernova. I need a magnification of 20x, which is about
+half a word on the screen, or one toolbar button, which makes
+navigation difficult.
+"The problems are mostly concerning the appearance of toolbar
+buttons and changing colours. I cannot detect subtle variations in
+colours and am sometimes asked to change the colour to 'teal.' Excel
+uses click and drag with a mouse, and Powerpoint is a real problem. I
+downloaded a Powerpoint reader but it [requires] a lot of clicking and
+dragging to resize.
+
+My employers want me to take the ECDL again but they have never
+made any real provision - apart from [supplying] large print - or
+understood my problems. I want to pass these modules. I have already
+passed the internet and word processing modules. I think the syllabus
+for people like me should include keyboard shortcuts, not mouse work
+or [a focus on] appearance. I am getting JAWS soon for work.
+[Comments to: inbox@headstar.com].
+
+
++11: Description Experience: Steve Cutway, an Information Access
+Specialist in the IT Services department of Queen's University in
+Ontario, Canada writes on accessible DVDs: "There are a number of
+companies doing described video in North America and the quality of
+their work varies. The best description is done by the Media Access
+Group at WGBH TV in Boston.
+
+"Quality has a lot to do with financial support and the WGBH
+Educational Foundation has money we can only dream about.
+Canadian National Institute for the Blind (CNIB) Library for the Blind
+patrons can enjoy movies from both sources on request free of charge.
+
+"It may interest you to know how one Canadian satellite company, Bell
+ExpressVu, does [audio description]. I don't know how described TV
+shows are distributed or produced in the UK but in North America, the
+Separate Audio Program (SAP) Channel is used. Needless to say, the
+method of turning on the SAP Channel varies widely among TV and
+VCR brands with the result that availability of described programming
+is problematic. This means producers and networks claim there is no
+support for it, which is far from accurate.
+
+"Bell ExpressVu eliminates the need to worry about turning on the
+SAP Channel by distributing the described content on a separate
+channel. So, instead of watching "PBS's Masterpiece Theatre" on the
+main PBS channel, I watch it on Channel 074 and am able to enjoy the
+audio description. The service is part of Bell ExpressVu's basic
+package and when I demonstrate it to subscribers, they're amazed.
+[Comments to inbox@headstar.com].
+
+
+[Inbox ends]
+
+
+++Section Three: Focus
+- Travel.
+
++12: Crossing Boundaries
+by Mel Poluck.
+
+"I strongly believe that blind people do not just have to follow in the
+wake of the sighted, but that they can indeed be trailblazers," Amar
+Latif told E-Access Bulletin.
+
+After finding the experience of travelling to many destinations with
+various organisations restricting and stifling as a blind holidaymaker,
+Amar Latif decided to set up his own company to provide customised
+trips for blind and sighted travellers.
+
+While there is a 'buddying' system in place, meaning vision impaired
+travellers have a sighted guide that changes each day, independence is
+a key element of the trip. The website says: 'Travellers with
+Traveleyes
+( http://www.traveleyes.co.uk ),
+are no longer patronized, nor are they placed in the ignominious
+position of having to plead for 'special case' consideration . . .  the
+visually impaired traveller is no longer required to 'tag along' as either
+a welcome or tolerated appendage to the peer-group holiday.'
+
+Traveleyes destinations have so far included trips through Berber
+villages in the Atlas Mountains of Morocco and exploring medieval
+towns in the Tuscan countryside, learning how to cook regional dishes.
+
+"Accessible travel guides, GPS technology and electronic tactile maps
+can now open up new horizons which are waiting to be explored by the
+visually impaired traveller," Latif said.
+
+Technology plays a major role in increasing independence during trips,
+according to Latif: his company provides personal digital assistants
+(PDA) with speech technology, an electronic talking tactile map, a
+Braille compass and the Trekker from Humanware, a navigational
+device with global positioning system (GPS) that provides accessible
+street maps from all over the world.
+
+Last year Latif orchestrated the production of the first accessible
+electronic versions of the popular travel guide series Lonely Planet and
+plans to make them available for all the company's destinations, "so
+that people can develop a good level of knowledge before they travel,"
+he said. There are now 15 on the market, including guides to Greece
+and Andalucia in Spain.
+
+He says the travel guides have so far been "immensely" popular.
+"Travel guides have not existed before in a format that is so accessible
+to blind people. They help not only to inform, but also to inspire the
+traveller and can be read at home or whilst on the move on personal
+digital assistants (PDAs). Blind and visually impaired people can
+browse through them faster than sighted people are able to do as they
+flick through a print copy in the conventional way," he told E-Access
+Bulletin.
+
+And the guides have proven to be more than just a way of locating the
+wildest bars and how best to reach the tourist information office. "The
+travel guides have really helped to maintain a strong and constructive
+partnership between the blind and the sighted on a Traveleyes holiday.
+The blind are able to supply the knowledge whilst the sighted can
+supply the eyes," he said.
+
+In the near future, Latif plans to provide further information on
+assistive navigational technologies for vision impaired people on the
+Traveleyes website, set to be re-launched this month, and is soon to
+announce forthcoming holiday destinations for 2007, to include Cuba
+and Gran Canaria in the Spanish Canary Islands.
+
+"The blind not only can 'lead the blind,' we can also lead the sighted
+too and, for that matter, anyone else interested in creating a better,
+fairer and more universally accessible world."
+
+[Section three ends].
+
+
+++Section Four: Conference Report
+- e-Access '06
+
++13: The Future Of Accessible Banking
+by Derek Parkinson.
+
+Access to banking services is a necessity for us all, but new
+developments in technology could erect more barriers for vision-
+impaired citizens than they overcome, delegates heard at e-Access '06,
+( http://www.headstar-events.com/eaccess06/ ),
+the conference hosted by Headstar, the publisher of E-Access Bulletin.
+
+In an afternoon breakout session, RNIB chief scientist Dr John Gill,
+and Will McMeechan, a business developer at Nationwide Building
+Society, discussed how new technologies will change the way we
+access banking information and make financial transactions such as
+moving money between accounts, for example.
+
+Before the rise of online services and mobile phones, there were
+already accessibility problems with user interfaces such as cashpoint
+machines, said Gill. Many have different keypad layouts, or vary in the
+options presented to users. Such differences may be negligible to a
+sighted user, but can be a major barrier to vision-impaired users, he
+said.
+
+A concern for vision-impaired people is that in the rush to implement
+new systems such as "Chip and pin", there is a risk we will miss an
+opportunity to standardise user interfaces and simply duplicate the
+problems of the past, said Gill.
+
+Recent developments in wireless products mean that payments,
+especially for small amounts, will not require users to input a number
+using a keypad, he said. Smartcards are already used to make small
+transactions in parts of the UK, and mobile phones with this
+functionality are almost certain to follow. Adding to the momentum are
+developments such as Near Field Communication (NFC), a wireless
+technology that provides high bandwidth over very short distances.
+
+Such services could make life easier for vision-impaired people
+because they could enable numerous transactions and information
+requests to be made from a single device. In practice, this could be the
+mobile phone of a vision-impaired user, removing the difficulties
+created by unfamiliar keypads, said Gill.
+
+"I expect around 50 per cent of all mobile phones will be enabled in
+this way by the end of the decade," he said.
+
+Keypads are only one way among many for users to identify
+themselves, and biometric methods such as matching fingerprints, the
+iris of the eye, or facial characteristics are likely to pass into
+mainstream use. None of these are without problems as forms of
+identification, or as technologies accessible to vision-impaired people,
+said Gill.
+
+The user interface is only one of the barriers to accessible banking, said
+Will McMeechan, a business developer at Nationwide Building
+Society with an interest in accessibility issues. Efforts to make
+electronic banking services accessible have been patchy and
+uncoordinated because although meeting the needs of customers is a
+major priority for the banking industry, there is little consensus about
+how to tackle accessibility issues in a practical way. "Part of the
+problem is that current anti-discrimination law is seen as ambiguous,"
+he said.
+
+Banks are almost certainly unaware of the true impact on customers of
+accessibility problems, he said. "It's difficult to find figures for people
+who don't use a service because it is not accessible," he said.
+
+Participants agreed that a major flaw in our approach to disability is
+that accessibility problems with a product or service only come to light
+after it is launched, rather than before. "Typically, disabled consumers
+find a problem when a product or service is already out there, by which
+time it's too late," one delegate said.
+
+However, there are problems with ensuring accessibility is included at
+the design stage of a product or service, said Gill. "Board members,
+who are responsible for setting out the direction over the next few
+years, tend to be the right age range - between 50 and 65 years old - to
+understand the importance of accessibility," said Gill.
+
+"But the designers tend to be at the opposite end of the demographic
+spectrum, young, healthy and often unaware of accessibility issues.
+They are often under pressure to deliver projects on tight timescales
+too."
+
+"In between is the middle management, who have the power to
+influence designers, but it is difficult to persuade them of the business
+case for change if it doesn't deliver results within six months," said
+Gill.
+
+[Section Four ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2006 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Additional reporting - Judith Pope
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

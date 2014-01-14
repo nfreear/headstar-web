@@ -1,0 +1,14 @@
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+IndexIgnore *
+
+Options -Indexes
+
+ErrorDocument 401 /eab/errors/er401-authorisation.html
+ErrorDocument 403 /eab/errors/er403-forbid.html
+ErrorDocument 404 /eab/errors/er404-notfound.html
+

@@ -1,0 +1,687 @@
++++E-ACCESS BULLETIN.
+- ISSUE 52, APRIL 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription
+details at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 52 CONTENTS.
+
+01: WAI director defends validity of guidelines
+- new research raises concerns over international standards.
+
+02: Apples to speak
+- Macintosh computers gain built-in screen-reader.
+
+03: Stockton pioneers talking timetables
+- ground-breaking experiment with transport information.
+
+04: Free internet safety resource for children
+- developed as part of RNIB review.
+
+News in brief: 05: Poor numbers - disability organisations rapped;
+06: CSUN shines - conference webcasts; 07: Hindi reader - Indian
+access pioneer.
+
+Section two: 'The Inbox' - readers' forum.
+08: Audio-description challenge - quiz show comments; 09: Civil
+precedent - Indian civil service; 10: Hit compilation - accessible
+java compiler and downloadable Braille; 11: More fonts - ongoing
+readability debate; 12: Research questionnaire - university project.
+
+Section three: Focus - web research.
+13: Global standards in the spotlight: Today sees the publication of
+the biggest ever research project into web accessibility. Dan Jellinek
+assesses the implications for developers and international standard-
+setters.
+
+Section four: Seminar report - accessible e-government.
+14: Democratising the information society: Public service bodies have
+a legal and moral imperative to ensure their online services are
+accessible to all. Julie Hill reports.
+
+[Contents ends].
+
+
+++SECTION ONE: NEWS.
+
++01: WAI DIRECTOR DEFENDS VALIDITY OF GUIDELINES.
+
+The director of the international Web Accessibility Initiative (WAI -
+http://www.w3c.org/WAI), Judy Brewer, has defended her
+organisation's Web Content Accessibility Guidelines (WCAG -
+http://www.w3.org/TR/WCAG10) - the accepted international
+standard in the field - following the appearance of research
+appearing to show gaps in their coverage.
+
+Results of the world's most extensive programme of web accessibility
+research are being published today by the Disability Rights
+Commission of Great Britain (http://www.drc-gb.org). The research
+was commissioned last year from the Centre for Human Computer
+Interaction Design at City University, which examined 1,000 web sites
+using a combination of automated software testing and task-based
+testing using groups of testers with disabilities.
+
+The WAI guidelines - which are divided into 'checkpoints' of levels
+'A', 'AA' and 'AAA' in order of increasing accessibility - were used
+as the main external benchmarks for the assessments. The team found
+that just 19 per cent of home pages passed on level 'A' checks, and
+when it came to level 'AA', just two sites out of the 1,000 (0.2 per
+cent) passed a series of automated and manual checks. No sites were
+found to reach 'AAA' compliance.
+
+Researchers also found that only 55 per cent of specific usability
+problems reported by the testers were covered by any of the WCAG
+checkpoints, an apparent disjuncture between the WAI guidelines and
+real-life problems encountered. And many of the WAI checks seemed
+redundant, as they were almost always passed - some of the manual
+checks, for example, are passed up to 95 per cent of the time.
+
+"This data could be used to refine WAI and make it more usable for
+people, because clearly web developers are struggling with WAI,"
+according to Professor Helen Petrie who led the research at City
+University. "But it also shows that WAI is not the be-all and
+end-all: people need to test their sites with real users."
+
+WAI Director Judy Brewer told E-Access Bulletin this week that many
+of the general accessibility problems found which are not covered by
+WCAG are covered by WAI's User Agent Accessibility Guidelines
+(http://www.w3.org/TR/UAAG10), which describe accessibility of
+browsers and media players and their interoperability with assistive
+technologies and complement the content guidelines.
+
+On the point that some checks seem barely worth including as they are
+passed by the great majority of sites, Brewer said: "WCAG includes
+checkpoints based on their priority for ensuring accessibility for
+people with disabilities, not on how frequently those checkpoints are
+already met on the average web site. [The guidelines are] already organised
+in  three priority levels, so web developers can initially address a
+relatively small set of issues that have the greatest impact on
+barrier-reduction."
+
+Brewer said the new findings are not incompatible with WCAG, which
+"specifically address accessibility problems that create the most
+severe barriers for people with disabilities, not the broad spectrum of
+usability
+issues which affect all users. At the same time, WAI has always
+recognised the importance of incorporating user testing of
+accessibility
+features into a comprehensive evaluation of the accessibility of web
+sites." WAI is currently working on version 2.0 of WCAG, Brewer
+said, which may also address any remaining concerns about version
+1.0. "WAI . . . welcomes contributions such as the results of this
+research".
+
+NOTE: For a full report on the new research see Section Three, this
+issue.
+
+
++02: APPLES TO SPEAK.
+
+Speech technology is to be integrated into new versions of the Apple
+Macintosh operating system, providing blind and vision-impaired users
+with access to its computers for the first time, technology giant
+Apple has announced.
+
+The technology, known as Spoken Interface
+(http://www.apple.com/accessibility/spokeninterface), includes voice
+output, sound cues, and enhanced keyboard functions to help users
+navigate through desktop items, menus, toolbars, palettes and other
+on-screen objects that were previously unavailable to them, and to help
+them use applications more easily. According to Apple, Spoken
+Interface will be integrated into the next major release of the
+operating system OSX.
+
+For many blind computer users this will be their first chance to
+access Mac applications, since most developers of text-to-speech
+screen-readers have focused their efforts on desktop computers running
+Windows. The situation was made still worse last year when the
+specialist US access technology firm ALVA, creator of what has been
+until now the most widely available screen-reader for Macs
+'OutSPOKEN', announced it was to discontinue the product from the
+beginning of 2004, while honouring all warranties and service
+agreements which still apply.
+
+"Until now, Apple's record on accessibility has been dreadful,"
+assistive technology consultant Peter Bosher told E-Access Bulletin
+this month. "There is some ability to change the size and type of
+screen
+fonts and on-screen switches, but that's about it. Blind people have
+had to avoid Apple Macs like the plague."
+
+In particular, the new Macs will open up possibilities for blind
+people to use sound recording and editing equipment which is generally
+perceived as the music industry standard, Bosher said. "In recording
+studios Macs rather than PCs are the computers of choice. They are
+everywhere," he said.
+
+
++03: STOCKTON PIONEERS TALKING TIMETABLES.
+
+A ground-breaking service providing travel information to people with
+impaired vision through handheld devices is being tested by residents
+of Stockton-on-Tees, paving the way for similar services to be
+introduced across the UK. Volunteers are using mobile phones to
+access real-time information about Stockton bus services, and fully
+searchable timetables stored on compact discs in the international
+DAISY talking book format (see
+http://fastlink.headstar.com/stockton1).
+
+Last month Transport Secretary Alistair Darling visited Stockton-on-
+Tees Borough Council - one of the project's partners - to meet
+volunteers and council staff, and to see the technology at work. "He
+was very interested in how DAISY timetables would be produced and
+the potential to make them available elsewhere in the UK if the
+Stockton scheme is successful," said a spokesperson for the council.
+
+Other participants include Stockton Blind People's Voice
+(http://www.blindvoice.co.uk), mobile phone operator Vodafone, the
+RNIB, and the Department for Transport, which has provided 153,000
+pounds to help fund the project.
+
+According to borough council transport engineer John Kavanagh, using
+CDs to store timetables and digitised voice outputs to access the
+information is the most practical option for vision-impaired people.
+"Tapes are difficult to provide because they need replacing every
+time a service schedule changes, and users need to search to find the
+section
+they need. Braille is only used by some blind people and does not
+lend itself to production of timetables," he said.
+
+"The solution is to provide travellers with fully searchable CDs and
+the
+readers to enable them to access the data. No other authority in the
+UK has tried this."
+
+
++04: FREE INTERNET SAFETY RESOURCE FOR CHILDREN.
+
+The RNIB is to create a free resource on safe use of the internet by
+children and young people with impaired vision, E-Access Bulletin has
+learned. The resource is to be made available on the web and in
+several other formats.
+
+The move comes as part of an ongoing strategic review by the
+institute
+of its technology services to children. A meeting last month held as
+part of the review process examined responses to questionnaire and
+focus-group research carried out into the use of assistive
+technologies by children of school age and their support by teachers.
+
+Other issues covered at the meeting included the availability and
+consistency of training for education professionals and students on
+the use of assistive technologies.
+
+The RNIB's ICT development officer for children Will Pearson, who is
+leading the review, said the gap between young people obtaining
+assistive equipment and receiving training for its use has been too
+wide. There were problems to solve surrounding accreditation of
+trainers and availability of funds, he said.
+
+Pearson said teachers of visually-impaired students are often unaware
+of what support is available to their pupils, and are also failing to
+pursue accessibility concerns with computer network administrators at
+their schools.
+
+The review is set to conclude with a final presentation of its
+findings in July.
+A separate RNIB report is due out in May on the findings of a joint
+project with the Department for Education and Skills looking at the
+experiences of vision-impaired students with the DAISY
+(http://www.daisy.org) talking book system, and how the greatest
+benefits can be derived from DAISY materials.
+
+
+++NEWS IN BRIEF:
+
++05: POOR NUMBERS: Some 60 per cent of disability organisations'
+websites fail to achieve basic standards of accessibility, according
+to a new report from communications agency Ethical Media. 'Disability
+50' reviewed the web sites of 50 organisations, and found that the
+web sites of technology access charity AbilityNet and the British Council
+for Disabled People were exemplary:
+http://www.ethicalmedia.com/stories/disability50 .
+
++06: CSUN SHINES: Key presentations from the 19th annual
+'Technology and persons with disabilities' conference hosted by the
+Center on Disabilities at California State University Northridge
+(CSUN) are now available online, courtesy of internet TV specialists
+TVWorldwide. The presentations, demonstrations and interviews can
+be accessed using Windows media player or Real player:
+http://fastlink.headstar.com/csun9 .
+
++07: HINDI READER: Visually-impaired computer programmer
+Dinesh Kaushal has helped develop the first Hindi screen reader in
+India with a Lucknow-based software development company and the
+National Association for the Blind in Delhi. The team is planning to
+equip vision-impaired government staff across India with the screen
+reader which will cost 2,000 to 3,000 rupees (between 25 and 38 UK
+pounds):
+http://fastlink.headstar.com/hindi1 .
+
+[Section one ends].
+
+
+++SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+
+Accessify Forum is a discussion forum devoted to all topics relating
+to web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new
+accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along
+and join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+- Please email all contributions or responses to inbox@headstar.com .
+
++08: AUDIO-DESCRIPTION CHALLENGE: Clive Lever of
+Maidstone in Kent, a long-time correspondent to our bulletin, was
+surprised to hear the BBC quiz programme University Challenge cited
+as a programme which is perceived by some as verbal and so not in
+need of audio-description (see story 13, section four, issue 51,
+March 2004).
+
+"Even largely verbal quiz shows often have purely visual portions,"
+he said. "University Challenge has the pictorial round. The Channel Four
+programme Countdown has the conundrum at the end, whose letters
+are put up on screen. Viewers join in by trying to solve it, but
+listeners wait for the result. When they had a blind contestant on the
+programme
+it became fully accessible - for a week. When she left, it went back
+to its old ways.
+
+"Perhaps there is a case for some programme makers to think about
+what information is being conveyed verbally. Take the news reporter
+who says: "The police have taken this and this, and turned them into
+this," using pictures to clarify the pronouns. Then take the reporter
+who says instead: "The police have taken this helmet and this camera and
+turned them into helmetcam". Suddenly there's less need for extra
+dialogue.
+
+Referring to another part of the article which described the common
+practice of putting the audio-description track for programmes on a
+special channel which could only be picked up using wireless
+headphones, Clive said: "I also think it an insult and a frustration
+that
+the technology may assume that blind viewers would be isolated in the
+corner with their headphones, and that no sighted people would ever
+find audio description anything but an irritation.
+
+"Surely there are times when sighted people follow their favourite TV
+programmes in 'eyes busy' situations. I'd have liked to have seen an
+audio-description that comes over the main speakers, but which can be
+switched on and off at will, but with the option of headphones if
+required." [Further responses please to inbox@headstar.com].
+
+
++09: CIVIL PRECEDENT: Harish Kotian writes in from India to ask
+if any of our readers have information about blind people working in
+the UK civil service. He says: "A friend of mine is denied
+appointment
+in the Indian civil services on reasons of his visual disability, so
+a precedent would be highly desirable, as we still adopt the British
+model."
+[Responses please to inbox@headstar.com].
+
+
++10: HIT COMPILATION: In our last issue, Karina Gregory asked if
+anyone knew of an accessible Java compiler. Tim Culhane of
+communications solutions provider Critical Path Ireland says: "I've
+heard that Eclipse (http://www.eclipse.org) [an open source solution]
+is the most accessible." He adds that there is an email list dedicated
+to the
+discussion of java accessibility. "People on that list will be able
+to tell you which versions of what compilers work with different screen
+readers." To subscribe to the list readers should send a mail to
+LISTSERV@java.sun.com with 'subscribe java-access' in the message
+body.
+
+Karina also asked if anyone knew where to obtain a Braille font to
+translate on-screen text into Braille so that it can be printed out
+and transferred onto 'swell paper' to create readable Braille. She had
+been aware that the RNIB used to offer one but could no longer find it.
+
+Stephen Bennett of the Visual Impairment Team at Leicester City
+Council's education department wrote in to say: "The RNIB Braille
+font is still available from the RNIB home page
+(http://www.rnib.org.uk)." Type Braille in the search box at the
+site,
+Bennett says, and from the list of links that is produced choose the
+one about six links down that is simply headed 'Braille' (not the one a
+little
+way above it headed 'Downloadable Braille Truetype Font'). You will
+then be offered the download as a zip file.
+
+And web designer Tedd Sperling (http://www.sperling.com) sends in
+another useful link to Braille and sign language fonts from the Texas
+School for the Blind and Visually Impaired web site:
+http://www.tsbvi.edu/Education/fonts.html .
+
+
++11: MORE FONTS: Contributions continue to arrive on the topic of
+readable fonts. John Taylor writes: "There is a font called Tiresias
+LP Font which is recommended by the RNIB [and] has been designed for
+people with eyesight problems. I personally have the eyesight
+condition Nystagmus and since finding this font I have changed my
+settings so it is my standard. I would highly recommend it for people
+who do want to make use of a clearly readable font.
+
+"I believe this font is available from the RNIB or simply contact me
+and I will happily email you a copy." [Please contact John through
+inbox@headstar.com].
+
+And Vernon Webb of the Physical and Sensory Support Service at
+Herefordshire Council Education Directorate writes: "In the
+discussions about fonts in the last two issues of E-Access Bulletin I
+was surprised to see no mention of Verdana. I use it for my pupils
+(poor victims of my experiments!) because it distinguishes between
+numeric digit 1, lower case letter L and upper case letter i better
+than
+Arial. Also the characters are wider and more rounded. Finally, it is
+readily available in most Windows systems. Does anyone else use it,
+or have particular reasons for disliking it?"
+[Responses please to inbox@headstar.com].
+
+
++12: RESEARCH QUESTIONNAIRE: Duncan Glendinning, a final
+year computer science student at Bath University, writes in to ask
+for
+some help with a research project on internet accessibility. "As part
+of my project, I have posted a questionnaire online for vision-impaired
+internet users. I would be hugely grateful if some of your readers
+could visit it and take a little time to respond:
+http://www.dunkweb.co.uk/emailform/forms.html .
+
+[Section two ends].
+
+
+SECTION THREE: FOCUS
+- WEB RESEARCH.
+
++13: GLOBAL STANDARDS IN THE SPOTLIGHT
+by Dan Jellinek.
+
+Results of the biggest ever programme of research into web
+accessibility are being unveiled today in the UK, revealing a range
+of important lessons for web developers worldwide.
+
+Back in March 2003 the Disability Rights Commission for England,
+Scotland and Wales (http://www.drc-gb.org) announced that its first
+formal investigation was to be into web site accessibility. It
+subsequently commissioned the Centre for Human Computer
+Interaction Design at City University, led by Professor Helen Petrie,
+to undertake research which was eventually to span some 39,000 web
+pages across 1,000 sites.
+
+Professor Petrie's team selected around 200 sites to test in each of
+five
+main categories: government and information; business to business; e-
+commerce; leisure; and web services, such as internet service
+providers
+and search engines. They then oversaw a process which began with
+automated checks using the WebXM software tool from Watchfire
+(http://www.watchfire.com) and, where these checks were passed,
+proceeded to task-based testing using groups of testers with
+disabilities using a range of assistive technologies.
+
+The main external benchmarks used for the assessments were,
+unsurprisingly, the web content accessibility guidelines (WCAG)
+developed by the world wide web consortium's web accessibility
+initiative (www.w3c.org/WAI).
+
+The guidelines are divided into 'checkpoints' of levels 'A', 'AA' and
+'AAA' in order of increasing accessibility. It is generally
+considered
+that UK disability law now makes level 'A' conformance compulsory
+to avoid the risk of legal action, and UK government guidelines
+(http://www.e-envoy.gov.uk/webguidelines.htm) go further, stipulating
+that public sector web sites should attain at least partial 'AA'
+conformance.
+
+The new research finds these targets are optimistic, to say the
+least.
+The team found that just 19 per cent of home pages passed on level
+'A' checks, and when it came to level 'AA', just two sites out of the
+1,000 (0.2 per cent) passed a series of automated and manual checks. No
+sites were found to reach 'AAA' compliance.
+
+The research also threw up some anomalies with the WAI guidelines
+themselves. According to Petrie, only 55 per cent of usability
+problems
+reported by the testers were covered by any of the WCAG checkpoints,
+on the face of it an astonishing gap between real problems faced and
+those included in the main accepted international testing system.
+
+And many of the WAI checks seemed redundant, as they were almost
+always passed - some of the manual checks, for example, are passed
+up to 95 per cent of the time.
+
+"This data could be used to refine WAI and make it more usable for
+people, because clearly web developers are struggling with WAI,"
+Petrie says. "But it also shows that WAI is not the be-all and
+end-all:
+people need to test their sites with real users."
+
+The Director of the WAI, Judy Brewer, told E-Access Bulletin that
+many of the key accessibility problem types listed by the testers
+that are not covered by WCAG are covered by WAI's User Agent
+Accessibility Guidelines, which describe accessibility of browsers
+and media players and their interoperability with assistive technologies
+and are meant to be complementary to the content guidelines.
+
+And on the point that some checks seem barely worth including as they
+are passed by the great majority of sites, Brewer said: "WCAG
+includes checkpoints based on their priority for ensuring
+accessibility
+for people with disabilities, not on how frequently those checkpoints
+are already met on the average web site. [The guidelines are] already
+organised in three priority levels, so web developers can initially
+address a relatively small set of issues that have the greatest
+impact on barrier-reduction."
+
+Although the DRC has decided not to name and shame any of the sites
+which were included in the tests and failed to reach basic
+accessibility
+standards, it has decided to name several of the sites which the
+panel of testers felt were the easiest to use.
+
+These sites include the national online library catalogue Copac
+(http://www.copac.ac.uk); online financial services group Egg
+(http://www.egg.com); the charity Oxfam (http://www.oxfam.org.uk);
+the voluntary organisation Spinal Injuries Scotland
+(http://www.sisonline.org); and the 'British dialect translator'
+comedy site Whoohoo (http://www.whoohoo.co.uk).
+
+Petrie says this diverse grouping of sites demonstrates that all
+kinds of
+sites can be usable and accessible. The Spinal Injuries Scotland
+site, for
+example, shows you can create an accessible site on a small budget
+which is still lively and colourful; while at the other end of the
+budget
+scale, the Egg site shows that even the largest firms can embrace
+accessibility without compromising their corporate image or losing
+any elegance or sophistication from their e-services.
+
+On average, testers found they could complete a set task successfully
+90 per cent of the time across the most usable sites. However, this
+exercise also contributed its own warning messages about over-
+reliance on WAI guidelines. For while these sites did tend to display
+fewer WAI checkpoint errors than most of the other sites tested, they
+were not the sites that returned the highest 10 scores against the
+WAI
+guidelines, and others with higher WAI ratings did not feature in the
+top 10 list.
+
+However, Brewer said these findings too are not incompatible with
+WCAG, which "specifically address accessibility problems that create
+the most severe barriers for people with disabilities, not the broad
+spectrum of usability issues which affect all users.
+
+"At the same time, WAI has always recognised the importance of
+incorporating user testing of accessibility features into a
+comprehensive evaluation of the accessibility of web sites; see for
+instance the WAI resource suite 'Evaluating web sites for
+accessibility'
+(http://www.w3.org/WAI/eval)."
+
+WAI is currently working on version 2.0 of WCAG, Brewer said,
+which may also address any remaining concerns about version 1.0. "In
+WCAG 2.0 we are maintaining some division of priority levels, since
+this has proved so helpful to web designers. In addition, we expect
+that
+reorganisation and re-prioritisation will result in guidelines that
+are
+shorter, more easily implemented, and more easily tested, while
+addressing more advanced web technologies.
+
+"In updating the WAI guidelines, WAI is taking into account feedback
+from the broad implementation experience of WCAG 1.0 around the
+world, as well as implementation of WAI guidelines for browsers and
+authoring tools. WAI . . . welcomes contributions such as the results
+of this research".
+
+The new research clearly shows there is a long way to go before even
+low-level accessibility standards become the norm on the web.
+Developers everywhere will be hoping that the eventual emergence of
+WCAG 2.0 will meet their urgent need for a set of simpler, clearer
+guidelines to follow than is currently available.
+
+[Section three ends].
+
+
+++SECTION FOUR: SEMINAR REPORT
+- ACCESSIBLE E-GOVERNMENT
+
++14: DEMOCRATISING THE INFORMATION SOCIETY.
+by Julie Hill.
+
+Government departments and local authorities should take a holistic
+approach to accessibility when planning the provision of online and
+other digital services. This was the message from a recent seminar
+hosted by E-Access Bulletin's sister publication E-Government
+Bulletin, 'E-Government for all: planning for accessibility'
+(http://www.electronic-government.com/access.htm).
+
+Instead of viewing accessibility as being simply about meeting the
+needs of disabled user groups, said experts, public bodies should
+broaden their thinking to include other groups whose access to online
+services might be impaired for a variety of reasons.
+
+"Accessibility is usually promoted in terms of helping disabled users
+to use the web," said Tom Adams, senior digital media consultant at the
+UK government's technology policy agency the Office of the e-Envoy
+(http://www.e-envoy.gov.uk).
+
+"But this is only part of the picture. Accessibility should be
+considered
+as enabling web use for anyone with a web limiting condition, which
+could arise as much from a disability as from technical or
+environmental limitations." For example, Adams said that accessible
+services also benefit those using older computer equipment, unusual
+browsers or those with slow internet connections.
+
+Such a wide view of accessibility is particularly crucial when it
+comes
+to providing public services, because government has an obligation to
+cater for all of its citizens. "While commercial service providers
+can target particular sectors, local authorities, for example, have a
+duty to
+meet the needs of all their residents," said Guido Gybels, director
+of new technologies at the Royal National Institute for Deaf People
+(http://www.rnid.org.uk).
+
+But government bodies need to factor accessibility into their service
+design from the outset, said Adams. Accessibility need not be only
+difficult and expensive to achieve, he said, but it will be if it is
+not planned into projects from the beginning and organisations find
+themselves having to 'retrofit' their web sites. It is therefore
+important
+to ensure not only that accessibility requirements are well
+understood
+but that they are seen as an ongoing priority and are an integral
+part of
+a service's evaluation, he said.
+
+There was consensus about the lack of skills not only among
+government commissioning bodies to make judgments about
+accessibility, but also among the web developer community. Many
+public sector web developers "don't know how to do accessibility and
+they have never met a disabled user," said Adams. This lack of
+knowledge is not being addressed by the IT education sector, he said,
+which appears to be failing to build in accessibility techniques into
+its training programmes. Adam cited the example of his son who is
+currently doing a degree in multimedia at a London university. He
+said that the focus of the course is on creating animated graphics and
+accessible web design does not figure at all in the curriculum. When
+he offered to go along and talk to the students about accessibility,
+they turned him down.
+
+So what factors need to be addressed in order to ensure truly
+inclusive
+e-government services? The RNID's Gybels outlined three things:
+raising awareness of the need for accessibility among public service
+providers and web developers; creating a dialogue with user
+representatives to feed this awareness; and bringing inclusive design
+into the mainstream, so that just as security and interoperability are
+considered when developing e-government services, so accessibility is
+also a key prerequisite.
+
+The potential prize is huge, said Gybels. "The biggest challenge
+facing
+e-government - but also the biggest benefit it can bring - is to
+transform the information society into a truly inclusive society, one
+in which everyone can participate fully as citizens and realise their
+potential," he said.
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

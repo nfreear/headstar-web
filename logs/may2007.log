@@ -1,0 +1,84 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:24 2008 __
+
+Input file: ../eab/issues/2007/may2007.txt
+
+Warning: file already exists: ../eab/issues/2007/may2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: may | index: 5 | year: 2007
+URLs, prev: ../2007/apr2007.html | next: ../2007/jun2007.html
+Found ++, heading 2: Special Notice - Building the Perfect Council Website
+Found ++, heading 2: Issue 89 Contents.
+>> FOUND 2:  | 01:  | Expert Tips For Accessible Web Content Available On DVD
+>> FOUND 2:  | 02:  | Online Guide To London Underground Launched
+>> FOUND 2:  | 03:  | Voice Technology Helps Pilot Complete Record Breaking Flight
+>> FOUND 2: News in Brief:  | 04:  | Far Sighted - equality vision consultation opens;
+OK, News in brief
+Found: Far Sighted - equality vision consultation opens | ; | 
+>> FOUND 2:  | 05:  | Reading Software - Google optical character recognition project;
+>> FOUND 2:  | 06:  | Broadcast News - ACB radio launches online station.
+>> FOUND 2:  | 07:  | Captcha This - feedback from reader's audio captcha tool; 08: Web
+>> FOUND 2: Check - website accessibility request;  | 09:  | Dictionary Request - Italian
+Found: Check - website accessibility request;  | 09:  | Dictionary Request - Italian
+>> FOUND 2:  | 10:  | Overcoming The Barriers To Accessible Websites: Any
+>> FOUND 2:  | 11:  | Access To Work?: If government policy on equal employment
+Warning line 83: expected [Contents ends].
+$toc_count=12
+> ITEM 2:  01:  | Expert Tips For Accessible Web Content Available On DVD.
+Warning: not found a 'contents' match: Expert Tips For Accessible Web Content Available On Dvd.
+> ITEM 2:  02:  | Online Guide To London Underground Launched.
+Warning: not title-casing possible HTML:
+  02: Online Guide To London Underground Launched.An online resource of information on travelling on the London
+Underground (LU) train network for people with vision and other
+mobility and sensory impairments has gone live.
+The LU 'Nationwide access register,' is currently available on the
+website of Direct Enquiries
+( <a href="http://www.directenquiries.com/">http://www.directenquiries.com/</a>
+ ),a UK company providing online searchable resources for access
+information on businesses and services. The service will be integrated
+with the existing Transport for London Journey Planner over the next
+six to nine months.
+
+Warning: not found a 'contents' match: Online Guide To London Underground Launched.An online resource of information on travelling on the London
+> ITEM 2:  03:  | Voice Technology Helps Pilot Complete Record Breaking Flight.
+Warning: not title-casing possible HTML:
+  03: Voice Technology Helps Pilot Complete Record Breaking Flight.Voice technology has helped blind adventurer Miles Hilton-Barber set
+a new record by flying a microlight aircraft from Biggin Hill in
+England to Sydney in Australia. The flight, which followed the route of
+an air race staged in 1919, aims to raise 1 million pounds to help the
+fight against preventable blindness in developing countries.
+Hilton-Barber navigated the 13,500 miles over 21 countries using
+instruments specially adapted to deliver voice output of the aircraft's
+altitude, direction, and wind speed. He entered the readings into an
+onboard computer using a wireless keyboard strapped to his leg.
+He was accompanied by a sighted co-pilot, who was responsible for
+speaking to control towers and providing back-up in case of an
+emergency. The journey began on March 7 and took 55 days to
+complete, requiring the pilots to deal with extreme weather conditions
+such as heavy snow in the mountains of Lebanon, and tropical
+rainstorms.
+The flight will raise funds for Seeing Is Believing
+( <a href="http://www.seeingisbelieving.org.uk/">http://www.seeingisbelieving.org.uk/</a>
+ ),a project run by Standard Chartered Bank to promote treatment of eye
+cataracts in Asia and Africa.
+
+Warning: not found a 'contents' match: Voice Technology Helps Pilot Complete Record Breaking Flight.Voice technology has helped blind adventurer Miles Hilton-Barber set
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  The UK government is seeking public views to feed
+> ITEM 1:  05:  | : |  An open source project to develop state of the
+> ITEM 1:  06:  | : |  An online radio station is to be launched by
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 219.
+> ITEM 1:  07:  | : |  Peter Abrahams, Accessibility and Usability
+> ITEM 1:  08:  | : |  Margot Lindsay from the London Centre for
+> ITEM 1:  09:  | : |  Clare Page writes in response to a
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  10:  | Overcoming The Barriers To Accessible Websites
+Warning: not found a 'contents' match: Overcoming The Barriers To Accessible WebsitesBy John Morse.
+Found ++, heading 2: Section Four: Focus
+> ITEM 1:  11:  | ? | 
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 499.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 505.

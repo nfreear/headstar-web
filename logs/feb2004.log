@@ -1,0 +1,58 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:59 2004 __
+
+Input file: ../eab/issues/2004/feb2004.txt
+
+Warning: file already exists: ../eab/issues/2004/feb2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: feb | index: 2 | year: 2004
+URLs, prev: ../2004/jan2004.html | next: ../2004/mar2004.html
+Found ++, heading 2: ISSUE 50 CONTENTS.
+>> FOUND 2:  | 01:  | Access gap to narrow within five years
+>> FOUND 2:  | 02:  | Workgroup to promote open source solutions
+>> FOUND 2:  | 03:  | UK radio station plan for blind community
+>> FOUND 2:  | 04:  | Spoken text messages 'live within weeks'
+>> FOUND 1: News in brief:  | 05: Shining examples - RNIB awards; 06: One format -
+>> FOUND 2:  | 09:  | Type cast - fonts debate; 10: Welsh synthesizer - language
+>> FOUND 2: hardware;  | 11:  | Musical coda - email resource.
+OK, News in brief
+Found: Musical coda - email resource | . | 
+>> FOUND 2:  | 12:  | It's 50 steps forward - and 49 back: On the 50th birthday of E-
+>> FOUND 2:  | 13:  | Problems dissected in the user lab: Results of broad research into
+Warning line 47: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | ACCESS GAP TO NARROW WITHIN FIVE YEARS.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | WORKGROUP TO PROMOTE OPEN SOURCE SOLUTIONS.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | UK RADIO STATION PLAN FOR BLIND COMMUNITY.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | SPOKEN TEXT MESSAGES'LIVE WITHIN WEEKS'.
+Warning: not found a 'contents' match: Spoken Text Messages'Live Within Weeks'.
+Found ++, heading 2: NEWS IN BRIEF:
+> ITEM 1:  05:  | : |  The RNIB is inviting nominations for its
+> ITEM 1:  06:  | : |  Free 'style sheet' files that allow users of the
+> ITEM 1:  07:  | : |  Access World, the American
+> ITEM 1:  08:  | : |  The Old Bailey Proceedings web site
+Found ++, heading 2: SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  09:  | : |  A large number of readers have responded to John
+> ITEM 1:  10:  | : |  Last month Rebecca Redmile, a daily
+> ITEM 1:  11:  | : |  Further to last issue's tips on technology to
+Found ++, heading 2: SECTION THREE: OPINION
+> ITEM 2:  12:  | IT'S 50 STEPS FORWARD - AND 49 BACK
+Warning: not title-casing possible HTML:
+  12: IT'S 50 STEPS FORWARD - AND 49 BACKby Kevin Carey  <a href="mailto:humanity@atlas.co.uk">humanity@atlas.co.uk</a>
+E-Access Bulletin is 50 issues old today. Now, anybody who knows
+the variety and extent of my cellar will readily appreciate that I am 
+no
+party pooper; but on this day of celebration, I feel I need to tell you 
+just
+how miserable I am when I think of the last 50 months.
+
+Warning: not found a 'contents' match: IT'S 50 STEPS FORWARD - AND 49 BACKby Kevin Carey  <a href="mailto:humanity@atlas.co.uk">humanity@atlas.co.uk</a>
+Found ++, heading 2: SECTION FOUR: RESEARCH
+> ITEM 2:  13:  | PROBLEMS DISSECTED IN THE USER LAB
+Warning: not found a 'contents' match: Problems Dissected In The User Labby John Knight And Marie Jefsioutine .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

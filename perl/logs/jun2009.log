@@ -1,0 +1,46 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Nov 15 21:06:34 2009 __
+
+Input file: ../eab/issues/2009/jun2009.txt
+
+Warning: file already exists: ../eab/issues/2009/jun2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jun | index: 6 | year: 2009
+URLs, prev: ../2009/may2009.html | next: ../2009/jul2009.html
+Found ++, heading 2: Special Notice: Building Perfect Council Websites '09
+Found ++, heading 2: Issue 114 Contents.
+>> FOUND 2:  | 01:  | Ofcom Report Uncovers Major Accessibility Research Gap
+>> FOUND 2:  | 02:  | Interactive Media Association Chair To Prioritise Accessibility
+>> FOUND 2:  | 03:  | Public Procurement Enlisted To Improve Equality
+>> FOUND 2: News in Brief:  | 04:  | Screen Award - access from memory stick; 05:
+OK, News in brief
+Found: Screen Award - access from memory stick | ; |  05:
+>> FOUND 2: Learning Link - education and accessibility;  | 06:  | Audio Food -
+Found: Learning Link - education and accessibility;  | 06:  | Audio Food -
+>> FOUND 2:  | 07:  | Readers' Rights - E-book speech debate continues; 08: BBC Hitch
+>> FOUND 2:  | 09:  | Communication Breakdown? An Ofcom report on how the
+Warning line 67: expected [Contents ends].
+$toc_count=8
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Ofcom Report Uncovers Major Accessibility Research Gap.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Interactive Media Association Chair To Prioritise Accessibility.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Public Procurement Enlisted To Improve Equality.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A free, open source screen-reader which enables
+> ITEM 1:  05:  | : |  The rise of e-learning and its impact on
+> ITEM 1:  06:  | : |  Audio menus have been installed in a pub in the
+Found ++, heading 2: Sponsored Notice: Media Trust Seminars, July
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 256.
+> ITEM 1:  07:  | : |  It is always a delight to receive letters from our
+> ITEM 1:  08:  | : |  Meanwhile Rakesh Chand, a reader and past
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 321.
+> ITEM 2:  09:  | Communication Breakdown?
+Warning: not found a 'contents' match: Communication Breakdown?By Tristan Parker.
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 450.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 457.

@@ -1,0 +1,50 @@
+__ BUILD [tens2html.pl  v1.14] log Thu Jan 15 22:27:06 2009 __
+
+Input file: ../eab/issues/2008/sep2008.txt
+
+Warning: file already exists: ../eab/issues/2008/sep2008.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: sep | index: 9 | year: 2008
+URLs, prev: ../2008/aug2008.html | next: ../2008/oct2008.html
+Found ++, heading 2: Issue 105 Contents.
+>> FOUND 2:  | 01:  | Target Agrees Six Million Dollar Accessibility Case Settlement
+>> FOUND 2: + | 02:  | Navigation Aid Among Insight Radio's 'Vision 2008' Reports
+OK, News in brief
+Found: + | 02:  | Navigation Aid Among Insight Radio's 'Vision 2008' Reports
+>> FOUND 2: + | 03:  | Call For Research Into Elderly Access To Mobile Phones
+Found: + | 03:  | Call For Research Into Elderly Access To Mobile Phones
+>> FOUND 2: News in Brief:  | 04:  | Invisible Touch - haptic device innovation; 05:
+Found: Invisible Touch - haptic device innovation | ; |  05:
+>> FOUND 2: Awards Deadline - European e-inclusion;  | 06:  | Institutional Threat -
+Found: Awards Deadline - European e-inclusion;  | 06:  | Institutional Threat -
+>> FOUND 2:  | 07:  | Beijing Warning - Olympics and inaccessibility; 08: Mac
+>> FOUND 2:  | 10:  | The Six Million Dollar Question: US superstore chain Target has
+Warning line 46: expected [Contents ends].
+$toc_count=9
+Found ++, heading 2: Special Notice: Designing for all: an inclusive approach to web,
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Target Agrees Six Million Dollar Accessibility Case Settlement.
+Warning: not found a 'contents' match: Target Agrees Six Million Dollar Accessibility Case Settlement.
+> ITEM 2:  02:  | Navigation Aid Among Insight Radio's 'Vision 2008' Reports.
+Warning: not found a 'contents' match: Navigation Aid Among Insight Radio'S 'Vision 2008' Reports.
+> ITEM 2:  03:  | Call For Research Into Elderly Access To Mobile Phones.
+Warning: not found a 'contents' match: Call For Research Into Elderly Access To Mobile Phones.
+Found ++, heading 2:  News in Brief:
+> ITEM 1:  04:  | : |  A haptic device which can create the illusion of
+> ITEM 1:  05:  | : |  The deadline for entries to the European e-
+> ITEM 1:  06:  | : |  The Accessibility Institute at the University
+Found ++, heading 2: Sponsored Notice: Accessible Design in the Digital World 2008
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 258.
+> ITEM 1:  07:  | : |  Tom Worthington, Adjunct Senior Lecturer at
+> ITEM 1:  08:  | : |  Karen Mardahl, co-manager of the Society of
+> ITEM 1:  09:  | : |  A further spam-fighting tip has emerged from the
+Found ++, heading 2: Sponsored Notice: Fortune Cookie
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 361.
+Found ++, heading 2: Section Three: Analysis
+> ITEM 2:  10:  | The Six Million Dollar Question.
+Warning: not found a 'contents' match: The Six Million Dollar Question.By Majeed Saleh And Dan Jellinek.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 512.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 519.

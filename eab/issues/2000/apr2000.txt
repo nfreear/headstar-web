@@ -1,0 +1,1135 @@
+****************************************
+
+E-ACCESS BULLETIN
+
+
+
+**************************************
+
+
+
+ISSUE 4, APRIL 2000
+
+
+
+IN THIS ISSUE:
+
+Section One:
+
+News: Confusion mars introduction of TV licence fee discount; Qualified
+
+welcome for education access rights; People with disabilities less likely
+
+to have internet access; Virtual think-tank debates technology design;
+
+Play time.
+
+
+
+Section Two: RNIB Information Society Advisory Group
+
+- Special extended report
+
+
+
+Section Three:
+
+The web - speech-enabled portals
+
+
+
+
+
+************************************
+
+SECTION ONE: NEWS
+
+************************************
+
+
+
+CONFUSION MARS INTRODUCTION OF TV LICENCE FEE DISCOUNT
+
+
+
+Widespread confusion about how to claim the new 50% television licence
+
+fee discount for blind people, and about who is eligible, has been reported
+
+following the government's announcement of the discount in February.
+
+
+
+The discount - to run from 1 April 2000 - was widely welcomed as a huge
+
+improvement on the previous discount for the blind of a mere £1.25. However,
+
+confusion has focused on whether the discount applies only to licence holders;
+
+how people can apply for the new concession; and whether those receiving
+
+the old discount qualify automatically for the 50% reduction.
+
+
+
+Diane Evans, Information Officer at the Ty Clyd Independent Living Centre
+
+for disabled people in South Wales and herself registered as blind, told
+
+E-Access Bulletin that her own enquiries to the responsible government
+
+agency, TV Licensing, on behalf of the people at her centre, had not received
+
+a satisfactory response.
+
+
+
+"When I telephoned the TV licence people I was told that there was no set
+
+procedure for someone to claim the 50% reduction. After several hasty conversations
+
+I was told that people who were already claiming would receive a form through
+
+the post and they would have to take this with a copy of their registration
+
+certificate to the post office or send it to them. I did point out that
+
+they were sending forms to registered blind people and some of them would
+
+not always have someone on hand to fill in the form. They then said that
+
+the post office could fill in the form.
+
+
+
+"The next problem is that a large proportion of the registered blind with
+
+us have not claimed before because it was not worth all the hassle for
+
+the small sum of money they offered - myself included. This seemed to throw
+
+them into a panic and they asked if I would send in a letter to customer
+
+services. Which I have done and as yet, still await a reply."
+
+
+
+The RNIB, which also sought clarification from TV Licensing on behalf of
+
+its members after receiving a large number of enquiries, said the fact
+
+that some Post Offices had not been briefed about the new discount prior
+
+to the announcement had compounded uncertainty for some people.
+
+
+
+TV Licensing has now offered clarification on some of the outstanding points.
+
+It says that all applicants must be registered blind to qualify for the
+
+new discount, and that proof of registration therefore must be shown at
+
+the Post Office where most people buy the licence. If applicants currently
+
+pay for their licence by Direct Debit they should telephone TV Licensing
+
+on 0845 602 3334, who will advise them how to send in their blindness certificate
+
+to obtain the discount. People who received the £1.25 concession prior
+
+to the introduction of the new discount do need to re-apply.
+
+
+
+The discount applies to all households where there is at least one person
+
+who is registered as blind. Refunds will be available for people who have
+
+purchased new licences prior to the announcement.
+
+
+
+The government also announced in February that all people over the age
+
+of 75 are eligible for a free licence from November 1. People who are registered
+
+blind and who also are or will be over-75 at that time are able to purchase
+
+a part-licence with the 50% discount to run up to November.
+
+
+
+However, Ms Evans says she is still waiting for a proper response to her
+
+queries. "I have yet to hear back on whether there is any information on
+
+the scheme that I can obtain in a medium that our clients can use, such
+
+as large print. And I still have concerns about people who pay by Direct
+
+Debit having to send their certificates in by post - what happens if they
+
+go missing?"
+
+
+
+
+
+QUALIFIED WELCOME FOR EDUCATION ACCESS RIGHTS
+
+
+
+Disabled students have given a qualified welcome to UK government plans
+
+to guarantee disabled people new rights to technology and tackle discrimination
+
+in the education system.
+
+
+
+The draft Special Educational Needs and Disability Rights in Education
+
+Bill, published last month, is designed to plug the hole left by the Disability
+
+Discrimination Act (1995), which excluded education. It aims to introduce
+
+enforceable civil rights for disabled people in education, including improved
+
+access to technology.
+
+
+
+The National Bureau for Students with Disabilities, Skill, predicts that
+
+institutions will need to examine technology provision in a number of areas
+
+including all electronic curriculum materials; all learning and teaching
+
+tools provided electronically; computing and intranet provision for students;
+
+the library; information technology support services; and institutions'
+
+web sites.
+
+
+
+Under the new regime institutions will be forced to make reasonable adjustments
+
+where 'any arrangements, including physical features of premises, for services
+
+place a disabled person at a substantial disadvantage.' Unjustified less
+
+favourable treatment will also be unlawful.
+
+
+
+Examples cited include special training in new technologies and extra provision
+
+such as voice recognition software for those who cannot use standard hardware
+
+and applications; and a suggestion that blind students should be given
+
+a list of all written articles that are required reading at the beginning
+
+of each year so that libraries can arrange for these to be put on audio
+
+tape.
+
+
+
+"The bill will have a big impact on technology provision," said Skill Policy
+
+Director Sophie Corlett. "Increasingly we are aware that scant attention
+
+is being paid to accessibility." However, the body is seeking a number
+
+of changes, including extension of the new rules to funding councils, inspection
+
+agencies, professional bodies and work placement providers, all of which
+
+it argues have a crucial role in influencing student education.
+
+
+
+Skill also says the bill does not offer students on work placements enough
+
+protection. "We are coming across more and more students who are being
+
+refused work placements or refused entry to a course which has work placements
+
+because they are disabled," said Corlett.
+
+
+
+The Bill can be seen at:
+
+www.disability.gov.uk
+
+
+
+
+
+PEOPLE WITH DISABILITIES LESS LIKELY TO HAVE INTERNET ACCESS
+
+
+
+People with disabilities are far less likely than others to have access
+
+to the internet or own a computer according to research published in the
+
+US last month. 
+
+
+
+While more than 50% of people who have no disability have a computer in
+
+their household, the equivalent figure for those who are disabled is just
+
+24%. The gap in internet access is even more pronounced. Almost three times
+
+as many people without disability have access to the net at home compared
+
+to those who are disabled - 31% versus 11%. Only 4% of disabled people
+
+have access to the internet outside the home compared to more than a fifth
+
+of those who are not disabled.
+
+
+
+"People with disabilities are perhaps the single segment of society with
+
+the most to gain from the new technologies of the electronic age," says
+
+report author Stephen Kaye from the Disability Statistics Center, University
+
+of California San Francisco. "Yet they have among the lowest rates of use
+
+of these technologies."
+
+
+
+The researchers argue that the huge difference cannot be explained by the
+
+fact that the disabled are more likely to be elderly and therefore less
+
+likely to use new technology. Significant differences in computer ownership
+
+and internet access were also found for the age group 15 to 64.
+
+
+
+Kaye said the differences in income can explain much of the difference
+
+in access rates, as those who are disabled may need specialised software.
+
+However, he does predict higher access rates among the disabled in the
+
+future. "The advent of lower-cost computing - including the free computers
+
+that come with extended subscription to an internet service provider -
+
+may help to make this technology more available," he says.
+
+
+
+Computer and Internet Use Among People with Disabilities can be found at:
+
+www.dsc.ucsf.edu
+
+
+
+
+
+VIRTUAL THINK-TANK DEBATES TECHNOLOGY DESIGN
+
+
+
+The role of governments worldwide in encouraging accessible technology
+
+design was a key topic of debate at Boosting the Net Economy 2000, a global
+
+'virtual think-tank' hosted on the web last month by the publishers of
+
+E-Access Bulletin, Headstar, with sponsorship from Bull.
+
+
+
+Think-tank member Professor Elsa Rosenblad of the Chalmers University of
+
+Technology, Sweden, said that governments and intergovernmental bodies
+
+had an important role to play in ensuring that the design of technology
+
+products was accessible to all parts of society, including older people
+
+and disabled people, although a direct legislative approach was not desirable.
+
+
+
+"I don't think it is successful to force any kind of technical development.
+
+But I can see two ways of reaching the same goal. One is enforcement using
+
+ISO-standards, the other is research to create new knowledge of the user's
+
+situation.
+
+
+
+"ISO-standards, especially ISO 9241 and ISO 9355 regarding ergonomic requirements,
+
+could be used for control, criteria and evaluation of products at governmental
+
+and other greater purchases. But probably a more successful way of achieving
+
+products that are accessible to all would be governmental investment in
+
+research of new knowledge of the user's situation. The severe problem of
+
+accessibility is the lack of knowledge on the part of the designer of the
+
+cognitive and physical abilities of the individual user. If this knowledge
+
+was available, much better products would reach the market, as customer
+
+orientation is an aim today."
+
+
+
+A full report of the online debate is due to be posted onto its web site
+
+on 10 May. See:
+
+www.netecon2000.com
+
+
+
+
+
+PLAY TIME
+
+
+
+It's not only dull work-related software that can be made accessible: 'Accessible
+
+Games' is a library of simple computer games designed for blind and visually
+
+impaired computer users. Games on offer include WordPlay, Battleships,
+
+BlackJack and Yahtzee, and they interface directly with speech synthesis
+
+software.
+
+
+
+The games require you to download the Visual Basic 6.0 run time library
+
+first, a 1 Megabyte download. After that trial versions of the games can
+
+be downloaded for free, and after evaluation the registered versions are
+
+pretty cheap (around 10 US Dollars each). See:
+
+www.gamesfortheblind.com/
+
+
+
+
+
+************************************
+
+SECTION TWO:
+
+RNIB INFORMATION SOCIETY ADVISORY GROUP
+
+- SPECIAL EXTENDED REPORT
+
+************************************
+
+
+
+The need to base technology initiatives around individuals' social needs,
+
+rather than the technologies themselves, was stressed at a special meeting
+
+of the RNIB's Information Society Advisory Group on 5 April.
+
+
+
+The meeting was designed to take stock of the institute's work promoting
+
+access to information and communications technologies and help set future
+
+priorities. Ian Bruce, RNIB Director General, said: "For blind people to
+
+take charge of their lives they need the same information as everyone else,
+
+and additional specific information. This is particularly important nowadays
+
+- information is power."
+
+
+
+Fazilet Hadi, RNIB Director of Policy, said it was important to anchor
+
+new technology projects in widely-used current technology systems, like
+
+Braille.
+
+
+
+It was also important to understand the differences between the needs of
+
+various types of blind and visually impaired technology users, Ms Hadi
+
+said. "Have they been visually impaired all their lives, or have they had
+
+to find new ways of working in the forties, or new techniques in their
+
+seventies?"
+
+
+
+Keith Gladstone, RNIB Head of Information Systems, said everyone was now
+
+surrounded by far more information than they can cope with, so the ability
+
+to scan and filter information was vital. For blind and visually impaired
+
+people, however, that ability is vastly reduced, making it much harder
+
+for them to deal with 'information overload'.
+
+
+
+An increased number of information channels, for example with digital television,
+
+the increasing specialisation of each channel and the growth of unmediated
+
+or unmoderated streams of information via the internet are all adding to
+
+the burden of choice, he said. It was important to understand the real
+
+impact all these changes are having  on peoples' lives and address the
+
+issues arising, which may or may not involve technology directly.
+
+
+
+John Gill, Chief Scientist in the institute's Scientific Research Unit,
+
+and Steve Tyler, Digital (ICT) Access Manager, listed some of the key technological
+
+developments likely to have a major influence on the lives of blind and
+
+visually impaired people in the next decade. They included:
+
+
+
+* the convergence of mobile communications, digital television and web
+
+services so that it becomes increasingly difficult to tell one technological
+
+device from another;
+
+
+
+* the development of interactive public services via digital television,
+
+such as health services;
+
+
+
+* the development of digital radio (Digital Audio Broadcasting), with on-screen
+
+displays, and its convergence with the Internet and Internet-based radio
+
+stations;
+
+
+
+* the use of mobile telephony as a location system, with accuracy likely
+
+to be refined to a few metres in the near future;
+
+
+
+* the growth in a 5-10 year timescale of visual substitution systems, which
+
+capture information using cameras, process them rapidly using special algorithms
+
+to extract key features and then present them to users in a multi-modal
+
+display; and
+
+
+
+* in the longer term, the development of direct cortical stimulation to
+
+mimic sight should advance, although this field currently seems stalled
+
+because of an imperfect understanding of how the brain works.
+
+
+
+There were also important social background trends to bear in mind in the
+
+medium term, Gill said. These included demographic changes which would
+
+see more older people, with multiple sight problems such as poor contrast
+
+sensitivity and poor accommodation. Inclusive design of systems like digital
+
+television sets would therefore become even more important: if people had
+
+to press buttons on a control and read a screen at the same time, for example,
+
+such multiple sight problems would become a severe handicap.
+
+
+
+Unfortunately, competitive pressure on manufacturers is so high that they
+
+have little time or resources to make their technologies accessible, he
+
+said. This meant legislation to enforce accessibility would be needed,
+
+but before that could be put in place further work was needed to establish
+
+scientific standards on which to base such legislation.
+
+
+
+Tyler said that although the high-tech business arena is extremely complex
+
+and fast-moving, the RNIB must make it a priority to deal with manufacturers
+
+directly at the same time as pressing the government for legislative changes.
+
+
+
+"We must sell mainstream access into business. Also mainstream development
+
+is vital, because visually impaired people mainly access information through
+
+ordinary, not specialist devices."
+
+
+
+But as well as presenting access challenges, the web and other technologies
+
+offered enormous possibilities for the RNIB in providing its own information
+
+services, he said.
+
+
+
+Stephen King, Director of the RNIB's Technical and Consumer Services, said
+
+that in tackling access issues it was vital to take an integrated approach
+
+which simultaneously combines researching user needs; finding technical
+
+solutions; working on industry standards; and pushing for legislation.
+
+
+
+"A technical solution on its own doesn't work, it's just a pilot. A standard
+
+on its own doesn't work: it needs legislation. And a regulatory framework
+
+on its own doesn't work, there needs to be a technical solution. So we
+
+need to take an integrated approach."
+
+
+
+It was also vital to spot and influence access issues very early on in
+
+the development of a technology, he said, because technologies are designed
+
+very early on. There was therefore a corresponding need to understand what
+
+the requirements are from the blind and visually impaired community at
+
+an early stage, based on solid research of how blind people use technology.
+
+Without this, lobbyists could find themselves in the embarrassing position
+
+of influencing a design only to find it did not actually meet a real need
+
+after all.
+
+
+
+There was also a need to influence the hearts and minds not only of politicians
+
+but of the designers of new technology - many of them young people - to
+
+make them want to participate. "If the 25-year-old who is designing an
+
+interface for everybody to use does not understand what we need and want
+
+to do it, it will not get designed in. So we need to work with industry,
+
+work out how they are going to develop standards and influence them with
+
+sound ergonomic research".
+
+
+
+Finally, the RNIB should explore all possibilities to work closely with
+
+international partners to draw in wider expertise and to help influence
+
+an industry which is global, he said. The benchmark for future success
+
+should be the current design of a telephone keypad, he said, which is universal
+
+and was developed with input from the RNIB. 
+
+
+
+Colin Low, Vice Chairman of the RNIB, suggested that the RNIB should try
+
+to influence the work of the new Disability Rights Commission, of which
+
+he is a member. "The commission is an institution which the government
+
+has created to move disability issues up the political agenda. We need
+
+to take it at face value and work with it.
+
+
+
+"Although I have to say that promoting inclusive design is not high up
+
+on the commission's agenda, unless people like us do a bit of pushing it
+
+might not get as high up the agenda as it should be." He said there was
+
+a general tension within the commission over whether to put its weight
+
+behind calls for new legislation or whether education and persuasion were
+
+the way forward. The outcome was likely to be a combination - "advocacy
+
+with teeth".
+
+
+
+Initial conclusions of the ISAG meeting have been collated by Stephen King
+
+in a discussion document to be placed before the RNIB's Policy Committee
+
+on 10 May. After discussion this paper will lead towards a green paper
+
+developed over the summer to feed into RNIB's strategic planning process
+
+in the autumn. 
+
+
+
+The full text of this document is reproduced below: if you would like to
+
+comment on it, or obtain copies of the various formal background papers
+
+on technology and access issues which were considered by ISAG, please email
+
+Pam Hichens on phichens@rnib.org.uk
+
+
+
+
+
+PRELIMINARY CONCLUSIONS FROM ISAG STRATEGY MEETING, BY STEPHEN KING
+
+
+
+PEOPLE FIRST
+
+We need to be careful to start with people and their needs and wants first,
+
+rather than the technology. An overall framework of ensuring people can
+
+carry on doing what other people do is a helpful way of prioritising.
+
+
+
+We developed a broad framework around ensuring access and use of financial
+
+and payment systems; communications systems; everyday cultural media and
+
+events; the technologies used in everyday learning and employment; health
+
+support information and systems; everyday living (shopping, transport,
+
+housekeeping, eating out, etc); and citizenship. In all these areas we
+
+anticipate change in the way people interact with technology over the next
+
+few years.
+
+
+
+INFORMATION SOCIETY IS WIDER THAN INFORMATION TECHNOLOGY
+
+The human intermediary, skilled in description, may become even more important,
+
+and the explosion of available information may mean an information overload,
+
+leading to the need for new strategies. There is the potential for significant
+
+changes to the way we live, eg closing bank branches or less travel. The
+
+concept of universal or inclusive standards of service are as important
+
+as concepts of inclusive system and product design.
+
+
+
+LIVING WITH NEW AND OLD TECHNOLOGIES
+
+Because of the affordability issue and the demographics of people with
+
+serious sight loss, many people we deal with will be using old technologies
+
+for a long time. Particularly if the new technology proposes significant
+
+new learning overheads. At the same time other segments are likely to be
+
+early adopters of new technologies that bring significant advantages. The
+
+PC is a good example of this. Digital TV is likely to be a much bigger
+
+example. We are going to have to work with a long tail of old technologies.
+
+
+
+WORK NEEDED IN RELATION TO EXISTING TECHNOLOGIES
+
+Many of the existing technologies (mobile phone, PC, TV, Bank ATMs, etc)
+
+still present major challenges but also benefits. And they will be with
+
+us for many years. The barrier is training, enabling people to (continue
+
+to) use. This is a huge resource issue still, enabling people to take advantage
+
+of what is already there.
+
+
+
+DEVELOPING OUR KNOWLEDGE OF NEW TECHNOLOGY AND USER NEEDS
+
+We need to understand technologies and their likely impacts early enough
+
+in the development cycle to influence them. And develop user needs, perhaps
+
+when few users know what the benefits may be. The key issue however is
+
+to ensure we develop user needs from good research.
+
+
+
+INTEGRATED STRATEGIES FOR INFLUENCING NEW TECHNOLOGY
+
+We concluded that no one approach is enough on its own. We need well developed
+
+campaigns: for regulation, for hearts and minds, and for funding. We need
+
+good human factors research. We need to have persuasive and expert consultants
+
+there at the right time to give advice, we need technical solutions, and
+
+as important, demand from consumers. We need to develop long term sophisticated
+
+strategies and stick with them.
+
+
+
+EMERGING PRIORITY AREAS EG BROADCASTING
+
+There was a general consensus that the changing face of broadcasting and
+
+its new interactive dimensions was a priority area for us to increase our
+
+efforts. This is likely to feed strongly into cultural, daily living and
+
+financial inclusion. To do this we need to build on our industry contacts.
+
+
+
+STRATEGIES FOR SKILLING AND REACHING PEOPLE
+
+The other huge challenge is to develop new strategies for skilling people
+
+to (re)learn how to use everyday technology, or adaptions that can help.
+
+Though inclusive design may make things easier, the generality of training
+
+and instructions assume visual feedback. Perhaps this is the major area
+
+for us to develop our volunteer activity at the field level. This connected
+
+to trained describers.
+
+
+
+INTERNAL ORGANISATION AND COLLABORATION
+
+To deliver the complex and multi dimensional strategies needed, we need
+
+expertise from right across the organisation. We have to get better at
+
+working across the organisation. We also need to be able to move and respond
+
+very quickly. Inevitably this will mean problems and costly mistakes and
+
+blind alleys. But we have to empower people to act at the speed industry
+
+and commerce are working to.
+
+
+
+BUILDING SERVICES ON WHAT WE ALREADY HAVE
+
+We have a lot of expertise and services around information and we should
+
+build out from these. Our strategic intent is knowledge and expertise development
+
+and beacon of good practice so we can campaign effectively as well as provide
+
+service. Overall, building services from where we are is lower risk than
+
+moving into new markets and new products.
+
+
+
+We already act as a file translation intermediary (braille/large print/audio)
+
+and we need to adapt this to adapting/enhancing all sorts of digital media.
+
+We have an excellent web site, where we can develop chat rooms, emotional
+
+support services, webcasting and other audio initiatives. We have expert
+
+information design knowledge that can be developed into consultancy skills
+
+as well as courses for delivery by us and others.
+
+
+
+We have expertise in organising volunteers, where we could develop new
+
+skills, and develop courses and structures for a new generation of information
+
+intermediaries (readers, describers, etc). We have good contacts in the
+
+broadcast media and arts communities that we can build on.
+
+
+
+WORK WITH INDUSTRY IN THE SAME WAY WE WORK WITH GOVERNMENT
+
+Influencing industry is probably now equally or more important that influencing
+
+government. We need to develop these skills and build supporter networks.
+
+This will involve behaving in a more "businesslike" way, which will be
+
+a cultural challenge. Ideas such as "accessibility awards" in the industry's
+
+own awards structure rather than our own awards such as See it Right.
+
+
+
+
+
+***********************************
+
+SECTION THREE - THE WEB:
+
+SPEECH-ENABLED PORTALS
+
+***********************************
+
+
+
+TALKING TO THE WEB? JUST SAY QUACK
+
+
+
+A new breed of web portal that you can access by ordinary telephone - no
+
+need for a 'web-enabled' mobile phone - is under development in the US
+
+and set to cross the Atlantic, in a potentially valuable development for
+
+blind and visually impaired web users.
+
+
+
+Several big players have already explored the possibilities of voice access
+
+to their e-commerce sites in the US including telecoms giant AT&T, the
+
+online video store BigStar.com and the auction site Priceline.com. However,
+
+it is now recognised that the potential of voice access extends beyond
+
+e-commerce to new 'voice portals' - gateways to a whole range of information
+
+online that can be accessed using a phone instead of a visual browser.
+
+
+
+The services generally use an automated system that responds to a combination
+
+of voice and key-pad commands. They can then translate the information
+
+you give into commands to seek certain information from the internet, which
+
+can then be relayed back to you using a computer-generated voice.
+
+
+
+One of the first voice portals, launched this month across the US, is Quack.com,
+
+which allows anyone to access specific information from the internet by
+
+phone. Users dial a freephone number and speak to an automated host who
+
+guides the caller to the information they want by asking simple questions.
+
+
+
+Central to the service is its ability to offer 'personalised' information.
+
+When users sign up, they key in preferences on the Quack.com web site which
+
+then allows callers to automatically access information on specific share
+
+prices, regional weather, specific sports teams and other topics via the
+
+phone.
+
+
+
+"While our service wasn't originally designed with visually impaired people
+
+in mind, it has become apparent that it's very useful for that particular
+
+group," Quack spokesman Alex Quilici told E-Access Bulletin. He said visually
+
+impaired users have offered positive feedback and suggestions for additional
+
+services.
+
+
+
+Information (which is channelled from a variety of different web sources)
+
+is currently limited to news and lifestyle topics including the weather,
+
+film reviews and news, restaurants, sports, stocks and shares, travel and
+
+traffic news. Quack intends to offer more sophisticated services in due
+
+course, including the ability to shop online. "As a result of the technology's
+
+flexibility, the company can quickly add new applications and features,
+
+and a range of new consumer services is currently in development," the
+
+company says.
+
+
+
+Just as impressive as the technology is the fact that Quack is free to
+
+use. Calls are made to freephone numbers and registration is free. So where's
+
+the catch? Although the Quack web site fails to refer to it directly, the
+
+service does carry short advertisements which are slotted in depending
+
+on what information is being accessed by the caller. However, Quilici says
+
+that all ads are opt-in (in other words the user has an option to request
+
+further details) and must be informative - "For example, if someone requests
+
+a baseball score for the Minnesota Twins, the ad might be 'would you like
+
+to know about the Twins upcoming home games?"
+
+
+
+So when will the UK see its first voice portal? Given the companies involved
+
+in voice access to the internet a UK appearance appears certain in the
+
+near future. IBM, AT&T, Amazon.com and Deloitte and Touche are all involved
+
+in developing the technology and it is inevitable they will be looking
+
+to markets beyond the US in the next few years.
+
+
+
+For more on Quack see:
+
+www.quack.com
+
+
+
+******************************************
+
+* * * ISSUE ENDS * * *
+
+******************************************
+
+
+
+HOW TO RECEIVE THIS BULLETIN
+
+To subscribe to this free monthly bulletin,
+
+e-mail eab-subs@headstar.com with 'subscribe eab' in the subject header.
+
+You can list other email addresses to subscribe in the body of the 
+
+message. Please encourage all your colleagues to sign up!
+
+
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+
+
+Please send comments on coverage or leads to
+
+Dan Jellinek at: dan@headstar.com
+
+
+
+********************************
+
+Published by Headstar Ltd www.headstar.com
+
+Copyright 2000 Headstar Ltd
+
+The Bulletin may be reproduced in full as long as all parts including this
+
+copyright notice are included. Sections of the report may be quoted as
+
+long as they are clearly sourced as 'taken from e-access bulletin, a free
+
+monthly email newsletter', and our web site address (www.e-accessibility.com)
+
+is also cited.
+
+******************************* 

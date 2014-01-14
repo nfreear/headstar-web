@@ -1,0 +1,52 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:03 2004 __
+
+Input file: ../eab/issues/2003/aug2003.txt
+
+Warning: file already exists: ../eab/issues/2003/aug2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: aug | index: 8 | year: 2003
+URLs, prev: ../2003/jul2003.html | next: ../2003/sep2003.html
+Found ++, heading 2: CORRECTION: JULY ISSUE.
+Found ++, heading 2: ISSUE 44 CONTENTS.
+>> FOUND 2:  | 01:  | Assistive technology users 'poorly served'
+>> FOUND 2:  | 02:  | Accessible procurement plans on hold
+>> FOUND 2:  | 03:  | Colleges slow to take up free software offer
+>> FOUND 2:  | 04:  | Mobile showdown set for autumn.
+>> FOUND 1: News in brief:  | 05: New arenas - online forums; 06: Maths myths -
+>> FOUND 2:  | 08:  | Radio signals - internet stations; 09: Spanish lessons - audio and
+>> FOUND 2: Braille resources;  | 10:  | Suite success - Shropshire project.
+OK, News in brief
+Found: Suite success - Shropshire project | . | 
+>> FOUND 2:  | 11:  | Speak no evil: As testing by a 50-strong group of disabled users
+>> FOUND 2:  | 12:  | Building a dream. Will the Disability Discrimination Act help to
+Warning line 62: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | ASSISTIVE TECHNOLOGY USERS 'POORLY SERVED'.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | ACCESSIBLE PROCUREMENT PLANS ON HOLD.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | COLLEGES SLOW TO TAKE UP FREE SOFTWARE OFFER.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | MOBILE SPEECH SHOWDOWN SET FOR AUTUMN.
+Warning: not found a 'contents' match: Mobile Speech Showdown Set For Autumn.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  Two online discussion forums for people
+> ITEM 1:  06:  | : |  An email group has been set up by a blind
+> ITEM 1:  07:  | : |  The UK's main conference organised by and for
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Last issue Peter Petersen wrote in with a
+> ITEM 1:  09:  | : |  We have received a few offers of
+> ITEM 1:  10:  | : |  Susan White of Shropshire County Council
+Found ++, heading 2: SECTION THREE: RESEARCH
+> ITEM 2:  11:  | SPEAK NO EVIL
+Warning: not title-casing possible HTML:
+  11: SPEAK NO EVILby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: SPEAK NO EVILby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2:  SECTION FOUR: OPINION
+> ITEM 2:  12:  | BUILDING A DREAM
+Warning: not title-casing possible HTML:
+  12: BUILDING A DREAMby Andres Crespo  <a href="mailto:andres.crespo@londonconnects.org.uk">andres.crespo@londonconnects.org.uk</a> .
+Warning: not found a 'contents' match: BUILDING A DREAMby Andres Crespo  <a href="mailto:andres.crespo@londonconnects.org.uk">andres.crespo@londonconnects.org.uk</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

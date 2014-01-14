@@ -1,0 +1,645 @@
+* E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site (including archive):
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for the Blind
+<http://www.rnib.org.uk>
+and the National Library for the Blind
+<http://www.nlbuk.org>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+NOTE: As a navigation aid to those using screen readers, all headings 
+begin with an asterisk and end with a full stop. Please let us know if there 
+is anything else we could do to make navigation of the bulletin easier.
+
+[Issue starts.]
+
+* ISSUE 26, FEBRUARY 2002.
+
+* CONTENTS.
+
+- RNIB to audit sites for free in 'See it right' campaign.
+
+- E-voting could boost access: local election trials.
+
+- Access costs not excessive, says powerful European committee.
+
+- Irish bill goes back to drawing board - government bows to objections.
+
+- Treasury ahead in government awards.
+
+- News in brief: Web hosting for visually impaired; Joe Clark book; 
+Book sharing service launches.
+
+Section two - ‘The Inbox'
+Readers forum.
+
+Section three: E-learning
+- Open door policy: the Open University is has ambitions to become the 
+UK's leader in accessible e-learning technology, Dan Jellinek reports.
+
+Section four: Conference preview – CSUN.
+This year's ‘Technologies and persons with disabilities’ conference looks 
+at training and educational issues, writes Phil Cain.
+
+Section five: Health – access to electronic records.
+The introduction of electronic health records should inspire doctors to 
+make their communications more accessible, says Kevin Carey.
+
+[Contents ends.]
+
+
+* SECTION ONE - NEWS.
+
+* RNIB TO AUDIT SITES FOR FREE.
+
+The RNIB is to offer free web site audits to a series of selected high-
+profile UK organisations over the next two years, in a new phase of its 
+‘See it right’ campaign funded by financial services group Standard Life.
+
+Standard Life is providing 50,000 pounds a year for two years, plus a 
+member of staff on secondment, to allow RNIB to offer the free audits to 
+around 50 organisations a year at an estimated cost of between 600 and 
+1,450 pounds per audit. After two years the process will be reviewed.
+
+Anyone is free to apply, but the organisations to be audited will be 
+selected to represent a cross-section of sectors including retail, charity, 
+travel, education, utility and telecommunications, and government. It is 
+hoped the initiative will raise awareness of web accessibility issues 
+across society.
+
+The ‘See it right’ scheme has already audited several major organisations 
+including Tesco.com, Marks & Spencer, PSI Group, BT, the British 
+Library, and the government’s web portal UK Online. Standard Life is 
+committed to making all of its own web sites accessible by the end of the 
+year.
+
+The audits will use the world wide web consortium’s ‘WAI’ accessibility 
+standards (http://www.w3c.org/wai), and the RNIB estimates that the 
+cost of making the average site accessible following audit will be 
+between one and two per cent of original design costs.
+
+Colin Low, the chairman of RNIB, said the inaccessibility of most web 
+sites currently means that for example “blind people were not able to fill 
+in census returns in privacy online, or book a seat at the theatre without 
+having to hang on the telephone for an eternity”.
+
+He said the internet could bring a vast amount of information within 
+reach of blind people for the first time, and with 8.7 million people with 
+disabilities in the UK exercising spending power of more than 40 billion 
+pounds, it makes strong business sense for companies to embrace 
+inclusive design.
+
+
+* E-VOTING COULD BOOST ACCESS.
+
+This year's UK local government elections, due to take place in May, 
+will see trials of internet voting, telephone voting and electronic kiosk 
+voting overseen by the Department for Transport, Local Government and 
+the Regions.
+
+One of the most compelling arguments for electronic voting is that it 
+could offer people with disabilities, including the blind and visually 
+impaired, the chance to vote in complete privacy for the first time.
+
+Five local authorities - Nantwich, Liverpool, Sheffield, Swindon and St 
+Albans - will offer constituents the chance to vote using ordinary 
+computers or phones. Two of these - Sheffield and St Albans - together 
+with Chester, will also offer the option to vote using a computer kiosk. It 
+is not known if the kiosks will contain speech software or if they will 
+have tactile cues on the keypads.
+
+Not all of these trials have had details of their private sector partners 
+confirmed, but Liverpool and Sheffield city councils are in talks with 
+telecoms giant BT and online voting company election.com; while 
+Swindon is believed to be discussing its options with the elections body 
+Electoral Reform Services. Both BT and the ERS said their systems 
+would be accessible.
+
+The DTLR has told E-Access Bulletin that all of the systems shortlisted 
+will be compliant with the Disability Discrimination Act.
+
+Meanwhile the Irish government this week announced it too is to try out 
+electronic voting systems in May. Kiosk systems will be used to cast and 
+count votes in Dublin North, Dublin West and Meath in the country's 
+upcoming general election. However, the government has ruled out the 
+use of a voice-activated voting system in the trial because of its cost. See:
+http://www.environ.ie/pressindex.html
+
+
+* ACCESS COSTS NOT "EXCESSIVE".
+
+EU member states need to be told web accessibility need not be 
+excessively expensive, the European Union's powerful Economic and 
+Social Committee said this week.
+
+The comments came in response to a recent European Commission 
+communication encouraging European institutions and member states to 
+make their web presence accessible (see EAB, October and November 
+2001).
+
+The committee also said there is a need for developers and disabled users 
+to participate in joint training. It pledged to make its own web site 
+accessible by the end of the year.
+
+The pronouncements follow research into accessibility issues by Miguel 
+Angel Cabra de Luna, director of Spanish charity for the blind ONCE, on 
+behalf of the ESC. A report will be posted shortly onto the committee's 
+web site (http://www.esc.eu.int).
+
+
+* IRISH BILL GOES BACK TO DRAWING BOARD.
+
+The Irish government has decided to postpone the reading of its 
+Disability Bill in the Dial, the Irish parliament, in the face of "unanimous 
+objections" from disability rights organisations during the consultation 
+period.
+
+The bill, which was due to be introduced last week, was lambasted by 
+pressure groups which said it fails to confer sufficient rights to people 
+with disabilities, their parents, siblings and carers.
+
+The draft bill did say public sector bodies must ensure their buildings and 
+information are made available to everyone, "so far as practicable". But 
+critics pointed out that Section 47 of the bill would deny the right to 
+redress through civil courts.
+
+According to Gerry Ellis, an accessibility consultant and former 
+chairperson of People with Disabilities in Ireland: "There is nothing [in 
+the bill] about any rights to access to information technology. No powers 
+for any ombudsman or other authority to ensure access. No mention of 
+public procurement policy including accessibility as part of its criteria. 
+Nothing about accessibility being a condition for the granting of a third-
+generation mobile phone licence. In other words, there may be theory, 
+but nothing to make us feel that there will be actual progress."
+
+To read more about the bill, see the following accessible links site 
+compiled by campaigner Barry McMullin:
+http://wai.rince.ie/white-papers/2002/legislation
+
+
+* TREASURY OF INFORMATION.
+
+Accessibility is a central judging criteria for this year’s UK Government 
+Internet Awards, due to be announced on 18 March by the government's 
+Central Office of Information.
+
+E-Access Bulletin understands that the HM Treasury web site 
+(http://www.hm-treasury.gov.uk) is favourite to win a special award for 
+accessibility. The site is approved by the ‘Bobby’ accessibility checker 
+(http://www.cast.org/bobby) and offers a full text-only version.
+
+The overall winner of best government site will also be a site with clear 
+layout and easy navigation. For more information on the awards see:
+http://www.internetforum.gov.uk
+
+
+* NEWS IN BRIEF:
+
+* VIP HOSTING: A web hosting service specifically aimed at blind and 
+visually impaired people, 'VIP Lorimernet', was launched last month:
+http://www.lorimernet.co.uk
+
+* NOVEL BOOK: 'Building accessible web sites', a book by US media 
+access guru Joe Clark, is due out this spring:
+http://www.joeclark.org/book
+
+* SHARE LAUNCH: Bookshare, the online e-book sharing platform, 
+launched last week, offering access to bestsellers including A Beautiful 
+Mind, John Adams, and The Fellowship of the Ring. At present 
+copyright restrictions mean the service is available only to disabled US 
+citizens:
+http://www.bookshare.org
+
+[Section one ends.]
+
+
+* SECTION TWO - ‘THE INBOX’
+- READERS’ FORUM.
+- Please email all contributions or responses to inbox@headstar.com
+
+* XP RESULT: In our last issue Paul Evans, Technology Project Officer 
+with the RNIB's Technology in Learning and Employment programme, 
+asked for information on Windows XP and accessibility. Erin Renschler 
+of Microsoft's corporate PR agency obliged with a link to a relevant 
+feature on Microsoft's web site:
+http://fastlink.headstar.com/xp
+Erin also sent in another relevant press release and a fact sheet for Paul. 
+If other readers are interested in receiving a copy of these please email 
+Tamara Fletcher on tamara@headstar.com with a message saying 'XP 
+Access'.
+
+* OUTLOOK FAIR: Meanwhile Sandy Bannister is looking for a 
+manual or tutorial on Microsoft Outlook 2000. If anyone knows of one 
+which is accessible please email inbox@headstar.com
+
+[Section two ends.]
+
+
+* SECTION THREE: E-LEARNING
+- OPEN UNIVERSITY.
+
+* OPEN DOOR POLICY.
+
+The Open University (http://www.open.ac.uk), the distance-learning 
+institution that is Britain’s largest higher education body, is set to 
+become the UK’s largest developer of accessible learning technology as 
+well.
+
+The OU currently serves around 140,000 undergraduate students, of 
+whom more than 7,500 have some kind of disability. Around 900 are 
+blind or visually impaired.
+
+As a distance learning pioneer, technology plays a central role in the 
+university’s courses, with its own electronic conferencing system 
+allowing students on more than 150 courses to exchange more than 
+150,000 messages a day.
+
+Last year, the university announced in this bulletin that it was to create a 
+Centre for Assistive Technology and Enabling Research (CATER) for 
+disabled students, backed by one million UK pounds from the Higher 
+Education Funding Council for England, in the largest project of its kind 
+in the UK (see E-Access Bulletin, January 2001).
+
+The centre is now up and running and headed by Ralph Keats, who used 
+the RNIB’s recent ‘Techshare’ conference to explain the university’s 
+plans for improving access.
+
+“Far too often in the past we have created courses and then looked at 
+accessibility afterwards as a bolt-on,” he said. “We had to fight for every 
+scrap of funding. But now it is at the heart of everything we do – I can’t 
+believe the changes that have taken place over the past three years.”
+
+The Open University has recently been granted the power to act as its 
+own awarding authority for disabled student allowances, without having 
+to go through central government, Keats said. Since each student with 
+disabilities may require as much as 4,500 pounds worth of specialist 
+technology for work leading to a degree, “we acquired a lot of buying 
+power overnight. Last year we spent three million pounds on access 
+technology.”
+
+Increased influence came along with the spending power, he said, 
+“Suppliers want your business and so will work with you and we can 
+help to raise standards."
+
+CATER is gearing up to work with everyone involved in putting out OU 
+courses, from graphic designers to those creating CD-ROM packs, to 
+help ensure their work is accessible. It is also going to assess new 
+learning technologies as they appear, for their potential.
+
+One of the main access technologies the university is currently 
+developing is ‘DREAM’ (Digitally Recorded Educational Audio 
+Materials), a project which intends to replace analogue audio recording 
+of course materials with digital recording, to enhance their quality, 
+interactivity and accessibility.
+
+Some 1,200 OU students currently access courses by audio cassette, 
+including the 900 visually impaired people plus a further 300 with 
+dyslexia or manual impairments. Sound quality can be poor, however, 
+and degrades over time, and searching for material across a course of 
+several cassettes is all but impossible. Furthermore when courses are 
+revised every few years, an entirely new set of analogue tapes needs to 
+be created.
+
+With digitised texts, there are a range of user interfaces from which 
+students can choose, as well as approved accessible web interfaces to 
+course information and work for blind students.
+
+Another institution leading the way in accessible online learning is the 
+Royal National College for the Blind (http://www.rncb.ac.uk), an 
+independent national and international specialist further education 
+college.
+
+“The college aims to help learners control and manage their own 
+learning, and this brings a heavy emphasis on control of computer 
+systems,” said Tim Ashmore, RNCB learning support manager.
+
+“However, there is no consistent national approach at the moment in 
+training teachers in online learning. There are pockets of activity, for 
+example at the education technology agency Becta, but where is the 
+consistent strategy that we can tap into?”
+
+The college has its own intranet for teachers and students, ‘RNC 
+Intralearn’, and students are gradually taught how to access learning 
+materials for themselves, Ashmore said. “Many learners do not  have the 
+basic skills, so we are making it part of the core curriculum. There are 
+other problems, including funding, but this is the only way to go, not 
+least because we want our learners to continue to use these technology 
+skills beyond their college courses.”
+
+Shirley Evans, RNCB learning technology co-ordinator, said the college 
+had reviewed around 30 different ‘virtual learning environment’ products 
+for their accessibility. “Accessibility as a huge issue, but the core test 
+seemed to be: did the environment work with a screen reader?” she said.
+
+The answer to many of the problems faced by the college and other 
+educational institutions as likely to be at least partly the establishment of 
+specialist teams of teachers nationally who could help teachers locally 
+with accessibility issues, Evans said.
+
+Whatever the solutions, time is running out for both specialist and 
+mainstream education providers to get these issues right. Under the new 
+Special Educational Needs Disabilities Act (SENDA), from September 
+2002 it will be unlawful for all education providers to discriminate 
+against disabled students by treating them less favourably than others, 
+and institutions will be required to make adjustments including making 
+electronic courseware accessible; and allowing disabled people equal 
+access to technical support for their equipment (see 
+http://www.techdis.ac.uk/articles/SENDRE.htm).
+
+The Open University’s Ralph Keats acknowledges that there will always 
+be problems making some types of course accessible, for example music 
+courses where special notations may be used, current affairs courses 
+where material needed to be up to the minute, and any new course where 
+materials were still being developed.
+
+But he said the SENDA plus possible support from the Human Rights 
+Act meant visually impaired students would have more legislative help 
+than ever before in seeking accessibility. “We’ve never had it so good.”
+
+[Section three ends.]
+
+
+* SECTION FOUR: CONFERENCE PREVIEW
+- CSUN.
+
+* A VIRTUAL TRAINING COMMUNITY.
+
+This year's annual 'Technologies and persons with disabilities' 
+conference at the Center on Disabilities, California State University 
+(CSUN – http://www.csun.edu/cod) is focusing on the educational 
+challenges of assistive technology. Topics to be covered include training, 
+online teaching, and the access conundrums posed by non-Roman 
+writing systems such as Braille, mathematics and musical notation.
+
+The following is a round-up of some of the main sessions relating to 
+blindness and visual impairment, with links to the relevant session 
+summaries.
+
+Hans Russman of the Institute for Blind and Partially Sighted in 
+Denmark has created a training course to help blind computer users pick 
+up tips from sighted colleagues. To do this the institute uses tactile 
+diagrams to illustrate the format of typical Windows screens:
+http://www.csun.edu/cod/conf2002/proceedings/163.htm
+
+Brian Hardy and Brian Charlson, meanwhile, will outline the results of a 
+US-Australian trial of 'community models' in training people to use 
+information technology outside the workplace:
+http://www.csun.edu/cod/conf2002/proceedings/156.htm
+
+A paper outlining how UK-based trainer's skills will in the future be 
+assessed, certified and updated will be presented by Steve Tyler, from 
+the RNIB, and Sarah Morley of the British Computer Association for the 
+Blind:
+http://www.csun.edu/cod/conf2002/proceedings/153.htm
+Meanwhile Elizabeth Cohen and Walter Kimble of the University of 
+Southern Maine will explain how they are using the internet to train and 
+certify university educators in assistive technology:
+http://www.csun.edu/cod/conf2002/proceedings/232.htm
+
+Debra Bauder from the University Of Louisville and Debbie Sharon of 
+the Bluegrass Technology Center will explain how assistive technology 
+training is delivered direct to the end user for free in Kentucky using the 
+internet:
+http://www.csun.edu/cod/conf2002/proceedings/225.htm
+
+More general e-learning topics are also given prominent billing with a 
+talk on the development of peer-reviewed lecture note distribution 
+platform Merlot:
+http://www.csun.edu/cod/conf2002/proceedings/9.htm
+There will also be a demonstration of software that creates accessible 
+narrated PowerPoint presentations, by Dick Banks of Equal Access to 
+Software and Information:
+http://www.csun.edu/cod/conf2002/proceedings/229.htm
+
+Bill McAmis of the Bakersfield City School District will explain how his 
+education authority installed a bilingual and accessible intranet in its 
+elementary schools in California. To give an idea of the scale of the 
+challenge, McAmis notes that the schools teach more than 28,000 
+elementary school students:
+http://www.csun.edu/cod/conf2002/proceedings/295.htm
+
+Donna McNear of Rum River Special Education Cooperative and Larry 
+Lewis and Jim Halliday of HumanWare will also examine bilingualism 
+in the classroom, in considering the high tech needs of students learning 
+in Braille:
+http://www.csun.edu/cod/conf2002/proceedings/102.htm
+
+For those struggling to learn Braille, Mimi Berman from Independent 
+Living Aids in Jericho will demonstrate the BrailleMaster. The machine 
+teaches Braille dot patterns, level two contractions and the most 
+commonly used English words:
+http://www.csun.edu/cod/conf2002/proceedings/249.htm
+
+Glen Gordon of Freedom Scientific will preview the company's next 
+generation of Braille note-taking devices. These will incorporate a web 
+browser and the ability to play streaming audio:
+http://www.csun.edu/cod/conf2002/proceedings/111.htm
+
+VisuAide's Yvan Lagace will preview the development of a portable 
+orientation device that could be used in conjunction with Braille note 
+takers by the end of June this year. Victor Escort, as the global 
+positioning system (GPS) will be known, will be adapted to work with a 
+wider range of personal digital assistants in 2003:
+http://www.csun.edu/cod/conf2002/proceedings/268.htm
+
+Yoshinobu Maeda of Japan's Niigata University will present research 
+suggesting that the descriptions given to users of GPS orientation 
+systems should give information about both landmarks and intersections:
+http://www.csun.edu/cod/conf2002/proceedings/296.htm
+
+The advent of Section 508, which requires US government agencies to 
+provide accessible information, is high on the CSUN agenda this year. 
+Among presentations on this topic is one from representatives of the US 
+Internal Revenue Service, which will say: "Section 508 provides a 
+tremendous opportunity for us to improve service to all of our 
+customers":
+http://www.csun.edu/cod/conf2002/proceedings/49.htm
+
+Karl Hebenstreit Jr of the General Services Administration, the US 
+procurement department, will outline a development process known as 
+'bootstrapping' in which the users of software help make it more 
+accessible:
+http://www.csun.edu/cod/conf2002/proceedings/195.htm
+
+Jim Fruchterman, the man behind the development of the JAWS 
+screenreader and now head of technology nonprofit Benetech, will 
+provide an update on the progress of the recently launched US digital 
+book sharing platform Bookshare:
+http://www.csun.edu/cod/conf2002/proceedings/135.htm
+Meanwhile, Larry Skutchan and Keith Creasy from the American 
+Printing House for the Blind will show how to create electronic books in 
+the new DAISY 3.0 e-book format using a program called BookMaster. 
+Skutchan told E-Access Bulletin that the software is expected to be 
+released in April and will cost around 350 dollars:
+http://www.csun.edu/cod/conf2002/proceedings/158.htm
+
+Also debuting at CSUN are prototype web browser WebIE and 
+Organiser, an aptly named personal organiser. Paul Blenkhorn and 
+Gareth Evans, the creators of these two pieces of Microsoft-enhancement 
+software, conducted their research at the University of Manchester 
+Institute of Science and Technology in the UK, with the financial 
+assistance of the Guide Dogs for the Blind Association:
+http://www.csun.edu/cod/conf2002/proceedings/55.htm
+
+Deborah Gilden from the Kettlewell Eye Research Institute is also 
+hoping to help visually impaired people make the most of Microsoft 
+software. "Few realise that Microsoft Office applications include many 
+features that, although not intended for low-vision viewers, can serve as 
+even more powerful and flexible tools for making screen images 
+accessible," Gilden says:
+http://www.csun.edu/cod/conf2002/proceedings/206.htm
+
+John Gardner of Oregon State University will announce progress in 
+solving the knotty problem of providing access to mathematical notation 
+(see section three, January 2002). A beta version of a mathematical text 
+editing suite called WinTriangle has been in testing since September last 
+year:
+http://www.csun.edu/cod/conf2002/proceedings/300.htm
+Nancilu McClellan will also address the problem of accessible 
+mathematics in a talk outlining how to use the speech recognition 
+capabilities of Dragon's NaturallySpeaking Professional and Dragon 
+Dictate:
+http://www.csun.edu/cod/conf2002/proceedings/103.htm
+
+William McCann and David Pinto of Dancing Dots will demonstrate 
+how JAWS screenreader scripts can be used by blind people to record, 
+edit and notate music using mainstream computers packages:
+http://www.csun.edu/cod/conf2002/proceedings/264.htm
+
+On an international note, Hiroyuki Nakamura from the Japanese Institute 
+for Communication Environment will plead for harmonisation in the 
+accessibility standards-setting processes being developed by different 
+countries. He outlines how Japanese access rules have become confusing 
+and contradictory because they have been set by two different bodies, the 
+Ministry of Posts and Telecommunications and the Ministry of 
+International Trade and Industry:
+http://www.csun.edu/cod/conf2002/proceedings/272.htm
+
+[Section four ends.]
+
+
+* SECTION FIVE: HEALTH
+- ELECTRONIC RECORDS.
+
+* PSYCHOLOGY BEFORE TECHNOLOGY.
+by Kevin Carey  humanity@atlas.co.uk
+
+The key question in Umberto Eco’s novel ‘The name of the rose’ is 
+whether the monks are keeping their books from people or for them. The 
+same question might be put to lawyers stubbornly sticking to their Latin 
+and doctors who are still wedded to Greek. This may be fine enough in 
+law where most people expect lawyers to represent them but it is no 
+longer acceptable in health care, where people want much more control 
+over what happens to them.
+
+We ought to remember it is less than two years since a paediatrician was 
+attacked because vigilantes thought he was a paedophile. Well, you may 
+know the difference between a -trician and a -phile but how many of us 
+know our -ectomy from our -otomy? Taking more control of our bodies 
+requires a better understanding of what clinicians are doing, or failing to 
+do.
+
+Dropping the Greek will no doubt help, but we will need to go a good 
+deal further than this in ensuring the digitisation of medical records also 
+increases their accessibility and usefulness. A record that is either too 
+vague or too indicative is bound to cause enquiry and distress. So it is not 
+only a matter of words but of understanding the way that human beings 
+handle information.
+
+If you have a cancer, to be told that simply there are a variety of 
+measures that might be taken or, conversely, to be given a single stark 
+statistic relating to the probable cause or outcome of the disease and 
+nothing else, is bound to cause concern.
+
+The problem is further complicated by the fact that the information 
+contained in a patient’s digital record will be compared with a mass of 
+health and medical information found by patients on the web, some from 
+NHS sites but much of it from the sites of non-governmental 
+organisations, support groups, or campaigning organisations that my rely 
+on talking up a problem to raise funds for dealing with it, not to mention 
+an explosion of ‘alternative’ therapy sites from the relatively mainstream 
+to the Druidic.
+
+If we look at digital medical records there are really three areas of 
+interest for the patient: what is this condition; how does it affect me; and 
+what should I do? The first of these questions hardly concerns traditional 
+medical records because professionals already know the background 
+detail, and the third is not strictly a matter for a record either, since it 
+concerns the future. But in the mind of the patient, all three have great 
+weight.
+
+Even if you are inclined to adopt a wholly mechanistic view of physical 
+wellbeing, that the brain has nothing to do with a stomach condition, for 
+example, there is still a serious problem in translating anatomy and 
+chemistry into humanity. With respect to personalising the condition, 
+there is not only the question of the syndrome as it relates to an 
+individual but there is also, crucially, the question of statistical 
+probability. And despite being a society that depends to a massive degree 
+on the manipulation of information we are, by and large, statistically 
+illiterate.
+
+Most of us cannot distinguish the causal from the contingent nor the 
+highly probable from the statistically possible. We live in an age where 
+the media have a vested interest in discrediting the sane statistical truth, 
+the most startling recent health-related examples being the brief hysteria 
+over necrotising fasciitis (the “flesh-eating bug”) and continuing wild 
+stories about cloning.
+
+Finally there are further, more prosaic requirements for people be able to 
+get hold of the information they need. Will the print size and font be 
+adjustable, for example, or will people be able to choose between image 
+maps and text explanations? However these questions, though vitally 
+important, are trivial next to the ones posed above about the fundamental 
+accessibility and usefulness of the information in the record. Before we 
+get too obsessed, yet again, with the technology, we need to look at the 
+psychology.
+
+NOTE: This article first appeared in our sister publication Future Health 
+Bulletin (http://www.headstar.com/futurehealth). To subscribe to the 
+plain text version of this bulletin email:
+fh-text-subscribe@headstar.com
+or for the HTML version email:
+futurehealth-subscribe@headstar.com
+
+
+[Section five ends.]
+
+
+HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail
+eab-subs@headstar.com with 'subscribe eab' in the subject header. You 
+can list other email addresses to subscribe in the body of the message. 
+Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2002 Headstar Ltd. http://www.headstar.com
+ISSN 1476-6337
+The Bulletin may be reproduced in full as long as all parts including this 
+copyright notice are included. Sections of the report may be quoted as 
+long as they are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address http://www.e-
+accessibility.com is also cited.
+
+PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  phil@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial Advisor - Kevin Carey  humanity@atlas.co.uk 
+
+[Issue ends.]

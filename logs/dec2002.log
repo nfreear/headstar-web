@@ -1,0 +1,47 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:06 2004 __
+
+Input file: ../eab/issues/2002/dec2002.txt
+
+Warning: file already exists: ../eab/issues/2002/dec2002.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: dec | index: 12 | year: 2002
+URLs, prev: ../2002/nov2002.html | next: ../2003/jan2003.html
+Found ++, heading 2: ISSUE 36 CONTENTS
+>> FOUND 2:  | 01:  | Euro grant for virtual assistant project
+>> FOUND 2:  | 02:  | Phoenix rises from ashes of cinema plan
+>> FOUND 2:  | 03:  | Mobile speech email and talking phones
+>> FOUND 2:  | 04:  | Cash boost for European year
+>> FOUND 2:  | 05:  | CareFirst - accessibility second?
+>> FOUND 2:  | 06:  | E-Access Bulletin sets newsletter standard
+>> FOUND 1: News in brief:  | 07: Driving game; 08: Braille technology minutes; 09 National 
+Warning line 68: expected [Contents ends].
+$toc_count=16
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | EURO GRANT FOR VIRTUAL ASSISTANT PROJECT.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | PHOENIX RISES FROM ASHES OF CINEMA PLAN.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | MOBILE SPEECH EMAIL AND TALKING PHONES.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | CASH BOOST FOR EUROPEAN YEAR.
+Found 'contents' match: 3.
+> ITEM 2:  05:  | CAREFIRST - ACCESSIBILITY SECOND?
+Found 'contents' match: 4.
+> ITEM 2:  06:  | E-ACCESS BULLETIN SETS NEWSLETTER STANDARD.
+Found 'contents' match: 5.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  07:  | : |  Drive, the English version of Dutch audio 
+> ITEM 1:  08:  | : |  The proceedings of 'Braille in the age of 
+> ITEM 1:  09:  | : |  The British Museum's 'Compass' web site 
+> ITEM 1:  10:  | : |  A cheap downloadable software package which can 
+> ITEM 1:  11:  | : |  The UK's Disability Rights Commission has 
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  12:  | : |  Our regular correspondent Jane Fleming 
+> ITEM 1:  13:  | : |  Following our piece on accessibility of the 
+> ITEM 1:  14:  | : |  On the topic of libraries, Mary Gwynne of 
+> ITEM 1:  15:  | : |  Katy Dymoke of the Manchester-based arts 
+Found ++, heading 2: 16: SECTION THREE: INTERVIEW
+Found ++, heading 2: 17: SECTION FOUR: FOCUS
+Found ++, heading 2: 18: SECTION FIVE: FOCUS
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

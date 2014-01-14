@@ -1,0 +1,49 @@
+__ BUILD [tens2html.pl  v1.14] log Sat Jul  3 23:09:06 2010 __
+
+Input file: ../eab/issues/2009/dec2009.txt
+
+Warning: file already exists: ../eab/issues/2009/dec2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: dec | index: 12 | year: 2009
+URLs, prev: ../2009/nov2009.html | next: ../2010/jan2010.html
+Found ++, heading 2: Issue 120 Contents.
+>> FOUND 2:  | 01:  | Call For Compliance With UN Convention Covering ICT Rights
+>> FOUND 2:  | 02:  | UK's First Educational e-Book Library Launched Online
+>> FOUND 2:  | 03:  | Automatic Captions Added To YouTube Videos
+>> FOUND 2: News in Brief:  | 04:  | New Wheelies - acclaimed disability-themed
+OK, News in brief
+Found: News in Brief:  | 04:  | New Wheelies - acclaimed disability-themed
+>> FOUND 2: Second Life nightclub reopens;  | 05:  | Borderless World - Russian social
+Found: Second Life nightclub reopens;  | 05:  | Borderless World - Russian social
+>> FOUND 2: networking portal for disabled people;  | 06:  | Egypt Debate - access and
+Found: networking portal for disabled people;  | 06:  | Egypt Debate - access and
+>> FOUND 2:  | 07:  | Invisible Loan - 'Sonata' web radio offer confirmed; 08: Microsoft
+>> FOUND 2:  | 10:  | Technology Changes, Civil Rights Do Not: The UN Convention on
+Warning line 44: expected [Contents ends].
+$toc_count=10
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Call For Compliance With UN Convention Covering ICT Rights.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | UK's First Educational e-Book Library Launched Online.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Automatic Captions Added To YouTube Videos.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  An award-winning disability-themed nightclub in
+> ITEM 1:  05:  | : |  An online social networking portal for
+> ITEM 1:  06:  | : |  A debate on access and diversity in internet use,
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 236.
+> ITEM 1:  07:  | : |  Our article last issue on the UK's first accessible
+> ITEM 1:  08:  | : |  In our October issue we published a query
+> ITEM 1:  09:  | : |  In our January 2009 issue, Diana Monahan of
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  10:  | Technology Changes, Civil Rights Do Not
+Warning: not found a 'contents' match: Technology Changes, Civil Rights Do Notby Cynthia Waddell
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 499.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 528.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 535.

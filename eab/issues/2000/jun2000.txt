@@ -1,0 +1,282 @@
+****************************************
+E-ACCESS BULLETIN
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+
+http://www.e-accessibility.com
+
+Sponsored by the Royal National Institute for the Blind
+http://www.rnib.org.uk
+the National Library for the Blind
+http://ww.nlbuk.org
+and the Guide Dogs for the Blind Association
+http://ww.gdba.org.uk
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing eab-subs@headstar.com
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+**************************************
+
+ISSUE 6, JUNE 2000
+
+IN THIS ISSUE:
+Section One:
+News: E-Europe plan approved, but watered down; Bright prospect for Unified Braille Code; CAST in a new mould; Yell Awards 2000; BrookesTalk merges with Microsoft Explorer; Descriptions to aid travellers.
+
+Section Two: Access technology
+- Value for money
+
+Section Three: Accessible gaming (Part II)
+- Role-playing games
+
+Section Four: Conference report
+- Virtual vision
+
+
+************************************
+SECTION ONE: NEWS
+************************************
+
+
+E-EUROPE PLAN APPROVED, BUT WATERED DOWN
+
+The Council of the European Union has approved the 'eEurope' action plan for creating a strong and accessible information society, which includes a series of actions to boost 'eParticipation for the disabled'.
+
+When the plan was published for consultation early this year, the Royal National Institute for the Blind said its proposals for improving the accessibility of the Internet were "disappointingly weak", and that the needs of disabled people should have been considered throughout the document, and not just in their own section. "A major failing of the communication is the 'ghettoisation' of the access needs of disabled people in section seven . . . the theme of access should run throughout the areas of action".
+
+The RNIB also said that the accessibility targets were too distant. "By the time they come into effect they will be meaningless. The targets are also unnecessarily weak, with too much emphasis on commitments and not enough on actions".
+
+Despite this submission the original targets remain. Indeed, they appear to have been watered down still further, with the final wording somewhat vaguer than the original. The initial consultation document said: "By the end of 2000, the commission and member states should review the relevant legislation and standards programmes dealing with the information society, with a view to ensuring their conformity with accessibility principles." But the final document says that "By the end of 2000, the commission and member states to review information society legislation and standards on accessibility". The all-important phrase "with a view to ensuring their conformity with accessibility principles" has been dropped.
+
+Other recommendations which have remained unaltered include:
+
+"By the end of 2000: a recommendation [for the commission, member states and all other actors] to take account of people with disabilities in the public procurement of information and communications products and services.
+
+"And by the end of 2001: A commitment to make all public web sites and their content accessible to people with disabilities."
+
+The eEurope action plan can be seen in full at:
+http://europa.eu.int/comm/information_society/eeurope/index_en.htm
+
+And the RNIB response is at:
+http://www.rnib.org.uk/digital/eeurope.htm
+
+
+BRIGHT PROSPECT FOR UNIFIED BRAILLE CODE
+
+The formulation of a Unified Braille Code (UBC) shared by the main English-speaking nations seems set to be agreed by the middle of 2001, following a series of meetings in London over the past few weeks.
+
+The meetings have been hosted by the RNIB on behalf of the International Council on English Braille, a body comprising the national Braille authorities of seven nations: Australia, Canada, New Zealand, Nigeria, South Africa, the UK and the US.
+
+UBC has been designed to integrate English Literary Braille (Standard English Braille in the UK) with special codes for mathematical and scientific symbols, which are currently coded differently in different countries. The development of a unified code is highly significant for digital technology applications, because it will simplify the international transmission of Braille files over the Internet.
+
+If UBC is not adopted, global Braille files are likely to conform by default to US Braille standards, as the US is the largest Braille software producer.
+
+The latest proposals have now been sent out to the seven member countries for consultation. For more on the Unified Braille Code Research Project see:
+http://world.std.com/~iceb/ubc.html
+
+And the International Council on English Braille web site is at:
+http://www.iceb.org/
+
+
+CAST IN A NEW MOULD
+
+The Centre for Applied Special Technology (CAST), famous for its free BOBBY software which checks web sites for accessibility, is looking for volunteers to help test a new version of its own web site which is due to go live in September.
+
+The new site will provide more interactive access to the centre's wide range of resources on accessibility issues. Would-be site testers will be required to spend 45 minutes at a trial version of the new site, exploring its content and experimenting with its tools, before completing a questionnaire and sending it back to CAST.
+
+Testing is scheduled to begin on July 11th and will run for two weeks. If you are interested in participating, please contact Leslie O'Callaghan at:
+locallaghan@cast.org
+
+CAST's current web site is at:
+http://www.cast.org/
+and you can view a version of the new site under development at:
+http://dev.cast.org/castweb
+- but this can clearly change so any comments should be reserved for the formal testing process.
+
+
+YELL AWARDS
+
+The 'A-Z of Deafblindness', a compendious online directory of deafblindness resources, has been nominated as a finalist in the Yell UK Web Awards 2000, hosted by the online arm of Yellow Pages. The site is a labour of love by James Gallagher, who is himself deafblind, and has been nominated in the 'Best Personal Website' category
+
+The A-Z, which is at:
+http://www.deafblind.com/
+includes many articles about the causes of deafblindness and living with deafblindness; addresses of relevant organisations worldwide; tuition for the Deafblind Manual Alphabet; and dates for conferences and courses about deafblindness. There is also a great deal of information about deafness and blindness separately. The site has already won some 17 other awards.
+
+Also up for the same award is Jooly's Joint, a technically accomplished online support community for people with Multiple Sclerosis created five years ago by Julie Howell, who is Campaigns Officer at the RNIB. The community now has more than 10,000 members worldwide. Jooly's Joint is at:
+http://www.mswebpals.org/
+
+Award winners will be announced on 11 July. See:
+http://www.yell.com/awards
+
+
+BROOKESTALK MERGES WITH MS EXPLORER
+
+BrookesTalk, a web browser for the blind and visually impaired developed by Oxford Brookes University (see also EAB, January 2000), is set to be fused with Microsoft Internet Explorer over the next few months in a move which will create one of the most flexible and highly-featured browsers for the blind to date.
+
+The combined browser, BrookesExplorer, will include all the essential functions of Explorer plus access to e-mail and newsgroups. The project's leader Mary Zajicek said access to e-mail and newsgroups had been prioritised because they would help blind people become part of the mainstream web community.
+
+Currently BrookesTalk is a stand-alone browser which can be used with a speech output mode or a large text window which displays words as they are spoken. The browser enables users to 'scan' information on websites in the way sighted users can, through a 'summary' of web pages. Page content such as numbers of links, headings and frames are listed.
+
+BrookesTalk also offers abstracting, which means users do not have to listen to the whole page, and a special search facility which retains the search results separate from all the other information on the page such as banner ads. 
+
+Also under development is BrookesExplained, targeted at 'non-technology enabled people' including the elderly visually impaired. This will be a low functionality version of BrookesTalk to introduce users to internet concepts before they go on to use more complex software. For more see:
+http://www.brookes.ac.uk/speech/
+
+
+DESCRIPTIONS TO AID TRAVELLERS
+
+Travelling to unfamiliar places could become a great deal easier for blind and visually impaired people with the launch of an online service which aims to build up a database of descriptions of railway stations and other public spaces.
+
+Describe-online.com has begun by covering parts of the London Underground, but aims to expand in the near future to include all Railtrack's mainline stations and then on to other major public premises.
+
+"I get off a bus, train or taxi in an unfamiliar place and have no idea what to do next - which direction to go, where to find help or what facilities are available within metres. As a blind person, the information I need is not available to me," says Terry Robinson, the man behind the venture.
+
+The service includes descriptions of individual platforms and concourses; which line a station is on and links with other lines; and the number and location of facilities such as telephone booths and even chocolate vending machines.
+
+Descriptions largely use compass points, which could be confusing unless you can become orientated: for example, if you are looking for platform six at Harrow and Wealdstone Station on London's Bakerloo line, the main concourse description tells you to use the gate to a bridge in the East Wall. However, if you know where you came in, you can find out which way you are facing.
+
+Services like this could be invaluable for blind people in the future, particularly if they can be accessed using mobile internet devices. For more see:
+http://www.describe-online.com
+
+
+[Section one ends]
+
+SECTION TWO: ACCESS TECHNOLOGY
+- VALUE FOR MONEY
+
+EXPENSIVE, SUBSIDISED . . . AND UNFIT FOR USE?
+
+When the belt clip snapped off Ian Macrae's new text-to-speech reader after he sneezed, he decided that enough was enough. It was time to provoke a debate on an issue that had been bothering him for some time: are blind people - and the taxpayer - getting a raw deal from access technology which is all too often poor quality and unfit for use?
+
+Macrae, who is the BBC's Disability Programme Unit Editor, has been a beneficiary of various government programmes to help disabled people in the workplace. The programmes are managed by the Employment Service under the umbrella title 'Access to Work', and involve the use of specialist teams, known as PACTs (Placement and Assessment Counselling Teams).
+
+However, Macrae says the result of this assistance has often been a waste of money. Writing in the May issue of RNIB's New Beacon magazine, he catalogued his dire experiences with a range of expensive products including a David laptop and an Eureka A4 Braille computer. He had struggled with the Protalk screenreader, and caused a near fire in a BBC building with an Alva Braille terminal.
+
+"Basically I think the whole system is a lottery," he told E-Access Bulletin. "I was given expensive bits of equipment and they were not up to the task. How much has the government spent on duff equipment?"
+
+Macrae is calling for a wide-ranging debate on the issue and asks whether blind people have to accept that there is only a 50% chance that enabling technology will work. He has already caused a stir, and has received calls from a number of suppliers and had his views discussed on national radio.
+
+The British Computer Association for the Blind says the problem is a complex one, with no quick fix. "I would say Ian's experience is an extreme example, but the type of scenario he describes happens much too often," says BCAB chairman Pete Bosher.
+
+Bosher says that while there have been serious problems with the unreliability and cost of some products, the crucial issue is the quality of the original needs assessment made by the Employment Service. He says if real disasters are to be avoided, the service's technical advisors have to be properly trained and selected.
+
+"Adaptive equipment is expensive and complex. It does require specialist training and support, and perhaps most importantly, it requires care and knowledge from the assessor, who decides what special equipment is needed."
+
+In response to the controversy, BCAB has organised a meeting with the Department of Trade and Industry to discuss the selection and training of employment service assessors.
+
+Macrae, however, thinks the problems go much deeper than the advice offered by assessors. "I'm not sure I've been given inappropriate equipment," he says. "It has really just been very flaky." He points out that when he's complained when a product repeatedly fails the companies are often aware of the problem. "It seems to me they are not coming clean about the problems up front. I would say our legitimate expectations are not being met."
+
+As well as the issue of assessment he wants to see the issues of quality and price debate more fully. "Visually impaired consumers have the same expectations as someone walking into a shop and buying a Sony CD walkman," he says. "You expect it to work."
+
+Bosher agrees that claims of over-pricing for access technology have also been around for a long time. "The accusation was that companies were charging pound for dollar. You can argue that this technology is over-priced, but then again, it is a very low volume market." He points out that some companies, such as the suppliers of specific products, effectively have a monopoly and says these problems need to be looked at further.
+
+[Section two ends]
+
+
+SECTION THREE - ACCESSIBLE GAMING (PART II)
+- ROLE-PLAYING GAMES
+
+STRANDED IN STRANGE - BUT ACCESSIBLE - WORLDS
+
+"You lie exhausted on the ocean shore, the pounding of the surf echoing in your ears. As you look out to sea, the cold glitter of the stars seems to turn the water to quicksilver, the sand where you lie is dry as dust, and the waves crash over you without leaving a drop of moisture on your body. All else around you is shrouded in mist. You realise suddenly that you are grasping something tightly in your hand."
+
+Welcome to Worlds Apart, a Tolkein-inspired work of 'interactive fiction' which takes users on a science fantasy journey which is part work of fiction and part classic role playing game. You develop the plot according to the decisions you make.
+
+To play, you type in simple commands or phrases, and receive responses accordingly. For example, after the opening lines above you could type: 'Look hand' (i.e. look to see what is in your hand), and would receive the response: "You have a silver locket." Typing 'Look locket' would then reveal: "You see a silver mind-locket hung from a chain. You remember it being a gift . . . but not who the giver was. It is to most eyes a small silver sphere, but to yours, the shell is only semi-opaque, with a faint white glow emanating from within it . . ."
+
+Soon a mysterious dark figure appears, and you can try to engage it in conversation, and so the adventure begins in earnest.
+
+As it is entirely text-based, Worlds Apart is fully accessible using text-to-speech software and, unusually for a game of its complexity, it can therefore be played without any sighted assistance. Computer games can be accessible by chance or design, and Worlds Apart falls in to the first category: its accessibility was "just a fortunate by-product", says the game's author Suzanne Brittan. She says she wasn't aware there was such a large gaming community among the visually impaired until Worlds Apart was launched, but she is now working on ways to retain this feature for the release of her next creation - 'Full Circle'.
+
+Worlds Apart uses a software system called TADS (Text Adventure Development system), but this does not have to be downloaded separately: it comes all packaged together at:
+http://www.igs.net/~tril/worlds
+
+One of the most successful and praised role-playing games of all, Nethack, is also accessible to the blind community. This dungeon exploration game is for the more technically-minded, as getting started is likely to present problems for the less computer confident. However, according to the US blind gaming magazine Audyssey the game can be set up using only standard ASCII characters making the MS-DOS versions of Nethack completely accessible to the blind who use speech and/or Braille access technology.
+
+NetHack can be downloaded for free from: http://www.nethack.org
+Further instructions for getting started with Nethack can be found in issue 21 of Audyssey. The magazine carries a great deal of information on blind gaming, and can be found at:
+http://www.espsoftworks.com/textonly/audyssey/audyssey.html
+
+Other accessible role-playing games are due for release from ESP Softworks, a US based company dedicated to blind gaming. The company's president James North told E-Access Bulletin that ESP's first interactive adventure, Genesis, will be launched shortly, bringing "vivid audio ambience and cinematic gameplay to the interactive fiction genre in real-time".
+
+Genesis will pitch players into a secret world of covert operations against a renegade underground alliance that is developing one of the most deadly weapons of mass destruction ever devised.
+
+The beauty of games made by designers dedicated to blind gaming is they tend not to need a disk full of new, difficult-to-source software before you can get started. "The majority of our games will only require Windows 95 or later with a 16-bit sound card (or better) to run. The only game we have that requires screen review software is Shell Shock, which may be downloaded for free via our website at http://www.espsoftworks.com. Those games that require dynamic speech will include their own speech engine", says North.
+
+Another innovation from ESP is the development of a game called Shades of Doom using feedback from users of a prototype version to adapt the game prior to its final launch. Shades of Doom is available from:
+www.espsoftworks.com/textonly/sod/beta.htm
+
+* Next month, part three of our look at accessible gaming will examine educational games.
+
+[Section three ends]
+
+
+SECTION FOUR: CONFERENCE REPORT
+- 'VIRTUAL VISION'
+
+INTERNET LEARNING: A VALUABLE OPTION FOR BLIND STUDENTS
+
+A UK project was at the centre of attention last week at 'Virtual vision', an international conference on open and network learning for visually impaired people and visual impairment professionals held at the Arla Institute in Espoo, Finland.
+
+Diane Stacey, Assistant Director of the Royal London Society for the Blind, told delegates about 'Dorton at a Distance', the society's Internet-based teaching programmes carried out through its specialist college, Dorton College in Kent.
+
+The society had found that existing web-based learning environment software did not give visually impaired learners the accessibility that was required for its distance learning programmes, Stacey said. So in partnership with Eyecue Ltd, it developed its own software VITA (Visually Impaired Training Archive), designed to be seamlessly compatible with screen magnification and speech output systems.
+
+The basic layout of the VITA interface is similar to a web browser. Navigation through a course is achieved via keyboard accessible 'buttons', menus, daughter windows or hypertext links. All functionality can be accessed via the keyboard rather than a mouse. 
+
+Dorton at a Distance is currently delivering two courses through this medium: the European Computer Driving Licence and a Foundation Certificate in Visual Impairment Studies. Students can enrol directly over the web at:
+http://www.dorton-coll.ac.uk/
+
+When a student signs-up for a course, the system alerts a tutor to open a dialogue with the student to assess the speed at which they want to study and any special needs. This information allows the tutor to place the student in a relevant 'virtual class'.
+
+The student can then elect to go at their own pace, initiating new VITA course downloads themselves, or follow a more structured delivery with the tutor specifying time periods between module delivery. The tutor is made aware of the progress of the student via the web server, and can move students from one virtual class to another if they are moving too fast or slow. "This virtual classroom approach helps to create a sense of community for the student, and reduces the isolation that online distance learning can create", the college says.
+
+As well as email correspondence, the web server hosts a live chat system to further build an interactive student community. The system can also be used to deliver training to teaching and support staff.
+
+Similar projects are underway in Sweden, France and at the Arla Institute itself, delegates heard. Furthermore, some 378 colleges and universities of Higher Education in the US already offer full degrees over the web, and the students taking these qualifications may never visit the 'real' campus. Neither are these courses restricted to obscure or small institutions: Harvard and Princeton are among those which offer them.
+
+The conference debated the often-expressed concern that distance learning could lead to isolation compared with traditional learning, because the student does not have the opportunity to meet tutors or peers and interact informally or socially with other students studying similar subjects. However, for a student who is not physically located close to the institution, who may be in another country without the opportunity locally to study the subjects on offer, or who may have difficulty with mobility or cannot physically access a building, the opportunity to join a "virtual" network of students through video, telephone, e-mail or web facilities is likely to reduce rather than increase isolation.
+
+This is not to say that a student will not miss out on social interaction through adopting a distance learning approach, delegates heard, and it may sometimes simply be viewed as a better option because it is cheaper and less problematic than enabling a student to attend sessions by providing transport, mobility assistance or funds for this purpose.
+
+All agreed that distance learning should be viewed as a choice among many available options which should be made in the best interests of the student, rather than as the sole option available for people who are disabled or living in remote locations.
+
+However, there was little agreement between the educators present on whether and when visual contact is needed when teaching or learning. The two ongoing projects in the use of video conferencing, web cameras and the visual medium and the feelings expressed by many delegates demonstrated how important this is thought to be by many in the teaching profession. The results of these projects, however, reveal the shortcomings of the current state of the technology: existing software and telecommunications options simply cannot yet deliver simultaneous image and sound at the desired quality.
+
+The Arla Institute is a government-owned centre for vocational rehabilitation and training for visually impaired and deafblind people, with the aim of supporting maximum independence and enabling people to take control of their lives and to gain employment. Its web site is at:
+http://sux.arlainst.fi/english.htm
+
+* Article by Ruth Loebl, UK ICT Development Officer, RNIB Technology in Learning and Employment
+Email: rloebl@rnib.org.uk
+Web: http://www.rnib.org.uk/technology
+
+[Section four ends]
+
+HOW TO RECEIVE THIS BULLETIN
+
+To subscribe to this free monthly bulletin,
+e-mail eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the 
+message. Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to
+Dan Jellinek at: dan@headstar.com
+
+
+Published by Headstar Ltd
+http://www.headstar.com
+Copyright 2000 Headstar Ltd
+
+The Bulletin may be reproduced in full as long as all parts including this copyright notice are included. Sections of the report may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address http://www.e-accessibility.com is also cited.
+
+[Issue ends]
+
+E-Access Bulletin		May 2000
+

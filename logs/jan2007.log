@@ -1,0 +1,58 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:25 2008 __
+
+Input file: ../eab/issues/2007/jan2007.txt
+
+Warning: file already exists: ../eab/issues/2007/jan2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jan | index: 1 | year: 2007
+URLs, prev: ../2006/dec2006.html | next: ../2007/feb2007.html
+Found ++, heading 2: Issue 85 Contents.
+>> FOUND 2:  | 01:  | Italian Government To Explore Route Finder Technology
+>> FOUND 2:  | 02:  | IBM Builds Bridges For Commercial Screen Readers
+>> FOUND 2:  | 03:  | Scottish Cinemas Receive Funds For Audio Description
+>> FOUND 2: News in Brief:  | 04:  | Open Sesame - electronic key fob; 05: Global
+OK, News in brief
+Found: Open Sesame - electronic key fob | ; |  05: Global
+>> FOUND 2: Deficiency - United Nations web accessibility survey;  | 06:  | Audio
+Found: Deficiency - United Nations web accessibility survey;  | 06:  | Audio
+>> FOUND 2:  | 07:  | Switching Off - Soundclash solution; 08: Get Shorty - tip for
+>> FOUND 2: shorter web addresses;  | 09:  | Remote Access - remote control question;
+Found: Remote Access - remote control question | ; | 
+>> FOUND 2:  | 10:  | Scripts Search - information management system query; 11:
+>> FOUND 2:  | 12:  | Sticky By Name, Sticky By Nature: The BBC's online educational
+>> FOUND 2:  | 13:  | Software For Everyone: Chris Hofstader, former software engineer
+Warning line 57: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Special Notice: e-Access '07 Date Announcement.
+> ITEM 2:  01:  | Italian Government To Explore Route Finder Technology.
+Warning: not found a 'contents' match: Italian Government To Explore Route Finder Technology.
+> ITEM 2:  02:  | IBM Builds Bridges For Commercial Screen Readers.
+Warning: not found a 'contents' match: Ibm Builds Bridges For Commercial Screen Readers.
+> ITEM 2:  03:  | Scottish Cinemas Receive Funds For Audio Description.
+Warning: not found a 'contents' match: Scottish Cinemas Receive Funds For Audio Description.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A programmable electronic door key fob for use in
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 187.
+> ITEM 1:  05:  | : |  The websites of the German Chancellor
+> ITEM 1:  06:  | : |  Podcasts of classic novels have been made
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 213.
+> ITEM 1:  07:  | : |  Sabahattin Gucukoglu from London writes in
+> ITEM 1:  08:  | : |  John Loader of DotSix Brailling Services in
+> ITEM 1:  09:  | : | 
+> ITEM 1:  10:  | : |  IT Disability Support Officer Barbara Denton
+> ITEM 1:  11:  | : |  Andrew Day, Company Secretary of
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  12:  | Sticky By Name, Sticky By Nature
+Warning: not found a 'contents' match: Sticky By Name, Sticky By NatureBy Mel Poluck.
+Warning, replacing non-ASCII character 233 (line 319, 6): Bartim&#233;us Accessibility Foundation in the Netherlands where
+
+Found ++, heading 2: Section Four: Profile
+> ITEM 2:  13:  | Software For Everyone.
+Warning: not found a 'contents' match: Software For Everyone.By Mel Poluck
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 512.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 518.

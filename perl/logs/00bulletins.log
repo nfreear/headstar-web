@@ -1,0 +1,28 @@
+__ BUILD [bulletins.pl  v1.12 ] log Sun Jul  4 00:09:05 2010 __
+
+> This year start: 121
+Archive file: ../eab_base/archive.html
+Current issue, 126:  June 2010.
+Archive for new year: 2010  (reverse chronological).
+Parsing TENS, issue 126:  perl -w tens2html.pl ../eab/issues/2010/jun2010.txt
+Parsing TENS, issue 125:  perl -w tens2html.pl ../eab/issues/2010/may2010.txt
+Parsing TENS, issue 124:  perl -w tens2html.pl ../eab/issues/2010/apr2010.txt
+Parsing TENS, issue 123:  perl -w tens2html.pl ../eab/issues/2010/mar2010.txt
+Parsing TENS, issue 122:  perl -w tens2html.pl ../eab/issues/2010/feb2010.txt
+Parsing TENS, issue 121:  perl -w tens2html.pl ../eab/issues/2010/jan2010.txt
+Archive for new year: 2009.
+Parsing TENS, issue 120:  perl -w tens2html.pl ../eab/issues/2009/dec2009.txt
+Parsing TENS, issue 119:  perl -w tens2html.pl ../eab/issues/2009/nov2009.txt
+No longer parsing, issue: 119 ...
+Archive for new year: 2008.
+Archive for new year: 2007.
+Archive for new year: 2006.
+Archive for new year: 2005.
+Archive for new year: 2004.
+Archive for new year: 2003.
+Archive for new year: 2002.
+Archive for new year: 2001.
+Archive for new year: 2000.
+Completed issue, 1: jan 2000.
+
+__ log Sat Jul  3 23:09:06 2010 __

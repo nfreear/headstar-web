@@ -1,0 +1,51 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:56 2004 __
+
+Input file: ../eab/issues/2004/aug2004.txt
+
+Warning: file already exists: ../eab/issues/2004/aug2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: aug | index: 8 | year: 2004
+URLs, prev: ../2004/jul2004.html | next: ../2004/sep2004.html
+Found ++, heading 2: Issue 56 Contents.
+>> FOUND 2:  | 01:  | Overhaul for email newsletter standard
+>> FOUND 2:  | 02:  | Unix accessibility forum unveiled
+>> FOUND 2:  | 03:  | Online web browser adaptor hits UK
+>> FOUND 2:  | 04:  | Plaudits for 'Chillingham' adventure game
+>> FOUND 2: News in Brief:  | 05:  | DAISY age - library seeks e-book testers; 06: Jobs
+OK, News in brief
+Found: DAISY age - library seeks e-book testers | ; |  06: Jobs
+>> FOUND 2: campaign - employers targeted;  | 07:  | European award - design for all.
+Found: European award - design for all | . | 
+>> FOUND 2:  | 11:  | Diary of a dissatisfied customer: Mel Poluck reviews an exchange
+>> FOUND 2:  | 12:  | Universal service: a single voice-operated portal using a
+Warning line 47: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: Special Notice: Techshare 2004
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | OVERHAUL FOR EMAIL NEWSLETTER STANDARD.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | UNIX ACCESSIBILITY FORUM UNVEILED.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | ONLINE WEB BROWSER ADAPTOR HITS UK.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | PLAUDITS FOR 'CHILLINGHAM' ADVENTURE GAME.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  The National Library for the Blind is seeking
+> ITEM 1:  06:  | : |  A campaign to highlight to employers that
+> ITEM 1:  07:  | : |  The European Commission has
+Found ++, heading 2: Special Notice: The UK Association of Braille Producers
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  08:  | : |  There has been widespread support
+> ITEM 1:  09:  | : |  Also on the subject of banking, the debate
+> ITEM 1:  10:  | : |  Continuing our discussion on cheaper types of
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  11:  | Diary of a Dissatisfied Customer
+Warning: not found a 'contents' match: Diary Of A Dissatisfied Customerby Karen Turner And Mel Poluck.
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Found ++, heading 2: Section Four: Access Concepts
+> ITEM 2:  12:  | Universal Service
+Warning: not found a 'contents' match: Universal Serviceby Ken Matthews.
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

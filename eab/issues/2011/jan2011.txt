@@ -1,0 +1,263 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 133, January 2011.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+
+Please forward this free bulletin to others, so they can sign up to receive their own free copy:
+subscription details at the end.
+
+
+++Issue 133 Contents.
+
+01: Canadian Government Appeals Landmark Accessibility Ruling
+- Move ‘Sad and disappointing’, says blind consultant.
+
+02: ‘Wayfinding’ Systems Not Yet Cost-Effective, Report Finds.
+- And implementation is politically based, says expert
+
+03: European Accessibility Act To Be Unveiled in 2012
+- ICT barriers to feature in research supporting new law.
+
+News In Brief: 04: Verbal Victor – ‘app’ helps children unable to speak; 05: World Support - UN endorses British web standards video; 06: Union Web - European champions of blind people’s rights.
+
+Section Two: Inbox.
+07: Sound Advice – audio file conversion query; 08: Publicity Failure – free screen-readers lack exposure.
+
+Section Three: Opinion
+- The future of accessibility.
++09: +New Year, New Dreams
+Accessibility consultant Donna Jodhan, who is currently locked in an ongoing legal battle with the Canadian Government about the inaccessibility of its websites, offers her views and predictions on the future of accessible technology.
+In an exclusive piece for E-Access Bulletin, she asks how social networking and the ever-increasing range of mobile ‘apps’ can help to provide a more accessible world for people with disabilities.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Canadian Government Appeals Landmark Accessibility
+Ruling.
+
+The Canadian Federal Government is appealing against the recent court ruling which branded its websites not fully accessible to disabled citizens and ordered it to remedy the problem.
+
+As previously reported in E-Access Bulletin ( see issue 132:
+http://www.headstar.com/eablive/?p=511 ), Donna Jodhan, a blind accessibility consultant, successfully sued the government over the inaccessibility of its websites after she was unable to apply for a government job online or access certain other information.
+
+In December, a judge ruled in favour of Jodhan, finding the Canadian Government had infringed the Canadian Charter of Rights and Freedoms by failing to make its websites fully accessible.
+
+The government is now appealing against this ruling, claiming that the judge exceeded his jurisdiction in finding a “system- wide failure” of government through its websites, when it was only Jodhan who was proved to be directly affected. The government is also claiming the judge “erred in law” by ordering it to ‘remedy’ the websites of 146 government agencies, when only 106 agencies used the website guidelines (‘Common Look and Feel Standards 1.0’) which were found to provide inadequate accessibility.
+
+A hearing for reconsideration filed by the Canadian Government will take place on 8 February via a video conference. “We are still awaiting their official documents to see exactly what they are appealing but it appears that they are appealing the judge’s entire decision,” Jodhan told E-Access Bulletin.
+
+Jodhan, who will be opposing the appeal, told E-Access Bulletin that it was “very sad and disappointing” that the government had chosen to take this course of action. “When the Canadian Government decides to waste more precious taxpayers’ funds and time fighting something that they should have been addressing all along, what does it really say? The longer they take to start working with us to fix this problem, the longer it would be before we can look forward to having accessibility become a reality” she said.
+
+It is currently unclear whether the government will be making any of the ordered changes to its websites before the appeal.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=532
+
+
++02: ‘Wayfinding’ Systems Not Yet Cost-Effective, Report
+Finds.
+
+The installation of digital ‘wayfinding’ technologies to help blind people find their way around railways stations and other public spaces might not be cost-effective for five years or more, a leading expert has told E-Access Bulletin.
+
+Dr John Gill, a consultant and former RNIB chief scientist, was speaking following the publication of a report on the operation and management of wayfinding systems by the Rail Safety and Standards Board, a non-profit rail industry body ( http://bit.ly/fQIyeW ).
+
+The independent report assessed the benefits, costs, and practicability of a pilot installation in Scotland of one leading wayfinding system, RNIB ‘React’, a talking sign system whereby audio messages are triggered by users carrying a special trigger fob when they approach.
+
+It found that while benefits were demonstrated, there were problems with planning, implementing and maintaining the React system cost-effectively: current estimated costs for implementing such a system across the entire UK rail network are between £250 million and £500 million.
+
+Given this size of cost, “only those systems which provide some benefits to the wider rail-travelling community (as opposed to only the visually-impaired) look likely to be even worth considering”, the report says. In the meantime, the provision of extra staff to assist people with disabilities might be more cost-effective, as such staff would also be able to undertake other tasks, it says.
+
+Dr Gill, who contributed to the report on the potential benefits of future technologies in this field such as radio frequency tags (RFID), smartcards and satellite location systems, said in time cheaper technologies could be developed combining positioning systems with live train information accessed over the web.
+
+“With live information over the web, then you can spread the costs, and be useful for all customers,” he said. “At the present time the technologies which would be needed are available but not widely implemented, but in five years’ time, the story might be very different.”
+
+The problems with implementing systems like React were not just related to technology but maintenance, he said.  “You need systems to see if it is working reliably. If there is a talking sign on the end of a platform saying don’t walk any further, and it’s not working, is actually creating a safety hazard. Any system has got to work 99.9% of time, so you can rely on it.”
+
+The decision on when to make investments in wayfinding technologies is ultimately a political one, Dr Gill said. “It’s a matter of who is going to pay, and who else is going to benefit.
+The rate of change of technology and economics is so fast that one hesitates to predict exactly when it will work out.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=530
+
+
++03: European Accessibility Act To Be Unveiled in 2012.
+
+A proposal for a ‘European Accessibility Act’, which will include accessibility measures on ICT and websites, will be put forward during 2012, European Commission Vice-President Viviane Reding has confirmed.
+
+The act, part of actions following on from a wider European Disability Strategy ( http://bit.ly/fDCRlP ) unveiled last year, will be based on an upcoming commission study of accessibility barriers for disabled citizens across Europe. The study will cover access to public services, public buildings and transport, as well as other areas.
+
+Reding unveiled the proposals at a meeting of the Disability Intergroup, a long-standing grouping of MEPs working to promote disability policy, in Brussels earlier this month. The act will set out contain common standards to help regulate accessible design in a number of areas including ICT, the built environment and product design.
+
+Reding said that she hopes these European standards will help pave the way for the development of wider global accessibility standards.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=526
+
+
+++News in Brief:
+
++04: Verbal Victor: A new ‘app’ for the iPhone and iPad
+allows parents and carers of children who are unable to speak to take pictures of objects and situations and record accompanying verbal phrases, to aid communication. These notes then become ‘buttons’ on the screen, which children can then select and to show people when they want to ask for something. ‘Verbal Victor’ can be purchased through the iTunes store for $6.99:
+
+http://itunes.apple.com/uk/app/verbal-
+victor/id411749775?mt=8
+Short link: http://bit.ly/i0ceIi
+
+
++05: World Support: The United Nations has endorsed a
+documentary on web accessibility by the British Standards Institution (BSI), as part of a series of statements made in December supporting the International Day of Persons with Disabilities. The BSI film, ‘Overview: way to accessibility in buildings and on the web’, explores how using standards can help keep web accessibility levels as high as possible:
+
+http://www.youtube.com/watch?v=aFMe2G0SL0k
+Short link: http://bit.ly/gSehny
+
+
++06: Union Web: The European Blind Union (EBU) has
+launched a new website, with improved accessibility. The site features a ‘kid’s corner’ with a Braille converter – to aid children’s understanding of the Braille alphabet – as well as information on all activities of the EBU, one of six bodies of the World Blind Union, helping to promote the interests of blind and visually impaired people across 45 European
+countries:
+
+http://www.euroblind.org/
+Short link: http://bit.ly/g6YPkc
+
+[Section One ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for accessibility discussion on the web for nearly six years, hosting discussion of accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system improved.
+
+So whether you’re looking to learn more about accessibility, want to help others and improve on your own knowledge, or just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Sponsored notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: Sound Advice: David Bates, a member of the National
+Federation of the Blind (NFB) UK Executive, writes to ask advice on free or open source software to convert Word files to audio formats.
+
+“We send out many articles and reports every month to our members in all formats, but the majority of these are in audio, being first recorded by reading text into a microphone.
+
+“To save time, we need a programme which will turn Word documents into WAV, MP3 or DAISY files. I know we can buy a suitable programme from Dolphin for £180, but as we are really short of funds I wonder if there is a suitable Open Source programme which will do the job? Any help would be gratefully received!”
+
+David also notes that open source software can often do a good job in other areas of accessibility.
+
+“I am still using JAWS for Windows 5.0, but upgrading to the latest version will cost me about the same as buying a new computer. I’m trying out [the screenreader] NVDA with IBM Lotus Symphony instead of Word plus JAWS. I’m very impressed with both of these programmes, which are free, and feel that Freedom Scientific are losing out by forcing out established users by not offering ‘lite’ or earlier versions of JAWS at a lower price.”
+
+[Responses please to inbox@headstar.com].
+
+
++08: Publicity Failure: Brian Gaff of the Kingston upon
+Thames Talking Newspaper, Kingston upon Thames Association for the Blind ( http://kingston.talking- newspapers.co.uk ), writes in to add his support for the growing field of free, cheap and open source access solutions.
+
+“I think there is very little publicity for the free screenreaders that are about,” he writes. “If those government folk put a small bit of dosh into either or both Thunder ( http://www.screenreader.net/ ) and NVDA ( http://www.nvda- project.org/ ), to get anything they wanted added, they could really save a lot of money getting blind people online.
+
+“Of the Two, I think Thunder is more hand-holding, but NVDA is more powerful, and gives access to Thunderbird and other Mozilla applications as well. NVDA is also open source so others can fiddle with it should they have the inclination.”
+
+Brian also laments a common failure to recycle old computers which could be of real use to help people who are not yet online. “There are lots of perfectly workable computers, dumped every day, when for what most want, they could be used easily. I’d also like to see some no-fuss, no-threat demos done in blind clubs etc, around the country, with a little carrot of, ‘oh, do you have relatives in (insert country here)...’
+
+“In many cases, the fear of computers is all there is.”
+
+[Further comments please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL, Easy Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk) Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Opinion
+- The future of accessibility.
+
++New Year, New Dreams
+by Donna Jodhan.
+
+As I sit here in my favourite chair listening to the cold Canadian winter wind beat softly against my windows, I am aware that snowflakes are falling gently outside, and I can hear the crunch of boots against firmly-packed snow on the ground.
+It’s time for me to start imagining and dreaming; maybe it’s the time of year that does this to me, but boy, is it fun to do.
+
+This evening, I am going to use the flickering lights of my Christmas tree to help put me in the mood and I would like to dream a bit about what it could be like for blind people if access technology were able to communicate more effectively with mainstream technology, as well as with websites.
+
+There’s no harm in dreaming, and one never knows what could be just around the corner. Access technology has made some major leaps and bounds over the years but the time may have come for us to start pushing harder for a more co-operative environment – a landscape where all stakeholders could work together to open wide the doors and help build a future where full accessibility is a reality, not just something that’s seen as nice to have.
+
+It may not be beyond the realms of possibility to imagine:
+
+1: The price of access technology being made more affordable as more developers engage in open source software development. There is already quite a bit of this going on, and somehow I feel confident that this trend is only going to become more popular as time moves on.
+
+2: A flood of apps emerging to enable blind and sight-impaired people to function more independently with their hand-held devices. This trend has already started, and if we could convince manufacturers that it is a necessity that can benefit people other than the blind and sight-impaired, then who knows – the sky’s the limit! More manufacturers could easily be convinced to follow in Apple’s footsteps.
+
+3: More web developers allowing access technology to communicate more easily with their content, forms and documents. A world where governments, companies and web designers and developers would finally see the light and embrace opportunities to create a situation where everybody wins out.
+
+4: Access technology hugely expanding career possibilities for blind and sight-impaired people, by allowing them to access information more independently and quickly and to communicate more easily with the sighted world.
+
+5: Social networks being made much easier to use, if we can all work out ways to enable access technology to communicate more effectively with social network websites, chatrooms, skype and so on.
+
+So 2011 is going to be a very interesting year. Governments are going to hear more from us and companies are going to be told that more people will be demanding greater access to their products and services. Could 2011 be the start of an era where we get to work more closely with the sighted world? Why not?
+
+If I were able to wave my cane and make it all happen, then my dearest wish would be that blind and sight-impaired kids would be able to grow up in a world where accessibility would be a natural part of their daily lives, and blind and sight- impaired older people would be able to enjoy golden years of virtual socialising.
+
+With very best wishes for a wonderful year.
+Donna J. Jodhan.
+
+NOTE: Donna Jodhan is an accessibility consultant who is involved in an ongoing legal battle with the Canadian government over accessibility of its websites. For the latest see news, this issue. Donna’s blog can be found here:
+http://bit.ly/efW0Vj
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=524
+
+[Section Three ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email eab-subs@headstar.com with 'subscribe eab' in the subject header. You can list other email addresses to subscribe in the body of the message. Please encourage all your colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2011 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 133 ends.] 

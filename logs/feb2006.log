@@ -1,0 +1,62 @@
+__ BUILD [tens2html.pl  v1.14] log Tue May 23 09:06:51 2006 __
+
+Input file: ../eab/issues/2006/feb2006.txt
+
+Warning: file already exists: ../eab/issues/2006/feb2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: feb | index: 2 | year: 2006
+URLs, prev: ../2006/jan2006.html | next: ../2006/mar2006.html
+Found ++, heading 2: Issue 74 Contents.
+>> FOUND 2:  | 01:  | Stand-Alone Device To Access Audio Content Over The Web
+>> FOUND 2:  | 02:  | Talking Cash Machines Live Following Successful Trials
+>> FOUND 2:  | 03:  | Inaccessible Web Sites 'Could Lose Billions'
+>> FOUND 2:  | 04:  | Blind Computer Trainer Awarded Volunteer Of The Year
+>> FOUND 2: News in Brief:  | 05:  | Raised Standards - code of practice to be published;
+OK, News in brief
+Found: Raised Standards - code of practice to be published | ; | 
+>> FOUND 2:  | 06:  | Audio Brainteaser - Audio Sudoku released; 07: Shining Example
+>> FOUND 2:  | 08:  | Copyright Conundrum - online library access explained; 09:
+>> FOUND 2: Calling Out - mobile phone advice;  | 10:  | TV Guide - digital TV
+Found: Calling Out - mobile phone advice;  | 10:  | TV Guide - digital TV
+>> FOUND 2: guidance request;  | 11:  | Position Vacant - jobs source query; 12: Poor
+Found: Position Vacant - jobs source query | ; |  12: Poor
+>> FOUND 2:  | 13:  | Podcasting - The Future Is Pod-Shaped: Whether 'vodcasting,' or
+>> FOUND 2:  | 14:  | Turing Lecture 2006 - A Brighter Future: Lack of accessibility and
+Warning line 55: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: Special Notice: GIS In the Public Sector
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Stand-Alone Device To Access Audio Content Over The Web.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Talking Cash Machines Live Following Successful Trials.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Inaccessible Web Sites 'Could Lose Billions'.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Blind Computer Trainer Named Volunteer Of The Year.
+Warning: not found a 'contents' match: Blind Computer Trainer Named Volunteer Of The Year.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A code of practice on web accessibility is to be
+> ITEM 1:  06:  | : |  An accessible version of the popular
+> ITEM 1:  07:  | : |  A web site dedicated to resources relating to
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 241.
+> ITEM 1:  08:  | : |  Tony Dart, Chief Executive of online
+> ITEM 1:  09:  | : |  Ibrahim Gucukoglu writes in response to Stephanie
+> ITEM 1:  10:  | : |  Roger Petersen, a member of the Information Access
+> ITEM 1:  11:  | : |  A reader writes to ask about sources for job
+> ITEM 1:  12:  | : |  Giovanni Urso from Naples in Italy writes on the
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Focus
+> ITEM 2:  13:  | The Future Is Pod-Shaped
+Warning: not found a 'contents' match: The Future Is Pod-Shapedby Carli Hawes.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 401.
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 468.
+Found ++, heading 2: Section Four - Focus
+> ITEM 2:  14:  | A Brighter Future
+Warning: not found a 'contents' match: A Brighter Futureby Mel Poluck
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 590.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 596.

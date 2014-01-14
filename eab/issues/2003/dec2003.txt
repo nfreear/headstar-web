@@ -1,0 +1,602 @@
++++E-ACCESS BULLETIN.
+- ISSUE 48, DECEMBER 2003.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+A Merry Christmas to all our readers!
+
+NOTE: Please forward this free bulletin to others (subscription
+details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 48 CONTENTS.
+
+01: Revolutionary speech technology to launch
+- talking newspapers mimic human voice.
+
+02: Microsoft legal actions set to continue
+- software giant plea to 'call off the lawyers'.
+
+03: Visionary design winners announced
+- National Library for the Blind web awards.
+
+04: TV channel Five adds audio description
+- satellite-borne service to reach millions.
+
+News in brief: 05: Phone anything - voice browsing; 06: EYPD blue -
+European politician speaks out; 07: Thin access - Dolphin
+announcement.
+
+Section two: 'The Inbox' - Readers' forum.
+08: Flat out - screen problems; 09: Music quiz - sheet music query;
+10: Bugbear slain - talking text messages; 11: Clear speech -
+explaining market predictions.
+
+Section three: Special report - web awards.
+12: Designs for life: This week saw the announcement of the National
+Library for the Blind's Visionary Design Awards for web
+accessibility.
+Mel Poluck talks to the winners about the secrets of their success.
+
+Section four: Opinion - Techshare 2003.
+13: A new era of realism? At this year's conference on the use of
+technology by people with sight problems, Kevin Carey detected a
+welcome change of tone among both lobbyists and industry
+representatives.
+
+[Contents ends].
+
+
+++SECTION ONE: NEWS.
+
++01: REVOLUTIONARY SPEECH TECHNOLOGY TO LAUNCH.
+
+New synthetic speech technology is set to revolutionise the way blind
+and partially sighted people access newspaper and magazine content,
+according to the RNIB.
+
+The institute has joined forces with specialist firm Rhetorical
+(http://www.rhetorical.com) to create CD versions of magazines. The
+Rhetorical technology, called rVoice, uses "voice modelling" to
+record
+real voices; analyse pronunciation and intonation; and produce a
+model
+of each voice which predicts how individual words would be
+pronounced. The result can translate text into synthetic speech which
+is
+"virtually indistinguishable" from a human voice, says Steve Tyler,
+policy and ICT access manager at the RNIB.
+
+Until now, text-to-speech technologies have often produced
+artificial-
+sounding voices that are confusing and off-putting. As a result,
+users
+have preferred recordings of newspapers and magazines read on to tape
+by actors and volunteers, a time-consuming and expensive process.
+Using rVoice however, a TV listing which currently takes an RNIB
+volunteer around 17 hours to record can be reproduced in less than an
+hour.
+
+The system has considerable potential for specialist applications,
+Tyler
+says. "Take accountancy course materials which are very technical.
+They would cost around 60,000 pounds to produce in audio, mainly
+because of the specialist knowledge required to 'translate' the
+content.
+With Rhetorical, voices can be 'trained' for specific subjects by
+recording accountancy terminology, substantially reducing production
+costs."
+
+Later this month, the RNIB is launching pilot CD versions of the TV
+listings magazines 'Radio Times' and 'TV Times' using rVoice. The
+magazines will be tested by users of DAISY digital talking book
+players, and there are plans to test other delivery mechanisms such
+as
+telephones and the internet.
+
+
++02: MICROSOFT LEGAL ACTIONS SET TO CONTINUE.
+
+Legal wrangling between US lobby groups and Microsoft over the
+accessibility of its software seem set to continue, despite a plea
+from
+the company last month that it has realised the error of its ways,
+and it
+was time to "call off the lawyers" so everyone could proceed in
+partnership.
+
+The call came from Madelyn Bryant McIntire, the Director of
+Microsoft's Accessibility Group, as she delivered the keynote address
+to last month's Techshare conference on access to technology, hosted
+by the RNIB (http://www.techshare.org.uk).
+
+McIntire admitted that Microsoft's user testing had until now
+"overlooked" people with sight problems, but that would now change.
+She said the company now recognised that such people form a
+significant market segment: for example, a survey by research
+company Forrester of 15,000 households in the US found that around
+28 per cent of all citizens say they have either correctible or non
+correctible vision problems with reading newsprint (though the survey
+did not ask about accessing computer screens).
+
+However, McIntire said that legal action had made the discussion too
+rigid and that it was time to "call off the lawyers". This was
+understood
+by most present to refer to consumer organisations in the US which
+have fought hard in the courts over measures such as section 508,
+which requires all technology companies supplying the US federal
+government to ensure their products are accessible to all.
+
+The answer is partnership, not confrontation, McIntire said. She said
+terms like "disability" and "impairment" were barriers to effective
+dialogue, and a better term was "social inclusion".
+
+However Janina Sajka, director of director of technology research and
+development at the American Foundation for the Blind, said later: "I
+am glad Microsoft has discovered the disability continuum, but I hate
+to think where blind people would be if we had not used legal means
+to
+extract some accessibility out of major companies. We're not about to
+call off the lawyers."
+
+NOTE: For more Techshare reporting see section four, this issue - 'A
+new era of realism?'
+
+
++03: VISIONARY DESIGN WINNERS ANNOUNCED
+
+The winners of the Visionary Design Awards for high quality
+accessible web sites (http://visdesign.nlbuk.org) were announced this
+week by the National Library for the Blind in the UK (NLB -
+http://www.nlb-online.org).
+
+The winners were 'The friendly duck'
+(http://www.calibre.org.uk/Kids),  new web site for kids from the
+Calibre cassette library, in the youth and education category;
+'Adviceguide' (http://www.adviceguide.org.uk), from Citizens Advice,
+for news and information; Rushcliffe Borough Council
+(http://www.rushcliffe.gov.uk), for government; Manchester United
+football club (http://www.manutd.com/access), for large
+organisations;
+comedy show the Bradshaws (http://www.thebradshaws.biz), for small
+to medium organisations; and Birmingham Focus on Blindness
+(http://www.birminghamfocus.org.uk) for voluntary organisations.
+
+Winners were nominated by vision-impaired people, web designers
+and site owners. A spokeswoman for the NLB said the organisation
+aims to use the awards as part of an ongoing campaign to encourage
+website developers to consider access technology.
+
+NOTE: For a full report on the Visionary Design Awards, including
+interviews with the winners, see 'Designs for life,' section three,
+this
+issue.
+
+
++04: TV CHANNEL FIVE ADDS AUDIO DESCRIPTION.
+
+The TV station Five (http://www.five.tv - formerly Channel Five) has
+become the first UK public service broadcaster to offer an audio
+description service using digital satellite broadcasting, increasing
+the
+number of people able to receive description from 4.5 to 7.1 million
+in
+one fell swoop.
+
+Audio description adds a verbal description of what is taking place
+on
+screen between pieces of dialogue. Previously Five had offered this
+service on Freeview (http://www.freeview.co.uk), the digital
+terrestrial
+service delivered through a set-top box.
+
+However, manufacturers have been slow to develop Freeview boxes
+that can receive audio description, which is currently only
+accessible to
+45 trial viewers. By adding audio description to its service
+delivered
+over BSkyB satellite (http://www.sky.com), Five is now reaching
+millions of homes with the service. BSkyB itself - though not a free-
+to-air channel with a regulated public service element like the main
+five UK terrestrial channels - already delivers some 3,000 hours a
+year
+of audio described programming on its pay channels such as Sky One
+and Sky News.
+
+Some Freeview equipment is now being developed to receive audio
+description. RNIB digital broadcasting development officer Clive
+Miller says two products are in the pipeline: Nebula DigiTV
+(http://www.nebula.electronics.com), a digital TV receiver for use
+with
+PCs, and i-Player, a Freeview receiver from Netgem
+(http://www.netgem.com).
+
+Delivery technology is not the only barrier to the development of
+audio
+description, however - the descriptions need to be written and
+recorded
+in the first place. The target for audio - described content was
+recently
+raised from six to ten per cent by the time a broadcaster is in its
+tenth
+year of service under the Communications Act 2003, with a draft code
+on compliance to be put out for consultation by the new industry
+regulator Ofcom (http://www.ofcom.org.uk) later this month.
+
+However, the RNIB has criticised the ten per cent quota and is
+campaigning for it to be raised to 50 per cent. The organisation is
+also
+lobbying the BBC, ITV and Channel Four to follow the example of
+Five and to use the existing BSkyB system to deliver their audio-
+described content.
+
+NOTE: Readers wishing to support the RNIB's campaign for more
+audio description can email campaign@rnib.org.uk for draft letters to
+send to broadcasters and politicians.
+
+
+++NEWS IN BRIEF.
+
++05: PHONE ANYTHING: A new phone-based internet service,
+PhoneAnything, will allow vision-impaired people in the UK to
+browse the web, fill in online forms and access internet radio using
+any
+telephone. Calls to the service, activated by voice or keyboard
+commands, are made by dialling 0845 333 0845, charged at local rates:
+http://www.phoneanything.com/vpweb.htm .
+
++06: EYPD BLUE: Liz Lynne, the European Parliament member
+appointed as official 'rapporteur' for the European Year of People
+with
+Disabilities 2003, has said that the year did not meet its potential
+and
+was "depressingly weak on positive outcomes." She says the year has
+raised awareness of disability issues, but now must be backed up by
+speedier implementation of the EU Disability Directive and the
+employment directive to ban discrimination on the grounds of
+disability in the workplace:
+http://www.lizlynne.org.uk/story.php?id=182 .
+
++07: THIN ACCESS: The computer access software specialist Dolphin
+has announced that the latest versions of its Supernova, Hal, Lunar
+and
+LunarPlus products will work on 'thin client' computers - low-
+functionality terminals which generally cannot run special access
+software:
+http://www.dolphinuk.co.uk/news/t_services.htm .
+
+[Section one ends].
+
+
+++SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+
+Accessify Forum is a discussion forum devoted to all topics relating
+to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new
+accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along
+and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+- Please email all contributions or responses to inbox@headstar.com .
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+- Please email all contributions or responses to inbox@headstar.com .
+
++08: FLAT OUT: Robby Barnes of the Kaizen Program for New
+English Learners with Visual Limitations in Seattle, Washington
+writes
+to add to our recent correspondence on the use of screen magnifiers
+with flat-screen monitors (see also Inbox, last issue).
+
+"The problems I have experienced with a flat-screen monitor with
+ZoomText screen magnification at 5x or 6x involved 'ghosting'
+(breaking up of the screen image) when I moved the mouse or scrolled
+the page up or down. This made it very tiring to read with
+magnification for any length of time. Regular monitors don't have
+this
+problem because they have a much faster refresh rate.
+
+"Is it possible that the TFT iiyama AS 4611 UT 18-inch screen has a
+faster than usual refresh rate which makes it compatible with screen
+magnification?" NOTE: in our last issue, Chris McMillan said that she
+had encountered no problems using ZoomText with this iiyama screen.
+[Further responses please to inbox@headstar.com].
+
+
++09: MUSIC QUIZ: Scott Rae of the Highland Society for Blind
+People has a quick question about accessible music tools. "I work
+with
+visually impaired teens, and we are exploring their barriers to
+social
+inclusion and they are starting to challenge them. Have any readers
+come across technology that would help visually impaired youth read
+sheet music?" Suggestions please to inbox@headstar.com .
+
+
++10: BUGBEAR SLAIN: The blind barrister Fayyaz Afzal, profiled in
+our November issue, said his biggest technology bugbear was not
+being able to read text messages on his mobile phone. Lynn
+Holdsworth, Web Developer at the RNIB, writes in to say: "Perhaps
+this would be of interest to Fayyaz. I'm currently using a Nokia 3650
+with an excellent beta version of the Talx [speech output] software
+that
+runs on Symbian phones.
+
+"The software should be commercially released in the next month or
+so. With it I'm able to check my battery and signal strength, read
+text
+messages, use contact lists and the appointment scheduler. I don't
+yet
+have access to WAP, but that's about the only thing that's lacking."
+
+
++11: CLEAR SPEECH: In our last issue, we ran a news piece saying
+that the US analyst Donna Fluss of DMG Consulting was predicting
+that the worldwide market for speech technology products is set to
+leap
+forward over the next 18 to 24 months.
+
+After reading the piece, Jo Fullerton, Lead Technology Officer (pre-
+16) at the RNIB Education Centre Scotland, wrote in with a point of
+clarification: "Do you think all your readers will realise that Donna
+Fluss is talking about speech control of computers (voice recognition
+and voice input) rather than screen readers? It took me a while
+reading
+her original article to be clear that she is talking about speech
+mainly as
+an input device rather than as output.
+
+"Nevertheless, there are links between the technologies, so hopefully
+this business thrust will benefit blind users of computers too. I
+suppose
+if speech input did become as accurate as keyboarding and some of the
+other difficulties were reduced, those blind people who have not
+learned touch typing should benefit."
+
+[Section two ends].
+
+
+++ SECTION THREE: SPECIAL REPORT
+- WEB AWARDS.
+
++12: DESIGNS FOR LIFE
+by Mel Poluck  mel@headstar.com .
+
+"It's a funny thing building an accessible web site: people don't
+always
+realise the work that goes into it", says Emma Charles, one of six
+web
+site producers honoured at this month's 'Visionary Design' awards
+(http://www.visionary-design.org).
+
+The awards, hosted by the National Library for the Blind (NLB -
+http://www.nlb-online.org), were judged by a panel including ten
+people with vision impairment. Emma Charles' company TWI
+Interactive (http://www.twii.net) produced the web site for the
+Manchester United football team (http://www.manutd.com) which
+scooped the 'large organisation' prize.
+
+Manchester United plc has a formal policy to meet the needs of its
+disabled supporters (http://fastlink.headstar.com/mufc1), working
+with
+the Manchester United Disabled Supporters Association (MUDSA -
+http://www.mudsa.com). The policy includes a commitment to web
+accessibility, and members of MUDSA, one of whom is vision-
+impaired, helped to test the team's web site before it went live.
+
+Although the team's main web site is not fully accessible, there is a
+separate accessible site carrying most of the information to be found
+on
+the main site. "You can change the text size up to a high level while
+maintaining the page layout (see http://www.manutd.com/access), so
+people with vision difficulties don't necessarily have to use screen
+magnification, which can create a bit of disorientation," Charles
+says.
+
+Also popular with the judges was the way users of the site can choose
+colour combinations: "You can choose to 'skin' your web site in one
+of
+the colours of the Manchester United kits," says Charles. Luckily,
+the
+team's kit colours coincide well with those colour combinations that
+many people with impaired vision find easier to use.
+
+The winner of the award in the government category was Rushcliffe
+Borough Council (http://www.rushcliffe.gov.uk) in Nottinghamshire.
+The council's one-man-band web developer Laura van Weyenbergh
+claims accessible features of the site "are nothing revolutionary."
+She
+says: "I started it because I felt passionate about it, but anyone at
+the
+award ceremony would have felt inspired - it made me more fired up".
+
+Referring to the international Web Accessibility Initiative
+guidelines
+(http://www.w3.org/WAI/), whose highest standard is known as
+'AAA', she says "I was quite surprised we won because we were not
+AAA compliant". The site does however include a facility to make the
+text display larger; 'access keys' to assist browsing using a
+keyboard
+rather than a mouse; and advice on how to make Adobe pdf files more
+accessible.
+
+Other winners included Birmingham Focus on Blindness, which also
+received a British Interactive Media Association award last week
+(http://www.bima.co.uk/content_awards/2003-shortlist.html); and The
+Bradshaws Online (http://www.thebradshaws.biz), the web site of a
+radio comedy show about a working class Mancunian in the 1960s. It
+started life as a cult late-night show on Manchester's Piccadilly
+Radio
+and is now syndicated to stations worldwide.
+
+Darren Poyzer, designer of The Bradshaws Online, describes himself
+as "one guy who works out of a bedroom," who initially designed the
+site as a favour for a friend. He says: "We were under no brief to
+create
+an accessible version of the web site, there was no political
+motivation.
+It was just a natural thing to do - because it's radio, we probably
+have a
+bigger vision-impaired following."
+
+Poyzer says he incorporated the accessible version of the web site
+within the theme of the site, in a black and white "traditional"
+version.
+"I undid all the science and used a bit of common sense. You've got
+to
+look at things from the user's point of view, not always a technical
+point of view".
+
+Why does he think he won the award? "[At the ceremony], the first
+message was that it is so easy to navigate, and it's enjoyable",
+Poyzer
+says. "I'm certainly no expert: a visually impaired person has tapped
+into a web site I've done and it's worked."
+
+Poyzer said he was "overwhelmed by the enthusiasm" of one vision-
+impaired woman he met at the ceremony who had nominated the site.
+"That was the award," he said.
+
+[Section three ends].
+
+
+++SECTION FOUR: OPINION
+- TECHSHARE 2003.
+
++13: A NEW ERA OF REALISM?
+by Kevin Carey  humanity@atlas.co.uk
+
+The fourth Techshare conference on the role of technology in the
+everyday lives of people with sight problems marked a watershed in
+the way that ICT for visually impaired people is viewed both by their
+own advocates and by industry. The conference was hosted by the
+RNIB in Birmingham last month (http://www.rnib.org.uk/techshare -
+see also story 02, News, this issue).
+
+On the advocacy side, the fact that most people with sight problems
+are
+more concerned about being able to use consumer electronics and
+telephones than home computers seems to have finally hit home. And
+on the industry side, in a volte face of spectacular proportions, the
+major players Microsoft and Vodafone admitted that the world was not
+divided between a handful of severely disabled and troublesome people
+on the one hand and an overwhelming majority of able and satisfied
+people on the other. They finally discovered the disability
+continuum:
+from total blindness to reading problems with standard format on-
+screen text.
+
+What bliss! We are no longer part of the awkward squad, but an
+important market segment; and the industry objective is not to bury
+us
+but to praise us!
+
+The fact that the technology industry's Damascene conversion has
+arrived so late is a direct reflection of the vision impairment
+sector's
+past tendency to focus on proper but minority concerns about
+accessing
+technology in education and employment. But as access to television,
+radio, mobile phones and the like are more mainstream concerns
+shared by almost all people with impaired vision, it is right that
+there
+has now been a shift of emphasis towards these household devices.
+
+It is also appropriate that the two people who are most responsible
+for
+this change of attitude can share the credit for Techshare's success.
+The
+RNIB's Richard Orme and Steve Tyler have, in their various ways,
+broadened the horizon of the whole sector to think about DVDs and
+phones as well as word processing and computer programming. So
+often accused of being backward looking, this is an area where RNIB
+is miles ahead of most of the rest of the vision impairment sector.
+
+This has been achieved not least because the institute has
+increasingly
+moved towards evidence based policy-making, exemplified by the
+early results of the 'uses of technology' research carried out by
+City
+University: watch this space.
+
+The other great pleasure of Techshare this year was the reduced
+amount of 'technophilia' and a much increased recognition of human
+factors. Even when access technology works - and the failure rate is
+depressingly but predictably high from a hitherto fragmented market
+of
+small niche suppliers - the key to interactive success is self
+confidence
+and a feeling of being in control. On these points the debate is much
+better balanced.
+
+A third welcome change of tone worth noting at this year's event was
+an apparent new willingness among lobby groups to come to terms
+with the technological and regulatory complexities of the access
+agenda. Most delegates were certainly less stridently dogmatic this
+year; the subordinate clause has, so to speak, come home.
+
+All this may well be a false dawn. As technologies advance, the
+comparative disadvantage between people with sight problems and the
+rest of the world widens in spite of solid progress; and if the
+commercial sector's objective is to use soft language to try ward off
+trouble, it would not be the first time.
+
+Overall, however, it would be wrong to end on a negative note.
+Techshare was a fine and varied collage of snapshots of where we are
+now. Its challenge will be to work out a way to fascinate us now that
+neither acrimony nor a search for paradise remain on the agenda.
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as
+'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek dan@headstar.com
+Deputy editor - Derek Parkinson derek@headstar.com
+Reporter - Mel Poluck mel@headstar.com
+Correspondent - Phil Cain phil@vitalpublishing.com
+Editorial advisor - Kevin Carey humanity@atlas.co.uk .
+
+ISSN 1476-6337 .
+
+[Issue ends.]

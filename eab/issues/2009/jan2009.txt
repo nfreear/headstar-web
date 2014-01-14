@@ -1,0 +1,519 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 109, January 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++E-Access '09: Technology For All
+- Access To All Technologies By People With Disabilities
+- Fifth Annual Conference And Exhibition
+http://www.headstar-events.com/eaccess09/
+
+In an ageing population, and in tough economic times, ensuring all
+your customers, service users and staff are included in everything you
+do is more vital than ever, from your externally-facing websites to
+internal IT systems.
+
+E-Access Bulletin's fifth annual conference and exhibition on access to
+technology by people with disabilities is taking place on 23rd April
+2009 at Olympia Conference Centre in London. Our keynote speaker is
+Bill Thompson, technology critic and broadcaster, who will explore the
+day's key themes.
+
+Other speakers include Graeme Whippy, Senior Manager, Lloyds TSB
+IT Accessibility Group; Shadi Abou-Zahra, of the W3C Web
+Accessibility Initiative, on the new international web access guidelines
+WCAG 2.0; Julie Howell, Chair of the committee developing a new
+British Standard for web accessibility BS8878; and Damon Rose,
+Editor of the award-winning BCC disability website 'Ouch', on the
+future of accessibility.
+
+Places cost just £195 +VAT for public sector delegates; £295 +VAT
+for private sector; and £165 + VAT for small charities and non-profits
+(turnover less than £150k a year). To find out more and sign up today,
+visit:
+http://www.headstar-events.com/eaccess09/
+
+[Special notice ends].
+
+
+++Issue 109 Contents.
+
++1: Visual Memory Is Key To Use Of Graphic Interfaces
+- Phase 1 findings from survey of blind programmers.
+
+02: Tech Industry Slams 'Fragmented' EU Inclusion Policy
+- Warning of 'massive failure' by member states.
+
+03: Sign Language Videos And Virtual Tours Win Cultural Awards
+British Library among Jodi Mattes prizewinners.
+
+News in Brief: 04: Driving Innovation - computer exam system; 05:
+Future Build - ICT access in schools; 06: Language Access - web
+speech translation.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Double Opt-In - Captcha alternative; 08: Style Problems? -
+possible glitch with browser tool.
+
+Section Three: Special Report - Access To The Web.
+09: Quality, Not Quantity: The Dutch government's IT agency has
+developed a set of principles whereby web-based information can be
+viewed on as many devices as possible, boosting accessibility and
+helping ensure it will be future-proofed against changes in technology.
+Dan Jellinek reports on this and other key European web access case
+studies, including the French Railway's ticketing site.
+
+[Contents ends].
+
+
+++Section One: News.
+
+
++01: Visual Memory Is Key To Use Of Graphic Interfaces.
+
+New research has found it is easier for blind computer programmers to
+use and develop graphical user interfaces (GUIs) when they have
+previously been sighted and retain some visual memory. This memory
+helps programmers to visually represent GUIs, even if the interfaces
+themselves were designed after they had lost their sight, it found.
+
+The research, termed the 'Combine project' (
+http://fastlink.headstar.com/hayhoe1 ),
+was conducted by Dr. Simon Hayhoe, editor of the 'Eco' collaborative
+website on blindness and the arts.
+
+GUIs are rapidly replacing older text-based mainframe systems. These
+text-based systems were preferred by programmers who had no visual
+memory and so had never experienced GUIs.
+
+Hayhoe told delegates at last week's BETT 09 educational technology
+conference in London that social and cultural factors have also
+influenced opinion on blind people, often causing them to be
+underestimated and limiting educational opportunities. There are also
+generational and educational factors in how blind people work with
+new technologies. "We can't think of blindness as just a perceptive
+problem", he said.
+
+The ongoing research project surveyed a group of computer
+programmers registered as blind; those born blind; those with
+assimilated blindness (someone who went blind during the period of 4-
+18-years-old); and those with visual memory (people going blind in
+adulthood).
+
+Participants were asked whether they used text-based programming
+environments or GUIs, and for the latter, how these were represented
+or imagined by the individual, for example with the use of visual
+metaphors to navigate the system.
+
+The work could help inform future interface design, Hayhoe said.
+Areas he hopes to address in a second phase of the study include the
+motivations of blind students who become programmers, and whether
+it is common for programmers with visual memory to reject the use of
+Braille. This last point arises after the case studies of those with visual
+memory showed that they preferred to use suitably adapted mainstream
+methods to understand programming languages.
+
+
++02: Tech Industry Slams 'Fragmented' EU Inclusion Policy.
+
+The lack of a coherent approach to boosting technology accessibility
+across European nations has been attacked by a leading technology
+industry spokesman.
+
+Mark McGann, Director General of the European Information,
+Communications and Consumer Electronics Technology Industry
+Association (EICTA), told the recent European Commission Vienna
+conference on digital inclusion that the lack of a cohesive approach in
+this field has been "a massive failure".
+
+He said the situation with accessibility was similar to that found with
+the switchover to digital television, which has happened in a
+fragmented fashion across Europe. "Too often we don't have one
+Europe, a single market. We have been advocating a single European
+approach to switchover for years."
+
+Governments need to set a regulatory framework for accessibility,
+McGann said, but "we don't want 27 policies" - policies should be
+unified and co-ordinated at a European level.
+
+Both the unified and national policies should focus on the goals of
+accessibility, not the specific means of attaining them, he said. "We do
+not recommend that individual governments go into technologies or try
+to choose a technological winner, that would fail. [But] now more than
+ever, governments have an obligation to show leadership in this
+domain."
+
+On the other hand, there were positive signs, McGann said. With
+digital TV, for example, once the policy side becomes more co-
+ordinated, the technology itself "will be much more accessible than
+analogue ever was."
+
+
++03: Sign Language Videos And Virtual Tours Win Cultural Awards.
+
+The National Trust, the British Museum and the V&A are among the
+recipients of last month's annual Jodi awards for excellence in
+accessible cultural websites and digital media (
+http://fastlink.headstar.com/jodi2 ).
+
+The British Museum won the Excellence in Web Accessibility Award
+for its BSL Schools Web Project (
+http://fastlink.headstar.com/bm1 ). The museum worked with the Frank
+Barnes Primary School for deaf children in London to produce videos
+for some of the exhibits in British Sign Language (BSL).
+
+The Excellence in Accessible Digital Media Award was scooped up by
+the National Trust for a series of accessible virtual tours. Some 14
+tours are currently active and a further eight are still in development by
+the Trust's partner in the project Corvidae (
+http://corvidae.co.uk/panoramas/ ).
+
+The Victoria and Albert museum picked up the Excellence for People
+with a Learning Disability Award for a series of art-based educational
+workshops for people with learning difficulties which is now in its
+third year. The project is called Outside Pathways (
+http://www.outsideinpathways.org.uk/ ).
+
+
+
+++News in Brief:
+
++04: Driving Innovation: An accessible examination system to allow
+disabled people to study for basic computer user qualifications,
+including the European Computer Driving Licence (ECDL), has been
+developed by the British Computer Society. The Multi Accessible Test
+System allows candidates to sit the ECDL with a text-only option or
+with video clips showing sign language interpretation or synthetic
+narration accompaniment:
+http://fastlink.headstar.com/bcs4
+
++05: Future Build: Local IT accessibility and special educational needs
+experts and professionals must be allowed to be involved closely with
+local council's projects to build new schools under the government's
+Building Schools for the Future (BSF) programme, the charity
+AbilityNet has warned. In a statement released at this month's
+education technology conference BETT 09, AbiltyNet said BSF was a
+wonderful opportunity, but it also presented "huge potential pitfalls" if
+the needs of pupils with disabilities and SEN are overlooked in the
+planning stages of school building projects:
+http://www.abilitynet.org.uk/edu_bsf .
+
++06: Language Access: A new version of the 'Talklets' talking web
+page system from Textic includes real-time spoken translation of
+English text into French, Spanish, German, Polish or Chinese. The
+system - which embeds code into participating websites to access
+software on the company's servers - uses the Google translation
+feature to create a written translation and then converts this into
+speech. Word and pdf documents can also be translated into foreign
+speech, and further languages are promised in 'the near future':
+http://www.textic.com .
+
+[Section One ends].
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: DOUBLE OPT-IN: Tedd Sperling, a freelance programmer based
+in the US and frequent correspondent to E-Access Bulletin on the
+inaccessibility of most 'CAPTCHA' tools (the distorted visual or audio
+codes users of some websites must decode to register).
+
+Further to the report in our November issue of a talk given by Robin
+Christopherson of AbilityNet, referring to problems with registering on
+the Google website, Tedd writes: "As you may remember, I've given
+the CAPTCHA 'need' quite a bit of thought and investigation over the
+years. I've written all sorts of CAPTCHAs, including an audio one.
+
+"However, my current solution is simply an automated double-opt-in
+method for anyone wanting to post a comment, as can be demonstrated
+here:
+http://sperling.com/four-things-clients-should-know.php .
+
+"I don't think this method is too much to ask of users and I don't think
+it is inaccessible. Additionally, this method throws the burden of
+banning posters onto my shoulders and not on the user by making them
+pass a CAPTCHA test.
+
+"A double opt-in list is simply an email confirmation process that must
+be completed before allowing a person to post to a site. If a person
+wants to make a comment, they first submit their email address to the
+form at the bottom of any article. The form then records the email
+address given in a database; and emails a 'token' (a unique string of
+numbers and letters) to the user as part of a link.
+
+If the user clicks the link they are taken back to the web site and their
+email address is confirmed. After that, whenever they want to post,
+they can do so without hindrance.
+
+If a spammer wants to post something, then they don't normally go
+through the confirmation process. However, if they do and I don't like
+the post, then I simply ban the IP [internet address]. Thus far, it's
+worked for me."
+
+[Further comments please to inbox@headstar.com].
+
+
++08: STYLE PROBLEMS? Diana Monahan of Moor End Technology
+College, Huddersfield, writes in to describe a problem she has
+encountered in attempting to use a website offering free accessible web
+browser style sheets to download, that has been mentioned in the past
+in E-Access Bulletin.
+
+"This may not be in your remit, but perhaps through the bulletin we
+can find a solution or an alternative," writes Diana. "In the past I have
+used the website
+http://www.oneformat.com/
+to decide which style sheet to use with my visually impaired pupils. I
+went to the site recently and was told by the school software that
+"Virus/spyware Troj/Comic-Fam has been detected in [the site]".
+
+"Is there any way of getting the problem sorted as this was a very
+useful website and I don't know of an alternative?"
+
+We have tried to contact the site's owner, but so far without success. If
+he or any reader is able to advise whether this is a problem with the site
+or might rather be a problem with Diana's local computer, their
+responses would be most welcome, to:
+inbox@headstar.com .
+
+
+[Section Two ends].
+
+
+++Special Notice: Opportunities and risks of open source software in
+the public sector.
+-A Headstar Training/Positive Internet Masterclass
+Thursday 05 February 2009, Central London
+http://www.headstar-training.com/Open/
+
+Free and open source software have revolutionised ICT. In the public
+sector, an increasing number of bodies are making use of these
+technologies.
+
+Cost is the main driver, since open source software has few of the costs
+and licensing restrictions of traditional software. However, the area is
+complex, and the savings analysis - taking into account training, full
+cost of ownership, and other issues - can lead to confusion.
+
+Our masterclass can help. In our unique open source software overview
+training course aimed at the public sector, Nick Mailer unpicks the
+major controversies and myths surrounding free and open source
+software.
+
+Nick will illustrate how you can leverage this software into your ICT
+environment, and move on safely to larger scale deployments. He
+shows how best to get support, advice and maintenance, and how best
+to secure your investment. To book a place visit:
+http://www.headstar-training.com/Open/ .
+
+[Special notice ends]
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Three: Special Report
+- Access To The Web.
+
++09: Quality, Not Quantity.
+- by Dan Jellinek.
+
+Voluntary guidelines on web accessibility are all very well, but there is
+nothing like a law for ensuring everyone falls into line. Such was the
+message to emerge from last month's European Commission
+conference on digital inclusion held in Vienna.
+
+Alexander Fase, Web Guidelines Project Manager at the Dutch
+government ICT agency ICTU, told delegates that his organisation had
+developed a non-technical, 'quality' approach to accessibility standards
+which focused on ensuring all information could be accessed through
+any channel, now and in the future.
+
+Such an approach was vital in an ageing society, he said: it was
+estimated for example that the number of people in Holland aged over
+55 would double by 2030, and the number of people with some level of
+impaired vision would double by 2020.
+
+"Old-school websites are only re-usable in a limited way - they are
+technologically complicated, and you had to redesign for a new
+corporate identity," Fase said. By contrast, the quality approach tries to
+ensure information will be available in the future, regardless of the
+emergence of new browsers and access devices. The approach is based
+around 125 quality requirements including keeping structure and
+design as separate as possible; and building websites according to the
+principle of 'layered design' (see
+http://www.webguidelines.nl ).
+His unit is also working on a business case for accessibility, to be
+published in 2009, Fase said.
+
+One of the most powerful statistics offered by Fase was that of the
+increase in accessibility of central government websites in Holland
+since it became a legal requirement. "Now web guidelines are
+mandatory, the score on accessibility is 10 times better than average,"
+he said.
+
+Matt May, Accessibility Engineer with Adobe Systems, agreed that the
+increasing use of multiple channels and devices to access web content
+meant that the basic requirements of what has been seen as
+accessibility for people with sensory impairments or disabilities are
+actually important for everybody.
+
+"I'm using a small notebook with a limited display so adjustment of
+text size is a universal issue now."
+
+It is also vital to realise that most people creating web pages do not
+actually use HTML, but rather intermediary 'authoring tools' such as
+Dreamweaver or Microsoft Word; programming tools; database-
+backed tools; or user-generated content, May said. "Today, many
+people are creating web content but may have never seen the code," he
+said.
+
+This means that the World Wide Web Consortium's 'ATAG'
+guidelines on the accessibility of web authoring tools are just as
+important as the consortium's better-known web content accessibility
+guidelines, (WCAG) he said. "As an industry, standards are very
+important to us, because we can take them to our developers."
+
+One case study of a major European retail website which was given an
+accessibility overhaul found that even the largest and busiest sites can
+be improved without major disruption.
+
+Voyages-SNCF, the ticket purchasing website of the French national
+railway, is the leading online retailer in France, turning over 1.86
+billion euros of revenue in 2007 from some 700,000 daily users.
+
+Christelle Lortet, e-Accessibility Project Officer at Voyages-SNCF,
+told the conference that accessibility had been a goal for the site for
+several years, with improvements made steadily as parts of the site
+entered their natural upgrade cycle. The organisation also funded
+accessibility training for everyone involved, including web developers,
+graphic designers and Lortet herself, as project manager.
+
+There were three main reasons for the move: "It was our desire, and
+the law, and a competitive advantage."
+
+Lortet had a powerful message for those who think that making a
+website accessible means that one has to change its look and feel to
+something less sophisticated: on two slides, she showed what the
+Voyages-SNCF website looked like before its accessibility overhaul,
+and what it looked like afterwards. The two pages looked almost
+identical, with some small colour changes to improve contrast: the
+huge majority of changes are hidden in the code, she said. "This should
+convince any CEO who thinks that accessibility would force a
+company to change the design of its web page," she said.
+
+[Section Three ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporters: Tristan Parker, Majeed Saleh,
+Editorial advisor - Kevin Carey
+
+ISSN 1476-6337 .
+
+[Issue 109 ends.] 

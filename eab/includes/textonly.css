@@ -1,0 +1,25 @@
+/**
+ * Title: Text-only/ large-text E-accessibility Stylesheet (CSS2).
+ * URL:   http://www.headstar.com/eab/includes/textonly.css
+ * Rights: Copyright 2003-07-23 Nick, Bunbury IS.
+ */
+body, #Body {
+  font-weight: bold;
+  margin:      1%;
+}
+p,li,table,address, h4 { font-size: 1.1em; }
+
+#switch, #totop, #menu { margin-left: 0%; }
+#switch li, #totop li, #menu li, #totop h3, #menu h3
+{
+  list-style: none;
+  display: inline;
+}
+#switch li, #totop li, #menu li
+{
+  padding-left:5pt;
+  margin-left: 3pt;
+  border-left: 1px solid #333;
+}
+#headstar { border: none; }
+

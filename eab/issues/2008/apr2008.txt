@@ -1,0 +1,632 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 100, April 2008.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 100 Contents.
+
+01: Launch For Digital TV 'Easy To Install' Badging Scheme
+- Research body Ricability approves first six Freeview recorders.
+
+02: E-Learning Access Research Project Comes To UK
+- Open University Hosts May Workshop.
+
+03: Councils Urged To Mix Technical Web Tests With User Tests
+- Accessibility report urges twin approach to halt declining standards.
+
+News in Brief: 04: Conference Time - E-Access '08 set for success;
+05: Controversial Statements - American Express online format row;
+06: Librarian's Guide - web access book.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Support Sources - technology help links; 08: Design Hurdles -
+user testing plea.
+
+Section Three: Organisation in the Spotlight - Ricability.
+09: The Consumer's Champion: With its roots in the early consumer
+movement 50 years ago, Ricability is a unique research charity with a
+focus on helping the elderly, disabled and disadvantaged. Majeed Saleh
+reports on the central role it is set to play in helping people switch to
+digital TV.
+
+Section Four: Focus - Web Accessibility.
+10: The Power of Five: According to a new report from the Society of
+IT Management (Socitm), five errors account for 76% of all website
+accessibility failures. In an edited extract from the research, Robin
+Christopherson outlines all five and how to avoid them.
+
+[Contents ends].
+
+
+++Special Notice: E-Access '08: Three Days To Go
+- Landmark Annual Event on Access to Technology by All
+- 23 April, Central London
+http://www.headstar-events.com/eaccess08/
+
+E-Access Bulletin's fourth annual conference and exhibition on access
+to technology by people with disabilities is on 23 April, sponsored by
+Fortune Cookie and supported by E-Access Bulletin, RNIB and Ability
+Magazine.
+
+A fantastic line-up will look at issues surrounding access to the web; e-
+learning and education; digital TV switchover; accessible books; and
+employment issues. This is the place for all organisations in all sectors
+to find out how to comply with the law and how to make the best use
+of the talents of all your staff, students and service users.
+
+Delegate rates are just £195 for public sector, £295 for private sector
+and £165 for small charities and non-profits (turnover under £150k).
+Book today for your last minute place, at:
+http://www.headstar-events.com/eaccess08/
+
+[Special Notice ends].
+
+
+++Section One: News.
+
++01: Launch For Digital TV 'Easy To Install' Badging Scheme.
+
+A new scheme to badge certain digital TV products as 'easy to install'
+for older people and people with disabilities has been launched this
+week by the independent research charity Ricability.
+
+Ricability - the former research arm of the consumer body Which? - is
+running the project in association with Digital UK, the broadcaster-
+funded body charged with overseeing the switchover from analogue to
+digital TV signals across the UK between now and 2012.
+
+The 'Easy to install' research programme will test a wide range of
+digital TV recorders, set-top receivers and interactive digital TV sets
+(iDTVs) to identify those which are easy to install and retune at home
+without specialist assistance.
+
+Product elements evaluated include packaging, labelling and
+instructions; accessories supplied such as leads and batteries; the user
+interface including on-screen menus and remote controls; the ease of
+first-time installation and retuning; and customer support including
+helplines and websites.
+
+Ricability has issued its first 'Easy to install' badges to six Freeview
+Playback Digital TV recorders following tests earlier this year ahead of
+the full project launch. The six are the Digihome DTR160; the
+Goodmans GHD1621F2; the Humax Duovisio PVR-9200TB; the
+Technika AEDTR160S7; the Topfield TF5810PVRt and the
+Wharfedale 160DTR. Summary and detailed test reports for the six can
+be found online at:
+http://fastlink.headstar.com/ric2 .
+
+In May and June the charity will be testing and awarding further
+badges to a range of set top boxes and iDTVs. The scheme is for self-
+installed products but the chairty also notes that many satellite, cable
+and phone based services like Sky, Virgin and BT Vision will install
+equipment for users, and some electrical retailers will also install
+equipment at a cost.
+
+NOTE: For a full report on the history and work of Ricability see
+Section Three, this issue.
+
+
++02: E-Learning Access Research Project Comes To UK.
+
+A European research programme to improve access to e-learning
+platforms and courses by people with disabilities, with a special focus
+on distance learning, is to hold a consultation meeting in the UK next
+month.
+
+The Accessible e-Learning Platform for Europe (ALPE) (
+https://adenu.ia.uned.es/alpe/) complements the European accessible
+learning programme EU4ALL ( http://www.eu4all-project.eu/).
+
+The UK workshop is being hosted by the Open University in Milton
+Keynes on 7 May ( http://eu4all.open.ac.uk/alpe/). The project is
+focused on learning about creating accessible content and delivery,
+while the project's business partners will analyse the commercial
+aspects of the European accessibility market.
+
+Other partners in ALPE include the leading Spanish IT solutions and
+consultancy Indra, which is leading the project; UNED, the Spanish
+equivalent of Open University; and the Greek research body MetisNet.
+"The ALPE project has been a great opportunity to share findings with
+other project partners to understand the differences between the
+different countries," Christopher Douce of Open University told E-
+Access Bulletin.
+
+
++03: Councils Urged To Mix Technical Web Tests With User Tests.
+
+Local councils should carry out both technical accessibility testing and
+user testing of their websites to minimise exclusion of people with
+disabilities, and not just take one or other approach, a new report from
+the local government Society of IT Management (Socitm) finds.
+
+The report, a special supplement to Socitm's annual 'Better connected'
+review of all UK council websites, examines the reasons behind an
+alarming downward trend in accessibility in 2008. The accessibility of
+UK local council websites fell by almost 50 per cent since last year,
+with just 37 out of the UK's 468 council websites achieved the most
+basic technical standard of accessibility in 2008 - level 'A' of the
+World Wide Web consortium's web content accessibility guidelines
+(see E-Access Bulletin issue 99, March 2008 for further reporting on
+the Socitm findings).
+
+The society's new supplement says that to avoid future problems
+councils should combine technical accessibility testing with user
+testing. The former is defined as measurable points that allow access;
+the latter as evaluation of actual attempts to perform tasks on a website.
+
+"A site that offers good technical accessibility might not be usable by
+disabled people, if the layout and other issues do not take their needs
+into account," the report says. "It is not the case that organisations
+should follow one approach or the other. They should follow both.
+
+"The one approach considers the key technical guidelines that should
+be adopted across the site. The other approach considers the many
+different perspectives of a website that depend on the tasks to be
+undertaken, the specific characteristics of the disability and the many
+different combinations of technology that one might be using.
+
+"It is quite feasible that any failures in meeting technical guidelines
+may not apply in any single user experience, but they are very likely to
+apply in a significant percentage of user experiences. Equally, it is
+quite feasible that any failure in a single user experience may not relate
+to any of the technical guidelines and that this might be the case in a
+large number of user experiences."
+
+The supplement also finds that five common errors account for 76% of
+all types of technical accessibility failure reported by RNIB, and that
+removing them would increase by up to 50% the number of technically
+accessible council sites.
+NOTE: For a full report on the five common errors see section four,
+this issue.
+
+
+++News in Brief:
+
++04: Conference Time: Flash and accessibility; Managing e-access in
+large organisations; Technology aids for disabled students and Access
+to digital TV - moving to digital switchover are among the 10 plenary
+and workshop sessions at this week's E-Access '08. The biggest ever
+annual conference on access to technology by people with disabilities
+is hosted at Church House Conference Centre, Westminster, by
+Headstar, publishers of E-Access Bulletin. Sign up online for a last-
+minute place:
+http://www.headstar-events.com/eaccess08
+
++05: Controversial Statements: According to BBC reports, online
+credit card statements from American Express have become less
+accessible to blind people since December after the company shifted
+from HTML formatting to PDF as the main way of viewing statements.
+According a recent Radio 4 Money Box programme, HTML versions
+are still available but harder to find:
+http://fastlink.headstar.com/bbc7 .
+In an update last week, the BBC reported that the person who raised
+the complaint with Money Box, Richard Godfrey-McKay, a blind
+solicitor from Perth in Scotland, was now threatening to sue American
+Express unless the problem was sorted out within days. A
+spokeswoman for American Express told the BBC the company was
+"working with Mr Godfrey-McKay to understand the problems" and
+said a range of alternative formats were offered including large print
+and Braille:
+http://fastlink.headstar.com/bbc8 .
+
++06: Librarian's Guide: A guide book on web accessibility and
+usability aimed at library and information professionals has been
+published by Facet Publishing, the new name for the former Library
+Association Publishing. The book is edited by Jenny Craven and
+focuses on UK legislation and regulations:
+http://fastlink.headstar.com/bbc9 .
+
+[Section One ends].
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Support Sources: Last issue we published an enquiry from reader
+Patty Arnold about an apparently discontinued Access Technology
+Primer from the former National Library for the Blind, comprised of a
+series of free online training courses.
+
+We have since received two helpful responses from staff at the RNIB,
+into which the NLB merged last year.
+
+Jon Hardisty, Senior Librarian Digital Services at RNIB, said: "I'm
+sorry to say that the Access Tech Primer is no longer available. It was a
+funded project undertaken by National Library for the Blind several
+years ago, and the content was increasingly out of date, as the access
+tech packages covered were gradually updated by the software
+companies. This was perhaps reflected by the extremely low level of
+usage the site was receiving towards the end of its life.
+
+"RNIB maintains a list of alternative sources of training and advice on
+the technology section of the RNIB website
+(http://www.rnib.org.uk/technology), see particularly the 'information
+sheets' section."
+
+And Steve Griffiths, Access Technology Trainer at RNIB, adds: "The
+Access Technology Primer has been discontinued.
+
+"NLB and RNIB merged recently, and as part of that the NLB website
+has been incorporated into RNIB's. As an internal trainer in access
+technology I was asked to comment on the JAWS and ZoomText
+tutorials on the NLB site and my feeling was that they needed to be
+updated. We don't have the resources to do this update, and my
+understanding is that they were scrapped because of this.
+
+"That's the bad news. The good news is that there is lots of material for
+the applications available from the relevant manufacturers.
+
+http://www.aisquared.com/tutorial/ is a tutorial for ZoomText 9.1 (the
+current version) that can be run online or downloaded.
+
+http://www.aisquared.com/Support/Documentation.cfm has links to
+download a quick reference guide or more complete user's guide for
+the last few versions of ZoomText.
+
+http://fastlink.headstar.com/jaws3 gives access to a number of
+documents [on the JAWS screenreader]. The 'Quick start guides' are
+effectively tutorials for new users.
+
+http://fastlink.headstar.com/jaws4 has a series of downloadable MP3 or
+DAISY files for various JAWS features, including a link to Surf's Up,
+which is about using JAWS on web pages. Surf's Up can also be
+viewed online.
+
+http://www.yourdolphin.com/support.asp gives a variety of resources
+for Lunar, Hal and other Dolphin products.
+
+"All the above sites are updated regularly when new versions are
+released."
+
+
++08: Design Hurdles: David Bates, Chair of the National Federation of
+the Blind West Midlands Branch, writes in with a comment on website
+accessibility, particularly as relates to local councils, the subject of
+recent stories in E-Access Bulletin.
+
+He writes: "Having recently lost my sight I access websites using a
+screen reader, and because I can't read the screen I usually turn it off to
+save power, navigating by listening to the voice, which reads onward
+from wherever the cursor has been placed by the web designer.
+
+"Most council website staff could easily optimise their own websites
+for blind users by loading a screen reading programme onto their
+computer and thoroughly checking their own website by listening to
+the voice with their computers monitor turned off.
+
+"They would then encounter the built-in difficulties, including
+continuity problems where a link opens a new page with the cursor in
+the wrong place, requiring several minutes of listening before the
+cursor reaches the chosen section, and trying to listen to the same piece
+a second time by returning an invisible cursor back to the start of the
+piece.
+
+"Many web designers seem very reluctant to try the navigation hurdles
+which they set for their blind users, preferring to leave such checking
+tasks to blind people who are unlikely to understand the possibilities of
+the accurate cursor location which makes so much difference to
+accessibility. Can the experts design accessible websites, or must they
+be led by the blind?"
+
+[Further comments please to inbox@headstar.com]
+
+[Inbox ends].
+
+
+++Section Three: Organisation in the Spotlight
+- Ricability.
+
++09: The Consumer's Champion
+by Majeed Saleh.
+
+With the switchover to digital TV rolling across the UK between now
+and 2012, blind people and people with impaired vision, who
+paradoxically are major watchers of TV, have more to cope with than
+most in finding and installing the best new receiving, viewing and
+recording equipment.
+
+Although there is a national Digital TV Help Scheme offering
+(relatively) accessible digital TV receiver equipment and installation
+support at a low cost and free to people on benefits, people will often
+still be faced with tough choices about which equipment to choose or
+use when they want to buy outside of this scheme, or share a household
+with others.
+
+It is fortunate then that one organisation has been testing every major
+piece of digital TV equipment to come on the market for the past three
+years with a specific focus on use by people with disabilities, and will
+continue doing so for some time to come. This organisation is
+Ricability (
+http://www.ricability.org.uk/),
+a unique charity whose origins date back more than 50 years to the
+birth of the UK consumer rights movement.
+
+Ricability's roots are in the Consumer Association (CA) - now known
+simply by the name of its product comparison publication brand
+Which? - the body set up in 1957 by the activist, policymaker and
+entrepreneur Michael Young (later Lord Young of Dartington), who
+also invented the Open University. In 1963 the CA founded a research
+arm, RICA, to undertake research to a high academic standard in an
+eclectic mix of subject areas from estate agents to town planning. But
+the body soon found itself focusing on the specific needs of elderly and
+disabled consumers, a field that was to become its specialist area.
+
+In the Seventies, RICA's work covered everything from medicines to
+special footwear, invalid mobility vehicles and ground breaking
+research into the sexual problems experienced by disabled people.
+Then a series of 13 comparative test reports launched RICA's central
+interest in the assessments of special equipment and mainstream
+products through laboratory tests and assessments carried out by
+disabled people, an interest which has carried through to today's digital
+TV tests.
+
+RICA continued to be managed by the CA until 1991 when it became a
+fully independent product research and comparison charity known as
+Ricability - pronounced 'Ry-ka-bility' - with its own board of trustees
+and program of work. Through its trustees Ricability maintains a close
+association with Which?, and the latter still provides part of
+Ricability's core funding. The charity's other main source of funding is
+the Department of Health, and it also receives money for specific
+projects from various other companies, funds and organisations.
+
+Recent Ricability reports -which are available online as well as in print
+and audio CD or cassette - have included 'Stay in touch', examining
+fixed and mobile telecoms equipment and services for older and
+disabled customers; 'What's new', a guide to the latest home gadgets
+and electrical goods for elderly and disabled people; and 'A guide to
+buying a textphone', for deaf people and people with impaired hearing.
+It will shortly be publishing reports on shopping trolleys and bath lifts.
+
+In the area of consumer electronics, TV has been its strongest recent
+focus. Digital television can enhance a person's viewing experience in
+a number of ways, and new features such as Audio Description (AD)
+can radically improve access to programmes by the visually impaired.
+However the digital switchover will require many people to buy and
+install new equipment; more channels mean more complex channel
+navigation systems and more buttons on a remote control. Some set-top
+boxes incorporate AD while others don't; on some the feature is easier
+to use than others, some switch the feature off when the viewer
+changes channel.
+
+In 2005 Ricability won the commission from the then DTI (now
+BERR) to carry out accessibility and usability testing on digital
+television products in anticipation of the digital switchover (
+http://www.ricability-digitaltv.org.uk/ ).
+
+Since then the body has reviewed, recommended and produced
+detailed reports for consumers on more than a hundred iDTVs, set-top
+boxes, indoor aerials and digital television recorders. The government
+commission was renewed in December and testing will continue until
+at least 2009.
+
+The 'ease of use' research is conducted for Ricability at the Milton
+Keynes laboratory of Intertek RPT (
+http://www.uk.intertek-etlsemko.com/),
+a global leader in testing and certification of electrical products with
+whom both Ricability and Which? have a longstanding relationship
+
+This week Ricability and Digital UK have announced the launch of a
+new badge that will be applied to digital television products to identify
+those that are easiest to install (see News, this issue). Ricability has
+also been consulted over product design, one example being the SKY
+Digital remote control; information from testing is also fed back to the
+manufacturers in order to assist them improve their future designs.
+
+As everyday consumer products such as television sets converge with
+more sophisticated information and computing devices, Ricability will
+continue to offer a helping hand to people with disabilities in the
+information age.
+
+[Section Three ends].
+
+
+++Section Four: Focus
+- Web Accessibility.
+
++10: The Power of Five.
+
+The local government Society of IT Management (Socitm) this week
+published a report on website accessibility which included a round-up
+of the five most common accessibility errors.
+
+The society estimates that these five errors account for 76% of all
+website accessibility failures, and it asked Robin Christopherson, Head
+of Accessibility Services at the charity AbilityNet, to describe their
+impact. Robin is blind and uses the popular 'JAWS' screen reader
+software to access the web.
+
+An edited version of Robin's assessment follows.
+
+"Common failure 1 is to have no alternative text for images.
+
+"This is an extremely common occurrence. I visit a website and am
+confronted with numerous unlabelled images. For mouse users this
+'alternative text' is what pops up when you hover over the image. The
+average web page has dozens of images, from photos and adverts to
+'eye-candy' such as spacing graphics and design flourishes. Many of
+these images are also clickable links or buttons, and not knowing what
+these are makes navigation impossible. Imagine trying to drive from A
+to B where the signposts at every roundabout or junction are blank. A
+disaster!
+
+"Every single image on a website should be properly labelled. You
+don't need to begin captions by saying "Picture of.", as I already
+know it's a picture. You don't need to label 'spacer' or 'eye-candy'
+images (but give these a default caption so that the page still passes the
+accessibility checkers) and, above all, make sure that all images that
+are also links or buttons describe what will happen when you click on
+them, eg alternative text as "Marilyn Monroe - click to read her life
+story".
+
+"As well as revolutionising the site for blind users, labelled images will
+also help those with dyslexia and literacy difficulties who use text to
+speech software (they hover their mouse over any text or image and the
+content is spoken out). It will also help those with images turned off
+(many hand-held users do not display images) and, last but by no
+means least, Google loves labelled images.
+
+"Common failure Two is the inappropriate use of JavaScript.
+
+"JavaScript is used to write mini-programs that are embedded in web
+pages and can enhance their functionality. They are very widely used
+and set to increase dramatically with 'Web 2.0' applications.
+
+"My screen reader (JAWS) is one of the most sophisticated, but there
+are still many occasions when some uses of JavaScript leave me
+confused or frustrated, roaming at length to discover what bit of the
+page (if any) has changed after clicking that link, or finding that I am
+totally unable to access that shopping cart as selecting that button using
+the keyboard does nothing at all.
+
+"It isn't enough to offer an alternative for those not using JavaScript,
+thinking that disabled users do not have JavaScript switched on as a
+matter of course. The vast majority of users of assistive technologies
+(such as screen readers, voice recognition, magnification, alternative
+keyboards and mice) can benefit from JavaScript functions as much as
+anyone, with the major caveat that there are certain uses of JavaScript
+that are not accessible to these technologies.
+
+"The simple solution is to test your pages with these technologies to
+ensure that your particular application of JavaScript is not problematic.
+
+"Common failures 3 and 4 are errors in simple and complex data
+tables.
+
+"Thankfully, these days most websites use style sheets rather than
+tables to style and arrange the blocks of content on a web page. Where
+data tables are concerned, however, it is still the case that most are not
+coded in such a way that the relevant headings are spoken by a screen
+reader when moving from cell to cell. I hear '1327' and '1727' with no
+idea of whether these are sales of widgets or notable dates in history.
+
+"The solution is to make sure that all headings of columns and rows are
+coded using the 'th' tag instead of the 'td' tag. A screen reader will
+then announce these along with the contents of the cell, putting the data
+in context (eg "Widgets sold in June, 1327").
+
+"And finally, common failure 5 is the use of features with a lack of
+accessible alternatives.
+
+"Here you are confronted with an inaccessible bit of content or
+function and you search for a way around the obstacle, but to no avail.
+A classic example is 'CAPTCHA'. A CAPTCHA is a type of security
+test used to determine whether the user is human (and so exclude
+automated spamming programmes). A common type of CAPTCHA
+requires that the user type the letters of a distorted image. Since the
+image is by definition unlabelled (as otherwise it can be read by
+malicious software) an alternative (such as an option to register by
+phone or email) is essential.
+
+"When it becomes clear that you have content or function that cannot
+be made accessible, offer an accessible alternative. For example, the
+Google accounts sign-up process that uses CAPTCHA also has a link
+to an audio version of the code to be entered plus a link to contact
+customer services for those who cannot access either the visual or the
+auditory option.
+
+"Always remember that an accessible site is a popular site - and not
+just for the disabled community. Research has shown that a site that is
+designed with accessibility in mind is also easier to use by all."
+
+NOTE: 'A world denied: a supplement for Better connected 2008 on
+website accessibility' is available from Socitm. It is free to subscribers
+to the society's Insight programme; £50 for non-subscribers in the
+public and voluntary sectors and £99 for private sector non-
+subscribers.
+
+[Section Four ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2008 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporter: Majeed Saleh
+Editorial advisor - Kevin Carey
+Marketing Executive - Claire Clinton
+Sales and Marketing - Jo Knell, Will Knox.
+
+ISSN 1476-6337 .
+
+[Issue 100 ends.] 

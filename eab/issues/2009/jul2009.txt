@@ -1,0 +1,553 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 115, July 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for accessibility
+discussion on the web for nearly six years. Celebrating our sixth
+birthday next month, you'll find discussion of accessibility at all levels,
+from beginner to guru.
+
+The site has recently been redesigned and the forum system improved.
+This is still ongoing and you can join in the discussions.
+
+So whether you're looking to learn more about accessibility, want to
+help others and improve on your own knowledge, or just to browse the
+archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Sponsored Notice ends].
+
+
+++Issue 115 Contents.
+
+01: RNIB Team Welcomes Off-The-Shelf iPhone Accessibility
+- Includes world's first 'gesture-based' screen-reader.
+
+02: Deafblind Web Users Engage With Social Media
+- New interface hopes to encourage a 'sensory' internet.
+
+03: Outdated 'Legacy' Systems Hindering Accessibility
+- Survey also reveals finances are slowing progress.
+
+News in Brief: 04: Innovation Rewarded - National eWell-Being
+Awards; 05: Visionary Planning - national sight strategy; 06: Digital
+Opportunity - for those with a hearing impairment.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Brick Wall - BT's inaccessible website; 08: Readers' Rights -
+accessible book formats; 09: Touchstone Tours - Tactile educational
+resources; 10: TV Input - Audio description request.
+
+Section Three: Research - Accessibility.
+11: 'Just The Right Thing To Do': A recent survey by Bloor Research
+sought to uncover the barriers to, drivers of and suggestions for the
+improvement of ICT accessibility within organisations, yielding a few
+surprising results. Peter Abrahams from Bloor explains the findings
+and discusses implications for future work on accessibility
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: RNIB Team Welcomes Off-The-Shelf iPhone Accessibility.
+
+An advanced screen-reader and other accessibility features on a new
+version of Apple's iPhone represent an "extremely significant
+development" for a previously inaccessible technology, according to
+the Royal National Institute of Blind People (RNIB).
+
+'Off-the-shelf' features built into the iPhone 3GS allow blind and
+visually impaired users to send and receive text messages and emails,
+browse the internet, play music and make and receive phone calls.
+
+The 'VoiceOver' screen-reader on the new phone also claims to be the
+world's first "gesture-based screen-reader", working with the iPhone's
+touch-screen to describe or read out whatever function or piece of text
+the user moves their finger over, in any of 21 different languages. This
+allows users to read emails or text messages, and a 'Speak Auto-text'
+function will speak out letters or words being typed on the phone,
+suggesting possible corrections as it proceeds.
+
+A further gesture-based 'rotor' system activated with a circular motion
+of the fingers switches the screen-reader mode backwards and forwards
+between word-by-word speech and reading out individual characters.
+Additionally, a voice control function allows users to make and receive
+calls, play and control music through voice commands.
+
+The RNIB says Apple has taken "a positive step" by building-in these
+features for free. "All too often, blind and partially sighted people have
+to rely on third-party assistive technology software and hardware in
+order to make mainstream devices such as mobile phones accessible",
+said Kiran Kaja, from the RNIB's digital accessibility team. "This
+involves an additional cost for the user. But with Apple providing a
+free VoiceOver screen-reader on all iPhone 3GS devices, blind and
+partially sighted customers can now benefit from an off-the-shelf
+accessible mobile phone at the same price as their sighted
+counterparts."
+
+Other accessibility features on the 3GS include a zoom function that
+can dramatically magnify the entire screen of any application; an
+option to change the screen display to white on black, offering higher
+contrast; easily discernible tactile buttons to perform basic phone
+operations; and an option to use giant font sizes when reading emails.
+
+While praising these features, Kaja said there were one or two areas
+where further improvements could yet be made. "While the iPhone
+3GS includes very good accessibility features, RNIB would like Apple
+to continue to look at making the iPhone usable by those who may not
+be as technically savvy. They also have a role to encourage third-party
+application developers to make their applications compatible with
+VoiceOver."
+
+On its website, Apple states that it is "working with iPhone software
+developers so they can make their applications VoiceOver
+compatible."
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=306
+
+
++02: Deafblind Web Users Engage With Social Media.
+
+Social media users are being invited to think about the internet in terms
+of touch, taste and smell, to raise awareness of deafblindness and
+encourage deafblind people to use social networking sites, in a project
+from the deafblind charity Sense.
+
+An online 'Sensehub' portal ( http://www.sensehub.org.uk/ ) has been
+created for Sense on a pro bono basis by advertising and digital agency
+RMG Connect, allowing visitors to link to sense-based channels on
+sites such as Twitter, Facebook and YouTube. On the Twitter channel,
+for example, visitors can view streams of Tweets which contain words
+like 'touch', 'taste' and 'smell', while the Facebook link takes visitors
+to a group which encourages people to tag their photos with sense-
+based words, rather than just people's names.
+
+Alessandra Moscadelli, New Media Co-ordinator for Sense, said the
+Sensehub was created to "promote Deafblind Awareness Week to a
+young, traditionally reluctant audience, but also to draw attention to the
+fact that someone who is deafblind has extreme problems accessing a
+lot of the info on these websites."
+
+As well as encouraging more deafblind communities to use social
+networking and pushing developers to create more accessible
+applications, Sense hopes that the Sensehub will also connect users.
+"We wanted to link individual web audiences with each other - the
+audience who already have experience of deafblindness to those who
+are discovering it for the first time, forming a community to encourage
+a sharing of content and experiences and further raising awareness",
+said Moscadelli.
+
+The Sensehub interface has proved popular so far, receiving around
+2,500 hits in ten days, as well as an increase in the hub's Facebook and
+Twitter channels. Though difficult to measure at such early stage,
+Moscadelli estimates that when group links and numbers of 'friends'
+and 'followers' on social media sites are considered, the Sensehub may
+have reached up to 64,000 people.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=309
+
+
++03: Outdated 'Legacy' Systems Hindering Accessibility.
+
+A lack of accessibility in old ICT systems and lack of budget are the
+two main barriers preventing organisations from making their internal
+and external ICT systems more accessible for people with disabilities,
+according to the results of the new survey.
+
+These factors were each cited by 40% of respondents as 'strong' or
+'very strong' barriers to implementation of accessibility in a survey
+carried out by Bloor Research in conjunction with E-Access Bulletin's
+publisher Headstar and Ability Magazine. The finding suggests that
+providing tools for improving the accessibility of these 'legacy'
+systems could be an interesting business opportunity, say the survey's
+creators. Less than a quarter of respondents quoted lack of
+understanding of accessibility issues as a barrier to progress.
+
+The survey, which questioned organisations from both the public and
+private sector, investigated the current and planned status of
+organisations' ICT systems and identified the drivers for accessibility;
+barriers to progress; and what needs to be done to remove these
+barriers.
+
+Other findings included that "meeting legal requirements" and
+"enhancing corporate social responsibility" were the two main drivers
+behind ICT accessibility. The survey also revealed that, in general, the
+public sector is more committed to ICT accessibility than the private
+sector (as noted in E-Access Bulletin's sister publication, E-
+Government Bulletin:
+http://www.headstar.com/egblive/?p=226 ).
+
+NOTE: For a full report on the survey, see section three, this issue.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=312
+
+
+++News in Brief:
+
++04: Innovation Rewarded: A 'Talking bus stops' project from
+Brighton and Hove City Council, in which live bus time information is
+spoken to users, is the overall winner at this year's National eWell-
+Being Awards hosted by the sustainability charity UK CEED. The
+Royal National College for the Blind won the 'Reaching the Digitally
+Excluded' category for its free 'RoboBraille' service, which
+automatically translates electronic documents sent by email into
+synthetic speech or Braille:
+http://www.sustainitawards.co.uk/
+
++05: Visionary Planning: The establishment of local IT training
+programmes, IT helplines and ensuring that assistive technology is
+affordable are among measures proposed in the UK Vision Strategy
+implementation plan for England. The plan, published in June by a
+major partnership of charities, public bodies, educational bodies and
+others, sets out detailed aims for improving national eye care and sight-
+loss services. Further plans have been published for Northern Ireland
+and Scotland:
+http://fastlink.headstar.com/vision3 .
+
++06: Digital Opportunity: The government's new Digital Britain
+strategy, aimed at boosting the UK's digital economy, is an
+opportunity to address digital access for deaf and hard of hearing
+people in the UK, says the Royal National Institute for Deaf People
+(RNID). The report calls for an increase in broadband coverage and
+access to digital technology, which could "help reduce isolation,
+improve education tools and give deaf and hard of hearing people more
+opportunities", said Mark Downs, Executive Director of Science and
+Enterprise at RNID:
+http://fastlink.headstar.com/rnid1 .
+
+[Section One ends].
+
+
+++Special Notice: Building Perfect Council Websites '09
+- Accessibility On The Agenda At Headstar/Socitm Conference
+http://www.headstar-events.com/councilwebsites09/ .
+
+Accessibility of pdfs and online forms; and implementation of the new
+international web access guidelines WCAG 2.0 are among workshops
+on the programme at Building Perfect Council Websites '09.
+
+The conference, now in its fifth year, is the major annual meeting for
+local authority web professionals - around 300 attended last year.
+Facilitators of our accessibility sessions include Ted Page of PWS, a
+leading accessibility expert who has worked extensively with the BBC.
+
+A partnership between E-Government Bulletin and the Socitm Insight
+Programme, this unique event draws on the collected wisdom of ten
+years of Socitm's annual 'Better Connected' review of all UK council
+websites. Have a look at our website today to see the latest programme
+details, and book your place:
+http://www.headstar-events.com/councilwebsites09/
+
+[Special notice ends].
+
+
+++Section Two: 'The Inbox'
+
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Brick Wall: David Bates, a reader from Dudley in the West
+Midlands, UK, writes in to describe a frustrating experience he had
+recently in trying to access information on the website of a major
+company; British Telecom.
+
+"Although I am now blind and use a JAWS screen-reader, I foolishly
+decided to access a short business article from a BT Business
+Newsletter," he writes. "The website pages were not accessible, so I
+moved to BT.com in order to report this problem.
+
+"I imagine that there is an accessibility page somewhere which can be
+found by sighted people, but I couldn't find it because general
+accessibility was so poor. I then decided to enter my question in the
+help section, but asking a computer why it is not accessible seems to
+confuse it, and it asked for the question to be rephrased, several times.
+I was no match for the computer at this game, so I clicked on an email
+link which would allow me to send a message, or to unsubscribe.
+Apparently, the receiving computer does not read messages, so it was
+pleased to tell me that I would be unsubscribed.
+
+"Not to be defeated, I then phoned 150, and after ten minutes of
+trawling through all of the options, I decided to take the deluxe
+experience of waiting to speak to a Real Person (apparently, BT have
+several of these).
+
+"The lady was very helpful but she couldn't find anything about
+accessibility or give me a number for the people who operate the
+website. She then looked on BT.com but could find no helpline other
+than Emma, the computer who had failed to understand me an hour
+earlier.
+
+"I presume that the BT web designers occasionally interrogate their
+website with a software programme, which awards them with the
+required number of Brownie points, which of course makes everything
+OK.
+
+"And I suppose web designers want to create cool, exciting sites, and
+do not want to be hassled by blind people who are so inconsiderate as
+to try to run businesses, or to access websites - and then expect them to
+be accessible? Or am I misjudging British Telecom?"
+
+[Responses or further comments please to inbox@headstar.com ].
+
+
++08: Readers' Rights: Denise Dwyer, Access to Publishing
+Development Officer with RNIB, writes in to alert readers to a
+fascinating article on accessible book formats and access to publishing
+- the subject of much recent debate in this column - on the publishing
+news website BookBrunch. The piece laments a lack of progress in this
+field, and says everyone would benefit from book formats being more
+accessible.
+
+Denise says the RNIB hopes to post a response to the piece shortly. To
+read the article, see:
+http://fastlink.headstar.com/book1
+
+
++09: Touchstone Tours: Margot Whitfield of the Royal Ontario
+Museum in Canada writes in to say: "I have been trying to benchmark
+other institutions for tactile tours, particularly on the process for
+extending tactile collections in museums and on educational resources
+to accompany tactile tours.
+
+"Basically, I just wanted to know if anyone has information or a good
+process at their organisation for extending their tactile collection (i.e.
+whether it is through some kind of special relationship with
+conservation, museum volunteers or curatorial).
+
+"Also, I would like to know if any museum has a really nice package
+of tactile tours with special educational material."
+
+[Responses please to inbox@headstar.com].
+
+
++10: TV Input: Flávia Oliveira Machado, a masters degree student
+from Brazil, writes in to ask for input with her dissertation about audio
+description in Brazilian digital television.
+
+If anyone has information on current research into use of audio
+description or works in this field and would be willing to get in touch
+with Flávia, please let us know.
+
+[Responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Research
+- Accessibility.
+
+11: 'Just The Right Thing To Do'
+by Peter Abrahams
+
+In the past year or two it has been possible to detect heightened
+awareness of the need for accessibility of ICT products and services.
+This has partly been brought about by court cases such as that filed
+against Target.com in the US, where the National Federation of the
+Blind claimed that the company's website was inaccessible and
+violated disability legislation (
+http://www.headstar.com/eablive/?p=206 ).
+
+Other factors increasing awareness of accessibility issues include new
+standards such as the updated Web Content Accessibility Guidelines
+2.0; increased pressure from governments to make e-government
+services accessible to all; and the ongoing ratification of the UN
+Convention on the Rights of Persons with Disabilities (
+http://www.un.org/disabilities/convention/conventionfull.shtml ).
+
+These drivers are complemented by the realisation that in the sluggish
+depths of the current economic slowdown, organisations need to reach
+out to as wide a customer base as possible. Two ways of doing this are
+to improve your brand image by being seen to take your social
+responsibilities seriously; and to make your products and services
+reach out to a wider audience by including the specific needs of groups
+such as the young, the old, the underprivileged, those with disabilities,
+and the cash-rich but time-poor.
+
+In this light, accessibility is one significant part of a larger drive that
+comes under the title of inclusivity or design for all. If ICT systems are
+going to be available to the widest possible audience, then this must
+include making them accessible to people with disabilities.
+
+It is also the case that the process of designing for people with
+disabilities will highlight requirements that will help a much wider
+audience. For example, ease of navigation of a web site is essential to a
+person using a screen-reader or a dictation system, but the extra care
+put into the structure of the site to benefit this group will benefit other
+groups such as those who have not used computers before or those who
+have time pressures.
+
+With all these factors in mind, Bloor Research's Accessibility Practice,
+in conjunction with E-Access Bulletin's publisher Headstar and Ability
+Magazine, have just completed a survey of attitudes to ICT
+accessibility.
+
+The survey investigated the current and planned status of
+organisations' ICT systems and identified the drivers for accessibility;
+the barriers that were slowing down the implementation of accessible
+systems; and the actions that need to be taken by the industry to
+remove these barriers.
+
+The survey, which questioned organisations from both the public and
+private sector, shows that the level of commitment to accessibility
+across organisations varies dramatically, with the bottom fifth of
+respondents showing little interest in or future plans for accessibility.
+In general, the public sector was found to be more committed to
+accessibility and had plans to improve further. This is not surprising, as
+'Section 508' accessibility legislation in the US and the Disability
+Equality Duty in the UK are aimed at the public sector's procurement
+of ICT. Furthermore, the public sector has a general duty to serve all
+the population and to be inclusive, whereas the private sector does not
+see accessibility as a duty.
+
+Survey respondents were asked to state what they saw as the major
+drivers for accessibility within their organisations. Meeting legal
+requirements and enhancing corporate social responsibility were both
+rated strong or very strong drivers by 70% of the respondents, whereas
+only about 15% rated increased revenue or reduced cost as a driver.
+This suggests that further research is needed into the creation of
+business cases for accessibility.
+
+The survey also asked for other suggestions for reasons or factors that
+might encourage accessibility. Among common themes emerging from
+this included that: "It is just the right thing to do", and that
+organisations should "lead by example". However, more pragmatic
+reasons also appeared, such as "makes test automation easier", and
+"improves search engine optimisation".
+
+The survey then asked about barriers to implementation of
+accessibility. In response to this, 'legacy systems not being accessible'
+and 'lack of budget' were each cited by 40% of respondents as strong
+or very strong barriers. This suggests that providing tools for
+improving the accessibility of legacy systems could be an interesting
+business opportunity. Surprisingly, less than a quarter quoted lack of
+understanding or inadequacy of tools as a barrier.
+
+Finally, the survey asked an open question: "Suggest one improvement
+to accessibility support"; a question also asked at Headstar's recent e-
+Access 09 conference (
+http://www.headstar-events.com/eaccess09/ ).
+Both conference and survey prompted many interesting suggestions,
+with one of the main themes being a need to increase awareness of the
+issues, barriers and benefits of accessibility across all the stakeholders
+(which includes users, procuring departments, and IT at all levels
+within an organisation). A quoted example of this problem involved a
+government department which was promoting accessible ICT to local
+businesses, while at the same time another department was promoting a
+non-accessible solution to the same businesses.
+
+Other suggestions for accessibility support included better testing tools
+which are easier to use, and products that were accessible out-of-the-
+box.
+
+The full results of the survey will be published on the Bloor website (
+http://www.bloorresearch.com/ )
+in early July.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=315
+
+[Section Three ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 115 ends.]

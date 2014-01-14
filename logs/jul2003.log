@@ -1,0 +1,52 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:03 2004 __
+
+Input file: ../eab/issues/2003/jul2003.txt
+
+Warning: file already exists: ../eab/issues/2003/jul2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jul | index: 7 | year: 2003
+URLs, prev: ../2003/jun2003.html | next: ../2003/aug2003.html
+Found ++, heading 2: ISSUE 43 CONTENTS.
+>> FOUND 2:  | 01:  | Secret action may trigger wave of cases
+>> FOUND 2:  | 02:  | European procurement embraces accessibility
+>> FOUND 2:  | 03:  | Harry Potter and the missing version
+>> FOUND 2:  | 04:  | Talking lampposts for North London
+>> FOUND 1: News in brief:  | 05: Digital bridge - Brazil conference; 06: Virtual
+>> FOUND 2:  | 13:  | Mainstreaming choice: Emma Price, equality officer at King's
+>> FOUND 2:  | 14:  | No alternative to accessible sites: The debate over whether or not
+Warning line 51: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: SPONSORED NOTICE:
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | SECRET ACTION COULD TRIGGER WAVE OF CASES.
+Warning: not found a 'contents' match: Secret Action Could Trigger Wave Of Cases.
+> ITEM 2:  02:  | EUROPEAN PROCUREMENT EMBRACES
+Warning: not found a 'contents' match: European Procurement Embracesaccessibility.
+> ITEM 2:  03:  | HARRY POTTER AND THE MISSING VERSION.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | TALKING LAMPPOSTS FOR NORTH LONDON.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  The role of accessible digital technologies in
+> ITEM 1:  06:  | : |  The American Foundation for the Blind
+> ITEM 1:  07:  | : |  Nine specially-adapted computer suites
+> ITEM 1:  08:  | : |  Dolphin Computer Access has announced that
+Found ++, heading 2: SPECIAL NOTICE: TECHSHARE CALL FOR PAPERS -
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  09:  | : |  Jane Sellers, a reader from Surrey,
+> ITEM 1:  10:  | : |  John Knight of the Birmingham
+> ITEM 1:  11:  | : |  Peter Petersen writes in with a request for
+> ITEM 1:  12:  | : |  Last month we erroneously located the State
+Found ++, heading 2: SECTION THREE: INTERVIEW
+> ITEM 2:  13:  | MAINSTREAMING CHOICE
+Warning: not title-casing possible HTML:
+  13: MAINSTREAMING CHOICEby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: MAINSTREAMING CHOICEby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2:  SECTION FOUR: DEBATE
+> ITEM 2:  14:  | NO ALTERNATIVE TO ACCESSIBLE SITES.
+Warning: not title-casing possible HTML:
+  14: NO ALTERNATIVE TO ACCESSIBLE SITES.by Dan Jellinek  <a href="mailto:dan@headstar.com">dan@headstar.com</a>
+
+Warning: not found a 'contents' match: NO ALTERNATIVE TO ACCESSIBLE SITES.by Dan Jellinek  <a href="mailto:dan@headstar.com">dan@headstar.com</a>
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

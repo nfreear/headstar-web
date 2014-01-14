@@ -1,0 +1,621 @@
++++E-ACCESS BULLETIN
+- ISSUE 84, DECEMBER 2006.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+Sponsored by:
+RNIB
+( http://www.rnib.org.uk )
+BT Age and Disability Unit
+( http://www.btplc.com/age_disability/ )
+Ford Motor Company
+( http://www.ford.co.uk )
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 84 Contents.
+
+++Section One: News.
+
+01: Windows 'Vista' Offers Enhanced Accessibility
+- packaged for retail market from January.
+
+02: E-Petition For Accessible Websites On Prime Minister's Site
+- calls for better government website design.
+
+03: BBC iPlayer Team To Begin User Testing
+- streaming device to be tested by vision impaired users.
+
+News in Brief: 04: United Stand - UN e-accessibility; 05: Netgem No
+More - set top box discontinued; 06: Nice Type - new key font.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Subsidy Question - technology grant response; 08: Guidance
+Clarity - web guidance omission; 09: Training Tips - IT training
+advice; 10: Sound Clash - musical sites and screen readers.
+
+Section Three: Focus - Operating Systems.
+11: 'Vista' Changes the Image of Accessibility: Mel Poluck takes a
+look at accessibility features of the latest version of the Microsoft
+Windows operating system, Vista, and finds the company has taken
+steps to present the tools in a more positive light.
+
+Section Four: Focus - Web 2.0.
+12: Leaving The Sensible Shoes At The Door: A lack of knowledge
+about the creativity of vision impaired people and of collaboration
+between the voluntary sector and entrepreneurs, may mean vision
+impaired people are missing out on participating in developing Web
+2.0 tools, suggests Kevin Carey.
+
+[Contents ends].
+
+
+++Special Notice: e-Access '07 Date Announcement.
+
+We are pleased to announce the date of e-Access '07, the UK's leading
+annual event on access to technologies by people with all disabilities,
+hosted by E-Access Bulletin. It will be held earlier than usual next
+year, on 2 May 2007 in Central London.
+
+More information about e-Access '07 will be announced shortly, but
+please hold the date in your diary if you intend to come along!
+
+As ever, sponsorship and exhibitor opportunities will also be available
+at the event. If you are interested in these please contact Claire Clinton
+at claire@headstar.com .
+
+[Special Notice ends].
+
+
+Section One: News.
+
++01: Windows 'Vista' Offers Enhanced Accessibility.
+
+The new version of Microsoft's Windows operating system, 'Vista',
+offers enhanced access features including an improved screen
+magnifier, a basic screen reader and the capability to allow users to
+customise settings according to their needs.
+
+The 'Ease of access center'
+( http://www.microsoft.com/enable/training/windowsvista/eoa.aspx ),
+contains a set of 'recommended settings,' pages whose function it is to
+assess the level of the user's disability and make appropriate changes
+
+Users are asked to tick boxes next to statements such as: 'I am blind,'
+'Lighting conditions make it difficult to see a monitor' or 'Images and
+text on a TV are hard to see' in short questionnaires grouped by
+impairment.
+
+The 'center' is available from the desktop, in a move to make access
+features easier to discover, Director of the Accessible Technology
+Group, Rob Sinclair told E-Access Bulletin at a Vista accessibility
+briefing in Brussels last week. User feedback revealed many users
+simply did not know access features existed in the previous version of
+the operating system.
+
+The software giant has also shed the wheelchair logo that was
+previously used to open accessibility features available in the 'control
+panel' menu of its predecessor Windows XP. According to Sinclair,
+not everybody identified themselves with the symbol; particularly
+those with a temporary disability.
+
+Improvements have also been made to the system's screen magnifier
+which now enlarges on-screen content by up to 16 times; and to
+Narrator, a basic screen reader with a new natural-sounding speech
+engine called Anna. The team aims to further improve these features
+said Sinclair.
+
+The Vista operating system was launched to businesses last week and
+released on the retail market at the end of January 2007.
+
+
++02: E-Petition For Accessible Websites On Prime Minister's Site.
+
+An e-petition has gone live on the '10 Downing Street,' the British
+Prime Minister's website aiming to persuade Tony Blair to ensure
+government complies with basic web accessibility requirements from
+when they are launched.
+
+One of 892 e-petitions
+( http://petitions.pm.gov.uk/govaccessibility/ ),
+it reads: "We the undersigned petition the Prime Minister to ensure that
+any website launched by the government complies with accessibility
+standards (WCAG AA at least)."
+
+The open petitions initiative, which went live last month, from non-
+profit e-democracy organisation MySociety, allows the British public
+to start and sign any petition on a range of topics online.
+
+The petitioner, web designer and member of the Guild of Accessible
+Web Designers (GAWDS) Ian Fenn published the plea after
+discovering the website of the Department of Trade and Industry (DTI)
+failed to meet basic accessibility standards despite the department's
+claims that it reached level AAA according to the Web Accessibility
+Initiative's Web Content Accessibility Guidelines, following a 200,000
+pound re-vamp last June.
+
+The last attempt by Clackmannanshire Council web manager Dan
+Champion and Web Standards Project's Accessibility Task Force
+member Bruce Lawson to gain information from the DTI using
+Freedom of Information Law on why the lack of accessibility remained
+was refused on the grounds that it would take too long and cost too
+much money to answer, Champion told E-Access Bulletin.
+
+"However, the new site was launched failing even basic accessibility
+guidelines, hence failing to meet the DTI's own standards and
+requirements as specified in official documentation," said Jon Gibbins
+of Fifth November web design
+
+A DTI spokesperson said the website reaches AAA level of WCAG for
+its templates and checking and improving accessibility was an ongoing
+process. The petition deadline is 21 February 2007.
+
+The plea has so far been signed by 198 people at the time of writing,
+whose names can be viewed online - meaning it has received less
+signatures than a petition for the Prime Minister to stand on his head
+and juggle ice-cream.
+
+
++03: BBC iPlayer Team To Begin User Testing.
+
+A prototype of the 'iPlayer', a new online multimedia content player
+developed by the BBC, is to be tested next month by 100 people with
+disabilities.
+
+The iPlayer will allow UK viewers and listeners to stream audio and
+video content over the internet including all TV programmes broadcast
+on BBC TV - and later BBC radio programmes,  for up to seven days
+after an initial broadcast. The service will include audio description
+where it is already included in programmes
+
+The iPlayer project, which began in 2003, includes the 'display settings
+project' that develops the ability to customise content such as fonts
+size, adjust on-screen colour contrast, the spacing between letters and
+words and the ability to make content linear for ease of navigation by
+screen reader users.
+
+Gareth Ford Williams, Senior Content Producer, Accessibility at BBC
+New Media said the iPlayer could create a template for a "completely
+accessible interface" that could be applied to other BBC online features
+and websites. "The long term plan is to get it site-wide," said Ford
+Williams. "You could log on from any PC and the settings will migrate
+with you."
+
+Before the external user group begins testing the service, BBC staff
+with a vision impairment are also set to test the iPlayer and provide the
+development team with feedback. In future, Ford Williams said the
+BBC New Media accessibility team will also weave in feedback from
+users via the BBC's Web 2.0 blog and through the existing user
+groups.
+
+"Access is being built in from the bottom up," says Paul Crichton,
+director of web analytics consultants net-progress
+( http://www.net-progress.co.uk/ )
+and author of the BBC's Web 2.0 blog. "The plan at this stage is to
+make it completely malleable. The degree of customisation sounds
+exciting. So if you missed the audio description version of Torchwood
+on BBC2 this week, log on to the iPlayer site and eventually you'll be
+able to watch it, audio description and all," said Crichton.
+The iPlayer will be released in April 2007, although Ford Williams
+said "In the first two years it will go through many releases. What we
+put out in the first release is not the finished article."
+
+
+++News in Brief:
++04: United Stand: Access to information and communication
+technologies by people with a disability was the theme of the United
+Nations' international day of persons with disabilities on 4 December.
+To mark the event, the UN held a conference on e-accessibility; held
+the first meeting of the Global Initiative for Inclusive Technologies;
+and launched a "Global Audit of Web Accessibility," commissioned
+from UK consultancy Nomensa:
+http://fastlink.headstar.com/un4 .
+
++05: Netgem No More: The Netgem i-Player set top box for receiving
+accessible, audio described programmes via audible on-screen menus
+has been discontinued. The company that produced the device,
+Netgem, says it will not know until the new year what replacement
+device may be made available, if any. Some models are still available
+from the online 'BT shop' although these would need to be upgraded
+by Netgem to receive audio description:
+http://www.netgem.com/EN/index.php .
+
++06: Nice Type: An easy-to-read font aimed at low vision technology
+users for use by designers and manufacturers of any equipment with
+keys such as telephones, cash machines, computer keyboards, kitchen
+appliances and medical equipment has been released by accessibility
+organisation Tiresias. The font, Tiresias Keyfont V2, can be freely
+downloaded from:
+http://www.tiresias.org/fonts/keyfont.htm .
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
++07: Subsidy Question: Roger Wilson-Hinds writes in response to a
+feature by Kevin Carey 'All Change!' published in our September
+issue, on the UK government's technology grant scheme Access To
+Work.
+
+"I don't know whether Kevin Carey is unlucky, too patient in putting
+up with shoddy stuff, or typical of users. The equipment I use is great. I
+have an ET embosser which is like a workhorse. My low cost software
+LookOUT and more recently Thunder, crashes perhaps once or twice a
+month and even then I don't know whether it's the computer itself,
+other software or the screen reader at fault.
+
+"I have been self-employed since 1992 and am delighted to be able to
+say that for the past four years I have earned enough to purchase my
+own equipment which is a great source of personal satisfaction and
+achievement.
+
+"As far as unemployed people are concerned, I have become
+evangelical in promoting the freeware model: there should be and is a
+screen reader which is free for home personal use and chargeable to
+organisations on an annual subscription basis. Much better this way, I
+think, than hoping for cooperation from the charities, government and
+access suppliers.
+
+"My experience is that there is good technology about and sometimes
+this is overpriced and oversold. Access To Work is highly desirable,
+but the very existence of such a subsidy only pushes the prices higher,
+leaving unemployed, unfunded or inarticulate people further behind
+and unable to pay.
+[further responses to inbox@headstar.com].
+
+
++08: Guidance Clarity: Julie Howell Technical Author, PAS 78 and
+Director of Public Relations at Fortune Cookie web designers
+( http://www.fortunecookie.co.uk )
+writes in response to a story in the last issue, 'Public Sector Needs
+Better Guidance On Web Accessibility'.
+
+"The piece makes no mention of key guidance that was published early
+in 2006," writes Julie. "I am referring to Publicly Available
+Specification 78: Guide to Good practice in Commissioning Accessible
+Websites (PAS 78), commissioned by the Disability Rights
+Commission and published by the British Standards Institution. RNIB
+was the Technical Author and the document was redrafted by a
+steering group that included: Abilitynet, the Cabinet Office, IBM,
+Tesco.com, University College London and the Usability Professionals
+Association. It was then reviewed by 120 industry experts and
+interested parties including representatives from Adobe, the Web
+Accessibility Initiative (WAI) and disabled people ourselves.
+
+"PAS 78 contains detailed guidance on the process for developing
+accessible websites, and includes information on the role of automated
+testing tools, WAI guidelines and other web standards, and advice on
+when and how to involve disabled people in user testing your website.
+It is available free from:
+http://www.drc-gb.org/pas .
+
+"I hope that everyone who cares about the inclusion of disabled people
+in public life will read PAS 78 and recommend it to everyone in the
+public sector who has responsibility for government websites. It would
+be tragic to overlook this document - the DRC invested public money
+in its production and I truly believe that it contains much valuable
+information that complements the WAI guidelines."
+
+[Further responses to inbox@headstar.com].
+
+
++09: Training Tips: Jonathan White from Crewe in Cheshire, UK
+writes in response to a note from Claire Cheskin in the last bulletin on
+her difficulty accessing European Computer Driving Licence (ECDL)
+training materials. "Royal National College for the Blind have
+produced training materials for ECDL, plus other courses, for use with
+Jaws version 7.1 and Supernova version 7.0," he says.
+
+Julia Cosgrove adds: "I worked for the National Health Service and,
+four years ago, it was suggested I should do one of the college courses.
+Instead of doing this on my own, they referred me to North Tyneside
+College where, they have facilities for those who use screen readers,
+large print, etc.
+
+In class, you are provided with your own personal assistant who reads
+you the questions. If you get stuck, the tutor is asked to help and the IT
+people there were helpful. As well as the ones in the normal help files
+of Word and Excel, JAWS also has its own range of keyboard
+shortcuts which can be found in help files. It has been three years since
+I did the course and I rather think Jaws will have improved quite a lot.
+
+"I did all the modules within the year as we were tested after each
+module and this was placed in a book which was sent to the examining
+board at the end of the year. Powerpoint was, of course, the most
+difficult but my personal assistant and class tutor were very helpful and
+they even let me have extra lessons before the end of the summer term.
+
+"I would advise Claire Cheskin to ask her employers to get in touch
+with a local college and see if they have the right facilities for her.
+Also, she should make sure they have an up-to-date version of JAWS."
+[Further responses to inbox@headstar.com].
+
+
++10: Sound Clash: David Bates, from Dudley in the UK writes: "I
+recently visited a website to check some technical figures. The
+homepage was fine, but on clicking the required link I was met with a
+blast of music. Having recently lost most of my sight I use a
+programme, which reads out the text on the screen with a synthetic
+voice, which on this site was completely obliterated by the music.
+I waited for the music to finish so that I could listen to the text but,
+you've guessed it, the music was continuous.
+
+"Does this trend mean that I will eventually be barred from all
+websites, or will I be allowed a 'no sound or video' option as the first
+link on the homepage? People who lose their sight can use a screen
+reader, just so long as website developers don't drive them away with a
+compulsory soundtrack."
+[Responses to inbox@headstar.com].
+
+[Inbox ends]
+
+
+++Section Three - Focus
+Windows Vista.
+
++11: 'Vista' Changes the Image of Accessibility.
+by Mel Poluck
+
+'Vista', the new version of Microsoft Windows available to businesses
+from last week and released to the public at the end of January,
+includes a range of new accessibility features. And interestingly, two
+of the most noticeable differences in its accessibility offerings
+compared with Windows XP are simple changes in terminology and
+imagery.
+
+Microsoft's accessibility team has eliminated a couple of accessibility
+stalwarts: the old wheelchair symbol usually found in the 'control
+panel' option under settings' in the 'start' menu and the well-
+established term 'accessibility' has been ditched altogether.
+
+"People had to click on a wheelchair. People don't identify with that,"
+Rob Sinclair, Director of the Accessibility Team at Microsoft, told E-
+Access Bulletin. So unobvious were the access were access features in
+XP that, worryingly, when Sinclair demonstrated them, "people got
+excited because they think they're brand new," he said.
+
+In its place, there is a set of short questionnaires allowing users to "let
+the system know" about their personal access needs, enabling the
+system to tailor its interfaces accordingly. The 'Ease of access center'
+has a set of 'recommended settings,' pages whose function it is to
+assess the level of the user's disability and make appropriate changes.
+
+The first set of questions relates to vision impairment and asks user to
+tick boxes next statements like: 'I am blind,' 'Lighting conditions
+make it difficult to see a monitor' and 'Images and text on a TV are
+hard to see.' Other question pages relate to cognitive, hearing, and
+mobility impairments.
+
+"I'm curious because it's our first attempt at asking questions of the
+customer and recommending settings." But he is cautious not to give
+the impression this is the be-all and end-all of the operating system's
+accessibility. "We see this first 'Ease of access center' as a baby step,"
+said Sinclair.
+
+Importantly, this feature is available from the desktop, so users may
+now find themselves more easily stumbling upon accessibility features
+whether they want to or not. And, juxtaposed against the previous
+situation, this becomes an important point, because according to
+Sinclair, based on customer feedback on previous Windows versions,
+XP and 2003, users often simply did not know accessibility features
+existed. Consequently, while the software giant's marketing team has
+decided to shed one piece of terminology, accessibility, they have
+coined a new one to help drive their strategy: 'discoverability.'
+
+The 'Ease of access centre' is also the gateway to a set of new access
+features including a speech recognition feature, carried over from its
+predecessor XP, 'Narrator.' The screen reader has an updated, natural-
+sounding voice, 'Anna,' designed to read Vista operating system
+screen content only. Sinclair said this could not yet replace added-on
+assistive software. "We've focused on building a foundation," he said.
+
+For the first time in its history, Microsoft invited the collaboration of
+assistive technology vendors during the development phase, which
+lasted around five years. Last February for example, some 25 assistive
+technology vendors including Freedom Scientific, Dolphin and GW
+Micro, came to Microsoft headquarters in Redmond where they wrote
+code alongside staff allowing the smaller companies to build
+compatible products. "Many left with a product running on Vista," said
+Sinclair. In turn, this allowed Vista accessibility developers to garner
+valuable feedback about the operating system. "We sent them a
+preliminary version of Vista and they built their product on that. In the
+past we'd ship Windows then assistive technology vendors would
+spend time getting their products ready," said Sinclair.
+
+Another change is improvements to the built-in screen magnifier with
+the capacity to enlarge text to 16 times its original size. "The way the
+screen reader draws the screen is completely reinvented for Vista. It
+offers high quality magnification without jagged edges," he said. "It
+was harder than we imagined."
+
+He added that with more time and people the team could have further
+improved the magnifier, but Sinclair doesn't see the development
+phase as over yet. "The infrastructure is in place to do more interesting
+things," Sinclair told E-Access Bulletin. "We still have a long way to
+go. Vista is the first step down a new path."
+
+[Section three ends].
+
+
+++Sponsored Notice - Becta consultation.
+- 'Reasonable adjustments' for educational software.
+http://industry.becta.org.uk/display.cfm?resID=25444 .
+Becta has launched a consultation process to seek your views on the
+'reasonable adjustment' to be expected in future educational software
+and electronic materials for pupils with special educational needs or
+disabilities. This is an important milestone in the progress toward an
+inclusive and accessible curriculum.
+We have produced draft guidelines and invite your comments and
+contributions regarding the criteria for 'reasonable adjustment,'
+available from the Becta community pages:
+http://communities.becta.org.uk/digitalresources/reasonableadjustment/
+The site also offers the opportunity to participate in open debate on this
+issue, which will continue after the consultation.
+The consultation period is open until 12 December, after which the
+guidelines will be revised and made available on the Becta website in
+February 2007.
+
+[Sponsored notice ends].
+
+
+++Section Four - Focus
+- Web 2.0.
+
++12: Leaving The Sensible Shoes At The Door
+by Kevin Carey.
+
+We are already on the leading edge of what is somewhat pretentiously
+called Web 2.0, or "The Social Media". By the end of this year there
+will be: 100 million blogs and the number is said to be doubling every
+six months; 120 million YouTube downloads per day; and 130 million
+members of MySpace.
+
+Meanwhile, back in the world where the one-eyed man is king, we are
+still wringing our hands or sitting on the edge of our seats in
+anticipation of the Web Content Accessibility Guidelines (WCAG) 2.0.
+
+I can understand why we have concentrated on accessing and
+processing data but as far back as the writer and futurist Alvin Toffler's
+book The Third Wave of 1980, it was clear that to consume would
+never be enough; that to survive we had to become both producers and
+consumers - "Prosumers" he called them.
+
+The nostrum of Mr Micawber, the Charles Dickens' character from
+David Copperfield - "Annual income twenty pounds, annual
+expenditure 19 pounds 19 and six, result happiness. Annual income 20
+pounds, annual expenditure 20 pounds ought and six, result misery' -
+was not peculiar to the Victorians, nor even to the analogue age!
+
+In addition to the economics of creativity over consumption, there is
+the dimension of pleasure; it is rewarding to be able to contribute.
+
+So what is the sector supposed to do? First, recognise the problem.
+Both employees and those who are too old to work - the majority of
+vision impaired people - need a balance between consumption and
+production. A symptom of our problem is the time it has taken for any
+consciousness in the sector of the importance first of television and
+then, more recently, of games. The message here is that production is a
+key concept in the unfolding of the 'Information age'.
+
+Secondly, this initiative to create authoring tools cannot be left to the
+third sector, academia, business or government alone. We need:
+government commitment to creativity in general and that of disabled
+people in particular; academic interest in solution-based, closed-ended
+research; business interest in solutions which benefit our sector but
+have wider commercial possibilities; and voluntary sector leadership
+and seed capital.
+
+Thirdly, the voluntary sector, primarily RNIB, needs to establish a
+major study into the creativity of blind and visually impaired people,
+looking at education, work and leisure in the digital age.
+
+A survey of the British Journal of Visual Impairment, and the Journal
+of Visual Impairment and Blindness of the American Foundation of the
+Blind, shows how far behind academics are. We know precious little
+about digital creativity in general and know next to nothing about the
+creative processes of blind and visually impaired people in particular.
+
+The reason why third sector initiative is so important is that business
+and government are primarily concerned with consumption because
+this preserves the top-down model of sales and service delivery. The
+social media have arisen exclusively out of the tie-up between the
+entrepreneurial and third sectors.
+
+It has to be admitted, however, that the US third sector is more
+independent and flexible than ours, relying as it does on unconditional
+tax-concession fuelled philanthropy rather than on project-funding
+painfully extracted from a grudging public sector.
+
+Our dependence makes us cautious and so the conjunction of third
+sector and entrepreneurship has been rare. What our third sector needs
+to do is to float off some of its funding into satellite creativity
+ventures.
+
+The culture of corporate worthiness - all sensible shoes and safe pairs
+of hands - is not conducive to the kind of enterprise which involves
+kids in jeans ordering in pizza at midnight and sleeping next to their
+computers. Postmodern problems need postmodern solutions.
+
+NOTE: Kevin Carey is director of social digital inclusion charity
+HumanITy, Vice-Chair of the RNIB and editorial advisor on E-Access
+Bulletin.
+
+[Section Four ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2006 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Additional reporting - Jude Pope
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]

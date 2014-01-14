@@ -1,0 +1,52 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:58 2004 __
+
+Input file: ../eab/issues/2004/mar2004.txt
+
+Warning: file already exists: ../eab/issues/2004/mar2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: mar | index: 3 | year: 2004
+URLs, prev: ../2004/feb2004.html | next: ../2004/apr2004.html
+Found ++, heading 2: ISSUE 51 CONTENTS.
+>> FOUND 2:  | 01:  | Accessible cinema set to treble
+>> FOUND 2:  | 02:  | Technology starter courses simplified
+>> FOUND 2:  | 03:  | Museums urged to consult on technology
+>> FOUND 2:  | 04:  | National library launches free online guides
+>> FOUND 1: News in brief:  | 05: Life enrichment - UN conference on older people;
+>> FOUND 2:  | 08:  | Double header - Java compiler and Braille font; 09: Fonts
+>> FOUND 2: continued - readability debate;  | 10:  | Standard Braille - UK development
+OK, News in brief
+Found: continued - readability debate;  | 10:  | Standard Braille - UK development
+>> FOUND 2: query;  | 11:  | Goods mart - synthesiser sought.
+Found: Goods mart - synthesiser sought | . | 
+>> FOUND 2:  | 12:  | A mountain to climb: council web sites are supposed to meet high
+>> FOUND 2:  | 13:  | A solid start: the new broadcast super-regulator Ofcom is
+Warning line 50: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | ACCESSIBLE CINEMA SET TO TREBLE.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | TECHNOLOGY STARTER COURSES SIMPLIFIED.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | MUSEUMS URGED TO CONSULT ON TECHNOLOGY.
+Found 'contents' match: 2.
+> ITEM 2:  04:  |  NATIONAL LIBRARY LAUNCHES FREE ONLINE GUIDES.
+Warning: not found a 'contents' match:  National Library Launches Free Online Guides.
+Found ++, heading 2: NEWS IN BRIEF:
+> ITEM 1:  05:  | : |  Former US congressman Benjamin
+> ITEM 1:  06:  | : |  St Dunstan's, the independent charity for
+> ITEM 1:  07:  | : |  Techshare, the annual international
+Found ++, heading 2: SPECIAL NOTICE: ACCESSIBLE E-GOVERNMENT
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Karina Gregory writes in with two queries.
+> ITEM 1:  09:  | : |  Meanwhile the discussion about readable
+> ITEM 1:  10:  | : |  Rebecka Boman, who works for a
+> ITEM 1:  11:  | : |  Peter Taylor suggests we should start a section
+Found ++, heading 2: SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+Found ++, heading 2: SECTION THREE: SNAPSHOT
+> ITEM 2:  12:  | A MOUNTAIN TO CLIMB.
+Warning: not found a 'contents' match: A Mountain To Climb.By Dan Jellinek And Derek Parkinson.
+Found ++, heading 2: SECTION FOUR: FOCUS
+> ITEM 2:  13:  | A SOLID START
+Warning: not found a 'contents' match: A Solid Startby Mel Poluck.
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

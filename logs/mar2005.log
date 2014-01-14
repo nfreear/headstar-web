@@ -1,0 +1,51 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:04 2005 __
+
+Input file: ../eab/issues/2005/mar2005.txt
+
+Warning: file already exists: ../eab/issues/2005/mar2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: mar | index: 3 | year: 2005
+URLs, prev: ../2005/feb2005.html | next: ../2005/apr2005.html
+Found ++, heading 2: Issue 63 Contents.
+>> FOUND 2:  | 01:  | Guidelines Place Inclusive Design on Boardroom Table
+>> FOUND 2:  | 02:  | Californian Digital Library 'Incredibly Popular'
+>> FOUND 2:  | 03:  | New Web Standards Star at CSUN
+>> FOUND 2: News in Brief:  | 04:  | Radio Play - digital magazine; 05: Double Access -
+OK, News in brief
+Found: Radio Play - digital magazine | ; |  05: Double Access -
+>> FOUND 2: Braille and ink printer;  | 06:  | Money Talks - accessible cash machines.
+Found: Money Talks - accessible cash machines | . | 
+>> FOUND 2:  | 07:  | Bank Statement - the debate continues; 08: Google Views -
+>> FOUND 2: service criticised;  | 09:  | Mystery Shopping - supermarket survey; 10:
+Found: Mystery Shopping - supermarket survey | ; |  10:
+>> FOUND 2:  | 11:  | A Game of Snakes and Ladders: With local government bodies
+>> FOUND 2:  | 12:  | Rising to the Challenge of Life: Stephanie Read has faced a tough
+Warning line 48: expected [Contents ends].
+$toc_count=10
+Found ++, heading 2: Special Notice: Last chance to book a place for Vision 2005
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Guidelines Place Inclusive Design On Boardroom Table.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Californian Digital Library "Incredibly Popular."
+Warning: not found a 'contents' match: Californian Digital Library "Incredibly Popular."
+> ITEM 2:  03:  | New Web Standards Star at CSUN.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  UK digital radio-related news, programme listings
+> ITEM 1:  05:  | : |  A printer able to output printed text alongside
+> ITEM 1:  06:  | : |  A new breed of voice-enabled cash machine using
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  07:  | : |  Several readers wrote in to respond to Fay
+> ITEM 1:  08:  | : |  Allen Hoffman from the Section 508 project at the
+> ITEM 1:  09:  | : |  Paul Hamilton-Ritchie, a student of
+> ITEM 1:  10:  | : |  Tim Pennick of BT's Research and Venturing
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Focus
+> ITEM 2:  11:  | A Game of Snakes and Ladders
+Warning: not found a 'contents' match: A Game Of Snakes And Laddersby Mel Poluck.
+Found ++, heading 2: Section Four- Focus
+> ITEM 2:  12:  | Rising to the Challenge of Life
+Warning: not found a 'contents' match: Rising To The Challenge Of Lifeby Stephanie Read.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.

@@ -1,0 +1,55 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:00 2004 __
+
+Input file: ../eab/issues/2004/jan2004.txt
+
+Warning: file already exists: ../eab/issues/2004/jan2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jan | index: 1 | year: 2004
+URLs, prev: ../2003/dec2003.html | next: ../2004/feb2004.html
+Found ++, heading 2: ISSUE 49 CONTENTS.
+>> FOUND 2:  | 01:  | Italian web law pulls down barriers
+>> FOUND 2:  | 02:  | 'Global garden' showcases accessible animation
+>> FOUND 2:  | 03:  | Long-awaited breakthrough for talking TV
+>> FOUND 2:  | 04:  | RNIB leads on progressive procurement policy
+>> FOUND 1: News in brief:  | 05: Registration numbers - blindness statistics for
+>> FOUND 2:  | 09:  | Font wisdom - typeface query; 10: Musical resources - scores and
+>> FOUND 2: dots;  | 11:  | Welsh voice - language products; 12: Talking phones -
+OK, News in brief
+Found: Welsh voice - language products | ; |  12: Talking phones -
+>> FOUND 2: handset compatibility;  | 13:  | Screen correction - magnifier usability.
+Found: Screen correction - magnifier usability | . | 
+>> FOUND 2:  | 14:  | One-woman army targets 'add-on' access culture: Mel Poluck talks
+>> FOUND 2:  | 15:  | Technology - help or hindrance? Adaptive products can be costly
+Warning line 52: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | ITALIAN WEB LAW 'PULLS DOWN BARRIERS'.
+Warning: not found a 'contents' match: Italian Web Law 'Pulls Down Barriers'.
+> ITEM 2:  02:  | 'GLOBAL GARDEN' SHOWCASES ACCESSIBLE ANIMATION.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | LONG-AWAITED BREAKTHROUGH FOR TALKING TV.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | RNIB LEADS ON PROGRESSIVE PROCUREMENT POLICY.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF:
+> ITEM 1:  05:  | : |  There are 157,000 blind and
+> ITEM 1:  06:  | : |  A draft equality and diversity strategy for
+> ITEM 1:  07:  | : |  The European Parliament
+> ITEM 1:  08:  | : |  The European ombudsman
+Found ++, heading 2: SPECIAL NOTICE: USABILITY TESTERS WANTED
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  09:  | : |  John Conway, Disability Officer at the Royal
+> ITEM 1:  10:  | : |  Last issue Scott Rae of the Highland
+> ITEM 1:  11:  | : |  Rebecca Redmile, a daily living skills instructor
+> ITEM 1:  12:  | : |  Clare Page writes in to ask for more
+> ITEM 1:  13:  | : |  In our last issue we reported that Chris
+Found ++, heading 2:  SECTION THREE: INTERVIEW
+> ITEM 2:  14:  | ONE-WOMAN ARMY TARGETS 'ADD-ON' ACCESS CULTURE.
+Warning: not title-casing possible HTML:
+  14: ONE-WOMAN ARMY TARGETS 'ADD-ON' ACCESS CULTURE.by Mel Poluck <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: ONE-WOMAN ARMY TARGETS 'ADD-ON' ACCESS CULTURE.by Mel Poluck <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2: SECTION FOUR: CONFERENCE REPORT
+> ITEM 2:  15:  | TECHNOLOGY - HELP OR HINDRANCE?
+Warning: not found a 'contents' match: Technology - Help Or Hindrance?By Derek Parkinson
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

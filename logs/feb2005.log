@@ -1,0 +1,49 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:04 2005 __
+
+Input file: ../eab/issues/2005/feb2005.txt
+
+Warning: file already exists: ../eab/issues/2005/feb2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: feb | index: 2 | year: 2005
+URLs, prev: ../2005/jan2005.html | next: ../2005/mar2005.html
+Found ++, heading 2: Issue 62 Contents.
+>> FOUND 2:  | 01:  | Organisations join to create free IT support helpline
+>> FOUND 2:  | 02:  | Democratic picture icons for low-vision users
+>> FOUND 2:  | 03:  | Talking tactile device for educational diagrams
+>> FOUND 2:  | 04:  | First accessible strategy game to launch
+>> FOUND 2: News in Brief:  | 05:  | Early Day - MPs' petition; 06: HumanWare Born -
+OK, News in brief
+Found: Early Day - MPs' petition | ; |  06: HumanWare Born -
+>> FOUND 2: Pulse Data merges with VisuAide;  | 07:  | Improved Recorder - accessible
+Found: Pulse Data merges with VisuAide;  | 07:  | Improved Recorder - accessible
+>> FOUND 2:  | 08:  | Format Appeal - accessible bank statements continued; 09:
+>> FOUND 2:  | 10:  | Raising the Bar: Leading accessibility campaigner Kevin Carey has
+>> FOUND 2:  | 11:  | In a World of Fantasy, Anything Can Happen: Gabriele Battaglia
+Warning line 50: expected [Contents ends].
+$toc_count=10
+Found ++, heading 2: Special Notice: Countdown to Vision 2005 - Register Now.
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Organisations Join to Create Free IT Support Helpline.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Democratic Picture Icons for Low-Vision Users.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Talking Tactile Device for Educational Diagrams.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | First Accessible Strategy Game to Launch.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  The RNIB with accessible search engine Net-Guide
+> ITEM 1:  06:  | : |  Assistive technology companies Pulse Data
+> ITEM 1:  07:  | : |  Version 2.0 of accessible CD and DVD
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  08:  | : |  Fay Rohrlach writes in from Australia to respond
+> ITEM 1:  09:  | : |  Katherine Schneider, Senior Psychologist, at
+Found ++, heading 2: Section Three - Focus
+> ITEM 2:  10:  | Raising the Bar
+Warning: not found a 'contents' match: Raising The Barby Mel Poluck.
+Found ++, heading 2: Section Four: Gaming
+> ITEM 2:  11:  | In a World of Fantasy, Anything Can Happen
+Warning: not found a 'contents' match: In A World Of Fantasy, Anything Can Happenby Gabriele Battaglia.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.

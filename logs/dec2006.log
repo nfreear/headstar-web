@@ -1,0 +1,56 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:25 2008 __
+
+Input file: ../eab/issues/2006/dec2006.txt
+
+Warning: file already exists: ../eab/issues/2006/dec2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: dec | index: 12 | year: 2006
+URLs, prev: ../2006/nov2006.html | next: ../2007/jan2007.html
+Found ++, heading 2: Issue 84 Contents.
+>> FOUND 2:  | 01:  | Windows 'Vista' Offers Enhanced Accessibility
+>> FOUND 2:  | 02:  | E-Petition For Accessible Websites On Prime Minister's Site
+>> FOUND 2:  | 03:  | BBC iPlayer Team To Begin User Testing
+>> FOUND 2: News in Brief:  | 04:  | United Stand - UN e-accessibility; 05: Netgem No
+OK, News in brief
+Found: United Stand - UN e-accessibility | ; |  05: Netgem No
+>> FOUND 2: More - set top box discontinued;  | 06:  | Nice Type - new key font.
+Found: Nice Type - new key font | . | 
+>> FOUND 2:  | 07:  | Subsidy Question - technology grant response; 08: Guidance
+>> FOUND 2: Clarity - web guidance omission;  | 09:  | Training Tips - IT training
+Found: Clarity - web guidance omission;  | 09:  | Training Tips - IT training
+>> FOUND 2: advice;  | 10:  | Sound Clash - musical sites and screen readers.
+Found: Sound Clash - musical sites and screen readers | . | 
+>> FOUND 2:  | 11:  | 'Vista' Changes the Image of Accessibility: Mel Poluck takes a
+>> FOUND 2:  | 12:  | Leaving The Sensible Shoes At The Door: A lack of knowledge
+Warning line 55: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: Special Notice: e-Access '07 Date Announcement.
+> ITEM 2:  01:  | Windows 'Vista' Offers Enhanced Accessibility.
+Warning: not found a 'contents' match: Windows 'Vista' Offers Enhanced Accessibility.
+> ITEM 2:  02:  | E-Petition For Accessible Websites On Prime Minister's Site.
+Warning: not found a 'contents' match: E-Petition For Accessible Websites On Prime Minister'S Site.
+> ITEM 2:  03:  | BBC iPlayer Team To Begin User Testing.
+Warning: not found a 'contents' match: Bbc Iplayer Team To Begin User Testing.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Access to information and communication
+> ITEM 1:  05:  | : |  The Netgem i-Player set top box for receiving
+> ITEM 1:  06:  | : |  An easy-to-read font aimed at low vision technology
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 242.
+> ITEM 1:  07:  | : |  Roger Wilson-Hinds writes in response to a
+> ITEM 1:  08:  | : |  Julie Howell Technical Author, PAS 78 and
+> ITEM 1:  09:  | : |  Jonathan White from Crewe in Cheshire, UK
+> ITEM 1:  10:  | : |  "I
+Found ++, heading 2: Section Three - Focus
+> ITEM 2:  11:  | 'Vista' Changes the Image of Accessibility.
+Warning: not found a 'contents' match: 'Vista' Changes The Image Of Accessibility.By Mel Poluck
+Found ++, heading 2: Sponsored Notice - Becta consultation.
+Found ++, heading 2: Section Four - Focus
+> ITEM 2:  12:  | Leaving The Sensible Shoes At The Door
+Warning: not found a 'contents' match: Leaving The Sensible Shoes At The DoorBy Kevin Carey.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 594.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 600.

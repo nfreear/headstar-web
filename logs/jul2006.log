@@ -1,0 +1,62 @@
+__ BUILD [tens2html.pl  v1.14] log Tue Aug 15 13:05:49 2006 __
+
+Input file: ../eab/issues/2006/jul2006.txt
+
+Warning: file already exists: ../eab/issues/2006/jul2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jul | index: 7 | year: 2006
+URLs, prev: ../2006/jun2006.html | next: ../2006/aug2006.html
+Found ++, heading 2: Special Notice: 'e-Access '06' - Technology For All.
+Found ++, heading 2: Issue 79 Contents.
+>> FOUND 2:  | 01:  | 'Pop Idol' Style Contest Launched To Find Accessible Games
+>> FOUND 2:  | 02:  | MPs Urge 2012 Olympics Venues To Install Audio Description.
+>> FOUND 2:  | 03:  | Satellite Location Device 'Accurate To Within A Metre.'
+>> FOUND 2:  | 04:  | British Museum Launches Audio Described Online Collections.
+>> FOUND 2: News in Brief:  | 05:  | Beta Blog - RNIB launches web log; 06: Read Me
+OK, News in brief
+Found: Beta Blog - RNIB launches web log | ; |  06: Read Me
+>> FOUND 2: - speaking handheld scanner;  | 07:  | Listen Up - podcast on mp3 players.
+Found: Listen Up - podcast on mp3 players | . | 
+>> FOUND 2:  | 08:  | Any Takers? - access technology giveaway; 09: E-Group Response
+>> FOUND 2: -  reply about online community accessibility;  | 10:  | Opinion Response -
+Found: -  reply about online community accessibility;  | 10:  | Opinion Response -
+>> FOUND 2: reader's views;  | 11:  | Input Wanted - web accessibility check; 12:
+Found: Input Wanted - web accessibility check | ; |  12:
+>> FOUND 2:  | 13:  | Nevermind The Guidelines: A recent survey into the UK 's 'Top
+>> FOUND 2:  | 14:  | Keeping In Context: Full access to the web by people with a vision
+Warning line 75: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: Sponsored Notice - U Can Do IT
+> ITEM 2:  01:  | 'Pop Idol' Style Contest Launched To Find Accessible Games.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | MPs Urge 2012 Olympics Venues To Install Audio Description.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Satellite Location Device 'Accurate To Within A Metre.'
+Found 'contents' match: 2.
+Warning, replacing non-ASCII character 233 (line 158, 37): According to project leader Sara Guti&#233;rrez-Lanza, the MOMO
+
+> ITEM 2:  04:  | British Museum Launches Audio Described Online Collections.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A trial version of a web log or 'blog' focusing on
+> ITEM 1:  06:  | : |  A handheld device aimed at vision impaired users that
+> ITEM 1:  07:  | : |  A podcast on the pros and cons for blind users of
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 275.
+> ITEM 1:  08:  | : |  Diana Monahan, who works with vision impaired
+> ITEM 1:  09:  | : |  Rich Caloggero writes in response to
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 298.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 299.
+> ITEM 1:  10:  | : |  Tim Connell, Managing Director of Quantum
+> ITEM 1:  11:  | : |  Information Designer Stuart Spurring from charity
+> ITEM 1:  12:  | : |  Dhunjishah H. Bharucha from Atlanta, US
+> ITEM 2:  13:  | Nevermind The Guidelines.
+Warning: not found a 'contents' match: Nevermind The Guidelines.By Stefan Haselwimmer.
+Found ++, heading 2: Section Four: Research
+> ITEM 2:  14:  | Keeping In Context
+Warning: not found a 'contents' match: Keeping In Context
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 562.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 568.

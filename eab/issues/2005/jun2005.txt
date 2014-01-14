@@ -1,0 +1,558 @@
++++E-ACCESS BULLETIN.
+- ISSUE 66, JUNE 2005.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab/).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+If you are a journalist interested in access technology issues and would
+like to be added to our specialist press list, please email Mel Poluck on
+mel@headstar.com .
+
+++Issue 66 Contents.
+
+Section One: News.
+
+01: Many Blogs 'Impossible to Access'
+- Online journals suffer from poor design.
+
+02: Frustrated Consumer Launches Product Review Site
+- Service collects product feedback and promotes discussion.
+
+03: World's First Working Group on Accessible Biometrics
+- Technology could boost access to banking.
+
+News in Brief: 04: Discussion Forum - technology debate; 05: Twenty
+Questions - intelligent game; 06: Talking Macs - natural speech.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Electronic Sorcery - Tolkien e-book request.; 08: Microfilm Query
+- how to convert? 09: Tactile Intervention - digital maps.
+
+Section Three - Seminar Report - Accessible Biometrics.
+10: In the Public Eye: The UK government's plans to introduce
+identity cards has focused attention on biometrics. Mel Poluck finds
+such technologies have a potential to boost social inclusion, but only if
+designed properly.
+
+Section Four: Technology - JAWS Scripting.
+10: The Language of Flexibility: The leading screen-reader software
+JAWS for Windows may not be the cheapest around, but the fact it has
+its own scripting language allows it to interact with all kinds of other
+standard software packages. Nick Apostolidis reports.
+
+[Contents ends].
+
+
+++Sponsored Notice: QAC Sight Village 2005
+- Birmingham, July 19-21, 2005
+
+Ink My Dots and Blog Your Podcast: The latest in cutting edge
+technology for people who are blind or partially sighted will be on
+show this July at Sight Village in Birmingham. Celebrating its twelfth
+year, Queen Alexandra College's major international exhibition is
+gearing up for its best show yet.
+
+Show sponsors ViewPlus Technologies will be showcasing their
+unique 'Ink My Dots' Braille embosser, developed with Hewlett
+Packard. The machine produces Braille and standard print or ink-
+enhanced tactile graphics on one document.
+
+Other displays include podcasts; digital radios; accessible mobile
+phones; Braille note takers; and ultrasonic and GPS navigation
+systems. QAC Sight Village also welcomes organisations that provide
+information, advice and support, from accessible holidays to talking
+newspapers. See:
+http://www.qac.ac.uk/sightvillage/ .
+
+[Sponsored Notice ends].
+
+
+++Section One: News.
+
++01: Many Blogs 'Impossible to Access'.
+
+Internet users with impaired vision often find it impossible to access
+weblogs or 'blogs', the American Foundation for the Blind (AFB -
+http://www.afb.org/) has warned.
+
+Blogs, which are spreading across the internet like wildfire, are online
+publishing systems allowing individuals or groups of people to publish
+journals or snippets of news and others to respond to them to create
+interactive discussion.
+
+The problem for vision-impaired users is not just that blogs often suffer
+the same kinds of problem that make mainstream sites difficult to use,
+such as a failure to provide descriptions of images or poor page layout,
+says the AFB in a new report
+( http://fastlink.headstar.com/afb1 ).
+
+Blogs raise additional access barriers of their own, the federation says.
+For example, they often ask users to identify graphics as part of a
+registration process. Originally designed to deflect automated
+spamming software, the process usually requires a user to identify a
+visually distorted word or phrase displayed as an image, but this
+usually means that people with impaired vision cannot register without
+help from a sighted person.
+
+The widely-used 'Blogger' product became the latest piece of blogging
+software to include these steps in its sign-up process, to the concern of
+many web users (see for example a discussion on
+http://fastlink.headstar.com/blog1 ).
+
+The move was criticised because apart from the signing up procedure
+Blogger has won a lot of support because it is easy to use. "It took the
+need for technical knowledge out of blogging, and made it so easy,"
+said Damon Rose, editor of the BBC Ouch online service
+( http://www.bbc.co.uk/ouch/ ),
+who also runs his own blog BlindKiss
+( http://www.blindkiss.com/ ).
+
+As part of its research, AFB has published some tips to make blogs
+easier to use, at:
+http://fastlink.headstar.com/afb2 .
+
+
++02: Frustrated Consumer Launches Product Review Site.
+
+A free web site allowing people with impaired vision to submit and
+read reviews of consumer products has been launched by partially
+sighted internet enthusiast Dave Goodwin.
+
+VIP Consumer (http://www.vipconsumer.com) claims to be the first
+online service of its kind. It collects feedback from users on how
+accessible and usable products and services are, and provides a forum
+where these issues can be raised and discussed in more depth.
+
+The service is available in a test version at present, with a full launch
+planned for early August. Goodwin told E-Access Bulletin he decided
+to launch the service after a particularly frustrating experience: "I
+bought a multi-function remote control, the kind with a screen. I found
+it impossible to use because the characters were too small and no
+customisation of the display was possible. I'd read plenty of reviews,
+but none covered the vision aspects, not even the manufacturer's
+information," he said.
+
+The discussion area of VIP Consumer may turn out to be as valuable as
+the individual reviews, Goodwin said. "What do you do if you come to
+the site and a review of the product you're interested in isn't available?
+You can go to the discussion area to raise the issue. I don't want people
+to just leave if they can't find the information they need," he said.
+
+Goodwin has little experience in running an online service, beyond
+setting up web sites for friends, and says he would welcome advice on
+how to gain funding for the service through sponsorship or other
+means, while keeping it free for the users. Readers can contact him on:
+support@vipconsumer.com .
+
+
++03: World's First Working Group on Accessible Biometrics.
+
+A European group has been set up to research the potential of
+biometrics - the use of a body part to identify individuals and access
+their personal data -  for people with a disability.
+
+The Social and Environmental special interest group of the European
+Biometrics Forum (EBF - http://www.eubiometricforum.com/ ), which
+will also look at ethical and usability issues, will have its first meeting
+this Summer.
+
+Its creation was announced at a recent London conference on
+accessible biometrics
+( http://fastlink.headstar.com/bio4 ).
+
+"There's a huge amount of work that needs to be done on how
+biometrics could help disabled people," said Will McMeechan, head of
+business futures at Nationwide building society and chair of the new
+group. "I want to try and show biometrics could be useful for people
+with a disability. It could be seen very much as an enabling
+technology."
+
+The group will also produce best practice guides for creating accessible
+biometric systems, covering areas such as interface design.
+
+McMeechan said he had conducted a trial at Nationwide that used iris
+scans to identify users of cash machines. "That [system] would be a
+boon to a lot of customers," he said.
+
+NOTE: For more on the accessible biometrics conference see Section
+Three, this issue.
+
+
+++News in Brief:
+
++04: Discussion Forum: An online discussion forum on access
+technology has been launched by the National Library of the Blind,
+alongside other new forums on public libraries, books and tactile
+formats:
+http://forums.nlb-online.org/ .
+
++05: Twenty Questions: An accessible version of the game Twenty
+Questions, in which players of all ages and in eight languages can
+compete against a computer, has gone live online. Players win if the
+object they think of is not guessed correctly in 20 questions or less.
+The devisers of '20Q.net', Top Dot Enterprises, claim the more it is
+played, the smarter it gets:
+http://www.20q.net .
+
++06: Talking Macs: Text-to-speech software 'ATandT natural voices'
+has been made available in English, French, German and Spanish for
+Mac OS X, the operating system for Apple Macintosh computers.
+According to its creators Wizzard, the software is superior to a text-to-
+speech facility already built into OS X:
+http://fastlink.headstar.com/wizzard1 .
+
+[Section One ends].
+
+
+++Special Notice: Techshare 2005 Call for Papers
+- 17-18 November, Jury's Inn, Birmingham, UK.
+
+The Techshare 2005 Conference is an international event for
+professionals who are interested in technology and the role it plays for
+people with sight problems. The conference will be arranged within the
+broad themes of Learning, Work and Life.
+
+Would you like to submit a paper to present? We are looking for
+insight into innovative research, as well as case studies highlighting the
+use of technology. Presentations should relate to technology but need
+not be technical in content.
+
+Speakers will be offered a reduced attendance rate of £130 for the full
+conference or £95 for one day. To download the paper submission
+form or simply register to attend Techshare, see:
+http://www.rnib.org.uk/techshare
+Closing date for papers is 1 August. If you have any questions please
+email us at:
+techshare@rnib.org.uk .
+
+[Special Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
+
++07: Electronic Sorcery: The bulletin's esteemed Italian translator,
+Margherita Giordano, writes in with a request: "One of my students is
+willing to try to read The Hobbit and The Lord of the Rings in English,
+but has no idea where to find them.
+
+"This boy is almost totally blind but does not know Braille very well,
+so the best solution will be to obtain e-books for him. Can you suggest
+to me where to find them?"
+[Responses please to inbox@headstar.com ] .
+
+
++08: Microfilm Query: Mark Pimm, Disability Coordinator at
+Birkbeck University of London, writes in with a query about the
+accessibility of microfilm.
+
+He asks: "Where a visually impaired person wants to access materials
+that are on microfilm, how would they go about getting the microfilm
+documents converted into an electronic format so they could read them
+on a computer?
+Responses please to inbox@headstar.com ] .
+
+
++09: Tactile Intervention: Rich Caloggero writes in to respond to Allen
+Hoffman's April contribution on ways of making 'LeapFrog' tactile
+maps and diagrams more accessible.
+
+Rich is an adaptive technology consultant at the Massachusetts
+Institute of Technology's Adaptive Technology for Information and
+Computing laboratory (http://web.mit.edu/atic/). He writes: "Allen
+suggests that if the pages of the device were also embossed with raised
+lines, then a blind person could use this system to read maps. The
+problem is that you still need special ink, as the LeapFrog system uses
+special ink and a special pen to "read" pages prepared with this ink.
+
+"With [Allen's suggested] method, you need to emboss this same page
+with raised lines. But with my approach, it does not take an extra step
+to emboss the figure: all you need is your two hands.
+
+"There is a Braille printer called the Tiger from ViewPlus
+( http://www.viewplus.com/ )
+which can produce raised line drawings and ink print simultaneously.
+Add to this a touch tablet which is a smooth surface which sends
+information about where it is touched to any computer, and you have a
+system which can do the same thing as the LeapFrog, but be
+completely usable by the blind.
+
+"Using special software called Iveo Creator, also from ViewPlus, you
+can create figures maps, charts or plans, print them out in both print
+and in Braille with the Tiger embosser, and then place the image on the
+touch tablet. When you move your hands over the figure which is
+raised, and press on various spots or within certain areas on the figure,
+relevant information about the image can be spoken via synthesised
+speech. This information can be added when the figure is initially
+created, or added or changed later via Iveo Creator."
+[Further responses please to
+inbox@headstar.com ] .
+
+[Section Two ends]
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++ Section Three - Seminar Report
+- Accessible Biometrics
+
++09: In The Public Eye
+by Mel Poluck.
+
+The use of people's physical attributes such as fingerprints, irises,
+DNA or facial features to identify them and access their personal
+information was once the stuff of science fiction.
+
+But now, with the UK Home Office's plans to deploy ID cards due to
+come to fruition within a decade, biometrics are set to become part of
+daily life. By 2013, everyone in the country will have an ID card that
+uses a biometric to access the information it holds.
+
+Creating a system that uses a biometric for an entire population means
+considering accessibility on at least two levels: at the moment of
+capturing the biometric and in the design of the reading device.
+
+There are various potential problems in both areas. The sight loss
+condition Nystagmus, for example, which causes a vibration of the
+eyeball, means it may not always be possible to obtain a "readable"
+image for scanners.
+
+So it is important to understand the needs of all users, but when
+designing a biometric accessible for all it is vital never to take
+disability statistics at face value, Dr John Gill, RNIB chief scientist,
+told the audience of a recent government-hosted conference on
+accessible biometrics (http://fastlink.headstar.com/bio2). For example,
+raw statistics do not offer any information about whether or not a task
+could be undertaken in a specific time and context, he said.
+
+System designers must also bear in mind the various possible
+permutations of disability, Dr Gill said. "If you're talking about
+delivering a service, it's very important to take into account multiple
+impairments. It's anything but a homogenous population," Gill said.
+For example diabetes, the most common cause of vision impairment,
+can also affect circulation, ruling out use of Braille because the sense
+of touch is affected, he said.
+
+One possible way to enhance the accessibility of biometric readers
+would be to introduce a smartcard on which user preferences such as
+large print; audio information; languages; or fonts could be stored, Gill
+said. This would mean vision-impaired users could have instant access
+to a tailored interface when having their biometric read.
+
+Another application for biometrics could be bank cash machines
+(ATMs), according to Will McMeechan, business developer at the
+Nationwide Building Society and founder of the independent,
+European Union-backed European Biometrics Forum (EBF -
+http://www.eubiometricforum.com/ ). "Many ATMs have cameras
+built in; the facility is [there] already for facial recognition. We need a
+financial impetus to get this thing working," he said.
+
+Access to data by a biometric would remove the need for people to
+remember or type a pin number or sign a form and would enhance
+security. But there has been doubt over whether systems are
+sufficiently mature to support a system used by everybody.
+
+"I know a biometric system that couldn't be used because the interface
+wasn't designed properly," McMeechan said. "It was nothing to do
+with the [biometric] technology, it was to do with the way it was
+implemented. There probably isn't enough dialogue going on between
+representative organisations."
+
+To answer this call, the EBF has recently established a special interest
+group ( http://fastlink.headstar.com/ebf1 ) which aims to raise
+awareness of accessibility and usability issues relating to biometrics
+and address any concerns.
+
+But accessibility goes even further than registration and identification
+technologies. Peripheral aspects such as customer service must also be
+accessible if a usable card is to be deployed to everyone. "We're
+seriously looking at the internet as a form of interaction," said Henry
+Bloomfield, of the Home Office's technology department. "It provides
+an important channel for people with access or mobility problems," he
+said.
+
+Last month, the results were published of a six-month Biometrics
+Enrolment Trial by the UK Passport Service which used 10,000 people
+including 750 people with various disabilities to test facial scanning,
+fingerprint and iris image enrolment
+(http://fastlink.headstar.com/bio3). The results will feed into the final
+design of the national ID card.
+
+The trial found that for iris scan enrolment, 31 per cent of disabled
+participants found positioning for the recording 'very' or 'fairly'
+difficult. Success rates were around 90 per cent for all participants and
+61 per cent for disabled participants.
+
+Unsurprisingly, therefore, participants with visual impairment chose
+the fingerprint as their preferred biometric. This had a success rate of
+81 per cent for verification overall and 80 per cent for disabled
+participants.
+
+There is clearly room for more research and more testing. "Research to
+make biometrics more inclusive may be more important than to
+improve accuracy for "ideal" users," said Tony Mansfield of the
+National Physical Laboratory (http://www.npl.co.uk/).
+
+[Section Three ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+[Special notice ends].
+
+
+++Section Four: Technology
+- JAWS Scripting.
+
++10: The Language of Flexibility
+by Nick Apostolodis.
+
+Although it is certainly not the cheapest screen reader software on the
+market, JAWS for Windows is considered to be the most powerful and
+flexible text-to-speech converter for home and office computer users.
+
+One of its main strengths is that JAWS can be adapted to work with
+just about any software on the market and be customised to give
+tremendous power to the blind user.
+
+Much of this power and flexibility stems from the fact that JAWS has
+its own scripting language. This language is built into the screen reader
+and allows users to write scripts that set the behaviour of JAWS, the
+way it reads, or interacts with other applications.
+
+A scripting language, like a human language, contains small units. In a
+human language these could be paragraphs, sentences or lines, whereas
+in a scripting language they can be functions or logical operators such
+as 'if' statements.
+
+So a line of written text like the following:
+"Please read me the current line of text"
+Would be translated in JAWS scripting as:
+SayLine()
+
+The scripting language can even make decisions based on whether
+something is true or not. For example, you want to tell JAWS to speak
+a help message if an application is running for the first time. Here is
+how:
+
+if (CalcFirstTime == 0) then
+   SayExtendedHelpHotKey ()
+   let CalcFirstTime = 1
+endif
+
+The example above is from a script written for a calculator program. It
+may look a bit complicated for someone that doesn't understand the
+scripting language, but you don't have to know how to write JAWS
+scripts to benefit from them. All you need to know is how to download
+them into the correct folder (the precise location for your scripts will
+depend on which version of JAWS you use); and next time you use the
+application to which they relate, they will run automatically.
+
+The tool for creating JAWS scripts is called JAWS script manager. It
+can take a source file of text instructions such as the example above
+and create a binary program that JAWS can follow. This procedure is
+called compilation. So you can write your scripts in text, and let the
+script manager compile them for you into instructions that JAWS can
+understand.
+
+The JAWS help file contains a good scripting manual to get you
+starting to write your first simple scripts, and to help you develop up to
+a fairly advanced level.
+
+There are also many web sites containing scripts to download, such as
+the Blind Programming site
+http://www.blindprogramming.com
+which has a JAWS scripting section where one can find scripts for
+many applications, as well as email lists that discuss JAWS and JAWS
+scripting.
+
+Another useful resource is the Jaws Lite web site at:
+http://www.jfwlite.com .
+In the programs section of this site there are numerous popular
+programs along with their JAWS scripts, and also links to other pages
+that offer scripts.
+
+Finally, simply using Google to searching for JAWS scripts will bring
+you more results than you can possibly look at in an afternoon, so if the
+above pages don't satisfy your curiosity that could be your next step!
+
+So if you are using JAWS and have trouble using a software package,
+the chances are that the answer to your problem is a JAWS script for
+this application. And if after searching you can't find one, why not set
+yourself a challenge to learn the scripting language and write it
+yourself?
+
+[Section Four ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2005 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technician - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]

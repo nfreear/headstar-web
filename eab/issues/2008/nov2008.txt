@@ -1,0 +1,536 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 107, November 2008.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Special Notice: Designing for all: an inclusive approach to web,
+print and electronic publishing
+- A practical, one-day training course and document clinic
+- Wednesday 3 December, RIBA, Central London
+http://www.headstar-training.com/dfa/ .
+
+Trainer: Katie Grant, former publications manager, Disability Rights
+Commission.
+'Designing for all' is a practical course designed to introduce
+organisations to the importance of designing accessible, easy to read
+information for a range of different audiences including older people,
+people with disabilities and people for whom English is not their first
+language.
+
+It will help you assess current design and content of information -
+please bring examples to our document clinic. The course will be of
+interest to anyone who is involved in the design and delivery of
+information in print, electronic and web formats. To book a place see:
+http://www.headstar-training.com/dfa/
+
+[Special notice ends].
+
+
+++Issue 107 Contents.
+
++01: Democracy Websites 'Inaccessible To Audio Browsers'
+- multiple barriers found by senior analyst.
+
++02: 'Digital Mentor' Trials Form Part Of Draft Inclusion Plan
+- scheme to focus on deprived communities.
+
++03: Paper Urges Better Integration For Assistive Technologies
+- Kevin Carey says new tools should complement existing ones.
+
+News in Brief: 04 Vienna Prizes - e-inclusion awards; 05: Awareness
+test - last day of survey; 06: Dolphin Leap- updated software.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Elbow Grease - the reality of the labour market; 08: Alarm Bells -
+clock query.
+
+Section Three: Focus - Access To The 2012 Olympics.
+09: Running To Catch Up: Many people with disabilities will be
+engaging with the Olympic and Paralympic Games when they come to
+London, from spectators to athletes to members of the wider 'Olympic
+family'. We must make sure their experiences are as enjoyable as
+everybody else's, and technology can help, says Stephen Duckworth.
+
+[Contents ends].
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Section One: News.
+
++01: Democracy Websites 'Inaccessible To Audio Browsers'.
+
+Many government, politics and news websites present significant
+barriers to  web users with disabilities using special access
+technologies such as text to speech convertors, delegates heard at last
+week's E-Democracy '08 conference hosted by Headstar
+(http://www.headstar-events.com/edemocracy08/).
+
+Robin Christopherson, head of accessibility at technology access
+charity AbilityNet, presented a live audio demonstration of many of the
+difficulties that blind web users experience.
+
+Among the sites he examined was the recently revamped Number 10
+Downing Street website, which while relatively accessible in many
+ways, still has various untagged links which read simply 'click here',
+offering the audio browser no clue as to what lies behind. The website
+also features auto-start videos, with unlabelled control buttons, so that
+blind users are confronted with video noise drowning out their own
+audio controls and cannot work out how to turn it off.
+
+The use of 'Captcha' is an increasing problem for audio web users,
+Christopherson said (see our previous coverage at:
+http://www.headstar.com/eablive/?p=183). Captcha seeks to prevent
+automated 'spam' software from registering accounts or filling in web
+forms by presenting a pattern of distorted letters and numbers that only
+sighted humans can decode.
+
+Some captcha systems now offer 'audio captcha' alternatives for
+screen-reader users allowing blind users for example to hear a spoken
+code. Google is an example which uses an embedded QuickTime
+sound sequence to play a garbled numerical code over background
+noise which the listener is required to decipher in a similar way to the
+visual system
+(https://www.google.com/accounts/NewAccount?service=mail).
+However, these audio captcha files are also incomprehensible, as
+Christopherson demonstrated live to much amusement. In an attempt to
+foil audio recognition software, the sounds are so distorted that they
+cannot be recognised by humans either, he said.
+
+A third option offered by Google to contact the site's owners directly
+for assistance did not work either: when Christopherson was eventually
+contacted two days after applying for this option he was informed that
+everyone had to register online.
+
+
++02: 'Digital Mentor' Trials Form Part Of Draft Inclusion Plan.
+
+The government is to pilot a 'digital mentors' scheme to help people in
+deprived areas use technologies such as websites, podcasts and digital
+photography to make their voices heard, collaborate and improve
+access to services.
+
+The initiative forms part of a new action plan for digital inclusion (
+http://fastlink.headstar.com/action2 ),
+launched by Digital Inclusion minister Paul Murphy and the
+department of Communities and Local Government (CLG).
+
+An estimated 17 million people over the age of 15 are not using
+computers and the internet, and there is a strong link between digital
+and social exclusion and disabled people with disabled people among
+those most excluded from the digital technologies at the heart of the
+developing knowledge economy, the plan says.
+
+Referring to the findings of the disability rights commission in 2007
+the consultation says that of all people in Britain without any formal
+qualifications, over one-third were disabled, and that of all people of
+working age out of work, 40 per cent had a disability.
+
+A proposed new charter for digital inclusion aims to tackle the barriers
+to citizen engagement with technology including lack of confidence,
+awareness, skills and support and the availability of infrastructure.
+
+One initiative referred to in the consultation is the government funded
+development of 'sign video', a deaf and sign language led social
+enterprise providing instant and high quality sign language interpreting
+via videophone (http://www.significant-online.co.uk/).
+
+The consultation also examines the indirect benefits that can be gained
+from uses of technology by public bodies on behalf of the
+disadvantaged. It says there is a risk some parts of government are not
+fully exploiting the opportunities available including to integrate
+services across government to support complex needs and reduce the
+amount of contact citizens need to have with government.
+
+In addition to the charter the consultation announces the government's
+intention to establish the position of a digital inclusion champion to
+work independently with a taskforce of experts to provide strategic
+leadership and expert advice across all sectors.
+
+Consultation on the draft action plan runs until 19 January 2009, and
+CLG is separately inviting tenders for organisations and consortia
+interested in participating in the digital mentors scheme, hosting a
+workshop for those interested in London on 19 November (
+http://fastlink.headstar.com/dm1 ).
+
+
++03: Paper Urges Better Integration For Assistive Technologies.
+
+A range of emerging technologies integrated with existing solutions
+could offer blind people and others with disabilities new ways of
+solving their everyday problems, according to a paper from Kevin
+Carey, director of the digital inclusion charity humanITy
+(http://www.humanity.org.uk).
+
+The paper was presented at a recent inclusive digital economy
+conference at the University of York. In it Carey says: "There is
+enough technology to assist us with most of our problems but it is not
+integrated in the right way. If we spent more time, energy and money
+integrating rather than thinking up clever new, specialised and
+expensive assistive technologies, we would all be better off."
+
+For example in the future, modular user interfaces "will allow us to
+couple a large, portable screen with a small mobile telephone, bring the
+sound of a television into a remote controller or cable-free ear phones,
+allow the use of a large screen to 'blow up' an image or show a small
+part of it in great detail."
+
+And a combination of satellite and voluntary surveillance technologies
+such as webcam networks could be used "to transmit highly localised
+audio information, so that I can ask 'Where am I?' and receive an
+immediate answer," Carey says.
+
+Other potentially useful new technologies include:
+
+- hand-held devices to calculate whether it is safe to cross a street on
+the basis of the distance and speed of vehicles;
+
+- 'Stereoscopic Lithographic Apparatus' (SLA) or 'fast prototyping'
+technologies [whereby objects are created or 'printed' live in three
+dimensions by building them up in layers of resin] to add a new
+dimension to tactile graphics and model making which will probably
+prove to be more valuable than the use of haptic force feedback;
+
+- high definition data transmission through enhanced broadband and
+HDTV will transmit unmixed audio so that up to 32 parallel tracks can
+be differentiated, allowing more scope both to alter scale and
+deconstruct the layers of images.
+
+For a copy of Carey's paper see:
+http://www.addw08.org/workshops.htm .
+
+
+++News in Brief:
+
++04: VIENNA PRIZES: The winners of this year's European e-
+Inclusion awards will be announced at a ministerial e-incluson
+conference hosted by the European Commission in Vienna on 1-2
+December. Six UK bodies are among the 35 finalists in seven
+categories. E-Access Bulletin editor Dan Jellinek has been invited to
+attend the conference and will be reporting back from Vienna in our
+December issue:
+http://ec.europa.eu/information_society/events/e-
+inclusion/2008/index_en.htm
+
+
++05: AWARENESS TEST: A survey to assess the status of accessibility
+awareness and practice in the UK ICT sector is being carried out by a
+consortium of nine accessibility organisations  including AbilityNet,
+the British Computer Society, City University and the Employer's
+Forum on Disability. Results will be used to provide companies with
+guidance including an ICT accessibility business case and
+implementation plan. The survey is online to 18 November:
+http://cs.createsurvey.com/c/45/45/survey/507-Z0TuTA.html
+
+
++06: DOLPHIN LEAP: Assistive technology company Dolphin has
+launched the latest version of its flagship software suite Supernova,
+Hal, Lunar and LunarPlus. Version 10 includes a set-up wizard to
+enable users to better configure the software to their needs and support
+for Mozilla Firefox 3.0:
+http://www.yourdolphin.com/
+
+
+[Section One ends].
+
+
+++Special Notice: Techno-Footprint: ICT and Sustainability in the
+Public Sector
+27 November 2008, New Connaught Rooms, London
+http://www.headstar-events.com/techno08/
+
+The Cabinet Office's 'Greening Government IT' paper sets a deadline
+of January 2009 for central government to address the impact on
+carbon emissions of all new ICT procurement; and larger councils will
+face significant financial penalties if they fail to meet carbon reduction
+targets from 1 January 2010 onwards, when a carbon trading scheme
+comes into play.
+
+Headstar's second annual conference and exhibition on ICT and
+Sustainability in the Public Sector is a must-attend event, offering
+practical advice on reducing your IT footprint. Our fantastic speaker
+line-up includes Caroline Lucas MEP, recently elected as the first ever
+leader of the Green Party; Catalina McGregor from the Ministry of
+Defence, a department spearheading environmental activity in IT; and
+Chris Head from Socitm Insight.
+
+Registration costs £295 + VAT for public sector workers and £395 +
+VAT for private sector:
+http://www.headstar-events.com/techno08/
+
+[Special notice ends]
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: ELBOW GREASE: Roger Wilson-Hinds, Director of
+Screenreader.net, entrepreneur and long-time E-Access Bulletin reader,
+writes in to get some thoughts off his chest following last issue's report
+that older people with impaired vision are disadvantaged in the
+workplace.
+
+"Sometimes I feel very frustrated. Many times during the current issue,
+I read that things must change. I also read that RNIB has discovered
+that older visually impaired people are more disadvantaged in the
+labour market.
+
+"Well, there's a surprise! I worked in the Ministry of Labour in the
+1960s and the same research discovered the same thing. Isn't it time we
+really made changes and stopped researching the bleeding obvious?
+Seeing is pretty useful at work and the reality is that very few jobs can
+be done totally without sight.
+
+"It's kind of cosy to keep repeating the old clichés every few years, but
+real change only comes when visually disabled individuals make a
+supreme effort to kick the cushy benefit trap and fight the battles of the
+work-place.
+
+"I am as a statistic 68, hard of hearing and blind. As a person I work
+hard, enjoy every day and do a bit of good in the world too. My
+company delivers free talking software so that blind people anywhere
+can use a modern computer. And we have learned to fund it without
+whingeing and begging.
+
+"Thankfully, there are many like me who just get on with it. I read the
+other day of a partially sighted couple who have launched Easy2See -
+greetings cards in a style which enabled older people with poor sight to
+be able to read the message and see the pictures. That's change and
+much better than the couple moaning and deploring the state of the
+labour market. OK. I feel less frustrated now and at least I have said
+something different."
+
+[To join in the debate please email inbox@headstar.com].
+
+
++08: ALARM BELLS: Salvatore Lagati from Trento in Italy writes in
+with a request for information about accessible alarm clocks. He asks:
+"I need an alarm clock for a deafblind person - an alarm clock with a
+vibrator to put under the pillow, and the numbers of hours marked in
+Braille. Could you suggest where I might be able to find this?"
+
+[Suggestions to Salvatore please to inbox@headstar.com ].
+
+[Section Two ends].
+
+
+
+++Special Notice: Opportunities and risks of open source software in
+the public sector.
+-A Headstar Training/Positive Internet Masterclass
+Thursday 05 February 2009, Central London
+http://www.headstar-training.com/Open/
+
+Free and open source software have revolutionised ICT. In the public
+sector, an increasing number of bodies are making use of these
+technologies.
+
+Cost is the main driver, since open source software has few of the costs
+and licensing restrictions of traditional software. However, the area is
+complex, and the savings analysis - taking into account training, full
+cost of ownership, and other issues - can lead to confusion.
+
+Our masterclass can help. In our unique open source software overview
+training course aimed at the public sector, Nick Mailer unpicks the
+major controversies and myths surrounding free and open source
+software.
+
+Nick will illustrate how you can leverage this software into your ICT
+environment, and move on safely to larger scale deployments. He
+shows how best to get support, advice and maintenance, and how best
+to secure your investment. To book a place visit:
+http://www.headstar-training.com/Open/ .
+
+[Special notice ends]
+
+
+++Section Three: Focus
+- Access To The 2012 Olympics.
+
++09: Running To Catch Up
+by Stephen Duckworth.
+
+Planning for the 2012 Olympic games in London began some time ago,
+and there are many considerations that have been sadly ignored by
+previous hosts when it comes to making the games accessible to people
+with disabilities.
+
+Accessibility issues relate not just to disabled spectators, but also
+disabled athletes. What are we doing for these groups? For example, is
+there technology that can help? I remember going to the Bird's Nest
+stadium in Beijing and watching the blind sprinters running with their
+guides. When they had run the 100-metre race and crossed the
+finishing line, they didn't have a clue whether they had come first,
+second or third. Is there an electronic wrist band that they could have
+that would indicate to them where they had come as they crossed the
+line? Surely it is technically possible to let them know.
+
+Of course, their guide was a few paces behind as they crossed the line,
+because those are the rules, and he or she would tell them, and you
+would see a sense of euphoria or disappointment depending on where
+they had come.
+
+In relation to the other customers, the paying customer and a
+significantly large number of non-paying customers. They are known
+as the Olympic or Paralympic family. They are treated like gods by the
+organisation, because essentially, without them, the host city would not
+have got the event.
+
+What I was surprised about - because I became a member of the
+Paralympic family when I went to Beijing because of my involvement
+with London 2012 - is the red-carpet treatment that you get if you
+happen to belong to that family, and how there's a lower standard of
+treatment if you remove that particular badge - as I did for one day -
+and try and get in as a bog-standard punter, as it were. The disparity of
+treatment between the two types of customer was quite appalling, and I
+hope that, in 2012, we can get it right for both customer groups.
+
+It's critical really because, in Beijing, there were very few local
+Chinese disabled people attending events. I saw a couple of elderly
+Chinese people who looked fairly affluent compared to the people that
+you would see out on the street, but very few disabled people in China
+attended the events at the Paralympic Games, and I am told also the
+Olympic Games.
+
+I think that, when the event comes to London, at least 50 per cent of
+the spectators will be London-based. The other spectators in Beijing,
+the other disabled spectators in Beijing, were other athletes. So we are
+going to see double the number of disabled spectators than we were
+seeing in Beijing.
+
+Now, the way that China overcame the problem of accessibility to
+technology and other issues was through their volunteers. They had 1.2
+million volunteers. We are looking at having roughly about 60 or
+70,000 in this country. I am told, also, that of those volunteers
+approaching half of them were either police or the secret service! And
+they wore different-coloured hats, that's the way that you could tell.
+
+In some Beijing venues, platform stair-lifts were required to enable
+disabled people to enter the facility. On at least one occasion the lift
+broke, so it did take an awful long time to get in and out of that
+building. The reason being is that I used quite a peculiarly heavy
+wheelchair, but as technology develops in wheelchair design, electric
+powered wheelchairs at least will become heavier and heavier. We are
+hoping not to require this sort of platform lift going up a flight of steps
+technology in London because we are designing it in as we go along.
+
+What we need to do in everything that we think about is design out the
+disabling barriers. How do you do that? One example is that of chip
+and PIN technology. The British banking association commissioned
+my organisation to develop a system to consult with disabled people
+about how to make chip and PIN technology as accessible as possible.
+We ran 35 focus groups, with 10 disabled people in each group, all of
+different impairment types all over the country, 350 people in total, to
+consult about the design of chip and PIN technology.
+So remember what disability is. It's nothing to do with our impairment.
+It's to do with the way that engineers, architects and others have
+historically built in barriers that restrict our opportunities to
+participate
+as equal citizens. Barriers that we feel we have a right not to encounter.
+
+Now when we design and develop technologies for people, we have
+heard talk already about the digital divide. So as well as thinking about
+the design and development of the new technologies we have got to
+think about ways in which we develop that technology, to encourage
+users who are at the bottom of the ditch to engage with it.
+
+Because otherwise we're only going to develop technologies for the
+more motivated, active disabled people who are doing things. The vast
+majority of disabled people still stuck in their passive and medical
+mode of thinking will not gain access to opportunities.
+NOTE: Dr Stephen Duckworth OBE is Chief Executive of Disability
+Matters. This article is adapted from a talk given by Dr Duckworth at
+the 'Designs on the Games' conference in October 2008 organised by
+charity PhoneAbility and the Institution of Engineering. For more
+details including transcripts visit:
+http://www.tiresias.org/phoneability/games/
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2008 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporters: Majeed Saleh, Tristan Parker.
+Editorial advisor - Kevin Carey
+
+ISSN 1476-6337 .
+
+[Issue 107 ends.]

@@ -1,0 +1,714 @@
++++E-ACCESS BULLETIN
+- ISSUE 96, DECEMBER 2007.
+
+A Headstar publication.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 96 Contents.
+
+01: Technology Giants Forge Accessibility Alliance
+- Microsoft, Adobe, HP and others collaborate on tools and standards.
+
+02: EU Countries Set To Miss 2010 Accessibility Targets
+= European progress report reveals patchy progress.
+
+03: Tourism Websites Fall Short On Accessibility
+- Just one site of 10 reviewed meets 'acceptable' standards.
+
+News in Brief: 04: DAISY Save - electronic book format plug-in for
+Microsoft Word; 05: 2020 Framework - national vision policy
+consultation; 06: Million Strong - online petition on disability law.
+
+Section Two: 'The Inbox' - Readers' Forum. 07: Apple Tasting - call
+for views on technology firm; 08: Moodle Extras - educational
+software platform; 09: Misplaced Responsibility? built-in accessibility
+is best; 10: Ubuntu Update - text browser packaged with Linux brand;
+11: Unequal Opportunity - online job application struggles; 12:
+Barcamp Call: government websites event.
+
+Section Three: Special Report, Part One - UK Newspaper Web Sites
+and Accessibility.
+13: Here Is The News - If You Can Find It: Newspaper websites
+should be liberating for people with impaired vision, allowing to access
+stories at the same time as everybody else. But new research from
+Journalism.co.uk shows that many are being denied this ability through
+poor website design.
+
+Section Four: Special Report, Part Two - UK Newspaper Web Sites
+and Accessibility.
+14: Mixed Bag: Selected Findings from the Journalism.co.uk Study: a
+round-up of high and low points of the research into all the major UK
+national newspaper websites, by publication.
+
+[Contents ends].
+
+
+++Special notice: Mobile and Flexible Working in the Public Sector
+- 23 January 2008, RIBA, London
+- 100 Pound Early Bird Discount for Pre-Christmas Booking
+http://www.headstar-events.com/flexible08/ .
+
+Mobile and flexible working practices can help public sector bodies'
+staff work closer to the citizen and reduce the carbon footprint of your
+organisation. And flexible working practices ensure that services can
+be delivered 24-7.
+
+Headstar is pleased to announce the third annual conference on Mobile
+and Flexible Working in the Public Sector will take place on 23
+January 2008, at RIBA, central London. A superb speaker line-up
+features Stephen Regan, Head of Management and Technologies
+Programmes at Cranfield University; and Colin Rowland of Cheshire
+County Council. Book before Christmas to qualify for a 100 pound
+discount. To see the full programme and to register online, see:
+http://www.headstar-events.com/flexible08/ .
+
+And for information about sponsoring or exhibiting at the event please
+email Claire Clinton on:
+claire@headstar.com
+or call her on 01273 231291.
+
+[Special notice ends].
+
+
+++Section One: News.
+
++01: Technology Giants Forge Accessibility Alliance.
+
+A group of the world's leading technology companies have forged a
+new alliance to harmonise accessibility standards, techniques and tools
+in a move one leading accessibility analyst is calling "the most exciting
+and significant accessibility development of the past 12 months."
+
+Founder members of the Accessibility Interoperability Alliance (AIA -
+http://www.accessinteropalliance.org )
+include Adobe, BayFirst Solutions, HP, Microsoft and Novell, as well
+as specialist assistive technology companies such as Claro Software,
+Dolphin Computer Access, GW Micro, HiSoftware, Madentec,
+Texthelp Systems and QualiLife.
+
+The group will collaborate on a range of engineering projects intended
+to increase interoperability between existing technologies; design new
+technologies or solutions; improve developer guidelines; lower
+development costs; and increase accessibility innovation.
+
+Initial projects will include developing a set of keyboard shortcuts to
+provide consistent behaviour to users of assistive technology products
+in any web browser; improving the interoperability and exchange of
+information between IT hardware and software and assistive
+technology (AT) products; and adding accessibility features and
+capabilities to software user interfaces.
+
+"Today, developers must work across divergent platforms, application
+environments and hardware models to create accessible technology for
+customers with disabilities," Rob Sinclair, director of the Accessibility
+Business Unit at Microsoft, said in a statement issued at the alliance's
+launch last week. "The AIA is an opportunity for the entire industry to
+come together to reduce the cost and complexity of accessibility,
+increase customer satisfaction, foster inclusive innovation, and
+reinforce a sustainable ecosystem of accessible technology products."
+
+The project could also create new markets for existing specialist
+accessibility technologies, the alliance said. "This is the most exciting
+and significant accessibility development of the past 12 months," Julie
+Howell, Director of Accessibility at web design agency Fortune
+Cookie and former head of accessibility at RNIB told E-Access
+Bulletin.
+
+"Equality for disabled people means access to the same content at the
+same time, in the same time, at the same cost and with the same ease as
+everyone else. The battle for e-accessibility will be won when the
+developers of tools that author and access web content work together in
+harmony. Access technology developers have worked with mainstream
+IT developers in the past, and when they have, disabled people have
+benefited."
+
+
++02: EU Countries Set To Miss 2010 Accessibility Targets.
+
+European member states are in danger of missing targets for a more
+inclusive information society pledged for achievement by 2010,
+according to a major new international study published by the
+European Commission last month.
+
+A pattern of "eAccessibility gaps, deficits and patchworks" was
+revealed by the study, 'Measuring progress of eAccessibility in
+Europe' (MeAC) (
+http://fastlink.headstar.com/meac1 ).
+
+In a declaration made in Riga in 2006, EU ministers pledged to halve
+the gaps in computer literacy and access across Europe and ensure all
+public websites are accessible by 2010. However progress remains
+"fragmented and slow", the new study finds, and "most of the Riga
+objectives will not be met on time". More than one in three Europeans
+are still excluded from fully benefiting from the digital society, it finds.
+
+The report says: "Accessibility of public websites remains stuck at 5
+per cent. Only 10 per cent of people aged over 64 are internet users
+while the average in Europe is 47 per cent. Without further
+intervention, the gap will only be halved in 2015 instead of 2010."
+Lower-educated, economically inactive and elderly people at the
+greatest risk of being left behind, the report finds.
+
+However, the research says there is evidence of the effectiveness of
+EU-level policies in progressing e-accessibility in Europe, and
+acknowledges legislative progress made by three individual states:
+Italy, Spain and the UK.
+
+In an attempt to accelerate progress, the commission has adopted a new
+framework to integrate e-Inclusion actions across Europe, and is
+considering new legislative measures similar to the accessibility
+aspects of the US Americans with Disabilities Act.
+
+It has also launched a year-long awareness campaign for 2008 entitled
+'e-Inclusion, be part of it!', to culminate with a ministerial conference
+to reinforce commitments at all levels (see
+http://ec.europa.eu/information_society/einclusion ).
+
+Speaking at the campaign's launch Viviane Reding, EU Commissioner
+for Information Society and Media, said: "It is neither morally
+acceptable nor economically sustainable to leave millions of people
+behind, unable to use information and communications technologies to
+their advantage.
+
+"Progress has been only half as fast as it should be. The commission is
+sending today a clear signal to all parties concerned: industry,
+regulators and governments that we must act together now to ensure a
+barrier-free information society for all."
+
+
++03: Tourism Websites Fall Short On Accessibility.
+
+Almost all UK tourism websites are failing to meet basic acceptable
+standards of accessibility, according to a new report from technology
+access charity AbilityNet.
+
+The report, the latest in a series of 'State of the eNation' surveys by the
+charity, assessed ten websites at random from a list of the most popular
+UK visitor attractions. The sites were rated using a five star scale from
+'very inaccessible' (one star) to 'very accessible' (five stars), with
+three stars representing an 'adequate' level of accessibility.
+
+Only one of the ten sites examined - the Glasgow Science Centre - met
+or exceeded this 'adequate' threshold. The centre's site
+(http://www.glasgowsciencecentre.org) has been improved in the past
+year with accessibility in mind and as a result achieved four stars.
+
+Of the other sites assessed, four achieved two stars (the Eden Project,
+The Giant's Causeway, National Waterfront Museum and Portmeirion)
+and five were deemed very inaccessible, receiving only one star
+(Belfast Zoo, The Burns Heritage Museum, Edinburgh Castle, Kew
+Gardens and the London Eye).
+
+Sites which fail to meet the three-star level may be falling short of
+service access requirements set out in the UK's Disability
+Discrimination Act, AbilityNet says.
+
+The report took into account sites' compliance with the international
+World Wide Web Consortium's Web Content Accessibility
+Guidelines, as well as the practical difficulties that visitors with a range
+of disabilities may experience. Among the features that cause problems
+are small text that cannot be resized; unnecessary complexity; closely
+clustered buttons; unlabeled images and over-reliance on visual clues.
+Since the audit was taken at least three of the single-star-rated
+attractions have expressed a commitment to improving the accessibility
+of their websites.
+
+
+++News in Brief:
+
++04: DAISY Save: A free plug-in allowing users of Microsoft Word to
+'Save As DAISY' - saving files in a format which can be converted
+into a DAISY electronic book - will be available in early 2008. The
+DAISY format allows users to scroll through text, skip to and from
+different sections and footnotes much like a reader might with a printed
+text. It is hoped the new plug-in will encourage publishers to make
+more texts available to DAISY users:
+http://fastlink.headstar.com/daisy2 .
+
++05: 2020 Framework: A draft strategic framework for the
+improvement of eye health, prevention of sight loss, and support for
+the visually impaired in the UK has been published by Vision2020 UK,
+an umbrella organisation focused on visual health. Among the many
+initiatives is a call for the communications regulator, Ofcom to push
+for an increase in the proportion of television and radio broadcasts
+offering audio description from 10% to 50% within 15 years.
+Consultation on the UK Vision Strategy runs to 17 January 2008:
+http://fastlink.headstar.com/vision1 .
+
++06: Million Strong: More than 200,000 people have signed an online
+petition calling for improved legislation protecting the rights of
+Europe's fifty-million disabled people, as part of a combined online
+and offline petition campaign by the European Disability Forum,
+'1million4disability'. Last month the campaign met its initial target of
+raising a million signatures in nine months, presenting around
+1,300,000 names to the European Commission. The website is still
+active, at:
+http://www.1million4disability.eu .
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: Apple Tasting: E-Access Bulletin is researching an article on the
+accessibility features of the new Apple operating system 'Leopard' and
+all other Apple products such as the iPod and iPhone. We would
+appreciate views from readers who may have disabilities and who use
+Apple products as to their strengths and weaknesses, and also would
+also welcome people's general perceptions of Apple as a company and
+of the firm's approach to accessibility.
+
+Please send all comments to inbox@headstar.com .
+
+
++08: Moodle Extras: In our October issue (story number 11, section
+three) Nick Freear and Chetz Colwell wrote on their experiences of
+ensuring the accessibility of the widely-used open source online
+education platform Moodle at the UK's Open University. Due to an
+oversight some useful links were left out of this piece, and Nick writes
+in to set this right.
+
+To find out more about Moodle, readers can visit:
+http://moodle.org
+and for more on current accessibility work on the platform, see:
+http://docs.moodle.org/en/Accessibility .
+
+The authors would also like to add some acknowledgements: the work
+is a collaboration involving Open University colleagues, Moodle.com
+developers and many others, and the community on the Moodle.org
+forums.
+
+
++09: Misplaced Responsibility? Linda Woodbury, a reader in San
+Diego, California, sends in some striking general observations on
+accessibility that make particularly interesting reading alongside this
+issue's announcement of a new accessibility alliance between a group
+of major technology firms (see story one, News, this issue).
+
+She writes: "Why do you think that we continue to develop technology
+for blind persons to read appliances, digital read-outs, signs and street
+information, etcetera, etcetera, when the blind person then is always
+responsible for determining which device to use, often affording the
+cost, and burdened with carrying extra equipment everywhere?
+
+"Wouldn't it seem more advantageous to press hard for all corporations
+and government entities to simply offer built-in accessibility into their
+products, services and marketing efforts wherever it is at all possible?
+Simple solutions which cost only a minor change in product
+development and packaging would seem a good start. To this point, it
+always seems the responsibility of the blind individual, who often has
+the least resources, to bear the cost."
+
+[Further comments please to inbox@headstar.com ].
+
+
++10: Ubuntu Update: Jeff Seager, Communications Specialist at the
+West Virginia Division of Rehabilitation Services, writes in to add to
+his Inbox contribution in our last issue. Jeff had sung the praises of the
+Ubuntu brand of Linux for prioritising accessibility by automatically
+installing the open source 'Orca' screen reader software.
+
+He now adds: "A few days after my first note to you, I realised that the
+Lynx text browser also was installed by default in the new 7.10 version
+of Ubuntu Linux. I hadn't noticed this sooner because I'd installed and
+customised Lynx myself in Ubuntu 7.04, and my customised version
+remains intact.
+
+"Like the default GUI web browser in Ubuntu, the newly installed
+Lynx opens (the first time, and until you change the home page) with a
+page tailored for new users of Ubuntu, linking to more Ubuntu learning
+resources. Nicely implemented accessibility for those who need or
+prefer a text-only browser."
+
+[Further comments please to inbox@headstar.com ].
+
+
++11: Unequal Opportunity: Further to our contribution last month from
+reader Norman Waddington, who experienced accessibility difficulties
+applying for a job online with a local authority, another reader, David
+Rosser, writes in to offer his own similar experience.
+
+"I can sympathise and relate to Norman Waddington's article on the
+difficulties experienced applying for a job.
+
+"I myself am visually impaired and recently tried to apply for a job
+online with the NHS and found it less than user-friendly. I visited my
+local job centre and asked for a hard copy of the application form and
+was told by the job centre I would not get an interview as they prefer
+online applications.
+
+"I feel more should be done in improving the accessibility of online
+application forms to enable people with visual impairments to have
+equality. Improving online applications for jobs would be a positive
+step for everyone as it would make the lives of visually impaired
+people easier but also sighted people as well."
+
+[Further comments please to inbox@headstar.com ].
+
+
++12: Barcamp Call: Alex Stobart of the Scottish Executive writes in to
+draw E-Access Bulletin readers' attention to 'BarcampUKGovWeb', a
+proposed two-day 'Barcamp' meeting he is helping to organise to
+discuss issues relating to government websites. The event is planned
+for the weekend of 26 and 27 January 2008 in central London.
+
+The 'barcamp' format refers to a new, informal style of event that is
+planned collaboratively online, with everyone who plans to attend also
+pledging to help out in some way with speaking, chairing or
+organisation. Stobart says that one of the participants has specifically
+asked that the organisers invite people from the accessibility
+community, and this is why he has written in to this newsletter.
+
+For more information see:
+http://barcamp.org/BarcampUKGovweb .
+
+[Inbox ends].
+
+
+++Section Three: Special Report, Part One
+- UK Newspaper Web Sites and Accessibility.
+
++13: Here Is The News - If You Can Find It.
+
+In the world before the internet, blind people had to rely on a limited
+range of newspaper articles - selected by others - being deemed
+suitable for translation into Braille or other formats, and posted out far
+too late to be meaningfully termed 'news'.
+
+With the web, theoretically the playing field is levelled; anyone who
+can access a computer including blind screen-reader users and people
+with impaired vision can access the websites of the major newspapers
+at the same time as everybody else, reading the headlines as they break
+and picking the articles they want to read - however trashy - from the
+entire range.
+
+That is, of course, assuming that the newspaper websites are accessible
+to screen-readers and other special access technologies. But according
+to a major new piece of research into the accessibility of newspaper
+websites from the specialist journalism news site Journalism.co.uk, this
+is not a safe assumption.
+
+Last month Journalism.co.uk asked a group of blind or visually-
+impaired volunteers to carry out user testing on eight of the main
+national newspaper sites: the Express; the Guardian; the Independent;
+the Daily Mail; the Mirror; the Sun; the Daily Telegraph; and the
+Times. The volunteers were John Allnutt, a JAWS screen-reader user
+(version 3.7), and three young students from the Royal London Society
+for the Blind's Dorton College: Rosie Johnson, Josh Pinnell and
+Charlotte West.
+
+The group was asked to carry out a series of tasks on each site
+including to access the current lead story at each website; navigate to a
+news story of interest to them away from the home page; locate and
+play a piece of audio or video; use the search function to track down a
+story; find and interact with the blogs or reader feedback sections; and
+locate the accessibility information section, if present. They were also
+invited to record their general overall impressions of each site.
+
+The results were mixed, to say the least. Only the Guardian and the
+Daily Mail websites were found to have sections dedicated to
+accessibility, and only the Daily Mail provided a text-only version of
+its website for blind and visually impaired people. No newspaper site
+has yet earned an RNIB 'See It Right' logo, awarded for excellence in
+this area.
+
+Navigation around the sites by screen-reader users and people with
+impaired vision was often hampered by confusing site layouts and
+structures, and pop-up advertisements that appeared without warning
+and with no textual explanation.
+
+All the sites did have at least some positive features relating to
+accessibility, though there was little consistency throughout, and they
+all presented the volunteers with problems as well.
+
+Analysing the results for Journalism.co.uk, Richard Warren, technical
+manager at web usability consultancy Userite, said: "None of the eight
+newspapers reviewed have grasped the fundamental difference
+between the internet and the print media. All have tried to replicate the
+look of their printed version and just added a confusing set of
+navigation menus.
+
+"The result is a collection of cluttered pages that are not very user-
+friendly and make little, or no, concession to disabled users."
+
+A common problem found by the survey was the need to listen to an
+extensive list of links (navigation menus) and other page furniture
+before getting to the main content of the page, Warren said. This is
+because Jaws (and other assistive software) reads the page in the order
+in which it is written.
+
+"The sighted user has his or her attention drawn to the main story in
+the middle of the page by the colour and size of the headline font and
+associated images. The blind user has to listen whilst Jaws works it
+way through all the menus, advertisements and other clutter on the
+page," he said.
+
+"There is an easy solution to [this] problem, which is to introduce a
+new link at the top of the page that takes the user directly to the main
+page content thus avoiding all the navigation links. The Mirror, Daily
+Mail and Guardian each provide this option with varying degrees of
+success.
+
+"The Guardian and Daily Mail even try to provide a selection of
+shortcut keys [but] this technology is incorrectly implemented on both
+newspapers and could cause users to save unwanted files on their
+computer rather than navigate to the required page."
+
+A second, common problem found by the research was the use of pop-
+up windows. "These are annoying for sighted readers, but they can be a
+disaster for the blind who often have no way of knowing that the focus
+of Jaws has changed from the main page to a pop-up window," said
+Warren.
+
+"As a result the reviewer tried to continue navigating as if he was on
+the original page and got totally lost."
+
+Some features of the sites would cause problems not just for those with
+impaired vision but for people with impaired movement as well, the
+research found. Many of the sites use pull-down menus for navigation,
+but sighted people with limited mouse control would often be unable to
+select accurately from these menus. The cursor frequently loses its
+focus on the menu, which then closes before they have had time to
+select the desired option, Warren said.
+
+Other problems were experienced by the volunteers in accessing the
+sites' video news content and interactive blogs. "Videos and blogs are
+newer technologies so the accessibility functions might not be as well
+known. However this is still not an excuse for not trying," he said.
+
+"Videos should have an alternative transcript of the associated audio
+available for deaf people to read and an alternative text description of
+the scene/s to enable blind people to put the audio into context."
+
+The solution to most of these issues is to follow the main accepted
+international standards for web accessibility, Warren said. "The Daily
+Mail provided a text-only version of its website for blind and visually
+impaired people, but the link to this was so far down the page that
+blind people may fail to find it. However, the provision of text-only
+pages is not the only, or indeed the most desirable, solution for
+accessibility.
+
+"The newspapers tested could easily apply the W3C Web Content
+Accessibility Guidelines (WCAG) to their existing content, make
+better use of their style sheets so that important content is coded near
+the top of the page and use the HTML codes for headings and lists in a
+proper manner."
+
+Ultimately, the newspapers themselves could lose out by failing to
+properly embrace issues of accessibility, says Oliver Luft of
+Journalism.co.uk. "Despite the obvious benefits for users, good
+accessibility has advantages for publishers, including higher ranking
+and more matches from search engines, which can more accurately
+index the content," Luft says.
+
+"Yet these benefits are overlooked by many of the UK's major
+newspapers in their online strategies."
+
+NOTE: For selected results from the research by newspaper see
+Section Four, this issue.
+And for full details, see:
+http://www.journalism.co.uk/5/articles/530590.php
+
+[Section Three ends].
+
+
+++Section Four: Special Report, Part Two
+- UK Newspaper Web Sites and Accessibility.
+
++14: Mixed Bag: Selected Findings from the Journalism.co.uk Study.
+
+The specialist website Journalism.co.uk has published an in-depth
+study into the accessibility and usability of the websites of the UK's
+main national newspapers (see Section Three, this issue). In part two of
+our report on this study, we present a round-up of the good points and
+bad points of all the sites surveyed.
+
+
+- The Express
+http://www.express.co.uk
+- Good News: Good layout of blogs section, which lists content in a
+similar style to news articles, with an appropriate headline indicating to
+the screen reader user what lies behind each link.
+
+- Bad News: The site's search engine, instead of immediately
+informing the user of how many results they have and displaying them,
+presented the volunteers with out of context links to Madeleine
+McCann and Princess Diana among the first returns with no
+explanation that these were commonly-searched-for terms.
+
+
+- The Guardian
+http://www.guardian.co.uk
+- Good News: The site - a favourite with volunteers - features an
+accessibility tool as the third link read out by JAWS on entering a
+page. While this resizing tool - aimed at users with visual impairments
+- does feature on other newspaper sites, it is rarely so prominent.
+
+- Bad News: Takes JAWS users a long time to tab through to the top
+news stories of the day in the site's navigation bar. "Sighted users
+might be able to identify where the news content is instantly, but I have
+no idea. JAWS has to work its way through all these different sections
+first," said John Allnutt.
+
+
+- The Independent
+http://www.independent.co.uk
+Good news: The website includes a tool to resize fonts at the bottom of
+the page, which is useful to visually impaired users. And the paper
+says: "We are currently in the process of redesigning the website and
+are taking accessibility into account, not least by retaining scaleable
+fonts."
+
+Bad news: A recent redesign of the blogs section has given it a layout
+completely at odds with the rest of the site. The blogs page also
+contained some pop-up advertising, confusing for screen reader users.
+Overall, the volunteers found this site one of the hardest to use.
+
+
+- The Daily Mail
+http://www.dailymail.co.uk
+- Good News: The site makes regular use of a 'skip to main navigation'
+link, which allowed the volunteers to bypass much of the extraneous
+navigational 'furniture' on each page.
+
+- Bad News: A change of left-hand navigation bar in the blogs section
+was disorientating for John, who was uncertain how to navigate from
+this page to other sections of the site.
+
+
+- The Mirror
+http://www.mirror.co.uk
+- Good News: The results pages for a search were not inundated with
+adverts, as was the case on other sites, allowing JAWS to access the
+results more quickly.
+
+- Bad News: The news navigation process was 'convoluted' and
+'misleading'. A 'skip to main content' link seemed like a promising
+way to avoid adverts, but in fact led John to a long list of showbiz
+news stories rather than the main news section.
+
+
+- The Sun
+http://www.thesun.co.uk
+- Good News: The position and heading on the top stories help readers
+with impaired vision identify that they are important. The size of the
+text is good and The Sun's direct style gives a clear impression of what
+story is about.
+
+- Bad News: The search facility searched the entire world wide web by
+default rather than this website, without informing the user, as the site
+uses a drop down menu rather than radio buttons to change this feature.
+
+
+- The Telegraph
+http://www.telegraph.co.uk
+- Good News: When first entering the site, John's screen reader
+immediately began reading the main news content - a rare and
+welcome pleasure.
+
+- Bad News: Clicking through on a link to an article in the education
+section did not provide instant access to the piece. Instead, JAWS read
+the headline but then had to trawl all the navigation bars and adverts
+before reaching the story.
+
+
+- The Times
+http://www.timesonline.co.uk
+- Good News: Search engine results page was found to be very
+accessible as it was uncluttered and included summaries for each
+result, as well as the author and date of stories listed.
+
+- Bad News: First the home page reeled off the site's technical
+parameters, then took the volunteers into a host of holiday adverts,
+without any heading identifying them as adverts to screen reader users.
+
+NOTE: For full details of the research, see:
+http://www.journalism.co.uk/5/articles/530590.php
+
+[Section Four ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2007 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporter: Majeed Saleh
+Editorial advisor - Kevin Carey
+Marketing Executive - Claire Clinton
+Sales and Marketing - Jo Knell, Will Knox.
+
+ISSN 1476-6337 .
+
+[Issue 96 ends.]

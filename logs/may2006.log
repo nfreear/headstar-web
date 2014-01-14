@@ -1,0 +1,56 @@
+__ BUILD [tens2html.pl  v1.14] log Tue Aug 15 13:05:49 2006 __
+
+Input file: ../eab/issues/2006/may2006.txt
+
+Warning: file already exists: ../eab/issues/2006/may2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: may | index: 5 | year: 2006
+URLs, prev: ../2006/apr2006.html | next: ../2006/jun2006.html
+Found ++, heading 2: Issue 77 Contents.
+>> FOUND 2:  | 01:  | User Experience Core To Updated Web Accessibility Guidelines
+>> FOUND 2:  | 02:  | Mobile Journey Planner Under Development
+>> FOUND 2:  | 03:  | Accessible Multifunction Device To Launch This Year
+>> FOUND 2:  | 04:  | Double Launch For Accessibility Boosting Campaigns
+>> FOUND 2: News in Brief:  | 05:  | First Award - company receives web accreditation;
+OK, News in brief
+Found: First Award - company receives web accreditation | ; | 
+>> FOUND 2:  | 06:  | Access Calls - Voice over IP phone tutorial; 07: Testing, Testing -
+>> FOUND 2:  | 08:  | Cost Analysis - assistive technology cost debate; 09: Broadcast
+>> FOUND 2: News - digital TV query response;  | 10:  | Listen Up - audio description
+Found: News - digital TV query response;  | 10:  | Listen Up - audio description
+>> FOUND 2:  | 11:  | Conducting Effective User Testing: Lack of user testing by people
+>> FOUND 2:  | 12:  | Opening Minds: There is a deep chasm between people with a
+Warning line 54: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: Special Notice: 'e-Access '06' - Technology For All
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | User Experience Core To Updated Web Accessibility Guidelines.
+Found 'contents' match: 0.
+> ITEM 2:  03:  | Mobile Journey Planner Under Development.
+Found 'contents' match: 1.
+> ITEM 2:  02:  | Accessible Multifunction Device To Launch This Year.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Double Launch For Accessibility Boosting Campaigns.  
+Warning: not found a 'contents' match: Double Launch For Accessibility Boosting Campaigns.  
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  Insurance company UnumProvident has become the
+> ITEM 1:  06:  | : |  An audio tutorial on how to use voice over IP
+> ITEM 1:  07:  | : |  Eleven languages have been added to the
+Found ++, heading 2: Special Notice: Building the Perfect Council Web Site
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 329.
+> ITEM 1:  08:  | : |  In response to Fay Rohrlach's contribution on the
+> ITEM 1:  09:  | : |  Leen Petre, Head of Broadcasting and Talking
+> ITEM 1:  10:  | : |  YourLocalCinema.com, the industry-sponsored group
+Found ++, heading 2: Sponsored Notice: QAC Sight Village 2005
+Found ++, heading 2: Special Notice: Support Our Katie!
+> ITEM 2:  11:  | Conducting Effective User Testing
+Warning: not found a 'contents' match: Conducting Effective User Testingby Stefan Haselwimmer
+Found ++, heading 2: Section Four: Focus
+> ITEM 2:  12:  | Opening Minds
+Warning: not found a 'contents' match: Opening Mindsby Marco Fioretti
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 679.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 685.

@@ -1,0 +1,62 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:05 2004 __
+
+Input file: ../eab/issues/2003/feb2003.txt
+
+Warning: file already exists: ../eab/issues/2003/feb2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: feb | index: 2 | year: 2003
+URLs, prev: ../2003/jan2003.html | next: ../2003/mar2003.html
+Found ++, heading 2: ISSUE 38 CONTENTS.
+>> FOUND 2:  | 01:  | Audio description subsidy bid
+>> FOUND 2:  | 02:  | Concern over direction of European law
+>> FOUND 2:  | 03:  | Guidelines for accessible online forms
+>> FOUND 2:  | 04:  | Signals from space through the internet
+>> FOUND 2:  | 05:  | The dating game
+>> FOUND 1: News in brief:  | 06: Reading aloud - talking newspaper online; 07:
+>> FOUND 2:  | 09:  | Sound response - national archive director writes; 10: Career
+>> FOUND 2: guidance - job-hunting advice;  | 11:  | Machine quest - copying machine
+OK, News in brief
+Found: guidance - job-hunting advice;  | 11:  | Machine quest - copying machine
+>> FOUND 2: wanted;  | 12:  | Ah so - karate lessons.
+Found: Ah so - karate lessons | . | 
+Warning line 60: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | AUDIO-DESCRIPTION SUBSIDY BID.
+Warning: not found a 'contents' match: Audio-Description Subsidy Bid.
+> ITEM 2:  02:  | CONCERN OVER DIRECTION OF EUROPEAN LAW.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | GUIDELINES FOR ACCESSIBLE ONLINE FORMS.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | SIGNALS FROM SPACE THROUGH THE INTERNET.
+Found 'contents' match: 3.
+> ITEM 2:  05:  | THE DATING GAME.
+Found 'contents' match: 4.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  06:  | : |  The German newspaper Frankfurter
+> ITEM 1:  07:  | : |  A computer driven facility opened last week
+> ITEM 1:  08:  | : |  Information packs about digital radio
+Found ++, heading 2: SPECIAL NOTICE: 'ACCESS IT' AND 'COMPUTE IT'
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  09:  | : |  Crispin Jewitt, director of the National
+> ITEM 1:  10:  | : |  Chris Gregory from Opsis, a group of
+> ITEM 1:  11:  | : |  Katy Dymoke of the Manchester-based arts
+> ITEM 1:  12:  | ? |  E-Access
+Found ++, heading 2: SPONSORED NOTICE: 'CSUN' 2003 INTERNATIONAL
+Found ++, heading 2: : SECTION THREE: REPORT
+> ITEM 2:  13:  | VOICES FOR CHANGE.
+Warning: not title-casing possible HTML:
+  13: VOICES FOR CHANGE.by Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: VOICES FOR CHANGE.by Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2: : SECTION FOUR: DEBATE
+> ITEM 2:  14:  | SEEING IT WRONG?
+Warning: not title-casing possible HTML:
+  14: SEEING IT WRONG?by Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: SEEING IT WRONG?by Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2: : SECTION FIVE: PRODUCT REVIEW
+> ITEM 2:  15:  | PICK OF THE DAISY PLAYERS.
+Warning: not title-casing possible HTML:
+  15: PICK OF THE DAISY PLAYERS.by Phil Cain  <a href="mailto:phil@headstar.com">phil@headstar.com</a> .
+Warning: not found a 'contents' match: PICK OF THE DAISY PLAYERS.by Phil Cain  <a href="mailto:phil@headstar.com">phil@headstar.com</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

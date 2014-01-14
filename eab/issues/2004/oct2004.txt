@@ -1,0 +1,537 @@
++++E-ACCESS BULLETIN.
+- ISSUE 58, OCTOBER 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++Issue 58 Contents.
+
+Section One: News.
+
+01: Chip and PIN bank card system under fire
+- accessibility criticised.
+
+02: US law unravels over the web
+- ADA confusion continues.
+
+03: Online forms could boost patient power
+- NHS consults disability groups.
+
+
+News in brief: 04: Government resource - global plan; 05: Openly
+accessible - developer tools; 06: Employers' guide - accessible
+recruitment
+
+Section Two: 'The inbox' - Readers' forum.
+07: Supermarket reprise - mixed messages; 08: Tiresias location - font
+download; 09: Musical advice - useful resources; 10: Course request -
+accessible PHP; 11: Inspirational stories - leads sought;
+12: Two requests: banking law and magazine site.
+
+Section Three: Focus - internet TV.
+13: Community of the future: Internet TV station AT508.com grew out
+of a stream of emails to a journalist about anti-discrimination law, but
+today viewers include blue-chip companies and White House staff.
+Mel Poluck charts its progress.
+
+Section Four: Web standards - HTML.
+13: Strict standards make accessible sites: You don't need to be an
+expert to design an accessible web site. By using code that complies
+with standards, even a beginner can build web pages that are
+accessible, says Jim Byrne.
+
+[Contents ends].
+
+
+++Special Notice: Techshare 2004
+- 18-19 November 2004, Jury's Inn, Birmingham, UK
+
+The RNIB's Techshare 2004 conference is an important event for
+professionals who are interested in technology and the role it plays in
+learning, work and society for people with sight problems.
+
+For further information email
+techshare@rnib.org.uk or visit:
+http://www.rnib.org.uk/techshare .
+
+[Special notice ends].
+
+
+++Section One: News.
+
+
++01: 'Chip And Pin' Bank Card System Under Fire.
+
+High street retailers face prosecution under the Disability
+Discrimination Act because new 'Chip and PIN' technology being
+introduced across the UK may not be accessible to people with
+disabilities, according to Qm Group (http://www.Qmgroup.com), a
+designer of public information and queue management systems.
+
+The chip and PIN technology is designed to combat fraud by requiring
+customers to input a number at the point of sale instead of signing for
+purchases. It has currently been introduced in some 438,000 retail
+outlets across the UK and all retailers must adopt the technology by
+January 2005 if they wish to remain protected by banks against
+fraudulent transactions.
+
+However, most keypads for inputting PIN numbers aren't accessible to
+people with disabilities, says Qm Group. They lack inclusive design
+features, such as display screens capable of showing large numbers and
+letters, keyboards with tactile markings, a "pip" on the number 5 key to
+provide a reference point for vision impaired people, and separate
+colour schemes for numerical and function keys. Qm has also criticised
+the physical location of keypads on counters, which it says makes them
+inaccessible to wheelchair users.
+
+But the chip and PIN programme management organisation
+(http://www.chipandpin.co.uk), set up by the British Retail Consortium
+(http://www.brc.org.uk) and the financial clearing house APACS
+(http://www.apacs.org.uk), has hit back at the Qm claims. It says it ran
+trials that included vision impaired people, which showed that 93 per
+cent of vision impaired people were happy using chip and PIN.
+
+The organisation also says that the vast majority of keypads not only
+incorporate the "pip" on the number 5 key to aid navigation for blind
+and visually impaired users, but also have an extendable cord so they
+can be used below counter level by wheelchair users. It says
+accessibility advice was issued to all keypad manufacturers - around
+five firms in all - although it admits the devices do not conform to a
+standard design.
+
+However Paul Snee, inclusivity manager at Qm Group, says it is this
+lack of conformity that is causing problems. "The cancel and clear
+keys are in different places on different keypads," said Snee. "Some of
+the keys are vertical and some are horizontal and they don't include
+tactile markings. This hardware marginalises and discriminates against
+those with disabilities."
+
+
++02: US Disability Law Unravels Over Web.
+
+A US court of appeal has ruled that organisations providing online
+services don't need to comply with the Americans with Disabilities Act
+(ADA - http://www.usdoj.gov/crt/ada/statute.html), adding to
+confusion about how anti-discrimination legislation applies to web
+sites in the US.
+
+The decision, which upholds a 2002 ruling by a district judge that the
+ADA applies only to physical spaces and not to web sites, once again
+highlights ambiguities in the law, which is interpreted differently from
+state to state.
+
+The lawsuit was originally filed by campaign group Access Now
+(http://www.adaaccessnow.org/) and blind web user Robert Gumson
+against Southwest Airlines (http://www.southwest.com). They argued
+it was "extremely difficult" for vision impaired people to buy tickets
+on the Southwest web site, that there were no text alternatives to
+graphics, and that navigating the site was difficult.
+
+In October 2002, a Florida district judge rejected the Gumson claim on
+the grounds that the ADA doesn't apply to web sites, and it is this
+decision that has been upheld by the court of appeal. However, since
+the original lawsuit Southwest has redesigned its web site to make it
+easier to use by vision impaired people.
+
+This latest ruling follows hot on the heels of a case in August, which
+produced the opposite outcome, with the New York State Attorney-
+General forcing two high-profile leisure companies to make their web
+sites fully accessible after ruling that they were in violation of the
+ADA (see E-Access Bulletin, September 2004).
+
+The ADA dictates that "all places of public accommodation" and "all
+goods, services, facilities, privileges, advantages or accommodation"
+must be made accessible to people with disabilities. But it was made
+law before the internet became mainstream, and doesn't explicitly
+mention web sites.
+
+There is no such ambiguity in the UK's Disability Discrimination Act
+and the supporting codes of practice published by the Disability Rights
+Commission (http://www.drc-gb.org), which make it clear that web site
+owners must make their sites accessible to people with disabilities or
+face legal action.
+
+
++03: Online Forms Could Boost Patient Power.
+
+Disability groups are being consulted about a service that would enable
+patients to supply details of their symptoms, medical history and
+treatment preferences online ahead of a consultation with a doctor or
+clinician, reducing the need for basic and often repetitive questions to
+be asked at each appointment.
+
+At a meeting this month organised by the British Computer Society
+Disability Group (http://fastlink.headstar.com/bcs2), NHS
+policymakers met with disability groups to gauge demand for such a
+service, which is increasingly used by healthcare providers in the US
+and mainland Europe but has yet to be adopted by the health service
+here.
+
+The service would prompt patients to supply information through a
+structured online questionnaire. "An awful lot of information could be
+provided in advance," said Brian Layzell of the British Computer
+Society. "People with disabilities could find such a service particularly
+useful."
+
+Although the NHS has not committed itself to rolling out the service,
+Layzell is confident the government will support further tests of
+commercially available products. "One of the outcomes of the meeting
+is likely to be a pilot project launching early next year," he said.
+
+
+++News in Brief:
+
++04: GOVERNMENT RESOURCE: A free CD-ROM containing new
+resources on eye conditions is being sent to all governments for World
+Sight Day on 14 October as part of the VISION 2020 global prevention
+of blindness plan:
+http://www.v2020.org/world_sight_day .
+
++05: OPENLY ACCESSIBLE: A new set of tools enabling C++
+software developers to build Linux-based solutions that are accessible
+to screen readers has been released by software specialists Trolltech:
+http://fastlink.headstar.com/trolltech1 .
+
++06: EMPLOYERS' GUIDE: A guide for companies on the accessible
+recruitment of staff online has been published by the Employers'
+Forum on Disability in conjunction with the London Development
+Agency. 'Barrier-free e-recruitment: recruiting disabled people online'
+costs 15 pounds for members and 25 for non-members:
+http://www.barrierfree-recruitment.com/publication.htm
+
+[Section One ends].
+
+
+++Special Notice: Test Your Site's Accessibility.
+
+Headstar, the publishers of E-Access Bulletin, is offering a range of
+independent, expert assessment packages to ensure your web services
+comply with best practice and the law. We can provide you with a
+clear, detailed report on the current access status of your site, and a list
+of tasks you will need to carry out to ensure compliance with
+government requirements.
+
+Reports also include results from general quality assurance tests such
+as link-checking. Taking accessibility action benefits all users, will
+make your site easier to maintain, and can improve your search engine
+rating! Please note the service is tailored in particular to larger
+organisations with major web sites or services.
+
+For more information please email:
+access-consult@headstar.com .
+
+[Special notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to inbox@headstar.com .
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
+
++07: SUPERMARKET REPRISE: Further to our recent discussion
+about problems with the Tesco supermarket's web site and credit card
+purchasing systems, Jonathan Tyrer of the RNIB says: "I've been using
+the Tesco access site for over two years now. I've had the odd problem,
+but on the whole I think it's a fantastic service and it annoys me when I
+see the sort of negative, unhelpful comments you've had in your last
+two issues. If people don't like it, don't use it - get a taxi and go
+yourself! Good luck!"
+
+And further to the related discussion of the accessibility of the new
+'Chip and PIN' credit card authentication system, Debbie Payne of
+Hereford responds to Danielle Cleary's account of being refused a
+purchase after her signatures didn't match, even though she was blind.
+"I'm horrified by the treatment she received. I've suffered similar
+discrimination in a well known high street shoe store. I was also told
+that my signatures didn't match, so I kicked up a stink and threatened
+to report the store for their treatment. For the record, I did leave the
+store with my shoes. However, that's by the by. The point I'd like to
+make, is that both Danielle and myself are a case in point in support of
+Chip and PIN. For heaven's sake, let's stop bleating about how difficult
+or not it might be, let's embrace it and look forward positively to our
+new freedom to shop with confidence." [Further responses to
+inbox@headstar.com].
+
++08: TIRESIAS LOCATION: In our April issue (issue 52) John
+Taylor wrote in to recommend a font called Tiresias LP which
+has been designed for people with eyesight problems. This month
+he adds: "This font can be purchased through:
+http://www.tiresias.org/fonts/ for around 30 US Dollars or so."
+
++09: MUSICAL ADVICE: Following last issue's request from our
+reader Estelita from Derbyshire for information about accessible music
+resources, both Claire Gailans and D.P.M. Weerakkody, Professor of
+Western classics at the University of Peradeniya, Sri Lanka, write in to
+offer themselves as email penpals to help Estelita. Professor
+Weerakkody writes: "Although I teach classics (Greek and Latin), I
+pursue music as a hobby, and can play some keyboard and wind
+instruments - with mistakes."
+
+Claire Williams writes in to suggest the web site
+http://www.dab.org.uk as a useful resource; and Chris McMillan says:
+"Estelita may like to contact the Visually Impaired Musicians
+Association, an organisation of blind and partially sighted musicians
+and music lovers. Telephone Barbara Leighton on 0208-366-6019,
+email: barbara.leighton@talk21.com or visit:
+http://www.uk-piano.org.uk/vima/
+
++10: COURSE REQUEST: E-Access Bulletin is looking for an
+accessible course or training materials for one of its staff to learn Linux
+web programming language PHP. Has anybody used any good PHP
+learning resources or been on a PHP course they can recommend?
+Please reply to: inbox@headstar.com .
+
++11: INSPIRATIONAL STORIES: The same Estelita has a powerful
+suggestion for a possible series of future articles for E-Access Bulletin
+- for which we shall need our readers' help. She says: "I would
+recommend that if it is possible that you could add a short story of any
+disabled people who successfully reached their goal regardless of their
+disabilities to each issue. It will give more interest to the readers, and
+also it will bring encouragement or a sense of enlightenment to people
+who perhaps feel sorry for themselves." So if you feel you have been
+through a struggle whose outcome might inspire other readers of the
+bulletin in their own lives, or have a tale to tell of a friend or colleague
+who is inspirational, please write in and let us know at
+inbox@headstar.com .
+
++12: TWO REQUESTS: Beryl Williams of Saskatchewan, Canada
+asks: "I would be interested to learn if there is UK anti-discrimination
+legislation, governing the banking industry, in respect to alternate
+formats, electronic and telephone banking services for blind, deaf/blind
+and partially sighted customers." Responses please to
+inbox@headstar.com .
+
+And George Cassell, editor of the international publication Blind
+World Magazine, would be grateful for assistance or advice that
+readers might like to offer him on the accessibility of the title's web
+site:
+http://www.blindworld.net
+[Please email responses direct to George on
+blindworld@earthlink.net].
+
+[Section Two ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Three: Focus: internet TV
++12: Community of the Future
+by Mel Poluck.
+
+AT508.com (http://www.at508.com) is an internet TV station
+dedicated to Section 508 of the Rehabilitation Act
+(http://www.section508.gov/), the part of US law which requires US
+federal government agencies to make their information technology
+accessible to people with disabilities.
+
+The channel provides a forum for live debate and links government
+agency representatives, the public, technology companies and
+advocacy groups, bringing together key players in the field of access
+technology. Webcast panel discussions allow viewers and listeners to
+interact with guests by email and the station also covers major events
+such as the international assistive technology conference 'CSUN'
+(http://www.csun.edu/cod/conf/).
+
+According to Dave Gardy, chief executive of the station's creator TV
+Worldwide (http://www.tvworldwide.com), the service has grown into
+one of the most active of their 20 internet television stations.
+
+AT508.com founder and technology journalist John Williams first
+approached Gardy about starting up the channel after he started
+receiving enquiries about the new legislation. "I saw the deed on 508
+become closer to becoming law [and] started to get a lot of calls and
+emails asking me questions about 508," Williams says.
+
+Launched two years ago at the World Congress on Disabilities
+(http://www.wcdexpo.com) in Florida, Gardy says webcasts regularly
+receive around 30,000 viewers and listeners and up to 200 emails per
+webcast. With around five per cent of content available only by pay-
+per-view, most of the site is free to access, with the service gaining
+most of its revenue from corporate sponsorship.
+
+There are three main advantages of web broadcasting compared with
+TV or radio broadcasting, Gardy says: "The distinct advantages are the
+interactivity; the archivability and most importantly, the community."
+
+A hot topic currently under discussion on the channel is the effects of
+the law on the IT giants. "They are frustrated because several
+[government] agencies are not enforcing it. Businesses supported 508
+in the belief that once they showed the will to support 508, the
+administration would, then there would be a trickle-down effect,"
+Williams says.
+
+But channel AT508.com webcasts are not always free of controversy.
+"There have been shows that have not pleased the government,"
+Williams says. "But that's OK, because the government has to be taken
+to task when it doesn't do its job."
+
+Last year, Williams and Gardy planned a show with representatives
+from federal government and the American Association of People with
+Disabilities (http://www.aapd-dc.org). "Our aim was to talk about the
+strengths and weaknesses of Section 508. We got a lot of calls from
+government and businesses," he says. Specifically the team were
+warned that strong criticisms of government or business could lose the
+channel goodwill and support.
+
+"We sat down and I said let's do this. We can't afford to buckle, that
+goes against everything democracy stands for. We got a lot of feedback
+from government listeners [who] said they liked it. They liked the fact
+we weren't ducking issues," Williams says. However, the White House
+called Williams to tell him they disapproved.
+
+One major annoyance for Williams is that few government
+departments take a strong approach to compliance, and no single
+agency is given responsibility for enforcing Section 508. "[The
+Department of Homeland Security] could be role models for enforcing
+508," he says. "Some departments within federal agencies were
+enforcing 508 and most were not." This, he said, inspired yet another
+show.
+
+"It's an emerging field which is probably still in its embryonic stages,
+but one of these days, it's just going to zoom," Williams says. "I think
+you'll see that in the next five years." It seems as if the panellists will
+have plenty to talk about on AT508.com for some time to come.
+
+[Section Three ends].
+
+
+++Section Four: Web Standards
+- HTML.
+
++13: Strict Standards Make Accessible Sites
+by Jim Byrne.
+
+There have been many different versions of Hypertext Markup
+Language (HTML) since the World Wide Web was invented in the
+early 1990s by Tim Berners-Lee. The rules for each version are
+encapsulated in the standards published by the World Wide Web
+Consortium (W3C).
+
+The standards dictate the tags publishers are allowed to use, and in
+what order, and how those tags should be interpreted by browsers. For
+example, text within header tags are interpreted as headings, text
+within paragraph tags are interpreted as paragraphs, and so on.
+
+It is said, usually with irony, that the great thing about standards is that
+there are so many to choose from, and in this case it is quite true.
+However, if you are beginner, you won't go far wrong if you decide to
+use the latest and final version of HTML released by the W3C, which
+is known as HTML 4.01 Strict. This is a good standard to adopt as it
+will never change, giving a solid, reliable way to mark up your pages
+that web browsers will understand for a good while yet.
+
+The 'Strict' part of the name means that you should not use tags and
+attributes that are no longer part of the final HTML standard. The
+jargon used when referring to these non-standard tags and attributes is
+'deprecated'. Staying away from deprecated tags and attributes removes
+a few more potential barriers to accessibility for your visitors.
+
+Using HTML in a standard way means you have to put the correct tags
+around the appropriate document structures. Headings should be
+marked up using heading tags, lists should be marked up using list
+tags, passages of quotation should be marked up with the blockquote
+element, and so on. The W3C provide a free validation tool to check
+whether your document is valid HTML: http://validator.w3.org/ .
+
+Once a document has been created using standard HTML you can alter
+the way it is presented by using different 'style sheets' in much the
+same way you can alter the look of the text in a Microsoft Word
+document. Cascading Style Sheets (CSS) contain information to set,
+among other things, the size and colour of headings, the justification of
+text, the layout of the page, and so on. In other words CSS should be
+used to provide information about how the page looks for visual users,
+and in more general terms, how it is presented to different types of user
+and 'user agents', such as browsers for example.
+
+HTML should ideally be used only to markup the structure of your
+document, indicating what bits are headings, paragraphs, list, quotes,
+and so on, with CSS being used to determine how the document looks.
+By separating structure from presentation you are creating more
+flexible pages because a given user can then apply their own style
+sheet so that the content is presented in a way that suits their needs. On
+pages that do not use standard markup, style sheets may not work as
+expected.
+
+Using standard Hypertext Markup Language (HTML) ensures that
+your pages will work on the widest range of hardware and software,
+including screen readers, for example. Pages using standard markup
+will also work more consistently on a wider range of browsers.
+
+Further developments such as XHTML aim to provide more flexible
+and intelligent ways of adding labels to your web published
+documents. XHTML, for example, makes it easier for computers to
+process and transform documents into different formats. If you are a
+more experienced coder and you have the tools to ensure that you don't
+make mistakes when marking up documents, you may prefer to use
+XHTML 1 Strict. Adopting this more up-to-date standard will assist
+with accessibility, and help to 'future-proof' your pages.
+
+NOTE: Jim Byrne has been an accessible web design consultant since
+1996. He is a web designer, LAMP Web applications developer, author
+and founder of the Guild of Accessible Web Designers. The original
+version of this article can be found at:
+http://www.gawds.org/show.php?contentid=104 .
+
+[Section Four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

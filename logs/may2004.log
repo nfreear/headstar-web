@@ -1,0 +1,46 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:57 2004 __
+
+Input file: ../eab/issues/2004/may2004.txt
+
+Warning: file already exists: ../eab/issues/2004/may2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: may | index: 5 | year: 2004
+URLs, prev: ../2004/apr2004.html | next: ../2004/jun2004.html
+Found ++, heading 2: ISSUE 53 CONTENTS.
+>> FOUND 2:  | 01:  | RNIB moots 'social firm' for web testing
+>> FOUND 2:  | 02:  | Culture department site accessible by phone
+>> FOUND 2:  | 03:  | E-learning students search in vain
+>> FOUND 2:  | 04:  | Spindrift in the moan zone
+>> FOUND 1: News in brief:  | 05: Easy publishing - new DAISY package; 06: Live
+>> FOUND 2:  | 13:  | Radio presenters have more fun: It is harder for blind people to
+>> FOUND 2:  | 14:  | Culture of accessibility: the key to creating services which are
+Warning line 50: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | RNIB MOOTS 'SOCIAL FIRM' FOR WEB TESTING.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | CULTURE DEPARTMENT SITE ACCESSIBLE BY PHONE.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | E-LEARNING STUDENTS SEARCH IN VAIN.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | SPINDRIFT IN THE MOAN ZONE.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF:
+> ITEM 1:  05:  | : |  A new software package that allows users
+> ITEM 1:  06:  | : |  A website dedicated to music library services for
+> ITEM 1:  07:  | : |  An overview of existing guidelines and
+Found ++, heading 2: Special Notice: Techshare 2004 Call for Papers
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Ana Cristina Souto of the Brazilian
+> ITEM 1:  09:  | : |  "I have a friend
+> ITEM 1:  10:  | : |  Last month Harish Kotian from India wrote in
+> ITEM 1:  11:  | : |  Steve Bingham of the Inland Revenue
+> ITEM 1:  12:  | : |  Sylvie Perera of the RNIB Scientific Research
+Found ++, heading 2: SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+> ITEM 2:  13:  | RADIO PRESENTERS HAVE MORE FUN
+Warning: not found a 'contents' match: Radio Presenters Have More Funby Kevin Carey .
+Found ++, heading 2: SECTION FOUR: SEMINAR REPORT
+> ITEM 2:  14:  | CULTURE OF ACCESSIBILITY
+Warning: not found a 'contents' match: Culture Of Accessibilityby Julie Hill.
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

@@ -1,0 +1,748 @@
+E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site:
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for the 
+Blind
+<http://www.rnib.org.uk>
+the National Library for the Blind
+<http://www.nlbuk.org>
+and the Guide Dogs for the Blind Association
+<http://www.guidedogs.org.uk>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts]
+
+ISSUE 13, JANUARY 2001.
+
+IN THIS ISSUE:
+Section One: News.
+- Open University launches UK's largest 
+assistive learning technology centre; US 
+government sets standards for access; Listen to 
+IVAN; Nystagmus and computer use; Immersion 
+wins us patent for tactile web; A double first for 
+universal design; Training course for powerpoint 
+presentations.
+
+Section Two: Special Focus
+- Deafblindness.
+
+Section Three: Case Study
+- 'Sort It!'.
+
+Section Four: Technology
+- 'vOICe'.
+
+[Contents ends.]
+
+
+SECTION ONE - NEWS.
+
+OPEN UNIVERSITY LAUNCHES UK'S 
+LARGEST ASSISTIVE LEARNING 
+TECHNOLOGY CENTRE.
+
+The Open University is to create a Centre for 
+Assistive Technology and Enabling Research 
+(CATER) for disabled students, backed by one 
+million UK Pounds from the Higher Education 
+Funding Council for England, in the largest 
+project of its kind so far in the UK.
+
+The OU is Britain's largest university, with more 
+than 200,000 students undertaking its part-time 
+distance learning courses. Currently more than 
+7,000 of its students have disabilities, and the 
+numbers are growing.
+
+CATER will build on and develop the 
+University's existing work on assistive 
+technologies to facilitate the learning of disabled 
+students.
+
+This will include developing learning resources 
+and communication methods; developing new 
+technology based services for students; carrying 
+out research to ensure that these services remain 
+appropriate to the needs of disabled learners; 
+technical support; and the creation of an Access 
+Centre to conduct needs assessments for disabled 
+students and staff and provide advice and 
+training on equipment.
+
+Specific projects will include further 
+development of the university's ongoing 
+DREAM (Digitally Recorded Educational Audio 
+Materials) project to replace analogue audio 
+recording of course materials with digital 
+recording, to enhance their quality, interactivity 
+and accessibility.
+
+The university is looking to recruit a person to 
+head the new centre. The appointment is initially 
+for a three-year period, after which the HEFCE 
+funding runs out, so an important part of the job 
+will be to generate income to enable the centre's 
+continuation.
+
+The post has a salary range of 32,000-37,000 UK 
+Pounds, and t he closing date for application is 
+30 January 2001. Further information from 
+01908 858251 or contact Liz McCarthy on 
+01908 653044 for further particulars in large 
+print, computer disk, or audio cassette. 
+Applicants who are deaf or hard of hearing can 
+call a Minicom answerphone on 01908 654901.
+
+There is also further information at:
+http://www.open.ac.uk/employment
+
+
+US GOVERNMENT SETS STANDARDS FOR 
+ACCESS.
+
+The US Access Board, an independent agency 
+that promotes access to services by people with 
+disabilities across the whole of US federal 
+government, has issued new accessibility 
+standards for information technology and 
+consumer electronics.
+
+The standards have been produced under a 1998 
+amendment to section 508 of the Rehabilitation 
+Act, which strengthened existing provisions 
+covering access to government information. The 
+finalised standards, issued in December 2000 
+following a consultation process, are legally 
+binding and will become part of the Federal 
+Acquisition Regulations.
+
+The standards apply to the full range of 
+technologies used by US government 
+departments and agencies, including the design 
+of web sites. Technology developed or acquired 
+for a federal agency by a contractor must also 
+comply. However, the standards carry a rider 
+clause: "A federal agency does not have to 
+comply with the technology accessibility 
+standards if it would impose an undue burden to 
+do so."
+
+The Access Board is now developing training 
+materials to help people understand and comply 
+with the new standards, including fact sheets, 
+practical 'how-to' tips on making web sites 
+accessible to people with disabilities, and 
+comprehensive annotated lists of reference 
+materials.
+
+Further information at:
+http://www.access-board.gov/news/508-
+final.htm
+
+
+LISTEN TO IVAN.
+
+In the latest development in the voice-activated 
+web arena, a character called IVAN – Intelligent 
+Voice Animated Navigator - could help blind 
+people navigate the Internet without a keyboard.
+
+Users of IVAN describe aloud the topic they are 
+interested in and the navigator – a cartoon icon 
+that looks like a little globe with arms and legs - 
+will find relevant websites, verbally list them and 
+guide the searcher through them. If IVAN 
+doesn't understand what you're looking for, it 
+will ask for clarification.
+
+Users need to download a piece of free software 
+over the web and buy a compatible headset with 
+microphone. You may already own a headset – 
+the 'FAQ' section of the 'myIVAN' web site has 
+details of compatibility. Once you're plugged in, 
+IVAN will run a short training session to help 
+him understand the nuances of your voice.
+
+Its developer, US-based One Voice 
+Technologies, says IVAN works on mobile 
+telephones and other wireless appliances as well 
+as PCs. See:
+http://www.myivan.com/
+
+
+NYSTAGMUS AND COMPUTER USE.
+
+The Nystagmus Network is planning to compile 
+an information sheet about the use of computers 
+by children and others who suffer from this eye 
+condition.
+
+Nystagmus is characterised by rapid, jerky eye 
+movements, and may cause difficulties in 
+viewing computer screens. The network is 
+seeking tips and advice from anyone with any 
+experience of the condition on what sorts of 
+computers and software may be easiest to use; 
+and what other relevant information resources 
+may exist on the web or elsewhere.
+
+Anyone who can help should email acting 
+chairman John Sanders on eyesitejs@msn.com
+
+For further information on nystagmus, and a 
+range of resources and materials including 
+information for schools and information on 
+treatment and research, visit the network's 
+highly accessible site:
+http://www.btinternet.com/~lynest/nyhome_n.ht
+m
+
+
+IMMERSION WINS US PATENT FOR 
+TACTILE WEB.
+
+The Immersion Corporation, developer of the 
+'TouchSense' tactile computer mouse, has been 
+granted a US patent for its system of enabling 
+tactile 'force feedback' for web pages.
+
+Immersion's software tools allow web 
+developers to embed touch elements in a page 
+that are converted by the TouchSense mouse into 
+different kinds of vibration or pressure on the 
+user's fingertips. They can be used on computer 
+desktops and in gaming software as well as on 
+the Internet, enabling users to physically 
+experience interactions with menus, icons, 
+windows and other web page elements.
+
+Tactile cues range from simple pressure to 
+highlight when a cursor moves over an animated 
+button, to the addition of different 'textures' to 
+products that are offered for sale online.
+
+TouchSense-enabled computer mice – also 
+known as 'haptic' mice - include the iFeel 
+Mouse from Logitech (http://www.logitech.com) 
+which uses different kinds of vibrations. Other 
+TouchSense technologies work by making the 
+cursor an extension of the hand.
+
+Immersion has developed a suite of software 
+tools that enables web developers to add tactile 
+feedback to web pages. They are available free 
+at:
+http://www.immersion.com/developer/build.html
+
+
+A DOUBLE FIRST FOR UNIVERSAL 
+DESIGN.
+
+CHI 2001, this year's Human Computer 
+Interface conference staged by the US-based 
+international Association for Computing 
+Machinery, will cover topics including universal 
+access and usability of technology, and the social 
+implications of interface design.
+
+It is to be held in Seattle from 30 March – 5 
+April. Further information at:
+http://www1.acm.org/sigchi/chi2001/
+
+Confusingly, a second conference that claims to 
+be 'the first international conference on universal 
+access in human-computer interaction', UAHCI 
+2001, is to be held alongside the 9th 
+International Conference on Human-Computer 
+Interaction from August 5-10 in New Orleans.
+
+The event aims to establish an international 
+forum on research related to universal access in 
+the development of interactive software. See:
+http://uahci.ics.forth.gr
+
+
+TRAINING COURSE FOR POWERPOINT 
+PRESENTATIONS.
+
+The British Computer Association of the Blind, 
+in association with Blind in Business, is to run a 
+three-day course in May introducing Microsoft 
+PowerPoint 2000 to visually impaired computer 
+users. The course will look at the fundamentals 
+of design and creation of PowerPoint slide-show 
+style presentations. For further information 
+please email the administrative assistant at the 
+BCAB at admin@bcab.org.uk by 14 February, 
+telephone 0845 660 6234 or see:
+http://www.bcab.org.uk/courses/powerpoint-
+prop.htm
+
+[Section One ends]
+
+
+SECTION TWO: SPECIAL FOCUS
+- DEAFBLINDNESS.
+
+SOLUTIONS TO A COMPLEX 
+COMMUNICATION PROBLEM.
+
+The term deafblindness reflects a number of 
+different states of sensory impairment. The 1988 
+RNIB report 'Breaking through' defined the 
+condition as "a severe degree of combined visual 
+and auditory impairment, resulting in problems 
+of communication, information and mobility".
+
+It is important to remember that deafblindness is 
+a disability in itself, and more than the sum of 
+the parts of being visually impaired and hearing 
+impaired: the effects of the hearing impairment 
+modify and multiply the effects of the visual 
+impairment, and vice versa.
+
+The largest group of deafblind people are people 
+aged around 65 or older who have acquired 
+sensory impairments late in life and who have 
+been used to an independent lifestyle. People 
+who lose their hearing or sight later in life, 
+particularly if they have residual hearing and 
+vision, are often unlikely to label themselves as 
+deafblind and may think services aimed at 
+deafblind people are not relevant to them.
+
+Other causes of deafblindness include serious 
+accidents; the genetic condition Usher 
+Syndrome; and congenital deafblindness 
+resulting from an illness such as Rubella or due 
+to prematurity.
+
+Deafblindness has a major impact on a person's 
+mobility, ability to communicate and access to 
+information. Deafblind people experience the 
+world very suddenly and without warning. For 
+example, a deafblind person will not know that 
+you are approaching them, or are near them, until 
+you touch them. They will not be aware of the 
+processes required to do something unless they 
+are specifically shown that process, and this will 
+have an impact on how they interact with the 
+world.
+
+The main factor affecting how a deafblind person 
+communicates is whether they possess a spoken 
+language such as English, or a non-spoken 
+language such as sign language, as a first 
+language.
+
+Communication methods based on English 
+include 'Block', where letters of the alphabet are 
+drawn onto the deafblind person's hand with a 
+finger. 'Deafblind manual' is another tactile 
+language where letters of the alphabet are 
+represented by touching the deafblind person's 
+hand. For example, touching the top of the 
+deafblind person's thumb represents the letter 
+'A'.
+
+In a high-tech twist to these manual solutions, 
+some research groups are developing mechanical 
+hands that can convert digital text into manual 
+signs that can be felt by deafblind people as with 
+a human hand, although these solutions are not 
+yet available commercially.
+
+For some people a hearing aid can help and an 
+induction loop installed in a room will assist 
+hearing-aid users by picking up and transmitting 
+sound from the room direct to the hearing aid, 
+and stripping out background noise. However, 
+loops frequently suffer technical problems. It 
+may be that they are not switched on and are 
+used so rarely that no one knows how to activate 
+them. In other cases they are not installed 
+correctly and will receive interference from 
+equipment such as PCs.
+
+There are other types of hearing aid, but 
+generally when speaking to someone wearing a 
+hearing aid a person should not shout, but talk 
+clearly and at a normal speed.
+
+Communication methods based on other 
+languages include 'restricted sign language', 
+used with people who have some vision. An 
+interpreter signs in a restricted space in front of 
+the deafblind person in their field of vision.
+
+With 'hands-on signing', the deafblind person 
+puts their hands on the interpreter's hands while 
+the interpreter signs what is being said. Again, it 
+is based on standard sign language but uses a 
+restricted or slightly modified version.
+
+For face to face situations, a computer can help 
+with the conversation. If the person reads Braille 
+then special programs can be used to control a 
+Braille display (one such is 'S-Com', developed 
+by a deafblind person). The screen is split into 
+two. The main part of the screen is used for the 
+interpreter or speaker to type what they want to 
+say. The bottom line of the screen is viewed 
+using the Braille display. 
+
+The 'Tellatouch' is a portable (but quite bulky) 
+device with a QWERTY keyboard and a single 
+Braille cell. In addition, computers with 
+refreshable Braille displays attached can be used 
+to talk to a deafblind Braille reader.
+
+It is also possible to use a standard word 
+processing program with speech and Braille 
+output. This allows the better magnification 
+facilities available under Windows to be used for 
+people with some residual vision, and to provide 
+communication using speech and Braille 
+together.
+
+One of the advantages of using a PC is that a 
+sighted or visually impaired person can talk to a 
+deafblind person directly without knowledge of 
+specialist communication methods. It is also 
+faster and less tiring than speaking through an 
+interpreter.
+
+For telephone contact a deafblind person might 
+use a phone system with Braille output or a 
+textphone with a large or magnified display. 
+Direct conversations are possible if both people 
+have a minicom or use RNID Typetalk, the 
+national telephone relay service 
+(http://www.rnid-typetalk.org.uk/).
+
+A phone conversation of this kind will take 
+longer than an ordinary phone call and it will 
+take time to become accustomed to talking via an 
+intermediary. People using a textphone to 
+communicate with a deafblind person should 
+think carefully about the words that they use. It 
+should be remembered that the listener cannot 
+pick up any voice inflexions and nuances of 
+emotion may not therefore be apparent.
+
+In all communication with deafblind people, it is 
+necessary to have some options from which to 
+choose the most appropriate method for the 
+situation, and to have a contingency plan in case 
+one method fails. For further information on 
+deafblindness see James Gallagher's award-
+winning 'A-Z to deafblindness' site at:
+http://www.deafblind.com/
+
+* Article by Cathy Rundle, RNIB. This article is 
+adapted from a paper given at the RNIB's 
+'Techshare' conference on 30 November-1 
+December 2000 (see also E-Access Bulletin, 
+issue 12).
+
+[Section two ends]
+
+
+SECTION THREE: CASE STUDY
+- 'SORT IT!'
+
+GIVING A VOICE TO YOUNG PEOPLE.
+
+Blind and partially sighted children and young 
+people want to watch television, read books, play 
+video games, go out with friends and plan 
+careers – in other words, to do all the things that 
+their peer groups do.
+
+But it may not be that easy. According to 
+'Shaping the future', the first ever survey of the 
+experiences of more than 1,000 visually 
+impaired children aged between five and 25, one 
+in three feel excluded from many classroom 
+activities and more than one in four reported 
+bullying.
+
+Late last year the RNIB, which carried out the 
+survey, launched a new web site aimed at 11-16 
+year olds with serious sight problems to try to 
+address some of these issues in an accessible 
+way.
+
+'Sort it!', at http://www.sortit.org.uk, draws 
+together a range of social and educational 
+resources for young people while highlighting 
+the problems of visual impairment and how they 
+can be dealt with.
+
+"The feeling behind the creation of the site was 
+that children and young people enjoy using the 
+Internet but there's not a great deal for blind and 
+visually impaired people that is fully accessible 
+and fun", says Becca Bryant, RNIB 
+Communications Manager and one of a small 
+team charged with maintaining the site.
+
+The site's launch generated extensive media 
+interest, particularly among young people's 
+magazines. As a result it is already receiving 
+around two thousand hits a month.
+
+Content includes a section headed 'Your voice', 
+which explains to young people their rights 
+under legislation such as the Disability 
+Discrimination Act, and how to enforce them. 
+There is also advice on how to obtain help at 
+school, and from other sources.
+
+A 'What's on' section includes information on 
+'Let's go!', a quarterly guide to cultural events 
+such as galleries where you can touch the 
+exhibits, days out and holidays. 
+
+The 'Braille trail' includes information about 
+how and where to get text books and magazines 
+in Braille, tape or large type. The RNIB 
+publishes two magazines for 12-15 year olds - 
+'Sugar and Spice' and 'Slugs and Snails' - with 
+the latest celebrity gossip, pop news and sport. 
+They cost 32 pence each, although they cannot 
+yet be ordered online.
+
+Interactivity is a key feature - throughout the site 
+youngsters are encouraged to join mailing lists, 
+enter competitions or send in their own ideas, 
+comments, reviews and opinions.
+
+The idea is that the feedback received will help 
+the RNIB in future campaigns for increased use 
+of Braille resources in schools, greater 
+participation in sports for the blind and the need 
+to give teachers in mainstream schools visual 
+awareness training.
+
+Interactive features include a message board 
+where users can ask for help with homework, 
+projects, share news about computer games or 
+find new networks of friends to share 
+experiences with.
+
+Young people do seem to be using the board 
+already to swap stories about their experiences, 
+exchange ideas, and equally importantly, to let 
+off steam. One typical message under the 
+heading 'aaaaaaaaaah!' reads: "Hey do any of 
+you guys find that teachers always ask the 
+support teachers if things need enlarging? And 
+they always enlarge stuff that was fine, and they 
+always tell you what you can see and what you 
+can't instead of asking. I HATE IT!"
+
+The message elicited a sympathetic response: 
+"Yes, it absolutely annoys me. Do they ever 
+think they should ask us?"
+
+Following the success of the message board, the 
+Sort it! team has plans to set up some kind of 
+live chat facility, although they currently lack the 
+funds. The team is shortly to set about seeking 
+corporate sponsorship for the site as a whole.
+
+Other plans to expand the site include a section 
+about careers and how to get ahead, which will 
+profile successful people both with and without 
+sight problems. They are also going to invite 
+celebrity chefs to suggest recipes that are easy 
+for blind and partially sighted people to follow.
+
+Currently on the site Comedian Harry Hill 
+recalls light-heartedly what it was like for him 
+growing up with poor eyesight, and promises to 
+come round and sort out the bullies at your 
+school.
+
+[Section three ends]
+
+
+SECTION FOUR: TECHNOLOGY
+- 'vOICe'.
+
+CAN YOU HEAR THAT PAINTING OVER 
+THERE?
+
+The sensation of 'hearing' colours in a painting 
+or the depth of a room is described by the 
+volunteer developers of 'vOICe', a piece of 
+'video sonification' software that creates 
+'soundscapes' of a person's environment.
+
+"The vOICe [brought] my hallway from a blurry 
+image in my mind's eye to what seems like 
+actual dimensional sight", says Pat Fletcher, a 
+volunteer from the US who is testing the 
+technology. Fletcher was blinded in later life, 
+and so has memories of vision.
+
+"It doesn't matter to me that my ears are causing 
+the sight to occur in my mind. What matters is 
+that the soundscapes are triggering a pathway for 
+me to see again."
+
+The vOICe system works by translating images 
+from a miniature 'eye-ball' PC camera or 
+webcam into sounds. Different shapes create 
+different sounds and even colours sound 
+different. Once a user is accustomed to the 
+vOICe, they can begin to comprehend more 
+complex or moving scenes simply by listening to 
+them.
+
+The system was invented by Peter Meijer, a 
+senior computer chip scientist working for 
+Philips Research in Holland 
+(http://www.research.philips.com). The vOICe 
+project is a subsidiary activity that he runs in his 
+spare time and at his own expense, although 
+Philips has supported him in publishing material 
+related to the technology.
+
+Fletcher is the first user to embark on fully 
+immersive use of the vOICe, using a mobile set 
+up and wearing it every day. For about six 
+months she has been wearing a head-mounted 
+webcam (sported, Cyclops-like, on the forehead), 
+stereo headphones, a microphone for speech 
+commands and a powerful notebook PC inside a 
+backpack running the vOICe software.
+
+She found that once she became accustomed to 
+it, the system added depth to practical activities. 
+In one testimony posted onto the web, she says: 
+"One day I was washing the dishes and turned to 
+get a towel to dry my hands. When I turned back 
+to the sink, I was stunned to see it in a depth-like 
+image. I stepped away from the sink and walked 
+slowly up to it again to see if my mind was 
+playing tricks on me. But, no, the feeling of 
+seeing depth in the sink bowl was still there. I 
+can now also stand in doorways of the rooms in 
+my house and sense the depth of the room. I 
+can't yet feel this when I am walking, but it is 
+there when I am standing still."
+
+Meijer says that because no congenitally blind 
+people have so far undergone fully immersive 
+trials, it is hard to say whether such users would 
+experience the same sense of depth. "But if the 
+sense of depth is due to visual perspective, then 
+one could argue that a congenitally blind person 
+might learn it just as well as a late-blinded 
+person," he says. "Visual perspective is a matter 
+of optics, governed by physical laws and 
+mathematical rules. There is no 'magic' to it, 
+except perhaps in the speed and ease with which 
+sighted people have learned to make sense of it, 
+even in visually cluttered scenes."
+
+The system can have its drawbacks, however, as 
+Fletcher found when she tried to listen to music 
+on a portable CD player while doing her 
+housework. "While standing still, it was no 
+problem. But when I began to walk around, 
+suddenly I was stumbling into walls and over 
+tables. I couldn't believe how clumsy I was 
+being. Then it hit me that the CD was not giving 
+me the information I had grown accustomed to 
+from the vOICe. I had to concentrate while 
+wearing the portable CD headphones – it was 
+like being blinded again."
+
+As well as acting as a navigational aid, vOICe 
+could also help visually impaired people to gain 
+some kind of feel for visual items such as 
+photographs, drawings, signs, graphs or 
+pictograms, by providing information on 
+perspective and colour.
+
+Meijer describes another experiment in which 
+development volunteer David Poehlman pointed 
+his camera around and at his fingers, and across 
+the Internet Meijer and Fletcher listened to the 
+live soundscapes from his hand and heard his 
+fingers moving in front of the camera, "in my 
+case at a distance of thousands of miles across 
+the Atlantic".
+
+He says different blind people might stand to 
+gain different things from vOICe. "For some it 
+may be their first direct and interactive 
+relationship with visual experience, possibly 
+fulfilling a curiosity to learn about visual 
+perspective, occlusion, parallax, shading and so 
+on beyond the accounts that they got from 
+sighted people. For those who lost eyesight later 
+in life the reasons may again be very different. It 
+can also be just a tool to gain access to graphs or 
+to tell the colours of objects by means of the 
+built-in colour identifier".
+
+vOICe is available free for non-commercial 
+purposes, although Meijer warns it is not an easy 
+technology to use: "Vision is a complex mode of 
+perception, involving a lot of learning and 
+adaptation. Mastering the vOICe requires lots of 
+effort and practice, perhaps comparable to 
+learning a foreign language."
+
+For more information visit:
+http://www.seeingwithsound.com/winvoice.htm
+Further testimonies are at:
+http://www.softcon.com/ftp/magazines/aud21.txt
+And to join an email list on vOICe send a blank 
+email to:
+seeingwithsound-subscribe@topica.com
+
+[Section four ends]
+
+HOW TO RECEIVE THIS BULLETIN
+
+To subscribe to this free monthly bulletin, e-mail 
+eab-subs@headstar.com with 'subscribe eab' in 
+the subject header. You can list other email 
+addresses to subscribe in the body of the 
+message. Please encourage all your colleagues to 
+sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' 
+in the subject header.
+
+Please send comments on coverage or leads to 
+Dan Jellinek at: dan@headstar.com
+
+Copyright 2001 Headstar Ltd. 
+http://www.headstar.com The Bulletin may be 
+reproduced in full as long as all parts including 
+this copyright notice are included. Sections of 
+the report may be quoted as long as they are 
+clearly sourced as 'taken from e-access bulletin, a 
+free monthly email newsletter', and our web site 
+address http://www.e-accessibility.com is also 
+cited.
+
+[Issue ends]

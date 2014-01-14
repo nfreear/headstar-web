@@ -1,0 +1,487 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 119, November 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the
+end).
+
+
+++Special Notice: Designing For All: Two for One Training Offer
+- An inclusive approach to web, print and electronic publishing
+- Tuesday 8 December, Central London
+http://www.headstar-events.com/dfa/
+
+This December, we invite you and a colleague to book onto our
+accessible communications training day on a two-for-one offer. So two
+people booking onto this course from the same organisation on the
+same day will only pay once.
+
+Combining practical workshops with in depth and detailed advice on
+how to make print, web and electronic materials more accessible,
+Designing For All is a must have training experience for anyone
+wishing to improve their skills in accessible communications. Trainer:
+Katie Grant, former publications manager, Disability Rights
+Commission.
+
+Places are £395 plus VAT. See the website for more and when
+registering with a colleague, use promotional code on both
+registrations '2FOR1-DEC' to receive free place. See:
+http://www.headstar-events.com/dfa/
+
+[Special notice ends].
+
+
+++Issue 119 Contents.
+
+01: US Universities Reject 'Inaccessible' Kindle E-Book
+- Amazon's e-reader deemed unsuitable to replace textbooks.
+
+02: 'Podcasts From Past' On Cultural Access Prize Shortlist
+- Museum project opens up collections to blind visitors.
+
+03: First Internet Web Radio Launched For Blind Users.
+- Easy controls open up world of blind audio.
+
+News in Brief: 04: Benchmark Concern - survey reveals website fears;
+05: Tuning Up -iTunes guidelines; 06: Cookie Monster - pop-up
+problems.
+
+
+Section Two: Focus - Disability and Virtual Worlds.
+07: Universal Life: The online virtual world Second Life recently
+launched a 'Virtual Ability Island' for disabled users. But how can an
+avatar be disabled? Kel Smith on the complex interaction between
+humans and their avatar.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: US Universities Reject 'Inaccessible' Kindle E-Book.
+
+Two American universities have rejected the market-leading Kindle
+DX electronic book reader as a textbook replacement due to its
+inaccessibility for blind students. Both Syracuse University in New
+York State and the University of Wisconsin-Madison have chosen not
+to use the Kindle - manufactured by Amazon.com - as a teaching-aid,
+after their own trials found it was not fully accessible.
+
+The institutions' decision was "applauded" by the US National
+Federation of the Blind ( NFB: http://bit.ly/gBnAC ), which said that
+although the reader contains a text-to-speech feature, "the menus of the
+device are not accessible to the blind", meaning that blind users cannot
+purchase books from Amazon's Kindle store, select which book to
+read, or even activate the device's text-to-speech feature.
+
+Ken Frazier, director of libraries for the University of Wisconsin-
+Madison, said in a statement that the DX's lack of accessibility had
+been a "big disappointment", and that Amazon had "missed the mark"
+with this version of the device, after the university trialled the e-book
+format for assigned reading in a history seminar.
+
+Since the two bodies' announcement a third US university, the
+University of Illinois, has also issued a statement announcing its
+commitment to purchasing fully accessible e-book technology. "Like
+our colleagues at Wisconsin and Syracuse, we recognize the
+groundbreaking potential that read-aloud features have for making
+textbooks accessible to students with disabilities", the university said.
+"Sadly, that potential can't be realized until vendors of e-book readers,
+like the Kindle, add accessible read-aloud menus and basic navigation
+to their products."
+
+The NFB told E-Access Bulletin this month that if fully accessible, e-
+textbooks can benefit blind and visually impaired students. "If e-books
+are accessible, then there will be no need for the expensive and time-
+consuming process of converting a printed textbook into Braille, audio,
+or electronic form. Blind students will have access to the same book at
+the same time and at the same price as their sighted peers", said Chris
+Danielsen, director of public relations for the NFB.
+
+Danielsen said that Amazon could increase the accessibility of the
+Kindle DX by "making the menus speak and/or by allowing the
+functions of the device to be controlled by keystrokes from the
+keyboard."
+
+Amazon has already courted controversy in this area by allowing
+publishers to remove the text-to-speech function altogether on a
+previous version of the Kindle (see story in the March issue of E-
+Access Bulletin, http://www.headstar.com/eablive/?p=244 ).
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=357
+
+
++02: 'Podcasts From Past' On Cultural Access Prize Shortlist.
+
+A Museum of London project recruiting and training unemployed
+people to describe objects in its collections and relay historical
+information into a series of podcasts, opening up some of the
+museum's collections to visually impaired visitors, is among
+shortlisted nominees for the 2009 Jodi Awards, which recognise best
+use of digital technology for disabled people in the arts, cultural and
+heritage sectors.
+
+'Podcasts from the past' ( http://bit.ly/2IO1cw ) is joined on the
+shortlist by (among others) Leeds Library and Information Service, for
+its 'Across the Board' project ( http://bit.ly/8doq1F ). The library offers
+a series of services and digital communication tools for autistic
+children and their parents, making it a more natural environment for
+those affected by autism.
+
+Nominated websites are subject to user testing and automated testing to
+assess their value, while disabled assessors will visit shortlisted
+'onsite' projects. Marcus Weisen, director of the Jodi Mattes Trust,
+told E-Access Bulletin that this year's nominations were "unusually
+strong and varied". Speaking about the International Award, he said:
+"An impressive project on the shortlist . is Aangepast Lezen  (
+http://www.aangepast-lezen.nl/ ), a Dutch project, which is a European
+pioneer for accessible digital libraries for print-impaired people."
+
+The annual awards are named in honour of Jodi Mattes, who worked at
+the British Museum and the Royal National Institute of Blind People,
+championing wider cultural access for disabled people. The 2009 Jodi
+Awards will be presented by Martha Lane Fox, the government's
+champion for digital inclusion, on 2 December at the Victoria and
+Albert Museum in London.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=360
+
+
++03: First Internet Web Radio Launched For Blind Users.
+
+A new internet radio set has been developed for blind and visually
+impaired listeners, allowing people to listen online to audio books,
+podcasts, talking newspapers and audio catalogues, as well as internet
+radio stations from around the world.
+
+Manufactured by the charity British Wireless for the Blind Fund (
+http://www.blind.org.uk ), the 'Sonata' radio - claimed to be the first
+of its kind - was launched earlier this month, and allows users to listen
+to any streamable, unlicensed internet audio feed.
+
+Designed to be as simple as possible to use, the Sonata is controlled
+entirely with five buttons. When connected to broadband internet, the
+radio contacts a server in Holland to allow readers to choose from a
+current list of available radio stations and podcasts.
+
+Although built primarily for blind and visually impaired users and
+available to such users on free permanent loan, the Sonata is also
+suitable for other users, said Fiona Fountain, head of fundraising and
+information for the BWBF. "It's so simple to use that anybody who has
+limited mobility - for example, older people with poor manual
+dexterity - or people who may not use computers can use it", she said.
+
+Fountain said the radio has other potential applications, as it has the
+potential to broadcast messages to other Sonata users such as news of
+other radio services. "The BWBF could record its own message to tell
+people about a new service on Sonata," said Fountain. "This means we
+can do it live, without having to write a letter, get it Brailled, or use
+large print or CD format, and then post it out, as we've had to do in
+past."
+
+The concept for the Sonata originates from Holland, where churches
+used the system to enable the home-bound to listen in to their local
+church service. The company responsible for developing the product,
+Solutions Radio, realised it had wider applications and approached the
+BWBF to develop it for the UK market. For those not qualifying for a
+loan, the Sonata costs £299 with a further one-off activation charge of
+£52.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=363
+
+
+++News in Brief:
+
++04: Benchmark Concern: Only 44% of organisations believe their
+websites and other electronic communications channels are accessible
+to people with disabilities, and the issue remains a "serious concern",
+according to a report by the Employers' Forum on Disability. 'The
+Disability Standard 2009 Benchmark Summary' surveyed 109
+organisations over a range of performance factors, including IT
+systems and e-commerce:
+http://www.efd.org.uk/disability/disability-standard
+
++05: Tuning Up: Guidelines for helping people create accessible media
+for the 'iTunes U' - a free part of the Apple iTunes Store featuring free
+audio and video educational resources such as lectures, language
+lessons and audiobooks - have been published by the US-based
+National Center for Accessible Media. The guidelines cover features
+such as audio descriptions, subtitles and accessible PDFs, and also
+contain links to audio and video clips which demonstrate accessible
+solutions in practice:
+http://ncam.wgbh.org/news/itunesu.html
+
++06: Cookie Monster: Accessibility problems could soon be created
+for many websites following an amendment to a European telecoms
+bill, the 2003 Privacy and Electronic Communications Directive,
+which requires that sites ask visitors' permission to store and access
+'cookies', pieces of data that identify a particular user or computer to a
+site. However, both the main methods used by sites to request this
+permission - separate 'landing' pages that appear without warning, and
+'pop-up' pages - could potentially breach the Web Content
+Accessibility Guidelines, according to analysts 'The Pickards
+Information Services'. The amendment will be passed this month, but
+will not come into force for a further 18 months:
+http://bit.ly/3hjhH
+
+
+[Section One ends].
+
+
+++Special Notice: Future Democracy '09
+- UK's Leading E-Democracy Conference Is Back
+- 25 November, Central London
+http://www.headstar-events.com/edemocracy09/
+
+The UK's leading annual conference on all aspects of e-democracy is
+back, covering e-campaigning, e-petitions and e-voting as well as all
+aspects of the use of the internet and new technologies in the policy
+cycle; democratic activity and engagement. We are proud to now be in
+our sixth year.
+
+A very strong speaker line-up is taking shape: have a look at the latest
+agenda online today. Our supporters and partners include The Hansard
+Society, MySociety, PEP-NET and the RSA, and our media partner
+this year is Total Politics.
+
+Registration costs just £195 + VAT for delegates from public sector,
+educational and voluntary bodies and £295 + VAT for private sector.
+For more see:
+http://www.headstar-events.com/edemocracy09/
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: Focus
+- Disability and Virtual Worlds.
+
++07: Universal Life
+by Kel Smith.
+
+Many of us use and enjoy virtual worlds such as Second Life for work
+and play, and there is a vital demographic of virtual world participants
+with a wide range of disabilities: visual impairments, motor skill
+disorders, degenerative illness, limited mobility, and cognitive
+difficulties.
+
+Many of these people use virtual technology to great social and
+therapeutic benefit. For these users, avatar-driven 3D environments
+serve as more than a game. Virtual worlds operate as a form of
+augmented reality, one where it's possible to transcend a user's
+physiological or cognitive challenges into something extraordinary.
+
+August 2008 marked the launch of Virtual Ability Island, an
+environment in Second Life created by the Alliance Library System
+(ALS) and Virtual Ability, Inc. (VAI) to help residents with disabilities
+become acquainted with the platform. Funded by a grant from the
+National Library of Medicine, the island provides a place for residents
+to find fellowship, training and education on topics related to physical
+disability, cognitive impairments or other chronic health concerns.
+
+The island was designed visually and experientially to offer the best
+benefit to users with disabilities, fully available to adaptive services
+and developed in accordance with Universal Design principles. The
+island contains the following features: wide ramps scalable for avatars
+in wheelchairs; bright high-contrast signage more easily trackable by
+users with visual impairments; smoothly landscaped walkways to
+accommodate many types of users; and training offered in small sets to
+decrease fatigue.
+
+Testing was performed in stages, with the first challenge being how to
+best present signage. Signs needed to be readable by the default camera
+view, which is angled downward at roughly 15 degrees from eye level,
+so all signs in the island's Orientation Centre were compensated for the
+height of avatars using wheelchairs. The standard view in Second life
+includes the avatar in the frame, so signs were placed high off the
+ground. Paths and walkways were designed with as few stairways as
+possible, with no bumps that would make an avatar trip while walking.
+The surrounding land was modelled to meet the paths as closely as
+possible.
+
+The question could be asked: why is it necessary to implement such
+strict accessibility features in a virtual world? After all, no avatar in
+Second Life is actually physically disabled - why depict an avatar with
+a wheelchair or guide dog? Why emphasise such physical attributes in
+an environment as ramps and wide paths?
+
+From a development standpoint, creating specification guidelines with
+universal design principles in mind has several benefits. It ensures a
+baseline modality for such tasks as listening to audio playback,
+viewing visual material, comprehending written information or
+interpreting the context of an event. One might argue that immersive
+environments should be governed by the same principles as other web-
+based media as governed by the W3C (The World Wide Web
+Consortium) Web Content Accessibility Guidelines (WCAG 2.0); they
+need to be perceivable, intuitive, flexible, robust and extensible in use.
+If media is designed to accommodate users with challenges, the overall
+experience will be holistically improved for all users.
+
+It is also important to realise that all digital applications, including
+virtual world environments, should be built to consider best practices
+in interface usability. Many first-time avatars have difficulty
+navigating virtual worlds with a mouse and keyboard, even with
+relatively minor hand and arm issues.
+
+Anything that can make the screen easier to read or the cursor easier to
+move can benefit the user experience. For those who rely on voice
+recognition software or alternative input devices, a larger or brighter
+avatar on the screen can be more precisely controlled. Game interfaces
+are frequently designed to accommodate customisation; interface
+malleability is often programmed into the console to remap functions
+at the player's whim, and this personalisation is often extended to the
+presentation layer itself.
+
+We must also consider the ways in which users of virtual worlds
+approach their disability. For some, it is largely a matter of respect.
+The appearance of accessibility is very important to many disabled
+users, who view their disability as an integral part of their identity.
+Simon Stevens, owner of a well-known disability consultancy in
+Coventry, UK, and a Second Life avatar named Simon Walsh, chooses
+to present himself in-world with a wheelchair.
+
+"I don't know how to be non-disabled and I've never wanted to be," he
+told the Times Online in March 2008. "It's important that people
+know; it's part of who I am, plus I'm a disability consultant in Second
+Life, too, so I've got to look the part."
+
+Depicting oneself with a disability can also be an issue of comfort
+resolved through personal customisation. People who have had an
+impairment since birth consider it a part of how they perceive
+themselves, and some prefer to have their avatar appear that way.
+
+Creating a virtual world with universal design principles in mind
+serves as a visual reminder to help users better understand the needs of
+the disabled. The appearance of accessibility in a physical space, either
+in a virtual world or in real life, will make a person more likely to use
+the service. For someone with a physical disability, extra space on a
+path provides a means of easy navigation from which all users may
+benefit.
+
+Furthermore, inclusive behaviours leverage the uniqueness of different
+viewpoints and experiences to provide a form of awareness on behalf
+of learners of all abilities. As an educational platform, virtual
+environments offer a synchronous, engaging vehicle to cultivate
+empathy, thus depreciating the concept that people with disabilities are
+societal outsiders.
+
+NOTE: Kel Smith is Principal at Anikto LLC ( http://www.anikto.com/
+), a consultancy, research and training company supporting the creation
+of barrier-free digital experiences spanning multiple disciplines,
+markets and contexts.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=366
+
+
+[Section Two ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for accessibility
+discussion on the web for nearly six years. Celebrating our sixth
+birthday next month, you'll find discussion of accessibility at all levels,
+from beginner to guru.
+
+The site has recently been redesigned and the forum system improved.
+This is still ongoing and you can join in the discussions.
+
+So whether you're looking to learn more about accessibility, want to
+help others and improve on your own knowledge, or just to browse the
+archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 119 ends.]

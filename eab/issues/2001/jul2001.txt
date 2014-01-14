@@ -1,0 +1,552 @@
+E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site:
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for the Blind
+<http://www.rnib.org.uk>
+the National Library for the Blind
+<http://www.nlbuk.org>
+and the Guide Dogs for the Blind Association
+<http://www.guidedogs.org.uk>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts.]
+
+ISSUE 19, JULY 2001.
+
+IN THIS ISSUE:
+
+Section One: News.
+
+- Opportunity knocks for VisuGate: visual impairment portal 
+receives 190,000 UK pounds from the National Lottery.
+- Calling all language partners: Portuguese and Spanish 
+organisations join E-Access Bulletin network.
+- UK anti-discrimination law may extend to net.
+-Margaret Bennett leaves National Library for the Blind: former 
+chief executive takes up government post.
+- Corporate giants fall down on web accessibility, survey finds.
+- Magic 'remedy' to section 508: a satirical solution is found.
+- News in brief: JustVanilla; Textphones, the last word; 
+Techsharers wanted.
+
+Section Two: Appeal response - sunlight sensitivity. Bulletin 
+readers offer their advice to the father of a child seeking relief from 
+the sun's glare.
+
+Section Three: Reader response - co-operation is key. E-Access 
+Bulletin reader Matt King rebuts Kevin Carey's contention that 
+niche players in the access market are a recipe for failure.
+
+Section Four: Profile - Charles Bennett: portrait of an online artist. 
+Tamara Fletcher profiles the new 'virtual writer in residence' at the 
+National Library for the Blind.
+
+[Contents ends.] 
+
+
+SECTION ONE - NEWS.
+
+OPPORTUNITY KNOCKS FOR VISUGATE.
+
+VisuGate (http://www.nlbuk.org/common/Visugate.html), a 
+nascent visual impairment portal, has received 190,000 UK pounds 
+from the National Lottery's New Opportunities Fund putting it on 
+track to launch next summer.
+
+The project is run by a 20-strong consortium, led by the National 
+Library for the Blind and including the RNIB's Research Library; 
+Action for Blind People; The British Journal of Visual Impairment; 
+the International Centre for Eye Health; the Department of 
+Education at University of Birmingham and BT Soundings.
+
+According to project managers David Egan, recruitment was 
+already underway and the active development phase will begin by 
+the end of August this year. Testing is scheduled for next spring, 
+leaving a few months to make final adjustments before its summer 
+launch.
+
+
+CALLING ALL LANGUAGE PARTNERS.
+
+Following our appeal for translation partners, E-Access Bulletin 
+has begun to collaborate with a network of blindness institutes and 
+associations across Europe and the world to produce versions of 
+the newsletter in different languages.
+
+Our first language partner, as previously announced (see E-Access 
+Bulletin, April 2001), is the Bologna-based Cavazza Institute. 
+Information on our Italian version can be found at 
+http://www.cavazza.it/eab and to subscribe to the Italian version 
+email eab-it-subs@headstar.com
+
+Subsequently we have been able to launch Portuguese and Spanish 
+language versions. The Portuguese edition is being produced in 
+association with GESTA (http://www.gesta.org), a sub-group of 
+the Portuguese Association of Blind and Partially Sighted 
+(ACAPO), with support from the Portuguese Guide Dogs 
+Association. The project is led by Jorge Fernandes, special access 
+adviser to the Portuguese government.
+
+GESTA has members not only from Portugal but also from Brazil 
+and the wider Portuguese-speaking world. The Portuguese 
+language bulletin web site and archive can be found at:
+http://www.gesta.org/eaccess/eaccess.htm and to subscribe to the 
+Portuguese version email eab-pt-subs@headstar.com
+
+Our Spanish version is produced by an Argentinian group 'Red de 
+Integración Especial', with input from the Spanish national 
+blindness institute ONCE (http://www.once.es). The project leader 
+in Argentina is Graciela Caplan, professor of philosophy and 
+literature and Buenos Aires University, and our advisor from 
+ONCE is Pedro Zurita Fanjul, former Secretary General of the 
+World Blind Union. An archive can be found at: 
+http://www.redespecialweb.org/eaccess.htm and to subscribe to the 
+Spanish version email eab-es-subs@headstar.com
+
+We are extremely grateful to all our language partners, and are 
+keen to hear of other potential collaborators who might be able to 
+produce versions in other languages. Partners are required to 
+translate or cover the costs of translation of the bulletin within 
+about a week of its appearance each month, and to maintain a 
+simple web page with details about that language version and a 
+text archive. Anyone interested should contact the editor Dan 
+Jellinek on dan@headstar.com
+
+
+ANTI-DISCRIMINATION LAW MAY EXTEND TO NET.
+
+UK legislation may help tackle discrimination against people with 
+disabilities by wen site designers, according to a paper published 
+this month in Warwick University Law School's Journal of 
+Information, Law and Technology.
+
+Author Martin Sloan argues that access guidelines set by the 
+Disability Discrimination Act 1995 could be extended to services 
+provided by the Internet. "It would otherwise seem anomalous to 
+differentiate between a customer who visits a travel agent and 
+another who wishes to use its online booking facility," Sloan says.
+
+He backs up his case by referring to landmark legal battles in the 
+US and Australia. 'Web accessibility and the DDA' can be found 
+at:
+http://elj.warwick.ac.uk/jilt/01-2/sloan.html
+
+
+MARGARET BENNETT LEAVES NLB
+
+Margaret Bennett has left her post as chief executive of the UK 
+National Library for the Blind this month following her 
+appointment as head of Lifelong Learning and Technologies 
+Division at the Department for Education and Skills in Sheffield.
+
+Bennett had held the top job at the NLB since 1996, where she has 
+implemented a range of innovative projects designed to create a 
+flexible library combining multiple formats including Braille, large 
+print, digital texts and web services and focused on the needs of all 
+kinds of visually impaired user. Before joining the charity she 
+trained as an accountant and worked at West Midlands Arts, North 
+West Arts and Nottingham Community Housing Association.
+
+In her new post she will work on such initiatives as the University 
+for Industry (http://www.ufiltd.co.uk), UK Online learning centres 
+and projects relating to access to technology and online learning.
+
+Erstwhile NLB deputy chief executive Helen Brazier is currently 
+acting chief executive pending the recruitment of a permanent 
+replacement by the organisation's trustees.
+
+
+CORPORATE GIANTS FALL DOWN ON ACCESSIBILITY.
+
+All but six of the UK's 100 largest listed companies have failed to 
+make adequate provision for accessible web design, according to 
+research by Internet developer Aspect Internet.
+
+Aspect spokesperson Sarah Gooding would not reveal the full list 
+of results, saying: "We don't want to do a naming and shaming 
+exercise." But Gooding said firms covered in the survey would be 
+told their score if they contact Aspect 
+(http://www.aspectgroup.co.uk).
+
+The company did, however, name the six companies which 
+managed to achieve the 85% pass mark: Tesco, Alliance & 
+Leicester, Lloyds TSB, Amvescap, Royal Bank of Scotland and 
+Vodafone.
+
+
+MAGIC 'REMEDY' TO SECTION 508.
+
+An imaginative solution has been found to the chaos caused by the 
+'Section 508' US government technology procurement regulations 
+imposed on 21 June to enforce web accessibility standards: the 
+'Magic 508 ball'.
+
+The 12-sided cardboard figure was the brainchild of Jim Tobias, 
+president of accessibility company Inclusive Technologies. Its 
+sides carry all the 508 regulations, "from 1194.21 in SubPart B to 
+1194.41 in SubPart D".
+
+Though "pretty free of features", Tobias says it provides a physical 
+outlet for those forced to wrestle with the complexities of the 
+regulations. So far 180 people have been driven to order the 
+flimsy, flammable dodecahedron, although no accessible Braille 
+version has yet been produced.
+
+For more on the confusion surrounding Section 508 see the 
+January and June issues of E-Access Bulletin. And for more about 
+the Magic 508 Ball visit:
+http://www.inclusive.com/info_tech/magic_508_ball.htm
+
+
+News In Brief:
+
+ACCESS ALL AREAS: Last month saw the launch of JustVanilla, 
+a web site through which users can browse the Internet using their 
+own viewing settings. By browsing indirectly through the site 
+visually impaired users need no longer be tied to using a particular 
+customised machine. See: http://www.justvanilla.com
+
+TEXTPHONES, THE LAST WORD: A guide to buying a 
+textphone has been made available on the Internet by Ricability, 
+the research organisation for consumers with disabilities. See 
+under 'Communication' at http://www.ricability.org.uk/reports.asp
+
+TECHSHARERS WANTED: Techshare 2001, an RNIB sponsored 
+conference on learning, work, digital society and technology on 27 
+and 28 November in Birmingham, is open to submissions for 45-
+minute presentations. Email techshare@rnib.org.uk or paste them 
+into the form at http://www.techshare.org.uk
+
+SAO PAOLO SEMINAR: A Portuguese language seminar called 
+'Acessibilidade, Tecnologia da Informação e Inclusão Digital' – 
+'Accessibility, IT and digital inclusion' - is taking place on 28-29 
+August in Sao Paolo Brazil: http://www.fsp.usp.br/acessibilidade
+
+[Section One ends.]
+
+
+SECTION TWO: APPEAL RESPONSE
+- SUNLIGHT SENSITIVITY.
+
+TACKLING GLARE: A SERIOUS NUISANCE
+
+Following last month's appeal from an E-Access Bulletin reader 
+for information about devices to help his young daughter who 
+suffers from poor vision and sunlight sensitivity, we received a 
+large number of extremely helpful reader responses, including 
+links to a number of useful web resources – thanks very much to 
+you all.
+
+Chris McMillan, a member of the American Nystagmus mailing 
+list, writes in to say: "If the child has achromatopsia (total colour 
+blindness) then there is a self-help group right on their doorstep in 
+California. Frances Futterman is the lady who set it up, and one of 
+the things she has done is track down a complete list of types of 
+'wrap round' sun specs. The Achromatopsia Network web site is at:
+http://www.achromat.org/
+
+He also suggests Eschenbach Sunglasses which use Corning glare 
+control lenses (details from http://www.eschenbach.com/ - but see 
+also Jen Hensil's comments below), and he says shops such as 
+Toys"R"us and Walmart also sell suitable sunglasses for VI 
+children.
+
+However, Jen Hensil adds: "I would not recommend the Corning 
+lenses on children. Corning lenses are glass, and therefore have a 
+propensity to shatter. A far better option for children with light 
+sensitivity are NoIR sunshields from NoIR Medical Technologies. 
+They come in a wider variety of shades and darknesses than 
+Corning, are far less expensive, and safer since they are plastic.
+
+"I also recommend seeing a low vision doctor for glare 
+evaluations."
+
+Another American Nystagmus list member agrees: "NoIR 
+sunshields are safe and fairly sturdy and are available in a range of 
+'shades' so you can get the kind that works best for your child. 
+They are more likely to wear them if they are comfortable with the 
+colour and shape of the ones they get. [My child's] are large with 
+wrap-around shades, meaning the shade continues onto both sides 
+and there is no frame outline to distract his side vision."
+
+Bulletin reader Jane Fleming says: "I have cone dysplexsia, and 
+part of the condition means I squint in bright sunlight. Of the 
+prescribed sunglasses the all-round kind are the best. In the event I 
+purchased a pair of skiing glasses - the ones used to counteract 
+snow-blindness. They are simple, inexpensive and widely 
+available.
+
+"I have also changed the background page colour of Word 
+documents on my computer to an off-white and I browse the 
+Internet with a grey background screen with light graphic. I wear 
+sunglasses to use the Internet and I have an anti-glare screen 
+device."
+
+David Porter writes in with a refreshingly non-technical 
+suggestion. "They've probably tried it, but just in case, I wonder if 
+a broad brimmed hat might help. I see better in bright sunlight 
+when I have some shade - not necessarily sunglasses."
+
+John Sanders, vice president of the UK Nystagmus Network, says 
+our reader's daughter may have nystagmus. "There is no cure for 
+nystagmus, but there are a number of things which may help. For 
+example, his daughter would probably benefit from wrap-around 
+sun-glasses and a baseball cap. She may also need prescription 
+glasses to correct myopia which she may have as well - ideally, she 
+will already have prescription glasses if she needs them, but sadly 
+we find that isn't always the case or that the prescription is wrong."
+
+The Nystagmus Network has a web site at:
+http://www.btinternet.com/~lynest/nystag01.htm
+
+Sue Allard writes in to say she has Retinitis Pigmentosa and 
+suffers badly with glare problems. "All sunglasses - whatever 
+colour - block too much light and so my vision is depleted even 
+more. I'm not sure which is worse, the glare or the 'cure'!
+
+"However, I have finally found some lenses that really do help. 
+They have been tested out and are recommended by the British 
+Retinitis Pigmentosa Society (http://www.brps.demon.co.uk). They 
+are 'Blue-Bloc' lenses, which, as the name suggests, block out 
+only the blue, problem-causing wavelengths.
+For more information email Ian Pyzer at Medi-View on 
+eyepyzer@aol.com
+
+"Glare does seem to be a major problem in most eye conditions. It 
+seems, from my experience with Gloucestershire County 
+Association for the Blind that many sighted people do not realise 
+or understand what a difference can be made for someone with 
+even very little sight, if glare can be managed.
+
+"I have had some dealings with people producing signs and it has 
+been extremely difficult to persuade them that white shiny surfaces 
+with black writing is not the way to go! I would be very interested 
+to hear from others with glare problems to hear how it affects them 
+and how they deal with it." Responses to this new appeal are 
+welcomed via the editor of E-Access Bulletin Dan Jellinek on 
+dan@headstar.com
+
+ [Section two ends.]
+
+
+SECTION THREE: READER RESPONSE.
+- UNIVERSAL ACCESS.
+
+* In an article in last month's bulletin, 'Commercial sector must be 
+driven to build in accessibility', Kevin Carey argued it would be 
+preferable for major software developers to build accessibility 
+features into their products rather than people having to rely on 
+niche-market accessibility suppliers.
+
+For all its strengths, Carey said, the specialist accessibility 
+marketplace is fragile and ramshackle and ultimately investment 
+and reliability are more important than improvisation and 
+enthusiasm. He concluded that if current disability law was 
+inadequate to force suppliers to make their products accessible 
+then the law must be beefed up.
+
+One reader at least, Matt King, begged to differ: below, we publish 
+his response. If anyone would like to continue the debate please 
+email the editor Dan Jellinek on dan@headstar.com
+
+
+CO-OPERATION IS KEY
+By Matt King  mattking@us.ibm.com
+
+In the first place, I can't imagine that either of the two practical 
+examples in Kevin Carey's article - failure to add a Braille display 
+to an access package producing speech and failure to make a new 
+laptop accessible as it ran a new operating system incompatible 
+with earlier access software - would be any better served in the 
+future he suggests.
+
+Does he know how companies the size of Microsoft work? When 
+was the last time you were able to get an issue with a 'niche' 
+feature of an MS product (or the product of any other major 
+computer sofware developer) resolved any faster or cheaper than 
+you could with GW Micro or Freedom Scientific?
+
+Second, does he realise how large companies respond to legislated 
+solutions? Remember that in the environment he is suggesting that 
+the large software developers will not have any revenue streams 
+that are dependent on the quality of the access solution built-in to 
+their products.
+
+With excruciating difficulty, someone may be able to develop 
+some local legislation in the UK or somewhere else to legislate for 
+some minimal level of quality. Besides being expensive to enforce, 
+keeping the legislation current would be nearly impossible. That 
+would surely slow down progress toward more advanced and truly 
+universal design.
+
+Third, do sighted users have a different way to read a line, word, or 
+character in every software package? Imagine having to learn how 
+to do these things with each different commercial vendors' 
+products. And don't think you would even have consistency among 
+products offered by the same company. Or is he suggesting a 
+100,000-page piece of legislation that would become obsolete 
+every few years as it intimately details how every access operation 
+should be implemented?
+
+Finally, if we are making this request for one disability, shouldn't 
+we make it for all? And, what is the definition of all? Where do 
+you stop? How small of a niche do we force companies to serve? 
+Do we stop at disabling conditions experienced by x% of the 
+population or less? What would 'x' be?
+
+I would encourage everyone to think in terms of how we can 
+leverage the marketplace and technology to work in our favour. 
+For instance, there is a huge lack of standards in the accessibility 
+industry. Instead of working with disconnected and relatively 
+ineffective legislative bodies around the world, what about putting 
+the same amount of energy toward developing standards for 
+compatibility and communications between assistive technologies 
+and general purpose software?
+
+There are excellent forums for doing this in the various IT and 
+electronics industry standards bodies. I think the IT industry is 
+ready and willing to co-operate.
+
+* This reader response is by Matt King, Accessibility End User 
+Advocate, IBM Business Transformation. Views expressed are his 
+own and not necessarily those of IBM.
+
+[Section three ends.]
+
+
+SECTION FOUR: PROFILE.
+-VIRTUAL VERSE.
+
+CHARLES BENNETT: PORTRAIT OF AN ONLINE ARTIST.
+By Tamara Fletcher  tamara@headstar.com
+
+"Messages travelling on bursts of electricity – like thought. Each 
+of us thinking and all the wires lit up with our words. I'm 47 and 
+married and didn't want to tell my story the usual way. I was 
+born".
+
+Thus writes Charles Bennett in a poetic biography written for the 
+National Library for the Blind on his appointment this month as 
+the organisation's fifth 'virtual writer in residence'.
+
+Following Matthew Sweeney, Susan Everett, Jean Sprackland and 
+Syed Manzurul Islam into this position, he will take up 'residence' 
+on the library's web site (http://www.nlbuk.org) as part of its 
+interactive 'Read On' programme for blind book-lovers. The 
+scheme has funding from the National Lottery.
+
+Bennett has a love of all things creative, especially poetry, for 
+which he credits his English teacher. School was not an otherwise 
+pleasant experience for him as he endured bullying. "It was a 
+glimmer of light in a dark forest – I guess I must have been about 
+14 but I think you continue to discover poetry throughout your 
+whole life," he says.
+
+Leaving school at the age of 16, he worked in industry for 14 years 
+before enrolling at University to study drama and theatre studies at 
+the age of 30, where he graduated and went on to teach English. 
+
+He gave up his teaching career as he wanted to concentrate on 
+poetry and became 'Reader in Residence' in Blackpool, with a 
+remit to foster an interest in reading in the area. He developed a 
+number of projects including the Blackpool Beach Library.
+
+"I ran the smallest mobile library in the world – I ran books in a 
+wheelbarrow up and down Blackpool Prom and delivered books to 
+your deckchair," says Bennett.
+
+In January 2000 he was appointed as Literature Development 
+Facilitator at Staffordshire County Council where he worked with 
+librarians and the public to promote literature. One of the schemes 
+he was involved in there centred around live poetry readings in 
+estate agents and the estate agents themselves would write their 
+own poetry as part of the 'Poetry Places' scheme funded by the 
+Poetry Society.
+
+Bennett became interested in the possibility of using computers for 
+his work when he visited Smith College in the US back in autumn 
+1986. He found what he describes as an "electronic treasure trove" 
+where the students taught him to translate his work from paper to 
+screen.
+
+"One of the benefits of using a computer for a poet is that you can 
+manipulate type written text more easily. It benefits the visually 
+impaired or blind as they can access a great deal of information 
+without having to leave home."
+
+As Virtual Poet in Residence at the NLB his role will be "to 
+stimulate an interest in poetry, literature and life," and to stimulate 
+an interest in individual creativity and contemporary poetry.
+
+The full requirements of his role are still being firmed up but it is 
+likely that he will be responsible for choosing a book each month 
+and entering into dialogue with readers via the web as well as 
+having audio files of his readings to download from the site. He 
+will also encourage the writing of poetry by visitors.
+
+"I am happy to talk about bananas and chickpeas, cricket or poetry; 
+to engage in debate; or to provide an insight into the world and 
+extrasensory ability. The visually impaired and blind have a special 
+way of interacting, almost extrasensory. I think disability is the 
+wrong word as it's like an extra ability," he says.
+
+One of the major disadvantages to blind people he cites as "not 
+being able to access contemporary texts so it's more difficult to be 
+as widely read. My guess is that there are advantages as those with 
+visual impairment tend to be more responsive to cadence and 
+nuance.  Seeing can be a visual noise which stops you 
+concentrating."
+
+As manager of the Ledbury Poetry Festival (http://www.poetry-
+festival.com) he says he would also like to think about developing 
+some projects aimed at accessible poetry for the blind for next 
+year's event.
+
+This year's festival has just taken place, and Bennett is currently 
+recovering from something of a "poetry hangover". So the virtual 
+residency will be the hair of the dog – and E-Access Bulletin 
+readers are urged to visit his web page at 
+http://www.nlbuk.org/readon/wir/current.html and help him 
+recover.
+
+[Section four ends.]
+
+
+HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail eab-
+subs@headstar.com with 'subscribe eab' in the subject header. You can 
+list other email addresses to subscribe in the body of the message. Please 
+encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com The Bulletin 
+may be reproduced in full as long as all parts including this copyright 
+notice are included. Sections of the report may be quoted as long as they 
+are clearly sourced as 'taken from e-access bulletin, a free monthly email 
+newsletter', and our web site address http://www.e-accessibility.com is 
+also cited.
+
+PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  phil@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial Advisor - Kevin Carey  humanity@atlas.co.uk 
+
+
+[Issue ends.]

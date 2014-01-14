@@ -1,0 +1,54 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:55 2004 __
+
+Input file: ../eab/issues/2004/oct2004.txt
+
+Warning: file already exists: ../eab/issues/2004/oct2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: oct | index: 10 | year: 2004
+>> Identified current issue (make next 'this').
+URLs, prev: ../2004/sep2004.html | next: ../2004/oct2004.html
+Found ++, heading 2: Issue 58 Contents.
+>> FOUND 2:  | 01:  | Chip and PIN bank card system under fire
+>> FOUND 2:  | 02:  | US law unravels over the web
+>> FOUND 2:  | 03:  | Online forms could boost patient power
+>> FOUND 1: News in brief:  | 04: Government resource - global plan; 05: Openly
+Use of uninitialized value in pattern match (m//) at tens2html.pl line 364, <IFILE> line 31.
+Use of uninitialized value in pattern match (m//) at tens2html.pl line 364, <IFILE> line 31.
+Use of uninitialized value in pattern match (m//) at tens2html.pl line 364, <IFILE> line 31.
+Use of uninitialized value in pattern match (m//) at tens2html.pl line 364, <IFILE> line 31.
+Use of uninitialized value in scalar chomp at tens2html.pl line 428, <IFILE> line 31.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 429, <IFILE> line 31.
+>> FOUND 2:  | 13:  | Community of the future: Internet TV station AT508.com grew out
+>> FOUND 2:  | 13:  | Strict standards make accessible sites: You don't need to be an
+Warning line 52: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: Special Notice: Techshare 2004
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | 'Chip And Pin' Bank Card System Under Fire.
+Warning: not found a 'contents' match: 'Chip And Pin' Bank Card System Under Fire.
+> ITEM 2:  02:  | US Disability Law Unravels Over Web.
+Warning: not found a 'contents' match: Us Disability Law Unravels Over Web.
+> ITEM 2:  03:  | Online Forms Could Boost Patient Power.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A free CD-ROM containing new
+> ITEM 1:  05:  | : |  A new set of tools enabling C++
+> ITEM 1:  06:  | : |  A guide for companies on the accessible
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Found ++, heading 2: Section Two: 'The Inbox'
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  07:  | : |  Further to our recent discussion
+> ITEM 1:  08:  | : |  In our April issue (issue 52) John
+> ITEM 1:  09:  | : |  Following last issue's request from our
+> ITEM 1:  10:  | : |  E-Access Bulletin is looking for an
+> ITEM 1:  11:  | : |  The same Estelita has a powerful
+> ITEM 1:  12:  | : |  Beryl Williams of Saskatchewan, Canada
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three: Focus: internet TV
+> ITEM 2:  12:  | Community of the Future
+Warning: not found a 'contents' match: Community Of The Futureby Mel Poluck.
+Found ++, heading 2: Section Four: Web Standards
+> ITEM 2:  13:  | Strict Standards Make Accessible Sites
+Warning: not found a 'contents' match: Strict Standards Make Accessible Sitesby Jim Byrne.
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

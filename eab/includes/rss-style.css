@@ -1,0 +1,57 @@
+/*
+ * title: RSS Style Sheet (CSS2)
+ * url:   http://bunburyIS.com/includes/rss-style.css
+ * copy:  Copyright 2003  Nick, Bunbury IS.
+ * auth:  Nick, http://bunburyIS.com, 2003-06-09.
+ * (http://www.w3.org/2000/08/w3c-synd/style.css)
+ */
+@namespace rdf url( http://www.w3.org/1999/02/22-rdf-syntax-ns );
+@namespace dc url( http://purl.org/dc/elements/1.1/ );
+@namespace sy url( http://purl.org/rss/1.0/modules/syndication/ );
+@namespace ht url( http://www.w3.org/1999/xhtml );
+/*@namespace    url( http://purl.org/rss/1.0/ );*/
+
+
+ht|title, html title { display: none; }
+
+/* IE needs namespaces: Opera doesn't like them! */
+RDF, rdf|RDF,
+channel,image,item,textinput {
+  font-family: verdana, sans-serif;
+  font-size: .95em;
+  color:     #000;
+  background:#fff;
+}
+title, url, description,
+  updatePeriod, updateFrequency, updateBase,
+  sy:updatePeriod, sy:updateFrequency, sy:UpdateBase,
+  source, creator, publisher, date, language, subject, rights, format,
+  dc:source, dc:creator, dc:publisher, dc:date, dc:language, dc:subject, dc:rights, dc:format
+{
+  display: block;
+}
+item>link, item link { display: block; }
+p>link, p link { display: inline; }
+title { font-weight: bold; margin-bottom: .3em; }
+channel  title {
+  text-align: center;
+  font-size: 1.1em;
+  font-style:italic;
+}
+channel, item, image, textinput {
+  display: block;
+  margin:  1%;
+  padding: 1%;
+  border:  1px solid #888;
+}
+image,textinput, link,publisher,date,language {
+/* display: none; */
+  color:     #555;
+  background:#fff;
+}
+name, items, channel image, channel textinput { display: none; }
+
+p,ht:p, identifier,dc:identifier { display: block; margin-top: .3em; margin-bottom: .5em; }
+/*a,ht:a { text-decoration: underline; }*/
+source,dc:source { display: none; }
+

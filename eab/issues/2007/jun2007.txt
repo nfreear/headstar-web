@@ -1,0 +1,568 @@
++++E-ACCESS BULLETIN
+- ISSUE 90, JUNE 2007.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+BT Age and Disability Unit
+( http://www.btplc.com/age_disability/ )
+Ford Motor Company
+( http://www.ford.co.uk )
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Special Notice - Building the Perfect Council Website
+- 12 July 2007.
+- Olympia 2, London
+http://headstar-events.com/council07/ .
+
+Following the huge success of last year's conference, we present this
+second annual event on how to create the perfect local authority
+website: easy to use, compelling and engaging.
+
+A partnership between Headstar and the local government Society of
+IT Management (Socitm), the event will draw on the collected wisdom
+of eight years of Socitm's annual 'Better Connected' review of all UK
+council websites.
+
+Speakers include Donna Smillie, Senior Web Accessibility Consultant,
+RNIB; Dominic Tinley, Editor-In-Chief of the UK Parliament website
+and Mary Reid, Mayor, Kingston upon Thames and Board Member,
+ICELE. Interactive workshops will cover issues in detail including
+usability, and the use of third party software. For details and to register
+see:
+http://headstar-events.com/council07/ .
+
+[Special Notice ends].
+
+
+++Issue 90 Contents.
+
+++Section One: News.
+
+01: Software 'Accessibility Passport' Gains Stamp Of Approval
+- successful tests of evaluation scheme for educational tools.
+
+02: EU Accessibility Laws Reach 'Critical Moment', Says MEP
+- 2007 could see groundbreaking new policies.
+
+03: Online Library Services Inspired By 'Amazon' Stores
+- national plan for lending accessible books unveiled.
+
+News in Brief: 04: Desktop Guides - free help with software; 05:
+Creepy Castles - new accessible game; 06: News Talk - text to
+podcast service; 07: Silver Radio - radio service rewarded.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Action Request - help with survey needed; 09: Programmer Power
+- barriers to accessible websites; 10: Tube Stop - London
+Underground network; 11: Design Course - teaching material sought.
+
+Section Three: Focus - EU policy.
+12: An Opportunity That Must Be Seized By EU Policymakers: This
+year the European Commission and Parliament will draft three policies
+that could bring boost efforts to make technology more accessible, says
+Richard Howitt MEP. Derek Parkinson listened in.
+
+Section Four: Focus - Second Life.
+13: Outside The Gates Of Second Life: Virtual environments such as
+Second Life have great potential as public spaces where people with
+disabilities could enjoy freedoms denied to them offline. But only if
+they can get past the accessibility hurdles, as Peter Verhoeven
+explains.
+
+[Contents ends].
+
+
+Section One: News.
+
+
++01: Software 'Accessibility Passport' Gains Stamp Of Approval.
+
+Successful trials have been completed of an "accessibility passport" for
+educational software which provides far more detailed information
+about a product than current accessibility standards, E-Access Bulletin
+has learned.
+
+Rather than simply stating that a product complies with a recognised
+accessibility standard, the passport system would include a description
+of what a product is and how it can be used, possibly including
+assessments by teachers and developers.
+
+A logo or kitemark could be used to indicate that a product has an
+accessibility passport, but wouldn't necessarily specify all the detail it
+contains, according to said Adrian Higginbotham, Accessibility
+Content Manager at the British Educational Communications and
+Technology Agency
+( BECTA - http://www.becta.org.uk/ ).
+Users could be directed to a central repository such as a website where
+all this information is held, said Higginbotham.
+
+In addition to Becta, the pilot also included Teachers Evaluating
+Educational Multimedia
+( TEEM - http://www.teem.org.uk/ ),
+which provides independent assessment of products, and around 40
+software developers, he said. The concept of the passport grew out of
+work by TechDis, the government-funded agency for technology and
+disability in education, said Higginbotham.
+
+The passport proposal reflects growing interest in the concept of the
+"flexibility" of a product, as distinct from its accessibility. Flexibility
+reflects how a product can be adjusted to meet a specific need, rather
+than the typical standards-based approach, which tests compliance with
+rigidly defined criteria. "It's early, we're only just starting to ask
+ourselves questions about flexibility," Higginbotham told delegates at
+E-Access '07, a conference organised by Headstar, publisher of E-
+Access Bulletin.
+
+People interested in the accessibility passport idea and want to make
+suggestions, receive more information, or participate in further trials
+should contact John Sewell, Senior Advisor with TechDis at
+john@techdis.ac.uk .
+
+
++02: EU Accessibility Laws Reach "Critical Moment", Says MEP.
+
+The EU is set to step up its activities to ensure digital technologies are
+more accessible to citizens with disabilities, according to MEP Richard
+Howitt, president of the European Parliament's All-Party Disability
+Intergroup.
+
+By the end of the year, the European Commission will publish three
+key pieces of legislation, Howitt told delegates at E-Access '07, the
+annual conference organised by Headstar, publisher of E-Access
+Bulletin. This summer, a new framework policy will be published
+under the inclusion strand of the EU's 'i2010' information society
+action plan that is expected to shift accessibility requirements more in
+favour of the end user, he said.
+
+Until now, EU policy on accessibility has focused more on providers
+of content and services rather than end users, said Howitt. "It doesn't
+make sense if content is accessible, but terminals are not," he said.
+"2007 is a critical moment in the EU in terms of addressing access to
+technology," said Howitt.
+
+In addition a new communication on digital inclusion will be published
+by the Commission, and a revised anti-discrimination directive is due
+by the end of the year, Howitt told delegates. These new EU policies
+will tighten up the requirements on private sector suppliers, possibly
+including a new certification scheme for accessibility; and widen the
+accessibility requirements on public sector procurement, Howitt told
+delegates.
+
+However, we must not be complacent, said Howitt. He urged delegates
+and readers to show public support for improved EU anti-
+discrimination law by signing up to an online petition organised by the
+European Disability Forum:
+http://fastlink.headstar.com/edf1 .
+
+During the final keynote session, Dr Paul Timmers, head of the
+eInclusion Unit at the European Commission also invited public
+participation. To be effective, EU policy must be effective and
+efficient, complete and coherent, future-proof and technology-neutral,
+he said. "We're going through an assessment of all these issues now,"
+said Dr Paul Timmers, head of the eInclusion Unit at the European
+Commission. "I invite everybody to get involved in the discussion," he
+said. A dedicated website has been set up for this purpose, he said:
+http://www.ipolicy.eu/
+
+NOTE: For a full report on Mr Howitt's speech to e-Access '07 see
+Section Three, this issue.
+
+
++03: Online Library Services Inspired By 'Amazon' Stores.
+
+Ordering accessible books held by public libraries and charities such as
+the RNIB could become as simple as the "one-click" services offered
+by online bookstores such as Amazon, according to plans being co-
+ordinated by the Museums, Libraries and Archives Council, E-Access
+Bulletin has learned.
+
+The vision of a simpler way to order accessible library books is being
+explored as part of a plan to integrate catalogues from the RNIB and
+the former National Library for the Blind (NLB) with new search
+facilities for public libraries, according to Sarah Wilkie, Programme
+Manager at the Museums, Libraries and Archives Council
+( MLA - http://www.mla.gov.uk/ ).
+
+"At this stage it is still a vision, but we think that ordering a library
+book should become more like using a service like Amazon," Wilkie
+told E-Access Bulletin. "We think there would be interest in a range of
+services. A library user could be offered a range of options such as
+having it delivered to a local library, or possibly direct to their home
+for a fee. They may also be offered the opportunity to buy a book," she
+said.
+
+The first big milestone on the way to achieving this will come in early
+2008 when UnityUK, an online catalogue system for public lending
+libraries, is relaunched on a new technology platform that is more
+accessible than used at present. "It will be machine-readable, and
+compatible with screen readers. It will also have clear fonts,
+magnification features, and alternative text where necessary," said
+Wilkie.
+
+Between now and then a significant amount of work also needs to be
+done on the content of the UnityUK, Wilkie said. "At the moment,
+records just say if a title is accessible but don't say how specifically -
+whether it's an audio book, large print, or Braille," for example," she
+said. In addition, library services managed by RNIB, including
+Revealweb, a service originally launched by the former NLB, will be
+integrated into one system. RNIB took over the running of all NLB
+services at the end of 2006.
+
+
+++News in Brief:
+
++04: Desktop Guides: Free guides for using JAWS and screen
+magnification software with applications such as Audacity and
+Windows Media Player 11 are now available at the VIP Software
+Guides website. The software guides were written by Chorlton
+Workshop as part of computer classes held at Henshaws Society For
+Blind People:
+http://vip.chowo.co.uk/ .
+
++05: Creepy Castles: PCS Games, who claim to "make games that
+tickle your ears," have released 'Sarah and the Castle of Witchcraft and
+Wizardry', a new accessible game inspired by the books of JK
+Rowling. The game transports players into a world of fantasy filled
+with secret passageways and hidden chambers. You are challenged to
+explore the castle searching for magical items and fighting
+creepy creatures. More information is available at:
+http://www.pcsgames.net .
+
++06: News Talk: Seattle-based speech technology company
+AudioDizer has launched a product that converts text from news
+websites into high quality podcasts. According to the company,
+AudioDizer converts text into MP3 files that can be read by male or
+female voices that sound similar to radio broadcasts. Apparently, it can
+deliver a variety of accents so that if a story originates from India, an
+Indian voice reads it, or if it comes from the UK, a British voice is
+used:
+http://www.audiodizer.com/ .
+
++07: Silver Radio: Insight Radio, formerly known as VIPonair, has
+scooped the Silver prize at the national Sony Radio Academy Awards
+for the category of best Internet programme. Insight Radio broadcasts
+to blind and partially sighted people across the UK and overseas. As
+well as broadcasting online, the station broadcasts to Glasgow and the
+surrounding areas on 101 FM:
+http://www.insightradio.co.uk .
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++08: Abuse Action: Action for Blind People is currently looking into
+the issues of verbal and physical abuse towards blind and partially
+sighted people and would welcome your opinions on this subject.
+Readers are invited to take a few minutes to fill out the website survey:
+http://fastlink.headstar.com/action1 .
+And if you have any comments or questions about the survey, please
+contact Debbie Flatley on 0207 635 4921 or email:
+debbie.flatley@actionforblindpeople.org.uk .
+
+
++09: Programmer Power: Tedd Sperling has some thoughts to offer
+about our recent feature article 'Overcoming The Barriers To
+Accessible Websites,' published in the May edition of E-Access
+Bulletin. Tedd writes: "Your article and comments are right on the
+mark. We do need to convince senior management of the need for
+accessibility in web sites. However, there is an additional aspect to
+consider, and that is educating programmers as to "best" practices.
+
+I am often employed as a programmer by companies to design,
+develop, and make functional web sites and applications. In doing so, I
+quietly add accessibility as best I can. Often, I find that there is no
+additional work that must be conducted to make a site accessible and
+meet the client's needs at the same time. In fact, my most recent
+client's needs were met more efficiently by providing an element of
+accessibility.
+
+Certainly, there are new cool things that catch their eye, but it is a
+challenge to meet the new thing with an accessible solution.
+Sometimes, it works and sometimes it doesn't. But the point is that I
+don't belabor the client with accessibility concerns, I just deal with
+them and the more I know about accessibility needs, the better I can
+change my way of doing things to accommodate both accessibility and
+client needs without degrading either.
+
+So, as I see it, the more educated the programmer is to accessibility
+concerns, the better."
+[Further responses please to: inbox@headstar.com]
+
+
++10: Tube Stop: A website providing details of facilities for disabled
+people at stations on the London Underground network, available at
+Direct Enquiries
+( http://www.directenquiries.com/ ),
+is of limited value to vision impaired travellers, writes Lynn
+Holdsworth.
+
+"Whoever came up with the idea of the London Underground guide
+was thinking along the right lines, but as a guide dog user who would
+have liked "turn left after going through the ticket gates" type
+directions, and specific information about alternatives to escalators, it
+didn't give me the information I was looking for," she says.
+[Responses please to: inbox@headstar.com]
+
+
++11: Design Course: Norman Waddington writes on behalf of an
+acquaintance looking for a web design course suitable for a blind
+person with additional disabilities. Norman writes: "He is looking for a
+suitable course for web page design which would be accessible to him
+using a screen reader.  He has nearly got his proficiency back with
+Braille reading but any additional material I am sure would be an
+advantage to him."
+[Responses please to: inbox@headstar.com]
+
+[Inbox ends].
+
+
+++Section Three: Focus
+- EU Policy.
+
++12: An Opportunity That Must Be Seized
+by Derek Parkinson.
+
+"When people hear the word 'Directive' their eyes tend to glaze over,"
+admitted Richard Howitt MEP, a leading campaigner for disability
+rights in the European Parliament. "Too often, decisions made in
+Brussels can seem remote," he told delegates at E-Access '07, the
+annual conference organised by Headstar, publisher of E-Access
+Bulletin.
+
+In fact, policy at an EU level has helped to bring about real changes,
+ensuring that the benefits of new technologies are made available to
+all, said Howitt, who is president of the All-Party Disability Intergroup,
+the main campaign group for disability issues in the European
+Parliament. "Technology should be a beacon of hope," he said.
+However, all too often, advances in technology place more barriers in
+the way of people with disabilities, he said.
+
+EU policies aimed at these issues include the 2002 framework policy
+on electronic communications
+( http://fastlink.headstar.com/2002 ),
+which paved the way for increased awareness of accessibility among
+private sector suppliers, he said. Since 2004, the EU directive on public
+procurement
+( http://fastlink.headstar.com/2004 )
+has helped to ensure that accessibility is taken into account when
+public money is spent on IT, he said.
+
+Two years later, in 2006, changes were made to EU policy on
+structural funds and research
+( http://cordis.europa.eu/fp7/home_en.html ),
+ensuring that accessibility is a higher priority, he said. "Forty per cent
+of the EU budget is now covered by some form of anti-discrimination
+legislation," said Howitt.
+
+The momentum is set to increase in the near future, particularly with a
+new policy on digital TV in place since the end of 2006, a new
+framework policy and a communication on digital inclusion due in the
+summer of 2007, and a revised anti-discrimination directive due by the
+end of the year, he said. The Audio Visual Media Services Directive
+(AVMS), adopted in 2006, is a significant move towards widening
+disabled access to TV, said Howitt. "Since the 1970s there has been
+voluntary commitment to this, but it is now a requirement to have
+specific quotas, and to report progress," he said.
+
+In many countries voluntary commitments don't appear to be working,
+he said. "About 0.7 per cent of programmes in Germany are audio-
+described, it is around one film per week in Portugal, and one film per
+month in France," he told delegates.
+
+Howitt hopes that the communication on digital inclusion, due this
+summer, will include proposals for a certification scheme for digital
+technologies, and that requirements for accessibility in public
+procurement will be strengthened. There are two main hurdles for
+accessibility campaigners, he said. Many of the recommendations
+about digital inclusion contained in EU policies such as i2010
+( http://fastlink.headstar.com/i2010 )
+are optional, not mandatory, said Howitt. In addition, accessibility is
+treated as a social or market-related issue, rather than an access issue.
+"It doesn't make sense if content is accessible, but terminals are not.
+That amounts to a policy failure," he said.
+
+In the final keynote for the day, Dr Paul Timmers, head of the
+eInclusion Unit at the European Commission, agreed that a market-
+based approach will not solve all our problems, although it will make
+an important contribution. "There is a digital opportunity as well as a
+divide. With an aging population there is an opportunity to make e-
+accessibility mainstream. But there will always be some things that
+markets cannot address or solve," he said.
+
+Part of the problem with new technologies is that they don't always fit
+well into the overall structure of EU policy, said Timmers. The
+economy, or social cohesion and quality of life issues are the main
+drivers for EU policy, and access to technology often gets split
+between several policy areas. "The outcome is that issues such as web
+accessibility aren't covered at the European level," he said.
+
+Broadly there are three separate challenges for EU policy on access to
+technology, he said. To be effective and efficient, anti-discrimination
+law must be tested and refined by case law, but this can be a slow,
+piecemeal process. EU policy should be complete and coherent, but
+there is a danger that the public sector will leave the private sector
+lagging behind. Finally, EU policy should be future-proof and
+technology-neutral, and achieving this requires regular updates, said
+Timmers.
+
+"We're going through an assessment of all these issues now," said
+Timmers. "I invite everybody to get involved in the discussion," he
+said. A dedicated website has been set up for this purpose, he said:
+http://www.ipolicy.eu/
+
+
+[Section Three ends].
+
+
+++Section Four: Focus
+- Second Life.
+
++13: Outside The Gates Of Second Life
+by Peter Verhoeven.
+
+Is a virtual world a venue for entertainment, a game, or a public place
+to meet others? Should it be accessible to everyone? Why doesn't any
+screen reader or screen magnifier let you access Second Life?
+
+Second Life is a 3-D virtual world entirely built and owned by its
+residents. Since opening to the public in 2003, it has grown explosively
+and today has wet up accounts set up for more than 5 million people
+around the world. I am one of those 5 million people and never could
+log in, because of Second Life's lack of accessibility. Most of those 5
+million accounts are never used.
+
+On the subject of accessibility, Joshua Linden from Linden Labs, one
+of the folks who help create the Second Life platform, has written:
+"The world, of course, is created by the residents. We are deeply
+committed to making Second Life usable by everyone. A large number
+of Second Life residents have 'First Life' disabilities and enjoy the
+freedoms that a virtual world offers from communication to movement.
+However, we're still a very small company and have limited
+development resources, so we have not been able to do everything we
+want to yet!"
+
+I think that it is very difficult to make the current client viewer of
+Second Life accessible. With my free Desktopzoom magnifier, I could
+magnify the login screen, enter my log in name and password, but after
+logging in, magnification was turned off and I couldn't bring it up
+again.
+
+If you launch the Second Life viewer with a screen magnifier such as
+ZoomText, Lunar or iZoom, magnification will be turned off. If you
+access the Second Life viewer with a screen reader like Hal, Jaws or
+Window-Eyes, nothing will be spoken aloud, and nothing will appear
+on your Braille line.
+
+A programmer at Desktopzoom
+( http://fastlink.headstar.com/desk1 )
+told me that the Second Life viewer and Desktopzoom conflict with
+each other. That is the reason you see the flickering of the login screen
+in Second Life client viewer, while running Desktopzoom.
+
+Linden Labs has made the Second Life client viewer open source. This
+means that it is at least possible to program other interfaces that
+integrate with Second Life. You can for example think about a virtual
+world with more sound instead of 3-D effects or speech support and
+audio description of 3-D effects.
+
+Dolphin Computer Access
+(http://www.yourdolphin.com/)
+has also highlighted the inaccessibility of Second Life. A spokesperson
+said: "Unfortunately Second Life will not work with [Dolphin's screen
+reader and magnifier] Supernova at this time. The problem that you
+face with trying to run Second Life with magnification software is that
+the game will call up the extended functions of the video card.
+
+"In order to create magnification, the Dolphin software intercepts
+information passing to the video card. While under normal conditions
+this poses no problem, the extended functions of the video card being
+called by the game cannot get intercepted and therefore will not be
+magnified.If the situation with Second Life changes I will let you
+know, as I know a number of clients who have enquired about this."
+Sometimes I have the impression that every day there are more articles
+written about Second Life, than there are visitors. But all this makes
+me curious and I cannot wait until an accessible client becomes
+available!
+
+NOTE: Peter Verhoeven provides an online resource containing
+guidance and advice about magnifier technology at:
+http://www.magnifiers.org/
+[Section Four ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2007 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]

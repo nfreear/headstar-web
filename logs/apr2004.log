@@ -1,0 +1,53 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:57 2004 __
+
+Input file: ../eab/issues/2004/apr2004.txt
+
+Warning: file already exists: ../eab/issues/2004/apr2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: apr | index: 4 | year: 2004
+URLs, prev: ../2004/mar2004.html | next: ../2004/may2004.html
+Found ++, heading 2: ISSUE 52 CONTENTS.
+>> FOUND 2:  | 01:  | WAI director defends validity of guidelines
+>> FOUND 2:  | 02:  | Apples to speak
+>> FOUND 2:  | 03:  | Stockton pioneers talking timetables
+>> FOUND 2:  | 04:  | Free internet safety resource for children
+>> FOUND 1: News in brief:  | 05: Poor numbers - disability organisations rapped;
+>> FOUND 2:  | 08:  | Audio-description challenge - quiz show comments; 09: Civil
+>> FOUND 2: precedent - Indian civil service;  | 10:  | Hit compilation - accessible
+OK, News in brief
+Found: precedent - Indian civil service;  | 10:  | Hit compilation - accessible
+>> FOUND 2: java compiler and downloadable Braille;  | 11:  | More fonts - ongoing
+Found: java compiler and downloadable Braille;  | 11:  | More fonts - ongoing
+>> FOUND 2: readability debate;  | 12:  | Research questionnaire - university project.
+Found: Research questionnaire - university project | . | 
+>> FOUND 2:  | 13:  | Global standards in the spotlight: Today sees the publication of
+>> FOUND 2:  | 14:  | Democratising the information society: Public service bodies have
+Warning line 50: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | WAI DIRECTOR DEFENDS VALIDITY OF GUIDELINES.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | APPLES TO SPEAK.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | STOCKTON PIONEERS TALKING TIMETABLES.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | FREE INTERNET SAFETY RESOURCE FOR CHILDREN.
+Found 'contents' match: 3.
+Found ++, heading 2: NEWS IN BRIEF:
+> ITEM 1:  05:  | : |  Some 60 per cent of disability organisations'
+> ITEM 1:  06:  | : |  Key presentations from the 19th annual
+> ITEM 1:  07:  | : |  Visually-impaired computer programmer
+Found ++, heading 2: SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Clive Lever of
+> ITEM 1:  09:  | : |  Harish Kotian writes in from India to ask
+> ITEM 1:  10:  | : |  In our last issue, Karina Gregory asked if
+> ITEM 1:  11:  | : |  Contributions continue to arrive on the topic of
+> ITEM 1:  12:  | : |  Duncan Glendinning, a final
+> ITEM 2:  13:  | GLOBAL STANDARDS IN THE SPOTLIGHT
+Warning: not found a 'contents' match: Global Standards In The Spotlightby Dan Jellinek.
+Found ++, heading 2: SECTION FOUR: SEMINAR REPORT
+> ITEM 2:  14:  | DEMOCRATISING THE INFORMATION SOCIETY.
+Warning: not found a 'contents' match: Democratising The Information Society.By Julie Hill.
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

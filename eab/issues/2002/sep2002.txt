@@ -1,0 +1,592 @@
+* E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment.
+Bulletin web site (including archive):
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute of the Blind
+<http://www.rnib.org.uk>
+and the National Library for the Blind
+<http://www.nlbuk.org>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+NOTE: As a navigation aid for screen readers, all headings begin with 
+an asterisk and end with a full stop. All items are also now numbered 
+in the contents and throughout the issue, with numbers appearing 
+immediately after the asterisks. Please let us know if there is anything 
+else we can do to make navigation easier.
+
+[Issue starts.]
+
+* ISSUE 33, SEPTEMBER 2002.
+
+* CONTENTS:
+
+Section one: News.
+
+1: Government 'losing momentum on disability'
+- no vote this parliamentary session.
+
+2: Landmark settlement for e-voters
+- Washington rethink on technology.
+
+3: And the winner is . . .
+- web awards embrace accessibility.
+
+4: Search the web by email
+- new Google services.
+
+5: A medal for Bill Gates
+- Microsoft founder wins Canadian award.
+
+6: 'Talking Link' postpones launch
+- funding hiccup slows down project.
+
+News in brief: 7: Web Pulse – portable browser launch; 8: Electronic 
+assistance – technology guide for the elderly; 9: Living free –London 
+exhibition.
+
+Section two: 'The Inbox' - Readers' forum.
+- 10: Flash features; 11: Design bombshell.
+
+12: Section three: Opinion - web design.
+- Out of the ghetto: is text the only way to make electronic media 
+accessible to visually impaired people? Kevin Carey argues for a true 
+multimedia approach.
+
+13: Section four: Focus - student services.
+- Access to learning: many new students who are visually impaired 
+face the hurdle of finding help, advice and extra equipment. Tamara 
+Fletcher reports.
+
+14: Section five: Writing competition – runner up.
+Love grows over the wires, by Estelita Clayton.
+
+[Contents ends.]
+
+
+* SECTION ONE: NEWS.
+
+
+*1: GOVERNMENT 'LOSING MOMENTUM' ON DISABILITY.
+
+A government bill that would bring discrimination law more closely 
+in line with legislation covering race, gender and religion looks set to 
+be sidelined, E-Access Bulletin has learned.
+
+According to the RNIB, the bill was designed to implement 
+recommendations made by the Department of Work and Pensions 
+Disability Rights Task Force (http://www.disability.gov.uk/drtf) and 
+was expected in the Commons during the new parliamentary session. 
+However, Caroline Ellis of the RNIB said this is now highly unlikely 
+and the RNIB and Disability Rights Commission will now lobby 
+sympathetic MPs to sponsor a Private Members Bill. 
+
+“When they’re not moving on these issues swiftly, the questions has 
+to be – why not?” she said. “It’s a big blow. It looks like the 
+government is losing momentum on disability.”
+
+The government set up the Disability Rights Task Force in 1997 to 
+advise on how to deliver its election pledges to the disabled, and 
+initially appeared to support its conclusions 
+(http://www.disability.gov.uk/drtf/towards_inclusion).
+
+Accordingly, the new bill was expected to strengthen the Disability 
+Discrimination Act and Special Educational Needs and Disability 
+Act, both of which have been criticised by the RNIB and the 
+Disability Rights Commission (http://fastlink.headstar.com/drc).
+
+However, these plans now appear to have been sidelined. And 
+concern over the slow progress on disability legislation has been 
+heightened by government plans to replace the Disability Rights 
+Commission with a single watchdog for all anti-discrimination laws 
+(see Issue 30, June 2002).
+
+
+*2: LANDMARK SETTLEMENT FOR E-VOTERS.
+
+The Council of the District of Columbia (http://www.dc.gov), the 
+local authority which runs the US capital Washington DC, has settled 
+a legal dispute with disability campaigners by agreeing to install 
+accessible voting equipment in all its polling stations by 2004.
+
+The settlement (http://www.aapd-
+dc.org/docs/landmarksettledcvotemach.html) ends a landmark legal 
+action which claimed that plans for new electronic voting machines 
+violated the Disabilities Act of 1990.
+
+The local authority had planned to introduce an optical vote-counting 
+system that required voters to mark ballot papers with a pencil. 
+However, a coalition that included the American Association of 
+People with Disabilities (http://www.aapd-dc.org) and the Disability 
+Rights Council of Greater Washington argued that the equipment 
+prevented people with impaired vision and motor skills from voting in 
+secrecy. 
+
+In each polling station the authorities will now provide a voting 
+machine with both audio and touch-screen capability. For a visually 
+impaired person, the machines produce an audio reading of the ballot 
+through headphones. Voters select a candidate using arrow keys 
+identified in Braille, while the touch-screen can be accessed with any 
+part of the hand or a mouth stick. Voters can also spell the names of 
+candidates by saying letters out loud. 
+
+The new machines will be demonstrated in local elections this 
+autumn, but will not be used to cast actual votes until 2004.
+
+
+*3: AND THE WINNER IS . . .
+
+Accessible web sites are being recognised for the first time this year 
+at the annual Interactive Entertainment Awards of the British 
+Academy of Film and Television Arts (BAFTA - 
+http://www.bafta.org).
+
+The judges will present the award to entertainment or information 
+sites which best exemplify a 'design for all' approach.
+
+BAFTA awards administrator Duncan Best said that in future the 
+accessibility criterion might be applied to all entries into the 
+competition. At present, however, media such as digital television, 
+mobile phones and text messaging cannot be judged on this basis. 
+"The technology is not going to be here for the next year and a half," 
+Best said.
+
+RNIB campaigns officer Julie Howell, one of the award's judges, 
+said: "RNIB hopes BAFTA will incorporate accessibility into 
+essential judging criteria for every category in 2003. Accessibility 
+effects everyone at some time, so the issue should be regarded as 
+mainstream."
+
+For details of the four sites which have been nominated for the 
+accessibility award - the UK Audio Network; I-Map; Foodlink; and 
+Ouch! – see:
+http://fastlink.headstar.com/bafta
+
+
+*4: SEARCH THE WEB BY EMAIL.
+
+A service allowing people to use highly accessible text email to 
+search the web using the popular search engine 'Google' has had 
+nearly 60,000 users in the five months since its launch.
+
+The bulk of those using the service are likely to have done so because 
+the smaller connection time it requires means searching is cheaper or 
+because it enables them to search easily using handheld devices.
+
+However, the service has found favour among blind people, who find 
+their screen readers work better with text email than the Google web 
+page.
+
+One frequent user told E-Access Bulletin, "I have used it quite a lot, 
+but then I also find the web page quite easy to use also." He did 
+however find fault with the system because it only returns up to about 
+20 matches.
+
+The service is run by web software firm Cape Clear 
+(http://www.capeclear.com). To use it, send a query in the subject 
+heading of an email to:
+google@capeclear.com
+
+
+*5: A MEDAL FOR BILL GATES.
+
+Micorsoft founder Bill Gates was awarded a Louis Braille Gold 
+Medal in Toronto last month in recognition of Microsoft Canada's 
+support for a digital library system developed by the Canadian 
+National Institute for the Blind (CNIB - http://www.cnib.ca/library). 
+Development will begin on the system in October, and it is hoped to 
+be fully functional within a year.
+
+The project includes development of a Children's Discovery Portal – 
+an online community for visually impaired children consisting of the 
+CNIB library, accessible games, a community area and a news 
+section. Using audio and voice technology, children will be able to 
+search the library database and download materials, play games and 
+chat with other visually impaired and sighted children.
+
+Independent accessibility consultant Joe Clark, who attended the 
+presentation, said: “The award was deserved, but Bill Gates shouldn't 
+have been the recipient; it should have been the Microsoft 
+accessibility group.
+
+"Interestingly though, Bill did commit to spending the rest of his 
+career advancing the needs of blind people. Perhaps we should hold 
+him to that?”
+
+
+*6: 'TALKING LINK' POSTPONES LAUNCH.
+
+Talking Link, a project developing technology for accessible internet 
+services including innovative audio and search capabilities (see E-
+Access Bulletin, March 2002), has postponed its September launch 
+due to lack of funds.
+
+The project's Lanacashire-based former owner, the Link Group, went 
+into voluntary liquidation in August. A new company formed to take 
+on the work, Deck12, remains confident in the strength of its portal 
+technology and is continuing to seek new funding. It is also keen to 
+begin development work on an accessible games project.
+
+“The idea is to develop accessible games that are also interesting to – 
+for want of a better word – 'ordinary' people,” said Deck12 
+spokesman Richard Buchanan. “But in total, we’ve invested a quarter 
+of a million pounds of our own money in the technology and we need 
+financial backing if we are to move forward."
+
+The company has formed a partnership with Disability World 
+(http://www.disabilityworld.com), a provider of online guides and 
+healthcare information for the disabled.
+
+
+*NEWS IN BRIEF.
+
+*7: WEB PULSE: Pulse Data is set to launch a portable web browser, 
+'KeyWeb', which will be available as a hardware or software upgrade 
+to the New Zealand company's BrailleNote and VoiceNote portable 
+notetaker products. The browser is designed to give visually impaired 
+people access to the internet without having to use a computer and 
+screen reader, and can be used to access search engines and fill in 
+online forms:
+http://www.pulsedata.co.nz/handlers/display.cfm/4,420,18,24,html
+
+
+*8: ELECTRONIC ASSISTANCE: The Centre for Accessible 
+Environments is to launch a ‘Specifiers guide on electronic assistive 
+technology in the home for older and disabled people,’ including 
+profiles of successful commercially available ‘smart’ products. 
+Aimed at home improvement agencies, health professionals, local 
+authority housing departments and architects, the publication is 
+expected on 25 November:
+http://www.cae.org.uk
+
+
+*9: LIVING FREE: More than 150 manufacturers, healthcare 
+specialists, architects and surveyors will be attending the Independent 
+Living London Show in Wembley on 18 and 19 September. The 
+show, which is free to visitors, will also offer seminars on consumer 
+issues and sports and fitness:
+http://www.independentlivingevents.co.uk
+
+[Section one ends.]
+
+
+* SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com
+
+* FLASH FEATURES:  In our last issue, Kate Page of English 
+Nature asked if pop-up menus created using web animation software 
+Macromedia Fireworks are accessible using JAWS 4.0. Robin 
+Christopherson of AbilityNet replies: “I don't think JAWS will work 
+with Fireworks at all. My understanding is that the latest version of 
+JAWS, 4.5, works well with presentations created using the latest 
+version of Flash - Flash MX - but not with previous versions.
+
+“I don't believe that Fireworks, or even the latest version Fireworks 
+MX, offers the same accessibility and there's no mention of it doing 
+so on their website at http://www.macromedia.com, where they do 
+talk at length about what Flash MX can offer.”
+
+* DESIGN BOMBSHELL:  Brian Payne, an accessibility trainer and 
+creator of Brailtalk, a way for sighted people to communicate in 
+Braille (http://www.brailletalk.btinternet.co.uk), writes in with some 
+comments on our story on a digital speech and voice solution to 
+television programme guides (see ‘Open vista for digital television’, 
+Story 3, E-Access Bulletin, August 2002).
+
+“Being totally without eyesight myself, I was interested in this 
+project, but the implications go far beyond television. I have long 
+hoped that someone would develop a ‘common box’ for analysing 
+digital displays on such equipment as treadmills and other gymnasium 
+devices, digital radios, fridge-freezers, other household items and, of 
+course, television.
+
+“Manufacturers continue to develop flat, smooth touch pads for those 
+with sight to access numbers, letters and instructions. I am assured by 
+others that such pads do not in any sense make the final products 
+more beautiful in their appearance, so this gives me a small hope that 
+such things will be dropped one day in acknowledgment of those who 
+cannot read them.
+
+“Cynically, however, I have to admit that I am probably wrong 
+because, vision being our most powerful sense, it follows logically 
+that most things will be developed with the eye in mind.”
+
+[Section two ends].
+
+
+*12: SECTION THREE: OPINION
+- WEB DESIGN
+
+* OUT OF THE GHETTO.
+by Kevin Carey  humanity@atlas.co.uk
+
+The RNIB's campaign for good web design recently hosted a debate 
+in London on web accessibility and usability. I wasn't there, but I 
+understand that the assembled panel of 'experts' were split over the 
+question as to whether a site can be designed to meet all needs or 
+whether blind and visually impaired people need a place of their own, 
+a text ghetto.
+
+It seems from the outside that these experts, like most web designers, 
+know a heap about what they do themselves, but nothing about the 
+market for which they are supposed to be doing it. Of those who 
+could be registered legally blind in the United Kingdom, only a 
+fraction - certainly less than ten per cent - totally rely on braille or 
+audio and have no residual vision. And that is quite apart from those 
+with vision better than 6/60 who are classified as partially sighted.
+
+All of these people - the vast majority of the RNIB client base - need 
+an environment in which text, audio and yes, pictures, are mutually 
+supportive. So are we to stick with "the text, the whole text and 
+nothing but the text" or go for a new slogan: "Multimedia must be 
+multimodal"?
+
+I suggest the latter. When people with standard sight and hearing sit 
+in front of a television they don't choose a primary receptive medium, 
+turning off either the sound or the picture, so why should people with 
+poor vision be any different?
+
+On the other hand they might find, on occasion, that they want text so 
+large that they shift the picture off the screen, or conversely, they 
+might be grateful for a graph which shows a broad trend, saving them 
+acres of technical text. 
+
+Furthermore, at the root of this controversy there is one massive 
+fallacy: that hypertext is just a minor digital variant on analogue text. 
+The basic concepts behind hypertext are not new – indeed it could be 
+argued that they were developed as far back as the 1690s by Gottfried 
+Leibniz, one of the first thinkers to conceive of a perfect language 
+which obeyed logical principles and in which sentences were 
+conceptually interlinked. It is staggering, therefore, that most 
+contemporary web designers and users don't understand what it is, 
+and still, for example, array options in trees and menus. This 
+approach is anathema to the basic concept of hypertext, which is that 
+one item can have a wide variety of attributes.
+
+It is with this in mind that I advocate building web sites using the 
+plasticity of hypertext to allow blind and visually impaired people to 
+choose what they want instead of shunting them off into an 
+informational and psychological ghetto.
+
+If you want to see how useless this ghetto strategy can be you only 
+have to try to read the BBC Home Page with a screen reader. Last 
+time I looked it had 103 live links, more than half of which had to be 
+trawled through before I reached the links for the main channels. It's 
+difficult to beat a good top line legend to help you jump around a 
+page and this is much better for people with poor vision than shunting 
+them off into a world of black and white.
+
+On top of the ridiculous architectural metaphor of web 'sites' and the 
+printing metaphor of 'pages' we now have the even sillier 'one size fits 
+all' proposition.
+
+The whole point about the web and its rendering in digital 
+technologies is that there isn't one size but only, in the first instance, 
+the author's preferred rendering. Indeed, splitting style from content 
+and using a browser is a quintessential exercise in user preferenced 
+rendering, so what is this debate about?
+
+Not for the first time, it is really a power game between liberals and 
+authoritarians, between those who make their living by telling people 
+what to do and those who make their living by making it possible for 
+people to do things. I know which side I'm on.
+
+[Section three ends.]
+
+
+*13: SECTION FOUR: FOCUS
+- HIGHER EDUCATION.
+
+* ACCESS TO LEARNING.
+by Tamara Fletcher  tamara@headstar.com
+
+Along with all the other concerns of a newly-enrolled student, 
+visually impaired people entering university must also ensure they 
+have the technical and personal support they need.
+
+To assist them, a network of 34 specialist access centres has been 
+established across the country. These offer independent assessment 
+for students wanting to apply for the disabled students allowance 
+(DSA) which helps pay for training and assistive technologies needed 
+to complete their studies. 
+
+The DSA can total up to 4,300 pounds as an assistive hardware and 
+software allowance over the duration of a course, but this is largely 
+dependent on the assessment report drawn up by the access centres 
+and sent to the local education authority. The authority will then 
+either fund the recommended assistance themselves or issue funding 
+direct to the individual if they are eligible.
+
+More than 1,250 visually impaired students entered university in the 
+last academic year.
+
+
+Maxine Kemp, administrator at the National Federation of Access 
+Centres (NFAC - http://www.nfac.org.uk) says: “When a student 
+applies to university and indicates they have a disability, the 
+admissions department will inform the disability service and we 
+would then invite them to their local centre and if necessary, apply for 
+the DSA for them.”
+
+The centres assess the needs of each individual, covering everything 
+from the equipment a student will need to technology training and 
+personal support. The centres undertake 75 per cent of all disability 
+assessments in England and Wales. The remaining 25 per cent are 
+assessed by private organisations.
+
+Sussex University is one example of an institution with an access 
+centre set up on campus. The centre here was established with 
+funding set up in memory of Sally Marriott, the University's former 
+deputy personnel manager who dedicated much of her career to 
+helping students with disabilities.
+
+In 2000 a new Visual Impairment Unit was established at Sussex with 
+funding from the University and the Blatchington Court Trust  
+(http://freespace.virgin.net/blatchington.court), a local charity 
+promoting education and employment for visually impaired young 
+people in Sussex. Last year the unit assessed 23 visually impaired 
+students from all over the country who were looking to attend a 
+university in the South.
+
+The centre's assessor Argie Labib, who is himself visually impaired, 
+said the assessments help different people in different ways. “Nearly 
+all visually impaired students work with computers and we can 
+recommend things for their studies. Some are not aware of what’s 
+available and we have access to all the latest technology and carry out 
+research to find out what works with what and what doesn’t work.”
+
+One student who has been helped by an access centre is Saqib Shaikh, 
+who lost his sight when he was seven years old and is in his second 
+year at Essex university studying as an undergraduate in Computer 
+Science. The Middlesex access centre carried out his initial 
+assessment and sent it to the disability support unit in Essex 
+University who signed and verified it and helped him in many ways.
+
+“Our disability coordinator, while she has little money to spend on 
+disability, is very helpful and will always try to do her best to get the 
+right things done. She listens to what I want, and tries to provide it, 
+and there's no bureaucracy and red tape to get through,” says Shaikh.
+
+“Being a computer scientist, I just told them what I needed, and they 
+agreed. They also helped me interview potential readers, and a non-
+academic helper for laundry, shopping and so on. They liaised with 
+the Computer Science department to make them aware of the 
+situation. They help by sorting out applying for DSA - the university 
+pays and then claims it back from the local education authority.”
+
+Shaikh uses scanning software to read books and letters, a note taker 
+for making notes and a four-track tape recorder for listening to taped 
+text books. He relies on his computer for work, internet research and 
+communicating by email. “I couldn't exist without it,” he says.
+
+[Section four ends.]
+
+
+*: SECTION FIVE: WRITING COMPETITION
+- RUNNER UP.
+
+The following story by Estelita Clayton has won second place in our 
+competition for creative writing on the topic 'keeping in touch with 
+technology' (the first prize story, by Neill McBride, was published in 
+our last issue). The other runners-up were Marvin Atkins; Husna 
+Begum; Amiyo Biswas; Peter Davey; Billie Jean Keith; Patricia 
+Livingstone; Dave Reynolds; and Jerry Weichbrodt, each of whom 
+will receive a set of classic e-books on CD.
+
+* LOVE GROWS OVER THE WIRES.
+by Estelita Clayton
+
+My story started over 40 years ago when, at the age of 18 months old, 
+I lost my sight.
+
+Living in the Philippines and going through school was very difficult 
+with no technology aids to help me cope with my studies, but I 
+successfully graduated and earned a college degree in teaching. With 
+the help of generous people I was able to get a job as a schoolteacher 
+by teaching Braille to blind children.
+
+Later on I got married and my husband, who was also blind, took me 
+to live in Canada, where the way of living was different. There I 
+learnt how to use a computer with an early voice synthesis machine 
+called DECtalk (http://www.fonix.com/products/dectalk) and JAWS 
+software. As a first timer, I found my computer amazing as it can do 
+wonders. It fired my interest to learn more and enjoy finding new 
+things that I could do.
+
+After a short time, I lost my husband. I was left alone, and having to 
+rely on a few friends to help me when they could, I was very lonely. I 
+had my computer to use to while away the time. I started working on 
+correspondence courses from Hadley School for the Blind 
+(http://www.hadley-school.org). The tutors were very helpful.
+
+Then I ventured out on to the internet and found it interesting. I made 
+internet friends to chat with till I found a pen pal from thousands of 
+miles away in the UK to exchange email with. With his help online I 
+learned more how to navigate around the web and found many new 
+things to do with computers.
+
+Meanwhile, I decided to take a year long course at college. By this 
+time, I had progressed from the desktop to a laptop, which gave me 
+more freedom and confidence to go through college. My pen pal was 
+still there online to help me with my computer related problems and 
+to teach me some of my course's assignments. I called him my 'techie 
+guy'. By the time I was halfway to finish my course, we realised we 
+were falling in love with each other and decided to meet after I 
+finished the school. When the school was over I had passed the course 
+with excellent grades.  The long awaited time for me to meet my 
+techie guy was over and soon I was on my way to meet him.
+ 
+By September 2001 we were married and enjoying our life together 
+and learning more about computers. My guy is sighted so he has 
+learnt how to use all types of different programs with Access 
+Technology and then teaches me how to do it. I continued with the 
+Hadley courses and one of the courses I took recently was 
+Introduction to Personal Computer, which I earned excellent grade of 
+A+. So I am learning more each day. 
+
+Technology has helped to change my life for the better, without it my 
+life would have been very different. I can only imagine life will get 
+even better in the future for the visually impaired and the deafblind.
+
+[Section five ends.]
+
+
+* HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail
+eab-subs@headstar.com with 'subscribe eab' in the subject header. 
+You can list other email addresses to subscribe in the body of the 
+message. Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject 
+header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2002 Headstar Ltd. http://www.headstar.com
+ISSN 1476-6337
+The Bulletin may be reproduced in full as long as all parts including 
+this copyright notice are included. Sections of the report may be 
+quoted as long as they are clearly sourced as 'taken from e-access 
+bulletin, a free monthly email newsletter', and our web site address 
+http://www.e-accessibility.com is also cited.
+
+* PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Phil Cain  phil@headstar.com
+News editor - Derek Parkinson  derek@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk
+
+[Issue ends.]

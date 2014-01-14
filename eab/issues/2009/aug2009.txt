@@ -1,0 +1,559 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 116, August 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Special Notice: Future Democracy '09
+- UK's Leading E-Democracy Conference Is Back
+- 25 November, Central London
+http://www.headstar-events.com/edemocracy09/
+
+The UK's leading annual conference on all aspects of e-democracy is
+back, covering e-campaigning, e-petitions and e-voting as well as all
+aspects of the use of the internet and new technologies in the policy
+cycle; democratic activity and engagement. We are proud to now be in
+our sixth year.
+
+A very strong speaker line-up is taking shape: have a look at the latest
+agenda online today. Our supporters and partners include The Hansard
+Society, MySociety, PEP-NET and the RSA, and our media partner
+this year is Total Politics.
+
+Registration costs just £195 + VAT for delegates from public sector,
+educational and voluntary bodies and £295 + VAT for private sector.
+For more see:
+http://www.headstar-events.com/edemocracy09/
+
+[Sponsored Notice ends].
+
+
+++Issue 116 Contents.
+
+01: Academic Urges Shift From Accessibility To 'Adaptability'
+- New 'real-world' approach needed to assist disabled web users.
+
+02: Application Opens Up Twitter To Disabled Users.
+- Tests for accessible version of popular micro-blogging service.
+
+03: Survey Uncovers "Depressing Picture" For Employees
+- Low accessibility levels found in internal staff IT systems.
+
+News in Brief: 04: Signed Games - for deaf players; 05: World
+Nominations - accessible cultural websites; 06: Techshare Programme
+- digital technology event.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Tactile Culture - accessible exhibitions; 08: Museum Challenge -
+audible descriptions; 09: TV Input - query answered; 10: BBC
+Obstacles - iPlayer barriers; 11: Audiobook Query - research required;
+12: JAWS Bafflement - screen-reader manual request.
+
+Section Three: Web Research - Adaptability Versus Accessibility.
+13: Time To Be Flexible: Though it may seem straightforward enough
+to achieve web accessibility simply by following international
+guidelines and standards, in the real world of limited budgets and
+changing technology a more flexible approach is needed, writes Brian
+Kelly.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Academic Urges Shift From Accessibility To 'Adaptability'.
+
+An approach to improving web access for people with disabilities
+based on 'adaptability' rather than 'accessibility' is urged by a leading
+academic in this month's E-Access Bulletin.
+
+Brian Kelly, UK Web Focus at UKOLN, the national digital library
+research body based at the University of Bath, says 'adaptability'
+adopts the UN Convention's view that disability results from the
+interaction between people with impairments and attitudinal and
+environmental barriers that hinder their participation in society.
+
+"Disability is therefore a social construct and not an attribute of an
+individual," Kelly says. "In particular, resource accessibility is the
+matching of a resource to an individual's needs and preferences - and
+is not an attribute of a resource.
+
+"This is a different philosophy from that which underpins the WAI
+[World Wide Web consortium's Web Accessibility Initiative]
+approach, which argues that universal accessibility can be provided by
+focusing solely on the individual web resource, the tools used to create
+the resource and the browsers used to access the resource."
+
+The web adaptability approach does not reject the valuable guidelines
+which have been developed by WAI, Kelly says. "Rather, the approach
+feels they should be regarded as guidelines which can be helpful in
+many but not all circumstances. It is essential that the WAI guidelines
+are used in a pragmatic fashion, and not as a series of inflexible rules."
+
+The adaptability approach focuses on real-world deployment
+challenges rather than continuing to mandate use of guidelines
+independent of their context of use, the technical complexities of
+today's web environment, the rich diversity of uses made of the web
+and the differing individual users' needs and requirements, he says.
+
+NOTE: For a full report by Brian Kelly on web adaptability versus
+accessibility see Section Three, this issue.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=319 .
+
+
++02: Application Opens Up Twitter To Disabled Users.
+
+Keyboard-accessible links, audio cues and simplified layouts are some
+of the features present in 'Accessible Twitter', a new application under
+development to make the popular microblogging service more
+accessible to disabled users.
+
+Users sign in to the application
+( http://www.accessibletwitter.com/ )
+with their regular Twitter username and password and are then
+presented with a tweaked version of the service with improved
+usability and accessible alternatives to many features.
+
+These include headings and page titles which are designed to work
+with screen-readers; a large default text size and high colour contrast
+for easy viewing; and audio cues to alert the user when the character
+limit of 140 is almost reached when writing a 'tweet'.
+
+The application's creator, US-based web developer and accessibility
+advocate Dennis Lembree, told E-Access Bulletin he hopes Twitter
+will eventually incorporate the accessibility features he has highlighted
+in his work. He is not optimistic this will happen in the near future,
+however. "I think very gradually [Twitter] may improve, but not
+[through] anything significant soon. Twitter is happy with other
+companies and developers using the API [application programming
+interface] and creating a wide variety of applications."
+
+Lembree said that disabled users of technology were "almost always"
+overlooked by developers.
+
+Though still in the 'alpha' development stage, Accessible Twitter is
+currently available for anyone to use and is supported by all major
+internet browsers. The 'beta' version of the application will include
+more of Twitter's features which have been adapted to increase their
+accessibility, including "Open Authentication, uploading photos, and
+better error handling", said Lembree.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=321 .
+
+
++03: Survey Uncovers "Depressing Picture" For Employees.
+
+A low level of accessibility found in internal ICT systems for staff is
+creating a "depressing picture for employment of people with
+disabilities", according to a new survey carried out in conjunction with
+E-Access Bulletin.
+
+The research, conducted by Bloor Research with E-Access Bulletin
+and Ability Magazine, found private sector organisations have more
+accessible internal ICT systems than organisations in the public sector,
+with 44% of private sector companies surveyed having more than 70%
+of their internal systems accessible, compared with only 29% of public
+sector bodies surveyed.
+
+Both sectors were asked how this picture is likely to change by the end
+of 2010. The private sector again came out on top, with 60% of
+respondents claiming that by the end of 2010 more than 70% of their
+systems will be accessible, compared to just 44% of public sector
+organisations.
+
+However, the overall picture is still a gloomy one for the job prospects
+of disabled workers, the survey finds. "Although there is pressure to
+improve the internal systems, there will be a large number of systems
+that are still not accessible in 2011 and this will limit job
+opportunities," it says.
+
+Despite its shortcoming in internal systems, the public sector was
+found to have a greater overall level of accessibility in its external
+systems. These differences are "probably caused by the e-gov pressure
+for citizen access on the one side and inaccessible internal legacy
+systems in the public sector on the other," the survey finds.
+
+The full paper with results and conclusions of the survey can be found
+at:
+http://fastlink.headstar.com/bloor2 .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=324 .
+
+
+++News in Brief:
+
++04: Signed Games: The use of sign language in videogames is being
+explored through the inclusion of a deaf character in an upcoming
+instalment of the popular game 'Half-Life 2: Episode Three'. Gabe
+Newell, co-founder of the game's developers Valve, hosted a recent
+focus group for deaf gamers, where he said the character's inclusion is
+"an excuse to build the technology for signing" into a game:
+http://fastlink.headstar.com/sg1 .
+
++05: World Nominations: Global nominations for accessible cultural
+websites or web-based services are invited in a new international
+category at this year's Jodi Awards, which reward achievements in
+accessible digital culture. The awards, whose previous winners include
+the Tate Modern and British Museum, take place on 2 December, and
+deadline for nominations is 25 September:
+http://fastlink.headstar.com/jodi3 .
+
++06: Techshare Programme: Richard Schwerdtfeger, chair of IBM's
+Accessibility Architecture Review Board, and Cynthia Waddell,
+executive director of the International Center for Disability Resources
+on the Internet, are the keynote speakers for Techshare 2009, an event
+which explores digital technology for disabled users. Topics to be
+covered at the event - hosted by the Royal National Institute of Blind
+People in London 16-18 September - include web accessibility, e-
+learning and mobile devices:
+http://www.techshare.org.uk .
+
+[Section One ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for accessibility
+discussion on the web for nearly six years. Celebrating our sixth
+birthday next month, you'll find discussion of accessibility at all levels,
+from beginner to guru.
+
+The site has recently been redesigned and the forum system improved.
+This is still ongoing and you can join in the discussions.
+
+So whether you're looking to learn more about accessibility, want to
+help others and improve on your own knowledge, or just to browse the
+archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: Tactile Culture: In last month's issue reader Margot Whitfield of
+the Royal Ontario Museum in Canada asked about information on
+tactile access to cultural exhibits.
+
+Stefanie Armbrust of the UK's Office for Disability Issues says: "I
+know that the British Museum (
+http://www.britishmuseum.org/ )
+does touch tours and handling sessions".
+
+And Rachel Ethier Rosenbaum, President of The Carroll Center for the
+Blind in Newton, Massachusetts and regular correspondent to E-
+Access Bulletin, says: "We at the Carroll Center worked extensively
+with the museums in Boston in the 1970s and 1980s to create
+accessible opportunities to blinded persons, using gloves to touch
+sculptures etc.
+
+"Ellie Rubin at the Museum of Fine Arts (MFA) took this to heart and
+implemented a good system . . . I do not know if they have continued
+to provide these tactile experiences. You can check with them. We also
+worked with the Museum of Science in Cambridge."
+
+After checking with the MFA at Rachel's suggestion, we received a
+prompt response from Hannah Goodwin, Manager of Accessibility.
+She writes: "The program here at the MFA for people who are blind or
+have low vision is alive and well...and expanding. We access all of
+the collections and temporary exhibits, working with all art, including
+that which cannot be touched.
+
+"We have regular partnerships with a few groups, and have irregular
+visits from other groups, and lots of individuals, including visitors who
+have become members. We have a few volunteers who are blind. We
+try really hard to make sure our members' events and all of our family
+programs are fully inclusive."
+
+[Further responses please to inbox@headstar.com].
+
+
++08: Museum Challenge: As a follow-up query on access to museums,
+Linda Woodbury of San Diego, California writes: "If anyone has
+information on audible descriptive services in museums, will you
+publish that. . . certainly not the type that a sighted person listens to as
+he or she walks around. Instead, [I am looking for] in depth
+descriptions of paintings etc.
+
+"I live in a city with many, many museums, boasting of 'best practices'
+and 'must-see exhibits'. Yet, it's not an option for me as a totally blind
+individual to enjoy a day (even the 'free Tuesdays') due to lack of
+access."
+
+[Responses please to inbox@headstar.com].
+
+
++09: TV Input: Also in last month's issue, Flávia Oliveira Machado, a
+degree student from Brazil, wrote to ask for input with her dissertation
+about TV audio description.
+
+Rachel Ethier Rosenbaum of The Carroll Center for the Blind (see
+'Tactile Culture', above) says: "The American Foundation for the
+Blind in NY conducted research for the US department of Education
+on the effectiveness of audio description done by WGBH in Boston
+with the at least five million Dollars provided to WGBH by the US
+government."
+
+And Joan Greening, Development Officer, Royal National Institute of
+Blind People, suggested that Flávia consults the institute's relevant
+web resources at:
+www.rnib.org.uk/audiodescription .
+
+[Further responses please to inbox@headstar.com].
+
+
++10: BBC Obstacles: James Wright, a reader from the West Midlands,
+UK, writes in to ask: "Have you tried the obstacle course of trying to
+get around the BBC iPlayer? I am amazed at what a maze it is trying to
+find the correct programme and download it. Even the simpler task of
+listening to a radio programme can be hit and miss and very daunting
+to blind people.
+
+"Why is it that these huge corporations seem unable to satisfy the
+needs of blind and disabled users? It appears that the larger the body,
+the more difficult they find it to provide easy accessibility. Surely I am
+not alone, surely there are other blind people out there wrestling with
+this iPlayer problem.
+
+"I look forward to the day when as well as a link to a contents page
+there is a link to a blind users' screen-reader page. Is it too much to
+hope that technology will be able to advance to this aspiration in the
+not too distant future?"
+
+[Responses please to inbox@headstar.com].
+
+
++11: Audiobook Query: Ken Ingham, President of Amazability in
+Waban, Massachusetts, is trying to track down a piece of research on
+audiobooks and reading by audio. He says: "Some time ago I saw a
+study done in England which indicated that a relatively large
+percentage - around 18% of the UK population - strongly preferred to
+read by audio. Reasons beyond visual impairment included other
+disabilities but also an unwillingness to stare at screens, and so on.
+Unfortunately, I did not keep a copy and now would like to review it
+and talk to the authors. Do you know anything about this and, if so, can
+you let me know where to find the study?"
+
+
++12: JAWS Bafflement: Mark Pimm, a reader from the UK, writes in
+with a query about using the popular JAWS screen-reader. "I wonder if
+I could ask a favour: would you be able to suggest a manual (free or
+even one which you pay for) which explains to blind JAWS users how
+to access the World Wide Web. I am looking for something very, very
+simple (I saw some pages on [one] website which left me totally
+baffled). I wonder if you could suggest something which is easy."
+
+[Responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org .
+
+[Sponsored Notice ends]
+
+
+++Section Three: Web Research
+- Adaptability Versus Accessibility.
+
++13: Time To Be Flexible
+by Brian Kelly.
+
+To achieve universal accessibility for their web resources, surely all
+that organisations need do is implement the international Web
+Accessibility Initiative (WAI) guidelines (in particular the WCAG
+guidelines for web content)?
+
+Sadly the evidence, such as the recent Better Connected 2009 survey
+from the local government Society of IT Management (
+http://fastlink.headstar.com/so6 ),
+demonstrates that public sector organisations are failing to implement
+these guidelines. But rather than calling for a renewed effort to
+implement the WAI model, perhaps an alternative approach is needed:
+a move from web accessibility to web adaptability.
+
+This would begin by adopting the UN Convention's view that
+disability results from the interaction between persons with
+impairments and attitudinal and environmental barriers that hinder
+their full and effective participation in society on an equal basis with
+others (see
+http://www.un.org/disabilities/default.asp?id=260 ).
+Disability is therefore a social construct and not an attribute of an
+individual. In particular, resource accessibility is the matching of a
+resource to an individual's needs and preferences - and is not an
+attribute of a resource.
+
+This is a different philosophy from that which underpins the WAI
+approach, which argues that universal accessibility can be provided by
+focusing solely on the individual web resource, the tools used to create
+the resource and the browsers used to access the resource.
+
+The WAI approach does have its merits in a number of areas, such as
+the simple provision of informational resources. But the approach fails
+in other areas, such as the development of e-learning services in which
+the purpose if the service - learning - is not a function of the resource
+itself, but of the way in which it may be used and experienced. The key
+aim in this instance would be to ensure that the learning objectives are
+made accessible and not necessarily the e-learning resources
+themselves.
+
+This approach leads to the notion of 'blended learning', in which both
+real world, web-based and other IT solutions may be used to provide
+an appropriate solution to the end user. And this appropriate solution
+can reflect the end user's personal preferences and learning styles - an
+approach which treats the user with disabilities on an equal basis with
+others, as advocated by the UN Convention's view on disability.
+
+The web adaptability approach builds on our initial work at UKOLN -
+the national digital library research body based at the University of
+Bath - in addressing the accessibility of e-learning resources. Our 2004
+paper, 'Developing a holistic approach for e-learning accessibility' (
+http://fastlink.headstar.com/ukoln1 ),
+described how it can be applied in other contexts based on four case
+studies. These cover support for users with learning disabilities, with
+an approach taken to engage the end users in the design and
+development of the system; adaptability for the deaf, which illustrates
+the inappropriateness of the medical model of disabilities which
+underpins the WAI approach; adaptability in a government context,
+which examines the challenges of applying best practices when faced
+with limited resources and timescales; and adaptability and
+institutional repositories, which recommends an approach based on
+advocacy and education on ways of enhancing the accessibility of
+research publications, together with research into innovative ways of
+enhancing the accessibility of the resources themselves.
+
+It is important to note that the web adaptability approach overall does
+not reject the valuable guidelines which have been developed by WAI.
+Rather, the approach feels they should be regarded as guidelines which
+can be helpful in many but not all circumstances. It is essential that the
+WAI guidelines are used in a pragmatic fashion, and not as a series of
+inflexible rules.
+
+The paper concludes by making a case "for the adoption of a web
+adaptability approach which incorporates previous approaches and,
+perhaps more importantly, embraces the future, including technical
+innovations, differing perceptions of what is meant by accessibility and
+real world deployment challenges."
+
+Isn't this an approach which public sector organisations should be
+adopting? And in the light of cutbacks in funding for the public sector,
+isn't it essential that we recognise such real-world deployment
+challenges rather than continuing to mandate use of guidelines
+independent of their context of use, the technical complexities of
+today's web environment, the rich diversity of uses made of the web
+and the differing individual users' needs and requirements?
+
+NOTE: Brian Kelly is UK Web Focus and Team Leader at UKOLN.
+He is the lead author of the paper 'From web accessibility to web
+adaptability' (
+http://fastlink.headstar.com/ukoln2 ),
+published recently in the journal 'Disability and rehability: assistive
+technology' and summarised on the UK Web Focus blog, where
+readers can participate in open discussion:
+http://fastlink.headstar.com/ukoln3 .
+And for further details of the adaptability approach, related papers can
+be found at:
+http://fastlink.headstar.com/ukoln4 .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=327
+
+[Section Three ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 116 ends.]

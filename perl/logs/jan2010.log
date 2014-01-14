@@ -1,0 +1,43 @@
+__ BUILD [tens2html.pl  v1.14] log Sat Jul  3 23:09:06 2010 __
+
+Input file: ../eab/issues/2010/jan2010.txt
+
+Warning: file already exists: ../eab/issues/2010/jan2010.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jan | index: 1 | year: 2010
+URLs, prev: ../2009/dec2009.html | next: ../2010/feb2010.html
+Found ++, heading 2: Issue 121 Contents.
+>> FOUND 2:  | 01:  | Severely Disabled Pupils Face Wait For Home Access
+>> FOUND 2:  | 02:  | Global Copyright Treaty On Access Formats Edges Closer
+>> FOUND 2:  | 03:  | Amazon Bows To Pressure On Kindle Accessibility
+>> FOUND 2: News in Brief:  | 04:  | Mainstream Issue - Disability and
+OK, News in brief
+Found: News in Brief:  | 04:  | Mainstream Issue - Disability and
+>> FOUND 2: employment study;  | 05:  | Mixed Results - Web accessibility in
+Found: employment study;  | 05:  | Mixed Results - Web accessibility in
+>> FOUND 2: Europe;  | 06:  | Shared Editorial -new RNIB web features.
+Found: Shared Editorial -new RNIB web features | . | 
+>> FOUND 2:  | 07:  | The Biggest IT Help Scheme In The World: The
+Warning line 37: expected [Contents ends].
+$toc_count=8
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Severely Disabled Pupils Face Wait For Home Access.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Global Copyright Treaty On Access Formats Edges Closer.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Amazon Bows To Pressure On Kindle Accessibility.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  Almost eight million UK adults have
+> ITEM 1:  05:  | : |  Levels of compliance with web accessibility
+> ITEM 1:  06:  | : |  Customised content management software
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Two: Focus - Home Access.
+> ITEM 2:  07:  | The Biggest IT Help Scheme In The World.
+Warning: not found a 'contents' match: The Biggest It Help Scheme In The World.By Tristan Parker.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 437.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 468.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 475.

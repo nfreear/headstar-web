@@ -1,0 +1,517 @@
++++E-ACCESS BULLETIN.
+- ISSUE 41, MAY 2003.
+
+Technology news for people with vision impairment
+(http://www.e-accessibility.com).
+
+Sponsored by RNIB (http://www.rnib.org.uk)
+and National Library for the Blind (http://www.nlbuk.org).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard. For example, all items are numbered. For details see:
+http://www.headstar.com/ten .
+
+
+++ISSUE 41 CONTENTS.
+
+01: Denial of access
+- flaws found in e-voting trials.
+
+02: School test for remote control support
+- system obviates need for site visits.
+
+03: 'A-sites' gateway goes live
+- searchable database of accessible web sites.
+
+04: Survey finds patchy access awareness in government
+- mixed messages from public services.
+
+News in brief: 05: Exhibiting excellence - museum award; 06:
+Techshare 2003 - call for papers; 07: Cultural statement - European
+initiative.
+
+Section two: 'The Inbox' - Readers' forum.
+08: DISCworld - Suffolk smart-cards; 09: Driving test - European
+skills licence; 10: Debate catalyst - access theory.
+
+Section three: Interview - Michael Burton.
+11: Window onto the world: Jemima Kiss talks to the disability rights
+commissioner on a mission to ensure the foundations now being laid in
+the world of digital services do not disadvantage people with
+disabilities.
+
+Section four: Round-up - international.
+12: Access all areas: The past 12 months have seen many
+developments worldwide in the field of ensuring technology is
+accessible for all. Mel Poluck reports.
+
+[Contents ends.]
+
+
++SPONSORED NOTICE: NADO CONFERENCE.
+
+The National Association of Disability Officers (NADO) will be
+holding its annual conference at the University of Lincoln on 1-2 July
+2003.
+
+The conference will focus on the roles, responsibilities, competencies,
+and terms and conditions of employment of people working with
+students with disabilities in post-16 education. It will include
+presentations and workshops, a suppliers showcase and the conference
+dinner, providing an opportunity for networking.
+
+Delegates are encouraged to advise us of their needs, which we will
+endeavour to meet. A provisional timetable and booking forms are
+available from janepawluk@btopenworld.com or from our website:
+http://www.nado.ac.uk .
+
+[Sponsored notice ends].
+
+
+++SECTION ONE: NEWS.
+
++01: DENIAL OF ACCESS.
+
+Many web services provided by councils for e-voting trials in the May
+2003 local elections were difficult to find and confusing to navigate,
+while pages providing background information for voters were often
+worse, according to research by the RNIB (http://www.rnib.org.uk).
+The result was the services were inaccessible to people with vision
+impairment, who need simple web site structures to use text-to-speech
+or test-to-Braille interfaces.
+
+This year's e-voting pilots, the largest so far, provided technology
+for
+around 1.5 million voters to cast their votes via the internet,
+touch-tone
+telephones, text messages, digital TV and kiosks. The government has
+set itself a target of offering e-voting nationally by the general
+election
+after next.
+
+In 2002, RNIB called on the government to include accessibility
+testing in the pilot assessment process. "The Office of the Deputy
+Prime Minister said it wouldn't be necessary because the issue was
+being dealt with. Our results suggest that is not the case," said the
+institute. "In future we'll be contacting all councils reminding them
+of
+their duty to comply with human rights and anti-discrimination law.
+We want to see a scheme where all authorities running pilots gather
+together the information needs of voters and share best practices."
+
+The RNIB report will feed into an Electoral Commission report
+(http://www.electoralcommission.gov.uk) on e-voting to be published
+later this year. The report will also include findings from the
+Disability
+Rights Commission (http://www.drc-gb.org), and the physical
+disability charity Scope (http://www.pollsapart.org.uk/survey.asp).
+
+NOTE: This article originally appeared in this month's issue of
+VoxPolitics Bulletin, our sister email newsletter on e-democracy. To
+subscribe email voxpol-subscribe@voxpolitics.com .
+
+
++02: SCHOOL TEST FOR REMOTE CONTROL SUPPORT.
+
+A trial service allowing technical support staff to have remote online
+access to computers in schools could drastically cut the time that
+people with disabilities spend sorting out technology problems,
+according to the charity Abilitynet (http://www.abilitynet.org.uk), a
+partner in the project.
+
+The service, which is being offered to school pupils with disabilities
+under the government-funded Communication Aids Project (CAP -
+http://cap.becta.org.uk), enables PC users to contact support staff
+through a web site. If the problem can't be resolved by email or over
+the phone, users have the option of granting support staff full remote
+access to their machine, allowing them to view and alter files and
+systems without a site visit.
+
+"This is still at a very early stage, but we expect to provide this
+service
+to 200 users or so over the next few months," said Abilitynet
+operations director David Bains. According to Bains, the service could
+be valuable to the wider community of people with disabilities who
+rely on PCs. "There is a big gap between the help you can get on the
+phone and a site visit - this could help fill that gap", he said.
+
+The service works over a standard 56K modem and requires no special
+equipment to be installed on the PC. The user can direct staff not to
+access files or applications containing confidential material and
+terminate the connection at any time. If the problem cannot be
+resolved, the PC is returned to its original set-up. "This is very
+useful
+for visually impaired people using a computer for the first time, for
+example if they're having problems with their printer or audio set-up,"
+Bains says.
+
+
++03: 'A-SITES' GATEWAY GOES LIVE.
+
+'A-Sites' (http://www.a-sites.org), a long-awaited web service
+providing a searchable database of accessible web sites, has been
+launched by the National Library for the Blind (NLB - http://www.nlb-
+online.org).
+
+The service currently lists 750 sites, according to the NLB, which
+began building it in summer last year (see E-Access Bulletin issue 31,
+July 2002). An original planned launch date of October 2002 was
+postponed to make way for a redesign of the library's main web site.
+
+The delayed launch forms part of the NLB's contribution to a central
+government campaign to encourage individuals and social groups who
+are not yet making use of the internet to come online, 'Get Started'
+(http://www.ukonline.gov.uk/getstarted). The library's other role has
+been arranging internet access taster sessions in libraries around the
+country (see http://fastlink.headstar.com/nlbuk2).
+
+
++04:  SURVEY FINDS PATCHY ACCESS AWARENESS IN
+GOVERNMENT.
+
+A new survey has revealed that only around half of those working to
+create online government services (55 per cent) say they are "very
+aware" of issues surrounding ways of making services accessible to
+people with disabilities.
+
+A further 36 per cent of survey respondents said they had heard about
+the topic of accessibility, although they lacked strong awareness of
+the
+issues; and 9 per cent "have little or no awareness of the issues."
+
+The survey was published last week in 'E-Government Outlook 2003-
+2004,' the first comprehensive report on the state of e-government
+services in the UK from E-Access Bulletin publisher Headstar. An
+accessible version of the report is to be made available shortly - for
+further details please email:
+access-outlook@headstar.com .
+
+
+++NEWS IN BRIEF.
+
++05: EXHIBITING EXCELLENCE: The National Maritime Museum
+(http://www.nmm.ac.uk) this week became the first ever winner of the
+UK Museums Computer Group's Jodi Mattes award for web
+accessibility:
+http://fastlink.headstar.com/mcg2 .
+
++06: TECHSHARE 2003: The RNIB's annual 'Techshare' access
+technology conference is seeking submissions from potential speakers,
+who will be rewarded with a discount on their attendance fee. The
+closing date for submissions is 31 July 2003:
+http://www.techshare.org.uk .
+
++07: CULTURAL STATEMENT: A pressure group which aims to
+establish the right of access to the cultural life of Europe for people
+with disabilities, 'EUCREA International', has launched a campaign to
+drum up support for its aims:
+http://fastlink.headstar.com/eucrea .
+
+[Section one ends.]
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com .
+
++08: DISCWORLD: Geoff Doggett, project officer at Mid Suffolk
+District Council, writes in to canvass reader views on 'Suffolk DISC',
+a planned initiative to deliver concessionary smart cards for people on
+benefits and with registered disabilities in the county.
+
+Typical providers providing discounted services would be libraries (for
+charged-for services such as CD or cassette loans); leisure centres;
+bus
+operators; and retailers. The card will also act as a single source
+proof
+of identity when claiming housing or council tax benefits, preventing
+the need for repeated proof of eligibility to multiple departments and
+organisations.
+
+"I'd like to know, and understand, the issues of use of smart cards by
+people with a vision impairment, especially the physical
+characteristics
+of the card by way of the surface graphics and the possibility of
+adding
+a simple Braille ID label," Doggett says. "Also, are there issues
+surrounding use of photos on such cards? I would be very grateful for
+any advice." [Responses please to inbox@headstar.com].
+
+
+ +09: DRIVING TEST: Thomas Connole from the Republic of Ireland
+writes in with a response to our news story last month about the
+accessibility or otherwise of the European Computer Driving Licence
+computer literacy test.
+
+"I am doing the European Computer Driving Licence training course
+and the only problem I found was that PowerPoint was a little
+bit inaccessible to me as I had to have assistance to use the mouse",
+he
+said. [Further experiences please to inbox@headstar.com].
+
+
++10: DEBATE CATALYST: Jorge Fernandes of the Portuguese vision
+impairment research and support body GESTA, who is also the
+translator for our Portuguese language version, writes in to see if he
+can generate a debate on some interesting theories published recently
+by the web usability expert Jakob Nielsen.
+
+In the April issue of his 'AlertBox' newsletter, Jorge says, Nielsen
+wrote an article entitled 'Alternative interfaces for accessibility'
+(http://www.useit.com/alertbox/20030407.html). The piece advanced
+two main ideas: first, that "The key difference between user interfaces
+for sighted users and blind users is not that between graphics and
+text;
+it's the difference between 2-D and 1-D [two-dimensional and one-
+dimensional information structures]," and second, that "The biggest
+potential gains [for blind and partially sighted readers] reside in
+creating a special design optimised for auditory presentation."
+
+Jorge is interested to know what E-Access Bulletin readers agree with
+this assessment,
+And if so, what role remains for Braille? [Responses please to
+inbox@headstar.com].
+
+[Section two ends].
+
+
+++SECTION THREE: INTERVIEW
+- MICHAEL BURTON.
+
++11: WINDOW ONTO THE WORLD
+by Jemima Kiss  jemimakiss@hotmail.com .
+
+The UK's Disability Rights Commission (DRC -
+http://www.drc.org.uk), in partnership with the Centre for Human
+Computer Interaction Design at City University London (http://www-
+hcid.soi.city.ac.uk), announced last month it is to survey a thousand
+websites to identify barriers to accessibility and develop solutions
+(see
+E-Access Bulletin, April 2003).
+
+The DRC was established by the government in 2000 to promote
+equality of opportunity for disabled people through research and a
+network of support services. Although the commission has been
+operating for three years, however, the new investigation will be the
+first web accessibility work it has carried out.
+
+Michael Burton, the commissioner leading the project, defends its
+timing by saying it is all a question of priorities. "Important though
+I
+think this issue is, there are many more urgent issues facing disabled
+people and, quite properly, most of our energies are devoted to these."
+
+However, Burton says the DRC does recognise the internet will
+become an increasingly crucial communications tool for people with
+disabilities. "The internet is tolerant of impairment because content
+can
+be translated into a form to suit the user," he says. "The web is a
+window onto the world, with the potential to liberate disabled people
+and enrich their lives in a variety of ways."
+
+The UK disability and computing charity AbilityNet
+(http://www.abilitynet.org.uk) estimates that 90 per cent of websites
+currently pose access problems for disabled users, despite the
+introduction in 1995 of the Disability Discrimination Act (DDA) which
+makes it unlawful for employers, businesses and organisations to
+discriminate against disabled people.
+
+Since 1999, the act has required that organisations must "consider
+making reasonable adjustments" to the delivery of their services to
+allow access by people with disabilities, although it does not
+prescribe
+specific standards of web accessibility. The DRC could play a part in
+any eventual testing of the DDA's applicability to web accessibility,
+by
+supporting complainants in its role as a backer of key legal test cases
+relating to disability.
+
+Overall however, the purpose of the project is simply to establish the
+current state of the art and identify what general measures need to be
+taken to improve accessibility. "Previous smaller scale studies suggest
+that nearly all sites will have potential for improvement and that many
+will have serious shortcomings," Burton says.
+
+"The DRC is in the business of instigating systematic change in the
+environment, rather than setting specific standards - so the impact of
+these findings will not be fast," he says. But I would like to think
+that if
+we carried out the same report in three years' time, there would be a
+significant improvement," he said.
+
+One problem with this idea is that the commission itself may not be
+around in three years' time. In August 2002 the UK government began
+a consultation process to establish whether a Single Equality
+Commission (SEC) might better implement tighter new EU rules on
+combating discrimination of all kinds. However, despite media
+speculation that such a move might mean the end of the DRC, Burton
+is confident that the future of the organisation is not in doubt.
+
+"We feel strongly that disability issues have very specific concerns
+and
+these need to be represented by a specialist organisation. Whatever the
+new umbrella structure of an SEC, we have made it clear that we must
+continue to do this."
+
+Burton was selected to oversee the web accessibility project because of
+his experience as a former chief executive of LIMNET, an interactive
+digital network allowing brokers and underwriters to process insurance
+contracts. He says that for most businesses, the problem of tackling
+web accessibility is likely to be administrative rather than technical.
+"I
+don't want to prejudge the findings of our research, but I suspect that
+we'll need to ensure that what may be seen as a peripheral issue is
+given due attention at every stage in the specification, development
+and
+maintenance of websites."
+
+For the tests themselves, some key web sites will be pre-selected,
+although most will be chosen randomly from both the private and
+public sectors. The survey will use standard accessibility testing
+software alongside physical testing by people with a variety of
+impairments, to establish the correlation between technical compliance
+and practical usability. The aim is to systematically evaluate sites
+from
+across England, Scotland and Wales that will be representative of those
+typically used by disabled people - including both the private and
+public sectors.
+
+The work is expected to be completed at the end of 2003, and Burton
+believes the results will be hugely influential in helping to empower
+disabled people as virtual citizens.
+
+"It will be years before the full potential of the web is realised but
+I am
+delighted to have the opportunity to ensure that the foundations being
+laid now do not disadvantage disabled people, as those laid in the
+physical world too often do."
+
+[Section three ends].
+
+
+++SECTION FOUR: ROUND-UP
+- INTERNATIONAL.
+
++12: ACCESS ALL AREAS.
+by Mel Poluck  mel@headstar.com
+
+Over the past 12 months there have been many significant
+developments in Europe and across the world to boost access to digital
+technologies for all.
+
+The European Commission has dubbed 2003 the European Year of
+People with Disabilities, with the aim of encouraging action, new
+initiatives and alliances within member states to prevent
+discrimination. In March, measures forming part of a wider European
+anti-discrimination initiative were proposed by the lobby group the
+European Disability Forum (EDF - http://www.edf-feph.org) together
+with the European Parliament Disability Intergroup
+(http://fastlink.headstar.com/apdg1), a grouping of MEPs working on
+disability policy.
+
+The two bodies unveiled a set of proposals that aimed to ban
+discrimination against disabled users of media, telecommunications
+and online services. The draft required all public bodies to deliver
+internet services in accessible formats, asking for all
+telecommunications services to be made accessible within five years. If
+all proceeds according to plan, the measures could be passed into
+European law by the end of 2003.
+
+In Ireland, new accessibility guidelines for digital technologies were
+published in July 2002 by the Irish National Disability Authority
+(NDA), the independent statutory body that oversees the country's
+disability policy. The guidelines, which were based on consultation
+with both service users and providers, used a broad-brush approach to
+cover electronic services such as web sites; public access terminals;
+telecoms terminals and application software aimed at procurement
+managers and technology developers (http://www.accessit.nda.ie). The
+authority said the guidelines, and associated innovative web-based
+tools to help bodies comply, represented "a new practical dimension to
+Irish national and European laws on accessibility".
+
+The US has been a legislative pacesetter with the enactment of section
+508 of the Rehabilitation Act of 1973 (amended in 1998)
+(http://www.section508.gov) which requires that all new technology
+systems designed or commissioned by federal agencies must be
+accessible to people with disabilities. The law also covers federally
+funded programs and services, but not web pages of private industry.
+An independent Access Board created by the law regulates
+accessibility and develops technologies providing technical assistance
+and training on the guidelines and standards of section 508.
+
+Early in 2003, however, US publication Government Computer News
+reported that US government initiatives were making slow progress
+implementing section 508 regulations. Many departments are reported
+to only be adapting their services a year beyond the deadline for
+compliance (see http://fastlink.headstar.com/gcn).
+
+In lower-income countries, heightened problems exist for people with
+disabilities due to a general lack of funds for technology and
+training.
+Special access technologies, which often require extra investment, are
+rarely available, so people with disabilities find themselves doubly
+disadvantaged.
+
+Moves to tackle this problem by raising awareness in the development
+community were launched in March 2003 at a meeting held in the
+Philippines, attended by representatives of ten Asian countries, the US
+and Canada (see http://www.worldenable.net/manila2003).
+
+Delegates issued an urgent call to the United Nations to build basic
+technology accessibility rules into all its development programmes.
+The countries also called for the undertaking of a global study on
+norms and standards for technology accessibility in the developing
+world.
+
+The event, 'empowering persons with disabilities through ICT',
+suggested a pilot 'web site accessibility assessment tool' and training
+materials should be developed which are specifically tailored to the
+needs of people living in poorer nations. It remains to be seen whether
+the UN, in these busy times for world diplomacy, will take action in
+this vital area later in the year.
+
+NOTE: This article is extracted from 'E-Government Outlook 2003-
+2004,' the first comprehensive report on the state of e-government
+services in the UK from E-Access Bulletin publisher Headstar. An
+accessible version of the report is to be made available shortly - for
+further details please email:
+access-outlook@headstar.com and for information about paper copies
+email outlook@headstar.com .
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.e-accessibility.com is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Phil Cain  phil@headstar.com
+News editor - Derek Parkinson  derek@headstar.com
+Reporter - Mel Poluck  mel@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk .
+
+ISSN 1476-6337
+
+[Issue ends.]
+

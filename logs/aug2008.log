@@ -1,0 +1,51 @@
+__ BUILD [tens2html.pl  v1.14] log Thu Jan 15 22:27:06 2009 __
+
+Input file: ../eab/issues/2008/aug2008.txt
+
+Warning: file already exists: ../eab/issues/2008/aug2008.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: aug | index: 8 | year: 2008
+URLs, prev: ../2008/jul2008.html | next: ../2008/sep2008.html
+Found ++, heading 2: Issue 104 Contents.
+>> FOUND 2:  | 01:  | Beijing Games Website Inaccessible On Multiple Counts
+>> FOUND 2:  | 02:  | Mobile Browsing Barriers Linked To Accessibility
+>> FOUND 2:  | 03:  | Publishers Back Accessible Learning Materials Database
+>> FOUND 2: News in Brief:  | 04:  | Help Anywhere - Online screenreader; 05: Sports
+OK, News in brief
+Found: Help Anywhere - Online screenreader | ; |  05: Sports
+>> FOUND 2: Highlights - Paralympic YouTube channel;  | 06:  | One-Stop Trial -
+Found: Highlights - Paralympic YouTube channel;  | 06:  | One-Stop Trial -
+>> FOUND 2:  | 07:  | Moodle Point - e-learning appeal; 08: Apple Support - Mac
+>> FOUND 2: community tips;  | 09:  | Further CAPTCHA - ongoing blog debate.
+Found: Further CAPTCHA - ongoing blog debate | . | 
+>> FOUND 2:  | 10:  | Revisiting The Errors Of The Past: After the Sydney Olympics of
+Warning line 44: expected [Contents ends].
+$toc_count=10
+Found ++, heading 2: Special Notice: Designing for all: an inclusive approach to web,
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Beijing Games Website Inaccessible On Multiple Counts.
+Warning: not found a 'contents' match: Beijing Games Website Inaccessible On Multiple Counts.
+> ITEM 2:  02:  | Mobile Browsing Barriers Linked To Accessibility.
+Warning: not found a 'contents' match: Mobile Browsing Barriers Linked To Accessibility.
+> ITEM 2:  03:  | Publishers Back Accessible Learning Materials Database.
+Warning: not found a 'contents' match: Publishers Back Accessible Learning Materials Database.
+Found ++, heading 2:  News in Brief:
+> ITEM 1:  04:  | : |  A free web-based screenreader that can be used
+Warning, replacing non-ASCII character 233 (line 160, 3): caf&#233;; and people who cannot afford an expensive portable screen
+
+> ITEM 1:  05:  | : |  A YouTube channel has been created by the
+> ITEM 1:  06:  | : |  A trial one-stop-shop for disability related
+Found ++, heading 2: Sponsored Notice: Fortune Cookie
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 227.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 236.
+> ITEM 1:  07:  | : |  Cheryl Edmonds, Executive Director of
+> ITEM 1:  08:  | : |  Several readers wrote in to offer support to our
+> ITEM 1:  09:  | : |  Discussion is still ongoing on our E-Access
+Found ++, heading 2: Section Three: Web Accessibility
+> ITEM 2:  10:  | Revisiting The Errors Of The Past
+Warning: not found a 'contents' match: Revisiting The Errors Of The PastBy Majeed Saleh.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 481.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 488.

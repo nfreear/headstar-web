@@ -1,0 +1,283 @@
+****************************************
+E-ACCESS BULLETIN
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+
+http://www.e-accessibility.com
+
+Sponsored by the Royal National Institute for the Blind
+http://www.rnib.org.uk
+the National Library for the Blind
+http://ww.nlbuk.org
+and the Guide Dogs for the Blind Association
+http://ww.gdba.org.uk
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing eab-subs@headstar.com
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+**************************************
+
+ISSUE 7, JULY 2000
+
+IN THIS ISSUE:
+Section One:
+News: IBM bids for voice recognition standard; Modifying the Windows environment; AOL cuts deal with US Federation of the Blind; Two awards for Jooly's Joint; Internet-ready Braille note-taker launched in UK; Older people have confidence to learn; Know UK is a hit.
+
+Section Two: E-democracy
+- The digital divide
+
+Section Three: Technology
+- Microsoft backs DAISY talking book standard
+
+Section Four: Employment
+- The Workbridge project
+
+
+************************************
+SECTION ONE: NEWS
+************************************
+
+IBM BIDS FOR VOICE RECOGNITION STANDARD
+
+IBM has stepped up its operations in a highly competitive battle to create the industry standard for voice recognition technologies, which are set to experience explosive growth over the next few years.
+
+The company has launched Websphere Voice Server, which uses its flagship voice recognition software ViaVoice to 'speech-enable' e-commerce websites. It says phones including mobile phones will ultimately outstrip the PC as the primary user interface for accessing information and conducting transactions.
+
+Using the technology, telephone call centres will be able to respond to voice commands from customers, and callers will be able to listen to the same information that is designed for viewing as text on the web.
+
+IBM is supporting the use of open standards to drive the widespread adoption of voice technology primarily through Voice Technology Initiative for Mobile Enterprise Solutions (VoiceTimes). VoiceTIMES is promoting the use of VoiceXML as the industry standard mark-up language for voice applications, in the same way as the web mark-up language HTML is used for visual applications. 
+
+The VoiceXML standard was founded by IBM with AT&T, Lucent and Motorola. Other members of the VoiceTIMES initiative include Intel, Dictaphone and Philips.
+
+However, not all observers are convinced of the current potential for voice recognition to help blind or visually impaired computer users. A spokesman for the charity AbilityNet, which helps people with disabilities to use computers, said that although anything that improved access to websites was welcome, it is almost never appropriate for visually impaired people to give up keyboard access.
+
+He also warned there is likely to be intense competition to create standards for voice recognition, so users should be cautious before committing to any one system.
+
+AbilityNet is at:
+http://www.abilitynet.co.uk/
+
+
+MODIFYING THE WINDOWS ENVIRONMENT
+
+Changing font sizes, mouse pointer settings, screen layouts and file directory listing formats are just some of the tips in 'Modifying the Windows Environment for Visually Impaired Computer Users', a new book by John Ravenscroft of Edinburgh University and Kevin Carey, Director of the charity HumanITy and editorial consultant to E-Access Bulletin.
+
+The book is published by Moray House, price £15.00. Order from John Ravenscroft, Moray House Institute of Education, University of Edinburgh, Holyrood Road, Edinburgh EH8 8AQ or email: johnr@holyrood.ed.ac.uk
+
+
+AOL CUTS DEAL WITH FEDERATION OF THE BLIND
+
+The leading online service provider AOL has managed to stave off legal action by the US National Federation for the Blind, which had filed a lawsuit late last year charging that AOL's software was inaccessible and hence violated the Americans with Disabilities Act.
+
+After a pledge from AOL to make the next version of its software, AOL 6.0, largely accessible and in particular compatible with screen reader technologies, NFB agreed to withdraw its suit. AOL has also posted an accessibility policy onto its web site, and the two organisations are to work closely together to ensure accessibility in future.
+
+It remains to be seen whether AOL's commitment is backed up by solid action in the long term. Many observers feel that its rather self-congratulatory accessibility policy - full of vague pledges about setting up committees and raising employee awareness, but low on concrete accessibility targets - is worth little in itself.
+
+The NFB has acknowledged as much by retaining the right to renew its legal claims after a period of one year, if real progress has not been made. But for now at least, AOL has come back into the accessibility fold.
+
+The AOL accessibility policy is at:
+http://corp.aol.com/access_policy.html
+
+And the NFB web site is at:
+http://www.nfb.org/
+See the What's New section of this site for more information and the text of the AOL agreement.
+
+
+TWO AWARDS FOR JOOLY'S JOINT
+
+One of the UK's leading campaigners for the accessibility of web sites for blind and visually impaired people, Julie Howell, has won two top awards for her own web site developed as a support community for people with Multiple Sclerosis.
+
+Howell, who is campaigns officer at the RNIB, won both the Mirror Reader's Award at this year's Yell UK Web Awards and the Online Community Award at the New Statesman New Media Awards for her site Jooly's Joint, at:
+http://www.mswebpals.org/
+
+Also shortlisted for a Yell award was the 'A-Z of Deafblindness', an online directory of deafblindness resources developed by James Gallagher:
+http://www.deafblind.com/
+
+For more on the Yell awards visit:
+http://www.yell.com/awards
+
+And the New Statesman awards site is at:
+http://www.newstatesman.co.uk/nma2000about.htm
+
+
+INTERNET-READY BRAILLE NOTE-TAKER LAUNCHED IN UK
+
+Pulsedata, manufacturer of the first Internet-ready Braille note-taker BrailleNote, are reporting high levels of interest in the product following its UK launch in April this year by the Prime Minister of New Zealand Helen Clark.
+
+As well as taking notes BrailleNote can read documents in grade 1 or 2 Braille, send and receive email, and send and receive email attachments in Microsoft Word format, among other features. It costs £2,795 plus VAT for the 18-character refreshable display version and £3,795 for the 32-character version. For more information see:
+http://www.braillenote.com/
+
+
+OLDER PEOPLE HAVE CONFIDENCE TO LEARN
+
+Only 8% of people over 50 don't think they would be able to learn how to use a computer, according to a survey by market researchers BMRB for the charity Age Concern.
+
+Some 38% of people aged 50-64 already use a computer, although the figure falls to just 11% for people aged over 65.
+
+Lack of interest is the main reason for not using a computer, cited by 60% of non-users, followed by failure to perceive any use in it (21%) and cost concerns (17%). Older people who do use computers spend an average of 9 hours a week on it.
+
+The Age Concern web site is at:
+http://www.ageconcern.org.uk/
+
+
+KNOW UK IS A HIT
+
+Know UK, the free online reference service for blind and visually impaired people launched by the National Library for the Blind in the spring, has proved a great success, the NLB said this week.
+
+The service, published by Chadwyck-Healey, covers a wide range of information sources including Who's Who, Which? Guides, travel guides like the Good Bed and Breakfast Guide and a National Events Guide, the Parliamentary report Hansard, the Municipal Year Book, and other publications. All the publications can be searched through a single interface.
+
+To gain free access blind and visually impaired people need to first register as members of the National Library for the Blind, which is also free. To find out more see:
+http://www.knowuk.co.uk/
+
+And to join the NLB see:
+http://www.nlbuk.org/
+
+[Section one ends]
+
+
+SECTION TWO: E-DEMOCRACY
+HANSARD SOCIETY REPORT
+
+In recent weeks, the issue of a global 'digital divide' has been central to the deliberations of the world's most powerful intergovernmental bodies. The United Nations and the OECD group of nations have both been pressing the issue, as has the G8 group of developed nations.
+
+Last week's top-level communiqué from the G8 summit in Okinawa is on the web at:
+http://www.g8kyushu-okinawa.go.jp/e/documents/commu.html
+The Okinawa communiqué, in paragraphs 10 and 11, notes: "IT has immense potential for enabling economies to expand further, countries to enhance public welfare and promote stronger social cohesion and thus democracy to flourish. Access to the digital opportunities must, therefore, be open to all. 
+
+"We clearly recognise that the process of globalisation and the fast pace at which IT is advancing have engendered various concerns. We need to address such concerns. Acting in concert, we will maximise the benefits of IT and ensure that they are spread to those at present with limited access. In this regard, we welcome contributions from the private sector, such as those of the Global Digital Divide Initiative of the World Economic Forum and Global Business Dialogue on Electronic Commerce (GBDe).
+
+"In support of these goals . . .we will set up a Digital Opportunities Task Force (dot force), which will be asked to report to our next meeting its findings and recommendations on global action to bridge the international information and knowledge divide".
+
+So the digital divide, and the related concerns of building an equitable 'e-democracy' internationally and within nations, is flavour of the month. After the hype surrounding e-commerce, it seems governments are finally realising they will have to ensure that the new global information society being created is not run on commercial lines alone.
+
+Within the governments of individual countries, the same realisation is also making itself felt. In the UK, this has meant the Prime Minister issuing targets to bring all citizens online and deliver all government services online by 2005; and most other major government departments have their own initiatives too, like the Department for the Environment, Transport and the Regions' £10 million budget for Wired Communities, to bring the benefits of technology to deprived areas of the UK.
+
+Although the fact is all too rarely mentioned, the digital divide is by no means simply economic: as well as ensuring that people with all levels of income have access to online services, governments must take steps to ensure that all people with disabilities have the same access as well.
+
+The point was well made at a meeting last week of e-democracy experts hosted by the Hansard Society for Parliamentary government. The focus of the meeting was on the use of technology to enhance the democratic process, and it is in this area above all others that equal access can be viewed as nothing less than a fundamental right.
+
+Professor Stephen Coleman, director of the society's digital media project, told the meeting: "You can't have a democracy without equal access - without it, the very entity of democracy is flawed and damaged".
+
+There are three main areas that make up what might be termed the modern 'e-agenda', Coleman said: e-commerce; e-government, the provision of public services online; and e-democracy, the enhancement of the democratic process and public participation.
+
+E-democracy is the Cinderella sister of these three, he said. "It is most often electronic voting that people talk about when they mention e-democracy, but actually most people would agree that we've got the voting system about right already in this country. But e-democracy is not just about voting: it is about deliberation, discussion, and the inclusion of all parts of society including minorities".
+
+The issue of inclusion can itself be broken down into three main areas, he said. The first is access: who is online, the spread of technologies like digital television and so on. The second is accessibility - and this would include issues of accessibility for the blind and visually impaired, as well as other disabled people, people with languages other than English, and the ease of navigation of web sites for all users.
+
+The third is that people must be offered new channels for democratic participation using new technologies. "There is no point having the technology unless there are places on the Internet of democratic significance, for example new channels direct to Parliament".
+
+On the subject of the inclusion of all parts of society, delegates at the seminar agreed that it was not just a numbers game: what mattered most was quality of access and the absence of discrimination, not the pure statistics of whether a particular group of people had physical access to the Internet.
+
+Kevin Carey, Director of HumanITy, said there were four main categories of people with disabilities who faced exclusion from new technologies, and hence from e-democracy. They were people with visual problems who encountered problems with poor web accessibility; people with hearing problems; people with physical disabilities; and people with functional limitations like learning difficulties or cognitive problems.
+
+"The fourth category raises the largest problems because we really don't know what sorts of online service people with cognitive difficulties need", he said. The problem lies not with the technology but with the way the way information is made in the first instance. We could provide information in simpler language versions for people with different abilities".
+
+The Hansard Society seminar marked the launch of its new report on E-Democracy, 'New Media and Social Inclusion'. For more information visit its web site:
+http://www.hansardsociety.org.uk/
+
+[Section two ends]
+
+
+SECTION THREE: TECHNOLOGY
+
+MICROSOFT BACKS DAISY TALKING BOOK STANDARD
+
+Microsoft has announced that it will support audio playback for eBooks - digitised books created using its Microsoft Reader software - in a move predicted to encourage other companies to make mainstream products more accessible to the visually impaired.
+
+The company has struck a deal with Labyrinten, a subsidiary company of the UK adaptive computer specialists Dolphin Computer Access, and IsSound, which develops products to 'audio-enable' applications and web devices.
+
+The new format is compatible with the DAISY International Standard for the production, exchange and use of digital talking books. The DAISY Consortium - a grouping of nearly 40 libraries and publishers worldwide - has welcomed the move. DAISY's sole aim is to persuade companies and organisations to adopt international standards to help the market in digital talking book (DTB) technology.
+
+"Microsoft is setting a new standard for inclusiveness in the eBook industry," said DAISY project manager George Kerscher. "Given this level of investment in the development of accessibility guidelines and compatible software, it's conceivable that other technology and commercial publishing industries may soon follow the Microsoft lead by offering mainstream products that are immediately accessible to consumers who are print-disabled."
+
+Microsoft's commitment to the DAISY project does not stop with its decision to support audio playback for eBooks. In a linked move the software giant also pledged financial and technical support for DAISY's on-going campaign to establish global accessibility standards for digital talking book technology. Microsoft said it will donate to DAISY 25% of its revenues from the sale of AudioPublisher for the Microsoft Reader - the tool which enables publishers to include information within eBooks that enables synchronised audio narration.
+
+AudioPublisher is the product of a seven year partnership between the Swedish software company Labyrinten and the US based isSound who have collaborated to overcome problems in combining speech, text and images to produce multimedia content. Labyrinten says that conventional books and e-books can facilitate text and images without speech and, similarly, analogue tapes can accommodate speech but not text or images. The new standards can combine the two formats.
+
+Labyrinten has specialised in digital audio and multimedia solutions for more than 16 years. IsSound - known to many under its former name of The Productivity Works, Inc, which it changed in June - is a developer of software products to sound-enable applications and web devices, allowing an audio interface to information to be built into a range of devices including servers, desktop PCs and mobile phones. The company's range of products includes the widely-used pwWebSpeak, an audio web browser that reads web pages aloud, and pwSpeech, a development kit for building self-voicing applications.
+
+As well as the DAISY standard, IsSound and its new partners are involved in the work of various other groups which are working to create open standards for accessible electronic books. These include the National Information Standards Organization (NISO) Digital Talking Book Standard and the Open E-Book Forum.
+
+The NISO standard was initiated by the US Library of Congress' National Library Service in 1997. For web links to all the organisations mentioned in this article, see the list below.
+
+Microsoft Reader
+http://www.microsoft.com/reader/
+
+DAISY
+http://www.daisy.org/
+
+Labyrinten
+http://www.audiopublisher.com
+
+IsSound:
+http://www.issound.com
+
+Open E-Book Forum
+http://www.openebook.org/
+
+NISO Digital Talking Book Standard
+http://www.niso.org/commitaq.html
+
+[Section three ends]
+
+
+SECTION FOUR: EMPLOYMENT
+- THE WORKBRIDGE PROJECT
+
+RELAUNCHED AGENCY HELPS EMPLOYERS AND EMPLOYEES
+
+Around 75% of visually impaired people are unemployed and, according to the Royal London Society for the Blind, at least part of the blame for this dismaying statistic can be levelled at employers who are unwilling to adapt working environments.
+
+To help solve the problem the society set up its own job agency called Workbridge, which helps both job applicants and employers solve the problems that act as barriers to employment for the visually impaired.
+
+Recently relaunched by the society with support from Employment Minister Margaret Hodge, Workbridge has placed dozens of blind and partially sighted people in a range of jobs including in the IT industry. "We have placed people who are highly trained in IT who have come to us with their skills because they were still looking for appropriate opportunities," says RLSB's Richard Greenwood, who has been managing the scheme since it started four years ago.
+
+One of the eight people Workbridge has placed since April this year is information and communications specialist Kelvin Duncan. Trained in South Africa and with no formal work experience, Duncan was perhaps at more of a disadvantage than other IT professionals as his two qualifications were unrecognisable to UK employers. He approached Workbridge within weeks of arriving in the UK and was accepted as a voluntary worker for the RLSB itself.
+
+"I went to the interview with my CV and they placed me in a voluntary position straight away," he says. "I was taken on faith really because they did not know what I could do."
+
+With this experience he was in a perfect position to successfully apply for a full-time post with Dorton House School, the RLSB's school for blind and partially sighted children in Kent.
+
+IT skills are seen as an essential to the school's aim of encouraging children to develop their independence and academic skills, and Duncan describes his role as evaluating equipment and software for the children at the school and making sure the networked system runs smoothly. He works alongside an IT teacher and technicians.
+
+"The children use readers, scanners, low visual aids, the internet - basically the full range of access technology," says Duncan. Although he is not a qualified teacher he says he is frequently involved in a training role.
+
+Duncan says that without the Workbridge scheme he would have tried using internet job searches and agencies. Instead, after approaching Workbridge for an interview and working as a volunteer with RLSB for a few weeks, he found a permanent position within two months. "As long as I kept my side of the bargain, they did a great job," he says.
+
+As well as acting as a jobs agency, Workbridge helps job seekers with application forms, interview preparation and sourcing work placements. It also has access to a pool of specialist hardware and software that can be loaned to new employees while they wait for their own to be made available through the Access to Work scheme. Workbridge also places people in sponsored placements throughout the South East as part of the Government backed Supported Placement Scheme for disabled people.
+
+Workbridge also helps visually impaired people into self employment. Currently nine people are trading independently after support from Workbridge, some in the IT sector.
+
+Last but not least, the project offers assistance to employers to help them recruit and retain visually impaired people. This service includes advice about employer responsibilities under the Disability Discrimination Act and advice on adaptive technology.
+
+"Companies are concerned about what visually impaired people and adaptive technology will mean for them," says Greenwood. "Workbridge has helped about 30 companies with access problems including Pizza Hut, IBM and some NHS trusts."
+
+You can find more information about Workbridge at:
+http://www.rlsb.org.uk/workbridge3.html
+
+[Section four ends]
+
+HOW TO RECEIVE THIS BULLETIN
+
+To subscribe to this free monthly bulletin,
+e-mail eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the 
+message. Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to
+Dan Jellinek at: dan@headstar.com
+
+
+Published by Headstar Ltd
+http://www.headstar.com
+Copyright 2000 Headstar Ltd
+
+The Bulletin may be reproduced in full as long as all parts including this copyright notice are included. Sections of the report may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address http://www.e-accessibility.com is also cited.
+
+[Issue ends]

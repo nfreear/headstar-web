@@ -1,0 +1,616 @@
++++E-ACCESS BULLETIN.
+- ISSUE 74, FEBRUARY 2006.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab/).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 74 Contents.
+
+Section One: News.
+
+01: Stand-Alone Device To Access Audio Content Over The Web
+- charity to release 'SpeakOn' later this year.
+
+02: Talking Cash Machines Live Following Successful Trials
+- England's first talking ATM live in Leeds.
+
+03: Inaccessible Web Sites 'Could Lose Billions'
+- latest AbilityNet research finds.
+
+04: Blind Computer Trainer Awarded Volunteer Of The Year
+- Somerset man's work recognised.
+
+News in Brief: 05: Raised Standards - code of practice to be published;
+06: Audio Brainteaser - Audio Sudoku released; 07: Shining Example
+- Moon site live.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Copyright Conundrum - online library access explained; 09:
+Calling Out - mobile phone advice; 10: TV Guide - digital TV
+guidance request; 11: Position Vacant - jobs source query; 12: Poor
+Reception - radio hobbyist's appeal.
+
+
+Section Three - Focus -
+13: Podcasting - The Future Is Pod-Shaped: Whether 'vodcasting,' or
+'godcasting,' podcasting has undeniably opened up a wealth of online
+content to users. Carli Hawes investigates some of the latest accessible
+innovations in the online audio phenomenon.
+
+Section Four - Lecture Report -
+14: Turing Lecture 2006 - A Brighter Future: Lack of accessibility and
+high prices still cause barriers to everyday technology for people with
+vision impairment, but blind assistive technology expert Chris Mairs
+says the future may not be so gloomy. Mel Poluck heard him speak at
+this years' Turing Lecture.
+
+[Contents ends].
+
+
+++Special Notice: GIS In the Public Sector
+- An EGB Seminar, 8 March 2006
+- Places Limited, Sign Up Today
+- Royal Institute of British Architects, London.
+
+Accessibility will be among topics to be discussed at E-Government
+Bulletin's second annual Geographical Information Systems (GIS)
+conference.
+
+A huge proportion of public sector service data includes an address or
+location element, and electronic mapping underpins many modern web
+and intranet services. The event will cover what technologies are out
+there, how they could improve services and how they could save your
+organisation money.
+
+Places cost 295 pounds plus VAT for public sector and 395 for private
+sector delegates, with additional delegates booking at the same time
+receiving a 100 pounds discount. Places are limited, so sign up today
+for the public sector GIS event of the year. For more information see:
+http://www.headstar-events.com/gis .
+
+[Special Notice ends].
+
+
+++Section One: News.
+
++01: Stand-Alone Device To Access Audio Content Over The Web.
+
+A stand-alone device that provides access to selected news and
+entertainment audio web content without the need for high IT skills is
+planned for a launch later this year by a UK-based assistive technology
+charity.
+
+The 'SpeakOn', developed by a-technic
+(http://www.a-technic.net ),
+will be about the size of a digital TV set-top box, and plug in to a
+phone socket to play its output through any standard speaker, TV or hi-
+fi. It will use software developed by a-technic trustee Professor Isaac
+Porat from the University of Manchester to present choices of content
+and download it automatically from the internet.
+
+Content offered will include DAISY-formatted books, MP3 music
+files, internet radio stations, podcasts and other web site content
+including online newspapers. Users will not need to access web sites
+directly, making the system well-suited for vision-impaired users
+without high IT skills.
+
+"You won't realise you're going to a web site," said A-Technic
+founder and chairman Chris Mairs. "If you select the Guardian web
+site, under the covers [content] is whizzed off the internet but users
+won't know that."
+
+The device will be operated by a simple keypad similar to that of a
+phone. Four raised navigation buttons arranged around a moveable nob
+will allow users to scroll and select their choice, for example tracks
+from a music playlist or articles from an online newspaper.
+Subscription deals are still being sought for music download and audio
+newspaper content, but once there are in place the device will be
+released at a price of no more than 500 pounds, Mairs said.
+
+
++02: Talking Cash Machines Live Following Successful Trials.
+
+Yorkshire Bank is the first English bank to introduce talking cash
+machines to its branches, following successful trials of the technology.
+The new machines will be phased in as older equipment is replaced.
+
+The bank has deployed a talking cashpoint at its new flagship branch in
+Albion Street, Leeds, following trials at two other branches in Leeds
+and Hull in July 2005 and trials in Belfast, Northern Ireland and
+Glasgow, Scotland at sister banks the Northern Bank and Clydesdale
+Bank respectively. More branches are expected to follow, according to
+a Yorkshire Bank spokesperson.
+
+Talking ATMs (automated teller machines) enable vision-impaired
+customers to hear details of their accounts and transactions spoken
+through a standard set of headphones when plugged into a socket on
+the front of the machine. To ensure privacy, customers are given the
+option of switching off the visual screen while carrying out
+transactions.
+
+For more on previous trials see 'Talking Cashpoint Machines in Small-
+Scale European Tests', E-Access Bulletin July 2005.
+
+
++03: Inaccessible Web Sites 'Could Lose Billions'.
+
+Web site owners stand to lose billions of pounds worth of business if
+they fail to tackle basic accessibility problems, according to research
+from technology access charity AbilityNet
+( http://fastlink.headstar.com/ability1 ).
+
+The charity surveyed the internet habits of 100 people with disabilities
+including vision impairment, and found that they tended to go to
+mainstream web sites for information, shopping, banking and leisure
+rather than to web sites specifically focused on their disability. The top
+ten most popular web destinations cited were the BBC, Nationwide
+building society, Google, eBay, Amazon, the Guardian and Times
+newspapers, Lastminute.com, Premierleague.com and Yahoo.
+
+A major factor in these choices is greater accessibility of these web
+sites compared with their rivals, said the report. The survey found that
+many web sites are inaccessible due to basic design flaws. Typically,
+the size of text cannot be adjusted, images are not labelled properly,
+and animations are used extensively
+
+Web site owners who are complacent about these issues risk losing
+valuable business to their rivals, according to the report's author Robin
+Christopherson. "These potential internet users represent a spending
+power in excess of 120 billion pounds. The arguments are compelling.
+Whether from a moral, legislative or commercial perspective, suppliers
+of goods, services and information on the internet are ignoring a highly
+significant market sector at their peril," he said.
+
+
++04: Blind Computer Trainer Named Volunteer Of The Year.
+
+A blind volunteer from Somerset in the UK has won a prestigious
+national award for his work training vision impaired people to use
+computers, assistive technology and other electronic devices.
+
+David Godly, who is a committee member for the charity Woodspring
+Association for Blind People (WABP -
+http://www.wabp.org.uk/ )
+in Weston-super-Mare, North Somerset, was one of just five volunteers
+selected from more than 2,000 volunteer nominees to receive an award,
+winning in the 'Inspiration' category.
+
+Godly has spent the last four years providing home training for vision-
+impaired people, many of whom are older or isolated, to help them to
+install and use specialist technology including screen readers, screen
+magnifiers and adapted keyboards.
+
+"I'm very concerned about blind people who don't go to work and
+can't afford these machines," Godly told E-Access Bulletin. "I'm
+trying to solve this in my own way." As part of his mission, Godly
+began a scheme whereby he takes second-hand computers, installs free
+demonstration versions of assistive technology software such as JAWS
+on them and provides them to vision impaired people in the community
+for free.
+
+The awards mark the end of the Volunteer of the Year
+( http://www.yearofthevolunteer.org )
+initiative, which recognised the work of volunteers across England in
+2005 and was led by Community Service Volunteers, the Volunteering
+England Consortium and funded by the Home Office.
+
+
+++News in Brief:
+
++05: Raised Standards: A code of practice on web accessibility is to be
+published on 8 March by the British Standards Institution. The
+'Publicly available specification' (PAS) was commissioned by the
+Disability Rights Commission and is aimed at web site commissioners
+and developers. 'PAS 78 - Guide to good practice in commissioning
+accessible web sites' could become a full British Standard in around
+two years:
+http://fastlink.headstar.com/pas1 .
+
++06: Audio Brainteaser: An accessible version of the popular
+mathematical puzzle Sudoku, 'Sudo-San,' has been released by
+AudioGames.net. 'Mentor' Grandmaster San guides players by
+speaking the contents of a row, column or square. The game also
+features optional background sounds and music which change
+gradually as the player progresses:
+http://www.audiogames.net/sudosan .
+
+
++07: Shining Example: A web site dedicated to resources relating to
+Moon - an alphabet of raised symbols allowing vision-impaired people
+to read by touch - has gone live, offering resources for users and
+teachers. The site features listings of Moon stockists, advice for
+teachers and events listings among others and has been launched by a
+partnership of disability organisations including RNIB and DeafBlind
+UK:
+http://www.moonliteracy.co.uk .
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
+
++08: Copyright Conundrum: Tony Dart, Chief Executive of online
+library The Seeing Ear,
+( www.seeingear.org )
+writes in response to Rakesh Chand from Fiji, who wrote in the last
+issue to request the library be opened up to vision-impaired people
+outside the EU.
+
+"I have had the unenviable task of having to refuse access to a number
+of people who need this service, because they are outside this
+geographical boundary," Tony writes. "The reason is simple. I have a
+licence to publish copyrighted material issued by the UK Copyright
+Licensing Agency and this forbids me to offer this service outside the
+EU, even in the US where many of the books are published!
+
+"That is the bad news. There is, however, something that anyone who
+wants to see the online library in their own country can do. They can
+write to me with details of the copyright law in their country, or where
+I can obtain these details. Obviously, I am only interested in the law
+that applies to vision impaired people and how they can obtain books! I
+will try my very best to ensure that every print-disabled person can
+enjoy access to what they want to read, when they want to read it."
+[further responses to inbox@headstar.com please].
+
+
++09: Calling Out: Ibrahim Gucukoglu writes in response to Stephanie
+Read's request for accessibility advice on her new mobile phone, the
+Orange SPV C550 powered by Windows. "To obtain the most
+accessible software for mobile phones," writes Ibrahim, "the mobile
+needs to run the Symbian operating system
+( http://www.symbian.com ).
+
+[Accessible mobile phone software] TALKS, a popular screen reading
+application will allow access to virtually all elements on the mobile
+screen including battery status and signal icons, date and time as well
+as other more useful functions including text messaging, email and
+WAP access. Another application is Mobile Accessibility which as
+well as providing speech, provides an excellent magnification
+application to enlarge characters on the screen. As I have not used this
+product myself, I can not vouch for its suitability but I am reliably
+informed that it is a good alternative to TALKS as it is aimed at the
+novice to intermediate user. I know of no product that works on
+Windows-powered mobiles with the exception of Pocket PCs, but that
+is an entirely different ball game."
+[Further responses to inbox@headstar.com].
+
+
++10: TV Guide: Roger Petersen, a member of the Information Access
+Committee of the American Council of the Blind writes: "We are
+interested in improving the access for blind people in the US to
+television, including navigation of set-top boxes, TiVos [the digital
+video recorder] and all sorts of digital TV devices and systems. We
+would be interested in any guidance that you could provide."
+[Responses to inbox@headstar.com].
+
+
++11: Position Vacant: A reader writes to ask about sources for job
+listings for assistive technologists: "I am an access technology
+specialist in California looking for any resources for employment for
+access technology specialists, such as job-opening lists, for anywhere
+in Europe, Canada or the US. I have searched but have been unable to
+find any such resources, other than an odd job here and there on
+Monster.com or newspaper classified ads. I was hoping that [readers]
+may know where organisations go to look for new employees. Any
+ideas you might have would be greatly appreciated."
+[Responses to inbox@headstar.com].
+
+
++12: Poor Reception: Giovanni Urso from Naples in Italy writes on the
+accessibility of two-way radios and receiving devices. "The world of
+radio amateurs and listeners has always been crowded with blind
+people, who carry out this hobby with the utmost passion and devotion.
+Unfortunately their commitment is not always reciprocated by the
+manufacturers, who have rarely paid attention to the accessibility
+issues of sight-impaired people.
+
+"With the exception of Kenwood and a few other manufacturers, who
+created voice-based software for reading the frequency when the two-
+way radio is being tuned, and apart from the introduction of an
+automated tuner allowing the amateur to reach any frequency without
+damaging his or her radio, almost nothing has been done in this field.
+As a result, it grows more and more difficult to cultivate this
+interesting hobby. Many highly-developed devices appear every day on
+the market, full of every kind of menu, but they are almost off-limits
+for a blind person. Therefore, I believe it is high time to raise our
+voices, so that the most important manufacturers of these devices pay
+more attention to this range of customers, who are surely not few. I
+hope you will welcome my appeal."
+[Responses to inbox@headstar.com].
+
+NB: Thanks to Margherita Giordano for translating Giovanni's
+contribution.
+
+[Section Two ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Three - Focus
+- Podcasting.
+
++13: The Future Is Pod-Shaped
+by Carli Hawes.
+
+'Podcasting' has taken little over a year to become the newest internet
+revolution. But while the technology may be just entertaining and fun
+for most computer users, for blind and visually impaired people
+podcasting could be the most important innovation in communication
+technology since the invention of screen readers.
+
+'Podcast' was a term coined in 2004 when the technology allowing
+audio content to be broadcast online, received and stored on mobile
+devices and computers became commercially popular. The word is
+derived from a conflation of 'iPod' (the popular MP3 music file player
+from Apple) with 'broadcast'. However, you do not need an iPod to
+listen to podcasts, nor is the content broadcast in the traditional sense
+of the word, which would only allow users to listen to one source at a
+time at a predetermined time.
+
+In fact, your podcast receiver software or 'podcatcher' allows you to
+'subscribe' to as many audio programs as you want, which will be
+downloaded automatically for you to listen to whenever and wherever
+you want.
+
+The software needed to download and play podcasts varies in its
+accessibility to blind computer users. iTunes, the software application
+from Apple, is hard to navigate, so despite being a free application
+blind computers users have to purchase a 30 pound piece of additional
+software available from T and T Consultancy Ltd
+(http://www.tandt-consultancy.com/itunesscripts.html)
+to translate the system into a series of easy to remember keystrokes.
+
+There are a few podcatching systems that have been built specifically
+for the blind. In the UK Alasdair King has developed a piece of
+accessible software called WebbIE which allows blind users to
+download and listen to podcasts or the radio by incorporating their own
+screen reader or other access solution. "Web pages are often hard to
+navigate for visually impaired people. WebbIE podcatcher software is
+much more accessible," said King, "Podcasting is an infant technology
+- as yet there is no Google directory equivalent, there is no way to
+make it simpler in the mass market."
+
+Meanwhile in the US Dr Susan Gerhart is working with a team of
+students at Embry-Riddle Aeronautical University in Prescott, Arizona
+to produce a podcatcher fully accessible for blind people called
+@Podder
+( http://www.apodder.org/ ).
+Gerhart's team is also compiling an extensive library of podcasts
+relating to sight problems and the vision-impaired community. "Since
+podcasting is only a year old, collectively we should be able to put a
+well-organised library of audio information drawn from podcasts into
+the hands of many who need the information and appreciate having a
+community of similarly interested people," Gerhart says.
+
+The huge new demand for podcasts has already resulted in an
+abundance of variety shows, news bulletins, comedy shows, religious
+sermons and political statements being produced every day.
+
+The Daily Telegraph newspaper launched a daily news podcast in
+December 2005. It currently offers extracts totalling around 20 to 30
+minutes in duration. "We don't have plans to read out the whole
+newspaper, it would take about eight hours and be very hard to
+navigate," the Telegraph's podcast editor Guy Ruddle told E-Access
+Bulletin. However the newspaper is eager to improve its services for
+people with disabilities and has a meeting planned with the RNIB later
+this month to discuss possible improvements to their current audio
+service, he said.
+
+As podcasting technology develops, people are finding more and more
+inventive ways of using it. One eBay seller, Mark O'Neill, has added a
+podcast link to a selection of his eBay auctions to try and encourage
+blind computer users to venture onto the site and force the site's
+developers to improve accessibility. "Many people who surf eBay may
+have problems with their eyesight. Wouldn't they instead appreciate an
+audio description of your item, instead of struggling to read your
+auction text?" O'Neill said.
+
+Producing your own podcast is not as complicated as you might think;
+the requirements are a high quality microphone and a good
+understanding of the podcast software you are using. Recording and
+producing podcasts is a great opportunity for blind people to get their
+voices heard, says Nick Apostolidis, a blind computer user and
+technical adviser to E-Access Bulletin. "Podcasting is a lot like being a
+journalist, you have to do research, find an audience and build a
+reputation." The technology can support online communities of blind
+people who can communicate with each other about all manner of
+issues, he said.
+
+The continued rise of podcasting can only be good news for blind and
+visually impaired people. And with whispers that ITV is going to start
+producing audio-only versions of popular TV shows such as the Bill
+and Coronation Street, the future is looking promising.
+
+[Section Three ends].
+
+
+++Special Notice: Test Your Site's Accessibility.
+
+Headstar, the publishers of E-Access Bulletin, is offering a range of
+independent, expert assessment packages to ensure your web services
+comply with best practice and the law. We can provide you with a
+clear, detailed report on the current access status of your site, and a list
+of tasks you will need to carry out to ensure compliance with
+government requirements.
+
+Reports also include results from general quality assurance tests such
+as link-checking. Taking accessibility action benefits all users, will
+make your site easier to maintain, and can improve your search engine
+rating! Please note the service is tailored in particular to larger
+organisations with major web sites or services.
+
+For more information please email:
+access-consult@headstar.com .
+
+[Special notice ends].
+
+
+++Section Four - Focus
+- Turing Lecture.
+
++14: A Brighter Future
+by Mel Poluck
+
+"There are two common themes in developing specialist technology,"
+Chris Mairs told listeners at the annual Turing lecture hosted this
+month by the Institute of Electrical Engineers and the British Computer
+Society. "Access for people with a disability will lag behind the
+mainstream population and secondly, such technology is often
+commercially unviable."
+
+But Mairs is not easily deterred: he is co-founder of a
+telecommunications company, Data Connection; founder of assistive
+technology charity a-technic and winner of the world waterskiing
+championships with the assistance of the Bat Blaster, a device he
+developed and now sells through the charity.
+
+The lack of viability of most assistive products is highlighted by the
+costly and slow development period of the Bat Blaster, and the fact few
+are manufactured, Mairs said. This results in an expensive product that
+only the privileged few can afford, a situation all too familiar in the
+specialist technology sector.
+
+This model for manufacturing assistive technology will not be
+sustainable, he said. "If we have to build specialist technology we
+won't reach the 2025 objective," Mairs said. The objective was
+contained in last year's 2005 Prime Minister's Strategy Unit report,
+"Increasing the life choices of disabled people"
+( http://www.strategy.gov.uk/work_areas/disability/ ),
+which said: "by 2025, disabled people in Britain should have full
+opportunities and choices to improve their quality of life and will be
+. . . included as equal members of society."
+
+The only way this target will ever be hit will be to build in accessibility
+from the start, Mairs said. "Disability is very diverse. Building in
+accessibility from day one is practical for all disabilities."
+
+But the need for technology providers to provide new functionality and
+new trends may be preventing them from incorporating accessibility
+from the outset. "Manufacturers are reluctant to remove the 'sizzle' to
+increase accessibility," Mairs said.
+
+Many people with a disability are caught between a rock and a hard
+place when trying to access computers, mobile phones and other
+electronic devices. "Either they can't use them at all or they have to
+use a specialist device, most of which are prohibitively expensive," he
+said. Often, it is digital interfaces that make them inaccessible.
+"Devices often exclude people that can't use those interfaces."
+
+To compound the problem, digital interfaces - an on-screen menu for
+example - have become cheaper to manufacture than traditional
+button-based designs, Mairs said.
+
+With so many obstacles to accessibility, one wonders where
+manufacturers wanting to reach wider markets should begin. But
+according to Mairs, two simple tenets should steer manufacturers in the
+right direction: "You need appropriate interfaces between function and
+content and you need affordable technology," he said.
+In the meantime, Mairs is working on removing other obstacles - the
+obstacles to making effective text-to-speech, particularly on the web.
+Any aspect of, say, a web page of no consequence to the vision
+impaired user should not be read aloud. "Audio [output] shouldn't have
+the clutter associated with a visual interface," he said.
+
+Mairs and his team are currently developing 'SpeakOn'
+( http://www.a-technic.net/speakon.htm ),
+a low cost computer that aims to solve this conundrum. Designed to
+deliver only audible content such as podcasts; simplified web pages
+and electronic books, it will be released later this year (see lead news
+story, this issue).
+
+While the picture Mairs paints of the current accessibility scene is far
+from rosy, the future as he sees it is set to be brighter. "The explosion
+of digital technology can provide enormous gains by creating specialist
+devices," he told the audience. "The ever-reducing cost of resources,
+the continuing trend of open multi-modal interfaces (presenting
+information in more than one way) and improving legislation," he said,
+are all leading to improved accessibility across the board.
+
+"I believe we are at the watershed of opportunity to affect this 'random
+walk' with technology," he said.
+
+NOTE: The Turing lecture series is named in honour of Alan Turing,
+one of the founding fathers of computer science:
+(http://www.bcs.org/BCS/Awards/Events/TuringLecture/ ).
+
+[Section Four ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2006 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]

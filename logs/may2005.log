@@ -1,0 +1,57 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:02 2005 __
+
+Input file: ../eab/issues/2005/may2005.txt
+
+Warning: file already exists: ../eab/issues/2005/may2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: may | index: 5 | year: 2005
+URLs, prev: ../2005/apr2005.html | next: ../2005/jun2005.html
+Found ++, heading 2: Issue 65 Contents.
+>> FOUND 2:  | 01:  | Dolphin 'Pen' Allows PC Users To Carry Settings With Them
+>> FOUND 2:  | 02:  | New Apple Operating System Has Built-In Screen-Reader
+>> FOUND 2:  | 03:  | Web Access Guidance Is First Step To British Standard
+>> FOUND 2:  | 04:  | Accessible Quake Developers Seek Testers
+>> FOUND 2: News in Brief:  | 05:  | Web Words - Library accolade; 06: Political
+OK, News in brief
+Found: Web Words - Library accolade | ; |  06: Political
+>> FOUND 2: Broadcast - European Parliament webcast;  | 07:  | Open Invitation - open
+Found: Broadcast - European Parliament webcast;  | 07:  | Open Invitation - open
+>> FOUND 2: source project launch;  | 08:  | International Access - European
+Found: source project launch;  | 08:  | International Access - European
+>> FOUND 2:  | 09:  | Higher Education  - screenreader funding; 10: Braille Bosanova -
+>> FOUND 2: music transcription;  | 11:  | Blank Spots - silent MSN messenger.
+Found: Blank Spots - silent MSN messenger | . | 
+>> FOUND 2:  | 12:  | Doing nothing on equality is no longer an option: Disability Rights
+>> FOUND 2:  | 13:  | Tying Down Longhorn: Derek Parkinson talks to Rob Haverty,
+Warning line 54: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: Special Notice:
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Dolphin 'Pen' Allows PC Users To Carry Settings With Them.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | New Apple Operating System Has Built-In Screen-Reader.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Web Access Guidance Is First Step To British Standard.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Accessible Quake Developers Seek Testers.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  The Royal Borough of Windsor and Maidenhead has
+> ITEM 1:  06:  | : |  The workings of the European Parliament
+> ITEM 1:  07:  | : |  The Open Source Access Technology Project
+> ITEM 1:  08:  | : |  A European project to investigate ways of
+Found ++, heading 2: Sponsored Notice: Open Skies With Traveleyes.
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  09:  | : |  Helen Doherty from the Leeds Centre for
+> ITEM 1:  10:  | : |  Last issue, Marta Gil, manager of the SACI
+> ITEM 1:  11:  | : |  "After upgrading the
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Two - Conference Report
+> ITEM 2:  12:  | Doing Nothing On Equality Is No Longer An Option
+Warning: not found a 'contents' match: Doing Nothing On Equality Is No Longer An Optionby Mel Poluck.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Four: Interview
+> ITEM 2:  13:  | Tying Down Longhorn
+Warning: not found a 'contents' match: Tying Down Longhornby Derek Parkinson.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.

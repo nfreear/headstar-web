@@ -1,0 +1,540 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 105, September 2008.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 105 Contents.
+
+01: Target Agrees Six Million Dollar Accessibility Case Settlement
+- No liability admitted, but case sends strong signal to website owners.
+
++02: Navigation Aid Among Insight Radio's 'Vision 2008' Reports
+- 'STEP-HEAR' combines remote control and speaker technology.
+
++03: Call For Research Into Elderly Access To Mobile Phones
+- Existing methods of evaluating needs 'inadequate.'
+
+News in Brief: 04: Invisible Touch - haptic device innovation; 05:
+Awards Deadline - European e-inclusion; 06: Institutional Threat -
+University of Texas closure.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Beijing Warning - Olympics and inaccessibility; 08: Mac
+Discomforts - site access problems, plus Leonard Cheshire praise; +09:
+Spam Tips - web links idea.
+
+Section Three: Analysis - Target Web Lawsuit.
+10: The Six Million Dollar Question: US superstore chain Target has
+agreed to pay 6 million dollars rather than fight a court case about the
+accessibility of its website, and will make changes to the site, despite
+no admission of guilt. Majeed Saleh and Dan Jellinek examine the
+implications of the case.
+
+[Contents ends].
+
+
+++Special Notice: Designing for all: an inclusive approach to web,
+print and electronic publishing
+- A practical, one-day training course and document clinic
+- Wednesday 3 December, RIBA, Central London
+http://www.headstar-training.com/dfa/ .
+
+Trainer: Katie Grant, former publications manager, Disability Rights
+Commission.
+'Designing for all' is a practical course designed to introduce
+organisations to the importance of designing accessible, easy to read
+information for a range of different audiences including older people,
+people with disabilities and people for whom English is not their first
+language.
+
+It will help you assess current design and content of information -
+please bring examples to our document clinic. The course will be of
+interest to anyone who is involved in the design and delivery of
+information in print, electronic and web formats. To book a place see:
+http://www.headstar-training.com/dfa/
+
+[Special notice ends].
+
+
+++Section One: News.
+
++01: Target Agrees Six Million Dollar Accessibility Case Settlement.
+
+Following a two-year legal battle, US superstore chain Target has
+agreed to pay six million dollars to settle a class action brought against
+it for the inaccessibility of its website.
+
+The company also agreed to make changes to its site to ensure it is
+accessible, to pay for regular independent accessibility testing of its
+site, and to pay the legal fees of those who brought the case, although it
+does not accept liability or agree that the website is inaccessible (
+http://fastlink.headstar.com/target1 ).
+
+The case was brought in 2006 by Bruce Sexton, a blind student from
+the University of California Berkeley, then aged 24, with the support of
+the National Federation of the Blind (NFB - http://www.nfb.org/). Two
+other individuals subsequently joined the case, Melissa Williamson and
+James Marks.
+
+The plaintiffs had alleged that Target's website
+( http://www.target.com/ )
+ was inaccessible to visually impaired screenreader users in what
+amounted to "systemic civil rights violations" by the company
+( http://www.nfbtargetlawsuit.com/ ).
+
+They told a district court in San Francisco that the site "contains
+thousands of access barriers that make it difficult if not impossible for
+blind customers to use the website...Target thus excludes the blind
+from full and equal participation in the growing Internet economy that
+is increasingly a fundamental part of the common market place and
+daily life."
+
+Although Target did not admit to liability, or accept that it had broken
+the law or that its website was inaccessible, many analysts feel the size
+of the payment may be enough to cause other website owners to
+improve accessibility now rather than risk being forced to make similar
+payments.
+
+
++02: Navigation Aid Among Insight Radio's 'Vision 2008' Reports.
+
+A new device called STEP-HEAR (
+http://stephear.com/ ),
+enabling blind and partially sighted people to navigate in public places,
+is among technologies reviewed by the RNIB's radio station Insight
+Radio as part of its reporting from Vision 2008
+(http://www.vision2008.ca/ ).
+
+Vision 2008, held this summer in Montreal, Canada, is the world's
+biggest conference on low vision.
+
+STEP-HEAR is a relatively low cost device consisting of two parts. A
+base station includes a speaker and a small recording device onto
+which the user can record, re-record or store sounds and messages. The
+second part, a remote control, can be worn as a pendant, strapped to the
+wrist or carried in a pocket. When a blind person carrying the remote
+control walks within range of the base the remote vibrates, prompting
+the user to press a button to hear the message or sound recorded.
+
+In an interview with Insight Radio Nurit Neustadt-Noy, of the device's
+Israeli manufacturer Consultation and Rehabilitation Services, said it
+could help people distinguish between men's and women's toilets, or
+determine what number bus has arrived at a stop. Another feature
+could alert the bus driver that a blind person is trying to enter the
+vehicle so assistance could be offered.
+
+Other possible uses if purchased by individuals could be to help blind
+people identify their own suitcase on an airport carousel, or to help
+people navigate back to their hotel room by hanging the base station on
+the back of the door.
+
+ "Or see here in this hall, how many blind people need assistance just
+to know who are the presenters?" said  Neustadt-Noy. "If we put a
+device in each of the booths, as you walked by it would vibrate and
+you could press the button and you would know which company is
+represented there."
+
+The interview and a wide range of others from the conference can be
+heard at Insight Radio's website:
+http://fastlink.headstar.com/insight2 .
+
+Other coverage includes an interview with Vincent Lebec from
+Haptecs, discussing force feedback devices for mobile phones and
+refreshable tactile graphics devices allowing blind students to access
+mathematical diagrams in schoolbooks.
+
+Insight Radio - the Glasgow-based station formerly known as VIP On
+Air - is now broadcast on the web, on Sky channel 0188 and 101 FM
+in Glasgow. A blind presenter and producer from the station, Michael
+Hughes, came second in last week's final of the TV show 'Big
+Brother'.
+
+
++03: Call For Research Into Elderly Access To Mobile Phones.
+
+Mobile phones and other mobile technologies have great potential to
+help older people, but existing methods of evaluating older people's
+access requirements for such technologies are inadequate, according to
+a paper presented at last week's British HCI (human-computer
+interaction) 2008 conference at Liverpool John Moores University (
+http://www.hci2008.org/ ).
+
+The paper, by Sofianiza Malik and Alistair Edwards from the
+Department of Computer Science, University of York, was presented at
+a workshop on HCI and the older population.
+
+"Many of the commonly-used techniques of requirements capture for
+mobile technologies are inappropriate for use with older people, for a
+variety of reasons," it says. "These may be related to problems
+associated with age, cognitive complexity and motivation. The result is
+to restrict the potential of mobile technologies to provide support to
+older people."
+
+The York team is currently undertaking research to identify user
+requirement methods that are suitable and appropriate for older people
+using mobile technology.
+
+Other papers presented at Liverpool covered issues including web
+access for older people; and inclusive design for older people. All the
+workshop papers can be accessed online at:
+http://fastlink.headstar.com/hci1 .
+
+
+++ News in Brief:
+
++04: Invisible Touch: A haptic device which can create the illusion of
+touching virtual objects using force feedback has been demonstrated by
+developers at the University of Tokyo. A camera attached to a
+computer detects the location of the user's hands and adjusts a beam of
+tactile ultrasonic waves to allow the user feel of different parts of a
+virtual object or an image on a computer screen:
+http://fastlink.headstar.com/haptic1 .
+
+
++05: Awards Deadline: The deadline for entries to the European e-
+inclusion awards is approaching on 12 September. The awards
+recognise innovation in using ICT and digital technology to improve
+the lives of socially disadvantaged people, and will be presented in
+December in several categories including 'e-accessibility' and 'ageing
+well'. Many of the entrants will also be selected for recognition and
+showcased as examples of best practice:
+http://www.e-inclusionawards.eu/ .
+
+
++06: Institutional Threat: The Accessibility Institute at the University
+of Texas has been threatened with closure after the death of its founder
+Dr John Slatin in March this year. The institute has developed a strong
+reputation for research in accessibility technology and universal
+design:
+http://www.utexas.edu/research/accessibility/
+In response to the news, an e-petition has been posted asking the
+university to reconsider its decision and allow the institute to continue
+its work:
+http://www.petitionspot.com/petitions/SavetheInstitute .
+
+[Section One ends].
+
+
+++Sponsored Notice: Accessible Design in the Digital World 2008
+http://www.addw08.org/
+
+Following the successful conference 'Accessible Design in the Digital
+World' in Dundee in August 2005, we are pleased to announce
+Accessible Design in the Digital World '08, to be held at the University
+of York in September 2008.
+
+The conference will provide an opportunity for researchers and
+practitioners to discuss and debate the possibilities for accessibility and
+usability in the emerging world of Web 2.0, ubiquitous and pervasive
+technologies, and user experience.
+Keynote speakers will include:
+
+- Michael Paciello, The Paciello Group, USA
+- Graeme Whippy, Lloyds TSB, UK
+- Alan Newell & Maggie Morgan, University of Dundee, UK.
+
+For more information and to register, see:
+http://www.addw08.org/
+
+[Sponsored notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: Beijing Warning: Tom Worthington, Adjunct Senior Lecturer at
+Australian National University and a long-time accessibility expert
+( http://www.tomw.net.au/ ),
+writes in with a comment following last issue's coverage of the
+inaccessibility of the Beijing Olympics website (see E-Access Bulletin,
+issue 104, August 2008).
+
+Tom was called as an expert witness in the 2000 tribunal case against
+the Sydney organizers of the Olympics in that year, and writes in with
+a link to a relevant presentation he gave in 2003 to the Beijing games
+organizers BOCOG summarising the 200 case:
+http://www.tomw.net.au/2003/bws.html .
+
+"As you can see, I recommended they implement accessibility," Tom
+says.
+
+
++08: Mac Discomforts: Karen Mardahl, co-manager of the Society of
+Technical Communication's 'AccessAbility' group
+( http://www.stc-access.org ),
+writes in to report problems accessing one of the websites mentioned in
+our previous issue's inbox, the 'Macvisionaries' site:
+http://www.macvisionaries.com/ .
+
+Karen writes: "When I visited the site, they had MySQL errors on
+several pages. I wrote to tell them, and the mail was returned because
+their mailbox is full.
+
+"This resource sounded so great, so I hope the errors are a temporary
+issue. I just wanted to ask you in case you could help pass on the
+word."
+
+And following up another of last issue's stories, on the launch of an
+online Disability Information Portal by the charity Leonard Cheshire
+Disability, Karen writes: "Going to the Disability Information Portal
+taught me about Leonard Cheshire Disability and their Creature
+Discomforts ads
+( http://www.creaturediscomforts.org/ ).
+"They are wonderful.
+
+"I like the communication angle - getting this kind of information
+across to everyone before they put up their barriers of "I don't want to
+know" or "doesn't apply to me, mate". I live in Denmark, which is
+why I am not familiar with these spots before now. Perhaps they could
+be a topic for another bulletin? Maybe a follow-up on their effect?"
+[Editor's note - we will try to do this soon, Karen!]
+
+
++09: Spam Tips: A further spam-fighting tip has emerged from the
+ongoing debate on our E-Access Bulletin Live blog about the use of
+inaccessible 'CAPTCHA' anti-spam
+tools by some websites.
+
+David O'Brien writes: "We recently relaunched our site and used
+server-side validation on forms, rather than javascript. Content spam
+has dropped dramatically (almost disappeared, in fact) since. The
+validation scripting is quite time-consuming, but if you subtract the
+amount of time colleagues are not dealing with spam, it is probably
+worth the effort (though I haven't done the sums yet).
+
+"We get about 100 enquiries a month through forms on our site. We
+completely rejected the option of CAPTCHA (although it had been
+requested by some colleagues) because of the accessibility issues; but
+also because it makes it harder for everyone to use, not just those with
+disabilities. I have 20/20 vision and I sometimes have difficulty
+deciphering CAPTCHAs.
+
+"Another possibility we considered was simply to classify any form
+submission with a URL in it as spam. Over 95% of the spam we used
+to receive contained a URL. So just add a note in the label of your
+form inputs to say 'do not enter a URL', and write a script so that any
+submission containing the string 'http://' is rejected."
+
+To join the discussion, see our 'E-Access Bulletin Live' blog:
+http://www.headstar.com/eablive/?p=183#comments
+We will track further comments in this section of the newsletter.
+
+[Inbox ends].
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Section Three: Analysis
+- Target Web Lawsuit.
+
++10: The Six Million Dollar Question.
+by Majeed Saleh and Dan Jellinek.
+
+For years the web accessibility community has been waiting for clear
+legal precedent to be set enforcing the accessibility of websites for
+people with disabilities, but to date the wait has gone largely
+unrewarded.
+
+The ruling cited most often dates back to 2000, when blind web user
+Bruce Maguire won 20,000 Australian Dollars from the organisers of
+the Sydney Olympics for failing to address the inaccessibility of the
+games' website (for case details see http://contenu.nu/socog.html and
+E-Access Bulletin back issues including August 2008). But the ruling
+was that of an equal opportunity commission rather than a full court,
+and has little resonance outside that country.
+
+Since then, a series of cases brought in the UK and elsewhere have
+been settled out of court with payments made to plaintiffs, often in
+secret. Such settlements are frustrating: for while it is understandable
+that complainants, many of whom are people with disabilities, are
+inclined to accept offers of financial compensation in return for
+dropping their claims, only completed court cases can set a legal
+precedent.
+
+On the other hand, if the settlement is large enough, and is made
+public, then even if it comes with a disclaimer of liability, other
+website owners may sit up and take notice: no-one wants to have to
+make large payouts.
+
+Enter Bruce Sexton, a blind student from the University of California
+Berkeley. In 2006, when Sexton was aged just 24, he brought a class
+action over website inaccessibility against the American superstore
+chain Target, with the support of the National Federation of the Blind
+(NFB - http://www.nfb.org/).
+
+Sexton, with the NFB and joined by two other individuals, Melissa
+Williamson and James Marks, filed a case centred on the
+inaccessibility of the Target website to visually impaired screenreader
+users ( http://www.nfbtargetlawsuit.com/ ).
+
+Target runs more than 1,500 stores in the US, and its online store (
+http://www.target.com/ )
+receives around 25 million unique visitors a month, according to
+figures from compete.com. The plaintiffs alleged "systemic civil rights
+violations" by Target. They told the United States District Court, San
+Francisco Division, that "Target.com provides to the public a wide
+array of the goods, services, price discounts, employment opportunities
+and other programs offered by Target. Yet, Target.com contains
+thousands of access barriers that make it difficult if not impossible for
+blind customers to use the website.
+
+"In fact, the access barriers make it literally impossible for blind users
+to even complete a transaction on the website. Target thus excludes the
+blind from full and equal participation in the growing Internet
+economy that is increasingly a fundamental part of the common market
+place and daily life."
+
+After two years of wrangling, Target has finally agreed, in a settlement
+announced on 27 August, to pay the plaintiffs 6 million dollars plus
+legal fees. The company also agreed to make changes to their site to
+ensure it is accessible (
+http://fastlink.headstar.com/target1 ).
+
+It is true that Target does not admit to liability, or accept that it was
+breaking the law or even that its website was inaccessible. On the other
+hand, the size of the payment is enough in itself to send shivers down
+the spine of anyone offering large-scale services online.
+
+Struan Robertson, Legal director at solicitors Pinsent Masons, told E-
+Access Bulletin that the ruling would have the strongest influence in
+California, meaning any website selling to customers in that state
+would have to make accessibility a real consideration. That influence,
+however, does not extend to other parts of the US, so much uncertainty
+remains.
+
+"If it encourages other sites to improve accessibility then it's a good
+thing, and it's encouraging that the comments of the judge were
+supportive of the need for accessibility," Robertson says.
+
+Peter Abrahams, expert on accessibility and usability at technology
+research consultancy Bloor, says companies faced with the possibility
+of a similar lawsuit are likely to look at the settlement and decide that
+it may make more sense for them to make the necessary changes to
+their websites now. "I would be surprised if people go to court again,"
+he says.
+
+Interestingly the standards of accessibility to which Target is bound to
+comply are not the most widely recognised ones such as the World
+Wide Web Consortium's Web Content Accessibility Guidelines
+(WCAG), but standards developed by Target themselves. These
+'Target Online Assistive Technology Guidelines'
+( http://fastlink.headstar.com/target2 )
+contain similar guidance as other accessibility standards such as the
+requirement to use alternative text for images, but make no reference to
+WCAG or any other generally accepted standards.
+
+Abrahams told the E-Access Bulletin that this was not necessarily a
+problem. WCAG standards are highly technical, he said, and the Target
+standards are written in a way that people working at the company will
+understand and can implement. "It's a good document, a good example
+of what people should do," says Abrahams. "People should take
+advantage of the fact that it this document is now publicly available."
+
+As part of the agreement, the NFB will perform quarterly automated
+tests on the Target website to ensure it is meeting its obligations. Every
+year an accessibility consultant will perform a detailed examination of
+the site and the NFB will conduct user tests with the JAWS
+screenreader, reporting the findings to Target. All this testing will be
+paid for by Target.
+
+So from where might the next court action come?
+
+Interestingly, the technology behind Target's website is provided by
+Amazon Enterprise Solutions
+( http://www.amazonservices.com/amazoncommerce/ ),
+An offshoot of the online retailer Amazon which provides e-commerce
+solutions to various other companies including Sears Canada
+( http://www.sears.ca ),
+Marks and Spencer
+( http://www.marksandspencer.com )
+and Mothercare
+( http://www.mothercare.com/ ).
+
+Could these other sites be vulnerable? Not necessarily. In March 2007,
+Amazon.com and the NFB signed an agreement which would see them
+"work together to develop and promote technologies that improve web
+accessibility for the blind." This agreement however covers the website
+Amazon.com, and not explicitly the technology that Amazon provides
+to other e-commerce sites
+( http://fastlink.headstar.com/nfb1 ).
+
+Only time will tell if other cases will be brought and settlements
+reached. But the incentive is there: six million dollars is an attractive
+carrot for potential plaintiffs, and a big stick for potential defendants.
+
+[Section Three ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2008 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporter: Majeed Saleh
+Editorial advisor - Kevin Carey
+Marketing Executive - Claire Clinton
+
+ISSN 1476-6337 .
+
+[Issue 105 ends.] 

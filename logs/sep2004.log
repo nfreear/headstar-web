@@ -1,0 +1,50 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:37:55 2004 __
+
+Input file: ../eab/issues/2004/sep2004.txt
+
+Warning: file already exists: ../eab/issues/2004/sep2004.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: sep | index: 9 | year: 2004
+URLs, prev: ../2004/aug2004.html | next: ../2004/oct2004.html
+Found ++, heading 2: Issue 57 Contents.
+>> FOUND 2:  | 01:  | Public sector bodies to face IT access pressure
+>> FOUND 2:  | 02:  | US lawsuit sends web design warning to UK companies
+>> FOUND 2:  | 03:  | First magnifier software launched for mobile phones
+>> FOUND 2:  | 04:  | Paralympic web site fails to learn lessons of the past
+>> FOUND 1: News in brief:  | 05: Jungle venture - accessible game; 06: Tester
+>> FOUND 2:  | 12:  | The controversial voice of the web: An increasing number of sites
+>> FOUND 2:  | 13:  | The future of access keys: Keyboard shortcuts can be useful, but
+Warning line 51: expected [Contents ends].
+$toc_count=13
+Found ++, heading 2: Special Notice: Techshare 2004
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Public Sector Bodies to Face IT Access Pressure.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | US Lawsuit Sends Web Design Warning to UK Companies.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | First Magnifier Software Launched For Mobile Phones.
+Found 'contents' match: 2.
+Warning, replacing non-ASCII character 243 (line 118, 23): organisation Organizaci&#243;n Nacional de Ciegos de Espana (ONCE -
+
+> ITEM 2:  04:  | Paralympic Web Site Fails to Learn Lessons of the Past.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  The UK Audio Network, a web site with
+> ITEM 1:  06:  | : |  A team of programmers from US web
+> ITEM 1:  07:  | : |  A font designed for vision-impaired people by the
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  08:  | : |  Further to our recent discussions of 'chip and pin'
+> ITEM 1:  09:  | : |  Further to her contribution to our
+> ITEM 1:  10:  | : |  Following our feature last issue about
+> ITEM 1:  11:  | : |  Nancy Buchanan writes in to ask if anyone
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  12:  | The Controversial Voice of the Web
+Warning: not found a 'contents' match: The Controversial Voice Of The Webby Mel Poluck.
+Found ++, heading 2: Special Notice: The UK Association of Braille Producers
+Found ++, heading 2: Section Four: Web Standards
+> ITEM 2:  13:  | The Future of Access Keys
+Warning: not found a 'contents' match: The Future Of Access Keysby Derek Featherstone.
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

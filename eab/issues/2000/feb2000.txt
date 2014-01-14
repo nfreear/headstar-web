@@ -1,0 +1,698 @@
+****************************************
+E-ACCESS BULLETIN
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+
+www.e-accessibility.com
+
+Sponsored by the Royal National Institute for the 
+Blind
+www.rnib.org.uk
+the National Library for the Blind
+www.nlbuk.org
+and the Guide Dogs for the Blind Association
+www.gdba.org.uk
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing eab-subs@headstar.com
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+**************************************
+
+ISSUE 2, FEBRUARY 2000
+
+IN THIS ISSUE:
+Section One:
+News: Online copyright row edges towards solution; 
+Samsung develops digital guide dog harness; Hi-tech 
+retinal displays could help visually impaired; Web 
+gateway expands into Europe; ILIAD - an offline 
+odyssey; Notice to overseas readers - an online 
+debate; Reader comment - radio on TV; 
+Contributions and feedback welcome.
+
+Section Two:
+Accessible banking - the Visionary Banking Project
+
+Section Three:
+Access technologies - back to basics
+
+Section Four:
+European policy - eEurope targets 'disappointingly 
+weak'.
+
+************************************
+SECTION ONE: NEWS
+************************************
+
+ONLINE COPYRIGHT ROW EDGES TOWARDS 
+SOLUTION
+
+The long-standing problem of copyright 
+infringements in the transcription of internet and 
+other online information into braille or other 
+accessible formats moved closer to a solution this 
+week, following a meeting between rights holder 
+groups and transcription agencies in the UK.
+
+Rights holders, led by the Publishers Licensing 
+Society (PLS), are now working on a form of 
+licensing which would allow the RNIB and other 
+named braille producers to capture copyright 
+material in electronic formats with the purpose of 
+transcribing it into braille or other accessible 
+formats.
+
+However the move could merely be an interim 
+solution, with the RNIB and others continuing to 
+push in the longer term for legislation for an absolute 
+right of transcription. The transcribers object to a 
+licensing scheme on two grounds: first, on principle, 
+in that transcription should be a basic right for all 
+visually impaired people; and second, on practical 
+grounds, because a licensing system is difficult to 
+manage and police.
+
+The transcription problem arises because some 
+electronic data, available on the internet or via other 
+media, needs to be captured and altered prior to 
+transcription into braille or other formats which are 
+accessible to blind and visually impaired people. 
+However, even where information is available to be 
+read for free online, capture and manipulation will 
+often infringe copyright because it will involve 
+copying, storing and often transmitting the 
+information between agencies, which is not usually 
+allowed.
+
+The copyright holders are happy to licence trusted 
+bodies like the RNIB to use the data lawfully, but 
+fear that wider transcription rights could lead to 
+copyright material being freely emailed around the 
+world between people who are not visually impaired.
+
+David Mann, Campaigns Officer at the RNIB, said 
+another potential problem could be caused in future 
+by new electronic text formats which used 
+encryption techniques to prevent copying, and thus 
+block transcription. He said the only long-term 
+solution was a general right of transcription for those 
+in genuine need.
+
+"Blind people are not expecting something for 
+nothing, just the same rights as anyone else. If 
+everyone has to pay a charge for certain online 
+information, blind and visually impaired people have 
+no problem with paying the same charge: it is only if 
+information is free to read online, that blind and 
+visually impaired people object to being prevented 
+from accessing it as well".
+
+Under the new licensing scheme, which is subject to 
+a final proposal to be put forward by the PLS in the 
+next few weeks, Mann said licensed transcribers 
+would notify the PLS whenever they captured data 
+for conversion, and in turn the PLS would indemnify 
+them against breach of copyright. He acknowledged 
+that it was a step forward for transcribers, as 
+currently they had to track down individual rights 
+holders to obtain permission.
+
+
+SAMSUNG DEVELOPS DIGITAL GUIDE DOG 
+HARNESS
+
+The Korean electronics giant Samsung has 
+developed a prototype digital guide dog harness 
+which combines the use of the GPS global satellite 
+positioning system with the ability to record vocal 
+notes.
+
+The harness works in tandem with a wrist-mounted 
+device, and together the system will help guide dog 
+owners achieve even greater independence and track 
+new routes, according to a report in this week's 
+Electronics Weekly magazine (web site 
+www.electronicsweekly.co.uk - although the story 
+only appears in the printed version, cover date 16 
+Feb).
+
+Since 1992 Samsung has funded Korea's only guide 
+dog school. See:
+www.samsung.com/community/animal/ani01.html
+
+
+HI-TECH RETINAL DISPLAYS COULD ASSIST 
+VISUALLY IMPAIRED
+
+Miniaturised laser displays which beam information 
+and images directly onto a retina from a tiny device 
+mounted in the frame of a pair of glasses could be 
+used to overcome visual impairment in some cases, 
+according to technology design expert Kevin Carey.
+
+The Virtual Retinal Display, currently in 
+development by US firm Microvision, uses a rapidly 
+scanned beam of light to project images on the eye's 
+retina, allowing the viewer to see large, full-motion 
+images without the need for a conventional display 
+screen. In conjunction with a chip technology called 
+microelectromechanical systems (MEMS), the entire 
+technology can be constructed in miniature.
+
+Carey says that the technology could help people 
+with imperfections in their eyes by focusing on parts 
+which had greatest functionality. For example, 
+people with an imperfect cornea but functioning 
+retinas may be able to see the laser signals perfectly. 
+The technology and others like it could prove of 
+"immense importance" in helping the visually 
+impaired gain access to the information age, Carey 
+said.
+
+Microvision has already pioneered various health 
+applications of its retinal technology. An ongoing 
+study at the University of California San Diego is 
+detecting retinal diseases and vision disorders using 
+a portable scanning display which scans a stimulus 
+onto the patient's retina. Patients without retinal 
+damage saw moving particles throughout their field 
+of vision, while patients with areas of retinal damage 
+are able to see their own blind areas, and map them 
+using a pen-based computer program.
+
+Last month a further futuristic application was 
+announced to be tested later this year: the live 
+projection of medical scans directly onto a surgeon's 
+eyes to improve hand-eye co-ordination during 
+micro-surgery.
+
+For more on Microvision see:
+www.mvis.com
+
+And for more on the retinal display and MEMs in 
+general see Wired magazine online:
+www.wired.com/wired/archive/8.01/mems.html
+
+
+WEB GATEWAY EXPANDS INTO EUROPE
+
+The International Center for Disability Resources on 
+the Internet, a US-based body, is looking to expand 
+its collection of links to European web resources 
+relating to disability. Relevant organisations and 
+individuals can register their web sites at:
+www.icdri.org
+
+
+ILIAD - AN OFFLINE ODYSSEY
+
+Another useful US site to know about is ILIAD, a 
+simple and powerful tool that allows you to search 
+the internet offline using email.
+
+ILIAD was created by the educational arm of NASA 
+as an intelligent search agent to help teachers and 
+students who may have limited access to the web to 
+conduct searches by sending email. Search results 
+are then sent back by email and collected at their 
+convenience. The system has become hugely popular 
+with visually impaired and blind people because it 
+bypasses the visual web browser interface.
+
+For more on ILIAD see:
+http://prime.jsc.nasa.gov/iliad/index.html
+or email:
+iliad@prime.jsc.nasa.gov 
+with the subject line: 'start iliad'
+
+
+NOTICE TO OUR OVERSEAS READERS - 
+ONLINE DEBATE
+
+All readers of this bulletin from outside the UK are 
+invited to put themselves forward to take part in a 
+global 'virtual think tank' to debate development of 
+the digital economy, to be run in April on the 
+internet by the bulletin's publisher Headstar. Access 
+issues will be a central theme. Please email Dan 
+Jellinek on dan@headstar.com with a brief 
+biography.
+
+Apologies to UK readers - we are already 
+oversubscribed for the UK, but there will be an 
+opportunity for anyone to contribute to the debate 
+when it goes live in the web site's public area - full 
+details in our March issue.
+
+
+READER COMMENT - RADIO ON TV
+
+A reader writes: Dear E-Access Bulletin:
+Following on from the article on Digital Audio 
+Broadcasting (section two, EAB January 2000), 
+which expressed concerns for blind and visually 
+impaired people about adding a visual data stream to 
+a radio signal, I note that on satellite, you can 
+already receive radio stations with data displayed on 
+your TV screen, and there are a number of radio 
+stations broadcasting music without DJs.
+
+Because information about the records can be 
+displayed visually on the TV screen, all you hear are 
+records played consecutively. So if a blind or 
+visually impaired person wants to know what a 
+particular track was because they might like to buy 
+it, they currently have to ask a sighted person what is 
+on the screen.
+
+This works no differently from the format of, say, 
+the ITV Chart show, and I feel therefore that this 
+practice lends weight to the argument that radio with 
+a visual content is simply television. The purity of 
+the medium is already being sacrificed in the 
+interests of economy: you don't have to pay DJs to 
+present the programmes. So how can we protect it, if 
+it is not too late already?
+
+Clive Lever, Maidstone, Kent
+
+
+CONTRIBUTIONS AND FEEDBACK WELCOME
+
+All contributions from readers to E-access Bulletin 
+are extremely welcome, whether they be feedback 
+about our coverage; ideas or requests for stories; or 
+articles to be considered for publication.
+
+All offerings should be sent by email to the editor, 
+Dan Jellinek, on dan@headstar.com
+- thank you very much in anticipation!
+
+
+************************************
+SECTION TWO: ACCESSIBLE BANKING
+************************************
+
+CALIFORNIA DREAMING ABOUT 
+INDEPENDENT BANKING
+By Kristof Burek
+
+It was a trip to California that led one woman to 
+decide last year that enough was enough for visually 
+impaired bank users in the UK.
+
+Monica Davie has a visually impaired father, and 
+had observed with increasing frustration the 
+difficulties he routinely encountered in accessing the 
+UK banking system. Inspired by finding Braille 
+symbols on cash dispenser machines on a visit to 
+California, on her return she began to raise interest 
+among blind and partially sighted people in the UK 
+in forming a group of consumers to talk to the banks 
+about making their services accessible.
+
+The fruit of this work was the Visionary Banking 
+Project, set up in May last year to push for 
+independent, confidential banking for visually 
+impaired people.
+
+The project is urging banks to realise the potential of 
+various technologies that research shows can benefit 
+visually impaired customers and others.
+
+Many of the major UK banks have offered some 
+level of provision for their visually impaired 
+customers for a number of years, such as bank 
+statements in Braille or large print, or instruction 
+booklets on how to operate their cash machines in a 
+limited way. Many also offer telephone banking 
+services, which can be ideal for visually impaired 
+customers.
+
+However, there is little consistency between the 
+banks, or even within banks. And as many building 
+societies became banks, the proportion of banks 
+offering any kind of accessible services has 
+dwindled.
+
+In October 1999, part three of the 1995 Disability 
+Discrimination Act came into force in the UK. This 
+makes it unlawful for anyone offering services 
+directly to the public to discriminate against people 
+with disabilities in offering the service, unless any 
+such discrimination can be shown to be 
+"reasonable".
+
+However, although the banks' reaction has generally 
+been positive, they have also sometimes appeared 
+complacent. They are still not establishing as a 
+matter of course whether their customers have any 
+special needs, and nor has the consistency in the 
+levels of service offered by different banks 
+improved. There seems to be much resistance in 
+making automated facilities such as cash point 
+machines and kiosk services accessible to visually 
+impaired customers.
+
+There is no good financial reason why services 
+should not be made accessible for all. A substantial 
+amount of research, much of it EU-funded, has 
+demonstrated there are many effective low-cost ways 
+to make bank services more accessible. A prototype 
+talking cash machine was demonstrated in 1996, and 
+since then manufacturers have developed other 
+solutions based on infrared technology or the 
+provision of an earphone socket, which preserves the 
+customer's privacy - and yet the results of all this 
+work have largely been ignored.
+
+As Ms Davie found out on her inspirational trip, in 
+the US is picture is more advanced. An even stronger 
+anti-discrimination law, the Americans with 
+Disabilities Act, has been in force there since July 
+1990, and many visually impaired Americans now 
+take for granted that they will be able to use a cash 
+machine independently because it will guide them 
+through the facilities and services with synthetic 
+speech.
+
+Other facilities available to visually impaired 
+Americans include Braille embossing on credit 
+cards, raised lines on cheques and even computer 
+printed cheques. However, provision is still not 
+universal even in the US, even after almost 10 years 
+with the Act on the books.
+
+The new UK Visionary Banking Project hopes to 
+make faster progress. As well as pushing for 
+accessible banking systems, it is stressing the 
+importance of gathering reliable information about 
+customers' needs and the training of bank staff at all 
+levels. Ultimately the project intends to broaden its 
+aims to other financial services such as insurance 
+and pensions.
+
+The project has built up a contact list of about 50 
+visually impaired people and many relevant 
+organisations including the RNIB, the NFB and the 
+British Bankers' Association, and is establishing a 
+firm basis to be a credible consumer group to feed 
+ideas to the banks, influence research and measure 
+whether the banks are providing acceptable levels of 
+accessible services.
+
+Among its short term goals are to ensure all banks 
+improve the lighting near cash machines; mark all 
+machines with clear embossed symbols; and 
+distribute comprehensive tactile instruction booklets 
+on their operation. It is also urging banks to create an 
+easily accessible and widely-known point of contact 
+for all disability issues.
+
+In the longer term the project feels it is realistic to 
+expect widespread availability of accessible cash 
+machines, kiosks, and other delivery channels such 
+as Internet and mobile phone banking.
+
+END NOTE: If you wish to express your support for 
+this project or can help in any way, please contact 
+Monica Davie on Monica.Davie@dial.pipex.com or 
+telephone: 01483 502426; or Kristof Burek on 
+Kristof.Burek@dial.pipex.com, telephone: 020 7700 
+0568.
+
+
+***********************************
+SECTION THREE - ACCESS TECHNOLOGIES
+***********************************
+
+BACK TO BASICS - THE ACCESS TOOLKIT
+by Robin Christopherson, AbilityNet
+
+Some technologies enabling blind and visually 
+impaired people to gain access to computers and 
+computing are relatively expensive, like refreshable 
+Braille displays, but there are also many extremely 
+useful tools which do not mean a second mortgage.
+
+Below is a run-through of the most useful of these 
+technologies, many of them free or highly 
+affordable.
+
+
+MOUSE POINTER ENHANCEMENT
+As well as the changes that can be made to the 
+appearance of the mouse pointer arrow within 
+Windows, there are many little utilities that can 
+make it any number of exotic shapes, colours and 
+sizes, as well as including such features as mouse 
+trails and radar-style aids to help find the pointer on 
+the screen.
+
+Useful free software includes the Microsoft 
+"Intellipoint" mouse driver from 
+www.microsoft.com/enable or visit 
+www.shareware.com and search for "mouse 
+pointers".
+
+
+FINDING THE TEXT CURSOR
+Many people find it difficult to locate the blinking 
+vertical bar that indicates where you are typing in a 
+word processor.
+
+There is no way of increasing the size, or enhancing 
+the appearance, of this cursor, but a free program 
+called "follow.exe" can be obtained that makes the 
+mouse pointer (that can itself be enhanced for easy 
+visibility - see previous section) follow the blinking 
+cursor as it moves, enhancing its visibility.
+
+
+MAGNIFICATION SOFTWARE
+Magnification software enlarges the image on the 
+screen up to 20 times and tracks whatever moves to 
+compensate for the fact that the whole screen content 
+is not visible at any one time. Magnification 
+software is quite expensive but necessary for those 
+with significant vision problems.
+
+For Windows 3.1 there is a program called "Lunar 
+Lite" that offers all such functionality and is free to 
+download from the supplier's website at 
+www.dolphinuk.co.uk and then clicking on the 
+"Freeware" link.
+
+For Windows 95/98/NT there are no such freeware 
+programs. There are, however, certain magnification 
+programs with limited functionality that are free and 
+may help those who would like to enlarge the 
+occasional item that cannot be enlarged by in-built 
+Windows features.
+
+One such program is the Magnifier in Windows 98. 
+Another package is the Microsoft "Intellipoint" 
+mouse driver that is compatible with all Microsoft 
+mice, which includes a magnifying lens (Windows 
+3.X only). The lens is a small rectangle whose 
+contents is a magnified version of whatever is 
+around the mouse pointer. It is downloadable from 
+www.microsoft.com/enable.
+
+Screen Loupe (Windows 95/98/NT) is a similar lens 
+program, which can be used with any mouse - free to 
+try, 20 US Dollars if you decide to keep it. See:
+http://www.execpc.com/~sbd/Loupe.html
+
+KEYBOARD STICKERS
+A set of large-character keyboard stickers can be 
+purchased from Dolphin Computer Access (01905 
+754577) at a cost of £15 in a range of foreground 
+and background colours. They are stuck onto the 
+existing keys to improve visibility.
+
+
+TEXT-TO-SPEECH SOFTWARE
+There are several programs available that enable 
+blocks of text within a word-processor document, for 
+example, to be read back with synthesized speech 
+output.
+
+For example, "Reader" enables text to be read back 
+while at the same time highlighting words a word at 
+a time or making them appear one after the other in 
+the centre of the screen, in a size and colour of your 
+choosing.
+
+
+SCREEN-READING SOFTWARE
+For those who need to rely entirely on speech or 
+Braille output to use their computer they require a 
+screen-reading program such as "Hal Lite", which is 
+available for DOS free of charge. It requires a 
+synthesiser called an Apollo 2, which costs £310 in 
+its cheapest form (an internal card) but is often 
+available for sale second-hand in publications such 
+as the RNIB's "New Beacon". Hal Lite is available 
+for download from the freeware section at 
+www.dolphinuk.co.uk or you can pay a few hundred 
+quid for the full version with technical support.
+
+Another screen-reader is Jaws, which also requires a 
+hardware synthesiser such as the Apollo, and is quite 
+pricey. It is available for download from 
+www.hj.com
+
+
+INTERNET ACCESS
+There are several web browsers that offer speech 
+and/or large character output.
+
+One of these is IBM's "Home Page Reader". It does 
+not include enlarged text but gives excellent access 
+to even the trickiest web page. It is available for 
+download from www.austin.ibm.com/sns/hpr on a 
+trial basis and can be purchased for 149 US Dollars 
+on-line. It may soon be available here in the UK for 
+purchase through normal IBM retail outlets.
+
+"PW WebSpeak" is a similar web browser that 
+includes larger text as well as speech output, but 
+does not offer quite the sophisticated functionality in 
+dealing with very complex web pages.  It is available 
+for download from www.soundlinks.com on a trial 
+basis and costs 78 UK Pounds for disabled 
+individuals. It is also available on CD-ROM from 
+Soundlinks (01494 794797) at 95 UK Pounds.
+
+END NOTE: AbilityNet is a charity concerned with 
+all areas of computing and every disability, which 
+acts as an independent assessor of access 
+technologies. For more information, or for a 
+factsheet on 'High visibility features in Windows', 
+contact AbilityNet on freephone  0800 269545, 
+email: enquiries@abilitynet.co.uk or see its web site:
+www.abilitynet.co.uk
+
+
+*************************
+SECTION FOUR: EUROPEAN POLICY
+**************************
+
+E-EUROPE TARGETS 'DISAPPOINTINGLY 
+WEAK'
+
+The Royal National Institute for the Blind has 
+attacked "disappointingly weak" proposals from the 
+European Commission's eEurope initiative for 
+improving accessibility for all to the information 
+society (see E-Access Bulletin, January 2000).
+
+While welcoming the general aims of eEurope, the 
+RNIB said in its official response that "the targets 
+and objectives with regard to blind and partially 
+sighted people are far below what might have been 
+expected".
+
+In particular it said that the needs of disabled people 
+should have been considered throughout the 
+document, and not just in their own section. "A 
+major failing of the communication is the 
+'ghettoisation' of the access needs of disabled people 
+in section seven . . . the theme of access should run 
+throughout the areas of action . . . Indeed, the targets 
+in the other sections could not be successfully met 
+without the incorporation of disabled people".
+
+Thus for example the programme's targets for 
+employment; the cost of accessing the internet; and 
+access to healthcare online should all take into 
+account the importance of accessibility to blind and 
+visually impaired people, the RNIB said.
+
+The most extreme criticism was reserved for the 
+commission's "inexcusable" blunder of releasing the 
+eEurope document only in an online format - pdf - 
+that is not itself accessible. The RNIB said it was 
+"extremely disappointed to find that, ironically, a 
+document with a significant section on accessibility 
+for disabled people, was not in fact accessible to 
+blind and partially sighted people".
+
+The RNIB said that the accessibility targets which 
+were set in section seven were too distant. "By the 
+time they come into effect they will be meaningless. 
+The targets are also unnecessarily weak, with too 
+much emphasis on commitments and not enough on 
+actions".
+
+Thus for example the commission has proposed a 
+target by the end of 2001 that: "The commission and 
+member states should commit themselves to making 
+the design and content of all public web sites 
+accessible to people with disabilities". The RNIB 
+says this target should specify full adherence, not 
+just "commitment".
+
+Further revised and additional targets suggested by 
+the RNIB include:
+
+"By end April 2000: The European Commission and 
+member states should adopt the standards of the Web 
+Accessibility Initiative (WAI) in relation to the 
+design of web sites, web authoring tools and agents. 
+
+"By end April 2001: All for-profit and public sector 
+web sites must adhere to WAI standards to ensure 
+full participation.
+
+"By end 2001: Development of a piece of browser 
+software that people with disabilities can use to 
+browse the web, that is written to WAI standards and 
+that can read web sites that are written to WAI 
+standards. This software should be distributed to 
+disabled net users at no cost."
+
+The full RNIB response is at:
+http://www.rnib.org.uk/digital/eeurope.htm
+
+And the eEurope home page is at:
+http://europa.eu.int/comm/information_society/eeuro
+pe/index_en.htm
+
+
+******************************************
+* * * ISSUE ENDS * * *
+******************************************
+
+HOW TO RECEIVE THIS BULLETIN
+To subscribe to this free monthly bulletin,
+e-mail eab-subs@headstar.com with 'subscribe eab' 
+in the subject header.
+You can list other email addresses to subscribe in the 
+body of the 
+message. Please encourage all your colleagues to 
+sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in 
+the subject header.
+
+Please send comments on coverage or leads to
+Dan Jellinek at: dan@headstar.com
+
+********************************
+Published by Headstar Ltd www.headstar.com
+Copyright 2000 Headstar Ltd
+The Bulletin may be reproduced in full as long as all 
+parts including this copyright notice are included. 
+Sections of the report may be quoted as long as they 
+are clearly sourced as 'taken from e-access bulletin, a 
+free monthly email newsletter sponsored by RNIB', 
+and our web site address (www.e-accessibility.com) 
+is also cited.
+*******************************

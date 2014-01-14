@@ -1,0 +1,598 @@
++++E-ACCESS BULLETIN.
+- ISSUE 53, MAY 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 53 CONTENTS.
+
+01: RNIB moots 'social firm' for web testing
+- independent company could create jobs.
+
+02: Culture department site accessible by phone
+- no computer needed to navigate information and links.
+
+03: E-learning students search in vain
+- educational time is largely wasted.
+
+04: Spindrift in the moan zone
+- commentator says volunteers are second-class citizens.
+
+News in brief: 05: Easy publishing - new DAISY package; 06: Live
+music - library resources; 07: Broad overview - access guidelines.
+
+Section two: 'The inbox' - Readers' forum.
+08: Access assistance - JAWS support request from Brazil; 09: Bridge
+game - card player; 10: Civil service - happy ending; 11: Usability
+question - research response; 12: Tiresias font - further info.
+
+Section three: Opinion - multimedia.
+13: Radio presenters have more fun: It is harder for blind people to
+become computer programmers these days, but the comparative ease of
+broadcasting radio programmes over the internet has opened up new
+and more enjoyable career paths, says Kevin Carey.
+
+Section four: Seminar report - accessible e-government.
+14: Culture of accessibility: the key to creating services which are
+accessible to people with disabilities is changing the way people think,
+says Julie Hill.
+
+[Contents ends].
+
+
+++SECTION ONE: NEWS.
+
++01: RNIB MOOTS 'SOCIAL FIRM' FOR WEB TESTING.
+
+The RNIB (http://www.rnib.org.uk) is investigating the feasibility of
+creating an independent "social firm", staffed by blind and visually
+impaired people, to provide web site developers with much-needed
+resources for web accessibility testing.
+
+The announcement is one of the ideas mooted by the RNIB in response
+to the recent Disability Rights Commission (http://www.drc-gb.org)
+investigation into web accessibility (see E-Access Bulletin, issue 52,
+April 2004), which revealed that some 81 per cent of UK web sites fail
+to meet even the most basic accessibility requirements for disabled
+people.
+
+"One of the most important messages that came out of the DRC
+findings was that companies can't just follow the Web Accessibility
+Initiative (http://www.w3c.org/WAI) guidelines; they have to test
+accessibility among disabled users," says Richard Orme, assistant
+director for information and communications technology at the RNIB.
+"The creation of a social firm would be one way of linking visually
+impaired people with web designers - and providing employment
+opportunities at the same time."
+
+The idea of an independent "social firm" - supported by funding or
+even set up as a for-profit organisation - fits with the RNIB's aim to
+promote employment opportunities for blind and vision-impaired
+people. Full-time staff would be needed to run and sell the accessibility
+services, while a bank of people could be employed on a flexible basis
+to supply testing services.
+
+"The RNIB has been contacted by blind and deaf-blind people who are
+ready to get stuck in and companies looking for real users," says Orme.
+"We just need to link the two together."
+
+The RNIB already hosts a social firm at its Redhill College of Further
+Education. Called Insight, the company specialises in transcribing
+information and resources into audio, large print and Braille formats.
+
+The institute also plans to run regional seminars for businesses that
+want to learn more about web accessibility policy. The seminars will
+include practical demonstrations of the technology blind and partially
+sighted people use to read web sites.
+
+
++02: CULTURE DEPARTMENT SITE ACCESSIBLE BY PHONE.
+
+Vision-impaired users can now access the entire web site of the
+Department of Culture, Media and Sport (DCMS -
+http://www.culture.gov.uk) using a touch-tone phone, following the
+launch of a three-month trial of new technology that is the first of its
+kind by a UK government agency.
+
+Users access the service at local call rates by calling 0845 333 0850
+and following spoken instructions. Navigation is achieved using the 12
+keys of a standard phone layout, with right-hand keys providing a
+range of forward options and those on the left moving the user
+backwards.
+
+The experience aims to be similar to using a text-to-speech computer
+screenreader, for example providing voice output from text tags to
+describe the purpose of links and the content of graphics. And
+according to technology developer PhoneAnything
+(http://www.phoneanything.com), content that is often problematic to
+screenreader users such as tables of data and Adobe pdf documents
+should also be accessible to users of the service.
+
+In general however, the user experience for this kind of service will
+depend heavily on how well-designed the web site is, said
+PhoneAnything managing director Stefan Haselwimmer. "The
+technology is designed to identify where the main text of a web page
+is, in contrast to links and menus, for example," he said. "There could
+be problems if the page layout is not clear."
+
+According to the RNIB, providing web access to people who don't use
+computers is valuable to people with impaired vision, who tend to be
+more familiar with phone and TV technology than with computers.
+However, this also means that much of the jargon used in web sites
+will be unfamiliar to many. "Instructions like 'click this' won't mean
+much to someone who doesn't already know about computers and the
+web," said Digital Policy Development Officer Julie Howell. "We need
+to start questioning the assumption that accessible sites would be
+accessible to anyone on another device."
+
+
++03: E-LEARNING STUDENTS SEARCH IN VAIN.
+
+Students with impaired vision using web-based educational materials
+spend only around 30 per cent of their time actually using the
+materials; the rest of their time is spent searching and navigating for
+pages and options, according to RNIB research.
+
+Zoe Neumann, technology development officer at the institute's
+Technology in Learning and Employment programme (TiLE -
+http://www.rnib.org.uk/technology), revealed the statistic at last
+weeks' seminar 'E-Learning: the future of training in the public sector'
+(http://www.electronic-government.com/elearning.htm) organised by
+our sister publication E-Government Bulletin.
+
+The TiLE team recently arranged focus groups to investigate students'
+experience of using technology in an educational setting, with
+outcomes that "brought you down to earth with a bump," Neumann
+said.
+
+Neumann advised delegates to contact the TiLE team for help in
+measuring for web accessibility in an educational context, and also
+recommended the use of the DAISY digital book format
+(http://www.daisy.org) as an e-learning tool.
+
+
++04: SPINDRIFT IN THE MOAN ZONE.
+
+Hard-working volunteers who produce news tapes and audio
+magazines for the blind are not being given the respect they deserve,
+according to edition 10 of 'Site for Sore Eyes'
+(http://www.kenmatthews.pwp.blueyonder.co.uk), an audio magazine
+for the blind and visually impaired.
+
+"I have attended various meetings about the impact of audio
+technology on the visually impaired," says Ken Matthews, the site's
+founder and vice-chairman of the Mid-Fife Newstape, a talking
+newspaper and audio magazine service for the visually impaired in
+Glenrothes and Kircaldy. "Generally there are other production
+volunteers from other news tapes, people who have devoted decades to
+their visually impaired friends, and who have intimate knowledge of
+their high-tech equipment, digital, as well as cassette tape. However,
+because we are volunteers and unpaid, we seem to rank lower than
+other people who are paid a handsome wage for their efforts."
+
+Matthews says that the chairpeople presiding over such meetings tend
+to pay homage to the paid professionals in the industry, while talking
+down to volunteers, despite their considerable expertise.
+
+'Site for Sore Eyes' was founded in 1997 and is written by Matthews
+under the editorial pseudonym of 'Spindrift'. His aim is to "unspin the
+spin", giving his take on events that hit the headlines.
+
+
+++NEWS IN BRIEF:
+
++05: EASY PUBLISHING: A new software package that allows users
+to create DAISY digital 'talking books' from simple text files,
+'EasePublisher', has been launched by Dolphin Audio Publishing:
+http://www.dolphinuk.co.uk/audio/news/ep_launch.htm .
+
++06: LIVE MUSIC: A website dedicated to music library services for
+people with disabilities has been launched by the UK and Ireland
+branch of the International Association of Music Librarians. It includes
+information on music technology and courses. Follow the link marked
+'resources' at:
+http://pages.britishlibrary.net/iaml.uk.irl/accessibility/ .
+
++07: BROAD OVERVIEW: An overview of existing guidelines and
+experimental data on accessible technology was published last week by
+RNIB chief scientist Dr John Gill. 'Access-ability: making technology
+more usable by people with disabilities' covers the gamut of
+technologies from ticket machines to smart homes and is aimed at
+managers, policy-makers and designers:
+http://www.tiresias.org/guidelines/access-ability/ .
+
+[Section one ends].
+
+
+++Special Notice: Techshare 2004 Call for Papers
+- 18-19 November 2004, Jury's Inn, Birmingham, UK
+
+The RNIB's Techshare 2004 conference is an important event for
+professionals who are interested in technology and the role it plays in
+learning, work and society for people with sight problems.
+
+We are currently looking for people to give presentations in the
+following areas:
+Practical applications of technology; Innovation in education;
+Accessible web authoring; IT training; Broadcasting and digital
+information delivery; Mobile technology; Producing alternative
+formats; Technology in the workplace; Access to operating systems.
+
+If you are interested in presenting, please email techshare@rnib.org.uk
+for more information on the format of submissions. The closing date
+for submissions is 2 August.
+
+Speakers will be entitled to a reduced rate when registering for the
+conference of 130 pounds (or 95 pounds for one day). Speakers and
+delegates will also have the opportunity to have an informal exhibit at
+a 'Delegate's showcase' table in the conference coffee area at a cost of
+40 pounds per table per day.
+
+For further information including standard attendance prices, email
+techshare@rnib.org.uk or visit:
+http://www.rnib.org.uk/techshare .
+
+[Special notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+Please email all contributions or responses to inbox@headstar.com .
+
+
++08: ACCESS ASSISTANCE: Ana Cristina Souto of the Brazilian
+social inclusion body Rede SACI (http://www.saci.org.br) writes in on
+behalf of a nurse, Lana, whose 13-year-old son Rafail is blind, and
+relies on Braille for his reading.
+
+"I promised him to buy him a computer for his birthday and I did,"
+says Lana. "Now the problem: he is not able to use it without special
+program called Jaws. I checked on the price for it and was almost
+shocked. It's 1,030 dollars. I cannot afford it with all my and Rafail's
+medical bills, mortgage payments and divorce! So the new computer
+now just stands at the table like a piece of furniture and poor Rafail
+going around it all upset.
+
+"I was wondering if you know any organisation that can assist people
+on buying technology products for blind children. Rafail wants to go
+on internet and news sites to help him with projects and homework, but
+cannot see the screen." [Responses please to inbox@headstar.com].
+
+
++09: BRIDGE GAME: Brenda Nichol writes in to say: "I have a friend
+who has recently lost her sight owing to a brain tumour. She is a highly
+intelligent lady in her seventies and loves doing crosswords. Is there an
+accessible bridge game she could use? Currently she has never played
+bridge but I am sure could pick it up. Is there a computer game?"
+[Responses please to inbox@headstar.com].
+
+
++10: CIVIL SERVICE: Last month Harish Kotian from India wrote in
+to ask if any of our readers had information about blind people
+working in the UK civil service, which might help a friend with
+impaired vision who had been denied a civil service job in India.
+
+Paul McKee of HM Customs and Excise responded: "There are many
+blind and partially sighted workers in the UK civil service, including
+myself. Indeed the recruiting policy of the UK civil service encourages
+diversity and rejects discrimination on the grounds of gender, disability
+ethnic origin and so on. People are appointed to jobs based on their
+ability to do the job, if necessary with reasonable adjustments made to
+what work is done and how it's done.
+
+"If for example assistive technology would enable a blind or partially
+sighted person to do a job, the equipment is provided by the
+government. This is regardless of whether it's for a clerk or a senior
+administrator.
+
+"Having said all of the above and believing that the civil service is
+probably the best and most forward thinking employer of disabled
+people, there is a word of caution. We in the UK enjoy the protection
+of the Disability Discrimination Act which protects our right to
+employment."
+
+Steve Bingham, who works at the Inland Revenue, adds: "I have not
+been able to find any figures that show how many vision impaired
+people work in the British Civil Service. It is likely to be in the
+hundreds. The vast majority are in the lower grades as typists or
+telephonists. A few, mainly professional people like solicitors do make
+the higher grades.
+
+"At present many departments are having great difficulty integrating
+their typists and telephonists into the mainstream of Civil Service jobs.
+The typing and telephony jobs are being overtaken by technology and
+there are not many jobs that can be completed entirely by a vision-
+impaired person. Even the route I took to get from being a typist to
+being a relatively senior civil servant seems to have been overtaken by
+technology and is no longer open to youngsters - I was a computer
+programmer and am now an adviser on disability issues and
+technology."
+
+Our reader and regular correspondent Chris McMillan says: "As far
+back as the late 1960s when I left school, the Civil Service was a very
+acceptable way for the registered partially sighted to be employed. One
+or two of my friends went straight into it from school: one has just
+taken redundancy from the British Library. He was a clerk. Another
+friend went into the Tax Office as an audio typist, also in the early
+1970s.
+
+"Many blind and partially sighted people were able to get jobs then as
+typists or telephonists in big organisations in general. Today, with the
+use of the personal (human) reader and our accessible technology
+equipment, I see no reason why a visually impaired person shouldn't do
+these jobs."
+
+The story has a happy ending for Harish's friend in India as well: he
+has written in again himself to thank everyone for their encouraging
+responses and to say: "Good news from this side, as well. The supreme
+court has made a favourable judgement and subsequently the blind
+person has now joined the civil service."
+
+
++11: USABILITY QUESTION: Steve Bingham of the Inland Revenue
+(see previous item) also has a response to last issue's report on the
+newly-published Disability Rights Commission (DRC) research into
+web accessibility which has been a major talking point in the
+accessibility community.
+
+"I read with interest the reports on the DRC's research. I found myself
+wondering if there was a difference in what WAI [the international
+Web Accessibility Initiative] and the DRC were talking about. The
+WAI standards are about accessibility while it sounded to me as if the
+DRC research was more about usability.
+
+"There is a difference. For example I recently reviewed a set of screens
+for use by people working in a government call centre. The screens
+were reasonably accessible. All the links had alternative texts and all
+the fields had title texts but the screens were still largely unusable by a
+sight-impaired person using a screen reader because most of them had
+over 100 fields on them. It would be too long a process to find
+appropriate fields and complete them while trying to deal with a
+member of the public on a telephone.
+
+"This is an extreme example, but I have come across many sites that
+are reasonably accessible but they become unusable because of the
+order in which information is given or requested or because there are
+just too many links for the relevant data to be found easily."
+
+
++12: TIRESIAS FONT: Sylvie Perera of the RNIB Scientific Research
+Unit has a little more information on Tiresias LPfont which has been
+the subject of recent discussion about accessible typefaces. "Tiresias
+LPfont is part of the family of typefaces that have been designed for
+legibility. LPfont is specifically designed for text in a large print
+publication for people with low vision. For other applications such as
+computer displays, PCfont is more appropriate. The research that went
+into developing these typefaces is also available. For more information
+or to order the typefaces, see:
+http://www.tiresias.org/fonts .
+
+[Section two ends].
+
+
+++SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+SECTION THREE: OPINION
+- MULTIMEDIA.
+
++13: RADIO PRESENTERS HAVE MORE FUN
+by Kevin Carey .
+
+The more I think about it, the more I cannot help concluding that the
+most important finding of the recently-published Disability Rights
+Commission research on web accessibility
+(http://www.drc-gb.org/publicationsandreports/report.asp), as it affects
+blind people, is
+the finding that they only completed 55 per cent of set tasks as opposed
+to the disability average of 76 per cent. Even on well-designed,
+accessible sites, blind users were three times as slow as sighted peers.
+
+There is bound to be some argument about the extent to which this
+poor performance can be improved by better applications and better
+user interface design but as pigs will fly before the technology will be
+sufficiently improved, such arguments are academic niceties.
+
+What this means is that although blind people will need IT skills for
+education, employment and leisure - as means to an end - they will
+rarely be good enough in overcoming systems design problems to
+secure employment in IT per se. The days when the words 'blind' and
+'computer programmer' went together like Morecambe and Wise were
+brief and are long gone. Furthermore, two areas where blind people of
+modest talent have performed reasonably well are fast disappearing:
+the presence of a graceful and efficient personal assistant is giving way
+to the horrible sight of company chief executives typing their own
+memos with two fingers; and machine processing is replacing a host of
+jobs, largely text-based, which used to require simple IT skills.
+
+Conversely, however, the explosion in all forms of broadcasting and
+multimedia publishing opens up vast new areas of opportunity for
+production and presentation by people with impaired vision. VIP ON
+AIR (http://www.viponair.com), the community radio station operated
+from Glasgow by blind trainees, has grown into a self confident,
+professional outfit in a matter of months and I have no doubt that some
+of them will be welcomed by mainstream broadcasters in due course.
+Community radio might also allow us to experiment with employment
+models such as the social firm.
+
+If we are going to take advantage of this new set of opportunities we
+need to rid ourselves of two stereotypes. The first is that all half-bright
+blind people are computer wizards; they are not. Just because you have
+a rucksack full of the latest gadgets doesn't mean you are much good
+compared with your sighted peers. The second is that broadcasting can
+only be successfully carried out by major organisations like the BBC
+and that you need a university degree in Classics to gain employment
+at such places. Radio can and should be cheap and cheerful and not
+over-cooked.
+
+In starting off by broadcasting over the internet VIP ON AIR is giving
+itself the chance to iron out presentation wrinkles and find its own
+voice before graduating to other broadcasting media. It should also
+soon be flattered by the creation of countless imitations and variants.
+As I have worked in both fields I can personally attest that radio is
+much more fun than computing which, in our sector, might just be a bit
+of a drawback!
+
+[Section three ends].
+
+
+++SECTION FOUR: SEMINAR REPORT
+- ACCESSIBLE E-GOVERNMENT.
+
++14: CULTURE OF ACCESSIBILITY
+by Julie Hill.
+
+Cultural change is one of the biggest challenges facing public sector
+bodies as they strive to make their e-government services accessible to
+people with disabilities, according to many of the speakers and
+delegates at E-Government Bulletin's March seminar 'E-Government
+for all: planning for accessibility'
+(http://www.electronic-government.com/access.htm).
+
+Despite legal and moral requirements for public service providers to
+make web sites accessible to all regardless of ability, many
+organisations are still struggling to instil the importance of accessible
+services among management and staff, according to one local authority
+delegate.
+
+"My authority has produced clear content and communications
+standards for accessibility, but it can be difficult to get staff buy-in,"
+the delegate told an interactive question-and-answer session. "With the
+day-to-day pressures of work and the practical issues around getting
+web content up quickly, things sometimes fall apart."
+
+It is crucial for public bodies to obtain buy-in for accessibility from the
+highest level of the organisation, she said. But this can be difficult
+when managers think that technical staff can "wave a magic wand" to
+make services accessible, as a second delegate put it, without a real
+understanding of what accessibility involves and the need for training
+across the organisation. Training is becoming even more important as
+public bodies increasingly move towards multiple content contributors
+for their web sites, he said.
+
+Laura van Weyenbergh, e-communications officer at Rushcliffe
+Borough Council (http://www.rushcliffe.gov.uk), agreed that
+communication with staff was the key. "It is crucial to do the
+groundwork to ensure that web site contributors understand their role
+in accessibility," she said. "We have tried to encourage staff to view
+accessibility as the norm rather than extra work, but admittedly this has
+been difficult."
+
+Access to the right skills and knowledge about accessibility is another
+problem for government bodies. Often they don't have the requisite
+skills in-house, but equally they can't always rely on the expertise of
+their IT suppliers or the web developer community, delegates heard.
+
+One problem is that a confusing array of so-called accessibility
+'standards' can be difficult for non-specialist organisations to evaluate,
+said Tom Adams, senior digital media consultant at the Office of the e-
+Envoy (OeE - http://www.e-envoy.gov.uk). "Although the World Wide
+Web Consortium's Web Accessibility Initiative guidelines
+[http://www.w3.org/WAI] have become the de facto international
+standard for accessibility, they were only ever intended as guidelines
+and as such are open to interpretation," he said. While the OeE has
+produced its own guidelines on accessibility
+(http://www.e-envoy.gov.uk/webguidelines.htm), based on standards
+such as e-GIF and the WAI guidelines, he admitted that "we, like
+everyone else, are slow in adopting and adhering to the guidelines."
+
+Automated software tools that check web accessibility, such as the
+well-known Watchfire Bobby (http://bobby.watchfire.com), can
+provide some guidance for government bodies, but are of limited
+value, according to one delegate. In particular, it is only by testing sites
+with users that government bodies can guarantee that their services are
+not only technically accessible - capable of being used with assistive
+technologies, such as screen readers - but usable.
+
+However, delegates highlighted the difficulties of engaging with user
+communities to get help in testing. "Although we advertised to get
+input from web users, it was difficult to get their response," said van
+Weyenbergh. "In the end, we didn't get much input from the local
+community."
+
+Even if they do manage to get feedback from the public, how can
+government bodies and their suppliers measure the outcomes of user
+testing, asked Ian Franklin, human factors consultant for technology
+supplier EDS. Are there metrics available to help with this?
+
+This question sparked a debate among experts about the nature of
+usability. Guido Gybels, director of new technologies at the Royal
+National Institute for Deaf People (http://www.rnid.org.uk), and the
+OeE's Adams agreed that usability was a largely subjective issue,
+dependent on the user's skills, experience and background. However,
+Helen Petrie, professor of human computer interaction design at City
+University (http://www.city.ac.uk), said that her research has shown
+that there will always be a common core of key outcomes across all
+tests by all user groups, however diverse.
+
+The question for service providers, said Petrie, is at which point they
+are happy that their accessibility efforts are sufficient. Is it once 90 or
+95 per cent of people can access their site, for example? Adams agreed
+that 100 per cent accessibility is an unachievable goal, because there
+will always be someone who cannot access your site because they are
+using a very unusual web browser, for example. The important thing
+for local authorities, he said, is to be able to show that they have taken
+all reasonable steps possible to make their site as accessible as
+possible.
+
+This work will pay off for all users, said Petrie. "If your organisation
+conducts testing with people with print disabilities, it will pick up
+problems that are common to all users. The result will be an exemplary
+site for everyone," she said.
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

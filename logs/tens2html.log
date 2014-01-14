@@ -1,0 +1,36 @@
+__ BUILD [tens2html.pl  v1.11] log Sat Jul 10 14:37:04 2004 __
+$#ARGV=0
+File: ../eab/issues/2003/jan2003.txt
+
+Warning: file already exists: ../eab/issues/2003/jan2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+>> FOUND 2:  | 01:  | EU expansion threatens anti-discrimination law
+>> FOUND 2:  | 02:  | Mass communications protest set for February
+>> FOUND 2:  | 03:  | Effectiveness doubts over e-government champion
+>> FOUND 2:  | 04:  | First graduates from access training course
+>> FOUND 2:  | 05:  | Writing competition winners online
+>> FOUND 1: News in brief:  |  06: Link up - sight loss quarterly; 07: ITCH awareness
+>> FOUND 2:  | 09:  | Shared vision - on information points; 10: Transatlantic viewing -
+>> FOUND 2: accessible TV nation?;  | 11:  | Job club - help needed; 12: Spanish
+OK, News in brief
+Found: Job club - help needed | ; |  12: Spanish
+Warning line 63: expected [Contents ends].
+$toc_count=14
+Warning: not found a 'contents' match: Eu Expansion Threatens Antilaw.
+Found 'contents' match: 1.
+Warning: not found a 'contents' match: Effectiveness Doubts Over Echampion.
+Found 'contents' match: 3.
+Found 'contents' match: 4.
+Warning: not title-casing possible HTML:
+  SECTION TWO: 'THE INBOX'- READERS' FORUM.
+- Please email all contributions or responses to <a href="mailto:inbox@headstar.com">inbox@headstar.com</a> .
+Warning: not title-casing possible HTML:
+  A COMPLEX WEB OF SUPPORTby Phil Cain  <a href="mailto:phil@headstar.com">phil@headstar.com</a> .
+Warning: not found a 'contents' match: A COMPLEX WEB OF SUPPORTby Phil Cain  <a href="mailto:phil@headstar.com">phil@headstar.com</a> .
+Warning: not title-casing possible HTML:
+  RETURN TO THE BAD OLD DAYSby Dan Jellinek  <a href="mailto:dan@headstar.com">dan@headstar.com</a> .
+Warning: not found a 'contents' match: RETURN TO THE BAD OLD DAYSby Dan Jellinek  <a href="mailto:dan@headstar.com">dan@headstar.com</a> .
+Warning: not title-casing possible HTML:
+  SEEKING OUT THE COMMON GROUNDby Kevin Carey  <a href="mailto:humanity@atlas.org.uk">humanity@atlas.org.uk</a> .
+Warning: not found a 'contents' match: SEEKING OUT THE COMMON GROUNDby Kevin Carey  <a href="mailto:humanity@atlas.org.uk">humanity@atlas.org.uk</a> .
+Warning: not found a 'contents' match: How To Receive This Bulletin

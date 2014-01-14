@@ -1,0 +1,726 @@
+E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site:
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute 
+for the Blind
+<http://www.rnib.org.uk>
+the National Library for the Blind
+<http://www.nlbuk.org>
+and the Guide Dogs for the Blind 
+Association
+<http://www.guidedogs.org.uk>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts]
+
+ISSUE 12, DECEMBER 2000.
+
+IN THIS ISSUE:
+Section One: News.
+- 'Internet-ready car' is accessibility spin-
+off; Certification for access technology 
+trainers; Grabbing web pages over the 
+phone; Calling all UpStarts; Braille Voyager 
+breaks new ground; Microsoft and Pulse 
+Data collaborate.
+
+Section Two: Conference Report
+- Techshare.
+
+Section Three: Case Study
+- 'LOOK'.
+
+Section Four: Online Learning
+- The 'JOB' Project.
+
+[Contents ends.]
+
+
+SECTION ONE - NEWS.
+
+'INTERNET-READY CAR' IS 
+ACCESSIBILITY SPIN-OFF.
+
+Text-to-speech technology developed to help 
+blind people access the Internet is behind an 
+innovative new device for sighted people - 
+an 'Internet-ready car' that allows drivers to 
+access the net. The move highlights what 
+advocates of inclusive design have been 
+saying for years – that simple, accessible 
+technology benefits everyone, not just 
+people with visual or other impairments.
+
+The prototype 'Bunnymobile' has been 
+developed by web usability specialists 
+Bunnyfoot. It is a 1999 Volkswagen New 
+Beetle convertible, fitted with a notebook 
+computer and a GSM mobile phone. An 
+Internet connection is made using software 
+developed by Bunnyfoot to emulate the main 
+types of speech browser already used by 
+blind people to surf the Internet.
+
+The result allows drivers to listen to 
+information online while keeping their eyes 
+on the road. Dr Jon Dodd, Technical 
+Director at Bunnyfoot said: "When web sites 
+are designed to be usable by blind people 
+they also work in 'eyes busy' situations, 
+such as driving a car. We found that web 
+sites which have been designed following 
+accessible web design guidelines worked 
+really well in our web-enabled car, but sites 
+which did not follow these guidelines could 
+not be heard."
+
+Julie Howell, RNIB's Accessible Internet 
+Campaigns Officer, was one of the first 
+people to go for a spin in the Bunnymobile. 
+"When Bunnyfoot contacted me, I wondered 
+how technology used by blind people would 
+help people driving cars! But I was able to 
+hear gardening tips from Bob Flowerdew on 
+the BBC Online site and listened to the latest 
+financial news on ft.com without taking my 
+eyes off the road. I could even pick up my 
+email."
+
+For more information visit:
+http://www.bunnyfoot.com/
+
+
+CERTIFICATION FOR ACCESS 
+TECHNOLOGY TRAINERS.
+
+A new certification scheme for people who 
+train others to use access technology is to be 
+piloted in January by the British Computer 
+Association of the Blind (BCAB).
+
+Steve Plumpton of BCAB told the RNIB's 
+'Techshare' technology access conference 
+earlier this month that the association has 
+received many calls from people 
+complaining about access technology advice 
+and training.
+
+The BCAB Trainer Certification Scheme is 
+an attempt to raise standards in this area 
+using a three-part test for trainers comprised 
+of a delivery skills refresher course lasting 3-
+5 days; written coursework; and a product 
+competency test. Separate tests will have to 
+be passed for each piece of access 
+technology for which the trainer wishes to be 
+certified.
+
+As products are updated, new courses and 
+certificates will be created, Plumpton said. It 
+is also important that the scheme is 
+promoted not only to the trainers but to the 
+customers themselves, he said, so they are 
+aware that there is a required standard for 
+their training. 
+
+A second pilot will be run in March, and it is 
+hoped that the course will go live around 
+Easter time. Further information about the 
+scheme will appear in January at the BCAB 
+web site:
+http://www.bcab.org.uk/
+
+* See also Techshare conference report, 
+Section Two, this issue.
+
+
+GRABBING WEB PAGES OVER THE 
+PHONE.
+
+The UK's first comprehensive phone-
+activated voice internet service, 
+BrowseByPhone, was launched this month 
+by UK-based wireless Internet specialists 
+Waperture (http://www.waperture.com).
+
+BrowseByPhone allows telephone users to 
+access Internet content by voice and a 
+telephone keypad. The launch service – 
+called GataGrab - lets people use the 
+BrowseByPhone website to tell the system 
+which pages on the web they are interested 
+in. At any time thereafter they can dial an 
+access number, key in a 'grab code', and 
+hear the page they are interested in being 
+read back to them, live off the Internet.
+
+Waperture says it is keen to investigate 
+further applications for the visually 
+impaired. Once the service is established in 
+the UK, the company wants to expand into 
+the US and Europe, and plans to release a 
+number of different voice services including 
+conventional portal services such as sports, 
+news and weather, and the ability for users 
+to build their own voice sites and services.
+
+The service uses 'SpeecHTML' technology 
+from Vocalis. Many UK Internet Service 
+Providers already use Vocalis 'SpeechMail' 
+technology (http://www.speechmail.co.uk) 
+to allow people to listen to their email 
+messages, reply and delete them using 
+spoken messages over the phone (see E-
+Access Bulletin, May 2000).
+
+The BrowseByPhone service can be 
+accessed via the Internet from 
+http://www.wapgata.com or 
+http://www.browsebyphone.com
+
+However, when E-Access Bulletin tried to 
+test it some gremlins were evident. Dialling 
+the test number produced the message: 
+'Welcome to GataGrab at BrowseByPhone. 
+Please enter the Grab Code for the page you 
+want to access or press zero for the main 
+browse portal'. When a zero was keyed, the 
+same message was played, ad infinitum.
+
+
+CALLING ALL UPSTARTS.
+
+Budding social entrepreneurs are being 
+invited to bid for a pot of 50,000 UK Pounds 
+to help launch up to three projects designed 
+to help a local community, in the first 
+'UpStart Awards'.
+
+The awards are being hosted by New 
+Statesman magazine, with sponsorship from 
+Centrica plc and further input from UNLTD, 
+the first UK foundation for social 
+entrepreneurs (http://www.unltd.org.uk).
+
+Those accepting an award must be prepared 
+to commit to their project full-time. The 
+entry period runs to May 2001, and details 
+can be found at the BOBBY-compliant 
+UpStart web site:
+http://www.upstarts.org.uk
+
+The site will also act as an ongoing 
+information resource for social 
+entrepreneurs.
+
+
+BRAILLE VOYAGER BREAKS NEW 
+GROUND.
+
+A new refreshable Braille computer display 
+from German group Tieman claims to 
+innovate in a number of ways.
+
+It is extremely lightweight (1.2 kg), and 
+connects to a computer via the USB 
+(Universal Serial Bus) port, from which it 
+also takes its power. Low power Braille cells 
+use just 5 per cent of a laptop computer's 
+battery output.
+
+The display can also be used to pass 
+commands back to the computer, controlling 
+mainstream software applications over the 
+Braille display. A further piece of 'Tiemans 
+Express' software allows the construction of 
+sequences of commands, or 'macros', that 
+can be run with a single keystroke.
+
+The Braille Voyager's UK distributor is 
+Concept Systems. See:
+http://www.conceptsystems.net/
+
+
+MICROSOFT AND PULSEDATA 
+COLLABORATE.
+
+Microsoft and Pulse Data International have 
+announced their collaboration to develop an 
+e-book reader for the blind and visually 
+impaired.
+
+Microsoft Reader software will be integrated 
+with Pulse Data's BrailleNote family of 
+screenless personal data assistants that offer 
+feedback through speech and electronic 
+Braille (http://www.braillenote.com/).
+
+To read an electronic book with BrailleNote, 
+users will need to download an e-Book title 
+from an online distributor to their 
+BrailleNote device, then open the file. They 
+will have the option to listen to the speech 
+version of the e-Book or read the electronic 
+Braille display.
+
+Pulse Data's web site is at:
+http://www.pulsedata.com/
+
+[Section One ends]
+
+SECTION TWO: CONFERENCE REPORT
+- TECHSHARE.
+
+TALKING BOOKS SET TO ENTER THE 
+MAINSTREAM.
+
+Talking books are about to enter the 
+mainstream, delegates heard at the RNIB's 
+recent 'Techshare' conference on how 
+technology can help blind and partially 
+sighted people in everyday situations like 
+shopping, banking and in the workplace.
+
+Peter Osborne, UK Network and 
+International Development Manager at the 
+RNIB, said the new 'Open eBook' standard 
+for digital talking books 
+(http://www.openebook.org) includes 
+accessible multimedia data (see also E-
+Access Bulletin, July and September issues).
+
+This standard has grown out of various 
+others including the DAISY standard. There 
+are various portable hardware readers that 
+are available to read this data.
+
+Digital books are faster and cheaper to 
+access than printed material. They are also 
+searchable, portable and include active 
+information by using hyperlinks.
+
+John Worsfold of Dolphin Computer Access 
+said it was important that a single standard 
+should emerge for eBooks, and he hoped 
+Open eBook would become that standard, 
+since it has already been adopted for current 
+or future use by more than 150 publishers.
+
+He said eBook users could not only access 
+the content they want but even add 
+information such as audio or text notes. 
+Another key feature of eBooks is that the 
+voice that reads it is not a synthesised voice, 
+Worsfold said.
+
+But there are some potential problems that 
+can be identified as well. These include 
+copyright protection, file format issues, 
+accessibility, usability and a problem with 
+small screens on some hand-held devices.
+
+There are tools available to create eBooks 
+from various formats. For example, 'TIPS' 
+software can take analogue recordings and 
+create a structured eBook; 'WIPS' can 
+change digital WAV files into an eBook; and 
+'TOPS' can change eBooks into analogue 
+recordings.
+
+This variety means there will become a 
+blurring between media and users will be 
+able to get precisely what they want through 
+mainstream publishers, Worsfold said. 
+
+The conference also heard of a similar 
+flexibility in publishing media which can 
+arise from the use of the 'meta-language' 
+XML (Extensible Markup Language).
+
+Dave Pawson, Business Process 
+Improvement Facilitator at the RNIB, said 
+XML is a way of describing document or 
+application content so it can be used across a 
+range of delivery platforms like the web, 
+mobile telephony and digital TV. XML can 
+include digital signature information so the 
+user can be sure the information is secure 
+and is from the right source.
+
+Pawson said that in the RNIB's Technical 
+Consumer Services Division there are 
+currently 10 magazines being produced in 
+five media. So it seemed sensible to create 
+them in XML, and then use transformation 
+tools to export them into the other formats.
+
+This process was tested initially using the 
+departmental monthly briefing that goes out 
+as Braille, HTML and print. The trials have 
+been useful, although a few problems 
+remain, namely: XML has a steeper learning 
+curve than HTML; Word 2000 does not 
+export good XML; and approximately 5% 
+intervention is still needed to complete a 
+document in a specific new format after 
+exporting it from XML.
+
+Also on the agenda at Techshare was how 
+technology is assisting blind and partially 
+sighted people to travel within and use the 
+built environment.
+
+A number of projects within the RNIB's 
+Joint Mobility Unit have combined design 
+advice and the introduction of assistive 
+technology to help blind and partially 
+sighted people. Projects have combined the 
+use of colour contrast, good design practice 
+and tactile, audible and visual signage.
+
+Gill Whitney, Principal Researcher at the 
+RNIB's Join Mobility Unit, spoke about 
+way-finding aids – remotely-triggered 
+speaking signs - for those people who cannot 
+use a cane or a guide dog. There are 
+currently two main types of these aids, RNIB 
+React and Infravoice. 
+
+RNIB React is a wall-mounted unit triggered 
+by a credit-card sized radio transmitter or 
+'module'. It can detect ambient noise and 
+increase the sound level when required to 
+combat it, for example when a train comes 
+into a platform.
+
+It is possible to input up to eight different 
+messages into the unit, and these can be in 
+different languages as well. After 
+installation, the messages and configuration 
+of the unit can be modified by plugging a 
+laptop computer into it.
+
+RNIB React units cost £1,300 each, and the 
+modules cost £25, although the latter are 
+usually distributed free of charge or loaned 
+out. Some shops purchase their own units, so 
+users are aware of the entrance to their shop. 
+The system has been installed in Leeds City 
+Centre and Golders Green High Street and 
+Bus Station in London.
+
+The Infravoice system operates by 
+transmitting an infrared signal. It is a unit 
+that has infrared beams pointed in four 
+directions. This can be stand-mounted or 
+mounted in a dome-shaped unit on the 
+ceiling, looking rather like a CCTV unit. Its 
+configuration can be changed in much the 
+same way as the React system, using a 
+laptop.
+
+The Infravoice unit costs £690 and the 
+receiver £230. Units have been installed in 
+various shopping centres including 
+Kingfisher, Bluewater, Cribbs Causeway, 
+Touchwood and Chimes, and the receivers 
+are loaned out through shopmobility.
+
+* Report by Sally Cain, Technology 
+Information Officer, RNIB. In our next 
+issue, we will carry a further in-depth report 
+from the Techshare Conference on issues 
+surrounding access to technology by 
+deafblind people.
+
+[Section two ends]
+
+
+SECTION THREE: CASE STUDY
+- 'LOOK'.
+
+YOUNG PEOPLE AT THE HEART OF 
+FAMILY SUPPORT.
+
+The National Federation of Families with 
+Visually Impaired Children, more usually 
+known under its snappier title of 'LOOK', is 
+placing the web at the heart of its family 
+support activities following the success of its 
+first, volunteer-built site.
+
+LOOK provides information and support to 
+families with visually impaired children. It 
+already has 35 regional support groups in the 
+UK, but intends to set up many more to 
+achieve its aim of better support and 
+awareness for affected families nationwide.
+
+The centre of the organisation helps the 
+regional groups fund-raise and train 
+volunteers, as well as providing legal advice 
+through a network of links to top education 
+lawyers. The charity links newcomers to 
+other families with similar problems, and 
+also helps set up Specific Eye Disorder 
+groups.
+
+The LOOK web site was initially created in 
+March 2000. At first it consisted merely of 
+an online version of its quarterly newsletter, 
+as an experiment to see if a full-blown site 
+would be well received.
+
+Then along came Gareth Wait, a volunteer 
+with two partially sighted children, both of 
+whom have been helped by LOOK. By way 
+of thanks, he offered to use his Internet skills 
+to design and build a fully accessible site, 
+and he is now the organisation's webmaster.
+
+"Before he made contact with us, Gareth had 
+had some rather dire experiences with the 
+specialists at his local hospital, where he was 
+being fed medical babble", says LOOK 
+Development Director Jennifer Bowen. "As 
+he was an old-hand at all things webby, he 
+did not find it too difficult to pinpoint the 
+information he required on the net. He then 
+decided to simplify the process of finding 
+information on vision-related topics.
+
+"The LOOK site became more of a resource, 
+and, while still very much in its infancy, the 
+reception for it has been terrific. We are 
+currently working on a huge new links 
+section, with all sites fully described and 
+categorised."
+
+The charity regards its web operation is a 
+key part of its new focus 
+
+Last year a 'Youth LOOK' Project was 
+created after young people complained that 
+the organisation needed a stronger youth 
+presence. "We want them to be at the centre 
+of the organisation," says Ms Bowen. "We 
+aim to train a core of 'older' young people to 
+lead weekends and forums, and would 
+eventually like the whole charity to be run 
+by them and their families."
+
+This year, the organisation has also led the 
+development of the first national user-led 
+research programme into the effects of visual 
+impairment on children and their families. In 
+a major new study, a team of researchers are 
+looking at the effects of the disability on the 
+child and family, and the type and amount of 
+support families receive from health and 
+educational services. They will also talk to 
+professionals about issues of access, policy 
+and funding.
+
+LOOK Development Director Jennifer 
+Bowen says: "Many of us have had to 
+struggle with doctors who ignore us, 
+teachers who assume visually-impaired 
+children's abilities are limited and social 
+workers who have no idea what help is 
+available. And however knowledgeable 
+professionals are in health, education or 
+social care, it is the way they work together 
+and with families that will shape the 
+effectiveness of their care and the quality of 
+people's lives."
+
+LOOK wants its Internet activities to sit 
+alongside its youth work, keeping all 
+interested parties abreast of developments. In 
+particular an email list has been set up using 
+the free 'Listbot' service so anyone can enter 
+their email address, hit the button and 
+register to be kept informed of developments 
+by email.
+
+In the longer term, the charity wants to spin 
+off the 'Youth LOOK' section of its web site 
+into an entire sub-site in its own right, with 
+online services and information aimed at 
+children and young people.
+
+The LOOK site is at:
+http://www.look-uk.org/
+
+[Section three ends]
+
+
+SECTION FOUR: ONLINE LEARNING
+- THE 'JOB' PROJECT.
+
+CONSORTIUM SEEKS FUNDING FOR 
+NEW 'VIRTUAL COLLEGE'.
+
+A consortium of UK academic and voluntary 
+bodies is seeking European funding to 
+expand a virtual learning and mentoring 
+project to help blind and visually impaired 
+people gain employment.
+
+The consortium – led by Learn Net, an 
+online training organisation – has already 
+completed the first phase of its 'JOB' 
+project, which assisted physically disabled 
+people. Although it was originally intended 
+to include blind people in this work from the 
+outset, it proved too expensive to make the 
+'virtual college' software interface fully 
+accessible as part of phase one. 
+
+JOB was funded under a European 
+employment programme for disadvantaged 
+groups known as GATE, but this has now 
+been replaced by a new programme dubbed 
+EQUAL which has a slightly broader focus. 
+The consortium are therefore looking at 
+other possibilities for European funding such 
+as the LEONARDO training programme, for 
+which the next round of bids are due in 
+January 2001.
+
+The new project will retain the essentials of 
+JOB, which allowed people to link from 
+their homes via a personal computer to a 
+'virtual college' complete with tutors and 
+online mentors.
+
+Learn Net tutor Ruth Garner says: "Access 
+to a learning environment is often 
+problematic for people with disabilities - 
+crowds and communal areas may be off-
+putting for many. Fluctuations in mental or 
+physical health mean that people may miss 
+classes, disrupted learning may lead to a 
+person with disabilities dropping out and not 
+achieving their goals.
+
+"Attendance at a virtual college means 
+students can take as long as they want to 
+contribute to discussions - often more 
+effectively, as time enables a more 
+considered response. Thus people experience 
+real freedom within a virtual college because 
+they are not being physically observed. 
+There is more equality of opportunity than in 
+a physical classroom."
+
+Blind people stand to benefit a lot from 
+inclusion in the second phase project, Garner 
+says: "We did have one user in the first 
+phase who was partially sighted, and she 
+enjoyed the experience because she could 
+mix with the other students freely online and 
+nobody knew she couldn't see".
+
+The JOB project started in January 1998. 
+People who were recruited for JOB were 
+loaned a computer, onto which was installed 
+a virtual college interface with a study area, 
+library, common room and evaluation room.
+
+Virtual mentors were an important part of 
+the programme. They 'sat' in the virtual 
+common room (from which tutors and 
+managers were excluded) and informally 
+mixed with the learners to pick up issues and 
+offer support, either within the group or 
+individually through email. This meant 
+issues could be picked up early and tackled 
+before they became insurmountable. In 
+addition, when a face-to-face meeting was 
+needed by the learner, a mentor was sent out 
+to work with them in their own home.
+
+"'We originally decided that mentors were 
+important because working remotely was 
+potentially isolating for the learner", Ms 
+Garner says. "What really happened though 
+was that learners were not isolated at all, 
+because they could make contact with others 
+when they wanted to, 24-hours a day.
+
+"Another concern was that we would be 
+isolating people with disabilities, but what 
+we found was that people had more contact 
+with others than they had before the started 
+the course. They really enjoyed meeting 
+other people through the computer."
+
+Over the 15 week period, learners worked in 
+groups of approximately 10 people. Each 
+week an activity was set by the tutor and 
+learners were asked to discuss this between 
+them. The virtual college allowed people to 
+work when they wanted to while still being 
+able to join in a threaded bulletin board 
+discussion. 
+
+Garner says Learn-Net is seeking new 
+partners to take its work forward, and would 
+be keen to hear from any group in the visual 
+impairment community which might be able 
+to offer funding or other assistance to help 
+develop the next phase of the virtual college 
+work. Interested parties can contact her on 
+Ruth.Garner@learn-net.co.uk
+
+And there is more information on the JOB 
+programme at:
+http://www.learn-net.co.uk/JOB.htm
+NB: You need the capital letters in 
+'JOB.htm' at the end of this web address.
+
+[Section four ends]
+
+HOW TO RECEIVE THIS BULLETIN
+
+To subscribe to this free monthly bulletin, e-
+mail eab-subs@headstar.com with 'subscribe 
+eab' in the subject header. You can list other 
+email addresses to subscribe in the body of 
+the message. Please encourage all your 
+colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe 
+eab' in the subject header.
+
+Please send comments on coverage or leads 
+to Dan Jellinek at: dan@headstar.com
+
+Copyright 2000 Headstar Ltd. 
+http://www.headstar.com The Bulletin may 
+be reproduced in full as long as all parts 
+including this copyright notice are included. 
+Sections of the report may be quoted as long 
+as they are clearly sourced as 'taken from e-
+access bulletin, a free monthly email 
+newsletter', and our web site address 
+http://www.e-accessibility.com is also cited.
+
+[Issue ends]
+National Helpline: 0800 269545  e-
+mail:enquiries@abilitynet.co.uk 
+http://www.abilitynet.co.uk  
+PO Box94  Warwick  CV34 5WS Tel:  
+01926 312847  Fax: 01926 407425

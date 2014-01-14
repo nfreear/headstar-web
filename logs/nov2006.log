@@ -1,0 +1,59 @@
+__ BUILD [tens2html.pl  v1.14] log Mon Dec  4 14:14:22 2006 __
+
+Input file: ../eab/issues/2006/nov2006.txt
+
+Warning: file already exists: ../eab/issues/2006/nov2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: nov | index: 11 | year: 2006
+URLs, prev: ../2006/oct2006.html | next: ../2006/dec2006.html
+Found ++, heading 2: Issue 83 Contents.
+>> FOUND 2:  | 01:  | Boost For Fans Of Bestselling Fiction
+>> FOUND 2:  | 02:  | Experts To Provide Remote Help For Computer Users
+>> FOUND 2:  | 03:  | Public Sector Needs Improved Guidance On Web Accessibility
+>> FOUND 2:  | 04:  | BBC Blog On Second Generation Web Accessibility Goes Live
+>> FOUND 2: News in Brief:  | 05:  | Universal Vision - accessible DVDs; 06: Access
+OK, News in brief
+Found: Universal Vision - accessible DVDs | ; |  06: Access
+>> FOUND 2: Course - e-learning consortium set up;  | 07:  | Word Up - online Boggle
+Found: Course - e-learning consortium set up;  | 07:  | Word Up - online Boggle
+>> FOUND 2:  | 08:  | Rich Pickings - WAI guidance clarified; 09: Open Invitation -
+>> FOUND 2: open source screen reader response;  | 10:  | Testing Times - computing
+Found: open source screen reader response;  | 10:  | Testing Times - computing
+>> FOUND 2: accreditation hurdles;  | 11:  | Description Experience - audio described
+Found: accreditation hurdles;  | 11:  | Description Experience - audio described
+>> FOUND 2:  | 12:  | Crossing Boundaries: Amar Latif tells Mel Poluck how he uses
+>> FOUND 2:  | 13:  | The Future Of Accessible Banking: At the recent annual
+Warning line 64: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: Sponsored Notice: BT Age and Disability Action Team
+> ITEM 2:  01:  | Boost For Fans Of Bestselling Fiction.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Experts To Provide Remote Help For Computer Users.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Public Sector Needs Improved Guidance On Web Accessibility.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | BBC Blog On Second Generation Web Accessibility Goes Live.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  DVDs containing accessible navigation and
+> ITEM 1:  06:  | : |  Improvement of the accessibility of e-learning
+> ITEM 1:  07:  | : |  A free, accessible word game based on the popular
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 278.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 287.
+> ITEM 1:  08:  | : |  Rich Caloggero, adaptive technology consultant at
+> ITEM 1:  09:  | : |  Jon Gibbins, who runs UK web design company
+> ITEM 1:  10:  | : |  Claire Cheskin writes in about her experiences
+> ITEM 1:  11:  | : |  Steve Cutway, an Information Access
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  12:  | Crossing Boundaries
+Warning: not found a 'contents' match: Crossing Boundariesby Mel Poluck.
+Found ++, heading 2: Section Four: Conference Report
+> ITEM 2:  13:  | The Future Of Accessible Banking
+Warning: not found a 'contents' match: The Future Of Accessible Bankingby Derek Parkinson.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 600.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 606.

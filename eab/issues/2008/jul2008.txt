@@ -1,0 +1,569 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 103, July 2008.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 103 Contents.
+
+01: British Standard for Web Access 'Aimed At Marketers'
+- Guidelines to offer non-technical help to retailers and corporations.
+
+02: Charity Launches Manifesto for Digital Inclusion
+- Advice on how to reach society's 'struggling seventh'.
+
+03: Disability Body Blasts EU anti-discrimination draft
+- Proposed directive fails to push accessibility standards.
+
+News in Brief: 04: Inclusive toolkit - international resource; 05: Social
+Fix - web access tool; 06: Employer's Erratum - correction from last
+issue.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: CAPTCHA Continues - anti-spam tools debate; 08: Tag Precision -
+web image attributes; 09: VoiceOver Buddies - Apple advice sought.
+
+Section Three: News Focus - Public Sector Web Accessibility
+Guidelines.
+10: Buried Sticks And Mixed Messages: The government has
+published guidelines on accessibility of public sector websites, which
+toughen up requirements to 'AA' level. But how easy are the new rules
+to understand, and what happens to bodies that disobey them? Dan
+Jellinek reports.
+
+++Section Four: Opinion - Digital Inclusion Manifesto.
+11: Helping Hand For The 'Struggling Seventh': The consultancy
+humanITy has published a blueprint to help the most disadvantaged
+section of UK society gain more of the benefits of the information age.
+We publish an edited summary.
+
+[Contents ends].
+
+
+++Special Notice: Designing for all: an inclusive approach to web,
+print and electronic publishing
+- A practical, one-day training course and document clinic
+- Tuesday 16 September, Central London
+http://www.headstar-training.com/dfa/
+
+Trainer: Katie Grant, former publications manager, Disability Rights
+Commission.
+
+'Designing for all' is a practical seminar designed to introduce
+organisations to the importance of designing accessible, easy to read
+information for a range of different audiences including older people,
+people with disabilities and people for whom English is not their first
+language.
+
+It will help you assess current design and content of information -
+please bring examples to our document clinic - and follow an inclusive
+model to improve accessibility across your communications mix.
+
+The course will be of interest to anyone who is involved in the design
+and delivery of information in print, electronic and web formats
+including web content managers; content teams; marketing and
+communications officers; and publications staff. To book a place see:
+http://www.headstar-training.com/dfa/
+
+[Special Notice ends].
+
+
+++Section One: News.
+
++01: British Standard for Web Access 'Aimed At Marketers'.
+
+The forthcoming British Standard for accessible websites, BS8878, is
+to be aimed at marketing departments of major retailers and suppliers
+of consumer goods and services, it has emerged.
+
+At an open planning meeting hosted this week by the British Standards
+Institution (BSi -
+http://www.bsi-global.com ),
+the committee charged with producing the standard consulted a range
+of other academic and technical bodies to ensure the new work will not
+repeat or compete with other guidelines.
+
+Following the meeting, BSi technical committee chair Julie Howell
+told E-Access Bulletin that given the existence of other technical
+standards for web accessibility such as the international Web Content
+Accessibility Guidelines (WCAG), it had been decided to shift the
+focus towards the marketing departments and marketers at major
+retailers and suppliers of goods and services to consumers. There had
+not yet been a great deal of information on accessibility targeted at that
+audience, Howell said.
+
+"There was a strong feeling that we should produce the standard in a
+language that marketers can understand. So what we're doing will not
+be aimed at a technical level - we already have WCAG for that - but it
+will reference marketing techniques, since the marketing departments
+at major corporations are usually where the website budgets are."
+
+The standard will not be aimed at public sector bodies, Howell said,
+since they were already served by various guidelines including recent
+ones issued by the Central Office of Information (see E-Access
+Bulletin, June 2008 and Section Three, this issue). A first draft of
+BS8878 will be published by the end of August and released for public
+comment in September and October. Publication of the final standard
+is due for April 2009.
+
+
++02: Charity Launches Manifesto for Digital Inclusion.
+
+More help is needed to ensure the 'struggling seventh' - the most
+disadvantaged 15 per cent of UK society - are reached by the benefits
+of the information society, according to a 'Digital inclusion manifesto'
+published by specialist consultancy humanITy
+(http://www.humanity.org.uk).
+
+Contrary to expectation the so-called 'digital divide' has compounded
+exclusion among vulnerable groups, and while a lot of resources have
+been directed towards the improving the access of the 'final third',
+there is still more to be done for the most disadvantaged groups, the
+manifesto finds.
+
+The poorest people in UK society are understandably sceptical about
+the benefits that they receive from new technology, it says. The
+government is focusing on online service provision but more than 80%
+of government transactions are undertaken by people who do not own a
+home computer.
+
+The manifesto stresses the need for action across a range of technology
+platforms, from the home computer to mobile phones.
+
+Often the IT skills that are provided to disadvantaged people are ones
+at the bottom of the scale which are becoming unnecessary due to the
+progress of automation, the manifesto says. A change in curriculum is
+required to correct this.
+
+NOTE: For edited extracts from the manifesto see section four, this
+issue.
+
+
++03: Disability Body Blasts EU Anti-Discrimination Draft.
+
+A draft anti-discrimination directive from the European Commission
+has been criticised by a major disability lobby group for failing to
+cover technology accessibility standards.
+
+The commission's proposal, 'Non-discrimination and equal
+opportunities: a renewed commitment', deals with discrimination
+against people on the basis of disability, race, religion, gender or
+sexual orientation and covers non-employment areas such as education,
+social security and health care (see http://fastlink.headstar.com/eur8).
+
+In a statement European disability Forum (EDF) President Yannis
+Vardakastanis said the draft directive omits "important issues for
+persons with disabilities as the concept of universal design, the
+necessity of European and national accessibility standards and the right
+to services ensuring inclusion."
+
+In addition the document "leaves room for interpretation and will
+create legal uncertainties", Vardakastanis said (see
+http://fastlink.headstar.com/edf2 ).
+
+The EDF was created in 1996 to give a voice in the European Union to
+Europe's 50 million disabled people (
+http://www.edf-feph.org ).
+
+
+++ News in Brief:
+
++04: Inclusive Toolkit: An online toolkit for producing policies
+promoting ICT accessibility has been launched by the Global Initiative
+for Inclusive ICTs (G3ict) and the International Telecommunication
+Union (ITU). The resource will serve as a repository of policies and
+strategies and a platform for sharing experiences:
+http://fastlink.headstar.com/itu2 .
+
++05: Social Fix: A service allowing blind users of screenreaders to
+report problems they encounter on web pages has been unveiled by
+IBM. The Social Accessibility Project is a collaborative system that
+allows visually impaired users to highlight web page faults such as
+missing metadata, using a shortcut key command. The system logs the
+reports on a central server and alerts sighted users known as
+'supporters' who can then investigate the issue and help correct it for
+future users. A short video explaining the process is available at:
+http://fastlink.headstar.com/social1 .
+And the pilot software is at:
+http://services.alphaworks.ibm.com/socialaccessibility/ .
+
++06: Employer's Erratum: In our last issue we incorrectly quoted the
+Employer's Forum on Disability as saying financial services company
+Legal and General reported an increase in online sales of £90,000 by
+making their website more accessible. In fact the firm reported a 90%
+increase in online sales by making the improvements. We apologise for
+this slip.
+
+[Section One ends].
+
+
+++Sponsored Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: CAPTCHA Continues: Discussion has continued on our E-Access
+Bulletin Live blog about the use of inaccessible 'CAPTCHA' anti-
+spam tools by some websites, following our recent feature on the five
+most common web accessibility errors by Robin Christopherson of
+Abilitynet (see E-Access Bulletin, April 2008).
+
+Tedd Sperling, a freelance programmer based in the US, posted a link
+to a group of different types of 'CAPTCHA' tools he has created:
+http://webbytedd.com/aa/assorted-captcha/
+
+Sperling says: "I realise that the first demo is not acceptable, but do
+any of the other examples work for those with disabilities? Granted
+some will not because they require sight, but blindness is only one of
+many different disabilities.
+
+"Could a combination of different CAPTCHAs provide a solution, or is
+CAPTCHA just one of the things that cannot be resolved?"
+
+To join the discussion, see our 'E-Access Bulletin Live' blog:
+http://www.headstar.com/eablive/?p=183#comments
+We will track further comments in this section of the newsletter.
+
+
++08: Tag Precision: James Coltham, Acting Intranet Development
+Officer in the Children and Families Department at City of Edinburgh
+Council, raises another point relating to the piece on the five most
+common web accessibility errors.
+
+He says there is a slight inaccuracy in the original article, which said:
+"Make sure that all images that are also links or buttons describe what
+will happen when you click on them, e.g. alternative text as 'Marilyn
+Monroe - click to read her life story'."
+
+But Coltham says: "This is not really correct. The alternative
+description of an image should be the exact equivalent of its
+appearance. So if it is a photo of Marilyn Monroe with no text in the
+image, it should just be 'Marilyn Monroe'. However, if that image is
+also a hyperlink, the title attribute of the link itself can be used to
+describe where the link goes to. I hope this might prove useful to your
+readers."
+
+[Further responses lease to inbox@headstar.com].
+
+
++09: VoiceOver Buddies: Reader Estelita Clayton writes in seeking
+fellow users of the Apple OSX operating system's built-in screen-
+reader software, VoiceOver.
+
+She says: "I recently bought myself an iMac [running] OSX, and it has
+the integrated voice called VoiceOver. I admired the Apple Mac people
+for coming up with this brilliant idea to help us visually impaired
+computer users!
+
+"I wish you also could develop an iPod with integrated voice as well.
+As a new Voice Over user, I'd like to get in touch to people who are
+using the same system to share ideas and knowledge."
+
+[Responses please to inbox@headstar.com]
+
+[Inbox ends].
+
+
+++Special Notice: Building the Perfect Council Website
+- Major International Keynote Speaker for 2008
+- 16 July, Olympia 2, Central London
+http://www.headstar-events.com/council08/ .
+
+We are pleased to present our third annual event on how to create the
+perfect council website: a partnership between E-Government Bulletin
+and the Socitm Insight Programme.
+
+Our keynote speaker this year is international web usability guru Gerry
+McGovern. An authority on creating effective web content, Gerry has
+been described by the Irish Times as one of the world's five leading
+web visionaries (alongside Tim Berners-Lee, Tim O'Reilly, Nicholas
+Negroponte and Vint Cerf).
+
+Elsewhere, the event will draw on the collected wisdom of a decade of
+Socitm's annual 'Better Connected' review of all UK council websites.
+Workshops will cover issues in detail including boosting web service
+take-up. Secure your place today at:
+http://www.headstar-events.com/council08/
+
+And for companies interested in exhibition spaces please contact Will
+Knox on
+will.knox@headstar.com or phone him on
+01273 267974.
+
+[Special notice ends].
+
+
+++Section Three: News Focus
+- Public Sector Web Accessibility Guidelines.
+
++10: Buried Sticks And Mixed Messages
+by Dan Jellinek.
+
+The new guidelines for UK public sector bodies on 'Delivering
+inclusive websites' (see E-Access Bulletin, June 2008) are a
+bewildering blend of the vague with the Draconian.
+
+The guidance, published by the Central Office of Information (COI)
+under the reference number 'TG102' ( see
+http://www.coi.gov.uk/guidance.php?page=129 ),
+stipulates that all new UK public sector websites must conform to at
+least 'AA' accessibility standards as specified by the W3C Web
+Content Accessibility Guidelines.
+
+Existing central government department websites must conform to
+'AA' by December 2009. "This includes websites due to converge on
+Directgov or BusinessLink, unless convergence is scheduled before
+this date," the guidelines state. Sites of all other government agencies
+and non-departmental bodies must conform by March 2011.
+
+The guidance is also strong and clear on the point of avoiding less
+accessible content formats wherever possible. Content formats not
+covered by WCAG 1.0 such as Flash, pdf and JavaScript "should only
+be used if it is determined that they are the most appropriate for the
+intended purpose. For example, this could be where the proposed
+content enhances the functionality or understanding for the intended
+audience."
+
+Where such content formats are decided to be essential, "every attempt
+should be made to ensure that the accessibility features of the relevant
+authoring tool are used," the guidance states.
+
+Other areas covered include a requirement for public bodies to submit
+website accessibility policies to the accessibility sub-group of the
+Digital People Network - a new forum set up by the COI for public
+sector managers working with digital media - by December 2008. The
+guidance also provides advice on planning, procurement, content
+design and maintenance and assessment of accessibility through the
+use of user testing and other methods.
+
+So far, so comprehensive. But how strongly enforced will the
+guidelines be?
+
+Though not mandated by law, the guidance warns that "Government
+websites owners are reminded to follow the conditions of use for a
+.gov.uk name (TG114). Websites which fail to meet the .gov.uk
+accessibility requirements may be at risk of having their domain name
+withdrawn."
+
+This softens the warning contained in a previous draft version of the
+guidelines, which had used the stronger formulation: "websites which
+fail to meet the mandated level of conformance shall be subject to the
+withdrawal process for .gov.uk domain names".
+
+Furthermore the 'conditions of use for .gov.uk name' referenced in the
+guidance, Cabinet Office document TG114, are vague on accessibility
+definitions.
+
+They state: "Applications (web, email, etc) using a .gov.uk domain
+name must comply with current UK legislation and support channels
+that provide accessibility for disabled people, members of ethnic
+minorities and those at risk of social/digital exclusion. Legislation
+includes Copyright, Data Protection Act and Disability Discrimination
+Act. Abuse of [sic] will result in the name being withdrawn" (see
+http://fastlink.headstar.com/caboff1 ).
+
+How useful is this paragraph? It seems redundant for an official
+document to specify that any form of government activity 'must
+comply with current UK legislation'. And the suggestion that websites
+must 'support channels that provide accessibility' also amounts to
+little, since 'channels' - presumably, meaning media or technologies -
+do not in themselves generally provide accessibility: this depends more
+on how channels are used.
+
+Perhaps more usefully, the .gov.uk conditions go on to state: "When
+you are using a .gov.uk domain name to deliver a web presence you are
+reminded that websites should comply with the e-Government
+Interoperability Framework, the Guidelines for UK Government
+websites and Framework for Local Government particularly on such
+issues as use of metadata, PICS labelling, accessibility and security."
+
+Following this increasingly convoluted trail to the 'e-Government
+Interoperability Framework' (e-GIF) referenced here - and last
+updated as version 6.1 in March of 2005 - we find a strikingly familiar
+phrase in paragraph 2.23: "Government information systems will be
+designed to meet UK legislation and to support channels that provide
+accessibility for disabled people, members of ethnic minorities and
+those at risk of social/digital exclusion."
+
+With e-GIF, however, paragraph 6.25 contains some sterner warnings
+associated with a failure to comply, namely that: "If a system fails the
+test on any of the aspects listed above, then a migration strategy will
+need to be produced and agreed by the e-Government Unit.Failing to
+comply and the absence of an acceptable migration strategy will lead to
+the following courses of action:
+
+"- compliance with the e-GIF is one of the criteria that will be used
+when assessing/evaluating departmental e-business strategies and
+deciding on the release of funding by the e-Government Unit and HM
+Treasury.
+
+"- new systems failing to comply with the e-GIF will not get project
+approval or funding from the appropriate bodies within their
+organisations;
+
+"- systems seeking to link to Directgov, the Government Gateway or
+the Knowledge Network and failing to comply with the e-GIF will be
+refused connection;
+
+"- suppliers who are not prepared to meet the e-GIF specific
+requirements or equivalents.will not meet [procurement]
+specifications."
+
+Clearly here, at last, are some hefty sticks with which to beat those
+creating inaccessible websites. It is a shame, however, that they are
+buried in a trail of paperwork two documents removed from 'inclusive
+websites'.
+
+Some rationalisation of all this advice is likely to be needed if the
+laudably high accessibility levels stipulated in the new guidance are
+ever to come close to realisation.
+
+[Section Three ends].
+
+
+++Section Four: Opinion
+- Digital Inclusion Manifesto.
+
++11: Helping Hand For The 'Struggling Seventh'.
+
+Last month the digital inclusion charity and consultancy HumanITy
+published its Digital Inclusion Manifesto (see also news, this issue).
+We reproduce below an edited summary of the document:
+
+Contrary to many Utopian predictions in the mid 1990s, the growth in
+the ownership of digital technology has had a disappointing impact on
+the 'Final third' of less advantaged people in our society, and even
+more so on what could be termed the 'Struggling seventh', the most
+disadvantaged 15 per cent of the population.
+
+This manifesto sets out a broad range of proposals for dealing with the
+major outstanding problems in e-inclusion, emphasising the necessary
+shift from consumption to production and the need for a multi-platform
+approach.
+
+Often new, major technologies are regarded as panaceas but they
+frequently create or exacerbate socio-economic differentials. This
+expectation greeted cheap, personal computing but the evidence of its
+real effectiveness has been limited; it has not been fully used in its
+areas of key capacity such as the enablement of creativity and
+convergence with broadcasting. Policy makers were aware of a
+potential 'digital divide', but thought people could be 'trained out' of it.
+This strategy has failed, partly because of a lack of incentive and an
+emphasis on skills rendered redundant by automation at the expense of
+emerging skills such as digital photography.
+
+Poorer citizens have been rightly sceptical of the internet's benefits,
+seeing it as 'top down' and not relevant to their needs. The
+concentration on the PC-based platform and the problems of usability
+and accessibility of e-government sites have been serious obstacles to
+users; more than 80% of government transactions are undertaken by
+people without a home PC.
+
+A neglect of 'soft skills', an emphasis on autonomous consumption
+rather than collaborative creation and a limited vision of creativity
+have all held back the benefits of the digital society. Government needs
+help to understand these phenomena.
+
+Although there has been some political concentration on the 'final
+third', we are left with the 'Struggling seventh' which needs its own,
+resource-intensive policy agenda.
+
+Each of our recommendations below is matched by a proposed strategy
+or project, listed separately under humanITy's partnership agenda,
+which can be found within the full manifesto on the web.
+
+- Government needs help to make its services more usable by the vast
+majority of its service users; this means abandoning its underlying bias
+in favour of the PC platform.
+
+- Government needs help in understanding the limited impact of the
+information revolution on behaviour; its potential in the area of
+collaboration and creativity; and its effect on the education system.
+
+- The current model of intellectual property which rates all products,
+regardless of their economic value, in the same way, needs radical
+reform.
+
+- Government needs help to integrate the most difficult cases (the
+'Struggling seventh' 15% of the population) but this will need a high
+concentration of effort beyond that reachable using government
+resources. This will require new ways of working with non-
+governmental organisations.
+
+[Section Four ends]
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2008 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Reporter: Majeed Saleh
+Editorial advisor - Kevin Carey
+Marketing Executive - Claire Clinton
+Sales and Marketing - Jo Knell, Will Knox.
+
+ISSN 1476-6337 .
+
+[Issue 103 ends.]
+
+

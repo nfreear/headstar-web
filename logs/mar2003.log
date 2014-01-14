@@ -1,0 +1,64 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:05 2004 __
+
+Input file: ../eab/issues/2003/mar2003.txt
+
+Warning: file already exists: ../eab/issues/2003/mar2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: mar | index: 3 | year: 2003
+URLs, prev: ../2003/feb2003.html | next: ../2003/apr2003.html
+Found ++, heading 2: ISSUE 39 CONTENTS.
+>> FOUND 2:  | 01:  | Planned EU directive to ban technology discrimination
+>> FOUND 2:  | 02:  |  Education support database goes live
+>> FOUND 2:  | 03:  | Call for UN action on technology access
+>> FOUND 2:  | 04:  | Audio e-greetings from Bafta-nominated site
+>> FOUND 1: News in brief:  | 05: Mobile organiser - wireless technology launched; 06:
+>> FOUND 2:  | 08:  | Visual definition - terminology issue; 09: Bounce back - job-search
+>> FOUND 2: web site;  | 10:  | Black rectangle -
+OK, News in brief
+Found: web site;  | 10:  | Black rectangle -
+>> FOUND 2: cursor query;  | 11:  | Living paintings - art site invites reponses.
+Found: Living paintings - art site invites reponses | . | 
+>> FOUND 2: -  | 12:  | Mobile highlights for technology showcase: Derek Parkinson looks
+Found: -  | 12:  | Mobile highlights for technology showcase: Derek Parkinson looks
+>> FOUND 2: -  | 13:  | Paintings that speak volumes: Provisions are improving for
+Found: -  | 13:  | Paintings that speak volumes: Provisions are improving for
+>> FOUND 2: -  | 14:  | Financial independence: Banks in Australia are among the first in
+Found: -  | 14:  | Financial independence: Banks in Australia are among the first in
+Warning line 57: expected [Contents ends].
+$toc_count=16
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | PLANNED EU DIRECTIVE TO BAN TECHNOLOGY DISCRIMINATION.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | EDUCATION SUPPORT DATABASE GOES LIVE.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | CALL FOR UN ACTION ON TECHNOLOGY ACCESS.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | AUDIBLE E-GREETINGS FROM BAFTA-NOMINATED SITE.
+Warning: not found a 'contents' match: Audible E-Greetings From Bafta-Nominated Site.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  An innovative mobile phone and personal
+> ITEM 1:  06:  | : |  This year's eWell-Being awards are inviting
+> ITEM 1:  07:  | : |  The digital satellite television broadcaster Sky
+Found ++, heading 2: SPECIAL NOTICE: 'ACCESS IT' AND 'COMPUTE IT'
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  08:  | : |  Trevor Frost, Adaptive Technology Coordinator
+> ITEM 1:  09:  | : |  Jackie Wright of technology firm Disability Dynamics
+> ITEM 1:  10:  | : |  John Loader of DotSix Brailling Services writes
+> ITEM 1:  11:  | : |  Camilla Oldland of The Living Paintings Trust,
+Found ++, heading 2: SECTION THREE: CONFERENCE PREVIEW
+> ITEM 2:  12:  | MOBILE HIGHLIGHTS FOR TECHNOLOGY SHOWCASE
+Warning: not title-casing possible HTML:
+  12: MOBILE HIGHLIGHTS FOR TECHNOLOGY SHOWCASEby Derek Parkinson  <a href="mailto:derek@headstar.com">derek@headstar.com</a> .
+Warning: not found a 'contents' match: MOBILE HIGHLIGHTS FOR TECHNOLOGY SHOWCASEby Derek Parkinson  <a href="mailto:derek@headstar.com">derek@headstar.com</a> .
+Found ++, heading 2: SECTION FOUR: FOCUS
+> ITEM 2:  13:  | PAINTINGS THAT SPEAK VOLUMES
+Warning: not title-casing possible HTML:
+  13: PAINTINGS THAT SPEAK VOLUMESby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Warning: not found a 'contents' match: PAINTINGS THAT SPEAK VOLUMESby Mel Poluck  <a href="mailto:mel@headstar.com">mel@headstar.com</a> .
+Found ++, heading 2: SECTION FIVE: BANKING
+> ITEM 2:  14:  | FINANCIAL INDEPENDENCE
+Warning: not title-casing possible HTML:
+  14: FINANCIAL INDEPENDENCEby Julia Schofield  <a href="mailto:julia.schofield@jsc.co.uk">julia.schofield@jsc.co.uk</a> .
+Warning: not found a 'contents' match: FINANCIAL INDEPENDENCEby Julia Schofield  <a href="mailto:julia.schofield@jsc.co.uk">julia.schofield@jsc.co.uk</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

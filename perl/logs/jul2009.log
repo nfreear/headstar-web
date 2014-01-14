@@ -1,0 +1,51 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Nov 15 21:06:34 2009 __
+
+Input file: ../eab/issues/2009/jul2009.txt
+
+Warning: file already exists: ../eab/issues/2009/jul2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: jul | index: 7 | year: 2009
+URLs, prev: ../2009/jun2009.html | next: ../2009/aug2009.html
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: Issue 115 Contents.
+>> FOUND 2:  | 01:  | RNIB Team Welcomes Off-The-Shelf iPhone Accessibility
+>> FOUND 2:  | 02:  | Deafblind Web Users Engage With Social Media
+>> FOUND 2:  | 03:  | Outdated 'Legacy' Systems Hindering Accessibility
+>> FOUND 2: News in Brief:  | 04:  | Innovation Rewarded - National eWell-Being
+OK, News in brief
+Found: News in Brief:  | 04:  | Innovation Rewarded - National eWell-Being
+>> FOUND 2: Awards;  | 05:  | Visionary Planning - national sight strategy; 06: Digital
+Found: Visionary Planning - national sight strategy | ; |  06: Digital
+>> FOUND 2:  | 07:  | Brick Wall - BT's inaccessible website; 08: Readers' Rights -
+>> FOUND 2: accessible book formats;  | 09:  | Touchstone Tours - Tactile educational
+Found: accessible book formats;  | 09:  | Touchstone Tours - Tactile educational
+>> FOUND 2: resources;  | 10:  | TV Input - Audio description request.
+Found: TV Input - Audio description request | . | 
+>> FOUND 2:  | 11:  | 'Just The Right Thing To Do': A recent survey by Bloor Research
+Warning line 61: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | RNIB Team Welcomes Off-The-Shelf iPhone Accessibility.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Deafblind Web Users Engage With Social Media.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Outdated 'Legacy' Systems Hindering Accessibility.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A 'Talking bus stops' project from
+> ITEM 1:  05:  | : |  The establishment of local IT training
+> ITEM 1:  06:  | : |  The government's new Digital Britain
+Found ++, heading 2: Special Notice: Building Perfect Council Websites '09
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 265.
+> ITEM 1:  07:  | : |  David Bates, a reader from Dudley in the West
+> ITEM 1:  08:  | : |  Denise Dwyer, Access to Publishing
+> ITEM 1:  09:  | : |  Margot Whitfield of the Royal Ontario
+> ITEM 1:  10:  | : |  Flávia Oliveira Machado, a masters degree student
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: Research
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 516.
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 526.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 484, <IFILE> line 533.

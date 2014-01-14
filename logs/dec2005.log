@@ -1,0 +1,59 @@
+__ BUILD [tens2html.pl  v1.14] log Tue May 23 09:06:51 2006 __
+
+Input file: ../eab/issues/2005/dec2005.txt
+
+Warning: file already exists: ../eab/issues/2005/dec2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: dec | index: 12 | year: 2005
+URLs, prev: ../2005/nov2005.html | next: ../2006/jan2006.html
+Found ++, heading 2: Issue 72 Contents.
+>> FOUND 2:  | 01:  | European Public Sector Fails On Basic Web Accessibility.
+>> FOUND 2:  | 02:  | Pilots for User Preference Smartcard Go Live in New Year
+>> FOUND 2:  | 03:  | 'Podcast' on Assistive Technology for Schools Goes Live
+>> FOUND 2:  | 04:  | Accessibility Accreditation to Use Vision-Impaired Testers
+>> FOUND 2: News in Brief:  | 05:  | Personal Contact - software for deafblind PAC
+OK, News in brief
+Found: News in Brief:  | 05:  | Personal Contact - software for deafblind PAC
+>> FOUND 2: Mate users;  | 06:  | Command Control - simplified voice recognition tool;
+Found: Command Control - simplified voice recognition tool | ; | 
+>> FOUND 2:  | 07:  | Favourite Things - web preferences toolbar; 08: Guide Correction
+>> FOUND 2:  | 09:  | Information Rights - European law suggestion; 10: Colour Sources
+>> FOUND 2: - online web design resources sought;  | 11:  | Readers Needed - online
+Found: - online web design resources sought;  | 11:  | Readers Needed - online
+>> FOUND 2:  | 12:  | Electronic Books - Online and On Demand. Derek Parkinson
+>> FOUND 2:  | 13:  | Free Learning Blended With Treacle: A pioneering course in
+Warning line 52: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | European Public Sector Fails On Basic Web Accessibility.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Pilots for User Preferences Smartcard Go Live in New Year.
+Warning: not found a 'contents' match: Pilots For User Preferences Smartcard Go Live In New Year.
+> ITEM 2:  03:  | 'Podcast' on Assistive Technology for Schools Goes Live.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Accessibility Accreditation to Use Vision-Impaired Testers.
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  Software for the PAC Mate personal digital
+> ITEM 1:  06:  | : |  A simplified voice recognition programme
+> ITEM 1:  07:  | : |  A web browser toolbar has been launched
+> ITEM 1:  08:  | : |  Last issue, we wrote that the online guides to
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 263.
+> ITEM 1:  09:  | : |  John Nissen, founder of inclusive technology
+> ITEM 1:  10:  | : |  John Starbuck of Wakefield Council in the UK
+> ITEM 1:  11:  | : |  Tony Dart of the online library 'The Seeing Ear'
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Techshare Report I
+> ITEM 2:  12:  | Electronic Books - Online and On Demand
+Warning: not found a 'contents' match: Electronic Books - Online And On Demandby Derek Parkinson.
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 440.
+Found ++, heading 2: Section Four - Techshare report II
+> ITEM 2:  13:  | Free Learning Blended with Treacle
+Warning: not found a 'contents' match: Free Learning Blended With Treacleby Dan Jellinek.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 564.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 570.

@@ -1,0 +1,633 @@
++++E-ACCESS BULLETIN.
+- ISSUE 54, JUNE 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk/).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++ISSUE 54 CONTENTS.
+
+01: Europe launches major access programme
+- Research project paves way for international guidelines.
+
+02: Banks named and shamed over card problems
+- Failures to explain 'Chip and PIN' alternative.
+
+03: Guidelines for local government chiefs
+- Managers, policymakers and designers targeted.
+
+04: Council trio claim 'AAA' rating
+- Expert praises effort but questions detail.
+
+News in Brief: 05: Inclusion focus - Hong Kong conference; 06:
+Additions revealed - publisher database; 07: Arabian rights - UN-
+backed forum.
+
+Section two: 'The inbox' - Readers' forum.
+08: Validator problem - HTML struggle; 09: Radio objections - article
+feedback; 10: Training contacts - CDs sought; 11: Bridge request -
+accessible game.
+
+Section three: Focus - discussion lists.
+12: Chain reaction: 'Self-help' collaborative email lists where access
+technology users swap tips and advice can also help manufacturers
+improve their products. Mel Poluck reports.
+
+Section four: Analysis - web accessibility.
+13: The hard road to progress: The recent Disability Rights
+Commission investigation into web accessibility made depressing
+reading, but Julie Hill finds that public and private sector pioneers are
+now making good headway.
+
+[Contents ends].
+
+
+++SPECIAL NOTICE: Sight Village 2004
+- 13-15 July, Birmingham, UK.
+
+Around 3,000 people are expected to visit this year's QAC Sight
+Village, the exhibition for everyone with an interest in technology and
+services connected to visual impairment. Exhibitors and visitors come
+from throughout the UK, America, Canada, Europe, the Middle East
+and Africa. Smaller organisations of or for people with visual
+impairment are particularly welcomed as exhibitors alongside the 'big
+players'.
+
+This year the event has moved to a larger venue: the Clarendon Suites,
+a conference centre near to the exhibition's host Queen Alexandra
+College. All areas of the venue are accessible for wheelchairs, and
+admission is free. See:
+http://www.qac.ac.uk/sightvillage/6-1.html .
+
+[Special notice ends].
+
+
+++SECTION ONE: NEWS.
+
++01: EUROPE LAUNCHES MAJOR ACCESS PROGRAMME.
+
+The European Commission has launched a major new programme of
+research into accessibility policies across EU member states, paving
+the way for a set of accessibility guidelines to improve access to digital
+services and technologies for disabled users across the continent.
+
+The eInclusion@eu project (http://www.einclusion-eu.org/) will
+examine national and regional policies on access to employment,
+public sector technology procurement, and access to online public
+services such as e-government, e-health and e-learning. As part of its
+work the 30-month project aims to build an EU-wide picture of
+accessibility requirements for government web sites, including which
+accessibility standards are used, if compliance is voluntary or
+mandatory, and whether feedback from users is collected and acted on.
+
+Lutz Kubitschke of German consultancy Empirica
+(http://www.empirica.com/), which is co-ordinating the research, told
+E-Access Bulletin: "It is important to get a structured view of what is
+going on out there. It's no good if guidelines are issued in Brussels, but
+they are not practical for member states to implement." It is hoped that
+by the end of the year, the Commission will use the research to issue
+draft guidelines on public procurement, Kubitschke said.
+
+The findings should also uncover valuable information such as
+problems with implementing international web accessibility standards.
+"In some cases it may be that the expertise needed to translate
+guidelines such as WAI (http://www.w3.org/WAI) into procedures is
+missing, or that not enough money, time and resources are made
+available for accessible web design," said Kubitschke. The
+eInclusion@eu project is being driven by a core of research teams in
+eight member states, and is funded through the EU's 17.5 billion euro
+Sixth Framework research programme
+(http://fp6.cordis.lu/fp6/home.cfm).
+
+
++02: BANKS NAMED AND SHAMED OVER CARD PROBLEMS.
+
+UK banks who fared poorly in a 'mystery shopping' exercise to test the
+accessibility of new-style credit and debit cards are to be "named and
+shamed" by the RNIB.
+
+The cards tested use a new so-called 'Chip and PIN' system designed
+to combat fraud by requiring users to key in a security PIN number
+whenever a purchase is made. Banks are supposed to offer and explain
+an alternative to Chip and PIN called 'Chip and signature', which is
+easier for some people with impaired vision since they may find
+keypads hard to use. However, the survey found that many were not
+doing so.
+
+Results of the mystery shopping experiment will be published towards
+the end of August and will include full details of which card issuers
+were contacted along with a breakdown of the results.
+
+When a pool of vision-impaired 'mystery shoppers'
+(http://www.rnib.org.uk/xpedio/groups/public/documents/publicwebsit
+e/public_mysteryshopping.hcsp) initially contacted the call centres of
+fifteen banks, building societies and credit card companies to ask for
+advice on the accessible alternative, just 22 callers out of the total 67
+calls made (33 per cent) were told about the alternative and 15 call
+centre employees (22 per cent) mentioned that customers could
+continue to sign but either gave incorrect information about the chip
+and signature card or knew nothing about it.
+
+The RNIB campaigns team is currently working with banks to improve
+services, for example leading staff through practical issues such as how
+call centre staff can identify when to issue a chip and signature card.
+The RNIB has also suggested banks improve information on their
+intranets and external information on their web sites. "Internal
+communication is the issue," says Helen Dearman, campaigns officer
+at RNIB. Dearman says she has already noticed a reduction in the
+amount of calls to the RNIB from people complaining about their
+banks over this issue, although she adds that a high staff turnover in
+bank call centres is likely to hamper progress when the mystery
+shopper exercise is repeated in August
+
+
++03: GUIDELINES FOR LOCAL GOVERNMENT CHIEFS.
+
+The RNIB has published guidelines for senior managers and policy-
+makers in local government on how to make new technologies, from
+smart cards to tactile displays, more usable by people with disabilities.
+
+Written by Dr John Gill, chief scientist at the RNIB, the 'Access-
+Ability' booklet (http://www.tiresias.org/guidelines/access-ability/)
+provides an overview of design considerations to be taken into account
+when developing new services. From transport and financial
+transactions to telecommunications and computing, the publication
+outlines common problems experienced by the elderly and disabled
+and offers suggestions for addressing them.
+
+"The booklet is targeted at senior managers who aren't specialists in
+technology and don't have in-depth knowledge of disability," says Gill.
+The guidelines were produced as part of the RNIB's collaboration with
+the National Smartcard Project
+(http://www.nationalsmartcardproject.org.uk/), one of 22 national
+projects commissioned by the Office of the Deputy Prime Minister to
+aid local authorities on the road to e-government
+(http://fastlink.headstar.com/nat1).
+
+The collaboration identified three target audiences who needed more
+information about accessibility: senior managers and policy-makers in
+local government; project leaders responsible for implementing local e-
+government projects; and hardware and software designers who may or
+may not work for local government.
+
+The guidelines were developed in collaboration with Comité Européen
+de Normalisation (CEN - http://www.cenorm.be/), the European
+technology standards body.
+
+
++04: COUNCIL TRIO CLAIM 'AAA' RATING.
+
+Three UK local authorities now claim to have web sites which comply
+with the highest standard of accessibility under the World Wide Web
+Consortium's Web Accessibility Initiative (WAI -
+http://www.w3.org/WAI), known as 'AAA' accessibility. One expert
+has questioned whether full 'AAA' compliance has indeed been
+achieved by these sites, although their intention to move towards full
+accessibility was welcomed.
+
+Haringey (http://www.haringey.gov.uk/) in London, Stockport
+Metropolitan Borough Council (http://www.stockport.gov.uk/) and
+Tameside Council (http://www.tameside.gov.uk/) in Greater
+Manchester have all recently relaunched sites that they say now
+provide easy access to all visitors, regardless of ability.
+
+Under a central government directive, all public bodies are required to
+meet the lower 'AA' standard of accessibility by the end of 2005.
+
+Stockport relaunched its site at the end of May, improving its
+accessibility rating from 'A' to 'AAA' standard. It uses an 'off-the-
+shelf' solution from Mediasurface (http://www.mediasurface.com/).
+
+Haringey's site was launched in March, using an accessible templated
+design integrated into a content management system. This means that
+editors enter content using templates with built-in accessibility checks.
+For example, they can't enter an image onto the site without including
+a textual description which can be read by a blind or visually impaired
+person using screen reader technology. Haringey also consulted a
+range of users, including those with visual impairments, throughout the
+design and build process.
+
+Tameside unveiled its AAA site in December 2003, following
+consultation with the RNIB and other relevant bodies.
+
+Helen Petrie, professor of human computer interaction at City
+University (http://www-hcid.soi.city.ac.uk/) and a leading accessibility
+researcher, says the efforts among local authorities to reach the AAA
+standard are highly commendable. However, she says some aspects of
+full 'AAA' compliance are complex, and the three council sites appear
+to fall short of full 'AAA' compliance. And she says compliance with
+standards alone isn't enough to create good web sites. "For example,
+the standards say you should provide clear and consistent navigation.
+But to achieve this, you need a good understanding of how a range of
+users find their way around web sites. This means you need to conduct
+user testing. Only by combining compliance with standards and
+guidelines with user testing - among the disabled and non-disabled -
+will organisations create truly accessible and usable web sites."
+
+
+++NEWS IN BRIEF:
+
++05: INCLUSION FOCUS: The seventh international conference on
+human services information technology applications in Hong Kong is
+to focus on the need to use technologies to build a more digitally
+inclusive society. The conference runs from 24 to 27 August:
+http://www.hkcss.org.hk/husita7/ .
+
++06: ADDITIONS REVEALED: Ulverscroft and BBC Audiobooks
+are the latest publishers to add their catalogues to Revealweb, the free
+national online database of over 100,000 titles available in accessible
+formats. Revealweb is run by the RNIB and the National Library for
+the Blind:
+http://www.revealweb.org.uk/ .
+
++07: ARABIAN RIGHTS: 'Iinformation and communication
+technology for people with disabilities,' a conference in Beirut,
+Lebanon, has become the first event of its kind to focus on the
+promotion of technologies to people with a disability in Arab countries.
+As a follow-up activity, a speech-enabled web forum for the visually
+impaired will now be launched. The event was organised by the United
+Nations Economic and Social Commission for Western Asia:
+http://fastlink.headstar.com/escwa1.
+
+[Section one ends].
+
+
+++Special Notice: Techshare 2004 Call for Papers
+- 18-19 November 2004, Jury's Inn, Birmingham, UK
+
+The RNIB's Techshare 2004 conference is an important event for
+professionals who are interested in technology and the role it plays in
+learning, work and society for people with sight problems.
+
+We are currently looking for people to give presentations in the
+following areas: Practical applications of technology; Innovation in
+education; Accessible web authoring; IT training; Broadcasting and
+digital information delivery; Mobile technology; Producing alternative
+formats; Technology in the workplace; Access to operating systems.
+
+If you are interested in presenting, please email techshare@rnib.org.uk
+for more information on the format of submissions. The closing date
+for submissions is 2 August.
+
+Speakers will be entitled to a reduced rate when registering for the
+conference of 130 pounds (or 95 pounds for one day). Speakers and
+delegates will also have the opportunity to have an informal exhibit at
+a 'Delegate's showcase' table in the conference coffee area at a cost of
+40 pounds per table per day.
+
+For further information including standard attendance prices, email
+techshare@rnib.org.uk or visit:
+http://www.rnib.org.uk/techshare .
+
+[Special notice ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+
+Please email all contributions or responses to inbox@headstar.com .
+
++08: VALIDATOR PROBLEM: Karina Gregory writes: "I just wanted
+to let you know that I used the World Wide Web Consortium's HTML
+Validator (http://validator.w3.org/) to validate a webpage that I have
+written for my university assignment. I found it incredibly difficult to
+use as it seemed to be such a visual thing and I didn't find it very easy
+to access, and I was wondering if you knew of anybody who I could
+contact to discuss making it more accessible to visually impaired
+users?" [Responses please to inbox@headstar.com].
+
+
++09: RADIO OBJECTIONS: Matt King, Accessibility End User
+Advocate with IBM Business Transformation, writes in with strong
+personal objections to some of the remarks made by Kevin Carey in his
+article 'Radio presenters have more fun' (see E-Access Bulletin, May
+2004) which suggested that the job opportunities opened up by internet
+radio stations could be more attractive and accessible to blind people
+than traditional computer programming work.
+
+"I strongly believe the conclusions Kevin Carey drew from the recent
+Disability Rights Commission research on web accessibility and
+conveyed in his article are invalid, irresponsible, and damaging," King
+says.
+
+"Because blind participants in the study had more trouble completing
+tasks or working efficiently even on well-designed web sites, Kevin
+claimed that it is reasonable to conclude, 'although blind people will
+need IT skills for education, employment and leisure - as means to an
+end - they will rarely be good enough in overcoming systems design
+problems to secure employment in IT per se. The days when the words
+'blind' and 'computer programmer' went together like Morecambe and
+Wise were brief and are long gone.'"
+
+King continues: "The DRC study was focused on the web sites, not the
+abilities or aptitudes of the participants. It is not logical or valid to
+conclude that if the average blind person has trouble using the average
+or even better than average web site, that blind people are
+proportionately less likely to be able to develop skills that will result in
+success in an IT-related field. Even if the vast majority of IT jobs
+consisted of using web applications more than 50 per cent of the time
+on the job, such a conclusion would still be completely baseless.
+
+"IT-related fields continue to be an excellent choice for any blind
+person with the appropriate aptitudes. And, as the accessibility of
+advanced development tools improves, the doors open still wider.
+True, not all blind people have the nature to be equally good at
+presenting radio programs and developing, supporting, or managing
+computer-related technologies. Thus, each to his own. However, it is a
+mistake to diminish the fitness for consideration of one over the other
+purely based on visual acuity. I think it would be tragic if Kevin's
+article dampened the spirits of any blind individual who aspires to
+become an IT professional. And, on average, I would be shocked if
+working in radio pays as well. There is no doubt that radio is a smaller
+and less diverse field." [Further comments please to
+inbox@headstar.com].
+
+
++10: TRAINING CONTACTS: Javad Momayez of Indiana University
+in Indianapolis, US writes: "I am very interested to purchase some
+tutorial or training CDs for access software packages such as Co:writer
+4000, ZoomText, Texthelp, JAWS, WindowEyes, Open books and
+Magic. Do you know the name and web site of any company so I can
+contact them?"
+[Responses please to inbox@headstar.com].
+
+
++11: BRIDGE REQUEST: We did not receive a response last month to
+Brenda Nichol's query about whether anyone knew of an accessible
+computer game for the card game bridge, so we would like to repeat
+the request - surely one of our readers must be a bridge player?
+[Responses please to inbox@headstar.com].
+
+[Section two ends].
+
+
+++SPECIAL NOTICE: WEB ACCESSIBILITY FORUM.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+SECTION THREE: FOCUS
+- DISCUSSION LISTS.
+
++12: CHAIN REACTION
+by Mel Poluck.
+
+Email discussions groups have long served as a convenient, accessible
+tool for like-minded people to exchange ideas and advice on almost
+any topic, including the use of special access technologies.
+
+One such resource is the low vision computer access discussion list, or
+Magnifiers group, a dynamic group started by Peter Verhoeven. The
+list is an offshoot of a web site entitled 'The Screen Magnifiers
+homepage' (http://www.magnifiers.org/), from the non-profit
+independent organisation of the same name.
+
+As with most such lists, subscribers send an email to a single address,
+and the posting can be viewed by all other members. It provides a
+convenient forum for professionals, manufacturers, distributors, vision-
+impaired users and potential buyers of assistive technologies to support
+and advise one another in the use of access products.
+
+List members offer tips on and reviews of existing and new assistive
+technologies; tip-offs on good deals; problems found; and request
+tricks on how to overcome difficulties or simply share experiences.
+
+Many subscribers also post basic product reviews and
+recommendations as well as more in-depth analysis of product
+features. For example, a member may ask the list whether they think
+there are too many menus in the main window of the screen magnifier
+ZoomText (http://www.aisquared.com/), or which hand-held portable
+magnifier they think is most efficient.
+
+For Tom Whittle, product range manager of technology products at the
+RNIB, lists such as these - and there is at least one for every major
+product on the market - provide a means of flagging up important user
+issues that may remain undiscovered from the confines of his office. "I
+like flicking through them and seeing the problems people have," he
+says.
+
+The potential of this simple way of communicating is wide: not only
+do such lists provide a place to share information and smooth out
+niggling mundane user problems; potentially, archived postings can act
+as a huge resource of market research for access technology companies
+who could use it to vastly improve their access products. "Email lists
+are a good way of getting customer feedback to the manufacturer - if
+manufacturers have any sense, they'll monitor," Whittle says.
+
+Discussion lists can also be a way for manufacturers and others to put
+the record straight on rumours or malicious attacks, he says. "I
+contribute when I see something not true."
+
+Some assistive technology companies actively develop and support
+their own user discussion lists. For example GW Micro, the company
+behind screen reader Window-Eyes, offers multi-lingual discussion
+lists, information discussion lists and newslists
+(http://www.gwmicro.com/support).
+
+Ultimately, such 'self-help' support options may even bring down
+product costs, Whittle says. "When you look at software access
+products, the main cost is support," he says. When buying or
+developing software for example, the initial costs may be outweighed
+by the ongoing costs of support, he says.
+
+"The more complicated the product, the more support is needed,"
+Whittle says. "It's a good idea to have as many [means of supporting
+customers] as possible. I've used them myself when I am a novice at
+certain products," says Whittle, who regularly tests new assistive
+technologies in his job.
+
+In some cases, manufacturers are using discussion lists directly to
+improve their products. One such company is Plextor
+(http://www.plextalk.com/europe), a leading US developer and
+manufacturer of CD-related equipment and software which researches
+and engineers products for digital talking book players.
+
+Their recording e-book player, the Plextalk portable recorder 'PTR1'
+(http://fastlink.headstar.com/plex1) has its own email list,
+(http://fastlink.headstar.com/plex2) started out of a high demand from
+users for discussing features of this potentially complicated product.
+"These guys are good at taking tips from people - they've got a good
+development team," Whittle says.
+
+However, Whittle does offer a caution: "People in groups have
+different agendas," he says. Some people may use the forum to market
+their own products for example. As with all information retrieved from
+the internet, it is important to check the facts, he says.
+
+"I look at the Magnifiers list to see how people are coping with the
+technology that's there," says Colin Holloway, owner of assistive
+technology company New Vision, and a regular contributor. "It upsets
+a lot of manufacturers but I like that honesty."
+
+[Section three ends].
+
+
+++SECTION FOUR: ANALYSIS
+- WEB ACCESSIBILITY.
+
++13: THE HARD ROAD TO PROGRESS
+by Julie Hill
+
+In April this year, the Disability Rights Commission (http://www.drc/-gb.org)
+published the findings of the largest ever research project into
+web accessibility (see E-Government Bulletin, issue 159, 16 April
+2004). Its conclusions make pretty depressing reading: only 19 per cent
+of a sample of 1,000 UK sites meet even the minimum standard for
+disabled web access under the World Wide Web Consortium's Web
+Accessibility Initiative (WAI - http://www.w3.org/WAI) guidelines.
+There is also a distinct lack of awareness among web site owners and
+designers about accessibility.
+
+However, despite the disappointing picture of web accessibility painted
+in the report, there are organisations making significant efforts to
+ensure their online services are accessible to all.
+
+Laura van Weyenbergh is e-communications officer at Rushcliffe
+Borough Council (http://www.rushcliffe.gov.uk/), which launched its
+accessibility initiative in 2001. At that time, awareness of web
+accessibility issues was fairly low, she says. "Our original site was
+designed in the late nineties, when web accessibility issues simply
+weren't being discussed outside specialist organisations," says van
+Weyenbergh. "While it was expected that public buildings must have
+wheelchair access and induction loops for people with hearing aids, it
+was neither known nor understood how people with vision and motor
+impairments might use a web site."
+
+A combination of legislative pressures and feedback from citizens who
+couldn't access the council's site compelled Rushcliffe into action. It
+formed a dedicated communications team to deal with web
+accessibility in 2001 and is now working towards AA compliance with
+the WAI guidelines, which it hopes to achieve by the end of this year.
+Indeed, like other public bodies, the council had to commit to AA
+compliance by 2005 as part of its Implementing E-Government (IEG)
+statement to the Office of the Deputy Prime Minister this year.
+
+At Rushcliffe, the formation of the communications department was a
+catalyst for change, although the council recognises that accessibility is
+an ongoing challenge that requires new mindsets and new ways of
+working. "It is crucial to do the groundwork to ensure that web site
+contributors understand their role in accessibility," she says. "We have
+tried to encourage staff to view accessibility as the norm rather than
+extra work, but admittedly this has been difficult." There are always
+instances of where content needs to be added immediately and this is
+difficult to plan for, she says. "In these instances, we try to add a more
+accessible version of information as soon as is practicable," van
+Weyenbergh says.
+
+One of the other challenges for Rushcliffe was its relationship with
+suppliers. When it first launched its initiative, few suppliers knew
+about web accessibility. "But we didn't come across any that weren't
+willing to have a go," van Weyenbergh says. "The knowledge of
+suppliers has improved considerably since then, although we do still
+come across one or two who aren't familiar with accessibility."
+
+The imperative towards web accessibility for commercial organisations
+is perhaps less clear-cut. Centrica (http://www.centrica.co.uk/), a
+conglomerate whose brands include the AA (http://www.theaa.com/),
+British Gas (http://www.house.co.uk/) and One.Tel
+(http://www.onetel.co.uk/), is among a minority of corporates who have
+taken this issue seriously. Since 1999, it has been working towards
+making sure all its sites are accessible to all its customers. The impetus
+came from a commitment by senior management to embrace the
+Disability Discrimination Act 1995, which requires all organisations to
+ensure that their services, including web sites, are equally accessible to
+disabled people. However, there was a broader perspective to the
+company's thinking. "The commercial logic was clear," says James
+Donnan, corporate brand manager at Centrica. "Investing time and
+money to create effective and usable web sites would deliver a payback
+by generating customer loyalty and more return visits - and would
+ultimately lead to more business."
+
+Both van Weyenbergh and Donnan agree that it is crucial to set up
+formal structures and to get people's buy-in to make accessibility
+initiatives successful. Centrica pooled expertise from across the
+organisation by setting up a web accessibility group, consisting of
+representatives from its main web sites. The group sought to interpret
+the WAI guidelines in practical terms that could be understood by web
+development teams and sought advice from external experts, such as
+the charity AbilityNet (http://www.abilitynet.org.uk/). "It is important
+to get all the right people together at the outset and to gain a clear
+understanding of what the accessibility guidelines mean in real terms
+for your site," Donnan says. "You then need to raise awareness about
+accessibility across the business, so that you get everyone's buy-in to
+what you are doing."
+
+Neither Rushcliffe nor Centrica feel that they have had to compromise
+creativity in creating accessible web sites. "Some people think that
+accessible sites are dull and worthy, but we don't think so," says
+Donnan. "With centrica.com, we have used prominent imagery and
+created an attractive environment for the user which is still accessible.
+Once our programmers and designers understood the parameters they
+had to work in, they saw it as a challenge to see how creative they
+could be."
+
+Nor have accessible web sites necessarily created extra cost for
+Centrica - another common misconception among commercial
+organisations, in particular. All new developments are built with
+accessibility in mind from the start and the company has found that the
+cost of programming and development is much the same. And for
+existing sites, the company has made improvements as part of phased
+site updates. "If you plan your site development so that accessibility
+improvements can be incorporated along with other work, then it may
+not necessarily create greater expense," says Donnan. "It has really
+helped to take a long-term view, as accessibility has now become
+second nature to our web teams."
+
+Taking web accessibility on board has resulted in a better online
+experience all round, says van Weyenbergh. "Once you start to look at
+creating an accessible web page, you are forced to confront issues,
+such as usability, the importance of well-written content and
+consistency," she says. "This benefits everyone who visits your site."
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com/ .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

@@ -1,0 +1,562 @@
+E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site:
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute for the Blind
+<http://www.rnib.org.uk>
+the National Library for the Blind
+<http://www.nlbuk.org>
+and the Guide Dogs for the Blind Association
+<http://www.guidedogs.org.uk>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+[Issue starts.]
+
+ISSUE 21, SEPTEMBER 2001.
+
+CONTENTS:
+
+Section one: News:
+Iconic images of US attacks described for blind.
+UK copyright Bill supporters play for time –lobbying for a loophole.
+Pentagon becomes centre of accessibility – advises 43 other US 
+government departments.
+Reef on lookout for access partners – multichannel software company 
+seeks resellers.
+Achromatopsy awareness campaign – an international appeal.
+News in brief: DTI IS help; Book forager; Kasday tribute
+
+Section two: Trials and tribulations. Access to pre-release versions of all 
+kinds of computer software is vital to iron out access glitches, but 
+without careful consideration it can backfire.
+
+Section three: Speech wave breaks over europe. Europe's first voice-
+controlled web portal likely to be followed in the months to come by a 
+wave of similar services from across the Atlantic.
+
+Section four: We have the power – but at a price. Reader responses to E-
+Access Bulletin reader enquiry on voice recognition software.
+
+[Contents ends.]
+
+
+SECTION ONE - NEWS.
+
+ICONIC IMAGES OF US ATTACKS DESCRIBED FOR BLIND.
+
+Visually impaired people are able to keep informed of the latest news 
+and implications of last week's US terrorist attacks by accessing a web 
+service provided by the New York-based Visually Impaired Computer 
+Users Group.
+
+Many of the organisation's members worked in the towers, among them 
+vice-president Vivian Yacu who was evacuated unhurt after the buildings 
+were struck. The web site, at http://www.hicom.net/~oedipus/vicug 
+provides accessible information about the location of hospitals and 
+allows visitors to sign up to email alert service that updates them of 
+travel problems.
+
+The site also links to an archive of descriptions of television images 
+associated with the attack. "Many of the indelible images from the 
+attacks have been transformed into iconic images, about which we, the 
+blind, are usually the last to learn," says webmaster Gregory Rosmaita.
+
+"Imagine the cloud of smoke as a grey fish shaped like an oval reaching 
+down from the top left corner and taking a bite out of the right hand 
+tower two thirds of the way down," reads part of the description of the 
+World Trade Centre cataclysm. For more visit:
+http://wtc.crysm.net
+
+
+COPYRIGHT BILL SUPPORTERS PLAY FOR TIME.
+
+Supporters of a UK parliamentary private member's Bill to legalise the 
+production of accessible versions of digital material on a non-profit basis 
+will meet with government ministers on 26 September to secure the 
+law's passage.
+
+It is often necessary for blind and visually impaired people to create 
+alternative versions of digital material to allow them to listen to them 
+using screen readers (see also E-Access Bulletin August 2001). PDF 
+documents produced by Adobe and eBooks formats are particularly 
+prone to needing such manipulation.
+
+Those supporting the Copyright (Visually Impaired Persons) Bill, as the 
+draft legislation is know, are hoping it is sufficiently compatible with the 
+government's plans to be given formal support. Failing that, supporters 
+plan to find a 'backdoor' route into the legislative process with a first 
+reading in the House of Lords, according to RNIB campaigns officer 
+David Mann.
+
+According to Mann the Bill, which was laid down by Labour MP Rachel 
+Squire, "leaves the onus on authors or publishers to take people to task - 
+and ultimately to court - if they thought a particular activity did conflict 
+with their legitimate interests." Some fear government plans will be more 
+cumbersome.
+
+Melanie Johnson MP (http://www.welwyn-hatfield-labour.fsnet.co.uk ), 
+parliamentary under-secretary of state for competition, consumers and 
+markets at the Department of Trade and Industry, will represent the 
+government at the meeting.
+
+* Leading UK consumer book publisher Penguin Books 
+(http://www.penguin.co.uk) last month announced plans to launch 
+eBooks delivered in Adobe eBook and Microsoft reader format. Their 
+level of accessibility has yet to be determined.
+
+
+PENTAGON BECOMES CENTRE OF ACCESSIBILITY.
+
+Forty-three US government agencies have received access equipment 
+and advice from the Department of Defence's Computer/Electronic 
+Accommodations Programme (CAP) over the last year.
+
+Congress asked the unit to start dealing with requests for its assistive 
+technology services from employees of government departments outside 
+the Department of Defence in October 2000. At the same time the CAP's 
+yearly budget was increased from 2.5 million US dollars to 4.5 million 
+dollars to allow it to meet the extra costs.
+
+Demand for CAP's services is expected to increase as government 
+departments wake-up to Section 508, a law introduced in June requiring 
+them to provide accessible information technologies to employees.
+
+Meanwhile, to increase awareness of the obligations of Section 508, the 
+US government Centre for Information Technology Accommodation has 
+revamped its 508-awareness web site:
+http://www.section508.gov
+
+
+REEF ON LOOKOUT FOR PARTNERS.
+
+The global Internet business software house Reef is looking for business 
+partners specialising in accessibility, vice president Jack Berkowitz told 
+E-Access Bulletin this week.
+
+Reef (http://www.reef.com ) is hoping new international partners will be 
+willing to resell Reef EveryWare, which can deliver Internet content 
+differently depending on user preferences and methods of access.
+
+The company's only existing partner in the access field is US-based 
+consultancy and software supplier WebABLE 
+(http://www.webable.com). Founder Mike Paciello said: "Reef's engine 
+gives us a 'leg up' on the development curve that otherwise might have 
+taken us much longer to produce."
+
+Paciello said WebABLE is currently modifying its web site to act as a 
+showcase for EveryWare before beginning work on two or three projects 
+employing the software.
+
+
+ACHROMATOPSY AWARENESS CAMPAIGN.
+
+Two of our readers from Italy, Elisabetta and Gianni Luchetta, are 
+creating a support network for people with the rare congenital disease 
+achromatopsy and would like to raise awareness of its work ahead of a 
+planned world convention on the condition.
+
+The disease affects just one in 33,000 people and is therefore largely 
+unknown and often misdiagnosed by many optometrists. Life for 
+sufferers – who include the Luchettas' own young son Lorenzo - can be 
+very hard, with sunlight-blindness and greatly impaired eyesight.
+
+The Association of Italian Achromatics is interested in talking to anyone 
+affected by this disease so it can record and understand their needs and 
+help them.
+
+To find out more, including a moving personal account of Lorenzo's 
+experiences, see the Luchettas' contribution to the European 
+Parliament's temporary committee on human genetics in Italian and 
+English at:
+http://www.europarl.eu.int/comparl/tempcom/genetics/contributions/cont
+ri_acromati.pdf
+This is a pdf document – for a plain text version or to simply make 
+contact email:
+giluche@tin.it
+
+
+NEWS IN BRIEF:
+
+DTI IS HELP: The Department of Trade and Industry's 'UKISHELP' 
+web site promoting UK participation in European Commission 
+Information Society programmes has unveiled a new frames-free and 
+graphics-free version:
+http://www.ukishelp.co.uk
+
+DIABETES QUERY: A bulletin reader writes to ask any blind and 
+diabetic people who use a speaking blood sugar monitor, or 
+'glucometer', if they are effective and worth the current retail price of 
+500 UK pounds. Please email dan@headstar.com with your experiences 
+or advice.
+
+BOOK FORAGER: The National Library for the Blind 
+(http://www.nlbuk.org ) is to launch in December a library search system 
+called 'Book Forager', which is designed to make suggestions about 
+which books are most appropriate for each reader. A test version is at:
+http://www.forager.co.uk/nlb
+
+KASDAY TRIBUTE: In our last issue we mentioned the granting of a 
+special award to Dr Leonard Kasday of the Institute on Disabilities at 
+Temple University, Philadelphia by the International Coalition of Access 
+Engineers and Specialists (ICAES). Dr Kasday sadly passed away earlier 
+this year, and a tribute to him from Michael Burks of the International 
+Centre of Disability Resources on the Internet can be found at:
+http://www.icdri.org/passing_of_len_kasday.htm
+
+[Section One ends.]
+
+
+SECTION TWO: ANALYSIS
+- BETA TESTING.
+
+TRIALS AND TRIBULATIONS.
+Phil Cain  phil@headstar.com
+
+Giving visually impaired computer users access to pre-release versions 
+of all kinds of computer software is a vital step to help developers iron 
+out minor access glitches at the last minute.
+
+Last month online service provider AOL became one of the first of the 
+major technology companies to seek out visually impaired beta testers. 
+AOL hopes these testers will offer last minute suggestions to make its 
+new software accessible enough to gain the approval of the US National 
+Federation of the Blind (http://www.nfb.org) by November. If it fails to 
+come up to scratch by then, the NFB has pledged it will restart a legal 
+case against AOL suspended last November.
+
+Despite having accepted the need for accessibility the company has 
+found to its dismay that many in the Internet access community remain 
+deeply antagonistic. Embarrassingly, this antagonism surfaced when a 
+widely-circulated open invitation to beta test its new software was 
+greeted with derision by some members of international email discussion 
+lists dedicated to computer access issues.
+
+Of particular concern to many was that AOL seemed to be requiring 
+testers to join the AOL service, filling out membership forms and 
+submitting credit card numbers. Some wondered why this information 
+was needed when the testing period was said to be free.
+
+Internet access campaigner Katie Haritos-Shea says AOL's registration 
+arrangement was indicative of the corporation's ignorance of the fact that 
+70% of disabled people in the US are out of work and so are unlikely to 
+have credit card numbers. According to Haritos-Shea the company will 
+only gain the respect of the disabled community by employing disabled 
+people in its accessibility unit. "It is a real job," she says.
+
+Internet access consultant David Poehlman's comments echoed these 
+sentiments, saying it is important companies do not use the beta testing 
+process to answer questions that should have been dealt with by 
+employees of the company. "Accessibility testing should only be a sort 
+of bug catcher rather than an answer to the question, 'Is this software 
+accessible?' That question should have already have been internally 
+answered through proper development processes and testing."
+
+Poehlman also says that, "Beta testing should be available to be 
+performed independently of the service for which the software is being 
+tested." In the case of AOL, he said, this would mean testers should be 
+able to test the software without having to sign up to the service. But 
+Poehlman also indicated that the public furore surrounding the AOL beta 
+test could have been avoided, saying: "It is important that beta testers be 
+gathered quietly and that they sign non-disclosure agreements."
+
+Curtis Chong, technology director at the NFB, says it is important for 
+software companies to realise that it is sometimes too early to do 
+accessibility beta testing. According to Chong, Microsoft had asked him 
+several years ago whether the NFB would be interested in testing future 
+versions of the Windows operating system for accessibility." I told 
+Microsoft that we were not interested," Chong said, "primarily because 
+there was no screen access technology that would be compatible with 
+these versions."
+
+It is often the case that mainstream beta testers for non-access aspects of 
+major software products choose to test the software in their spare time 
+simply because they are dependent on the products in their lives and 
+want to see them become more appropriate to their needs.
+
+The danger is that by failing to build in accessibility in the past, many 
+people with disabilities have long ago been forced to find alternatives to 
+mainstream software packages and therefore have little interest in testing 
+new versions for accessiblity. For this to change, software companies 
+will have to prove that from now on they will consistently view 
+accessibility as more than just an afterthought.
+
+* In our next issue: AOL Accessibility Director Debbie Fletter responds.
+
+[Section two ends.]
+
+
+SECTION THREE: TECHNOLOGY
+- VOICE PORTALS.
+
+SPEECH WAVE BREAKS OVER EUROPE.
+Dan Jellinek  dan@headstar.com
+
+The launch last month of Europe's first comprehensive voice-controlled 
+web portal, 'eckoh' (http://www.eckoh.com - see E-Access Bulletin, 
+August 2001), is likely to be followed in the months to come by a wave 
+of other similar services from across the Atlantic, where they are already 
+well underway.
+
+There are a number of organisations already very active in targeting the 
+US corporate market including BeVocal (http://www.bevocal.com), Tell 
+Me (http://www.tellme.com ), HeyAnita (http://www.heyanita.com) and 
+OnStar (http://www.onstar.com) which has launched a full in-car voice 
+portal service providing voice dialling services and voice-activated 
+Internet access.
+
+"I suspect Europe as a whole is at least 18 months behind the US in this 
+field," says Bob McDowall, business and technology consultant to Bloor 
+Research. "However, the gap will be probably be narrowed by US 
+companies introducing their services more quickly into Europe. 
+Mediterranean Europe would appear to provide the most high-level 
+growth in the short to medium term because of the aversion to mouse and 
+keyboard by so many in the corporate world there."
+
+Voice recognition technology in general has improved substantially over 
+the past two to three years, he says. The main challenges faced now 
+relate to the way information accessible by voice is organised.
+
+"Selection can be made quickly and easily on a text screen, but voice 
+portals have still to find an optimal way of enabling users to move 
+rapidly through a menu or move rapidly from one section to another."
+
+The technologies are not universally applicable, he says, but lend 
+themselves particularly to use in accessing short, precise pieces of 
+information in response to enquiries. "The information is likely to be for 
+immediate use or application, and will be of a non-analytical or reflective 
+nature. I would suggest that such information will gain little or nothing 
+from being personalised."
+
+In the US, one of the strongest leaders of such services is AOL, with its 
+AOLbyPhone offering 
+(http://www.aol.com/anywhere/aolbyphone_non.adp ) for accessing e-
+mail, weather, finances and other services. The service recently won an 
+editor's choice award from the US-based Speech Technology magazine 
+(http://www.speechtechmag.com), although as yet there are no public 
+plans to bring the service to Europe.
+
+The other major area of voice-controlled services for mainstream use is 
+in accessing the ever-expanding range of sophistated services offered by 
+mobile phones and other portable communications devices, such as text 
+messaging and address book management.
+
+There are also voice-activated services to enable people to interact with 
+their mobile devices such as Wildfire (http://www.wildfire.com), which 
+has been available for some time in both the US and Europe.
+
+In the UK, mobile phone operator Orange has approximately 40,000 
+customers using the service, with its most popular features being voice-
+activated dialling and voice-enabled voice messaging.
+
+In an interesting cross-fertilisation of phone and Internet, planned 
+developments for Wildfire include the ability to interact with the same 
+services by voice or web and email as preferred.
+
+"Voice is a good medium for access but not always appropriate," says 
+Mike Hartnett, director of business planning at Wildfire. "For instance, if 
+I have a calendar service I am likely to want to create the bulk of the 
+initial information through a web-based interface because that type of 
+detail is more easily input that way. However, when I am mobile or 
+remote from web access and receive a reminder regarding a certain event 
+via voice, I should be able to acknowledge or perhaps change that 
+particular calendar entry via voice.
+
+"The work going on now is to work through scenarios to provide the 
+most flexible and appropriate access for a given user at a given time."
+
+Other developments planned include greater automatic 'intelligent 
+customisation'. For instance when you first start working with Wildfire it 
+helps you to learn and use the services. As you become accustomed to 
+them the early help prompts are weaned away to enable greater speed 
+and efficiency.
+
+And in a move which will bring the service directly into competition 
+with the 'voice portal' providers, wildfire is also working on an 
+extension to enable full voice-activated web access which should be 
+available through Orange by the end of 2002.
+
+Another voice service for mobile devices that has been designed with the 
+visual impairment community expressly in mind is TALX 
+(http://www.talx.de/index_e.htm), a software package which enables 
+users to access all the advanced functions of Nokia communicators such 
+as text messaging and Internet access using voice commands.
+
+The company is German but TALX co-founder Torsten Brand, who is 
+himself blind, says an English version is now fully functional. The 
+company has found distributors in Germany, Italy, Sweden and Belgium 
+though it is still looking for a UK partner for distribution and translation 
+of the full user manual. Brand says TALX hopes to release a new version 
+for the Nokia Communicator 9210 in the second quarter of 2002.
+
+And so, as Europe catches up with the US in this cutting edge field, the 
+future looks bright for voice access to the Internet and personal 
+communications. "In principle it should be much easier to access the 
+Internet by voice than mouse, keyboard and computer screen," says Bob 
+McDowall. "It also opens the internet up geographically and 
+demographically to a much wider range of people." This expansion will 
+certainly include greater ease of access for the blind and visually 
+impaired community.
+
+[Section three ends.]
+
+
+SECTION FOUR: READER RESPONSE
+- SOFTWARE REVIEWS.
+
+WE HAVE THE POWER – BUT AT A PRICE.
+
+There has been a strong response from readers to last issue's request 
+from Gill Burrington of Burrington Partnership for advice on the voice 
+recognition software offering text-to-speech, dictation, and Internet 
+navigation "that work well together and are not outrageously expensive".
+
+Pete Gurney wrote in to say: "there is a premium version of the free 
+accessible office software suite 'EasyOffice' that costs just under 40 US 
+dollars from e-press (http://www.e-press.com).
+
+"Both the free and premium editions allow you to control your machine 
+via voice and browse the web. But the premium edition includes two 
+versions of 'Easy Voice Recognition', one for slower machines and the 
+other with continuous dictation which needs at least a 600 megahertz 
+machine. It also includes an easy web creation program, and a barcode 
+program. Within a few weeks Dixons in the UK will apparently be 
+selling the premium package."
+
+Most other correspondents recommended Dragon Systems' 
+NaturallySpeaking (http://www.dragonsys.com). Pratik Patel, Project 
+Manager, CUNY Assistive Technology Services, said: "What your 
+reader appears to want is a system like we see in Star Trek. A fully-
+functional voice recognition system like that is on its way; but [in] five to 
+10 years.
+
+"While NaturallySpeaking from Dragon currently offers the best 
+performance, due to the need to integrate the technology with other 
+programs it is difficult to achieve perfect results.
+
+"NaturallySpeaking, IBM's voice recognition software ViaVoice 
+(http://www-4.ibm.com/software/speech), or Voice XPress from Lernout 
+& Hauspie (http://www.lhsl.com/voicexpress) rely heavily on the 
+Microsoft Active Accessibility modules to provide them with the proper 
+information in various programs. Despite Microsoft's claims, Active 
+Accessibility is not readily used by programmers when programs come 
+out.
+
+"Moreover, there is no feature in any of the three voice recognition 
+software mentioned above that allows one to read every feature of the 
+operating systems such as dialogue boxes. To do that, one has to obtain 
+JAWS for Windows from Henter-Joyce 
+(http://www.hj.com/JAWS/JAWS.html ), plus an additional program 
+called 'JawBone' from a third company, Next Generation Technologies 
+(http://www.ngtvoice.com/software/jawbone). JawBone acts as an 
+interface betwen JAWS and NaturallySpeaking Professional Version.
+
+"The cost of all three combined runs to around 2,100 US dollars. As if 
+this weren't bad enough, Gill will have to increase her system RAM up 
+to at least 256 MB.
+
+"One of the best things NaturallySpeaking allows is improved speech 
+recognition accuracy. With the proper training it is possible to achieve 
+96-98 per cent accuracy. This also comes at a cost, however. At least 20 
+hours' of training is needed with a trainer who can show the nuances of 
+the software, and I would recommend that users train at least 40 hours 
+more to perfect these skills."
+
+Other Dragon enthusiasts included Sam Howie, who suggested Gill 
+experiments first with a demonstration copy, and Bill Klein of SoVerNet 
+in Vermont (http://www.sover.net), who said: "I am the president of a 
+fast-growing international corporation. My position requires the use of, 
+many widely diversified programs and a great deal of 'dictation' to MS 
+Excel, Word and Outlook Express, to name just a few.
+
+"I'm blind. I've been using Dragon for five years and would be lost 
+without it. In conjunction with my screen reader, I can do almost 
+anything I want. I found that the limitations of Dragon are user-
+dependent - the more you train it, the better it, and you, become. It has 
+numerous navigation features such as file opening and closing 
+commands and will work as fast as you require, or speak.
+
+"Much of my correspondence requires technical language and scientific 
+terminology, and occasionally, Dragon doesn't recognise a word. One 
+spells the word, says it and it's in the system. I've never required any 
+support."
+
+Rick Williams added to the general buzz for Dragon: "I use 
+NaturallySpeaking Professional linked with JAWS via JawBone. The 
+package can take very fast dictation and read back well. It can also 
+dictate direct into Word and, Outlook Express (not so good as it is 
+designed to work with Outlook), and is readily customised.
+
+"There are a number of companies who can supply and train people in 
+using this package, including bdf solutions (http://www.bdf-
+solutions.co.uk )."
+
+Gill Burrington was delighted with this wide-ranging and valuable set of 
+responses. She said: "Two particular things have become apparent. First, 
+there seems to be no inexpensive solution. Second, the restricted choice.
+
+"Having been at at a conference in Washington recently, I have gained 
+some further useful information. The first new (to me) software I 
+discovered was ZoomText (http://www.aisquared.com) which costs 
+around 450 US dollars (430 pounds in the UK), which offers an 
+integrated screen magnifier and screen reader.
+
+"I came home clutching my demo copy and tried to run the programme 
+but my system froze. Their helpful helpdesk diagnosed that the reason 
+for this is that I have not got an accelerated graphics card.
+
+"Also new to me was Arkenstone's OPENBook, costing 675 pounds 
+(http://www.arkenstone.org/main.html ). This allows voice synthesis and 
+Braille output from a scanner, so would be useful for reading journal 
+articles, or indeed the bills which arrive through the post with such 
+depressing frequency! However, the helpful information on Arkenstone's 
+site showed me my four-year-old scanner isn't adequate.
+
+"Taking everything into account, I am giving serious attention to 
+upgrading everything. I should go for the highest specification I can 
+afford, but the total cost is depressing.
+
+"Whatever my final decision, I am hugely grateful to everyone who took 
+the time to respond to my call for help. I know I could have spoken to an 
+advisor in one of the organisations specialising in helping visually 
+impaired people, but knowing what real users of these solutions feel 
+about them will be a tremendous help."
+
+[Section four ends.]
+
+
+HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail eab-
+subs@headstar.com with 'subscribe eab' in the subject header. You can 
+list other email addresses to subscribe in the body of the message. Please 
+encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2001 Headstar Ltd. http://www.headstar.com The Bulletin 
+may be reproduced in full as long as all parts including this copyright 
+notice are included. Sections of the report may be quoted as long as they 
+are clearly sourced as 'taken from e-access bulletin, a free monthly email 
+newsletter', and our web site address http://www.e-accessibility.com is 
+also cited.
+
+PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  phil@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial Advisor - Kevin Carey  humanity@atlas.co.uk 
+
+[Issue ends.]

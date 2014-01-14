@@ -1,0 +1,592 @@
++++E-ACCESS BULLETIN.
+- ISSUE 68, AUGUST 2005.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab/).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 68 Contents.
+
+Section One: News.
+
+01: Talking Cash Machines Go Live in New Zealand
+- Credit unions unveil state of the art technology.
+
+02: Orange Admission Over Switching Off Wildfire
+- Telecoms company underestimated depth of user feeling.
+
+03: 'Huge Talent Pool Squandered' If Technology Inaccessible
+- US analyst issues warning to mainstream industry.
+
+04: Onetel Most Accessible of Telecoms Web Sites
+- But charity survey finds many with poor records.
+
+News in Brief:
+05: Audible Monopoly - accessible board game; 06: Working Practice
+- inclusive office design; 07: Tactile Nomination - European awards.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Blog Suggestion - content system; 09: Talking Bank - web
+recommendation; 10: Show Schedule - BBC7 radio listings; 11: Game
+Check - chess query; 12: Life Story - seeking inspirational tales.
+
+Section Three - Technology Focus - MP3 Players.
+13: The Portable Audio Revolution: portable MP3 players such as
+iPods are everywhere - but are they accessible to users with impaired
+vision? Mel Poluck reports.
+
+Section Four: Focus - Inclusive Design.
+14: A New Cash Fund Seeks New Ideas: digital technologies can open
+up many new educational opportunities to people with disabilities. Will
+Pearson of the National Endowment for Science, Technology and the
+Arts unveils a new scheme to boost innovation in this field.
+
+[Contents ends].
+
+
+++Special Notice: e-Access'05
+- 14 September 2005, CBI conference Centre, London.
+http://www.headstar-events.com/eaccess05/
+
+E-Access'05 is a new major national exhibition and conference
+examining all the issues surrounding access to new technologies,
+information and digital services by all. Speakers include Jonathan
+Hassell, BBC New Media; John Williams, founder of internet TV
+channel at508.com; and Kevin Carey, vice-chair of RNIB.
+
+Attendance costs just 145 pounds for public sector and 195 pounds for
+private sector delegates. Come along and experience what is shaping
+up to be the UK's largest ever event focused on access to technology
+by all. For more see:
+http://www.headstar-events.com/eaccess05/ .
+
+[Special Notice ends].
+
+
+++Section One: News.
+
++01: Talking Cash Machines Go Live in New Zealand.
+
+New Zealand's first talking bank cash machines (ATMs) have been
+installed by 13 branches of the country's credit unions, it was
+announced last month.
+
+And all machines installed in future will have speech capability,
+according to the New Zealand Association of Credit Unions
+( NZACU - http://www.nzacu.org.nz/ ).
+
+Customers of the not-for-profit unions, which provide banking and
+insurance services, can access the ATMs through a universal
+headphone socket using any standard set of headphones.
+
+As well as providing vision-impaired users with greater independence,
+the new machines also enable more privacy when carrying out
+transactions, NZACU spokesperson Vicky Mackenzie told E-Access
+Bulletin.
+
+"What's really good about the machines is that the screen goes blank
+once you plug the headphone in, so a sighted person standing close by
+would not be able to see or hear what transactions are being carried
+out," Mackenzie said.
+
+The talking ATMs also provide users with detailed information about
+their withdrawals. "The machine tells the user the number of notes that
+have been dispensed. New Zealand currency varies only very slightly
+in size and the notes feel quite similar so it would be difficult to tell
+what denomination they are. But with the machine, if you withdrew
+100 dollars, it would tell you that you've received five notes or 10
+notes or two notes, so you would know what denomination they are
+in," said Mackenzie.
+
+"The [New Zealand] banks do not have this facility available and the
+Association of Blind Citizens of New Zealand have been pressuring
+them to make a change but they have met with the same response as
+you have in the UK," said Mackenzie. "However, with the Credit
+Unions being the first to release these ATMs, there would be a fair
+amount of social pressure now on other financial institutions to
+upgrade," she said.
+
+A recent E-Access Bulletin investigation revealed that most major
+High Street banks in the UK have no plans to introduce talking cash
+machines in the near future ( see also Issue 67, July 2005).
+
+
++02: Orange Admission Over Switching Off Wildfire.
+
+The mobile phone operator Orange has admitted it underestimated the
+strength of feeling among vision-impaired users which has followed
+the withdrawal of Wildfire, a system which allowed people to access
+services using voice commands.
+
+Plans to scrap the service, announced earlier this year, led users to
+campaign for the decision to be reversed, gaining widespread media
+coverage. Orange responded by delaying the closure, but the axe
+finally fell on Wildfire in July, after five years
+( http://www.orange.co.uk/wildfire/ ).
+
+The service was particularly valued by vision-impaired users because it
+enabled them to search for contact details, make calls, and manage
+messages using voice commands instead of the phone keypad.
+
+"One thing we've learned from Wildfire is that we didn't appreciate
+how much this service meant to vision-impaired users," Jonathan Rose,
+Orange head of communications told E-Access Bulletin. The closure
+prompted some users to launch campaign web sites such as the
+Campaign to Access Orange
+( http://www.croftsfamily.com/campaigntoaccessorange/ ).
+
+According to Rose, the decision to scrap Wildfire was taken for a
+combination of technical and business reasons. "We don't have the
+ability to maintain the Wildfire platform," he said. He said Orange
+does now have a team that is actively looking at how to deliver longer
+term benefits to customers with disabilities, although he declined to
+give any specific details.
+
+The company is offering former Wildfire users free use of TALKS
+( http://www.scansoft.com/speechworks/talks/ ),
+a text-to-speech engine for mobile handsets, and a handset upgrade if
+needed. Customers should dial 294 from their Orange phones to find
+out more. However, TALKS does not interpret voice commands like
+Wildfire, which was installed on a remote server.
+
+
++03:  'Huge Talent Pool Squandered' If Technology Inaccessible.
+
+A huge talent pool in every profession is set to be squandered unless
+technology companies can ensure better accessibility to computers and
+information, a leading US assistive technology broadcaster will tell a
+UK accessibility conference next month.
+
+Accessible digital materials can increase opportunities in all areas of
+life for people with disabilities, but users must ensure mainstream
+technology companies pay more attention to their needs, according to
+John Williams, founder of US-based internet TV station AT508.com
+(http://at508.com/ ). The station is named after Section 508 of the US
+Rehabilitation Act.
+
+"Most employers still have the idea that people with disabilities can not
+do the work that able-bodied people do," said Williams, who will
+deliver an address at E-Access'05 in London on 14 September
+(http://www.headstar-events.com/eaccess05/ ).
+The conference is hosted by the publishers of E-Access Bulletin and
+supported, among others, by the broadcaster BSkyB; the RNIB;
+content management systems specialist Jadu; web speech-enabler
+Browsealoud and the Society of Public Information Networks (SPIN).
+
+"The conference can expand the awareness of the availability of
+[assistive technology] products," Williams said. "I am hoping to see
+new products, meet manufacturers and advocates and learn what is
+being done by governments in other countries."
+
+
++04: Onetel Most Accessible of Telecoms Web Sites
+
+Onetel ( http://www.onetel.co.uk ) has topped the results of a survey on
+the accessibility of UK telecommunications companies' web sites,
+published this week by the charity AbilityNet
+(http://www.abilitynet.org.uk/ ).
+
+Kingston Communications ( http://www.kcom.com/ ) also gained a
+high rating for its site in the survey, which used both automated and
+manual accessibility checks.
+
+AbilityNet also asked all companies surveyed to make a public
+commitment to web accessibility to which only Kingston
+Communications; Onetel; O2; Telewest; and Vodafone agreed. The
+remaining sites - BT; NTL; Orange; T Mobile; and 3 - failed to meet
+basic accessibility criteria, and failed to sign up to the accessibility
+commitment.
+
+"[The report] encourages other companies to focus their minds," said
+Jon Gooday, senior consultant at AbilityNet. He said often there is one
+individual within an organisation keen to enhance the accessibility of
+their web site, but without access to resources or support from senior
+managers, the work cannot be carried out. Gooday said this report
+could help such individuals by raising awareness.
+
+AbilityNet's next web accessibility report will focus on UK utility
+companies.
+
+
+++News in Brief:
+
++05: Audible Monopoly: A new audible version of the famous board
+game Monopoly has been launched by the accessible games site
+Kitchen's Inc. Players can compete against the computer or invite up to
+five others to play:
+http://www.kitchensinc.net .
+
++06: Working Practice: Guidance on inclusive design in offices has
+been published in a new book aimed at managers and architects,
+published by RNIB access consultancy JMU Partnership. 'The
+accessible office' covers standards, research and regulations:
+http://fastlink.headstar.com/bco1 .
+
++07: Tactile Nomination: GRAB, A European research project to
+develop tactile and audible versions of three-dimensional computer
+graphics has been shortlisted for the European Commission's 1 million
+euro Descartes Research Prize. The winner will be announced in
+December. GRAB's test applications include a 3D city map and an
+adventure game:
+http://www.grab-eu.com .
+
+[Section One ends].
+
+
+++Special Notice: Techshare 2005
+- Early Bird Rate to 1 October
+- 17-18 November, Jury's Inn, Birmingham, UK.
+
+Techshare 2005 is an international event for professionals interested in
+technology and the role it plays for people with sight problems. The
+conference will take place on 17 and 18 November with pre-
+conference workshops - newly announced - on the 16 November. It
+will be held at the Jury's Inn, Birmingham.
+
+This conference is aimed at professionals who work in the field of
+sight loss or have an interest in technology. Packed with presentations
+and workshops, Techshare is a fantastic opportunity to meet with
+experts and other professionals in your field.
+
+To register visit:
+http://www.techshare.org.uk .
+
+[Special Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
++08: Blog Suggestion: Tom Worthington IT strategy consultant and
+Director of TomW Communications in Australia, writes in response to
+our June story 'Many Blogs Impossible to Access.' "On a positive
+note, I found the Atutor Learning Content Management System
+( http://www.atutor.ca/ )
+is reasonably accessible and just about works on mobile phones as
+well. But given it comes from the Adaptive Technology Resource
+Centre, that is not surprising. Perhaps they need to do some blog
+software."
+[Further responses please to inbox@headstar.com ]
+
+
++09: Talking Bank: Graham Wilkins from Gillingham in Kent, UK
+writes in to add to our ongoing contributions on accessible banking,
+with praise for HSBC's First Direct web site. "I didn't expect much joy
+when I tried accessing my First Direct account using speech, but I was
+very impressed," he says. "I could navigate the pages, with some
+patience because of the number of repeated links, read my statements,
+and make a bank transfer payment using speech. I am running
+Window-Eyes version five on Windows XP, and used Internet
+Explorer.
+
+"I helped my son access his new account with First Direct with exactly
+the same version of Window-Eyes on a different computer and we had
+problems, particularly moving between the on-screen elements and
+having all the text read out. I am assuming there is something different
+in the setup of our screen readers, though what it may be I have as yet
+to find out."
+[Further responses please to inbox@headstar.com ]
+
+
++10: Show Schedule: Jim Taylor writes in to offer a source for BBC7
+digital radio programme listings: "For those using DAB radios, there is
+a weekly, detailed guide to BBC7 programmes, distributed every
+Thursday morning. The guide, as far as possible, is designed by a blind
+person to suit the needs, and quirks, of speech synthesisers. For a
+sample week's programmes, subscribe to:
+bbc7-listings@yahoogroups.com
+Regards and happy listening."
+
+
++11: Game Check: Loh Kong Ken writes: I am a keen blind chess
+player from Malaysia. Does anyone know any web site where I can
+play chess online? Your assistance is greatly appreciated!"
+[Responses please to inbox@headstar.com ]
+
+
++12: Life Story: Finally, a request from E-Access Bulletin: If readers
+have their own true story to tell about an inspiring trip or episode in
+their life involving any aspect of the use of access technologies, please
+email Mel Poluck on mel@headstar.com . Your story may be
+published in the bulletin!
+
+[Section Two ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Three - Technology Focus
+- MP3 Players.
+
++13: The Portable Audio Revolution
+By Mel Poluck.
+
+It seems like every other person in the street these days is wearing an
+MP3 player to listen to music: they are the 'Walkman' of the present
+day, and even more popular than those original portable music devices.
+
+It is no surprise therefore that MP3 players have also proven hugely
+popular with blind and vision-impaired people, with their capacity to
+fit a vast amount of music or other audio content into a tiny device that
+fits comfortably in the pocket.
+
+The problem for vision-impaired users comes with the accessibility of
+the device itself, such as the design of its screen or its buttons.
+
+For example, when Sue Allard of the British Retinitis Pigmentosa
+Society bought Creative Labs' Nomad ZenXtra MP3 player
+( http://fastlink.headstar.com/creative1 )
+she had some vision, and could navigate her way around it using a
+magnifier
+
+"However, now I can no longer see the screen, I have had to give up
+quite a few of its features as it is menu-based," she says. Without a
+text-to-speech option, Allard says she no longer has access to features
+such as 'bookmarking,' an experience she describes as "really
+frustrating.
+
+"I have worked out how to get to the list of albums, artists and authors
+and can locate individual books or tracks by storing them in
+alphabetical order, but I can no longer use playlists. It's a brilliant but
+not accessible machine," Allard says.
+
+One advantage of music storage devices for vision-impaired users is
+that they neatly double up as audio book players, and can be used to
+listen to 'podcasts': a term for distribution of audio content over the
+internet such as that used by many internet radio stations.
+
+On the other hand, most standard players are not as sophisticated or
+flexible as the generally larger, specialist devices which are designed
+purely to play back audio books. "Most mainstream MP3 players offer
+few navigation options," says Anna Dresner, Publishing Associate
+from the National Braille Press in the US and author of 'The iPod
+Experience: Gaining Access to the iPod shuffle'
+( http://fastlink.headstar.com/nbp1 ).
+
+"If you're trying to read particular pages or look something up in a
+reference book, you need [standard e-book format] DAISY navigation
+features," Dresner says. "DAISY's ability to synchronise text and audio
+is a very exciting idea as well, because it would make it possible to
+search for specific words, check the spelling of unfamiliar words and
+make the book available to deafblind people if a Braille display could
+be used with the DAISY device."
+
+However, there are MP3 players designed with vision-impaired users
+in mind, and which handle e-books well. The Book Port
+( http://sun1.aph.org/products/bp_bro.html )
+from the American Printing House for the Blind
+( http://www.aph.org )
+for example, plays music files, DAISY files, and text, including Word
+documents and has more advanced navigation features than
+mainstream players.
+
+The problem with Book Ports, however, is that they use removable
+media. "You are then faced with organising, carrying and sorting
+memory cards," Allard says. "With my Nomad I have my entire music
+collection with me at all times and just about as many Audible books
+as I can download; and all in a device a bit bigger than a cigarette
+packet."
+
+While levels of accessibility vary from player to player, Apple's iPod
+Shuffle - a device the size, shape and weight of a cigarette lighter with
+the most basic of buttons and space for 120 tracks and up to 120 hours
+of audio book time - rates high for accessibility.
+
+"Except for the battery gauge, the iPod Shuffle is completely
+accessible, and very easy to use," Dresner says. "The major
+disadvantage is that Windows does not treat it like a standard USB
+drive, so you have to use other software to manage it, and iTunes, the
+most common iPod management program, is difficult to use without
+scripts or set files," she says. "This means that you have to spend more
+money to get software that allows you to manage it effectively."
+
+To answer this problem, last month Brian Hartgen, technical consultant
+at UK-based assistive technology consultancy TandT Limited, released
+accessible scripts for 'iTunes,'
+(http://www.tandt-consultancy.com/itunesscripts.html ),
+allowing vision-impaired users of the JAWS for Windows screen-
+reader to manage their music files. It costs 30 pounds.
+
+Other solutions include Steve Holmes's Window-Eyes set files for
+iTunes
+(http://www.holmesgrown.com/window-eyes/itunes.zip )
+and the Anapod Explorer
+( http://www.redchairsoftware.com/anapod/ )
+from Red Chair Software in the US which costs about 20 pounds. This,
+according to Hartgen, allows you to "treat your iPod a little like
+windows explorer in the sense that you can copy files to and from the
+device using explorer as an interface."
+
+So the market for both mainstream and specialist MP3 players is
+expanding, and for those devices that are inaccessible, solutions are
+emerging at a rapid pace. The MP3 revolution continues.
+
+[Section Three ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+[Special notice ends].
+
+
+++Section Four - Focus
+- Inclusive Design.
+
++14: A New Cash Fund Seeks New Ideas
+by Will Pearson.
+
+There is ever greater acknowledgement in UK education that primary
+accessibility of technology resources is a fundamental right of all
+students and teachers.
+
+With legislation in place, and burgeoning support networks among
+teachers and parents, inclusive schooling often incorporates advanced
+digital technologies alongside non-technological teaching approaches.
+More teachers than ever before are aware of the existence and
+capabilities of screen readers, Braille displays, text-to-speech, and
+British Sign Language avatars, among other access tools.
+
+However, the debate around inclusion has seemed to shift over recent
+months from primary accessibility of educational materials to the need
+for a more radical overhaul of the entire structure and fabric of
+classrooms to create the kinds of flexible teaching solutions that so
+many parents and teachers desire.
+
+Into this debate steps inclusive design, sometimes known as design for
+all, or universal design for learning. It is at heart a moral position that
+states quite bluntly that separate and distinct resources for diverse
+learner groups, while helping them attain against normative assessment
+scales, can leave them without an understanding of other needs and
+other possibilities, and lacking in vital social interaction.
+
+Inclusive design, in the words of a recent Design Council briefing, is a
+challenge: "The challenge is to use design as a tool for delivering on
+social and political expectations of equality and inclusivity, and so
+create a supportive environment of buildings, products, services and
+interfaces that makes it possible for everyone to live independent and
+fulfilling lives."
+
+The Center for Applied Special Technology (CAST) in the US has
+since 1984 championed digital technologies as the key to modelling
+and promoting the principles of inclusive design. The inherent
+flexibility of digital materials mean that transformations, changes in
+scale, contrast, use of multiple media and input and output options
+have been employed to address student learning needs.
+
+However, this can be seen as having yoked input and output to
+accessibility too tightly, and specialisation has occurred to create very
+exclusive products. These are valuable tools, allowing researchers and
+consumers to test to the limits the capabilities of the internet, for
+instance.
+
+One concern voiced by Bob Regan, head of accessibility at
+Macromedia, at a design conference in Brazil last December was that
+the single biggest failure of accessibility expertise is the lack of
+engagement with designers from a wide enough spectrum, from
+products designers through to software developers. It is almost as if
+aesthetic sensibilities, wide use and multiple functionality were
+somehow "detracting" from the core, primary accessibility, and
+worked counter to it in some way.
+
+Inclusive design decisively challenges this separation. UK educational
+resources need a boost from new and innovative resources that can tear
+down some of the barricades, and a new fund may just hold the answer.
+
+Inclusive Views
+( http://www.nesta.org.uk/inclusiveviews )
+is a new fund from the National Endowment for Science, Technology
+and the Arts (NESTA) that aims to advance the use of inclusive design
+within learning tools and applications.
+
+The fund has launched its first Call for Ideas which seeks to take early
+stage ideas for learning technologies through to market, providing seed
+investment and long term royalties for the selected four ideas. Working
+side by side with Inclusive Technology Limited, NESTA will be keen
+to evaluate hardware and software products that will be sold through
+Inclusive Technology's extensive networks.
+
+Anyone can apply through the web site listed above: applications
+received so far range from games designers wishing to create fully
+inclusive 3D game worlds, to those wishing to use virtual reality
+avatars to guide users around learning resources on mobile phones.
+
+All ideas will be judged by an expert panel after the closing date at the
+end of September. Members of the panel are already excited about the
+new solutions that might emerge.
+
+NOTE: Will Pearson is programme manager, NESTA Learning at
+NESTA.
+
+[Section Four ends]
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2005 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technician - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.] 

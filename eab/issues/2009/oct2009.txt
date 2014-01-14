@@ -1,0 +1,630 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 118, October 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Special Notice: Designing for all: an inclusive approach to web,
+print and electronic publishing
+- A practical, one-day training course and document clinic
+- Tuesday  8 December, Central London
+http://www.headstar-events.com/dfa/
+
+Trainer: Katie Grant, former publications manager, Disability Rights
+Commission.
+
+'Designing for all' is a practical seminar designed to introduce
+organisations to the importance of designing accessible, easy-to-read
+information for a range of different audiences including older people,
+people with disabilities and people for whom English is not their first
+language.
+
+This course will help assess specific audience needs, identifying
+methods of accessible communication, and see how different formats
+and styles work for different audiences. It will be of value to anyone
+involved in the design and delivery of information in print, electronic
+and web formats, including web content managers; content teams;
+marketing and communications officers; and publications staff.
+
+The course runs on 20 October in central London and the training fee is
+£395 + VAT. To book your place, see:
+http://www.headstar-events.com/dfa/
+
+[Special notice ends].
+
+
+++Issue 118 Contents.
+
+01: EC Proposes Law To Address 'Fragmented' Accessibility Rules
+- Harmonisation needed to fight disability exclusion, commissioner
+says.
+
+02: Access Information Absent From TV Set Maker Websites.
+- Products often accessible but consumer data is poor, expert finds.
+
+03: ICT Data Gap 'Hindering Disabled Business Owners'
+- Debate highlights lack of knowledge of user needs.
+
+News in Brief: 04: Model Employers - good practice awards; 05: TV
+Opinions - Regulator code consultation; 06: Good Form - Assistance
+for elderly with web services; 07: Windows Guide - software
+development advice.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Book Barriers - overseas copyright problems for electronic
+formats; 09: Accountability Concern - worry over online requirements
+for small firms; 10: Format Reassurance - 'no issues' with browser
+style-sheets site.
+
+Section Three: Debate report - Technology and disabled
+entrepreneurship.
+11: Open for Business? Almost all business these days make use of
+technology. So how hard is it to start up a business as a disabled
+entrepreneur, if the technologies you need are not accessible? Tristan
+Parker reports.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: EC Proposes Law To Address 'Fragmented' Accessibility Rules.
+
+A 'European Disability Act' has been proposed by the European
+Commission to standardise guidelines on web accessibility for disabled
+people.
+
+In a speech in Brussels earlier this month, Viviane Reding -
+commissioner for information society and media - said approaches
+need to be harmonised throughout Europe. "We cannot achieve the
+single market by leaving aside certain parts of our population", said
+Reding. "I am talking about e-accessibility: 15% of our population is
+disabled, and our rules on accessibility are still fragmented."
+
+Reding also urged Europe-wide adoption of the international Web
+Content Accessibility Guidelines created by the World Wide Web
+Consortium standards body (WCAG:
+http://www.w3.org/TR/WCAG20/ ), saying a new disability law is the
+most effective way of achieving this. "We should do it together and in
+step so that . users get a decent and reliable framework. I believe the
+way we should do this is to develop together with stakeholders a
+European Disability Act", she said.
+
+In her speech - entitled 'The Digital Single Market: a key to unlock the
+potential of the knowledge based economy' (
+http://bit.ly/A6JHv )
+- Reding said the current fragmentation of accessibility laws is leading
+to EU member states approaching the subject from different directions,
+damaging the effectiveness of current legislation: "We have to consider
+that this is costly for industry because they have to respond to a wide
+range of fragmented national standards. It also leaves disabled people
+without a consistent level of service that they can expect", she said.
+
+Currently, the UK Disability Discrimination Act requires UK websites
+to be accessible for those with disabilities, including visual and hearing
+impairments, though there are no specific guidelines in the act itself as
+to what this constitutes.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=346
+
+
++02: Access Information Absent From TV Set Maker Websites.
+
+One of the UK's leading experts on accessible technology has called
+for TV set manufacturers to provide better information on their
+websites about access to their products by people with disabilities.
+
+Adrian Higginbotham, manager of cutting edge research at the UK's
+education technology agency Becta, made the comments after his own
+attempts to buy an accessible TV set which supported audio
+description (AD) were hampered repeatedly by poor information
+online.
+
+Speaking to E-Access Bulletin this month in a personal capacity, he
+said the best source of information he had found had been
+announcements on the independent 'TV Help' guidance website (
+http://www.tvhelp.org.uk/audes/ ) that all new Panasonic models;
+nearly 40 Sony sets; six Toshiba sets and a few sets from Philips would
+be audio description-ready. But when he had looked for accessibility
+information on the websites of the manufacturers themselves, there had
+been almost nothing of use.
+
+On the Panasonic website, there had been no relevant information at
+all, even though "It didn't seem like the sort of thing they would leave
+out, given the level of technical detail they went into," Higginbotham
+said. The Sony website mentioned audio description features in an
+online glossary of terms, but not on most model descriptions.
+
+Following an online query from Higginbotham earlier as to which
+current models supported AD, Sony UK's Customer Information
+Centre replied: "No details of the products due for launch in the future
+or their specifications are made available or published prior to their
+launch. I regret therefore that I am unable to provide you with any
+information at this time."
+
+Higginbotham next pointed out his question was not about future
+models but currently available products, and asked: "Is your rather
+vague message of earlier today trying to tell me that Sony has taken a
+strategic decision to backtrack on the support which it has previously
+offered to visually impaired customers?"
+
+This led to a second reply which was "the complete opposite" of the
+first, stating
+all current models did in fact support AD. While this did indeed turn
+out to be the case, Higginbotham said, "I didn't in the end buy a Sony,
+or even look at many of their models because the whole experience of
+dealing with the customer centre didn't particularly make me feel like
+giving them the benefit of my business."
+
+Manufacturers that make their sets accessible are to be commended, he
+said, but unless they make the information available there is not much
+point. "I wouldn't expect all customer support staff to know about it or
+staff in high street shops, but it should be on their own website."
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=348
+
+
++03: ICT Data Gap 'Hindering Disabled Business Owners'.
+
+A lack of reliable data about the use of ICT by people with disabilities
+is making it harder for disabled entrepreneurs to succeed, delegates
+heard at a recent debate hosted by the Information Technologists'
+Company, a livery company of the City of London.
+
+The debate was on the motion: "This House believes that it is harder
+for disabled entrepreneurs to compete in the fast-moving digital age".
+
+Nick Goss, managing director of Goss Consultancy (
+http://www.gossconsultancy.co.uk/ ), said a lack of knowledge on the
+subject was a major barrier: "How do we know how many disabled
+people are using IT, how do we know what needs and support disabled
+people may need when it comes to providing accessible IT?", he said.
+
+Penny Melville-Brown from Disability Dynamics (
+http://www.disabilitydynamics.co.uk/ ) said inaccessible technology
+itself was also holding back disabled people. "If the technology is not
+capable of supporting you, you are on the back foot, competitively .
+Technology at the moment has very little concept of accessibility and
+actually puts disabled entrepreneurs like me and many others in this
+country at a significant disadvantage".
+
+However Andrew Thomson, director of Sign-now.com ( http://sign-now.com/ 
+), said technology has "enhanced quality of life" for disabled
+people, and can benefit those running their own business if the right
+equipment is used. "Technology has given us access to the mainstream
+world", Thomson said. In a close vote, the motion was ultimately
+defeated by 28 votes to 23.
+
+NOTE: For a full report on the debate, see section four, this issue.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=354
+
+
+++News in Brief:
+
++04: Model Employers: Public and private sector organisations
+demonstrating good practice in supporting employees with disabilities
+are being recognised at an awards ceremony later this week organised
+by the Employers' Forum on Disability. Nominees for the Disability
+Standard 2009 Awards on 28 October include the BBC and the Home
+Office:
+http://www.disabilitystandard.com/awards/entry_2009/
+
++05: TV Opinions: Responses to a review of its code of television
+access services are being invited by the Office of Communications
+(Ofcom), for submission before November 12. An executive summary
+of the code, which includes an examination of whether audio
+description quotas should be increased, can be found at:
+http://bit.ly/1K26mG
+And the Royal National Institute of Blind People has produced online
+guidance on responding to the consultation, at:
+http://bit.ly/gLlzw
+
++06: Good Form: Help for older people with completing complex
+online forms for key services such as a housing benefit application or
+buying a train ticket is being developed by an EU-funded research
+project, Delivering Inclusive Access to Disabled and Elderly Members
+of the community (DIADEM). Researchers in three countries (the UK,
+Norway and Italy) have developed web-based technology which can
+simplify the path taken to complete the online activity and provide
+other assistance including audio help. The project is holding a free
+workshop in London on 28 October: for information contact Dr Senaka
+Fernando on mailto:senaka.fernando@brunel.ac.uk or telephone
+01895267556. The project website is at:
+http://www.project-diadem.eu/
+
++07: Windows Guide: A guide to developing accessible software is
+being offered for free download by Microsoft. 'Engineering software
+for accessibility' addresses key issues facing software developers and
+explains some of the accessibility processes used by Microsoft in
+creating the brand new 'Windows 7' operating system, released last
+week:
+http://bit.ly/2Wj9sB
+
+
+[Section One ends].
+
+
+++Special Notice: Future Democracy '09
+- UK's Leading E-Democracy Conference Is Back
+- 25 November, Central London
+http://www.headstar-events.com/edemocracy09/
+
+The UK's leading annual conference on all aspects of e-democracy is
+back, covering e-campaigning, e-petitions and e-voting as well as all
+aspects of the use of the internet and new technologies in the policy
+cycle; democratic activity and engagement. We are proud to now be in
+our sixth year.
+
+A very strong speaker line-up is taking shape: have a look at the latest
+agenda online today. Our supporters and partners include The Hansard
+Society, MySociety, PEP-NET and the RSA, and our media partner
+this year is Total Politics.
+
+Registration costs just £195 + VAT for delegates from public sector,
+educational and voluntary bodies and £295 + VAT for private sector.
+For more see:
+http://www.headstar-events.com/edemocracy09/
+
+[Sponsored Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++08: Book Barriers: A reader who wishes to remain anonymous writes
+in with a query about barriers to downloading accessible electronic
+books thrown up by international copyright laws.
+
+"Due to copyright laws, many DAISY books [created using the
+international DAISY standard http://www.daisy.org ] can't be
+purchased by individuals living outside the country in which they are
+produced," he says. "For example, if RNIB produces a book in Braille
+and DAISY, they can sell me the Braille book but not the DAISY title,
+as I live outside the UK. Likewise with the US. However, I can
+purchase commercial audio books from Amazon or subscribe to
+Audible.com but can't access titles on Bookshare.org [a US service
+offering accessible books for free download for qualifying people in
+the US only].
+
+"A good supply of books is OverDrive [a leading online digital book
+distributor: http://www.overdrive.com ]. Unfortunately, most of the
+titles can only be played on players that support the protected Windows
+media format, DRM (Digital Rights Management). The issue with this
+format is that from what I understand, none of the Blindness-specific
+players support it. My Zen Stone [an audio MP3 player from Creative]
+does, but it is limited in storage and functionality.
+
+"OverDrive also supports MP3 and iPods, but I understand there are
+fewer titles to choose from. I have made some enquiries, and
+understand that none of the blindness-specific players supports the
+DRM format due to the costs in licensing.
+
+"So in this age of downloadable this and that, for some of us,
+especially in smaller countries, access to accessible information is still
+limited. So I guess my questions are: are there ways that one can
+purchase or download DAISY books if you don't live in the originating
+country? Is there a way to play protected file types on non-standard
+players, and if not, what can we do to convince Microsoft or the
+producers of such players to play these formats? I have asked the
+companies concerned but I got the impression that this wasn't high on
+their list for upgrading their players."
+
+Separately, our reader would also like to know: "Has any reader heard
+if anyone is working on software for playing DAISY books on the new
+iPod Nano?"
+
+[Responses to any of these questions please to inbox@headstar.com ].
+
+
++09: Accountability Concern: Concern about how far small businesses
+with few resources might be expected to go to make their online
+services accessible is expressed in a blog comment from a reader who
+runs an online shop selling baby pushchairs, prams and buggies (
+http://www.pushchairsonline.com ).
+
+Our correspondent writes: "We haven't really accounted for blind or
+disabled access, mainly as we are a small outfit. We have tried to use
+reader-friendly fonts etc, [but] anything more would cost us plenty of
+money we don't have.
+
+"At what point can on online presence be held accountable for its
+access?"
+
+[Responses please to inbox@headstar.com ].
+
+
++10: Format Reassurance: In our January 2009 issue, Diana Monahan
+of Moor End Technology College, Huddersfield, wrote in to describe a
+problem she encountered in attempting to use the 'Oneformat.com'
+website, which offers useful free accessible web browser style sheets to
+download, and is the subject of past coverage in E-Access Bulletin.
+Diana had said: "I went to the site recently and was told by the school
+software that 'Virus/spyware Troj/Comic-Fam has been detected.'"
+
+The site's creator, Daljit Singh, has now responded to reassure readers
+that: "The issue is the computer software on the machine in question.
+Try turning off the web shield on the anti-virus program while using
+Oneformat.com. There are no issues with the website itself, other than
+my needing to revise the feedback and contact pages.
+
+"Please do not hesitate to contact myself if there are any other
+problems. I am glad that folk are still finding the site to be useful."
+
+[Further comments please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Debate report
+- Technology and disabled entrepreneurship.
+
++11: Open for Business?
+By Tristan Parker.
+
+Few businesses in the modern world do not make use of digital
+technology. But how does this affect the half a million disabled people
+running their own businesses in the UK? This was the question posed
+earlier this month by the Information Technologists' Company (ITC)
+as they debated the motion: "This House believes that it is harder for
+disabled entrepreneurs to compete in the fast-moving digital age."
+
+Speaking in support of the motion was Penny Melville-Brown, senior
+consultant at Disability Dynamics (
+http://www.disabilitydynamics.co.uk/ ), an organisation offering
+equality training and consultancy. She argued that as well as poor
+access to technology, the technology itself was also holding back
+disabled people in business.
+
+Citing a study from the Office for Disability Issues, Melville-Brown
+said internet use by disabled people is around 25% lower than the rest
+of the population. Additionally, she said, disabled people have
+generally lower skills than the rest of the population, with 50% of
+disabled people having no qualifications at all, meaning that IT skills
+will also be lower. "There is very little . . . accessible training and
+accessible learning around IT", she said.
+
+Data from the Office for National Statistics indicates that disabled
+people are more likely to be self-employed than non-disabled people,
+but this statistic reveals only half the picture, she said. Although
+starting one's own business offers various benefits such as flexible and
+home working, and easier use of personal accessibility equipment,
+disabled people are often forced into this position because of
+difficulties in gaining or retaining employment in other areas, said
+Melville-Brown.
+
+"Disabled people are really pushed towards self-employment because
+they still face such incredible discrimination when they're trying to get
+jobs," she said. It is often the case that they have no other option than
+to set up for themselves because they want to work".
+
+Even with some technology literacy, such as the ability to send emails,
+many people with disabilities remain unable to perform basic IT
+functions such as creating spreadsheets and downloading attachments,
+she said. This puts businesses run by disabled people at a huge
+disadvantage. Many businesses of today would struggle if they were
+forced to use paper invoices for all work, or had PowerPoint taken
+away from them, said Melville-Brown - problems which apply to
+many disabled business owners. "There is absolutely no question that
+technology at the moment has very little concept of accessibility and
+actually puts disabled entrepreneurs like me at a significant
+disadvantage".
+
+Opposing the motion was Andrew Thomson, Director of Sign-
+now.com ( http://sign-now.com/ ), a web-based translation service
+enabling easier communication between deaf and hearing people.
+Technology can be of huge benefit to disabled people in business, and
+is often unfairly labelled as prohibitive to employment, Thomson said.
+
+"As a disabled person, the reason I'm against [the motion] is
+technology actually cannot speak for itself", he said. "Technology is
+created by man, and you can change it to meet your needs. Technology
+doesn't stop disabled people gaining employment, I think it's attitude
+that stops employment - society's attitude."
+
+Any technology must suit the needs of the user for its potential to be
+fully exploited, and different assistive technologies will be appropriate
+for different people, Thomson said. "Technology has to meet your
+needs individually. For example, the cochlear implant [providing a
+sense of sound to some deaf people] - that's technology, it's fantastic.
+It meets the needs of mainstream society and it's appropriate for people
+who acquired speech and English as their first language. But for me, I
+actually sign through videophones and interact with other deaf people."
+
+Overall, new technologies have enhanced quality of life for people
+with disabilities and have "given us access to the mainstream world",
+said Thomson. "It is a powerful tool and we should embrace it, not
+criticise it."
+
+Ben Fletcher, a consultant at IBM, agreed, saying that given the choice
+between living as a deaf person 20 years ago and living in the present,
+he would choose the present: "20 years ago there wasn't email, there
+wasn't Facebook - access at that time for me as a deaf person would
+have been much harder. I would have been at home unable to engage.
+Now I can contact clients directly and make social contact."
+
+However, Fletcher also agreed with Melville-Brown that barriers
+remained: "We need to campaign to try and change technology at the
+same time as we're using it and see how it can help us achieve what it
+is we want to achieve."
+
+Gary Macfarlane, founder of BlueBadge Finder (
+http://www.bluebadgefinder.com/ ), a service allowing people to find
+nearby disabled parking and other services via their mobile device, said
+the technology industry needs help to improve. "We have to try and
+assist the industry", said Macfarlane. "It's not always their fault. They
+don't know why, how, or what equipment disabled people are using,
+and I think sometimes the disabled community can give feedback to
+make them more aware."
+
+Nick Goss, managing director of Goss Consultancy (
+http://www.gossconsultancy.co.uk/ ), said a lack of knowledge about
+what kinds of accessible technology were being used was a further
+barrier for disabled people in business. "How do we know how many
+disabled people are using IT, how do we know what needs and support
+disabled people may need when it comes to providing accessible IT?",
+he said.  What was needed, said Goss, was "credible data" about what
+kinds of IT disabled people are using and how they are using it.
+
+Goss also highlighted another major obstacle for many disabled
+entrepreneurs - funding. Acquiring funding was seen as a barrier to
+running a successful business, including the government's Access to
+Work scheme ( http://bit.ly/3cUeb2 ), which many criticise for being
+difficult to negotiate, he said.
+
+Speaking from the floor, one delegate said Access to Work was fine in
+itself, but was insufficiently publicised. "[The cost of accessible
+technology] is high, but the government is quite generous with its
+Access to Work funding, especially for entrepreneurs. But that's a
+best-kept secret by the government. They never publicise it", he said.
+
+Kevin Carey, Chair of the Royal National Institute of Blind People,
+said disabled people had "benefited absolutely" from information
+technology, but had also been "disadvantaged comparatively", since
+despite individual successes, the gap between disabled and non-
+disabled people was increasing.
+
+"If disabled people are going to hope to be entrepreneurs in a
+competitive global market," said Carey, "we have to be much more
+careful about what markets we want to put these people into, instead of
+thinking there's some sort of global technology solution that would
+work for everybody if only the prejudice would go away and the
+engineers could do their job."
+
+So, after all the opinions had been advanced and exposed to heated
+discussion, what was the outcome? A vote among all those present
+revealed that technology was seen overall as more of a help than a
+hindrance, albeit narrowly, with the motion being defeated by 28 votes
+to 23.
+
+Even most of those who had supported this position, however, agreed
+that further improvements can and should be made. A key message to
+emerge was that although there is much accessible technology
+available, most of it is created on a 'specialist' basis, suggesting the
+industry still refuses to accept the premise that accessible technology
+can be beneficial to all users, not just those with disabilities. The
+debate continues.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=350
+
+[Section Three ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for accessibility
+discussion on the web for nearly six years. Celebrating our sixth
+birthday next month, you'll find discussion of accessibility at all levels,
+from beginner to guru.
+
+The site has recently been redesigned and the forum system improved.
+This is still ongoing and you can join in the discussions.
+
+So whether you're looking to learn more about accessibility, want to
+help others and improve on your own knowledge, or just to browse the
+archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 118 ends.] 

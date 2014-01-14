@@ -1,0 +1,56 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Apr  1 21:23:50 2009 __
+
+Input file: ../eab/issues/2009/mar2009.txt
+
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: mar | index: 3 | year: 2009
+URLs, prev: ../2009/feb2009.html | next: ../2009/apr2009.html
+Found ++, heading 2: E-Access '09: Technology For All
+Found ++, heading 2: Issue 111 Contents.
+>> FOUND 2:  | 01:  | Row Brewing Over E-Book Speech Function Removal
+>> FOUND 2:  | 02:  | 'Signed Stories' Treasure-House For Deaf Children
+>> FOUND 2:  | 03:  | Private sector slow to address access queries
+>> FOUND 2: News in Brief:  | 04:  | Standard Slips - committee chair changes; 05:
+OK, News in brief
+Found: Standard Slips - committee chair changes | ; |  05:
+>> FOUND 2: Readers' Rights - first chapter downloads;  | 06:  | Free Sinhala - Sri
+Found: Readers' Rights - first chapter downloads;  | 06:  | Free Sinhala - Sri
+>> FOUND 2:  | 07:  | Second Life - learning request; 08: Web accessibility - legal
+>> FOUND 2: guidelines required;  | 09:  | Movie vaults - film audio wanted
+Found: guidelines required;  | 09:  | Movie vaults - film audio wanted
+>> FOUND 2:  | 10:  | The Music Of Signs: Dan Jellinek reports on the launch of Signed
+>> FOUND 2:  | 11:  | Deja Vu All Over Again? Socitm's eleventh annual Better
+Warning line 81: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Row Brewing Over E-Book Speech Function Removal.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | ITV Unveils 'Signed Stories' Treasure-House For Deaf Children.
+Warning: not found a 'contents' match: Itv Unveils 'Signed Stories' Treasure-House For Deaf Children.
+> ITEM 2:  03:  | Private Sector Slow To Address Access Queries.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  The chair of a British Standards Institution
+> ITEM 1:  05:  | : |  From April, visually impaired readers will be
+> ITEM 1:  06:  | : |  New software to translate Sri Lankan text into
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 475, <IFILE> line 278.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 475, <IFILE> line 287.
+> ITEM 2:  07:  | Karen Atkinson, Manager of the RNIB Resource Centre at the
+Warning: not found a 'contents' match: Karen Atkinson, Manager Of The Rnib Resource Centre At Theuniversity Of East London, Writes Looking For Advice On Disability,
+> ITEM 2:  08:  | A reader called David, who is visually impaired and works for the
+Warning: not found a 'contents' match: A Reader Called David, Who Is Visually Impaired And Works For Thenhs, Is Seeking Legal Advice About Access To The Web.
+> ITEM 1:  09:  | : |  Finally, a request from a film fan. Reader Dan
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: News Analysis
+> ITEM 2:  10:  | The Music Of Signs
+Warning: not found a 'contents' match: The Music Of Signsby Dan Jellinek.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Four: Focus
+> ITEM 2:  11:  | Déjà Vu All Over Again?
+Warning: not found a 'contents' match: DéJà Vu All Over Again?By Tristan Parker.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 475, <IFILE> line 641.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 475, <IFILE> line 648.

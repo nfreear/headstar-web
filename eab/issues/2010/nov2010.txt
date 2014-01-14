@@ -1,0 +1,266 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 131, November 2010.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the end). We conform to the accessible Text Email Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 131 Contents.
+
+01: Cautious Welcome For Copyright Law Change Timetable
+- World Intellectual Property Organisation inches forwards.
+
+02: MP’s Website Wins Award, But Majority Inaccessible
+- Nick Brown leads the way, but is the exception.
+
+03: Audio Clips Help Disabled Job-Seekers and Entrepreneurs
+- Web service offers assistance with CVs and start-ups.
+
+News in Brief: 04: Finding Words – Equality Act requires new information formats; 05: Web Fixers – problem reporting goes live; 06: Sage Service – publisher wins access prize.
+
+Section Two: Inbox.
+07: Census Stories – Australian survey ‘reasonably accessible’;
+08: Sporting Revamp – call for website advice.
+
+Section Three: Special Report – International Law: Jodhan vs Canadian Government.
+08: Challenging the System: When Donna Jodhan, a blind accessibility expert, found that Canadian government websites were preventing her from applying for jobs and accessing other important information, she decided to take the federal government to court. Tristan Parker talks to her about the ongoing battle.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Cautious Welcome For Copyright Law Change Timetable.
+
+The RNIB has given a cautious welcome to a World Intellectual Property Organisation decision to agree a timetable for creation of a new international law allowing sharing of accessible versions of copyright works across national borders.
+
+If passed, the law would require the introduction of exceptions in the national legislation of all member states, so that print- disabled people, including blind people, people with impaired vision and people with dyslexia, can make accessible copies of copyright works and share them across international boundaries.
+
+The decision is the latest twist in a three-year process of debating whether, how and when a new law could be agreed. A treaty on copyright exceptions and limitations was first proposed by the World Blind Union in 2008. It was backed in
+2009 by WIPO member states Brazil, Ecuador and Paraguay, later joined by Mexico and supported by the US, the UK and others.
+
+In December 2009 the nineteenth session of the WIPO Standing Committee on Copyright and Related Rights (SCCR) agreed to hold a series of consultation meetings on the issue.
+But in June 2010, the committee’s twentieth session finished deadlocked on the best way to proceed further. Some countries, including some EU member states, raised objections to any exception to copyright law that could allow free copying under any circumstances, after lobbying by publishers and copyright holders who feared a precedent would be created that could encourage copyright piracy.
+
+After a further week of debate, the 21st session of SCCR finished in Geneva at 1am last Saturday morning with the agreement of a timetable for progress towards a legal instrument.
+
+The timetable allows for work on copyright exceptions for accessible copies to continue at the 22nd five-day session in June 2011, with three extra days set aside for specific discussion of the issue. A recommendation will then be put forward to the WIPO general assembly in Sept 2011.
+
+Other related issues, including calls by African countries for similar exceptions to be made for libraries, archives and educational bodies, will be considered later in 2011 and in 2012.
+
+RNIB Campaign Manager Dan Pescod, who has attended the Geneva meetings as part of a World Blind Union delegation, said progress in the committees had been “glacially slow”, but that “to paraphrase Winston Churchill, this is not the beginning of the end, but the end of the beginning.
+
+“We have fought for a long time to get this issue understood in the committee, and then to get all parties to agree that some kind of law needs to be drafted, and now to put together a timetable about when we are going to negotiate. Now we have that on the record so we know they are serious.”
+
+However, Pescod warned that the battle was not yet over, and the process could yet hit further delays. “We are very pleased with where we have got to, but I do have a strong concern [the extra three days] won’t be enough time.”
+
+On the objections raised by some countries to the passing of a law, he said fears that they would lead to losses for publishers were groundless because bodies like the RNIB would only step in to make accessible copies such as audio books where the publishers themselves had not done so.
+
+“The publisher loses nothing. If they have made their own unabridged audio version, RNIB would not want to bother – and where they have not, they were not going to make any money from it in any case. The exception is there to fall back on where market has not supplied an accessible version.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=502
+
+
++02: MP’s Website Wins Award, But Majority Inaccessible.
+
+The website of Labour MP for Newcastle Upon Tyne East and former Cabinet minister Nick Brown has won the accessibility category in the 2010 MP Web Awards, hosted by BCS – the Chartered Institute for IT (formerly known as the British Computer Society).
+
+The awards are presented to politicians who best use new technologies to engage with their constituents. The accessibility award was judged by representatives of technology charity AbilityNet, who reported a number of features that caused Brown’s website ( http://www.nickbrownmp.com/ ) to stand out, including no unlabelled images; a good default size for text, which can be resized; no distracting or moving images; keyboard access for the whole site; and no issues when using a screen-reader.
+
+The panel also found some minor areas in which accessibility could be further improved on Brown’s site: inclusion of ‘skip’
+links for keyboard users; ensuring that all title text matches the actual link text; and providing a button to activate the site search function. However judges said the site as a whole was “a clear and consistent website that follows best practices for accessibility.”
+
+Robin Christopherson, head of digital inclusion at AbilityNet and presenter of the accessibility award, told E-Access Bulletin that although Brown’s website was the best example of accessibility from the 600 plus sites examined, there is still room for improvement across the board. “Most MPs’ websites out there reflect the overall picture of accessibility – the vast majority aren’t anywhere near accessible,” said Christopherson.
+
+Common problems included unlabelled images, poor use of colour, and cluttered layouts, he said. Additionally, the increased popularity of social media add-ons to websites has caused problems: “If you embed the standard Facebook widget into your page – and Twitter, to a lesser extent – you’re going to have issues with accessibility. It’s not easy to make a Web
+2.0 website accessible. The prevailing level of accessibility out there is very low.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=504
+
+
++03: Audio Clips Help Disabled Job-Seekers and
+Entrepreneurs.
+
+A web service offering audio clips to help people with long- term health conditions or disabilities to start their own businesses and become self-employed has been launched in Derbyshire.
+
+The Work for Yourself programme (
+http://www.businessability.co.uk )
+is funded by Bolsover District and Chesterfield Borough Councils, and has already helped about 30 local people start their own businesses and a similar number find work.
+
+The new audio clips, commissioned from radio journalist Karen Woods, cover tips on writing a CV and on developing a business idea. The CV advice covers two different types including a ‘skills and experience’ style CV for people who have had employment gaps, for whatever reason. There are also examples of CVs that can be used as templates.
+
+“We recognise a lot of people don’t like to read long documents, so we are looking at alternative ways of providing them with information”, says Penny Melville-Brown of consultancy Disability Dynamics ( http://www.disabilitydynamics.co.uk ), who is leading the programme. “So if somebody is speaking the concepts, it might just make it easier for some people.”
+
+Melville-Brown is herself an entrepreneur with a disability – she is blind and has been running her own business for ten years. All her consultants and advisers are also self-employed, “so we are living it ourselves”, she says.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=506
+
+
+++News in Brief:
+
++04: Finding Words: All providers of major services to the
+public, from banks to publishers and health service bodies, must now provide information in accessible formats that comply with the new Equality Act 2010 including audio, large print and Braille, according to a new report from the Royal National Institute of Blind People. The report, ‘Lost for Words’, also advocates the use of ‘talking label’ technology to help blind consumers identify products:
+
+http://www.rnib.org.uk/getinvolved/campaign/accesstoinformati
+on/lostforwords/
+Short link: http://bit.ly/9bcV8M
+
+
+05: Web Fixers: A campaign allowing people with disabilities a quick, simple way of reporting inaccessible websites, including by email or Twitter, was launched this month. Complaints filed using ‘Fix the Web’ are taken forward by volunteers, who contact the website owners and ask them to fix the problem.
+The service was first unveiled in a test version earlier this year (as reported exclusively in E-Access Bulletin issue 129:
+http://www.headstar.com/eablive/?p=472 ), and was developed by internet access charity Citizens Online:
+
+http://www.fixtheweb.net/
+Short link: http://bit.ly/bYOXJ5
+
+
++06: Sage Service: The international publishing company
+SAGE has been commended for its provision of alternative book formats at the Digital Information Conference hosted by CILIP (the Chartered Institute of Library and Information Professionals). The company was awarded the Publisher Lookup Award for library service created by JISC TechDis, an educational advisory service working in the accessibility field.
+The award allows librarians to nominate publishers offering strong alternative digital content for disabled readers:
+
+http://www.techdis.ac.uk/index.php?p=5_1&id=453
+Short link: http://bit.ly/d18e6P
+
+
+[Section One ends].
+
+
+++Section Two: ‘The Inbox’
+- Readers’ Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: Census Stories: Australian IT Consultant and regular
+contributor to these pages Tom Worthington writes in following our coverage last issue of the case of Donna Jodhan, a blind woman who has sued the Canadian Government after she was unable to apply for a government job online or complete a
+2006 online census (see also feature, this issue).
+
+Tom writes: “The Australian Bureau of Statistics made a reasonable attempt at accessibility with their 2006 e-census.”
+He has covered the story in detail on his blog, at:
+http://www.tomw.net.au/technology/it/ecensus/ .
+
+[Further comments please to inbox@headstar.com ].
+
+
++08: Sporting Revamp: Roy Smith MBE, Facilities Manager at
+the Metro Blind Sports Club, a society helping people with impaired vision enjoy a wide range of sports including athletics, cricket, football and water sports covering London and the South of England, writes in with a request for advice on revamping the club’s website.
+
+“We are looking to have a new website set up or our old one updated [and are looking for] a list of approved designers who understand JAWS/ZOOM TEXT and so on,” he writes.
+
+Anyone with advice on finding an accessible web designer, or who would like to help directly, should please email inbox@headstar.com .
+
+[Section Two ends].
+
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL, Easy Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk) Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Special Report: International Law
+Jodhan vs Canadian Government
+
++08: Challenging the System
+by Tristan Parker
+
+It’s fair to say that Canadian citizen Donna Jodhan knows a thing or two about accessibility. A specialist consultant in the field with more than 16 years’ experience, her company has worked with numerous clients, including financial institutions and the University of Toronto. She has obtained Systems Engineering Certification from Microsoft and won various technical awards from IBM.
+
+So when Jodhan – herself legally classed as blind – brought a case against the Canadian Federal Government, stating that the lack of accessibility of its websites for blind and visually impaired Canadian citizens meant that her rights were being breached, she made a formidable opponent.
+
+The problems which led to her action began in 2006, when Jodhan was unable to create a job profile on the Government of Canada’s employment website – the point of access for all federal government job opportunities. When trying to complete a section of the form (the ‘date available’ field) she simply received an error message each time. She attempted to contact the site’s owners, but the phone number provided was out of service.
+
+Jodhan was forced to seek assistance from a sighted government employee to create a job profile, but was still unable to review any of the information entered, as she was not given any user identification or password.
+
+In addition to the problems with job applications, she was also unable to complete a 2006 online Census form from Statistics Canada, the country’s national statistical agency. The form was only fully accessible to blind and visually impaired users who used the most recent version of the JAWS screen-reader – an expensive piece of technology, costing around 1,000 Canadian Dollars at the time. Jodhan was again forced to rely on sighted assistance from a government employee to complete the Census, which she regarded as an invasion of her privacy.
+
+Furthermore, Jodhan found she was unable to access information on Canada’s national consumer price index and unemployment rate, again on Statistics Canada’s website, as the information was only available in a PDF file, which had not been adapted for screen-readers. Jodhan was informed by government employees that no alternative formats were available.
+
+Jodhan’s continued issues with government sites led her to consult a group of lawyers and an international accessibility expert, to find out what her legal position was. “I did this after years of having tried to convince the Canadian Government that their websites were not very accessible”, Jodhan told E- Access Bulletin. “It was extremely difficult for blind and sight- impaired Canadians to navigate their websites to obtain relevant information, and complete forms in order to process requests and fill out job applications.”
+
+In 2007, Jodhan’s lawyers filed court papers asking the Canadian Government to comply with widely used accessibility standards from the World Wide Web Consortium (W3C). Between 2007-09, settlement negotiations were attempted but did not succeed, “because we did not feel that the Canadian Government was serious enough about our concerns” says Jodhan.
+
+As a result, cross examinations of witnesses, accessibility experts and Jodhan herself took place in 2009, and in September of this year Jodhan and her lawyers attended Federal Court to present their case. “My lawyers argued that under the Canadian Charter of Rights, all Canadians have to be treated equally and that inaccessible governmental websites to blind and sight-impaired Canadians was a violation of the Charter. The government argued that they had fulfilled their obligations”.
+
+With the case having been heard, the court is currently ‘resting’
+– in other words, it has retired to deliberate – and the judge’s decision is expected to be handed down within three or four months. Jodhan says she and her lawyers are “cautiously optimistic” about the result.
+
+Whatever the outcome of the case, it has brought considerable publicity to a subject that is often swept under the carpet, with Jodhan’s ‘Charter Challenge’ receiving media coverage throughout Canada, the US, the UK and even India. “This topic needs to receive continuous attention and we believe that this court case is the perfect way to do it,” she says.
+
+Canada currently has no specific legal obligations to conform with web accessibility standards, although there are non- binding guidelines in place (Common Look and Feel for the Internet 2.0 – CLF: http://www.tbs-sct.gc.ca/clf2-nsi2/index-
+eng.asp ) that have requested federal government websites to comply with international ‘WCAG 1.0’ standards since 2000.
+
+Jodhan and her lawyers argue that the CLF guidelines are outdated, and say legislation should be introduced that requires government sites to conform to updated ‘WCAG 2.0’ standards guidelines. “A best effort basis will not solve this problem”, she says.
+
+Jodhan believes that the Canadian Government does not see website accessibility and availability of information for blind and visually impaired citizens as a priority. “It is my opinion that the Canadian Government believes that blind and sight- impaired Canadians can get by using sighted assistance,” she says.
+
+In terms of private sector websites, these too should be mandated to adhere to strict accessibility standards, says Jodhan, but in any case, the Canadian Government should lead by example. “If they were to take the lead in this area, then others would naturally follow. It has to be a real and committed effort by all stakeholders and rightsholders – legislation, training, and working together.”
+
+- More information on Jodhan and her work can be found on her blog: http://donnajodhan.blogspot.com/
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=508
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for accessibility discussion on the web for nearly six years. Celebrating our sixth birthday next month, you’ll find discussion of accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system improved. This is still ongoing and you can join in the discussions.
+
+So whether you’re looking to learn more about accessibility, want to help others and improve on your own knowledge, or just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email eab-subs@headstar.com with 'subscribe eab' in the subject header. You can list other email addresses to subscribe in the body of the message. Please encourage all your colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2010 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 131 ends.] 

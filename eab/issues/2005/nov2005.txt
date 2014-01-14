@@ -1,0 +1,658 @@
++++E-ACCESS BULLETIN.
+- ISSUE 71, NOVEMBER 2005.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab/).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details at
+the
+end). We conform to the accessible Text Email Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 71 Contents.
+
+Section One: News.
+
+01: BBC Launches Free Online Web Customisation Resource
+- Advice site aimed at people of all abilities.
+
+02: 'Large Gap' Between Electronic Goods Makers and Users
+- Partnership approach needed, European conference hears.
+
+03: Irish Charity Opens Centre for Inclusive Technology
+- Broad remit from cash machines to digital TV.
+
+04: New Internet Radio Station for Vision-Impaired Listeners
+- Lancashire-based service to include talking books.
+
+News in Brief: 05: Awards Open: 240,000 euro research prize; 06: Reading
+Aloud: Dolphin Tutor for schools; 07: Deafblind Forum - email list; 08:
+Glasgow Guide - audible city guide.
+
+Section Two: 'The Inbox' - Readers' Forum.
+09: Hostile Features - accessibility complaint; 10: Colour Insight - online
+vision tests; 11: Skype's Limits - internet telephony; 12: Podcast News -
+book
+service.
+
+Section Three: Conference report - UK Presidency eAccessibility conference.
+13: Demand for Accessible Supply: Last month's conference hosted by the UK
+Presidency of the European Commission heard that member state governments
+and technology makers are still not doing enough to meet the needs of all
+citizens. Mel Poluck reports.
+
+Section Four: Technology - Web Content Accessibility Guidelines.
+14: The Human Touch: Automated accessibility tests for your web pages have
+their part to play, but only alongside human checks, says Alastair Campbell.
+The key is knowing what tests to do at which stages of web site development.
+
+[Contents ends].
+
+
+++Sponsored Notice: Win An UltraCane on VIP On Air.
+
+This week and next VIP On Air, the internet radio station for blind people,
+is
+running a competition to win an UltraCane, the award-winning hi-tech
+mobility
+device from Sound Foresight.
+
+To win you need to answer a question which will be repeated on the station's
+12 - 2 show each day, with all correct respondents being entered into a draw
+to
+take place on 2 December on the same early afternoon programme.
+
+Try your luck by listening in at:
+http://www.viponair.com .
+
+[Sponsored Notice ends].
+
+
+++Section One: News.
+
++01: BBC Launches Free Online Web Customisation Resource.
+
+A free online resource helping people with disabilities to access the
+internet by
+customising their computer, mouse and keyboard to their individual needs has
+been launched by the BBC.
+
+'My web my way'
+(http://www.bbc.co.uk/accessibility/ ),
+provides advice in non-technical language on how to use the built-in
+accessibility features of the three main computer operating systems Windows,
+Apple Macintosh and Linux. The resource also provides information on add-on
+assistive technologies.
+
+The service is aimed at people with sensory, motor, and cognitive
+disabilities
+of all kinds including "those people with minor vision impairments who would
+not consider themselves to have a disability," the site says.
+
+"We're finding a wider range of people would benefit. The site is designed
+for
+anybody that needs an adjustment in their browser," said Jon Gooday, senior
+consultant at accessibility charity AbilityNet, which helped the BBC develop
+the site based on AbilityNet's own similar online resource 'My computer my
+way'
+( http://www.abilitynet.org.uk/myway/ ).
+
+As part of a plan for future improvements, the site intends to provide
+information in audible format. Feedback from users is encouraged to help
+suggest further improvements.
+
+
++02: 'Large Gap' Between Electronic Goods Makers and Users.
+
+There is still a "very large gap" between manufacturers of electronic
+consumer
+goods and the needs of users with disabilities, delegates heard at last
+month's
+European eAccessibility conference hosted in London by the UK Presidency of
+the European Union.
+
+"It is clear manufacturers need partnership advice and help to deliver
+requirements," Neil Thomas from the Royal National Institute of the Deaf
+(RNID) told the conference (http://fastlink.headstar.com/eur3).
+
+Thomas said that manufacturers, users and standards producers must work
+jointly to improve the accessibility of mainstream electronic goods and
+services
+to combat the frustration experienced by people with a disability when using
+everyday devices such as washing machines and mobile phones. There is also a
+lack of information on product accessibility to disabled users, he said.
+
+Steve Tyler, Senior Strategic Manager for Digital Technology at RNIB, said
+manuals for consumer goods from mobile phones to washing machines must be
+provided in accessible alternative formats. This would be "an easy win" for
+manufacturers, he said.
+
+The conference covered the accessibility of electronic goods and services
+across Europe, setting out an action plan across member states. Countries
+will
+reconvene in two years' time to discuss progress.
+
+
++03: Irish Charity Opens Centre for Inclusive Technology.
+
+A new agency offering technology users advice on accessible products and
+services, and bringing them into closer contact with designers and
+developers,
+has been opened by the National Council for the Blind of Ireland (NCBI).
+
+The NCBI Centre for Inclusive Technology
+( CFIT - http://www.cfit.ie/ )
+has launched a web site with information on how people with disabilities use
+technologies and the problems they face, advice for consumers, and guidance
+on the accessibility of web sites and digital formats such as PDF. The
+centre's
+work will cover a broad range of technologies, from accessible cash
+dispensers
+to digital TV and the web, its director Dr Mark Magennis told E-Access
+Bulletin.
+
+Further initiatives planned by the centre, subject to government funding
+being
+released, include a two-year project to improve communication between end-
+users and developers of products and services. "We hope to set up developer
+forums, in a similar way to BrailleNet in France," Magennis said. CFIT also
+hopes to win government support for a smaller project that will explore how
+blogs for blind people can help strengthen communities, he said.
+
+Later this next month the centre will also learn if it has been successful
+in a bid
+for funding from the European Commission to develop metadata for digital TV
+content, as part of the commission's eContentplus programme
+( http://fastlink.headstar.com/eur4 ).
+
+
++04: New Internet Radio Station for Visually Impaired Listeners.
+
+Blind internet users have a new source of information and entertainment
+following the launch last month of blueIRIS
+( http://www.blueIRIS.info ),
+a free online radio station for vision-impaired people based in Blackpool,
+Lancashire. The service, launched by Blackpool, Fylde and Wyre Society for
+the Blind, aims to deliver programmes reflecting both local and national
+interests.
+
+The blueIRIS team are in negotiations with publishers to provide content for
+a
+talking books service, with a deal having already been reached to broadcast
+the
+best-selling Dan Brown novel 'The Da Vinci Code'. A more local flavour will
+be provided by the North West Sound Archive, which has donated material on
+the history of the Fylde Coast, including content recorded by BBC Radio
+Lancashire. At present, up to four hours of material is broadcast daily,
+including local news and issues, and a listing service for local events.
+
+Users can access the service with computers running either Microsoft Windows
+or Apple Macintosh operating systems, and with a broadband connection. The
+blueIRIS service grew out of a pilot project launched earlier this year,
+which
+was tested by 15 users aged between 20 and 80 years old with varying degrees
+of vision and computer literacy.
+
+The majority of the 150,000 pounds needed for the project has been provided
+by the Lancashire Digital Development Agency, an organisation funded by the
+Northwest Regional Development Agency to promote take-up of broadband.
+Other partners in the project include Blackpool Council, Ultralab, Rural
+Surround and Interface IT Services.
+
+
+++News in Brief:
+
++05: Awards Open: Bids have been invited for a prize of 240,000 euros in the
+biennial research and development award for new technologies for the blind
+and visually impaired, run by Spanish national blindness organisation ONCE.
+Entries must be submitted by 30 June 2006:
+http://www.once.es/otros/premios/imasd .
+
++06: Reading Aloud: A software package aimed at print-impaired
+schoolchildren has been released, providing text-to-speech output for
+on-screen
+information to help children with spelling, reading and writing. The Dolphin
+Tutor, from assistive technology company Dolphin, works with Microsoft
+applications such as Word, Excel and Internet Explorer:
+http://www.dolphinuk.co.uk/education/products/tutor.htm .
+
++07: Deafblind Forum A discussion list on issues relating to accessible
+technology for deafblind people has been launched by Western Oregon
+University in the US. 'Deafblindtecchies.com' offers an open forum for
+technical support and sharing advice on devices. To subscribe, email:
+DBTECHIES-subscribe-request@TR.WOU.EDU .
+
++08: Glasgow Guide: Feedback is sought on a pilot audible city guide to
+Glasgow in Scotland, covering selected public buildings, streets and
+stations.
+The service, from Describe Online with Glasgow City Council, can be accessed
+or downloaded over the web, with guides available in all audible formats
+including mp3 and over the phone:
+http://www.describe-online.com/glasgow/ .
+
+[Section One ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of
+translating any document into Braille. We are able to provide Braille menus,
+public leaflets and business cards in Braille and help make you compliant
+with
+the Disability Discrimination Act. We can translate from large print, audio
+tape
+or audio CD.
+
+We can also help with premises accessibility including Braille Tactile Signs
+for
+toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an express
+24-hour service. Please call our offices for an immediate quotation or for
+further information on Freephone number 08000 190 946; Mobile: 07903
+996533; email ghow@brailletranslations.co.uk or see:
+http://www.brailletranslations.co.uk .
+
+[Special notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
+
++09: Hostile Features: Gerald Weichbrodt writes in response to our survey
+(October issue) which found low accessibility awareness among technology
+suppliers. "The comments regarding accessibility features being offered in a
+cloak and dagger fashion really struck a chord. We are told that our
+population
+is ageing and that visual limitations will be a factor for a larger number
+of
+people. However, if you try to find a modern telephone sporting a host of
+features, usually either the manufacturer has nothing to offer for those of
+us
+who can't see the display, or they used to have one obscure model with such
+features but discontinued it due to lack of interest.
+
+"Probe a little deeper, and you find that the specialised model was never
+really
+marketed widely. Also, the special model wasn't made available in showrooms,
+so nobody could walk in off the street and try it. It would have to be
+ordered,
+unseen, and probably with a long lead time. How on earth can a product with
+accessibility features succeed if it's produced and marketed in such a way?
+
+"If accessible products have a track record like this, then that just sets a
+precedent for accessible products not being profitable. Meanwhile, the trend
+is
+away from controls with direct tactile feedback toward visual menus and
+other
+blind-hostile interfaces to the point where it just isn't fun to shop for
+consumer
+gadgetry anymore.
+
+"I eagerly await the day when accessibility becomes a selling point and not
+just
+an obscure gimmick that nobody takes seriously as a source of market
+advantage."
+[Responses please to inbox@heastar.com]
+
+
++10: Colour Insight: Michael Crossland, Senior Research Optometrist at
+Moorfields Eye Hospital NHS Foundation Trust in London writes in response
+to John Starbuck's request in our last issue for colour vision test sites.
+"The
+Ishihara colour vision test is widely available, even from Amazon.co.uk:
+http://fastlink.headstar.com/col1 .
+
+Web-based colour vision tests should be treated with caution as the tests
+are
+invalid unless performed under the correct type of lighting and screens may
+not
+render the colours correctly. The site you link to is also very likely to
+infringe
+copyright.
+
+"There are many other better colour vision tests available, such as the City
+University test and the Farsworth-Munsell tests. The easiest way to have
+colour
+vision tested efficiently is to ask your local optometrist or university
+school of
+optometry."
+[Responses please to inbox@headstar.com]
+
+
++11: Skype's Limits: Chris McMillan from Reading in the UK writes in
+response to Nick Apostolidis's feature on Skype internet telephony,
+published
+in our September issue, which said sound quality is far superior to a normal
+telephone. "I personally would disagree with this," writes Chris. "Much
+depends on the quality of the phone line involved and the person you're
+talking
+to. I am not a telephone expert, but I find the further one is away from a
+large
+town, the poorer the quality of the line.
+
+"For international calls, 'computer to computer', it will only work on
+another
+computer elsewhere in the world if they have true broadband capability, so
+the
+visually impaired worldwide are not yet able to take advantage of what we
+are
+now beginning to take for granted. I haven't yet rung up anyone on a
+landline
+from Skype outside the UK to test how well it works.
+
+"There are improvements that could be made. Skype ought to look seriously at
+their font colour for those who use magnification. Sky blue is not the best
+colour for the vision impaired, and would be rubbish for anyone who is blue
+colourblind."
+[Responses please to inbox@headstar.com].
+
+
++12: Podcast News: Chris McMillan also writes to tell readers about a web
+site
+that makes audio books available via podcasting, called Librivox:
+http://librivox.org/ .
+It is an open source service aiming to make all books in the public domain
+available for free online in audio format. Volunteers record chapters of
+books
+in digital format, then catalogue and podcast them. "The web site is a bit
+informal still, but I think its aim is similar to the non-profit service
+'Bookshare'
+(http://www.bookshare.org),
+writes Chris.
+[responses please to inbox@headstar.com]
+
+[Section Two ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to web
+accessibility. Topics cover everything from 'Beginners' and 'Site building
+and
+testing' through to projects such as the new accessibility testing tool
+WaiZilla
+and the accessibility of the open source forum software itself.
+
+All you need to register is a working email address, so come along and join
+in
+the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Three - Conference report
+- UK Presidency eAccessibility conference.
+
++13: Demand for Accessible Supply
+by Mel Poluck.
+
+
+"Would a barman want a fifth of his customers not buying drinks?"
+
+This was the question posed by Richard Howitt MEP, president of the All
+Party
+Disability Intergroup for the European Parliament, to delegates at last
+month's
+conference on eAccessibility hosted by the UK presidency of the European
+Commission
+( http://fastlink.headstar.com/eur2 ).
+
+Howitt's point was that a fifth of the population of Europe has a
+disability, but
+member state governments had yet to take a concerted stand to address their
+accessibility needs.
+
+The event centred around the recently published EU Communication on
+eAccessibility
+( http://fastlink.headstar.com/eur5 ),
+which suggests three "policy actions" for member states to focus on:
+accessibility requirements in public sector procurement, better use of
+existing
+legislation and accessibility certification.
+
+But Howitt warned governments of the danger of this voluntary approach. "If
+in two years we're going to have another set of studies and a set of
+dialogues,
+you risk losing the confidence of the European Parliament and the citizens
+of
+Europe," he said.
+
+"Access to ICTs by people with a disability must be recognised first and
+foremost as a rights issue," said Professor Rodolfo Cattani, board member of
+the European Disability Forum. "Legislation is the best means to support and
+protect the rights of disabled people," he said.
+
+But before legislation can be considered, the importance of accessibility
+must
+be more firmly grasped by the manufacturers of technology. "Positive
+advances
+in mainstream technology have come about more by chance than an intention
+to meet disabled people's needs. It is still regarded by the ICT industry as
+a
+side issue," Cattani said.
+
+Delegates heard that by 2030, the over-60 age group will comprise 30 per
+cent
+of Europeans, further increasing the population of people with a disability.
+But
+manufacturers continue to ignore the issue, they heard.
+
+"For large manufacturers there will be times when the size of the market
+will
+not be big enough to make [accessibility] a business priority," James Page,
+Manager of Radio Regulations at mobile phone company Nokia UK told
+delegates, although he added Nokia would be "foolish" not to consider the
+needs of all consumers.
+
+And the view of accessibility as a specialist issue may not be restricted to
+the
+technology industry, according to IBM's director of accessibility for Europe
+and the Middle East, Dr Wilfredo Ferre. "From experience talking to
+customers
+in the private sector, when you try to convince them to be accessible, their
+reaction is 'what is accessibility?' They see it as a niche issue."
+
+The European Commission is set to evaluate the outcome of the proposals laid
+out in its Communication in two years' time and will create new legislation
+"if
+deemed necessary," it says. In the meantime, the answer to increased
+understanding of the importance of accessibility and to speed up wider
+implementation, according to Ferre, is a partnership approach between
+citizens,
+industry and government. And for this, he said, "the industry stands ready
+to
+play its part."
+
+[Section Three ends].
+
+
+++Special Notice: Test Your Site's Accessibility.
+
+Headstar, the publishers of E-Access Bulletin, is offering a range of
+independent, expert assessment packages to ensure your web services
+comply with best practice and the law. We can provide you with a
+clear, detailed report on the current access status of your site, and a list
+of tasks you will need to carry out to ensure compliance with
+government requirements.
+
+Reports also include results from general quality assurance tests such
+as link-checking. Taking accessibility action benefits all users, will
+make your site easier to maintain, and can improve your search engine
+rating! Please note the service is tailored in particular to larger
+organisations with major web sites or services.
+
+For more information please email:
+access-consult@headstar.com .
+
+[Special notice ends].
+
+
+++Section Four - Technology
+Web Content Accessibility Guidelines.
+
++14: The Human Touch
+by Alastair Campbell.
+
+The accessibility of a web site can be measured at various stages throughout
+its
+development, against the international World Wide Web Consortium's Web
+Content Accessibility Guidelines
+( WCAG - http://www.w3.org/TR/WCAG10/ ),
+so it helps to know which accessibility issues are best dealt with at which
+stage.
+
+The most important stage for accessibility is during template development,
+where the general code that will be produced is decided. These templates
+form
+the foundation from which all the pages on the site will be made, and this
+is
+where the most WCAG checkpoints are accounted for. Tools such as the
+W3C's validator and accessibility tools are useful at this stage, but many
+items
+still require human checks to see what is appropriate.
+
+The process of integrating accessible templates into a product or system,
+such
+as a content management system (CMS), can be very difficult. Often there are
+times when certain aspects are "hard-coded", so it would involve changing
+how
+a system works to produce valid and accessible code. Occasionally it is not
+possible to replicate templates exactly.
+
+However, it is vital to check at the end of this stage that the templates
+have
+been integrated successfully. It is best to do a complete accessibility and
+code
+check on a representative sample of pages, and run automated checks on the
+entire site to see if any other errors come up. When templates are used, the
+only
+errors that occur tend to be replicated across many or all pages.
+
+Once the site has been confirmed as being completely accessible at this
+stage,
+the only thing that can go wrong now is the content. Automated tools will
+check a page for many items, but it is important to understand how much of
+each checkpoint an automated tool can realistically check for.
+
+Of the 65 WCAG version 1 checkpoints, there are five checkpoints that can be
+fully assessed by an automated process, and which are actually better
+assessed
+automatically. These are checkpoint 3.2, which checks for valid code;
+checkpoint 4.3, which identifies the language of a document; checkpoint 9.1,
+which warns against server-side image maps; checkpoint 11.2, which deals
+with deprecated HTML elements; and checkpoint 12.4, which checks that
+labels are associated with their controls in the code.
+
+Another eight checkpoints can be partially assessed by automated tools.
+These
+are checkpoint 1.1, where automated tools can check for the existence, but
+not
+for suitability of alternative text; checkpoint 3.4, where the existence of
+non-
+relative units can be confirmed, but not whether they make a difference to
+display; and checkpoints 6.3 and 9.3, which ensure pages work without
+scripts.
+Automated tools can check for scripts, but not whether the page works for a
+user.
+
+These tools can also help with checkpoint 6.4, which deals with mouse or
+keyboard only scripts, but not whether they actually work for people; and
+checkpoints 7.4 and 7.5, which deal with automatically refreshing or
+redirecting pages. Some of these can be detected with automated tools, but
+there are many possible ways that they may escape detection.
+
+Checkpoint 13 checks whether link text such as 'click here' is repeated for
+links
+to different pages, or if the same page is linked to by different text.
+However,
+many instances found by checkers do not affect people.
+
+Automated tools can be used at the pre-launch stage to check across many
+pages, as user-checks have been performed already. However, some things,
+such as relevance of alternative text, will never be machine-checkable.
+These
+issues account for 13 of the 65 checkpoints. The point is that there are
+many
+things that cannot be confirmed by an automated process.
+
+Once the templates are tried and tested, and the CMS is in full swing, there
+are
+several checkpoints that often come up when a site is reviewed. For example,
+whether links to the same page have different link text; whether links are
+not
+separated; or headings are not nested correctly.
+
+These are common examples from our experience of relatively minor
+accessibility issues that are often best found by an accessibility testing
+tool that
+'spiders' a site, checking every page within a specified domain. Content
+issues
+such as alternative text have to be checked by people, and training the
+authors
+is the most effective measure.
+
+Many accessibility issues will be identified during the template stage.
+Working
+to resolve them at this point in the development cycle will prevent more
+resource intensive resolution attempts farther down the line. Quality
+assurance
+and automated tools both play a part in the latter stages of the development
+cycle, but more often than not they will identify issues too late for them
+to be
+resolved satisfactorily.
+
+Formulating a clear strategy, based on knowing where and when to test for
+accessibility issues, combined with the right tools, the right training and
+a good
+quality assurance process, is the key to a successful development project.
+
+NOTE: Alastair Campbell is Technical Director at Nomensa
+(http://www.nomensa.com).
+
+[Section Four ends]
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2005 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright
+notice are included, and as long as people are always encouraged to
+subscribe
+with us individually by email. Please also inform the editor when you are
+reproducing our content. Sections of the bulletin may be quoted as long as
+they
+are clearly sourced as 'taken from e-access bulletin, a free monthly email
+newsletter', and our web site address http://www.headstar.com/eab is also
+cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

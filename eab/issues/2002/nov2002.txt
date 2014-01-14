@@ -1,0 +1,741 @@
+* E-ACCESS BULLETIN.
+
+Technology news for people with visual impairment
+(http://www.e-accessibility.com).
+
+Sponsored by the RNIB (http://www.rnib.org.uk)
+and the National Library for the Blind (http://www.nlbuk.org).
+
+Please forward to others so they can subscribe
+by emailing eab-subs@headstar.com
+(full details at the end).
+
+NOTE: To aid navigation, all headings begin with an asterisk and end 
+with a full stop. All items are numbered in the contents and throughout, 
+with numbers immediately after the asterisks. Please let us know if 
+anything else would help.
+
+* ISSUE 35, NOVEMBER 2002.
+
+* CONTENTS:
+
+Section one: News.
+
+1: Accessible cinema plan rejected
+- film council rejects audio description.
+
+2: Digital TV made easy
+- design initiative launches.
+
+3: Audio description coalition to fight on
+- but US campaign suffers court defeat.
+
+4: Text messages find a voice
+- mobile phone technology tested.
+
+5: Auditors to scrutinise e-government accessibility
+- report due in New Year.
+
+6: Counselling service hits the web
+- new emotional support service.
+
+7: US tax forms bypass access regulations
+- loophole in e-government.
+
+News in brief: 8: New Deal – accessible online poker; 9: Touch Screen 
+– tests for tactile image display; 10: Reader's Digest – online restaurant 
+guide; 11: Access To Italy – new directory of resources.
+
+Section two: 'The Inbox' - Readers' forum.
+- 12: Nominate Yourself – Bafta update; 13: Analogue Puzzle – audio 
+described TV; 14: Shropshire Standard – accessible libraries; 15: Lima 
+Bravo – help for Peruvian project.
+
+16: Section three: Focus – Retailing.
+High street lottery: How well served is the visually impaired customer 
+of a high street consumer technology store? Mel Poluck investigates.
+
+17: Section four: Analysis – The Arts.
+Museums without walls: Most museums and galleries are using 
+multimedia aids to enhance the experience of  visitors, but visually 
+impaired people are often overlooked. Jemima Kiss surveys the latest 
+access developments.
+
+18: Section five: Formatting - Reader Survey.
+Improving the service: Editor Dan Jellinek reports on readers' 
+suggestions for improvements to the E-Access Bulletin format, and 
+outlines a plan to draw up a new standard for email newsletters.
+
+[Contents ends.]
+
+
+* SECTION ONE: NEWS.
+
+*1: ACCESSIBLE CINEMA PLAN REJECTED
+
+The UK's Film Council has rejected a proposal to spend six million 
+pounds on equipping cinemas with technology that would make films 
+accessible to visually impaired people.
+
+The plan, put forward by the Cinema Exhibitors Association, would 
+have installed audio description and subtitling equipment in cinemas 
+nationwide. It was one of three bids competing for a pot of money 
+from the national lottery earmarked for the council's 'specialised 
+exhibition and distribution strategy' (http://fastlink.headstar.com/film). 
+The strategy aims to "develop film culture in the UK by improving 
+access to, and education about, the moving image" and specifies that 
+"the needs of people with disabilities must inform and be integral to 
+any proposed developments".
+
+However, according to the council, "the vast majority of those 
+responding to a consultation with film distributors and cinemas felt this 
+wasn't the best way of serving disabled people. In particular question 
+marks were raised both over the technology proposed and the lack of 
+expertise available to operate it in individual venues." The cash will be 
+used instead to subsidise screenings of foreign and 'art house' films in 
+regional cinemas.
+
+Last month, the Film Council appointed consultants Access Matters 
+(http://www.accessmattersltd.co.uk) to help develop its strategy on 
+disability issues. 
+
+
+*2: DIGITAL TV MADE EASY.
+
+An initiative to make designers of digital television products more 
+aware of the difficulties experienced by all kinds of user, including 
+visually impaired people, has been launched by 'Easy TV', a 
+partnership between the Independent Television Commission (ITC), 
+the Consumers' Association and the Design Council.
+
+As part of the initiative (http://fastlink.headstar.com/easy), the ITC and 
+Consumers' Association are co-sponsoring an interactive digital 
+television product design award that will be promoted in design 
+colleges across the UK. Research for Easy TV recently discovered that 
+marginalised groups such as disabled or aged people would be more 
+likely to use digital television if there were fewer buttons on remote 
+controls, quicker responses to button presses and simpler user manuals.
+
+The new move fits in with the non-prescriptive, 'best practice' 
+approach towards accessibility for consumer technology products set 
+out by the government in its new Communications Bill, which is due to 
+be introduced into Parliament by the end of the year. While it sets 
+accessibility targets for digital television content, it leaves product 
+issues such as the design of television sets up to manufacturers.
+
+Disability groups feel this approach does not go far enough. A 
+spokesperson for the RNIB said: "Easy TV helps get the message 
+across to manufacturers and designers, but best practice is not enough, 
+we would like to see standardisation." 
+
+Readers of E-Access Bulletin who have experienced the technology are 
+invited to send us suggestions for design improvements to television 
+sets, remote controls and set-top boxes. All replies should be sent to 
+derek@headstar.com.
+
+
+*3: AUDIO DESCRIPTION COALITION TO FIGHT ON.
+
+US access campaigners have pledged to continue their campaign to 
+make audio description of a minimum amount of television and video 
+programming mandatory, after an appeals court scrapped existing 
+quotas.
+
+Since April this year the Federal Communications Commission has 
+required television networks to broadcast at least 50 hours of audio 
+described programming every three months. The National Association 
+of Broadcasters, the National Cable Telecommunications Association 
+and the National Motion Picture Association of America mounted a 
+challenge against the regulations in March, claiming they imposed 
+'compelled speech' and were inconsistent with the first amendment of 
+the US Constitution (see E-Access Bulletin, March 2002). On 8 
+November the court ruled in their favour, meaning the continuation of 
+audio description at these levels is now voluntary.
+
+"It will be really interesting to see whether they continue to do what 
+they have been doing really well since April," said Margaret Pfanstiehl, 
+chair of the National Television and Video Access Coalition, a group 
+of 17 organisations attempting to defend the quotas.
+
+The coalition will now try to reinstate the rule by persuading Congress 
+of its importance, said Pfansteihl, though this could take as long as ten 
+years following the recent Republican majority at the US mid-term 
+elections. "Republican control means short term success is unlikely. 
+They are in a strong mood to deregulate everything," she said.
+
+
+*4: TEXT MESSAGES FIND A VOICE.
+
+New technology allowing visually impaired people to listen to mobile 
+phone text messages through conversion to natural-sounding speech is 
+being developed by BT, the telecommunications company announced 
+this month.
+
+The technology, which could become commercially available within a 
+year, can be installed on a mobile phone directly or on a palm-top 
+computer that has an infra-red link to a phone. Users can maintain 
+privacy by listening to their messages through earphones, and the 
+speech output can be programmed to recognise popular text messaging 
+shortcuts which could otherwise sound like gibberish.
+
+According to Adam Oliver of BTexact (http://www.btexact.com), BT's 
+advanced technology research arm, the project was initiated after 
+visually impaired teenagers visited BT as part of a school project. "One 
+of the visitors, Mesad, made an innocent remark about how difficult it 
+was for him to access text messages, and it all started from there," said 
+Oliver. BT has since tested the new technology with the help of Able2, 
+its own internal network of disabled employees 
+(http://fastlink.headstar.com/able2).
+
+BT is not the only mobile service provider to be working on the speech 
+conversion of text messages, however. About a year ago its rival 
+Vodafone announced it was working on a similar system, though it 
+could not offer a firm delivery date (see E-Access Bulletin, December 
+2001).
+
+
+*5: AUDITORS TO SCRUTINISE E-GOVERNMENT 
+ACCESSIBILITY.
+
+The National Audit Office (http://www.nao.gov.uk), the official 
+auditor of UK government agencies, is to publish a report on the 
+accessibility of government web and other electronic services early in 
+the New Year, E-Access Bulletin has learned.
+
+The report will assess how well departments conform to the 
+international accessibility guidelines issued by the World Wide Web 
+Consortium (http://www.w3.org/wai) as well as the government's own 
+guidelines developed by the Office of the e-Envoy 
+(http://fastlink.headstar.com/webg). 
+
+Jeremy Lonsdale, the NAO official who is currently drafting the report, 
+said the audit will extend beyond web services to other electronic 
+media. "We are also picking up on issues relating to digital television," 
+he said. In coming to its conclusions, the audit office will draw on the 
+input of the RNIB and Age Concern, Lonsdale said.
+
+
+*6: COUNSELLING SERVICE HITS THE WEB.
+
+A new web site aimed at helping those providing emotional and 
+psychological support services to visually impaired people, and 
+improving access to their services, has been launched by the RNIB.
+
+The site (http://www.unifiedlinks.com/~rnib) is being developed to 
+provide training information for counsellors; news about the latest 
+research; information on how to find a local counsellor; and discussion 
+forums. Set up by the RNIB's emotional support division, it is aimed at 
+both sighted counsellors and those who are themselves visually 
+impaired; and at visually impaired people seeking support either for 
+problems relating to their sight loss or on other issues.
+
+The writer Sue Townsend, speaking at the site's launch, said: "As soon 
+as someone gives you the diagnosis that you are losing your sight, you 
+need a support system."
+
+Since the site's launch last month there have been technical problems 
+with accessing it, said Teresa Nicholls, an RNIB counsellor. However 
+once the teething problems have been sorted out, stage two of the 
+service's development will include an online library of case histories 
+and articles by counsellors working with visually impaired clients.
+
+
+*7: US TAX FORMS BYPASS ACCESS REGULATIONS.
+
+The US tax office will not require companies offering online tax return 
+services to comply with access requirements applying to other 
+government services, it has emerged.
+
+Internal Revenue Service official Terry Lutes said it will be up to 
+companies providing online filing to decide whether or not they will 
+comply with section 508 of the Rehabilitation Act, a law requiring US 
+government agencies to provide accessible services.
+
+Lutes' comments came at a meeting of the Council for Electronic 
+Revenue Communication Advancement in Arlington held shortly after 
+the unveiling of an agreement on 30 October which allows companies 
+to supply online filing 
+(http://www.ustreas.gov/press/releases/po3587.htm).
+
+The revenue service plans to publish a web page providing links to the 
+new online filing services in January next year.
+
+
+*NEWS IN BRIEF.
+
+*8: NEW DEAL: An upgraded version of an accessible poker game 
+which can be used with Window-Eyes screen reading software was 
+released last month by US company ZForm. Other improvements 
+include improved sound effects, creating a Wild West saloon 
+ambience. To sign up for a trial version see:
+http://www.zform.com .
+
+*9: TOUCH SCREEN: National Federation of the Blind members are 
+to test a new tactile computer display that could help visually impaired 
+people read digital images, it was announced last month. The interface, 
+which has been developed by the US National Institute of Standards 
+and Technology, is a densely packed grid of retractable steel pins 
+which can render content such as maps. The trials aim to develop a 
+product to retail for around 2,000 dollars:
+http://fastlink.headstar.com/nist .
+
+*10: READER'S DIGEST: A web listing service for UK restaurants 
+offering Braille and large print menus has received positive feedback 
+from users, chefs and restaurant owners, according to its creator, 
+Braille transcription service provider A2i. An email nomination facility 
+- nominations@a2i.co.uk - allows customers to suggest a favourite 
+restaurant they would like to have menus in Braille or large print, and 
+the directory itself is at:
+http://www.a2i.co.uk/links.html#restaurants .
+
+* 11: ACCESS TO ITALY: An Italian language web resource on 
+accessibility issues has been launched by IWA Italia, the country's arm 
+of the International Webmasters Association, which has newly merged 
+with the HTML Writers Guild to form the world's largest association 
+for web professionals (http://www.iwanet.org). The resource is at:
+http://www.webaccessibile.org .
+
+[Section one ends.]
+
+
+* SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com
+
+*12: NOMINATE YOURSELF: Julie Howell, internet campaigns 
+officer at the RNIB, has written to respond to Ian Lloyd's criticisms of 
+the winners of the British Academy of Film and Television Arts 
+accessibility awards (see E-Access Bulletin, September and October 
+2002). Howell, who was on the judging panel for these awards, says: "I 
+don't dispute Ian's criticisms.  Very few of the candidate sites were 100 
+per cent accessible and this was disappointing.
+
+"However, judges in this situation have to select a shortlist from those 
+sites that are submitted for the award.  That's not to say that the 
+BAFTA shortlist represented the best of a bad bunch, rather the best of 
+a fairly limited bunch of varying quality.
+
+"I agree that we need to raise the standard. To do this, we need more 
+organisations that produce accessible sites to put themselves forward 
+for nomination. The awards run by BAFTA; the British Interactive 
+Multimedia Association (http://www.bima.co.uk); and the Government 
+Internet Forum (http://www.internetforum.gov.uk) all now include 
+accessibility among the essential criteria for short-listing.
+
+"There are prizes to be won for creating accessible, usable, engaging 
+sites. If you are responsible for a site that you feel should win a prize 
+for attention to accessibility, don't be shy, nominate yourself!" [Further 
+comments to inbox@headstar.com].
+
+
+*13: ANALOGUE PUZZLE: Jane Fleming, a bulletin reader who likes 
+to watch television and is registered blind, is puzzled by our recent 
+reporting of the first ever audio description services on ordinary 
+analogue television from the BBC (see E-Access Bulletin, October 
+2002).
+
+"Text narrative in BBC analogue? I thought we were all expected to go 
+digital, satellite and so on, so the government could sell the analogue 
+off. What is the point of analogue if it will expire in three years time?" 
+she asks. Fleming also says she would like to see research into audio 
+teletext services. [Further comments to inbox@headstar.com].
+
+
+*14: SHROPSHIRE STANDARD: Susan White, equal access 
+librarian, Shropshire Libraries, says: "I was interested by the comment 
+from the US reader about internet access (see 'limited access,' inbox, 
+last issue). He made the important point that most visually impaired 
+people are living on fixed incomes and, if they can afford a computer, 
+most likely cannot afford internet access.
+
+"Here in the UK, The People's Network 
+(http://www.peoplesnetwork.gov.uk) is providing free access to 
+computers and the internet in public libraries. Here in Shropshire we 
+are purchasing Supernova speech and magnifying software to help 
+visually impaired people use the facilities." [Further comments to 
+inbox@headstar.com].
+
+
+*15: LIMA BRAVO: Many readers wrote in with offers of assistance 
+to our reader Gina Bardelli of Lima, Peru who appealed for help in 
+creating an information and communications centre for the blind at a 
+district library.
+
+The ONCE Foundation for Latin America (FOAL) invited her to send 
+it a project proposal, and said that if the project fitted their criteria it 
+would be able to help. John Rae, president of the National Federation 
+of the Blind: Advocates for Equality in Canada (http://www.nfbae.ca), 
+suggested that Bardelli might wish to contact the Canadian Embassy in 
+Peru, and inquire if the Canadian International Development Agency 
+might help, because it has done some disability-related work in the 
+past.
+
+Other offers of help came from Estela Landeros-Dugourd, senior 
+manager, programs for people with disabilities, Organization of 
+American States and Robert Langford, president of International 
+Services for the Physically Challenged in Texas. Thanks to everyone 
+for their offers of assistance.
+
+[Section two ends].
+
+
+*16: SECTION THREE: FOCUS
+- RETAILING.
+
+HIGH STREET LOTTERY.
+by Mel Poluck  mel@headstar.com
+
+The process of buying a new computer or mobile phone on the high 
+street can be difficult at the best of times, as you struggle to work out 
+which is the best tariff or simply try to attract the attention of one of 
+the overworked sales staff.
+
+For visually impaired people, there are added difficulties and these are 
+sometimes made worse by a lack of awareness among store employees 
+of what different people's needs might be.
+
+The majority of visually impaired computer users rely on a small 
+number of specialist services to install special applications after they 
+have bought the machine, often with guidance from the RNIB – but 
+they still have to buy the computer in the first place, and that will 
+usually mean a trip to the high street.
+
+"I can't remember when I had previously felt so alienated and 
+marginalised when trying to buy something on the high street," said 
+one E-Access Bulletin reader of his experience of buying a home 
+computer from a branch of Dixons.
+
+"The shop assistants could spout on with great enthusiasm, once I said 
+I wanted to make music using the computer. They said: 'I've got this 
+fantastic programme, you can do A, B, C . . . X, Y, Z with it. But it's 
+visual I'm afraid, so you would probably have problems if you tried to 
+use it.'
+
+"By contrast, he didn't even know the difference between voice 
+activation and speech output! In other words, he could tell me 
+everything about the parts of the PC I'd be unable to use, and nothing 
+about the parts of the software that were essential to me as a blind user. 
+I dared not ask him about the keyboard. I think I bought the PC in spite 
+of, rather than because of the information I received at the shop. I got 
+the impression he thought that 'The Blind' would have provided me 
+with a 'special' computer."
+
+Not everyone's experiences are negative. Another blind reader was 
+pleased with her experience at The Link mobile phone shop, part of the 
+same retail group as Dixons.
+
+"The assistant was extremely helpful from the outset and showed me a 
+variety of phones, paying particular attention to their layout and the 
+usability of the keys. Once I had made my choice, the assistant not 
+only spent some considerable time setting up the phone, she showed 
+me how to use it and allowed me to ring the store's land line to get the 
+feel of it. I left the store feeling that I had received an excellent service 
+and felt confident enough to use the phone."
+
+The variation in service is likely to be caused by gaps in staff training 
+from one outlet to another. The Dixons Group (http://www.dixons-
+group-plc.co.uk), whose subsidiaries also include Currys and PC 
+World, does have a programme of staff training on new products but 
+this does not appear to include training on disability.
+
+However, the group does have a disability working group cutting 
+across all access issues. The group is currently working on a best 
+practice audit, in association with the Disability Rights Commission, 
+and recently carried out a 'mystery shopper' exercise in association 
+with the disability advocacy group POhWER, to see how accessible 
+their shops are.
+
+The 'shoppers' made a range of enquiries and purchases, before 
+reporting back to the company with their experiences. Among 56 
+volunteers with disabilities who took part in this exercise, just one was 
+visually impaired, but Dixons acknowledged that the experiences of 
+this blind person had uncovered some key shortfalls.
+
+The project's co-ordinator Jane Dellow said the visually impaired 
+participant "had the most traumatic experience". He was left for a long 
+time unattended by staff and in some shops led by the hand and told to 
+"look" at products. 
+
+These findings would feed into improvements in future working 
+practices, Dellow said, in particular their staff training system.
+
+Guidance from the Disability Rights Commission suggests adjustments 
+retailers should consider include providing appropriate or additional 
+training for staff; modifying or adapting equipment potentially used by 
+disabled people in stores; and making service literature and instructions 
+more accessible, by for example making Braille versions available.
+
+According to a spokesperson at the British Retail Consortium, every 
+major retailer is looking at current policy to keep up to date with the 
+Disability Discrimination Act, which will shortly require that visually 
+impaired people should receive the same level of customer service as 
+sighted people. It may not be possible to train every member of staff, 
+he  says, but the requirement to made 'reasonable adjustments' is 
+spurring training in this area.
+
+The availability of product literature in Braille is inconsistent across 
+outlets. While it is available from Dixons group retailers, and the 
+mobile phone operator and retail chain T-Mobile (formerly One2One), 
+the Time company – manufacturers of Tiny computers, Time 
+computers and owners of the high street chain Computer World – do 
+not produce any.
+
+Time does say, however, that its stores' aisles are kept clear and staff 
+are encouraged to show customers large fonts, large screens and "help 
+blind people around the shop". In future it may take a little more than 
+this from retailers everywhere if they are to keep one step ahead of the 
+law.
+
+[Section three ends.]
+
+
+*17: SECTION FOUR: ANALYSIS
+- THE ARTS.
+
+MUSEUMS WITHOUT WALLS.
+by Jemima Kiss  jemimakiss@hotmail.com
+
+The hosting this month of a seminar at the Tate Modern for museum 
+and art gallery managers on improving access for visually impaired 
+people – 'challenging ocularcentricity', as the blurb has it – is a 
+welcome development (see story 4, E-Access Bulletin, October 2002).
+
+The UK's museum sector is making slow progress in adapting its 
+exhibits for visually impaired visitors, despite the requirements of the 
+1998 Disability Discrimination Act to improve access for disabled 
+people to all organisations and services open to the public. Although 
+most of the requirements of this legislation will not be compulsory 
+until 2004, there currently appears to be a substantial gap between 
+provision and demand which makes the deadline seem unrealistic.
+
+Geof Armstrong, director of the National Disability Arts Forum 
+(http://www.ndaf.org) which aims to create equality of opportunity in 
+all aspects of the arts, says the task is daunting. With some 1.7 million 
+blind or partially sighted people in the UK, institutions "are so awed by 
+the implications that they put off serious action", he says.
+
+Even where serious money is being spent on accessibility, the visually 
+impaired are often overlooked. The Brighton Museum & Art Gallery, 
+for example, recently underwent a ten million pound renovation, 
+providing improved access for visitors in wheelchairs and updating 
+exhibits with interactive features including touch screen displays and 
+listening posts. But despite these new facilities, the 'full disabled 
+access' advertised by the museum makes no provision for visually-
+impaired visitors. 
+
+The museum presents a typical example of problems faced by blind or 
+partially-sighted visitors. Most galleries have necessarily low lighting 
+to protect exhibits, prohibit visitors from touching items on display and 
+provide audio guides based on the assumption that the visitor has full 
+vision. Touch screen displays use small fonts on low contrast screens 
+which are unreadable for most visually-impaired visitors, and listening 
+posts assume that the visitor has read introductory text on nearby 
+exhibits. Although staff at the Brighton museum are very willing to 
+help, and will escort people with disabilities around the museum, many 
+blind visitors feel happier when good facilities allow them to visit 
+independently.  
+
+Standard audio guides for able-bodied visitors give background 
+information on the artist and explanations of the symbolism and ideas 
+expressed in the work. Visually impaired visitors need a more practical 
+description to allow them to build their own image of the layout and 
+techniques used in the piece, but also need a delicate and 
+understanding description of the more subtle elements of a work to 
+express the mood and atmosphere.
+
+Some organisations are working to address these issues. VocalEyes 
+(http://www.vocaleyes.co.uk) is a UK audio description company 
+working mainly with theatrical performance and live productions, 
+which uses specially trained actors to concisely describe sight-based 
+details such as visual jokes and set changes during shows. Keen to 
+expand their services to other arts events, VocalEyes recently worked 
+with the Kettle's Yard Gallery in Cambridge and then the Whitworth 
+Art Gallery in Manchester to produce an audio guide accompaniment 
+for an exhibition of paintings and reliefs by the British artist Ben 
+Nicholson. Alongside the descriptions, delivered through a handset, 
+tactile images are used to give visually impaired people a more 
+complete understanding of each work. The exhibition is on until 15 
+December in Manchester (for further information, telephone 0161 
+2757450).
+
+Some of the UK's larger national cultural institutions have also been 
+making progress. The British Museum 
+(http://www.thebritishmuseum.ac.uk), for example, offer not only a 
+high contrast text-only website and large print guides, but a touch tour 
+for the Roman and Egyptian sculpture galleries, which allows visually 
+impaired visitors direct contact with the exhibits. It has also developed 
+a sound-guide system for the Parthenon Galleries accompanied by a 
+touch-section using 'Tiresias' software 
+(http://www.cs.unc.edu/~hedlund/comp145/homes/blind3) that 
+translates ancient Greek and Latin texts into Braille.
+
+The Tate group of galleries is also innovating. As well as touch tours, 
+audio guides, large print guides and reading aids such as magnifying 
+cameras, its iMap website (http://www.tate.org.uk/imap) contains 
+visually enhanced images and data which can be used with a Braille 
+printer to create raised images, derived from drawings by Picasso and 
+Matisse. Last month the site won the British Academy of Film and 
+Television Arts' first award for web site accessibility (see E-Access 
+Bulletin, October 2002). In the six weeks since iMap was launched 
+more than 2,000 people downloaded the site's line drawings for use as 
+raised images, compared to the few hundred visually impaired people 
+who might visit the gallery each year.
+
+Caro Howell, special projects curator at Tate Modern, says the most 
+valuable element of access programmes is to encourage a personal 
+engagement with the artwork. "There is little critical thinking about 
+gallery education and visual impairment and a lack of developed 
+methods. There needs to be greater emphasis on intellectual access. 
+The web offers an exciting opportunity for delivering tailor-made and 
+in-depth explorations of artworks that visually impaired people can 
+explore independently."
+
+[Section four ends.]
+
+
+*18: SECTION FIVE: FORMATTING
+- READER SURVEY.
+
+IMPROVING THE SERVICE.
+by Dan Jellinek  dan@headstar.com
+
+Our recent reader consultation on the formatting of E-Access Bulletin 
+produced lots of valuable feedback. Our existing format met with 
+strong approval overall, but we do now propose to incorporate a few 
+improvements suggested by readers, from our next issue. We also 
+propose to move on to develop a draft 'email newsletter access 
+standard' that may be used by others – more of this at the end of the 
+article.
+
+The formatting survey was initially triggered by a suggestion from one 
+reader, Peter Link, that web addresses should be moved from within 
+the text of stories to a list at the end of each article.
+
+It seems that this is not a suggestion favoured by the majority of 
+readers, however. Of the responses, 47 per cent were in favour of 
+retaining the addresses as they are, compared with 24 per cent who 
+would favour them placed at the end of stories. A further 6 per cent 
+said the addresses should be both within the copy and at the end of 
+stories, and 4 per cent said there should be an additional list at the end 
+of the newsletter of all the links in the entire issue. The other 19 per 
+cent had no preference.
+
+There is therefore no strong mandate for changing where we present 
+the web links, although if we have the resources in future we propose 
+to experiment with offering multiple formats so people will be able to 
+choose their favourite. We cannot predict exactly when we will be able 
+to do this.
+
+Moving on to whether or not we need to include full web addresses, 
+including 'http://www' at the beginning for example, there was a 
+strong majority in favour of retaining the longer formats. Two thirds of 
+respondents (67 per cent) were in favour of this, mainly because some 
+email packages such as Lotus Notes seem to only recognise the full 
+versions as links.
+
+The other third (33 per cent) of respondents did think it would be fine 
+to do without 'http://' or 'http://www' unless the full address was 
+different from the usual formulations, but on balance we have decided 
+to stick with the full addresses to ensure accessibility by all forms of 
+software.
+
+Some 15 respondents suggested we produce a simple HTML version of 
+the newsletter alongside the plain text version, allowing live links plus 
+internal links from the contents to relevant stories. We think this is a 
+good idea, and as with the alternative web address placings will strive 
+to introduce such a version as an opt-in alternative as and when 
+resources allow. We will also consider subsequently producing a 
+Microsoft Word version as well, as this may apparently work even 
+better with some access technologies.
+
+Most respondents like our use of an asterisk to mark the beginnings of 
+stories and sections, but there were two suggestions for adaptations to 
+this device that seem like good improvements.
+
+The first is a suggestion to change from using asterisks to the # (or 
+'hash') symbol. The reason for this suggestion, as explained by reader 
+John Gardner in the US, is that the asterisk character is often used as a 
+'wild card' character in searches, so sometimes if you search for say 
+'*1' which we might be using to mark a story, a search may take the 
+asterisk to be a wild card and just find any place where a character was 
+next to a '1'.
+
+"My guess is that everybody could search and find #1 but that many 
+search engines wouldn't find *1", Gardner says. So unless any reader 
+contacts us with strong reasons why we should not do this, we propose 
+to make that change from our next issue.
+
+A further refinement is suggested by Gerry Chevalier of Canada. He 
+says: "I do indeed appreciate the '*' special character as it allows me to 
+use the FIND-NEXT search of my email client. However, I might 
+suggest that you could use '***' to tag a main section and '**' to tag a 
+section and '*' to tag an individual item.  That way, I could search say, 
+for '***' if I wished to skip an entire section."
+
+We think that this idea, using the new # characters rather than the *, is 
+a good one, and so will from the next time use ### at the beginning of 
+the issue and the beginning of the notes at the very end of the issue; ## 
+for a section beginning; and # for a headline beginning an individual 
+article.
+
+There are four other points of formatting or style for increased 
+accessibility we propose to adopt in addition to our existing rules, as 
+follows:
+
+- All paragraphs to end with a full stop, even if the last word is a web 
+or email address.
+
+- Never to use <> tags for web addresses.
+
+- Where possible, to write compound words or phrases as separate 
+words, for example saying 'home page' rather than 'homepage', as 
+compound words can confuse screen readers and produce odd 
+pronunciations.
+
+- The minimisation of the introductory text we put at the top of each 
+issue, before we get to the issue proper.
+
+So that's about it. Thanks very much to everyone who provided 
+feedback. And as well as incorporating the improvements from our 
+next issue where indicated above, we also now propose to draft an 
+'email newsletter access standard' which could be continually 
+improved according to an ongoing process of consultation, and adopted 
+by other organisations who find it useful. Headstar, the publishers of E-
+Access Bulletin, will be happy to maintain the standard in partnership 
+with any interested bodies – if you are interested in supporting the 
+project, please contact the bulletin's editor Dan Jellinek on 
+dan@headstar.com. The first draft standard will be published on the 
+web next month, with full details provided in our next issue.
+
+[Section five ends.]
+
+
+* HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail
+eab-subs@headstar.com with 'subscribe eab' in the subject header. 
+You can list other email addresses to subscribe in the body of the 
+message. Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject 
+header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2002 Headstar Ltd. http://www.headstar.com
+ISSN 1476-6337
+The Bulletin may be reproduced in full as long as all parts including 
+this copyright notice are included. Sections of the report may be 
+quoted as long as they are clearly sourced as 'taken from e-access 
+bulletin, a free monthly email newsletter', and our web site address 
+http://www.e-accessibility.com is also cited.
+
+* PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Phil Cain  phil@headstar.com
+News editor - Derek Parkinson  derek@headstar.com
+Reporter – Mel Poluck  mel@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk
+
+[Issue ends.]

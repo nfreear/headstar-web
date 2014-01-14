@@ -1,0 +1,555 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 120, December 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 120 Contents.
+
+01: Call For Compliance With UN Convention Covering ICT Rights
+- Disability groups must monitor nations' actions, analyst says.
+
+02: UK's First Educational e-Book Library Launched Online
+- Alternative format text-books available to registered students.
+
+03: Automatic Captions Added To YouTube Videos
+- Speech recognition system enhances access for deaf users.
+
+News in Brief: 04: New Wheelies - acclaimed disability-themed
+Second Life nightclub reopens; 05: Borderless World - Russian social
+networking portal for disabled people; 06: Egypt Debate - access and
+diversity session at Internet Governance Forum.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Invisible Loan - 'Sonata' web radio offer confirmed; 08: Microsoft
+Suspense - email merry-go-round on accessible e-books; 09:
+Oneformat Update - browser style sheets.
+
+Section Three: Focus - Global Accessibility Policy.
+10: Technology Changes, Civil Rights Do Not: The UN Convention on
+Rights of Persons with Disabilities is at the heart of renewed pressure
+on states and companies worldwide to ensure people with disabilities
+have access to information and communications technologies. But its
+implementation will have to be monitored carefully to ensure
+maximum impact, says Cynthia Waddell.
+
+[Contents ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section One: News.
+
++01: Call For Compliance With UN Convention Covering ICT Rights.
+
+Disability rights groups, organisations working with people with
+disabilities and all other interested parties must carefully monitor their
+home nations' compliance with the UN Convention on Rights of
+Persons with Disabilities to ensure moves towards more accessible
+information and communications technologies (ICT) do not fall by the
+wayside, one of the world's leading accessibility analysts writes in this
+month's E-Access Bulletin.
+
+Cynthia Waddell, Executive Director of The International Center for
+Disability Resources on the Internet (ICDRI - http://www.icdri.org/ ),
+says the Convention entered into legal force in May 2008 and starting
+next year, 2010, all states that have ratified it will be required to report
+to the UN Committee on Rights of Persons with Disabilities on
+measures taken to meet its accessible ICT obligations.
+
+The Convention has helped to create a paradigm shift in the exercise of
+the rights of people with disabilities in the use of ICT, Waddell says,
+with many provisions relating to ICT availability, affordability and
+accessibility through principles of 'universal design'. "But it is one
+thing to have a law or policy, and another to implement it.if the UN
+Convention is to succeed, then its monitoring provisions need to be
+followed. The Convention requires the signatory states to designate
+focal points within each country to assist in implementation and
+monitoring. I encourage you to find out who the designated focal
+points are in your country and to contribute your voice to the
+Convention implementation effort and the country Monitoring Report."
+
+The ongoing controversy over the Kindle 2 - an electronic book reader
+with a text-to-speech feature which has been embroiled in a row over
+royalties from what some see as a new 'audio book' format - "reminds
+us that the accessible ICT paradigm shift is fragile and can be broken,"
+Waddell says.
+
+NOTE: For the full article see Section Three, this issue.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=368
+
+
++02: UK's First Educational e-Book Library Launched Online.
+
+The UK's first online library of educational textbooks in a range of
+digital formats accessible to visually impaired students has been
+launched.
+
+'Books for All' is a joint project between The Seeing Ear (
+http://www.seeingear.org/ ), a website which provides electronic books
+for visually disabled people, and the University of Edinburgh. It allows
+authorised and registered teachers and students with visual
+impairments to access an online catalogue of alternative format
+educational books for free.
+
+Accessible books are uploaded to the database by teachers, and can
+then be freely downloaded by other schools or registered users in
+formats such as plain text, Word and PDF. Tony Dart, chief executive
+of The Seeing Ear, said the system should eliminate the problem of
+people across the UK having to convert the same book into a format
+accessible for visually impaired students many times. "If a book is a set
+text, it's very often converted locally, with varying degrees of quality.
+This way, we can have one person upload an e-book to make it
+available for everybody."
+
+Dart said that if successful, the project would have a "vast and positive
+impact" on accessible e-learning.
+
+There are currently around 100 educational titles available through the
+service, and Dart says he hopes this number will increase as more
+schools join. Around 250 schools are already registered.
+
+Future plans to improve the service include a collaborative editing
+system to correct any mistakes to uploaded texts, and an online
+converter to automatically switch between accessible formats as
+required.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=370
+
+
++03: Automatic Captions Added To YouTube Videos.
+
+Google, the owner of video exchange website YouTube, has started
+providing automatic captions for some English language videos on the
+website, increasing accessibility for deaf users.
+
+The 'auto-caps' system is made possible by Google's own automatic
+speech recognition (ASR) technology, working alongside the current
+YouTube captioning system.
+
+Although captions are already available on YouTube, it was previously
+necessary for the owner of the video to insert them manually - a time-
+consuming task, given the sheer number of videos uploaded to the site.
+
+Ken Harrenstien, a Google software engineer who is also deaf, said
+recently on the official Google Blog: "Every minute, 20 hours of video
+are uploaded. How can we expect every video owner to spend the time
+and effort necessary to add captions to their videos? Even with all of
+the captioning support already available on YouTube, the majority of
+user-generated video content online is still inaccessible to people like
+me."
+
+Google's ASR technology is also being used to make the manual
+captioning system on YouTube easier and more efficient to use. 'Auto-
+timing' will allow users to caption a video without any specialist
+technical knowledge through creation of a simple text file with a
+transcript of the video's speech. The ASR then converts this text to
+captions by searching for the words at the relevant point in the video.
+
+The Royal National Institute for Deaf People (RNID:
+http://www.rnid.org.uk/ ) have supported Google's decision, saying
+that all on-demand content should be accessible. RNID director of
+external affairs, Emma Harrison, told E-Access Bulletin: "RNID
+welcomes Google taking this first step towards making YouTube more
+accessible for deaf viewers."
+
+Auto-caps are currently live on a series of educational YouTube
+channels (including National Geographic and some American
+universities), in order for Google to gather feedback before rolling out
+the system on a broader basis. The auto-timing feature is currently
+available on all English-language YouTube videos.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=372
+
+
+++News in Brief:
+
++04: New Wheelies: An award-winning disability-themed nightclub in
+the online virtual world Second Life has relaunched with new
+sponsorship. First opened in 2006, Wheelies 74 has a dance venue and
+activities centre, and will now feature a weekly music and
+entertainment schedule for both disabled and non-disabled Second Life
+users. The owner of the club, Simon Stevens, controlled the first avatar
+to use a virtual wheelchair in Second Life:
+http://www.wheelies74.com/
+
++05: Borderless World: An online social networking portal for
+disabled people has been launched in Russia, allowing users to interact
+with each other using groups, forums and 'digital maps', and to access
+goods and services. Created by Alexandre Gorelik, director of the
+United Nations Information Centre in Moscow, the 'Bezgraniz' ('Life
+without borders') portal, which includes some English translation,
+features collaborative information on a range of subjects including e-
+learning, ICT accessibility, jobs, travel and music:
+http://www.bezgraniz.com/?s=1024
+
++06: Egypt Debate: A debate on access and diversity in internet use,
+covering topics such as accessibility guidelines, was held at the fourth
+annual Internet Governance Forum in Egypt last month. Speakers on
+the panel included Shadi Abou-Zahra, activity lead for the World
+Accessibility Initiative international programme:
+http://bit.ly/67S49V
+
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Invisible Loan: Our article last issue on the UK's first accessible
+web radio, 'Sonata', from the charity British Wireless for the Blind
+Fund (BWBF) , stated the radios were available on free loan to
+registered blind users.
+
+However one reader, Delilah, commented on our blog: "I read this
+article with great interest, but cannot find anything on the entire
+[BWBF website] http://www.blind.org.uk [saying] that these devices
+are on loan free to blind people. It states that if you are registered blind
+or visually impaired you do not have to pay VAT. Otherwise the cost is
+£343.85 plus further annual charges of £25 each November."
+
+She continues: "Their website does not work in my preferred browser
+either. The accessibility pages only give instructions for IE and firefox,
+neither of which I like. This is disappointing from a blind charity."
+
+We contacted the charity, and a spokesperson responded to these points
+as follows: "Unfortunately the website hasn't been updated to reflect
+the fact that it is now available on free permanent loan, but it definitely
+is and if your reader is in receipt of a means-tested benefit and doesn't
+have a set from us already then she might be eligible for one. I will
+chase on getting the website up to date.
+
+"As for the technical comments, this is disappointing to hear and a
+group is looking at the website at the moment so I will pass this on and
+hopefully it's an issue that will be addressed sooner rather than later."
+
+Further comments please to inbox@headstar.com or direct to the
+website:
+http://www.headstar.com/eablive/?p=363
+
+
++08: Microsoft Suspense: In our October issue we published a query
+from a reader, who wishes to remain anonymous, about barriers to
+downloading accessible electronic books thrown up by international
+copyright laws. He wrote that none of the blindness-specific accessible
+electronic book players he had found supports the protected Windows
+media format, DRM (Digital Rights Management), due to the costs in
+licensing.
+
+"Is there a way to play protected file types on non-standard players,
+and if not, what can we do to convince Microsoft or the producers of
+such players to play these formats?" he asked.
+
+This month we have received an update from the reader, who has
+forwarded to us a long sequence of emails (more than a dozen in all)
+which followed his own attempts to ask Microsoft directly for answers
+to his questions.
+
+The emails are all holding replies from Microsoft representatives and
+executives in several countries, carrying such statements as: "It appears
+that we are looking for an answer for you. I will contact you when I
+receive some information"; and "I am hoping that one of you may be
+able to help this gentleman" [an internal email copied to several
+people].
+
+As E-Access Bulletin went to press however, the signs were more
+hopeful, with a senior executive saying: " Several people [are] looking
+at the situation and working on a response to you. I have pinged them
+this morning to check on the status of their work. As soon as I hear
+back from them, I will let you know when you can expect an answer."
+
+The reader promises to keep us updated.
+
+
++09: Oneformat Update: In our January 2009 issue, Diana Monahan of
+Moor End Technology College, Huddersfield, wrote in to describe a
+problem she met in using the 'Oneformat.com' website, which offers
+free accessible web browser style sheets. Diana had said she was "told
+by the school software that 'Virus/spyware Troj/Comic-Fam has been
+detected.'"
+
+The site's creator, Daljit Singh responded to reassure readers that his
+site was safe, and this problem was a software glitch: "Try turning off
+the web shield on the anti-virus program while using Oneformat.com."
+
+Now Diana writes in with her further response: "Thank you for chasing
+this up. My school is trying to contact Sophus who make the antivirus
+to see what can be done as it still says it has detected Troj/Comic-Fam
+so [the] school cannot give me access. The local authority use another
+anti-virus set-up which was also blocking the site but they checked up
+and have now allowed me access to the computer I use at my other
+base."
+
+
+[Further comments please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Section Three: Focus
+- Global Accessibility Policy.
+
++10: Technology Changes, Civil Rights Do Not
+by Cynthia Waddell
+
+The UN Convention on Rights of Persons with Disabilities addresses
+the rights of 650 million persons with disabilities and impacts two
+billion persons worldwide, including family members of persons with
+disabilities.
+
+Six years in the making, the treaty opened for signatures in March
+2007, receiving the highest number of signatories for any UN treaty on
+its opening day; and entered into legal force in May 2008.
+
+Starting next year, 2010, all states parties that have ratified the
+Convention (including the US, pending Senate ratification) will be
+submitting a comprehensive report to the Convention's monitoring
+committee, the Committee on Rights of Persons with Disabilities, on
+measures taken to meet the accessible ICT obligations of the
+Convention.
+
+Some people have expressed surprise that even with the passage of the
+Americans with Disabilities Act (ADA) in 1990, there are still gaps in
+the US effort on accessibility. In fact, a gap analysis performed by an
+independent federal agency, the National Council on Disability, found
+there will be several changes needed to conform US laws and policies
+to the obligations of the Convention.
+
+Worldwide, two paradigm shifts brought on by the Convention are
+having an impact.
+
+The first is in our basic definition of disability, and how society views
+persons with disabilities. No longer is the medical approach valid,
+whereby we are viewed as objects of charity, medical treatment and
+social protection.
+
+The Convention demonstrates that a shift is underway towards viewing
+persons with disabilities as holders of rights. We are individuals who
+can claim full and equal enjoyment of all human rights and
+fundamental freedoms and full participation in society.
+
+There is also a second significant paradigm shift underway concerning
+the exercise of our rights in the use of information and communications
+technology (ICT).
+
+The Convention has many provisions that impact the development,
+procurement and deployment of ICT products and services, including
+ICT availability, ICT affordability and ICT accessibility through
+Universal Design.
+
+But it is one thing to have a law or policy, and another to implement it,
+as we saw in the US when we tried to implement accessible ICT
+practices.
+
+In 1986 Congress amended the Rehabilitation Act of 1973 to ensure
+that electronic and information technology would be accessible to
+persons with disabilities. But the prohibition against discrimination on
+the basis of disability in procurement was difficult to manage because
+there was no agreement as to what was meant by the accessible design
+of electronic and information technology.
+
+And across the country, we were seeing our investments in assistive
+technology being torpedoed as software upgrades in mainstream
+technology destroyed compatibility and interoperability with assistive
+technologies in use by workers with disabilities.
+
+It was not until 1998 - eight years after the ADA was enacted - that
+Congress amended the Rehabilitation Act of 1973 by strengthening
+Section 508 through the Workforce Investment Act. It requires federal
+agencies to make their electronic and information technology
+accessible to people with disabilities, including all mainstream
+technologies procured.
+
+In taking this action, it was recognised that we had to strengthen US
+law to define what was meant by accessible design and that we had to
+create marketplace incentives for businesses. This civil rights
+procurement law was fashioned as a way to enable businesses to
+recover their investment in accessibility and at the same time enable us
+to lower the cost of expensive customisation.
+
+The US effort was only the beginning of what would become a global
+one. Japan, for instance, has been busy addressing accessibility within
+the Japanese Industrial Standards.
+
+And at around the same time, in 1997, the World Wide Web
+Consortium launched the Web Accessibility Initiative, which has led to
+a number of valuable resources including its web accessibility
+guidelines.
+
+We also saw the international standards-setting community becoming
+increasingly active. For example, since 2004 the ISO/IEC
+(International Standards Organization/International Electrotechnical
+Commission) JTC1 Special Working Group on Accessibility has been
+mapping accessible ICT standards worldwide. For the first time a
+systemic review of worldwide standards is underway to identify
+standards and to analyse gaps in standards.
+
+Another significant international activity of interest is the effort
+underway due to the European Commission Mandate 376 to European
+Standardisation Organisations.
+
+Recognising the need for a public procurement policy and practice for
+accessible information and communications technology, the mandate
+was launched to develop a solution for common requirements and
+conformance assessment in accessible ICT. It is expected that this
+effort in due course will result in a European standard for accessibility
+requirements in the ICT domain to be used as technical specifications.
+
+So there is no question that an accessible ICT paradigm shift is
+underway. But now, back to the future. If the UN Convention is to
+succeed, then its monitoring provisions need to be followed. The
+Convention requires the signatory states to designate focal points
+within each country to assist in implementation and monitoring.
+
+I encourage you to find out who the designated focal points are in your
+country and to contribute your voice to the Convention implementation
+effort and the country Monitoring Report. Cross-disability
+representation is vital in all sectors to ensure "Nothing about us,
+without us."
+
+The recent and ongoing controversy over the Kindle 2, an electronic
+book reader with a text-to-speech feature which has been embroiled in
+a row over royalties from what some see as a new 'audio book' format,
+reminds us that the accessible ICT paradigm shift is fragile and can be
+broken.
+
+Overall, I believe that ICT innovation embracing accessibility will
+bring a future of inclusiveness and economic sustainability, with
+greater percentages of persons with disabilities working and
+contributing to society. The Convention provides us with a framework
+for policy and implementation. But this cannot happen without
+universal design training in our schools and public policy awareness
+across disciplines so that our workforce is knowledgeable about
+accessibility and the Convention obligations.
+
+Our investment in accessibility should be no different from any other
+ICT requirement. An accessible future is coming because technology
+changes, but civil rights do not.
+
+NOTE: Cynthia Waddell is Executive Director of The International
+Center for Disability Resources on the Internet (ICDRI -
+http://www.icdri.org/ ). This article is an edited extract from her
+keynote speech to the RNIB's Techshare 2009 conference in London.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=374
+
+[Section Three ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for accessibility
+discussion on the web for nearly six years. Celebrating our sixth
+birthday next month, you'll find discussion of accessibility at all levels,
+from beginner to guru.
+
+The site has recently been redesigned and the forum system improved.
+This is still ongoing and you can join in the discussions.
+
+So whether you're looking to learn more about accessibility, want to
+help others and improve on your own knowledge, or just to browse the
+archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 120 ends.]

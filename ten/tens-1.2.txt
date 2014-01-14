@@ -1,0 +1,286 @@
++++Text Email Newsletter Standard (TEN Standard), Version 1.2.
+
+++ Section one: Introduction.
+
+The TEN Standard is designed to ease navigation of plain text email 
+newsletters by all readers, including those using special access 
+technologies. Its web site is:
+http://www.headstar.com/ten .
+
+The standard was developed by E-Access Bulletin, a free email 
+newsletter on access to technology by vision-impaired people, 
+published by Headstar with support from RNIB. To subscribe email
+eab-subs@headstar.com
+or see the E-Access Bulletin web site:
+http://www.headstar.com/eab .
+
+Note that the TEN Standard is not intended to be used as a standard for 
+content on web pages, or for web sites – it relates purely to the content 
+of plain text email newsletters. For further background details see 
+section three, ‘Notes’, in this document.
+
+This version of the standard was issued following consultation in June 
+2005. If you have any further comments on the standard please email:
+ten@headstar.com .
+
+[Introduction ends].
+
+
+++Section Two: TEN Standard, Version 1.2 – Specification.
+
++01: This standard is intended to be used as guidance by people who 
+produce newsletters which are written entirely in plain text, without 
+any graphics or images, and which are distributed by email. It does not 
+relate to HTML pages. You may of course produce other versions of 
+your newsletter which do include graphics or HTML, although it is 
+recommended that a plain text version is offered as an alternative.
+
+
++02: Try to avoid very unusual characters such as mathematical 
+symbols. In emails, only the ASCII characters 32 - 127 will be 
+transmitted without problems; the use of other characters may cause 
+errors. So avoid accents unless they are essential to understand a word, 
+for example where a language other than English is being used. But 
+where you are mainly writing in English, if it is easy enough to 
+understand a word without a special accent, then consider leaving it 
+off.
+
+
++03: Do not use bold, italics or underlining to convey tone or 
+information, as they are graphical devices, and are sometimes stripped 
+out by email software. Try to convey emphasis instead in your choice 
+of words; or by using phrases such as ‘Please note:’. The use of special 
+characters such as an asterisk * on either side of a word to convey 
+emphasis or for other tonal purposes is not encouraged, as this can be 
+confusing to new readers.
+
+
++04: Ensure the first line of the email and hence of the newsletter is the 
+same as the subject header of the email, which should include the full 
+title of the newsletter, and the issue number and date. This will help 
+subscribers search for your newsletters, or set up spam filters to always 
+allow your newsletter through. 
+
+
++05: Minimise any introductory or background text at the top of each 
+issue, so that the reader arrives at the ‘contents’ section as soon as 
+possible. Place most background or subsidiary information such as 
+copyright and personnel credits at the end of the newsletter. Also, try 
+to place any editorial or operational note within its own section within 
+the body of the newsletter proper, rather than above the contents, and 
+especially do not place operational notes or personalised notes before 
+the first title line of the newsletter. If you have a special note to 
+circulate concerning a newsletter, such as an apology for late 
+publication, that you do not wish to appear within the publication itself, 
+it is best to circulate it in a separate email. This will also ensure that 
+temporary or operational notes do not appear in any newsletter 
+archives.
+
+
++06: We recommend the use of a ‘Contents’ section at the top of each 
+newsletter, for all but the shortest of newsletters or notices. The content 
+section should list stories or items in each issue using precisely the 
+same wording for story headlines as is used at the head of the stories 
+themselves. Further explanatory information can be added alongside 
+this headline. The contents section should be called ‘Contents’ or 
+something else that makes it clear that it lists what is in the issue, such 
+as ‘In this issue’. But it is important that every section that appears 
+beneath the contents section should be included in the contents, 
+including all regular or operational sections such as Editor’s notes or 
+Copyright notices. The only exception to this rule is with 
+advertisements, which need not be listed in the contents.
+
+
++07: Divide the newsletter into clear sections, for example ‘Section 
+One: News’, with each section beginning with a statement of the 
+section number and name and ending with a marker in square brackets 
+saying the section has ended, for example:
+[Section One ends].
+The full stop or period that follows the end of this line should follow 
+the square brackets, not be enclosed within them. You need not number 
+the Contents or other introductory sections, but of sections are not 
+numbered, the tag closing the section must state the precise same 
+phrase as the opening, with the word ‘ends’ after it, for example: 
+[Contents ends].
+This precision is necessary to allow the automation of some aspects of 
+this standard.
+
+
++08: Use the ‘+’ symbol repeated or on its own at the beginning of 
+each new element of the newsletter, to mark its beginning and to 
+denote its level within a hierarchy. For example, you could use a three-
+level hierarchy of newsletter, section, and story headline denoted by 
+‘+++’ at the beginning of the newsletter; ‘++’ at the beginning of each 
+section heading; and ‘+’ at the beginning of each story headline within 
+a section. This will help you navigate around the document – for 
+example, searching for ‘++’ will allow you to jump from section to 
+section. As a variation to this principle, it is acceptable to use # (the 
+‘hash’ or ‘numeral sign’), but not to use * (the asterisk) because 
+asterisks are often interpreted as a ‘wild card’ in a search. The symbols 
+can either be used on the preceding line as the heading, and on the 
+same line either with or without a subsequent space. So all the three 
+examples listed below are acceptable:
+
+Example one:
+++
+Heading Text.
+
+Example two:
+++Heading Text.
+
+Example three:
+++ Heading Text.
+
+
++09: Number all articles, including news and features, consecutively 
+throughout the issue. These numbers should appear in the contents and 
+then immediately after the + or # symbol at the beginning of each story 
+headline, followed by a colon after the number and then straight into 
+the headline. The first nine numbers should begin with a 0, e.g. 01 
+rather than 1, to allow unambiguous searching.
+
+
++10: Do not use long lines of symbols – for example lines of asterisks 
+– to mark divisions between sections of a newsletter. This visual 
+device plays havoc with screen-readers, which have to read out each 
+symbol individually. You may use a series of two or three empty lines 
+to mark the beginning of a new section.
+
+
++11: Minimise the use of capital letters in headings and headlines, as 
+these are harder to read than lower-case letters by people with impaired 
+vision or dyslexia. It is better to write headlines in upper and lower 
+case, sometimes known as ‘title case’, or simply to use a single capital 
+letter at the beginning of the heading. You should not write words all 
+in capitals unless they are abbreviations or acronyms which are usually 
+spelled in capitals, like ‘BBC’.
+
+
++12: End all headlines and other headings either with a full stop or 
+period, or with a colon. Ensure there is a blank line between all 
+headings or headlines and the body text to which they relate.
+
+
++13: End all sentences and paragraphs with a full stop or period. If the 
+last word is a web or email address (and this is not written in brackets) 
+add a further space before adding a final full-stop or period.
+
+
++14: Ensure there is at least one blank line between every paragraph.
+
+
++15: Where using a list of ‘bullets’ or ‘bullet points’, start each bullet 
+with a – (‘dash’) or . (‘full-stop/point’) character, and end each bullet 
+with a semi-colon or full-stop/point. Ensure there is a blank line before 
+the start and end of the list, and between each point as well. Ensure 
+there is a clear description of the list or title for it immediately before it 
+starts.
+
++16: Try to list web links, email addresses or other internet addresses 
+such as ftp addresses on a separate line, with just the address itself on 
+the line, as this makes them easier to copy onto a clipboard or a 
+browser, helps prevent ‘wrap-around’ or long addresses, and allows 
+screen reader users to skip immediately to the next line if they do not 
+wish to listen to the web address. Try to ensure there is a clear and full 
+description of the link immediately before it is cited – not just 
+something like ‘for an example of what we have been talking about, 
+click here’. An example of how to do it right would be:
+
+Visit the TEN Standard web site
+http://www.headstar.com/ten
+for further information about our work.
+
+
++17: Where links or addresses are included in the body of text, place 
+them within rounded brackets immediately after the organisation or 
+document to which they refer. Insert an extra space before and after the 
+web address within the brackets to make it easier to copy and paste, 
+and to ensure the brackets are never mistaken by software as part of the 
+web address. So for example you could write:
+
+Visit the TEN Standard web site ( http://www.headstar.com/ten ) for 
+further information about our work.
+
+
++18: If web addresses are listed at the end of a story, the full title of 
+links should be included again.
+
+
++19: Full internet addresses, for example including 'http://www' at the 
+beginning, should be provided for links, as some email packages only 
+recognise the full versions. Links that point to directories, and not to 
+files, should end with a slash ‘/’.
+
+
++20: Never use < > tags for web addresses, email address or any other 
+form of internet address, except in the context of a technical manual or 
+tutorial, for example where instructing someone in how to use HTML 
+tags.
+
+
++21: If you put an end note at the end of an article, for example with 
+information about the author or a forthcoming relevant event or article, 
+use a text signifier such as ‘Note:’ rather than a symbol, and 
+particularly do not use an asterisk for the reason stated in point +08 of 
+this specification.
+
+
++22: Where possible, write compound words or phrases as separate 
+words, or as hyphenated combinations, for example saying ‘screen 
+reader’ or ‘screen-reader’ rather than ‘screenreader’, as compound 
+words can confuse text-to-speech software and produce odd 
+pronunciations. Where a word has been created as a company name 
+that is a fusion of two or more ordinary words, such as 
+‘Accessiblegames.com’, it is best to present it as upper and lower case, 
+so ‘AccessibleGames.com’. This is to help screen-readers read the 
+words out separately and clearly. Note however that with web 
+addresses, it is not advisable to capitalise letters like this, as it may stop 
+the link from working.
+
+
++23: If you make changes to your newsletter format from one issue to 
+the next, mention what these are at the top of the issue for the next two 
+issues at least.
+
+
++24: Make the last line of the newsletter a closure statement in square 
+brackets saying ‘newsletter ends’ or equivalent.
+
+
++25: When sending out your newsletter, ensure you have your email 
+software set to produce plain text emails and not rich text or HTML. 
+Also, try to ensure that your email software is not set to place a line 
+break after a fixed number of characters in each line.
+
+[Section Two ends].
+
+
+++ Section three: Copyright and notes.
+
+Copyright Headstar 2002-2004. This document may be reproduced 
+freely as long as it is always reproduced in its entirety, including this 
+copyright message, and as long as it is always distributed free of 
+charge. Please always use the latest version of the standard, to be found 
+at:
+http://www.headstar.com/ten .
+
+The standard will be periodically updated and improved according to 
+the feedback we receive. Please email any comments or suggestions for 
+changes or improvements to Dan Jellinek on dan@headstar.com .
+
+Organisation and individuals who produce email newsletters and who 
+adhere to this standard or the majority of its specifications are 
+encouraged to ‘sign up’ to the TEN Standard. To do this simply email 
+a copy of your newsletter to:
+ten-standard@headstar.com .
+
+We also ask that you include a link to the TEN Standard home page 
+somewhere at the end of your newsletters.
+
+A list of all our signatories will be published at the standard’s web 
+page:
+http://www.headstar.com/ten .
+
+[End of notes].
+
+[Document ends].

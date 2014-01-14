@@ -1,0 +1,66 @@
+line 79 column 3 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 79 column 9 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 79 column 18 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 125 column 10 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 132 column 1 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 132 column 15 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 140 column 12 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 140 column 18 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 153 column 35 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 153 column 58 - Warning: replacing invalid UTF-8 bytes (char. code U+0096)
+line 154 column 18 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 235 column 42 - Warning: replacing invalid UTF-8 bytes (char. code U+0094)
+line 296 column 43 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 296 column 53 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 298 column 14 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 379 column 49 - Warning: replacing invalid UTF-8 bytes (char. code U+0093)
+line 379 column 61 - Warning: replacing invalid UTF-8 bytes (char. code U+0094)
+line 381 column 50 - Warning: replacing invalid UTF-8 bytes (char. code U+0093)
+line 382 column 37 - Warning: replacing invalid UTF-8 bytes (char. code U+0094)
+line 542 column 60 - Warning: replacing invalid UTF-8 bytes (char. code U+0093)
+line 545 column 70 - Warning: replacing invalid UTF-8 bytes (char. code U+0094)
+line 592 column 15 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 592 column 38 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 599 column 17 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 599 column 34 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 605 column 4 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 605 column 25 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 607 column 6 - Warning: replacing invalid UTF-8 bytes (char. code U+0096)
+line 642 column 37 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 644 column 44 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 664 column 30 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 665 column 73 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 668 column 51 - Warning: replacing invalid UTF-8 bytes (char. code U+0091)
+line 668 column 60 - Warning: replacing invalid UTF-8 bytes (char. code U+0092)
+line 18 column 1 - Warning: missing </div>
+Info: Doctype given is "-//W3C//DTD HTML 3.2//EN"
+Info: Document content looks like XHTML 1.0 Strict
+35 warnings, 0 errors were found!
+
+
+Accessibility Checks: Version 0.1
+
+line 9 column 1 - Warning: [6.1.1.1]: style sheets require testing (link).
+line 10 column 1 - Warning: [6.1.1.1]: style sheets require testing (link).
+line 11 column 1 - Warning: [6.1.1.1]: style sheets require testing (link).
+line 13 column 1 - Warning: [6.1.1.1]: style sheets require testing (link).
+Character codes for UTF-8 must be in the range: U+0000 to U+10FFFF.
+The definition of UTF-8 in Annex D of ISO/IEC 10646-1:2000 also
+allows for the use of five- and six-byte sequences to encode
+characters that are outside the range of the Unicode character set;
+those five- and six-byte sequences are illegal for the use of
+UTF-8 as a transformation of Unicode characters. ISO/IEC 10646
+does not allow mapping of unpaired surrogates, nor U+FFFE and U+FFFF
+(but it does allow other noncharacters). For more information please refer to
+http://www.unicode.org/unicode and http://www.cl.cam.ac.uk/~mgk25/unicode.html
+
+For further advice on how to make your pages accessible, see
+http://www.w3.org/WAI/GLand
+http://www.aprompt.ca/Tidy/accessibilitychecks.html.
+You may also want to try "http://www.cast.org/bobby/" which is a free Web-based
+service for checking URLs for accessibility.
+
+To learn more about HTML Tidy see http://tidy.sourceforge.net
+Please send bug reports to html-tidy@w3.org
+HTML and CSS specifications are available from http://www.w3.org/
+Lobby your company to join W3C, see http://www.w3.org/Consortium

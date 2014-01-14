@@ -1,0 +1,43 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Apr  1 21:23:50 2009 __
+
+Input file: ../eab/issues/2009/feb2009.txt
+
+Warning: file already exists: ../eab/issues/2009/feb2009.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: feb | index: 2 | year: 2009
+URLs, prev: ../2009/jan2009.html | next: ../2009/mar2009.html
+Found ++, heading 2: E-Access '09: Technology For All
+Found ++, heading 2: Issue 110 Contents.
+>> FOUND 2:  | 01:  | More Workplace Assistance Needed With IT, Guide Warns.
+>> FOUND 2:  | 02:  | Lost Weekend Spawns Accessible Facebook
+>> FOUND 2:  | 03:  | Navigational Device Wins International Research Prize
+>> FOUND 2: News in Brief:  | 04:  | Linux Package - Adapted for visually impaired; 05:
+OK, News in brief
+Found: Linux Package - Adapted for visually impaired | ; |  05:
+>> FOUND 2: Room Rights -accessible hotel search;  | 06:  | June Prizes - eWell-Being
+Found: Room Rights -accessible hotel search;  | 06:  | June Prizes - eWell-Being
+>> FOUND 2:  | 07:  | Licence To Tweet: Twitter is a microblogging system that has
+Warning line 74: expected [Contents ends].
+$toc_count=7
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | More Workplace Assistance Needed With IT, Guide Warns.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Lost Weekend Spawns Accessible Facebook.
+Warning: not found a 'contents' match: Lost Weekend Spawns Accessible Facebook.
+> ITEM 2:  03:  | Navigational Device Wins International Research Prize.
+Warning: not found a 'contents' match: Navigational Device Wins International Research Prize.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A version of the open source computer operating
+> ITEM 1:  05:  | : |  Wheelchair-friendly hotel rooms can now be
+> ITEM 1:  06:  | : |  ICT projects which promote social inclusion can be
+Found ++, heading 2: Sponsored Notice: Designing For All:
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Two: Focus
+> ITEM 2:  07:  | Licence To Tweet
+Warning: not found a 'contents' match: Licence To Tweet- By Gez Lemon.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 475, <IFILE> line 403.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 475, <IFILE> line 413.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 475, <IFILE> line 420.

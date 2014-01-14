@@ -1,0 +1,799 @@
++++E-ACCESS BULLETIN.
+- ISSUE 40, APRIL 2003.
+
+Technology news for people with vision impairment
+(http://www.e-accessibility.com).
+
+Sponsored by RNIB (http://www.rnib.org.uk)
+and National Library for the Blind (http://www.nlbuk.org).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard. For example, all items are numbered. For details see:
+http://www.headstar.com/ten
+
+
+++ISSUE 40 CONTENTS.
+
+01: 'Thin client' accessibility breakthrough
+- Leading suppliers work towards solutions.
+
+02: Design flaws detected in 'driving licence' test
+- European standard under the microscope.
+
+03: Disability commission to survey the web
+- 1,000 sites to be reviewed.
+
+04: Equality resource for universities
+- Assistance for lecturers with disabilities.
+
+05: Cynthia says
+- Launch of web access tool.
+
+News in brief: 06: Prize exhibits - museum web awards; 07: Literary
+exchange - online computer books; 08:
+Meeting standards - policy analysis.
+
+Section two: 'The Inbox' - Readers' forum.
+09: Correct reference - terminology debate; 10: Rectangular response -
+cursor advice; 11: Purse-friendly printer - Braille query; 12: Bounce
+back again - correction.
+
+Section three: Interview - Jakob Nielsen.
+- 13: A fat lot of usability: The web's leading usability and access
+guru talks exclusively to E-Access
+Bulletin about the poor record of online public services worldwide.
+
+Section four: Opinion - government policy.
+-14: Out of focus: Disability discrimination and universal access
+policy could be set to fragment as the civil
+service is reshuffled. Kevin Carey  reports.
+
+Section five: Viewpoint - career paths.
+-15: Stepping ahead: Nolan Crabb charts his eventful journey from
+student to successful journalist and
+editor, in which he has made access technology work for his career.
+
+[Contents ends.]
+
+
+++SECTION ONE: NEWS.
+
++01: 'THIN CLIENT' ACCESSIBILITY BREAKTHROUGH.
+
+A breakthrough in screen reader technology could soon allow vision
+impaired people to access 'thin client'
+computer terminals, the low-memory networked machines which until now
+have proved incompatible with
+special access technologies, E-Access Bulletin has learned.
+
+Many large organisations are installing 'thin client' networks, where
+almost all information and software
+applications sits on a central server. The 'thin' machines on users'
+desktops are little more than keyboards
+and screens, which call out information and software as needed,
+enhancing security and cutting costs.
+
+However, the majority of access technology software relies on a fully
+functioning desktop computer and will
+not function on a 'thin client' terminal. This led the RNIB to warn
+last year the phenomenon was in danger of
+setting the cause of accessibility back ten to 15 years (see E-Access
+Bulletin, issue 37, January 2003).
+
+The breakthrough happened at a meeting between assistive technology
+developer GW Micro and
+representatives of the RNIB at the March international access
+technology conference 'CSUN'
+(http://www.csun.edu/cod/conf). At the meeting, GW Micro was able to
+demonstrate a fully functioning
+prototype of its Window-Eyes screen reader on a computer terminal
+running thin client software from Citrix,
+E-Access Bulletin has learned.
+
+"This is a significant development. There was no glimpse of a screen
+reader that was compatible with this
+technology before CSUN," said Ruth Loebl of the RNIB technology
+department. According to Loebl, other
+assistive technology developers such as Freedom Scientific, maker of
+the popular JAWS screen reader, are
+also working on products which are compatible with thin client
+networks. "We're still some way from
+products coming onto the market, but this demonstration is important
+because it shows that the problems can
+be solved," she said.
+
+UK access software specialist Dolphin Oceanic has also confirmed to
+E-Access Bulletin it has developed a
+working prototype of a thin-client compatible screen reader. And Loebl
+says Microsoft is thought to be
+developing accessible thin client server software, "but it's more
+difficult to assess progress because its
+developers are tied into non-disclosure agreements," said Loebl.
+
+
++02: FLAWS DETECTED IN 'DRIVING LICENCE' TEST.
+
+Standard systems for training and examining people for the European
+Computer Driving Licence (ECDL -
+http://www.ecdl.co.uk), an international test of computer literacy,
+have design flaws that could disadvantage
+vision impaired users, according to the RNIB.
+
+The licence (http://www.ecdl.co.uk) is a UK version of a European
+training standard managed by the British
+Computer Society (BCS), consisting of seven online learning modules on
+computer basics such as use of
+word processing and spreadsheets. It is rapidly being adopted by large
+organisations from IBM to the
+National Health Service as a minimum standard of IT competence. Tests
+can be partially automated, making
+it easy to use on a large scale.
+
+The RNIB and other organisations that work with blind people last month
+met with representatives of the
+BCS and companies that deliver local training, to identify potential
+problems with the system.
+
+"So far we've been getting mixed messages, with some blind people
+saying they have completed ECDL, and
+others saying that parts are not accessible," Zoe Neumann of the RNIB
+Technology unit told E-Access
+Bulletin. "It needs to be crystal clear where the sticking points are,
+so that we can do something about it".
+
+Early feedback suggests that parts of the training and examination
+assume that the trainee can use a mouse
+unaided, Neumann said. Concern has also been expressed about some of
+the formats used for training, such
+as PowerPoint. "Some ECDL tests ask the user to change the background
+colour on the screen. Using only a
+keyboard, this can be very difficult in PowerPoint," she said.
+
+NOTE: Vision impaired readers who have taken an ECDL course are invited
+to contact E-Access Bulletin
+with their experiences. Please email inbox@headstar.com .
+
+
++03: DISABILITY COMMISSION TO SURVEY THE WEB.
+
+The Disability Rights Commission (DRC - http://www.drc-gb.org) is to
+conduct a survey of web site
+accessibility across England, Scotland and Wales, analysing the causes
+of difficulties and recommending
+ways to make the web more inclusive.
+
+The investigation will survey the web sites of 1,000 randomly selected
+organisations in both the public and
+private sectors, testing for compliance with industry accessibility
+standards as laid down in the international
+Web Accessibility Initiative (http://www.w3.org/WAI). In addition, a
+panel of 50 disabled people will take
+part in more in-depth testing of a sample of these sites. The
+commission will work in collaboration with a
+team from the Centre for Human Computer Interaction Design at City
+University London (http://www-
+hcid.soi.city.ac.uk), led by Professor Helen Petrie.
+
+The project aims to report by the end of 2003, although it will not
+identify particular organisations as
+examples of good or bad design. "The reason we're conducting this
+investigation is because generally, we
+suspect that standards of accessibility are quite low, but this is not
+about naming and shaming," a DRC
+spokesperson said.
+
+
++04: EQUALITY RESOURCE FOR UNIVERSITIES.
+
+A new online resource for UK colleges and universities to ensure equal
+opportunities for all their staff with
+disabilities has been launched by the Equality Challenge Unit, a body
+sponsored by the UK higher education
+funding and representative bodies to promote equal opportunities.
+
+The site (http://www.ecu.ac.uk) combines policy advice with good
+practice recommendations designed to
+combat discrimination of all kinds and foster diversity in the higher
+education sector. It also draws together
+legal resources such as the parts of the Disability Discrimination Act
+dealing with employment and
+education (http://www.ecu.ac.uk/disability), codes of practice from the
+Disability Rights Commission
+(http://www.drc-gb.org/campaign/law/code.asp), and useful sources of
+technology information such as the
+accessible technology in education agency Techdis
+(http://www.techdis.ac.uk).
+
+ "This is a significant area of employment - around 345,000 people in
+the UK are employed in higher
+education," an ECU spokesperson said.
+
+Separately, disability campaign group Skill (http://www.skill.org.uk)
+has called on the government to revise
+proposals for the new Office for Fair Access, a body that will promote
+greater access to colleges and
+universities for students from disadvantaged backgrounds. "The
+proposals make no mention of disabled
+students," Skill said last week.
+
+
++05: CYNTHIA SAYS.
+
+An new international group which aims to help addressing the internet
+needs of people with special needs
+has launched a new free service to evaluate web page accessibility.
+
+The Internet Society Disability and Special Needs chapter
+(http://www.isocdisab.org) is the first ever non-
+geographical chapter of the society, a free membership organisation
+comprised of 11,000 individual and
+institutional members from 182 countries.
+
+Together with technology company HiSoftware and the International
+Center for Disability Resources on the
+Internet (http://www.icdri.org), the chapter has helped develop Cynthia
+Says (http://www.cynthiasays.com),
+an online web accessibility test similar to the well-known software
+Bobby (http://bobby.watchfire.com).
+
+The chapter is currently inviting people to contribute to forthcoming
+projects which include the creation of a
+member newsletter and the identification of issues it ought to address.
+
+Membership of ISOC and the chapter are free. For ISOC membership see:
+http://www.isoc.org/members
+And to join the disability and special needs chapter email Michael
+Burks on:
+mburks952@att.net
+
+
+++NEWS IN BRIEF.
+
++06: PRIZE EXHIBITS: Nominations are invited by the national Museums
+Computer Group for awards to
+recognise the most accessible museum web sites, to be presented in
+memory of Jodi Mattes, a pioneer in this
+field. The adjudicators say they are prepared to recognise worthy sites
+of all sizes and budgets:
+http://fastlink.headstar.com/mcg1
+The presentation will be made at conference on 20 and 21 May marking
+the end of the Talking Images
+project on the accessibility of museums and galleries:
+http://fastlink.headstar.com/talk1
+
++07: LITERARY EXCHANGE: O'Reilly, the leading computer book publisher,
+has reached an agreement
+to make accessible copies of its titles available to vision impaired
+people in the UK through the US-based
+book-sharing platform 'Bookshare.org'. E-Access Bulletin will inform
+readers when the service goes live:
+http://www.bookshare.org/web/PressReleaseC.html
+
++08: MEETING STANDARDS: The public and private sectors have
+successfully developed reasonable
+accessibility standards, but they have yet to show that they can stick
+to them, according to a new report by
+the universal access charity HumanITy:
+http://fastlink.headstar.com/humanity1
+
+[Section one ends.]
+
+
+++SPECIAL NOTICE: 'ACCESS IT' AND 'COMPUTE IT'
+- MONTHLY TECHNOLOGY MAGAZINES FROM RNIB.
+
+'Access IT' provides computer access technology information of
+particular interest to blind and partially
+sighted people. It features articles both for the novice and
+experienced user. 'Compute IT' is designed for the
+computer enthusiast/amateur and will bring you the latest information
+on hardware and software
+developments.
+
+To subscribe to either of these magazines by email, Braille or disk, at
+a cost of 49 pence an issue, email
+RNIB Customer Services at cservices@rnib.org.uk
+or call 0845 702 3153
+
+[Special notice ends.]
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com .
+
++09: CORRECT REFERENCE: Trevor Frost, Adaptive Technology Coordinator
+at the Royal Society for
+the Blind of South Australia, appears to have captured the mood in our
+last issue when he noted that the
+phrase 'visually impaired' is not as accurate as 'vision impaired' -
+the term more commonly used in Australia
+- since it is a person's vision that is affected, not their appearance.
+
+Annette Peter agrees: "As a 'blind' person, happy to be described by
+that term as people understand what it
+means, I was interested to read Mr Frost's item. I must agree with him
+that 'visually impaired' is not a
+correct term, and is one that I have never been particularly
+comfortable with. 'Vision impaired' is a much
+more correct term and I would like to see it adopted in this country."
+
+Robin Christopherson, web consultancy manager at the charity
+Abilitynet, also concurs: "Trevor's
+observation that the term 'visually impaired' means that the person is
+unattractive to look at was indeed
+greeted by great mirth by myself as predicted. I am a UK resident.
+
+"I'd never thought of it before but now it's obvious that 'vision
+impaired' is a better term. I'd better get
+started on changing the many dozen references that exist within
+AbilityNet's website and our numerous
+factsheets on technology for disabled individuals."
+
+
++10: RECTANGULAR REPONSE: Last month John Loader wrote in on behalf of
+his mother-in-law to
+enquire if anyone knew of software which could change a computer cursor
+into a big black rectangle.
+
+Terry Balon replied: "Further to the enquiry about large cursors I have
+purchased the Valerix MetaMouse
+Cursor set and found it absolutely brilliant for the needs of my
+family. We are able to change the colour of
+the cursor, give it an edge and so on to each of our individual needs
+without too much trouble. You can
+download a free demo version or purchase from various sites including
+http://www.regsoft.com ."
+
+Robin Christopherson adds: "Windows ME and Windows XP have a feature in
+the 'Accessibility' option
+(Start menu/Settings/Control Panel) to do this. Go to the 'Display'
+page of this dialog box and there is a
+slider to adjust the width of the flashing cursor.
+
+"Unfortunately, however, the change is not universal. You get the fat
+cursor in Notepad and all areas of
+Windows where you can type text (such as the 'Find Files and Folders'
+dialog box) but not in WordPad or,
+more importantly, Microsoft Word.
+
+"For a fat cursor in Word the only option I know of is to use a little
+program called "follow.exe" (which
+AbilityNet can send out free of charge) that locks the mouse cursor to
+the flashing cursor. You can still
+move the mouse to free it, but when the cursor moves again it jumps
+back and follows along. When the
+mouse pointer is over the document window it is still a slim line, but
+you can easily redefine it for something
+really high-visibility like a big black arrow.
+
+"You can email AbilityNet on enquiries@abilitynet.org.uk or visit
+http://www.abilitynet.org.uk ."
+[Further responses to inbox@headstar.com].
+
+
++11: PURSE-FRIENDLY PRINTER: Long-time bulletin reader Anthony Bernard
+from Sri Lanka writes in
+to ask all our readers what, in your experience, is the best and
+hardiest Braille printer for personal use, and
+just as importantly, the one that is easiest on the purse?
+[Reponses to inbox@headstar.com].
+
+
++12: BOUNCE BACK AGAIN: Jackie Wright (email
+wright.jackie@btinternet.com), who wrote in last
+month to invite feedback on the accessible CV design and job search
+site 'Bounce Back'
+(http://www.bounceback.org.uk), would like to point out that her firm
+Disability Dynamics is not a
+technology company as we stated but rather a disability consultancy.
+She says: "We advise organisations on
+employment of disabled people and provision of accessible services. We
+also advise schools on accessibility
+law."
+
+[Section two ends].
+
+
+++SECTION THREE: INTERVIEW
+- JAKOB NIELSEN.
+
++13: A FAT LOT OF USABILITY?
+by Dan Jellinek  dan@headstar.com .
+
+One of the world's leading champions of web usability, Jakob Nielsen,
+was in the UK last month to run a
+week-long series of seminars. He took time out to talk to E-Access
+Bulletin about the connections between
+usability and accessibility, and the poor track record of government
+sites in particular in meeting user needs.
+
+Nielsen says the field of usability - how easy it is for a user to find
+information on a site or carry out a
+transaction - overlaps in many areas with that of accessibility - the
+ease with which people with different
+needs or using special access devices can gain access to the
+information on your site.
+
+"Often accessibility is viewed as totally divorced from usability, but
+actually how you present information is
+just as important for accessibility as merely being able to get at it.
+Even if a web site is accessible according
+to the various technical standards, and for example is able to be read
+aloud by a screen reader, if there are
+endless lists of menu options usability will be heavily impaired."
+
+Both usability and accessibility are assessed in the same way, by
+testing against real human needs, he says.
+And both cover not only use by people with disabilities, but also
+people with different levels of education or
+computer skills, he said.
+
+Nielsen (http://www.useit.com/jakob) is principal of the user-centred
+design consultancy Nielsen Norman
+Group (NN/g - http://www.nngroup.com) which he co-founded with Donald
+Norman, former vice president
+of research at Apple Computer. Before that he was a senior engineer
+with Sun Microsystems, helping the
+company establish its first web services.
+
+NN/g has carried out extensive testing of government sites in the US
+and Australia, and Nielsen says that his
+own informal reviews of public service sites in other countries
+including the UK has shown that the lessons
+to be learned are universal.
+
+"Government sites are very patchy. You come across a few good ones from
+time to time, but they are not
+nearly as good as they should be," he says. "They are usually among the
+lowest scorers in our usability
+tests."
+
+The most common failing for public sector sites is that they are
+focused too closely on their own internal
+departmental structures and initiatives, or their current work
+programmes, and not on what information the
+user is actually likely to be seeking, Nielsen says.
+
+"This shows a bureaucratic way of thinking. You see it a little bit on
+company sites, but it is predominant on
+government sites."
+
+He said government agencies may find it hard to see the need to spend
+money on boosting usability, as they
+do not make the same 'return on investment' judgments as companies.
+"But the fact is that better usability
+leads to increased satisfaction for the citizen, which to me is the
+reason we have government in the first
+place."
+
+In fact, government agencies have even more need to consider usability
+than companies, he said. "For
+commercial sites, you can make a trade-off and decide to reach a few
+customers where you can make the
+most money. But for government you can't say that, you can't decide to
+only serve a part of the population."
+
+Nielsen's company is one of the pioneers of controlled user testing of
+web sites, which he argues is the only
+way to properly gauge a site's usability. A group of ordinary users are
+observed attempting to perform tasks
+on the web, such as find a tax form or a bus route. "It's so common
+that people can't find what they are
+looking for - it's tragic. And the government agencies that call us in
+are the ones who are bothered about
+usability. The average agency won't bother looking at it at all."
+
+Nielsen says one example of a US government site that is highly usable
+is 'Ready.gov'
+(http://www.ready.gov), the Department of Homeland Security's site with
+public information about how to
+prepare for and respond to various forms of terrorist attack.
+
+"The site explains what to do in clear and simple terms. But it is a
+new project, so it was easier to build in
+usability."
+
+In the US, the requirement for accessibility standards to be built into
+all government technology contracts set
+out in section 508 of the Rehabilitation Act
+(http://www.section508.gov) had increased awareness of the
+issues, he said. But progress is slow, since it mainly affected new
+projects. "Section 508 boosted interest in
+accessibility, but in practice not many sites have been affected. The
+major departments have spent a very
+long time implementing it."
+
+As for the precise costs of making a web site more usable and
+accessible, Nielsen said that it was possible to
+spend a lot of money, and it was right for large organisations with
+public-facing sites such as the NHS to do
+so, but it was also possible to make at least some progress for a small
+outlay.
+
+"There is no such thing as the perfect user interface, a site that is
+equally usable by everybody. And it would
+be very expensive to come close to such a site. But people should not
+think that there is a binary choice
+between a horrible web site and a perfect one. No matter what the
+budget, you can always take a site and
+make improvements. Within three days you can do some testing and draw
+up a list of the top ten things you
+need to do to improve usability. You should attack the biggest
+stumbling blocks first."
+
+[Section three ends.]
+
+
+++SECTION FOUR: OPINION
+- GOVERNMENT POLICY.
+
++14: OUT OF FOCUS
+by Kevin Carey  humanity@atlas.co.uk .
+
+At the beginning of the year I drafted a paper which called for policy
+on accessibility to be concentrated in
+one place within the UK and in Europe.
+
+The paper argued that in the EU, accessibility should be the
+responsibility of the Information Society
+Directorate, and in the UK it should be co-ordinated by the Office of
+the e-Envoy (OeE - http://www.e-
+envoy.gov.uk), the cross-government technology policy and
+implementation body based in the Cabinet
+Office.
+
+I still have a chance with the first objective, but I am having to
+rewrite the paper's UK section because the
+OeE has just lost about a quarter of its budget and, I would guess,
+three-quarters of its importance in co-
+ordinating functions.
+
+This leaves us in the awkward position of fighting to save something we
+don't love very much, but the fact is
+that the OeE is the best mechanism we have. In the UK, there is simply
+nowhere else to go. We might try the
+Disability Rights Commission which, better late than never, has just
+become interested in web accessibility
+(see news, this issue); or we might place all our hopes in the new
+broadcasting and telecommunications
+regulator 'Ofcom' (http://www.ofcom.org.uk). But when it comes to
+getting the government to obey its own
+accessibility regulations, the best mechanism is a body such as the
+e-Envoy's office which is acknowledged
+as interdepartmental.
+
+What we don't want is a situation where the four separate government
+departments with the biggest interest
+in technology policy - the Department for Education and Science, the
+Department for Work and Pensions,
+the Department for Culture, Media and Sport and the Department of Trade
+and Industry - are fighting so
+hard for the honour of co-ordinating disability access so that they
+don't have time to actually implement
+anything.
+
+Meanwhile over the past five years the accessibility lobby has not been
+doing at all well on broadcasting.
+The EU (as reported in the last issue of E-Access Bulletin) is in the
+last lap of legislation on digital TV and
+broad band access and the draft bill doesn't even mention disability
+access. Nor does the UK's
+Communications Bill which is almost through Parliament.
+
+To some extent, from the mighty pinnacle of the UK's e-Envoy himself
+Andrew Pinder down to the
+humblest charity policy officer, we have all made the same mistake. We
+have been travelling into the future
+with our backs to the engine, concentrating in the information age on
+the computer and not on the
+information industry which is driven by broadcasting and will be
+supplied through the telephone. Thus,
+while we have been worrying purely about web site accessibility,
+broadcasting, telecommunications and
+their user interfaces have been steadily deregulated as the result of
+globalisation.
+
+The reality at the political level is that there isn't much the OeE can
+do in a dog fight with the DTI and, it is
+becoming increasingly clear, there isn't much the OeE can do across
+government because there are two many
+departmental interests getting in the way. This is not surprising. When
+we call for joined up government, we
+forget for example that the NHS, as the biggest corporate entity in the
+UK, has enough problems getting
+itself a common technology policy, let alone one which also fits the
+DfES, itself the size of the HSBC
+banking group.
+
+So it looks like the OeE will soon sail into the technological sunset:
+an entity that came too late, did too little
+and left too soon. Meanwhile, we need to cast about for another
+centralising entity. It may have to be the
+Disability Rights Commission, but the problem is that even this body
+will soon be rolled up with the Equal
+Opportunities Commission and the Commission for Racial Equality into a
+generic equality commission.
+
+It may be that the major disability non-governmental organisations
+(NGOs) will have to get together and
+start their own small but supercharged agency. The problem with that
+course is that it will have to have
+autonomy and NGOs that spend most of their time squabbling are not very
+good at empowering what they
+perceive may turn into a rival. But we haven't much time for paperwork
+on this issue: it just needs to be
+done.
+
+NOTE: Kevin Carey is Director of HumanITy (http://www.humanity.org.uk),
+a charity focusing on
+technology and social inclusion.
+
+[Section four ends.]
+
+
+++SECTION FIVE: VIEWPOINT
+- CAREER PATHS.
+
++15: STEPPING AHEAD
+by Nolan Crabb  ncra@teleport.com .
+
+There is an ancient Chinese proverb which says: "A journey of a
+thousand miles must begin with a single
+step."
+
+For me, the journey to a writing career began in high school with a
+single raised hand. During journalism
+class, I volunteered to write the weekly school activities column for
+the Ogden Standard-Examiner, the daily
+paper in Ogden, Utah where I grew up. That column ultimately led to a
+summer internship with the paper
+during college and then to my first job as a reporter.
+
+Since then, I've held a variety of writing jobs in various cities
+around the country. For a brief time, I
+abandoned writing altogether to teach technology. So how does one
+manage a career that includes so many
+twists and turns?
+
+The first important point to make is that, as a blind or vision
+impaired person taking your own thousand-mile
+journey, don't be afraid to take risks and follow your hunches. I've
+had seven jobs and lived in every time
+zone in the US since 1982. Many would say that such a lifestyle is
+unstable or problematic, but I saw those
+job changes as new opportunities that would allow me to better my life,
+and that of my family.
+
+Every move had its attendant risks. In 1986, I moved from Chicago to
+the Bay Area of northern California.
+I'd learned of a job with a small company that produced newsletters for
+various businesses. I used what
+meagre savings I had to pay for my plane ticket to California for the
+interview. Foolish? Perhaps. But at the
+end of the day, I had a job offer, and suddenly my apparent foolishness
+paid off.
+
+I don't recommend that everyone live their lives as nomadically as I
+have. But after you've researched the
+job you want, you may have to risk moving to a bigger city to secure
+that job. Comfort zones are wonderful
+places, but they can be stifling, too. The alternative to taking a risk
+could be growing old and bitter,
+obsessing about jobs that might have been.
+
+Its important to plan for the possibilities in attending an interview.
+It's not enough to just badly want to
+work. At the last minute, as I was leaving my home for that job
+interview in California, I grabbed my
+Optacon - a device that allows blind people to read printed material -
+flung it into my bag, and headed for
+the airport.
+
+During the interview, the company's chief executive said he expected me
+to take a writing test. He gave me
+two pages of notes on a real estate deal. "Take these and turn them
+into a hot news story," he said. "I've
+another interview to do; I don't have time to sit and read you these
+notes. I guess I can find a staff person to
+do this, but . . ." I interrupted and assured him that as long as those
+notes weren't hand-written, I could
+handle them fine. I was glad I had my Optacon with me.
+
+I'm not suggesting you can plan for every possibility. But you can take
+an active part in your interview by
+thinking about answers in advance to questions you're sure you'll be
+asked. Better yet, think about how to
+openly present, from your perspective, some of the concerns that the
+interviewer may hesitate bringing up.
+
+Immerse yourself in your chosen career. I don't mean spend all hours at
+the office, abandoning family and
+all other vestiges of life. I mean immerse yourself in the industry's
+publications; learn its buzzwords; learn
+something about the players in that industry; by immersing yourself in
+the literature of your field, you're
+better prepared to change the way you do things so you won't become a
+burdensome dinosaur.
+
+Reading trade magazines in your field is a great way to learn about job
+openings. If you're just browsing the
+newspaper or even internet job boards, you're probably missing some
+great opportunities that are announced
+in trade publications. The advent of the internet makes such magazines
+even easier to read.
+
+Technology is good, but attitude and technology are better. There's no
+question that getting and retaining a
+job depends a lot on the technology you can use and how easy it is to
+get at that technology.
+
+My first experience with computers at a newspaper came in 1977 while in
+college. Those computers didn't
+talk, and there was no Braille display. I had to memorise long
+keystroke sequences to file a story with the
+editorial desk. But as my jobs changed, so did my ability to use
+technology.
+
+For years, I feared making the jump from DOS to Windows. At the time I
+was contemplating making that
+jump I was working for the American Council of the Blind, where LeRoy
+Saunders was president. I
+expressed my concerns to him and, in that straightforward way that was
+his trademark, he said with a smile:
+"It's not the technology that's the problem, it's your attitude."  His
+point was well taken. By January 1997, I
+was using Windows with a screen reader.
+
+So if you're looking for the right career or to change jobs, you can
+start by taking small steps. For me, it all
+began with something as simple as a raised hand - that single step on
+the way to a fruitful and enjoyable
+career.
+
+NOTE: Nolan Crabb is assistant editor of Dialogue
+(http://www.blindskills.com), a US-based journal for
+vision impaired people for all ages. This article is reprinted with
+permission from Dialogue, winter 2002.
+Dialogue is available in braille, large print, four-track cassette, and
+computer diskette. For a free sample,
+email blindskl@teleport.com or if you are in the US call (800) 860-4224
+.
+
+[Section five ends.]
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.e-accessibility.com is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Phil Cain  phil@headstar.com
+News editor - Derek Parkinson  derek@headstar.com
+Reporter - Mel Poluck  mel@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk .
+
+ISSN 1476-6337
+
+[Issue ends.]
+

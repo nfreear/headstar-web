@@ -1,0 +1,58 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:03 2004 __
+
+Input file: ../eab/issues/2003/sep2003.txt
+
+Warning: file already exists: ../eab/issues/2003/sep2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: sep | index: 9 | year: 2003
+URLs, prev: ../2003/aug2003.html | next: ../2003/oct2003.html
+Found ++, heading 2: ISSUE 45 CONTENTS.
+>> FOUND 2:  | 01:  | Web standards mismatched?
+>> FOUND 2:  | 02:  |  New software boost to accessible scores
+>> FOUND 2:  | 03:  | Batcane to be launched by January
+>> FOUND 2:  | 04:  | Techshare conference: learning, work and life
+>> FOUND 1: News in brief:  | 05: Web awards - nominate now; 06: Outlook handbook - programme tutorial;
+>> FOUND 2:  | 08:  | Smart cards - call for information; 09: Digital degree - online course request; 10: Teacher 
+>> FOUND 2: training - open to suggestions;  | 11:  | Chinese whispers - language learning resource; 12: 
+OK, News in brief
+Found: Chinese whispers - language learning resource | ; |  12: 
+>> FOUND 2: Musical guide - product recommendation;  | 13:  | Making waves - online radio.
+Found: Making waves - online radio | . | 
+>> FOUND 2:  | 14:  | Accessibility - Raising the stakes: The government has raised the standard by which 
+>> FOUND 2: + | 15:  | 
+Found: + | 15:  | 
+Warning line 49: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: SPECIAL NOTICE: ACCESSIBILITY DISCUSSION FORUM.
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | COUNCILS FACE WEB STANDARDS MISMATCH.
+Warning: not found a 'contents' match: Councils Face Web Standards Mismatch.
+> ITEM 2:  02:  | NEW SOFTWARE FOR MUSICAL SCORES.
+Warning: not found a 'contents' match: New Software For Musical Scores.
+> ITEM 2:  03:  | BATCANE DUE BY JANUARY.
+Warning: not found a 'contents' match: Batcane Due By January.
+> ITEM 1:  04:  | : |  LEARNING, WORK AND LIFE 
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  05:  | : |  The first radio developed by the British Wireless for the Blind Fund 
+> ITEM 1:  06:  | : |  The National Library for the Blind are calling for nominations for 
+> ITEM 1:  07:  | : |  The accessibility author John Wilson's latest tutorial, 
+> ITEM 1:  08:  | : |  The Spanish national blindness organisation ONCE is 
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  09:  | : |  Geoff Doggett, project officer for the Suffolk 'DISC' concessionary
+> ITEM 1:  10:  | : |  Ray Cassar writes in to ask if any of our readers knows of a 
+> ITEM 1:  11:  | : |  Jamie Westall has another educational query. "I am interested
+> ITEM 1:  12:  | : |  Long-time subscriber Fernando Botelho, Technical 
+> ITEM 1:  13:  | : |  Mike Brace, Development Director at the vision impairment 
+> ITEM 1:  14:  | : |  Chris McMillan, a long-term reader and inbox contributor, writes in 
+Found ++, heading 2: SECTION THREE: ANALYSIS
+> ITEM 2:  15:  | RAISING THE STAKES.
+Warning: not title-casing possible HTML:
+  15: RAISING THE STAKES.by David Kreps  <a href="mailto:david@fourquarters.biz">david@fourquarters.biz</a> .
+Warning: not found a 'contents' match: RAISING THE STAKES.by David Kreps  <a href="mailto:david@fourquarters.biz">david@fourquarters.biz</a> .
+Found ++, heading 2:  SECTION FOUR: FOCUS
+> ITEM 2:  12:  | TOPICS OF DISCUSSION.
+Warning: not title-casing possible HTML:
+  12: TOPICS OF DISCUSSION.by Caroline White  <a href="mailto:caroline@white-site.com">caroline@white-site.com</a> .
+Warning: not found a 'contents' match: TOPICS OF DISCUSSION.by Caroline White  <a href="mailto:caroline@white-site.com">caroline@white-site.com</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

@@ -1,0 +1,60 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Nov  2 12:58:00 2005 __
+
+Input file: ../eab/issues/2005/sep2005.txt
+
+Warning: file already exists: ../eab/issues/2005/sep2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: sep | index: 9 | year: 2005
+URLs, prev: ../2005/aug2005.html | next: ../2005/oct2005.html
+Found ++, heading 2: Sponsored Notice: The Xerox Copier Assistant
+Found ++, heading 2: Issue 69 Contents.
+>> FOUND 2:  | 01:  | Football Clubs to Test Audio Description
+>> FOUND 2:  | 02:  | Minister Announces Support for Digital TV Switchover
+>> FOUND 2:  | 03:  | Accesskeys Needs Standards, Report Finds
+>> FOUND 2:  | 04:  | Online Educational Games for Children Launch
+>> FOUND 2:  | 05:  | Location, Location - GPS forum launch; 06: Legislation Call -
+>> FOUND 2: European a-accessibility communication;  | 07:  | Job Offer - job centre
+OK, News in brief
+Found: European a-accessibility communication;  | 07:  | Job Offer - job centre
+>> FOUND 2:  | 08:  | Half-Baked - kitchen conundrum; 09: Portal Access - accessibility
+>> FOUND 2: question;  | 10:  | Tune In - mp3 player advice sought; 11: Contributor
+Found: Tune In - mp3 player advice sought | ; |  11: Contributor
+>> FOUND 2: Query - web additions;  | 12:  | Online Schedule - radio and TV listings;
+Found: Online Schedule - radio and TV listings | ; | 
+>> FOUND 2:  | 13:  | Library News - Revealweb correction.
+>> FOUND 2:  | 14:  | Access to a World of Free Voice Calls: Using the internet to make
+>> FOUND 2:  | 15:  | Getting Them Talking: With many mp3 players of varying
+Warning line 78: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: Special Notice: e-Democracy '05
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Football Clubs to Test Audio Description
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Minister Announces Support for Digital TV Switchover
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Accesskeys Needs Standards, Report Finds
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Online Educational Games for Children Launch
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A discussion list on mainstream Global
+> ITEM 1:  06:  | : |  The European Disability Forum has called on
+> ITEM 1:  07:  | : |  The Department of Work and Pensions has launched a
+Found ++, heading 2: Special Notice: Techshare 2005
+Found ++, heading 2: Section Two: 'The Inbox'
+> ITEM 1:  08:  | : |  "My wife
+> ITEM 1:  09:  | : |  Jeanne Hart-Convery, a web developer at the
+> ITEM 1:  10:  | : |  Colin Phelan from Chiswick in London writes in about
+> ITEM 1:  11:  | : |  Ron Milliman from Bowling Green,
+> ITEM 1:  12:  | : |  Ian Watt, web site and intranet manager at the
+> ITEM 1:  13:  | : |  In the Inbox of the July issue, in a contribution
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Technology
+> ITEM 2:  14:  | Access to a World of Free Voice Calls
+Warning: not found a 'contents' match: Access To A World Of Free Voice Callsby Nick Apostolidis.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Four - Technology Focus
+> ITEM 2:  15:  | Getting Them Talking
+Warning: not found a 'contents' match: Getting Them Talkingby Mel Poluck
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.

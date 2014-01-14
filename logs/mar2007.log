@@ -1,0 +1,60 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:25 2008 __
+
+Input file: ../eab/issues/2007/mar2007.txt
+
+Warning: file already exists: ../eab/issues/2007/mar2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: mar | index: 3 | year: 2007
+URLs, prev: ../2007/feb2007.html | next: ../2007/apr2007.html
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 46.
+Found ++, heading 2: Issue 87 Contents.
+>> FOUND 2:  | 01:  | Assistive Products Gear Up Fast For Windows Vista
+>> FOUND 2:  | 02:  | Users Flock to Free Document Conversion Service
+>> FOUND 2:  | 03:  | Reality Gap Widens For Councils' Web Accessibility Claims.
+>> FOUND 2:  | 04:  | 'World's First' Free, Accessible IT Training Course Goes Live.
+>> FOUND 2: News in Brief:  | 05:  | Signature Campaign - online disability rights
+OK, News in brief
+Found: News in Brief:  | 05:  | Signature Campaign - online disability rights
+>> FOUND 2: petition;  | 06:  | Thrilling Mission - free shooter game; 07: All Aboard -
+Found: Thrilling Mission - free shooter game | ; |  07: All Aboard -
+>> FOUND 2:  | 08:  | Code Captcha - accessible anti-spam tool; 09: Open Advice -
+>> FOUND 2: response to open source software question;  | 10:  | HAL Gremlins - screen
+Found: response to open source software question;  | 10:  | HAL Gremlins - screen
+>> FOUND 2:  | 11:  | A Career Ladder With Broken Rungs, Part Two: Sam Latif was
+>> FOUND 2:  | 12:  | Image Crisis: Kevin Carey writes on the importance of maintaining
+Warning line 89: expected [Contents ends].
+$toc_count=13
+> ITEM 2:  01:  | Assistive Products Gear Up Fast For Windows Vista.
+Warning: not found a 'contents' match: Assistive Products Gear Up Fast For Windows Vista.
+> ITEM 2:  02:  | Users Flock to Free Document Conversion Service.
+Warning: not found a 'contents' match: Users Flock To Free Document Conversion Service.
+> ITEM 2:  03:  | Reality Gap Widens For Councils' Web Accessibility Claims.
+Found 'contents' match: 3.
+> ITEM 2:  04:  | 'World's First' Free, Accessible IT Training Course Goes Live.
+Found 'contents' match: 4.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 268.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  An online petition calling for tougher
+> ITEM 1:  06:  | : |  A free science fiction "shooter" audiogame for
+> ITEM 1:  07:  | : |  Just 28 per cent of London bus passengers found a
+Found ++, heading 2: Sponsored Notice: Thunder screen reader
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 328.
+> ITEM 1:  08:  | : |  Tedd Sperling from Australia has created an audio
+> ITEM 1:  09:  | : |  "Will files
+> ITEM 1:  10:  | : |  "I have been
+Found ++, heading 2: Sponsored Notice: Disabled Living Foundation
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  11:  | A Career Ladder With Broken Rungs, Part Two
+Warning: not found a 'contents' match: A Career Ladder With Broken Rungs, Part TwoBy Derek Parkinson.
+Found ++, heading 2: Sponsored Notice: Describe Online - Bringing Customers to You!
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 527.
+Found ++, heading 2: Section Four: Focus
+> ITEM 2:  12:  | Image Crisis
+Warning: not found a 'contents' match: Image CrisisBy Kevin Carey.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 645.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 651.

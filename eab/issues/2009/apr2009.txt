@@ -1,0 +1,522 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 112, April 2009.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Sponsored by:
+Ford Motor Company
+( http://www.ford.co.uk ).
+
+Please forward this free bulletin to others (subscription details at the
+end). We conform to the accessible Text Email Newsletter (TEN)
+Standard:
+http://www.headstar.com/ten/ .
+
+
+++Special Notice: E-Access '09: Technology For All
+- Access To All Technologies By People With Disabilities
+- Fifth Annual Conference And Exhibition
+- Event Runs Thursday - Sign Up While Places Remain!
+http://www.headstar-events.com/eaccess09/ .
+
+In an ageing population, and in tough economic times, ensuring all
+your customers, service users and staff are included in everything you
+do is more vital than ever, from your externally-facing websites to
+internal IT systems.
+
+E-Access Bulletin's fifth annual conference and exhibition on access to
+technology by people with disabilities is taking place on 23rd April
+2009 at Olympia Conference Centre in London. Our keynote speaker is
+Bill Thompson, technology critic and broadcaster. Other speakers
+include Graeme Whippy, Senior Manager, Lloyds TSB IT
+Accessibility Group; and Shadi Abou-Zahra, of the W3C Web
+Accessibility Initiative, on the new international web access guidelines
+WCAG 2.0.
+
+Places cost just £195 +VAT for public sector delegates; £295 +VAT
+for private sector; and £165 + VAT for small charities and non-profits
+(turnover less than £150k a year). To find out more and sign up today,
+visit:
+http://www.headstar-events.com/eaccess09/
+
+[Special notice ends].
+
+
+++Issue 112 Contents.
+
+01: Disability Redefined As E-Learning 'Mismatch'
+- New approach from international standards body.
+
+02: Concerns Raised Over Australian Mobile News Service
+- Analyst says site fails to meet access guidelines.
+
+03: Finnish Trial For Touch-Screen Braille On Mobiles
+- Research finds pulses can be read with high accuracy.
+
+News in Brief: 04: Outstanding contribution - Lloyds TSB accessibility
+manager Graeme Whippy wins award; 05: London Calling - Olympic
+accessibility survey; 06: BlackBerry Speech - first screenreader for
+smartphones; 07: Our Survey - Bloor research linked to Headstar
+event.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Discrimination Complaint - E-Book speech function removal; 09:
+Permission Pending - online video vaults; 10: Second Guess - British
+Standard committee question.
+
+Section Three: Special Report - Web Accessibility Statements.
+11: The Best Of Intentions, Clearly Stated: Local authority websites
+are not always following best practice on the development and display
+of accessibility statements on their websites, an important part of
+ensuring sites are accessible to all, new research finds. However, they
+have a better track record in this area than private sector sites.
+
+[Contents ends].
+
+
+++Section One: News.
+
+
++01: Disability Redefined As E-Learning 'Mismatch'.
+
+An attempt to redefine or reframe the term 'disability', in the context
+of online learning as a mismatch between a learner's needs and the
+education process delivered, is enshrined in a new international e-
+learning standard.
+
+ISO/IEC 24751:2008, 'Information technology - individualised
+adaptability and accessibility in e-learning, education and training' (
+http://fastlink.headstar.com/iso3 )
+has been published by the International Organization for
+Standardisation (ISO) with the International Electrotechnical
+Commission (IEC).
+
+The standard says it views disability as "a consequence of a mismatch
+between the learner's needs (or preferences) and the education or
+learning experience delivered.
+
+"For example, an individual who is blind is not disabled when the
+lesson is delivered in audio. However, an individual who does not have
+the necessary background knowledge to understand the lesson, or who
+is listening to the lesson in a noisy environment, is disabled.
+
+"Thus, the needs and preferences of a user may arise from the user's
+context or environment, the technical requirements of the user's device,
+the tools available (e.g. assistive technologies such as Braille devices,
+voice recognition systems, alternative keyboards, etc.), the user's
+background, or a disability in the traditional sense.
+
+"Given this reframing of the meaning of "disability", a learning
+environment is deemed as "accessible" when learner needs can be
+addressed or matched."
+
+The new standard is published in three parts. Part 1 offers a framework
+and reference model to describe and specify learner needs and
+preferences and the corresponding description of the digital learning
+resources. Part 2 sets out "access for all" criteria on personal needs and
+preferences, including how they can be ranked by priority. Finally, Part
+3 provides a 'digital resource description', a common language for
+describing aspects of a computer system to facilitate their being
+matched to learners' needs and preferences.
+
+The standard or individual parts are available at a charge from ISO
+national member institutes such as the British Standards Institution, or
+from the ISO Central Secretariat.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=273
+
+
++02: Concerns Raised Over Australian Mobile News Service.
+
+The Australian Broadcasting Corporation (ABC) has failed to
+adequately address accessibility problems with its new mobile web
+news service, one of the country's leading accessibility analysts has
+told E-Access Bulletin.
+
+Tom Worthington, a senior lecturer in the Department of Computer
+Science at the Australian National University, examined 'ABC Mobile'
+(
+http://www.abc.net.au/innovation/mobile/ )
+for accessibility on its launch. In a report posted to his blog, he said:
+"The home page does not appear to have been designed in accordance
+with guidelines for web accessibility for the disabled, and may be
+unlawful. The site also fails several mobile phone and other web
+guidelines." One of the key faults had been with a lack of proper
+alternative text tags for information conveyed as images, he said.
+
+Following Worthington's initial comments, the ABC took action to
+address accessibility concerns. In a public response to Worthington's
+comments, the corporation's Chris Winter said his organisation was
+working to comply with WAI guidelines, and had updated the home
+page with alt tags integrated so text-to-speech software can now
+recognise most images for visually impaired people.
+
+Worthington's original comments and the ABC response can be read
+on his blog at:
+http://fastlink.headstar.com/abc3 .
+
+However, Worthington has now told E-Access Bulletin the changes do
+not go far enough.
+"If anything, the web site appears to be less compliant than it was
+when first released," he said. "Senior management need to make sure
+they get advice from competent staff. The ABC has competent web
+designers, as shown by their main web site. But these staff do not
+appear to have been consulted on the mobile web site."
+
+Much of the academic's concern centres around the potential of mobile
+news services to act as early warning systems in major emergencies,
+such as the recent Australian bushfires. But in a recent talk on the
+subject Worthington warned that if services were not accessible they
+could not act as effective emergency warnings:
+http://fastlink.headstar.com/tomw1 .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=275
+
+
++03: Finnish Trial For Touch-Screen Braille On Mobiles.
+
+A method for presenting Braille characters as a sequence of strong and
+weak pulses on the touch-screen of a mobile device has been
+developed by a research team at the University of Tampere in Finland.
+
+The most successful method tested by the team involved sending
+sequences of pulses about a third of a second apart to a single point of
+the screen of a Nokia 770 Internet Tablet. Almost all participants could
+accurately recognise individual characters sent in this way, though
+faster speeds reduced the recognition rate.
+
+Further studies are needed to evaluate how well people can recognise a
+series of multiple characters forming words, the team says. The full
+research paper is available from the international technology standards
+and research organisation IEEE at a cost of 29 US Dollars:
+http://fastlink.headstar.com/ieee1 .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=279
+
+
+++News in Brief:
+
++04: Outstanding Contribution: Graeme Whippy, Senior IT
+Accessibility Manager at the high street bank Lloyds TSB and
+prominent accessibility standards campaigner, has won the
+'Outstanding contribution to the industry' prize at this year's prestigious
+Financial Sector Technology Awards:
+http://www.fstech.co.uk/awards/winners09.htm
+Whippy is among the plenary speaker's at this year's E-Access '09,
+hosted on 23 April by E-Access Bulletin:
+http://www.headstar-events.com/eaccess09
+
++05: London Calling: A survey to gather information to help make
+London more accessible ahead of the 2012 Olympic and Paralympic
+Games is being conducted by the office of the Mayor of London. The
+research aims to highlight areas in need of immediate improvement
+including access to restaurants, hotels and tourist attractions by people
+with mobility issues including disabled people, older people and
+parents with small children. Take part until 31 May by telephoning
+01344 360 101 or online at the web address below:
+http://fastlink.headstar.com/london8 .
+
++06: BlackBerry Speech: The first text-to-speech screenreader for
+BlackBerry smartphones has been released by access technology
+specialist HumanWare. 'Orator' is based around software developed by
+technology partner Code Factory and supports multiple languages:
+http://fastlink.headstar.com/blackberry1 .
+
++07: Our Survey: Anyone involved in using or selecting accessibility
+tools for their organisation is invited to participate in a survey to find
+out how seriously organisations take accessibility issues. The study is
+being conducted by Bloor Research, who are partners at Headstar's
+annual conference on the topic, E-Access '09, on 23 April. Take part
+now at:
+http://fastlink.headstar.com/bloor1
+And the E-Access '09 website is at:
+http://www.headstar-events.com/eaccess09/ .
+
+[Section One ends].
+
+
+++Sponsored Notice: BrowseAloud - E-Access '09 Preview
+
+BrowseAloud can improve the Accessibility of your Website - Visit E-
+Access'09 Stand 23 to learn more.
+
+BrowseAloud is the world-leading text-to-speech solution from
+Texthelp Systems Ltd which is designed to improve website
+accessibility for those with literacy difficulties, learning difficulties
+such as dyslexia, mild visual impairments or where English is a second
+language. With a choice of 17 high quality voices covering nine
+international languages and a number of unique features, BrowseAloud
+is quickly being adopted by organisations within public and private
+sectors worldwide.
+
+For more information contact Donna on 028 9442 8105 or email
+d.thomson@browsealoud.com. Alternatively, visit
+www.browsealoud.com.
+
+[Sponsored notice ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure that
+everyone finds the web sites we design easy to use. As well as being
+accessible, Fortune Cookie sites are beautiful and deliver stunning
+return-on-investment. They're award-winning too. In 2007, our work
+was nominated for major web design awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some of the
+big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more accessible.
+If you'd like to know what accessibility can do for your business, talk
+to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++08: Discrimination Complaint: In a comment left on our website on
+last issue's article 'Row Brewing Over E-Book Speech Function
+Removal' (
+http://www.headstar.com/eablive/?p=244 ),
+reader Dave Garside raises some questions about the apparent inequity
+behind a refusal to allow text-to-speech automation for electronic
+books.
+
+"When a paper book is purchased a royalty is paid and it is not an issue
+whether the book is read by sight, a second person out loud or by
+mechanical means," he says. "With an e-book the royalty has also been
+paid.
+
+"Are the objections because those who prefer an audio copy are being
+ripped off by paying a higher royalty fee? Or is it not a royalty but a
+profit issue?
+
+"Either way, it forces the blind to pay extra for a service that could be
+supplied at the same price as to a sighted customer, and that is a
+discrimination issue."
+
+Further responses please via the web link above or to
+inbox@headstar.com .
+
+
++09: Permission Pending: Mary Watkins, Director of Communications
+and Outreach of the Media Access Group at the Boston-based public
+service broadcaster WGBH (
+http://access.wgbh.org ),
+writes in following a request in our last issue for information about
+online databases of movies in audio formats (see 'Movie Vaults',
+Inbox, March 2009).
+
+Mary points out that the 'DVS' format for films in audio form
+combining soundtracks with audio description as MP3 files is the
+property of WGBH and is not currently licensed for free circulation.
+
+"The movies and TV shows the Media Access Group at WGBH
+describe are protected by both the movie/TV studios' copyrights as
+well as our own for the description, and no permission has been
+granted for internet or any other form of distribution," she says.
+
+"WGBH is working to migrate this described content to additional
+outlets, including online distribution."
+
+[Further comments please to inbox@headstar.com].
+
+
++10: Second Guess: Gustaw Kon, a reader living in Germany, writes in
+to question the reasons behind Julie Howell's recent decision to step
+down as chair of a committee developing a British Standard on web
+accessibility. He writes: "Julie Howell has resigned as chair of a
+British Standards Institution committee on web accessibility. She is
+rather knowledgeable on the matter, and we were not told why she left.
+
+"If I am wrong in thinking that it was because of the convoluted failure
+to progress, I apologise to Julie Howell for second-guessing her."
+
+[Further comments please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers
+and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL,
+Easy Read, e-docs for websites, large print, Makaton, Moon and sub-
+titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public
+service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Special Report
+Web Accessibility Statements.
+
++11: The Best Of Intentions, Clearly Stated.
+
+Just 10 per cent of accessibility statements on local government
+websites are 'excellent', with a further 37 per cent deemed
+'satisfactory', according to new research from the Society of IT
+Management (Socitm
+http://www.socitm.gov.uk ).
+
+The research is published this week as a special supplement to Better
+Connected 2009, the society's annual snapshot review of all UK
+council websites.
+
+The accessibility statement is seen as central to having a website that is
+accessible to all users, including people with disabilities, the report
+says. However, despite the low level of excellent practice found, local
+authority sites fare well when compared with the private sector, it says.
+No private sector statements were found to be excellent, and just 16 per
+cent were satisfactory.
+
+A much higher percentage of local authority websites (79 per cent)
+have a link on their home page to an accessibility statement than
+private sector websites (44 per cent). On a number of other points
+about facilities on the home page (such as changing text size), local
+authorities are significantly better than the private sector, Socitm says.
+
+Taken together, the results of the survey show that local government
+has a much stronger awareness of accessibility policy and
+implementation than the private sector, it says.
+
+Central Office of Information guidance states that website accessibility
+statements should contain four features, the report says.
+
+The first feature is a clear statement that demonstrates the
+organisation's commitment to web accessibility. The percentage of
+sites that show this commitment from those that have accessibility
+statements is very high, the new report finds, and more or less the same
+across the two sectors.
+
+The second feature is information about any areas of the website that
+do not yet conform with the overall accessibility targets of the website.
+Here, the percentage is low in both cases, at no more than 10 per cent.
+
+The third feature concerns contact details for people wishing to report
+problems with the website. On this feature there is some differentiation
+between the two sectors with local government (60%) much more
+likely than the private sector (43%) to provide contact information.
+
+Finally, Socitm tested for a link to an accessibility policy. Just four
+councils and no private sector website tested featured such a link.
+
+The researchers then looked at other types of accessibility practice,
+starting with ways of making the site more flexible to use by people
+with disabilities.
+
+Local authority websites are much more flexible (71 per cent) than
+private sector websites (25 per cent) in offering an option to change
+text size on web pages. Many organisations provide information for
+visitors on how to change text size in their browser. However, many
+also made it easier by offering links from the home page which
+increase text size. Some provided both options.
+
+Similarly, local authority websites are more flexible (41 per cent) than
+private sector websites (11 per cent) in offering an option to change
+colour contrast, but in both cases this option is less common than
+changing text size. A 'Yes' answer counted if there was information on
+how to change colours, or if there was a link to an external site such as
+'MyWebMyWay' in context.
+
+Overall, the Socitm research recommends that an accessibility
+statement should be central to an organisation's commitment to an
+accessible website. It is no surprise that having an accessibility
+statement increases the likelihood of having an accessible website (by
+23 per cent according to this research), but it is no guarantee of having
+one, as the intention has to be matched with the practice, the report
+finds.
+
+It concludes with three recommendations for website owners: to review
+their accessibility statements against best practice criteria; to redevelop
+statements according to the findings of that review; and to adopt the
+best practices for implementing the intentions set out in the statement.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=281
+
+[Section Three ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all
+your colleagues to sign up! To unsubscribe at any time, put
+'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 112 ends.]

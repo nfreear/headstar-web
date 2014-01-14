@@ -1,0 +1,58 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 07:51:24 2008 __
+
+Input file: ../eab/issues/2007/sep2007.txt
+
+Warning: file already exists: ../eab/issues/2007/sep2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: sep | index: 9 | year: 2007
+URLs, prev: ../2007/aug2007.html | next: ../2007/oct2007.html
+Found ++, heading 2: Special notice: Techshare Expo 2007
+Found ++, heading 2: Issue 93 Contents.
+>> FOUND 2:  | 01:  | 'Pay By Touch' Bank Cards Launched In London
+>> FOUND 2:  | 02:  | RNIB Disability Benefit Campaign Seeks Voices
+>> FOUND 2:  | 03:  | 'Ovi' Portal From Nokia To Launch In 2007
+>> FOUND 2: News in Brief:  | 04:  | Switchover Access - US digital TV; 05: Aussie
+OK, News in brief
+Found: Switchover Access - US digital TV | ; |  05: Aussie
+>> FOUND 2: Rules - assistance with e-voting;  | 06:  | Well Rounded - new personal
+Found: Rules - assistance with e-voting;  | 06:  | Well Rounded - new personal
+>> FOUND 2:  | 07:  | Site Searching - websites wanted for research project; 08: Talking
+>> FOUND 2: Pictures - audio described cinema listings;  | 09:  | iPod Question - are
+Found: Pictures - audio described cinema listings;  | 09:  | iPod Question - are
+>> FOUND 2:  | 10:  | The Distance Between Rights And Reality: China has reached a
+>> FOUND 2:  | 11:  | An International Hothouse Of Ideas: Students are often taught very
+Warning line 82: expected [Contents ends].
+$toc_count=11
+Found ++, heading 2: Special Notice: e-Democracy '07 Early Bird Offer
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | 'Pay By Touch' Bank Cards Launched In London.
+Warning: not found a 'contents' match: 'Pay By Touch' Bank Cards Launched In London.
+> ITEM 2:  02:  | RNIB Disability Benefit Campaign Seeks Voices.
+Warning: not found a 'contents' match: Rnib Disability Benefit Campaign Seeks Voices.
+> ITEM 2:  03:  | 'Ovi' Portal From Nokia To Launch In 2007.
+Warning: not found a 'contents' match: 'Ovi' Portal From Nokia To Launch In 2007.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  The inability to locate and activate
+> ITEM 1:  05:  | : |  Vision impaired people in eight regions across
+> ITEM 1:  06:  | : |  A voice activated personal organiser has gone on
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 276.
+> ITEM 1:  07:  | : |  Terry Robinson, director of Describe Online
+> ITEM 1:  08:  | : |  Derek Brandon of 'Your Local Cinema.com'
+> ITEM 1:  09:  | : | 
+Found ++, heading 2: Section Three - International
+> ITEM 2:  10:  | The Distance Between Rights And Reality
+Warning: not found a 'contents' match: The Distance Between Rights And RealityBy Julie Howell.
+Warning, replacing non-ASCII character 233 (line 338, 12): It's a clich&#233;, but I suspect that much of my presentation was lost in
+
+Found ++, heading 2: Section Four - Focus
+> ITEM 2:  11:  | An International Hothouse Of Ideas
+Warning: not found a 'contents' match: An International Hothouse Of IdeasBy Adrian Higginbotham.
+Warning, replacing non-ASCII character 233 (line 421, 6): macram&#233; to word processing and website building, from satellite
+
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 539.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 545.

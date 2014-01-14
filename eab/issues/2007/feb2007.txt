@@ -1,0 +1,653 @@
++++E-ACCESS BULLETIN
+- ISSUE 86, FEBRUARY 2007.
+
+Technology news for people with vision impairment
+( http://www.headstar.com/eab/ ).
+Sponsored by:
+RNIB
+( http://www.rnib.org.uk )
+BT Age and Disability Unit
+( http://www.btplc.com/age_disability/ )
+Ford Motor Company
+( http://www.ford.co.uk )
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+- e-Access '07: Technology for All
+-2 May 2007
+- New Connaught Rooms, London
+http://www.headstar-events.com/eaccess07/ .
+
+E-Access Bulletin's third annual conference and exhibition on access to
+technology by people with disabilities is a high-level event drawing
+together all the strands needed for modern public and private sector
+organisations to draw up progressive policies on accessibility.
+
+Speakers include: Richard Howitt MEP, President of the European
+Parliament's All-Party Disability Intergroup; Geoff Adams-Spink,
+BBC Disability Correspondent; and Paul Timmers, Head of ICT at the
+European Commission's Inclusion Unit and panellists from RNIB and
+University of Southampton.
+
+Supported by Ability Magazine and the RNIB, the conference is aimed
+at public sector bodies, technology suppliers educational institutions,
+banks, private sector providers of goods or services individuals with a
+disability and organisations providing at least some of your
+information or services digitally.
+
+For more information and to register visit:
+http://www.headstar-events.com/eaccess07/
+And for sponsorship and exhibition opportunities please contact Claire
+Clinton on 01273 231291 or by email at:
+claire@headstar.com
+
+[Special notice ends].
+
+
+++Issue 86 Contents.
+
+++Section One: News.
+
+01: E-Learning Company Appeals Against Inaccessibility Ruling
+- landmark case on e-learning materials.
+
+02: State of Texas Sued Over Inaccessible Software
+- lawsuit filed by blindness organisation and staff.
+
+03: Teaching Resource Planned for Northern Ireland
+- government addresses lack of accessible materials.
+
+04: Tests for Live Digital Display Reader
+- Spanish company builds first prototype.
+
+News in Brief: 05: Adjustments Policy - e-learning paper; 06: Museum
+Recognition - Jodi award nominations; 07: View Safe - chip and pin
+security device; 08: Burning Plans - audiogame maker delayed.
+
+Section Two: 'The Inbox' - Readers' Forum.
+09: Open Appeal - open source compatibility question; 10: Domestic
+List - appeal for household items list; 11: Soundclash Solution -
+blocking background noise; 12: Tinier URL - automatic web address
+shortening.
+
+Section Three: Focus - Training
+13: A Career Ladder With Broken Rungs: When Sam Latif was one of
+a few to be chosen by her employees to study for her industry's "gold
+standard" qualification, she jumped at the chance. But the training was
+fraught with obstacles to blind students and a legal battle has since
+ensued. Derek Parkinson reports.
+
+Section Four: Focus - User testing
+14: Taking Testing Off The Back Burner: Mel Poluck looks at the
+importance of harmonising methods for testing and evaluating the
+accessibility of services and products, after a recent report found the
+time has come to align methods across Europe.
+
+[Contents ends].
+
+
+Section One: News.
+
++01: E-Learning Company Appeals Against Inaccessibility Ruling.
+
+A landmark legal ruling on how UK anti-discrimination law applies to
+online content is in doubt after Project Management International
+(PMI), a professional body that offers membership through online
+examinations, launched an appeal to overturn a ruling that it
+discriminated against a blind IT manager in the UK.
+
+The appeal by PMI challenges a finding by Reading Employment
+Tribunal, in November 2006, that the organisation had failed to make
+reasonable adjustments for Sumaira "Sam" Latif to access a computer-
+based examination. The judgment is thought to be the first time a
+ruling has been made against a provider of online content under the
+UK Disability Discrimination Act.
+
+Her case, which was supported by the Disability Rights Commission,
+claimed that PMI discriminated against her in three separate ways: by
+making unreasonable demands to confirm that she suffered a disability;
+by failing to provide accessible course material; and by failing to make
+reasonable adjustments for her to sit the final examination.
+
+The tribunal dismissed the first two claims, but agreed that Latif
+suffered discrimination when it came to the final examination, known
+as the Project Management Professional Credential Examination. This
+consists of 200 multiple choice questions, some including complex
+graphs and charts, which candidates must complete in four hours.
+Candidates access the examination material through networked
+computer terminals at 15 test centres in the UK. Latif was awarded
+compensation of 3,000 pounds "in respect of the injury to her
+feelings".
+
+In the event, Latif passed the exam, but felt that PMI failed to address
+her needs adequately. Her request to use a screen reader in the
+examination room was refused, as was her request for tactile diagrams
+of graphs and charts. Latif was given the option of either not taking the
+examination, or completing a paper-based version with the assistance
+of a human reader supplied by BMI. "I was told I could only meet the
+reader half an hour before the exam. He had no experience of reading
+for a blind person," Latif told E-Access Bulletin.
+
+According to the Disability Rights Commission (DRC), the appeal is
+unlikely to be heard before April. E-Access Bulletin understands that
+PMI is likely to argue that it made reasonable adjustments for Latif,
+and also that too much of the burden of proof was placed on PMI to
+show that it hadn't acted in a discriminatory way, rather than on Latif
+to show that it had, said the DRC.
+
+NOTE: To comment on this story or the issues it raises, visit
+our new 'E-Access Bulletin Live' service:
+http://www.headstar.com/eablive/?p=101 .
+
+
++02: State of Texas Sued Over Inaccessible Software.
+
+The US National Federation of the Blind ( NFB -
+http://www.nfb.org )
+and three blind employees of two Texas state government agencies
+have filed a lawsuit against their employers and the state's chief
+technology officer for their alleged continuing failure to ensure that
+information technology is accessible to blind staff . If proven, the
+allegation would mean the state would be in contravention of its own
+law.
+
+The dispute centres around the agencies' human resources software
+supplied by Oracle, which the employees say does not provide equal
+access to blind people using screen access technology. The lawsuit
+follows repeated attempts by blind employees of the Health and
+Human Services Commission
+( http://www.hhsc.state.tx.us )
+and the Texas Workforce Commission
+( http://www.twc.tx.us ) to bring the issue to their employers' attention
+each time the software's licence has come up for renewal, a
+spokesperson for the NFB told E-Access Bulletin.
+
+"The three state employees brought it to their supervisors' attention
+repeatedly from the time the systems were first installed," said the
+spokesperson. "In June 2005, they were told that the system was
+accessible, even though it wasn't and were subsequently told that it
+would be made accessible by September 2006. That date came and
+went without resolving the accessibility issues."
+
+One of the blind employees, Edwin Kunz, who directs a rehabilitation
+centre for the blind within the Health and Human Services
+Commission, said: "I am unable to review and enter information, such
+as my hours worked and leave taken, unless a sighted person helps me
+to do so. Even worse, I can't access critical information about the
+employees that I supervise without the assistance of a sighted person."
+
+The objectives for the lawsuit are two-fold: to ensure that Texas
+complies with its own laws and in future purchases only accessible
+technology; and to force the state to replace the current inaccessible
+software programs with accessible ones.
+
+"The state legislature of Texas recognised the need for equal access for
+the blind by passing a law requiring it, and it is unconscionable that a
+state agency is violating that law," said Tommy Craig, President of the
+NFB's Texas branch. "We will not rest until all of the employees of the
+state of Texas have equal access to all the information they need to
+function effectively."
+
+NOTE: To comment on this story, or the issues is raises, please visit
+E-Access Bulletin Live:
+http://www.headstar.com/eablive/?p=102 .
+
+
++03: Teaching Resource Planned for Northern Ireland.
+
+A project to investigate the feasibility of creating a central resource for
+alternative formats for teaching materials and textbooks in Northern
+Ireland has begun this month.
+
+The Department of Education for Northern Ireland has engaged former
+school inspector Paddy Manning to assess the lack of access to books
+and teaching materials in Braille, electronic and large print format in
+Northern Ireland's schools. He will report back on 26 March on the
+case for creating a central resource and the practical implications of
+such a move.
+
+"[Government] is not doubting there's a problem. They're seeing what
+they can do about it," said David Mann, campaigns officer at RNIB
+Northern Ireland. Currently, teachers and teaching assistants have to
+photocopy, enlarge and retype pages from textbooks to turn into Braille
+or large print, to allow vision impaired schoolchildren access to
+National Curriculum teaching materials. "A schoolkid has to rely on
+poor quality photocopies. Other times they'll have to wait a month or
+two for a textbook," Barry Macaulay, Campaigns Manager at RNIB
+Northern Ireland, told E-Access Bulletin.
+
+Prior to the move Members of the Legislative Assembly (MLAs) from
+each of the three main political parties of the Northern Irish
+government wrote to the minister for education asking for a solution to
+be found.
+
+The scoping exercise builds on the findings of the RNIB report
+"Where's My Book?"
+( http://fastlink.headastar.com/rnib8 )
+published last year, which looked at the availability of teaching
+materials in accessible formats. This found none of the science
+textbooks prescribed by examination boards in Wales or Northern
+Ireland for key stage 4 schoolchildren is available in any accessible
+format.
+
+On 28 March there will be a government lobby in England where
+teachers, schoolchildren and parents will gather at Westminster to meet
+Members of Parliament (MPs) and raise awareness of the lack of
+alternative formats in schools as part of RNIB's Right To Read
+campaign.
+
+Meanwhile, the Scottish Executive, Scotland's government, is
+considering the business case for developing a central transcription
+service for creating alternative formats for teaching materials. There
+are no plans to undertake this exercise in England.
+
+
++04: Tests for Live Digital Display Reader.
+
+Software is being developed to allow vision impaired people to read
+information on the digital display screens of electronic household
+products and at supermarket checkouts, a Spanish company has
+announced.
+
+The DISPLAYER will allow vision impaired users to read everyday
+information displays including dynamic displays, such as those on
+microwaves, digital clocks, boilers and those found at public transport
+stations and supermarket checkouts.
+
+The device would ultimately take the form of software or an
+application that could be installed on a smartphone or personal digital
+assistant (PDA) with a built-in camera. To read something on a
+display, users would hold the mobile device near it, capture an image
+of it and the system would interpret and read the content aloud using
+speech output technology.
+
+"To help them capture the image of the display," said Igone Idígoras
+Leibar, Principal Researcher at Robotiker-Tecnalia
+( http://www.robotiker.com/ ),
+the Spanish company behind the technology. "It orientates the user
+with [speech output], for example, it would say 'on the image there is
+no display' or 'move the camera to the right so that the display
+appears,'" she told E-Access Bulletin.
+
+User testing with vision impaired people is due to start shortly. "Our
+idea is that the end users participate [in the development], not only at
+the end of the project but from the initial stages that we are now at,"
+Leibar said. Tests have begun to ensure the device is usable in various
+lighting conditions, carried out by over 80 people using 500 appliances
+in their homes using different types of digital camera.
+
+Last October the DISPLAYER project won the top award of 240,000
+Euros in a competition run by Spain's national blindness organisation
+ONCE to recognise technology research projects helping vision-
+impaired people. ONCE has undertaken to test and evaluate the final
+prototype, due to be ready in 2008.
+
+
+++News in Brief:
+
++05: Adjustments Policy: Details of types of 'reasonable adjustments'
+which can be made for assessments of IT courses run by the British
+Computer Society (BCS) such as allocation of additional time or use of
+assistive technology, scribes or personal assistants, are included in a
+policy paper on e-learning accessibility published by the BCS. 'Access
+to assessment' is available at:
+http://www.bcs.org/access .
+
++06: Museum Recognition: All technologies enabling greater access to
+museums, libraries and archives including interactive objects, audio-
+guides and personal digital assistants (PDAs) are allowable for entry to
+the 2007 Jodi Awards, which previously only recognised website
+accessibility in this field. Nominations are due by 30 April:
+http://fastlink.headstar.com/jodi1 .
+
++07: View Safe: A device to reduce "shoulder surfing" when keying in
+PIN numbers at chip and pin terminals is to be rolled out across the
+UK. ViewSafe, from Scotland-based company Ingenico, is a
+magnifying case that shrouds terminal keypads, distorting the numbers
+on the keypad to all but the user:
+http://fastlink.headstar.com/pin1 .
+
++08: Burning Plans: The release of new software allowing people to
+create accessible video games, 'Audio game maker', has been delayed
+until further notice due to a fire that destroyed offices of the
+Accessibility Foundation in Utrecht in the Netherlands:
+http://fastlink.headstar.com/ag1 .
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
++09: Open Appeal: David Bates from Dudley in the UK writes:
+"There seems to be an increasing drive towards the use of open source
+software, but will files produced with these programmes be accessible
+to users who do not have the appropriate operating system installed on
+their computers?
+
+As a blind user I have a screen reader, JAWS, optimised to work with
+Microsoft software. Will I therefore need different screen readers to
+read programmes written for the other open-source platforms?
+
+If a website is written with an open source programme will it open and
+read out correctly for me in Internet Explorer? Is there any possibility
+of developing a universal translator to which all platforms are
+compatible, which would then allow a single screen reader to read out
+text from any source?
+[Responses please to inbox@headstar.com ].
+
+
++10: Domestic List: Janet John, housing officer at RNIB Wales, is
+looking for a definitive list of assistive technology that is useful for use
+in the home. "The definition of assistive technology for the home
+covers everything from kettle pourers to automatic curtain systems that
+close the curtains when it is dusk. Do you have a list of things you use
+in the home to help you stay independent and safe?
+[Responses please to inbox@headstar.com ].
+
+
++11: Soundclash Solution: Roger Wilson-Hinds, director of
+Screenreader.net
+( http://www.screenreader.net )
+writes in response to a question in our December issue from David
+Bates about how to prevent websites playing unwanted music and
+sound which can disrupt screenreader output. Wilson-Hinds writes:
+"This is what I do: I have put a shortcut to the Volume Control, which
+is under 'accessories' and 'entertainment,' on my desktop, quick and
+handy. Once in the volume control, I can tab across to the particular
+source I want to adjust or mute and then 'alt tab' back to my website in
+peace. If that sounds a bit too tetchy, then here are the keystrokes:
+
+"Windows key to start menu, 'p' to all programs and 'a' to accessories.
+then right cursor and down cursor to volume control. Right click screen
+reader key and cursor down to send. Then cursor down to 'shortcut to
+desktop' and enter. Still with me? Well, you only need to do that once.
+
+"If you need to do this on an older system, you can rename your
+volume shortcut on the desktop to volume by pressing the right click
+screen reader key, cursor up to rename,  press enter, type in "volume"
+and enter.
+
+"When the volume screen is in focus, you have the opportunity to
+control the level of all audio, your CD player, the microphone and any
+midi keyboard you are using as well. Use the tab key to move among
+the choices, the cursor keys to control levels and the space bar to select
+'mute' or 'not mute.'
+[Further responses please to inbox@headstar.com ].
+
+
++13: Tinier URL: In response to John Loader's recommendation in our
+last issue of the free 'Tinyurl' service to create shorter web addresses,
+Chris McMillan of charity China Vision
+( http://www.chinavision.org.uk/ )
+recommends as an alternative 'snipurl':
+http://snipurl.com .
+She points out however that she is using magnification: "I can't
+guarantee that the site works with speech."
+[Further responses please to inbox@headstar.com ].
+
+[Inbox ends].
+
+
+++Section Three: Focus
+- Training.
+
++13: A Career Ladder With Broken Rungs
+by Derek Parkinson.
+
+Sam Latif is serious about getting on in her career as an IT manager
+with Procter and Gamble, the world's largest consumer goods
+company. So when the company agreed to fund her and six other
+colleagues to study for a project management qualification that is
+recognised across the world, Sam felt she had taken a major step
+forward in her career.
+
+The 'Project Management Professional' qualification is awarded by the
+Project Management Institute (PMI), a non-profit organisation based in
+Baltimore, USA. With around 200,000 members worldwide, PMI
+requires candidates to complete a course of distance learning that
+typically lasts around nine months. "The PMI qualification is one of
+the best. It's the "gold standard" for the industry," Latif says.
+
+The final examination fort he qualification involves answering 200
+multiple choice questions, some of which include complex graphs and
+charts, delivered to candidates through computer terminals at one of 15
+test centres in the UK. Candidates are given four hours to complete the
+exam, and must score at least 137 to pass.
+
+Latif is blind, but although much of the learning and examination
+materials are delivered from a distance, at this stage she saw no reason
+why she should have a problem with it, being both IT-literate and
+equipped with the latest JAWS 6.0 screen reader software. She began
+the course in September 2004 and formed a study circle with her
+colleagues, so they could swap ideas and insights about the course
+work.
+
+The first hint of the problems ahead came when she tried to find an
+accessible version of the Project Management Book of Knowledge
+(PMBOK). PMBOK puts in one place a comprehensive guide to good
+practice drawn from the knowledge and experience of project
+management practitioners, and it was strongly recommended that
+students read it.
+
+Having only started to learn Braille at the age of 16 Latif is not a
+proficient Braille reader, and so depended on finding the book in an
+accessible electronic format. It seemed reasonable to expect that a
+global organisation focused on distance learning would be able to
+address her needs. What actually followed was eight weeks of phone
+calls and email requests to PMI offices in the US and Europe, and the
+sense that she was getting nowhere, while the clock ticked on towards
+the final exam date. "It was very frustrating. I felt I was just being
+passed from person to person around the organisation," she says.
+
+Finally, an electronic copy of PMBOK arrived in her inbox, but it was
+encoded in Adobe's Portable Document Format and was inaccessible
+to her screen reader. Then she was sent a version in Microsoft Word
+which she could read, but not navigate around easily, making it
+difficult to jump between different sections of the book. She turned to
+the RNIB for help, and the organisation transcribed parts of PMBOK
+into the DAISY standard electronic book format for her. Latif had
+made progress, but she was still unable to read the complex charts and
+graphs.
+
+"I put in a lot more time and effort than maybe I needed to," she says.
+To help make up for lost time Latif paid a student to read the course
+materials to her for three hours every Tuesday and Thursday between
+February and August, in preparation for her final deadline to take the
+exam, September 2005.
+
+Having experienced these difficulties in finding accessible course
+materials, she was beginning to worry about what might await her in
+the exam room. To make special arrangements for her, PMI requested
+proof of Latif's vision impairment, but refused to accept the
+registration card issued by her local authority.
+
+"The final straw was when I sent PMI an email telling them what I
+needed in order to do the exam," Latif says. "They replied that either I
+could sit a version on paper with a human reader for assistance, or not
+at all," she says. Worse, PMI insisted that it would supply the reader,
+and Latif would meet the person for the first time just half an hour
+before the exam started.
+
+She passed the exam and gained her 'Project Management
+Professional' qualification, but after thinking further about her
+experiences and how she had been treated, she decided to take the
+matter further with legal action against PMI under the UK's Disability
+Discrimination Act.
+
+It is a battle which continues today: although Latif won a partial
+victory with an initial ruling in an employment tribunal which found
+she had suffered discrimination in relation to the final examination, the
+organisation is appealing the decision (see Story 01, News section, this
+issue). Whatever happens one senses that Latif, fuelled by a sense of
+indignation at finding herself apparently ignored, will not give up the
+struggle lightly.
+
+"One of the reasons this has got to where it has is that no-one at PMI
+took responsibility," she says. "I was just passed around, and it was so
+frustrating".
+
+[Section Three ends].
+
+
+++Section Four: Focus
+- User testing.
+
++14: Taking Testing Off The Back Burner
+by Mel Poluck.
+
+Before a new website, software or digital device is released on the
+market, it is tested for accessibility and usability to ensure it can be
+used by the maximum amount of customers - in theory.
+
+In practice, this may not always be the case and even if testing does
+take place, standards are inconsistent. Indeed, there are no international
+standards across Europe relating to this important component of the
+development process. And there is no legal requirement to carry out
+testing, let alone laws relating to how organisations should carry it out.
+So whether or not a new service or product is tested and evaluated is
+usually down to the company that creates or supplies it.
+
+A recently published report
+(http://www.tiresias.org/cost219ter/wg3_questionnaire_report.htm)
+however, has bolstered the case for further work in this vital area.
+Undertaken by the EU-funded technology access research organisation
+COST 219-ter
+( http://www.tiresias.org/cost219ter/ ),
+the report surveyed disability organisations across Europe.
+
+It concludes little attention has been paid to the actual methods used
+for testing electronic products and services with diverse user groups
+including disabled users. And while there are guidelines to follow such
+as those from the international Web Accessibility Initiative (WAI -
+http://www.w3.org/WAI/eval/ ),
+there is an unsystematic approach to conducting user testing across
+Europe, the report found.
+
+The number of methods for testing used in respondents' organisations
+varied from three to 14 and include, among others: task analysis,
+"cognitive walkthroughs," laboratory observations, expert groups,
+expert panels, focus groups, questionnaires, interviews and diary-
+keeping.
+
+Some respondents said they test on an ad-hoc basis while others apply
+strict methodical testing techniques for everything they or other
+companies produce. One respondent said: "We mostly perform
+evaluations, not actual testing, when we think it's appropriate. We try
+to collect as much information as we can and discuss the use and
+usability with experts in the specific fields of interest. The result is a
+'point-of-view' that we publish on our website and in other
+publications on paper."
+
+At the other end of the spectrum, there are still many companies
+undertaking minimal or no user testing at all on their products and
+services at all. According to Dr John Gill, RNIB's Chief Scientist, the
+speed of development of an electronic service or product nowadays is
+such that testing and evaluation by people with a disability gets
+knocked off the 'to-do' list in the rush for the market release.
+"Particularly in telecommunications, the development time is short, the
+marketing time is short, and they want to get there before the
+competition," Gill says.
+
+But time need not be a barrier. Companies such as The Usability
+Exchange, for example, offer short testing turnaround times. "It's no
+excuse to say there's no time," says director Stefan Hasselwimmer.
+"[Testing] should happen at the beginning and there should be lots of
+little tests all the way through the process. A lot of people do it at the
+end then don't want to hear if there's anything wrong."
+
+The report also found it is vital to harmonise the different national
+testing methodologies that exist in Europe. The answer to this may be
+to create standards, but this in itself can bring problems according to
+some. "There is a danger that you end up creating another set of
+lengthy documents akin to WAI standards that people have difficulty
+using and that distract people from the important job of simply talking
+to disabled users more," says Hasselwimmer.
+
+"What is much more important than printed standards is actual
+standardised processes and systems," he says. "There is scope for
+'rolling standards' that are evidence based, geared towards specific
+sectors and updated regularly. These would be based on conducting
+extensive disabled user testing in particular areas."
+
+"With things to do with measuring and testing, one tends to focus on
+what's easy to measure, like in school exams," the RNIB's John Gill
+told E-Access Bulletin. "This does not necessarily give you the whole
+picture."
+
+[Section Four ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2007 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technical advisor - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]

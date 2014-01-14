@@ -1,0 +1,709 @@
+* E-ACCESS BULLETIN.
+
+The email newsletter on
+technology issues for people
+with visual impairment and blindness.
+E-Access Bulletin web site (including archive):
+<http://www.e-accessibility.com>
+
+Sponsored by the Royal National Institute of the Blind
+<http://www.rnib.org.uk>
+and the National Library for the Blind
+<http://www.nlbuk.org>
+
+Please forward this bulletin to friends or
+colleagues so they can subscribe by 
+emailing <mailto:eab-subs@headstar.com>
+full details at the end of the bulletin.
+The more subscribers we have,
+the better our free service can become!
+
+NOTE: As a navigation aid to those using screen readers, all headings 
+begin with an asterisk and end with a full stop. Please let us know if 
+there is anything else we could do to make navigation of the bulletin
+easier.
+
+[Issue starts.]
+
+* ISSUE 29, MAY 2002.
+
+* CONTENTS:
+
+News:
+- Multimedia boost for Braille.
+- Objections raised over e-voting trial.
+- Local government site receives access award.
+- Competition – win an e-book reader.
+- Shopping by voice with the Freedom Network.
+
+News in brief: Internet Society opens disability chapter; How to find 
+accessible e-books; Accessible law. 
+
+Section two: 'The Inbox'
+- Readers' forum.
+
+Section three: On site
+- St Dunstan’s (part one). The charity has been rehabilitating blind ex-
+service people since the First World War. Dan Jellinek finds that 
+many veterans are as keen to use the internet as new recruits.
+
+Section four: A reader writes
+- St Dunstan’s (part two): a soldier’s story. Mark Threadgold served 
+17 years in the Royal Corps of Signals until losing his sight in an 
+accident. He tells how two years at St Dunstan’s have opened up new 
+opportunities – and challenges.
+
+Section five: Focus
+- Speech technology: the voice web is widely touted as the interface of 
+the future, and not just for blind people. Judith Markowitz assesses the 
+state of the art.
+
+[Contents ends.]
+
+
+*SECTION ONE: NEWS
+
+
+* MULTIMEDIA TO THE RESCUE OF BRAILLE?
+
+Blind children should be taught Braille in a rich multimedia 
+environment, an international group of experts concluded at a 
+conference held in Copenhagen last month.
+
+The symposium, entitled ‘Braille in the age of digitisation’ 
+(http://www.ibos.dk/braille), was convened to examine how digital 
+technologies could be harnessed to reverse the declining use of 
+Braille. According to a study by the US National Federation of the 
+Blind, Braille literacy levels in both the US and UK have fallen from 
+more than 50 per cent 40 years ago to less than 10 per cent now 
+(http://www.nfb.org/braille/brustoc.htm).
+
+RNIB vice chairman Kevin Carey, who representated the institute in 
+Copenhagen, said the internet has an important role to play in 
+stimulating the uptake of Braille. “One of the reasons that children are 
+keen to read print is to gain access to what is forbidden, but Braille 
+content is almost entirely prescribed, so they lose interest,” he said.
+
+Delegates also passed a resolution to encourage Braille production 
+houses to pool their resources to form a unified Braille research 
+laboratory. The unified body, they said, should aim to develop 
+affordable tools that can render internet content in both standard and 
+advanced Braille grades. Carey said the common policy of 
+encouraging people to learn the sophisticated grade two Braille 
+irrespective of their needs has not helped: “Learning grade two is 
+hard: blind people have enough problems anyway, and many will 
+think - why add one more?”
+
+The conference agreed, however, that the unified approach would 
+have limits, and that specialist Braille notations needed for 
+mathematics, music and engineering should continue to be produced 
+by specialist production houses.
+
+
+* OBJECTIONS RAISED OVER E-VOTING TRIAL.
+
+Objections have been raised about the inaccessibility of one of the 
+electronic voting trials held alongside this month’s local council 
+elections.
+
+The Department of Transport, Local Government and the Regions 
+held a series of e-voting pilots in nine local authority areas in England 
+- Bolton, Chester, Borough of Crewe and Nantwich, Liverpool, 
+Newham, Sheffield, St Albans, Stratford upon Avon and Swindon. 
+The trials included internet voting from home, voting kiosks and 
+mobile text messaging.
+
+In Sheffield, 36 per cent of those who voted did so electronically 
+through the Sheffield e-Vote 2002 gateway 
+(http://www.votesheffield.com). However Julian Scarlett, web design 
+officer for the education department at Sheffield which was not 
+involved in the pilot, told the international Web Accessibility 
+Initiative (WAI – http://www.w3.org/WAI) email list this month: 
+“Although I applaud the project [for] those who find traditional voting 
+methods hard to access, I am dismayed at the accessibility of the site; 
+no alt text, no table summaries, no natural language declaration for 
+body text, no labels for form elements, absolute font sizes”.
+
+The Sheffield trial was run with private sector partners BT and 
+Election.com. Charel Aoun, technical director of Election.com, 
+admitted that the web gateway used to access the online voting system 
+wasn’t run through the standard accessibility checker, Bobby as there 
+was no time. However, he told E-Access Bulletin that the voting 
+engine itself was accessible. “The engine conforms with WAI 
+guidelines up to level 3 – in this pilot we missed a couple of details 
+but it definitely is level 2. The project was a pilot and we’ll take on 
+board any glitches and work to improve them in future.”
+
+Meanwhile disability organisation Scope (http://www.scope.org.uk) is 
+calling for feedback on the accessibility of the postal ballot or e-voting 
+pilots during the local elections for a report commissioned by the 
+Electoral Commission. For a survey form or more information call 
+020 7619 7252/3 or email campaigns@scope.org.uk
+
+
+* LOCAL GOVERNMENT SITE WINS ‘SEE IT RIGHT’ AWARD.
+
+IDeA Knowledge (http://www.idea.gov.uk/knowledge), a web portal 
+on e-government in the UK developed by the local government 
+Improvement and Development Agency (IDeA), is the first local 
+government site to pass an audit for the RNIB ‘See It Right’ web 
+accessibility campaign. The central government portal UK Online 
+(http://www.ukonline.gov.uk) has already qualified for an award.
+
+The IDeA Knowledge site aims to share insights and practices with 
+policy makers and practitioners in local government through 
+workshops, toolkits, case studies and online communities. According 
+to IDeA, the site now sets a standard for accessibility that local 
+authorities should try to emulate.
+
+Although IDeA cannot impose accessibility standards, it warns that 
+local authorities cannot ignore them. “If they do they’re going to be in 
+trouble: if some local authorities are seen to be coasting or doing 
+badly while others are doing well, people will start asking questions,” 
+an agency spokesperson told E-Access Bulletin.
+
+According to the RNIB, the ‘See It Right’ campaign is a major step 
+forward because awards for web sites are based on an independent 
+human audit, unlike software-based approaches like Bobby 
+(http://www.cast.org/bobby), or World Wide Web Consortium 
+guidelines, which provide a set of standards for accessibility, but no 
+checks on compliance. To date, the RNIB has only audited a handful 
+of sites, but expects to deal with a further 50 sites from across the 
+private and public sectors in the next six months.
+
+The RNIB says projects like the London-based Accessible and 
+Personalised Local Authority Websites initiative (APLAWS - 
+http://www.aplaws.org.uk) represent the next important step in 
+making government web sites more accessible to visually impaired 
+people. APLAWS is run by a consortium of councils developing a 
+content management system that will standardise the way content is 
+laid out and navigated on council web sites.
+
+
+* WRITING COMPETITION - WIN AN E-BOOK READER.
+
+E-Access Bulletin is offering blind or visually impaired writers the 
+chance to win the latest in e-book reading hardware and software.
+
+First prize in our writing competition is a ‘Victor’ e-book reader worth 
+more than 300 pounds donated by VisuAide 
+(http://www.visuaide.com). Victor reads a new kind of CD talking 
+book which allows for fast, easy navigation (for a review see
+E-Access Bulletin, March 2002). Runners-up will each receive a set of 
+10 classic e-books on CD worth around 100 pounds. Winners will also 
+be published in a future issue of the bulletin - now with 3,000 readers 
+worldwide and translated into five languages!
+
+Entries should be between 500 and 800 words long and address the 
+theme "keeping in touch with technology". The topic could cover 
+online relationships, the pace of technological change, how 
+technology has changed your life, or imagining what life could be like 
+in the future.
+
+The closing date is Friday 26 July 2002 and the results will be 
+announced in our August issue. Please send entries to competition 
+organiser Phil Cain on phil@headstar.com or call him on 01273 231 
+291 with any queries.
+
+
+* SHOPPING OUT LOUD.
+
+A voice-activated shopping centre has been added to the services 
+offered by Freedom Network (http://www.freedombox.info), a US-
+based internet portal aimed at people unable to use graphical user 
+interfaces.
+
+Online book shop Amazon (http://www.amazon.com) is among 
+retailers allowing Freedom Network subscribers to search, register and 
+search their sites using their voices. Subscribers will also be able to 
+receive sample audio tracks and customer reviews.
+
+In a statement Freedom Network chief executive Mike Calvo, himself 
+blind, said: "The launch is an important first step in our efforts to 
+bring the products and services of our many online retailers to the 
+blind and disabled in an environment where accessibility is 
+guaranteed."
+
+
+* NEWS IN BRIEF:
+
+* SOCIETY CONNECTIONS: The Internet Society, the non-profit, 
+international membership organisation that champions and helps 
+develop the internet, is forming a new chapter devoted to disabilities. 
+Membership is free. Those interested should join the society (which is 
+also free) at http://www.isoc.org and then email Michael Burks on 
+mburks952@worldnet.att.net saying you wish to join the disabilities 
+chapter.
+
+* ELECTRONIC BROWSING: ‘Finding e-books on the internet’, a 
+new book from blind author and E-Access Bulletin reader Anna 
+Dresner, describes how to obtain both free and paid-for books from 
+many and various web sites:
+http://www.nbp.org/ebook.html
+
+* LEGAL ADVICE: The award-winning ‘law on the web’ online 
+legal practice has adopted Web Standards Project guidelines on access 
+to legal and advice information on the internet 
+(http://www.webstandards.org.uk). Feedback on the site from people 
+with visual impairments is welcomed:
+http://www.lawontheweb.co.uk
+
+[Section one ends.]
+
+
+* SECTION TWO - 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com
+
+* SCALE MODELS: In our last two issues, accessible online mapping 
+has been a topic of discussion in the Inbox. John Gardner, director of 
+the Science Access Project at Oregon State University, says he was 
+particularly interested in last month’s note from Dave Pawson from 
+the RNIB about scalable vector graphics (SVG - 
+http://www.w3.org/Graphics/SVG).
+
+Gardner writes: “My group is developing an extension to the Open 
+Source SVG browser and guidelines that make SVG universally 
+usable for all graphical information, including maps. We've published 
+several papers on this project, such as the one at:
+http://www.csun.edu/cod/conf2001/proceedings/0103gardner.html
+
+He also cites a Canadian cartographic project making accessible SVG 
+maps, at:
+http://tactile.nrcan.gc.ca
+
+
+* INTERNATIONAL SITUATION: Larry Johnson from Texas 
+writes: “The US National Library Service (NLS) maintains a web site 
+with listings for books in Braille and recorded from organisations in 
+the US, Canada and Great Britain. But when I asked my regional 
+library for the blind in Austin, Texas for their assistance in borrowing 
+a book from the UK National Library for the Blind, they told me they 
+have no arrangements for doing so.
+
+“I was shocked. Why are these listings on the NLS website? They 
+replied that the website was also for the use of sighted librarians, and 
+that these folks might have special access or arrangements with those 
+lending organisations. Frankly, this makes little sense to me. Is there a 
+way for a blind person in the US to borrow books from Braille 
+libraries in the UK?” [Responses to inbox@headstar.com]
+
+
+* WARNING SIGNAL: Our regular reader and correspondent David 
+Porter writes in to ask for advice on behalf of a friend of his who is 
+registered blind. “Since she has retinitis pigmentosa, she has tunnel 
+vision. As the condition develops, the tunnel will become narrower. 
+When shopping in the supermarket, no matter how carefully she uses 
+the shopping trolley, she bumps into other people.
+
+“I wonder if any reader knows of a gadget (perhaps a battery operated 
+unit with flashing light, with a bleeper - although this could alert 
+potential thieves to her disability) or maybe an adaptation of the 
+gadgets now built into cars, which warns drivers when they are 
+moving too close to another vehicle, or other obstruction. If you've 
+never seen one of these, they emit rapid bleeps, which increase in 
+volume as the "closing distance" decreases - warning the driver to 
+stop.
+
+“My friend is also a keen swimmer but, because of her restricted view, 
+frequently does not see other swimmers until she has bumped into 
+them. I think electronic warnings would not cope well with water - 
+any suggestions for this problem as well?”
+[Responses to  inbox@headstar.com]
+
+
+* UNIFIED MATHEMATICS: Susan Jolly from Los Alamos, New 
+Mexico, writes: “I am a sighted computational scientist in the US with 
+an interest in Braille mathematics, and ran across your recent 
+informative article on the subject (see issue 25, January 2002).
+
+“What is actually happening regarding a possible Braille unification is 
+that there is a proposal to make a new Braille code for maths that 
+would be very similar to the current UK one and completely unlike the 
+Nemeth code used here in the States. (These two codes are so different 
+there is no way to merge them or come up with a compromise). This 
+proposal has been designed mainly by non-technical persons. 
+Naturally, the technical Braille readers here have very negative views 
+about simply discarding what they feel to be a better code than the one 
+used in the UK.
+
+“I would love to correspond with someone who actually uses the UK 
+Braille maths code in order to learn their opinion on the proposed 
+'unification' which is supposed to be voted on next year.” [Responses 
+to inbox@headstar.com]
+
+[Section two ends.]
+
+
+* SECTION THREE: ON SITE
+- ST DUNSTAN'S (Part One).
+
+* FIRST CLASS SERVICE.
+by Dan Jellinek  dan@headstar.com
+
+The St Dunstan’s charity for blind ex-servicepeople
+(http://www.st-dunstans.org.uk) was founded in 1915 by the 
+newspaper proprietor Sir Arthur Pearson, who was himself blind. 
+Pearson wanted to support the many men and women being blinded in 
+the First World War, often by mustard gas. As time has passed and 
+major conflicts become less frequent, the organisation’s remit has 
+been expanded to cover not just injuries suffered in active service but 
+any sight problems suffered by ex-servicepeople and their families, 
+including those resulting from old age.
+
+There are now some 753 ‘St Dunstaners’, and the charity helps a 
+further 500 spouses and a similar number of widows and widowers. It 
+also operates the Diana Gubbay Trust for the benefit of men and 
+women in the emergency services who become blind.
+
+The charity’s headquarters is in London but its main centre for 
+rehabilitation work, including computer training, is in Ovingdean, 
+perched atop imposing white cliffs on the Sussex coast near Brighton.
+
+Initial training in independent living including access to computers 
+and other technologies where relevant usually takes place during 
+residential courses at Ovingdean. Follow-up work takes place in 
+people’s homes (which are often rented from or part-funded by St 
+Dunstan’s), and further assistance can include loans for computer 
+equipment.
+
+The general manager at Ovingdean is Dick Lake, who joined last year 
+following 35 years in the Navy as head of the service’s social work 
+department. He is in no doubt of the value and importance of modern 
+technologies for the sort of rehabilitation work that is central to people 
+who are blinded or become visually impaired.
+
+“Computers and associated technologies represent a quantum leap for 
+blind people in terms of their quality of life and access to 
+employment. In the past people had to learn Braille or Moon, whereas 
+now they can stick with what they know using a computer keyboard,” 
+Lake says.
+
+“For older people in particular who are newly visually impaired, 
+learning a new system like Braille is going to be hard and their touch 
+sensitivity may have deteriorated so technology is of major 
+importance.”
+
+The Ovingdean centre is a striking building designed in the 1930s to 
+resemble an aeroplane, with a high glass front echoing a cockpit and 
+symmetrical wings that follow a standard lay-out on each floor to 
+make it easy for people with visual impairment to find their way 
+around.
+
+The technology training centre is in a more modern annexe to the 
+building and features around a dozen computers with large screens, 
+plus special printers, scanners and a selection of access software and 
+hardware including screen reader and screen magnification software. 
+One of the machines has a CCTV camera linked to it so people can 
+magnify documents and view them as part of a split-screen display 
+controlled by a foot pedal.
+
+Technology trainer Janis Sharp says that over the past two years 
+interest among the older residents and visitors to Ovingdean has 
+grown rapidly. “At first they said it was for the youngsters but as the 
+internet continued to receive massive media exposure, and everything 
+they came across has a ‘www’ address linked with it they gradually 
+started to come in and ask what it was all about.”
+
+People using the machines now range from an old soldier with an eye-
+patch who slowly types out poems with his index finger, to people 
+accessing machines remotely from as far afield as Ireland.
+
+St Dunstaners living in the community have access to a telephone 
+support service for help with computers and peripherals, and Sharp 
+says it is usually possible to assist people fairly quickly over the phone 
+since they can listen in to speech messages that the computer might be 
+outputting. “We had one call recently about a jammed printer that 
+turned out to be caused by creases in an envelope. The next day the St 
+Dunstaner asked his housekeeper to iron all his envelopes.”
+
+There is a swashbuckling feel to much of the activity around St 
+Dunstan’s, as one might expect from an organisation working with ex-
+servicepeople including special forces personnel. St Dunstaners 
+regularly run in marathons, break motorbike speed records using radio 
+guidance, ride horses, ski and enter yacht races. Now to these acts of 
+derring-do a more sedentary but no less adventurous computer club 
+has been added which meets twice a year to build machines, discuss 
+the latest technologies and exchange tips.
+
+Technology training can also be the key for ex-servicepeople who lose 
+their sight to find fulfilling new employment. “Not as many people 
+find employment as we’d like, as it is hard to get people back into the 
+workplace”, says Lesley Styche, head of rehabilitation and training at 
+St Dunstan’s. “But there are St Dunstaners working as everything 
+from accountants to hydrotherapists and even at the BBC following 
+computer courses.”
+
+[Section three ends.]
+
+
+* SECTION FOUR: A READER WRITES
+- ST DUNSTAN’S (Part Two).
+
+* Mark Threadgold spent 17 years in the Royal Corps of Signals, 
+which is responsible for the British Army’s global communications 
+network, before losing his sight two years ago after receiving a severe 
+head injury. He was subsequently helped in his rehabilitation by the St 
+Dunstan’s organisation for visually impaired ex-servicepeople (see 
+previous section, this issue) and writes here on his experiences in 
+learning how to work with computers once more.
+
+* ENGINEERING A DIGITAL RECOVERY.
+
+I was extremely lucky to be taken into the family of St Dunstan’s on 
+leaving hospital. This was the start of a year of excellent training in 
+mobility, independent living skills such as cooking, and computer use.
+
+As I had been an electronics engineer prior to losing my sight, part of 
+my job involved maintenance and repair of desktop PCs. It was also 
+
+something I tried to keep up to date outside work as a hobby. After my 
+injury I presumed my use of the computer had come to an end. My 
+introduction to screen-readers was, therefore, an absolute revelation!
+
+The first stage in the relearning process was to master touch-typing. 
+After four or five days, and one very patient teacher, I had the basics 
+sorted out. Plenty of practice saw me racing round the keyboard with 
+far more confidence than competence! My total lack of sight meant 
+this device was to become my only method of both control and data 
+input.
+
+Having developed enough confidence to go a little further I had my 
+own computer brought up to St Dunstan’s. The HAL screen reader 
+from Dolphin Computer Access 
+(http://www.dolphinuk.co.uk/products/hal.htm) was installed for me 
+so with this set up in my room I could practice all night if I so wished. 
+Getting to grips with the different applications was the next logical 
+step. Microsoft Word 97 had previously been my choice of word 
+processor and this is where we started. Finding commands through the 
+drop down menus quickly became a chore. Shortcut keys were the 
+faster option, if only I could remember them all. While attempting to 
+find a list of these in the help file I was told they had already been 
+printed off. As it was sixteen pages of A4 long I decided that maybe 
+shortcut keys were not for me and resigned myself to using the drop 
+down menus.
+
+I believe my previous experience with the programs helped a lot. As I 
+could remember the various dialogue boxes and their layout it made 
+explaining them to me simpler. This theory was reinforced when I was 
+asked a question by another St Dunstaner, who was almost two 
+generations my senior and had never previously seen computers. At 
+the dinner table he asked, "What is the cursor?" I thought about this 
+for quite some time! How on earth do you describe what a cursor is to 
+someone who has never seen one? We had a hilarious discussion 
+about the little flashing capital ‘I’ that shows you where your typing is 
+going to appear. Getting across that this moved by itself each time you 
+pressed a key must have made it sound like black magic. I spent the 
+next week praying that nobody would introduce him to the mouse!
+
+Other applications came along quickly. I would experiment with my 
+own computer in the evenings and ask how to fix it the following day! 
+They say you learn by your mistakes, and I made plenty of learning 
+opportunities. The various applications now required different devices 
+to work. Setting up the printer and modem were simple enough. The 
+internal telephone system did not like being dialled out through with 
+the standard modem so I had my mobile phone soft modem installed. 
+With this I got my web account settings put back in and started using 
+email again. I am a huge fan of the internet and was now in touch with 
+some of my friends again using it. Utilities such as the web search tool 
+Webferret (http://www.zdnet.com/ferret) and the file compressor 
+Winzip (http://www.winzip.com) were re-installed and learned again. 
+Customising desktop settings and making up shortcut keys to launch 
+programs was all refreshed.
+
+One major leap in independence I found was through text reading 
+software that works with a scanner to read printed text. After being 
+introduced to the Cicero application, again from Dolphin Computer 
+Access (http://www.dolphinuk.co.uk/products/cicero.htm), I could 
+read my post simply and privately with the press of a single key. This 
+did, of course, assume you had the text facing downwards on the 
+scanner! I lost count of the times I was told the page on the scanner 
+was blank. This led to a simple method of marking papers by turning 
+down the top left corner of the page as I took it out of the envelope. I 
+still use this technique with documents I print or receive through the 
+post.
+
+With my background in engineering my thoughts now turned to future 
+employment. After a long search a local IT training company was 
+found, and after a visit to introduce them to the screen reader and 
+present myself as blind but mostly sane, they agreed to take me on a 
+course. I am now midway through a Microsoft Certified System 
+Engineer (MCSE) course with them for networking with Windows 
+2000.
+
+This is proving very interesting as well as challenging. The main 
+challenge is not with the computers, but with the course textual 
+information. We all forgot I couldn't read the two inch thick books 
+that form the course material! If the staff of St Dunstans hadn't done 
+such a good job with the early training I would not have this problem 
+now!
+
+[Section four ends.]
+
+
+* SECTION FIVE: FOCUS
+- SPEECH TECHNOLOGY.
+
+* TALKING TO MACHINES.
+By Judith Markowitz  judith@jmarkowitz.com
+
+Speech-processing professionals often point to the 'voice web' as the 
+key to achieving the goal of developing content that is accessible 
+anytime, anywhere and on any device.
+
+The voice web has been defined in various ways. At its core, it 
+possible to access content on the internet by voice, with speech input 
+and output providing part or all of the human interface. The channel 
+can be wired, but is expected to be primarily wireless, and voice web 
+input devices extend from standard telephones to future generations of 
+multi-purpose, internet-enabled devices.
+
+
+Excitement about the voice web is predicated on continued strong 
+growth of the internet, and global wireless deployments, and of the 
+bonding of those two technologies. The Gartner Group, for example, 
+has projected that the number of mobile phones deployed worldwide 
+will exceed one billion before 2005 and has indicated that it expects 
+80 per cent of new handheld devices will feature some form of 
+internet connection.
+
+Another force driving the voice web is the formation of standards, 
+most importantly VoiceXML. This standard sets out the grammar that 
+will be used in interpreting speech and the XML extensions needed to 
+create the voice web applications of today. VoiceXML's power lies in 
+its sponsorship by the World Wide Web Consortium 
+(http://www.w3.org) and the widespread commitment from speech 
+technology companies, non- government and industry.
+
+The VoiceXML Forum (http://www.voicexml.org), an industry 
+organisation founded by AT&T, IBM, Lucent and Motorola, is 
+working on extensions to the standard designed to support the next 
+generation of input devices. It is not alone. In October 2001, 
+Microsoft, Cisco, Comverse, Intel, Philips and speech technology 
+specialist SpeechWorks announced the Speech Applications Language 
+Tags initiative (SALT - http://www.saltforum.org). SALT will 
+formulate XML extensions for incorporating speech into future 
+generations of input devices capable of true multi-modal 
+communication.
+
+All of this work is designed to move the industry and the marketplace 
+closer to anytime, anywhere, any device capabilities. This goal is 
+achievable eventually, although voice web applications that are 
+moving into the mainstream today are still at the earliest stage of 
+evolution. They are highly constrained in the content which can be 
+accessed, because interaction is menu oriented, designed primarily for 
+standard telephones and often operating in only one language.
+
+Having said that, consumers can already use voice portals to access 
+weather information, find the nearest Starbucks or hear what is 
+playing at local cinemas. Unified messaging systems provide mobile 
+professionals and others with a single access point for voicemail, 
+email and fax. Corporate customer relationship management (CRM) 
+systems, such as the one deployed by car maintenance company 
+JiffyLube (http://www.jiffylube.com), is starting to offer customers 
+appointment scheduling and service alerts. Voice application networks 
+within enterprises give sales reps and other mobile professionals 
+access to a combination of the web and corporate data sources, 
+including unified messaging and access to customer data. 
+
+Many first-stage voice web applications of today look beyond 
+standard telephones. In warehouses and factories, speech input/output 
+is achieved through wearable devices and radio-frequency 
+transmission. The voice application network technology has already 
+extended the reach of those systems to support just-in-time and e-
+commerce ordering systems. In-vehicle systems, such as the OnStar 
+Virtual Advisor (http://www.onstar.com), embedded far-field 
+microphones to provide many of the same services available from 
+voice portals and voice application networks. 
+
+Distributed speech technology is enabling next-generation PDAs 
+(personal digital assistants), such as Compaq's iPaq, to access a range 
+of services from the voice web, including dictation and unified 
+messaging. Compact voice biometrics are being embedded into toys 
+and cell phones. They are also being put onto smart-cards for point-of-
+sale speaker authentication.
+
+The voice web is not the only category of application moving the 
+industry closer to anytime, anywhere, any device access. The ability to 
+use advanced dictation technology in combination with information 
+retrieval tools, and sometimes with text-independent speaker 
+identification, has made it possible to add audio and audiovisual 
+sources (news broadcasts, calls to a call centre, movies) to the content 
+that can be mined for information. This constellation of technologies 
+is called audio-mining or audio-indexing. Prior to its deployment, 
+indexing of audio sources required a great deal of time-consuming 
+manual labour.
+
+Today, it is possible to index, search and retrieve information from 
+large databases of audio and audiovisual sources in near real time. For 
+example, it would be possible to index and search yesterday's CNN 
+broadcasts for questions, such as "What did George W Bush say about 
+Saddam Hussein?" It is also possible for a call centre supervisor to 
+search last month's calls for all comments about a specific product.
+
+Many of the advances and trends described above are available 
+commercially by virtue of advances in the computing and 
+communications infrastructures. The very existence of the voice web, 
+like its name, is derived from the success of the internet. The Pentium 
+III processor was dubbed "the ASR chip" because its instructions set 
+supports the kinds of operations needed for advanced ASR (automated 
+speech recognition). In telecommunications, 2.5G and 3G (third 
+generation) systems promise support for advanced multi-modal 
+devices. The recent economic downturn has delayed, but not stopped, 
+this infrastructure evolution.
+
+Sometimes speech acts as an enabling technology. One of the best 
+examples of this effect is in-vehicle systems. There may still be 
+discussions about whether speech should be a cornerstone of 
+telematics, but those discussions are not being held in legislative 
+bodies. One by one, legislators are climbing on the hands-free 
+bandwagon.
+
+Their actions have heightened the value of speech as an enabler of the 
+
+office-in-the-car. The rapid "miniaturisation" of mobile phones and 
+other handheld devices has spawned add-on tools such as finger-worn 
+pointing tools. None of these tools are as flexible as talking, making 
+speech an enabling technology for next-generation handheld devices.
+
+NOTE: This is the second part of an article that first appeared in 
+Speech Technology Magazine
+(http://www.speechtek.com/st.mag/index.shtml), a US-based
+publication. The first part was published in our last issue, and covered
+ topics including text-to-speech technology; voice-based biometrics; 
+and microphone technology. Judith Markowitz 
+(http://www.jmarkowitz.com) is the associate editor of the magazine 
+and is a leading independent analyst in the speech technology and 
+voice biometric fields.
+
+[Section five ends.]
+
+
+* HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, e-mail
+eab-subs@headstar.com with 'subscribe eab' in the subject header. 
+You can list other email addresses to subscribe in the body of the message.
+Please encourage all your colleagues to sign up!
+
+To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com
+
+Copyright 2002 Headstar Ltd. http://www.headstar.com
+ISSN 1476-6337
+The Bulletin may be reproduced in full as long as all parts including 
+this copyright notice are included. Sections of the report may be 
+quoted as long as they are clearly sourced as 'taken from e-access 
+bulletin, a free monthly email newsletter', and our web site address 
+http://www.e-accessibility.com is also cited.
+
+* PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy Editor - Phil Cain  phil@headstar.com
+News Editor - Derek Parkinson  derek@headstar.com
+Reporter - Tamara Fletcher  tamara@headstar.com
+Editorial Advisor - Kevin Carey  humanity@atlas.co.uk 
+
+[Issue ends.]

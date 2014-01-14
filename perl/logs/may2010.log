@@ -1,0 +1,47 @@
+__ BUILD [tens2html.pl  v1.14] log Sat Jul  3 23:09:05 2010 __
+
+Input file: ../eab/issues/2010/may2010.txt
+
+Warning: file already exists: ../eab/issues/2010/may2010.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: may | index: 5 | year: 2010
+URLs, prev: ../2010/apr2010.html | next: ../2010/jun2010.html
+Found ++, heading 2: Issue 125 Contents.
+>> FOUND 2:  | 01:  | Draft Web Access Standard Embraces Personalisation
+>> FOUND 2:  | 02:  | Disability Linked To Digital Exclusion And
+>> FOUND 2:  | 03:  | Accessible e-Books "Tantalisingly Close"
+>> FOUND 2: News in Brief:  | 04:  | Downloadable Delights - free audiobooks;
+OK, News in brief
+Found: Downloadable Delights - free audiobooks | ; | 
+>> FOUND 2:  | 05:  | Market Failure - responsible ICT procurement urged; 06:
+>> FOUND 2:  | 07:  | Facebook Challenge - screenreader help requested for
+>> FOUND 2: social networking site;  | 08:  | Apple Rolls - Mac accessibility
+Found: social networking site;  | 08:  | Apple Rolls - Mac accessibility
+>> FOUND 2:  | 09:  | Exclusion Zone: 'Digital exclusion' is a much-discussed
+Warning line 47: expected [Contents ends].
+$toc_count=9
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Draft Web Access Standard Embraces Personalisation.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Disability Linked To Digital Exclusion And
+Warning: not found a 'contents' match: Disability Linked To Digital Exclusion And'Disengagement'.
+> ITEM 2:  03:  | Accessible e-Books "Tantalisingly Close".
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  More than 1,000 audiobooks are
+> ITEM 1:  05:  | : |  There needs to be more emphasis on
+> ITEM 1:  06:  | : |  Nearly 40% of Americans without a
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 266.
+> ITEM 1:  07:  | : |  The trusty translator of the Italian
+> ITEM 1:  08:  | : |  Jude DaShiell, a computer programmer in the
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  09:  | Exclusion Zone
+Warning: not found a 'contents' match: Exclusion Zoneby Dan Jellinek.
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 526.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 557.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 564.

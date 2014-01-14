@@ -1,0 +1,574 @@
++++E-ACCESS BULLETIN.
+- ISSUE 65, MAY 2005.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab/).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten/ .
+
+If you are a journalist interested in access technology issues and would
+like to be added to our specialist press list, please email Mel Poluck on
+mel@headstar.com .
+
+++Issue 65 Contents.
+
+Section One: News.
+
+01: Dolphin 'Pen' Allows PC Users To Carry Settings With Them
+- Memory stick saves time in configuring new machines.
+
+02: New Apple Operating System Has Built-In Screen-Reader
+- 'VoiceOver' activates on start-up for full speech access.
+
+03: Web Access Guidance Is First Step To British Standard
+- Disability Rights Commission seeks to address shortcomings.
+
+04: Accessible Quake Developers Seek Testers
+- Sound version of the famous game nears completion.
+
+News in Brief: 05: Web Words - Library accolade; 06: Political
+Broadcast - European Parliament webcast; 07: Open Invitation - open
+source project launch; 08: International Access - European
+accessibility project.
+
+Section Two: 'The Inbox' - Readers' Forum.
+09: Higher Education  - screenreader funding; 10: Braille Bosanova -
+music transcription; 11: Blank Spots - silent MSN messenger.
+
+Section Three: Conference Report - Vision 2005.
+12: Doing nothing on equality is no longer an option: Disability Rights
+Commission chairman Bert Massie told delegates at the recent Vision
+2005 conference that new laws mean public sector bodies will have to
+actively promote equal rights. Mel Poluck reports.
+
+Section Four: Interview - Rob Haverty.
+13: Tying Down Longhorn: Derek Parkinson talks to Rob Haverty,
+accessibility supremo at Microsoft, about useful features to look out for
+in the new version of Windows expected next year.
+
+[Contents ends].
+
+
+++Special Notice:
+- E-Government for All: Planning for Accessibility
+- 25 May, Urbis Conference Centre, Manchester
+http://headstar-events.com/accessibility/.
+
+With the Disability Discrimination Act in full force there is a legal as
+well as a moral imperative for all e-government services to be
+accessible to all users. Our sister publication E-Government Bulletin
+presents a seminar where experts in the field will provide guidance on
+creating accessible e-government services that need not be costly to
+produce. Speakers include Shuna Kennedy, Chief Executive,
+AbilityNet; Jenny van Tinteren, Head of Accessibility Solutions, Job
+Centre Plus; Paul Blenkhorn, Professor of Assistive Technology,
+University of Manchester; and Jackie Driver, Service Improvement and
+Inclusion Team, Manchester City Council. The event is sponsored by
+Browsealoud. For more see:
+http://headstar-events.com/accessibility/ .
+
+[Special Notice ends].
+
+
+++Section One: News.
+
++01: Dolphin 'Pen' Allows PC Users To Carry Settings With Them.
+
+Users of computer accessibility products from Dolphin Computer
+Access will be able to load their preferred settings for screen readers
+and magnifiers onto any PC using a new memory 'pen' device which
+launches this month (http://fastlink.headstar.com/pendrive1).
+
+The Dolphin Pen is similar in appearance to memory sticks commonly
+used to store content or applications, and plugs into a computer's
+Universal Serial Bus (USB) port.
+
+The company claims this is a first in the world of access technology.
+"I'm not aware of anyone else in the world who has done this. I expect
+others will follow," marketing manager Steve Hawkes told E-Access
+Bulletin.
+
+According to Hawkes, the Dolphin Pen could save users a great deal of
+time and effort. "Currently, if a person wants to use a PC in a library,
+for example, they will often find that the magnification or speech
+output isn't right for them. It could take up to half an hour to configure
+it for their needs," he said.
+
+To ensure full compatibility with the stick, computers need to
+download Dolphin's Interceptor software, which is available free on the
+web (http://fastlink.headstar.com/dolphin1). The Dolphin Pen works
+with the company's Supernova, Hal, LunarPlus and Lunar
+screenreader, magnifier and Braille products.
+
+
++02: New Apple Operating System Has Built-In Screen-Reader.
+
+Apple computer users can access email, web sites, and word
+processing using a built-in text-to-speech translator as part of the new
+version of Apple's OS X operating system codenamed 'Tiger'
+launched last month.
+
+The 'VoiceOver' translator (http://fastlink.headstar.com/tiger1) is
+compatible with the email application 'Tiger Mail 2'; 'Safari', a desktop
+tool for setting up live feeds of news and information; and 'Preview', a
+suite for reading and producing documents in Adobe Portable
+Document Format (PDF).
+
+As well as reading file contents, VoiceOver also provides spoken
+descriptions of keyboard commands, enabling users to navigate and
+interact with application and system controls. According to Apple, the
+system provides easy access to buttons, sliders, and check boxes, for
+example.
+
+The technology is designed to start up right away, giving new users the
+ability to begin using the products without help from a sighted person.
+VoiceOver is activated by a 'Command-F5' instruction, triggering an
+audible prompt which tells users how to get started, and the names and
+location of keys on the Apple keyboard.
+
+VoiceOver also offers new levels of customisation, providing users
+with the ability to tweak the audio output according to what works best
+for them. For example, a single voice can be assigned for every spoken
+description or unique voices to different types of information, helping
+users distinguish by whether they are listening to content or
+commands; the status, type, or attributes of a file; or the VoiceOver
+menu.
+
+There are a number of ways that the visual display can be adjusted too.
+For example, VoiceOver provides screen magnification options, and
+also includes an on-screen menu and caption panel so sighted users can
+see what users hear. Sighted users can also practice using VoiceOver
+with a feature that temporarily darkens the screen.
+
+Note: For new accessibility features planned for Microsoft Windows,
+see Interview, Section Four, this issue.
+
+
++03: Web Access Guidance Is First Step To British Standard.
+
+The first steps towards the development of a British Standard for web
+accessibility have been taken by the British Standards Institution, with
+the release of a 'Publicly Available Specification' (PAS) for
+consultation.
+
+The guidelines will attempt to remind web developers of the
+importance of web standards; set international web accessibility
+guidelines in a UK context; and clarify areas of confusion such as the
+proper role of automated tools and how and when to involve disabled
+people in site design.
+
+Consultation will be open to government departments, manufacturers
+and industry bodies. The guidelines will then be examined by a
+steering committee comprised of accessibility experts, who can make
+amendments, before publication at the end of the Summer. A final
+review process could see the guidelines qualify to become a fully-
+fledged British Standard in two to three years' time.
+
+The initiative was set in motion by the Disability Rights Commission
+(DRC) after its 2004 report 'The Web: Access and Inclusion for
+Disabled People' found a lack of knowledge in the area and
+shortcomings in current international standards (http://www.drc-
+gb.org/newsroom/newsdetails.asp?id=633&section=1).
+
+The DRC report found, of 1,000 British websites, 81 per cent failed to
+meet basic criteria for conformance to web accessibility guidelines (see
+E-Access Bulletin, Issue 52, April 2004).
+
+
++04: Accessible Quake Developers Seek Testers.
+
+Developers of software allowing vision-impaired players to play the
+mainstream computer game 'Quake,' are seeking volunteer testers
+ahead of its launch.
+
+Audio Quake provides a layer of sound effects to be used in
+conjunction with the celebrated game, in which players control a
+character whose mission is to destroy monsters in various
+environments.
+
+Audio signals such as the sound of gusts of wind rushing around give
+clues to vision-impaired players about what size space they are in for
+example, and bleeping sounds crescendo in speed and volume
+according to players' distance from the enemy.
+
+The software for Audio Quake, which is open source, can be
+downloaded from the site of the Accessible Gaming Rendering
+Independence Possible project (Agrip - http://www.agrip.org.uk). To
+use it, users must first obtain Quake, or a shortened shareware version
+of the game which can also be freely downloaded from the Agrip site.
+
+The next step, say developers Matthew Atkinson, undergraduate at
+Loughborough University and Sabahattin Gucukoglu, accessible games
+developer, is to design a facility to allow vision-impaired players to
+create their own levels.
+
+Players' views will feed into the final version of the multiplayer game
+which is due to be launched at this year's Sight Village exhibition in
+July (http://www.qac.ac.uk/sightvillage/6-1.html).
+
+
+++News in Brief:
+
++05: Web Words: The Royal Borough of Windsor and Maidenhead has
+won the Museums Libraries and Archives' Jodi Mattes Accessibility
+Awards 'Excellence award' for its web site Webwords, which offers
+audio extracts from 500 books and allows users to choose the narrator
+for each title:
+http://www.webwords.org/ .
+
++06: Political Broadcast: The workings of the European Parliament
+including debates by MEPs can now be accessed on the web in free
+monthly half-hour broadcasts. The first broadcast features topics
+ensuing from the recent visit to Europe by George Bush as well as
+interviews with UK-based MEPs:
+http://www.epaudiobook.com .
+
++07: Open Invitation: The Open Source Access Technology Project
+(OSAT) has been launched to boost the development of free or low-
+cost open source access software. The project has started up an email
+discussion list and is open to all regardless of background or technical
+expertise:
+http://fastlink.headstar.com/osat1 .
+
++08: International Access: A European project to investigate ways of
+improving internet accessibility for vision-impaired people has gone
+live. ENABLED, led by Queens University Belfast with 12 other
+organisations, will also focus on wireless networking and mobile
+computing. It has been awarded 3.8 million Euros funding for three
+years:
+http://www.enabledweb.org/ .
+
+[Section One ends].
+
+
+++Sponsored Notice: Open Skies With Traveleyes.
+
+Traveleyes is a revolutionary online service designed to facilitate
+independent world travel for blind and sighted travellers.
+
+Its founder, Amar Latif is blind and is a seasoned traveller with a
+passion for exploration. Amar has just returned from the jungles of
+Central America where he took part in the BBC2 documentary series
+Beyond Boundaries, to be aired in Autumn 2005.
+
+Need a holiday? There are a few places still available on the next
+Traveleyes trip to explore the memorable beauty of the Andalucian
+countryside, accompanied by traditional food and wine. Date: 25 June
+to 2 July. For further information, please contact Traveleyes on 08709
+220 221 or visit:
+http://www.traveleyes.co.uk .
+
+[Sponsored Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to
+inbox@headstar.com .
+
++09: Higher Education: Helen Doherty from the Leeds Centre for
+Integrated Living in the UK writes in response to a query last issue
+from Alan Magson from Age Concern Bradford about possible funding
+for a 93-year-old vision-impaired lady he is training.
+
+"The providers that I am aware of are Keighley Blind Association
+(http://www.keighleyblind.org/) which has IT support and Dewsbury
+College which is well resourced and has well trained staff. [Also]
+'Guide' produced by Software Express
+(http://www.softwareexpress.co.uk) looks as if it would be suitable for
+beginners."
+
+Sue Allard, co-editor of a magazine called Modern-Eyes writes: "I
+have produced a step-by-step guide to using screen readers, magnifiers,
+Supernova, hot keys, basic word processing and basic emailing.
+
+"The guide is designed for anyone who is new to computing or coming
+to computing after becoming vision impaired and having to 'start
+again'. It contains the book in large print, on tape and as text files on a
+disk.  I have to sell the pack as it costs me about 55 pounds to produce.
+This may be of use to your reader."
+
+Ron Sears from Oxford, who helps run Vision Impaired Visually
+Active (VIVA) writes: "Although Jaws is a very expensive screen
+reader, I have recently bought a subscription to the Freedom Box
+(http://www.freedomboxx.info) with system access. This is a very easy
+system costing about 97 dollars [payable each year], it has speech
+access and you can do the same things as you can with a more
+expensive system."
+
+[Responses to inbox@headstar.com please]
+
+
++10: Braille Bosanova: Last issue, Marta Gil, manager of the SACI
+Network, a disability organisation at the University of Sao Paulo in
+Brazil, wrote in asking for advice on software to translate musical
+scores to Braille in Portuguese for a blind student.
+
+Bill McCann, founder of Dancing Dots Braille Music Technology in
+Pennsylvania, US says his company's Goodfeel 2.6 Braille Music
+Translator (http://www.dancingdots.com/democddl.htm) creates
+Braille scores.
+
+"One can scan a printed score, listen to the PC perform the music,
+correct and edit the results and pass them on to Goodfeel which applies
+the rules of Braille music transcription and produces a hard copy or
+electronic Braille score.
+
+"Dancing Dots anticipates release of Goodfeel 3 in Spring 2006. It will
+have many new capabilities including transcription of commercial
+music formats like Sibelius and Finale, a talking score option and
+improved methods to transcribe music theory and method books using
+optional integration with the Duxbury literary Braille translator."
+Multilingual versions are also in development.
+
+Jos Sprenkels from the Netherlands adds: "The Dutch FNB Music
+department in the Netherlands [helps translate music] to Braille or
+Daisy format. For more information please contact them on:
+http://www.fnb.nl ."
+
+[Further responses please to inbox@headstar.com]
+
+
++11: Blank Spots: Sisi Eli from Israel writes: "After upgrading the
+Jaws version on my PC to 6.1, I encountered a problem with MSN
+Messenger. In the conversation window the screen reader goes silent. I
+get no voice or Braille feedback from the messages written by my
+contacts and myself, there's no ticking sound when my contact writes a
+message and there's no 'so and so says.'
+
+"The problem happens with MSN versions 6.2 and 7.0. I bypass the
+problem by using Windows Messenger but I'd rather fix it if possible.
+Does anybody know of a Jaws script for MSN 7? I tried to reinstall the
+script I used before upgrading the Jaws version but it made no
+difference. Maximising the conversation window doesn't help either.
+Any advice will be greatly appreciated."
+
+[Responses please to to inbox@headstar.com]
+
+[Section two ends]
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Two - Conference Report
+- Vision 2005.
+
++12: Doing Nothing On Equality Is No Longer An Option
+by Mel Poluck.
+
+"We want to contribute to society and breaking down barriers in the
+workplace is a good place to start," Disability Rights Commission
+chairman Bert Massie told delegates at last month's international
+conference hosted by the RNIB, Vision 2005
+(http://www.rnib.org.uk/vision2005).
+
+The DRC (http://www.drc-gb.org/) was established by Parliament five
+years ago and represents people with a disability who have suffered
+discriminated in access to employment, education or goods and
+services.
+
+Massie was critical of the current British system for awarding
+subsidised access equipment, including electronic devices, to people
+with a disability according to why they need it - such as with the
+Department for Work and Pensions' 'Access to Work' scheme - rather
+than simply what they need to function.
+
+This meant for example that it would be hard for him to obtain a
+subsidised wheelchair unless he had a job, Massie said.
+
+"Too much of our system is tied to employment," Massie said. "But a
+wheelchair doesn't know if you're in a shop or at work. It should never
+be less expensive to discriminate than not to do so. We need to get
+round to a system [that] gives you the equipment you need: but we're a
+long way from it. In Scandinavia they do it a lot better," he said.
+
+Providing a service that people with a disability need regardless of any
+qualification such as employment ties in with web site accessibility, an
+area in which the DRC are leading the way, Massie said.
+
+Last year's DRC investigation into web site accessibility uncovered a
+massive failure rate: some 80 per cent of the 1,000 pages tested did not
+reach the most basic accessibility standards. But this has inspired an
+ambitious project.
+
+"We are now working with the British Standards Institution with a
+view to new [web site] guidance being issued," Massie said (see story
+03, Section One, this issue).
+
+Coincidentally, Massie was addressing delegates at Vision 2005 on the
+day changes to the Disability Discrimination Act went to the House of
+Commons for debate. The changes resulting from this mean from next
+year it will be unlawful to treat people with a disability less favourably,
+said Massie, and in terms of accessible service provision, the law will
+be extended to cover service provision on board public transport for the
+first time.
+
+Local and central government will not only be obliged not to
+discriminate against people, but to promote equality of disabled people,
+Massie said. "Doing nothing will not be an option."
+
+[Section Three ends].
+
+
+++Special Notice: Braille Translations.
+
+Braille Translations provides a fast, cost-effective, high quality service
+of translating any document into Braille. We are able to provide Braille
+menus, public leaflets and business cards in Braille and help make you
+compliant with the Disability Discrimination Act. We can translate
+from large print, audio tape or audio CD.
+
+We can also help with premises accessibility including Braille Tactile
+Signs for toilets and other doors.
+
+All work is proof-read before dispatch and we are able to provide an
+express 24-hour service. Please call our offices for an immediate
+quotation or for further information on Freephone number 08000 190
+946; Mobile: 07903 996533; email ghow@brailletranslations.co.uk or
+see:
+http://www.brailletranslations.co.uk .
+
+[Special notice ends].
+
+
+++Section Four: Interview
+- Rob Haverty.
+
++13: Tying Down Longhorn
+by Derek Parkinson.
+
+The planned 2006 release for the next version of Windows, codenamed
+'Longhorn', will affect enormous numbers of computer owners. But
+for people with disabilities, it is of particular interest - a chance for
+Microsoft to build in some new accessibility features to the world's
+leading operating system which will make their life easier and shift the
+accessibility agenda further into the mainstream.
+
+Rob Haverty of Microsoft's Accessible Technology Group
+(http://www.microsoft.com/enable/) was in Europe last month to
+promote this agenda, and he met E-Access Bulletin to explain more.
+
+Formerly focused on product development, Haverty is now responsible
+for promoting the accessibility agenda within Microsoft. In this
+capacity he is also tasked with building links with assistive technology
+developers and other relevant interest groups.
+
+Taking the user's perspective has always been a feature of his work, he
+says. "Before I moved into accessibility I worked in software test
+engineering, so I've always been focused on the needs of the user," he
+says. A major reason for Haverty's visit to Europe was to meet with
+Microsoft's research teams here, and help co-ordinate the company's
+response to new EU legislation.
+
+"In the US, [the anti-discrimination law] Section 508 gave a strong
+focus to our work on accessibility, and we're now seeing similar
+legislation coming into effect here. Our strategy must take account of
+European legislation," he says. Another driving force is the much-
+discussed aging population issue, seen across the industrialised world.
+"A study carried out in 2003 showed that of adults aged between 18
+and 64 in the US, 17 per cent were very likely to benefit from
+accessible technology, and 40 per cent were likely to benefit," he says.
+All of which means that accessibility is high on the Microsoft agenda.
+
+So does that mean that Longhorn will boast the kind of text to speech
+facilities found in 'Tiger', the latest Apple operating system (see story
+02, this issue)? The short answer is no, because it doesn't fit the
+Microsoft strategy, Haverty says. The company is keen to draw a
+distinction between areas where specialist assistive technology
+developers can make their contribution, and developing products with
+a degree of accessibility built in. "If Microsoft decided to move into
+assistive technology many of these specialist developers would go out
+of business quite quickly, and we don't want to do that," he says.
+
+So Longhorn will include a text to speech engine similar to that found
+in Narrator, the product currently integrated into XP, he says.
+Compared with screen readers such as Jaws, Narrator can seem quite
+basic, but Haverty warns against simple comparisons. "It's unhelpful to
+think of Narrator as a screen reader, it can create confusion," he says.
+Microsoft is keen to see accessibility in a wider context. "We're
+moving away from thinking about accessibility as a niche thing
+towards making computers easier to use generally," he says.
+
+Along with the text-to-speech engine found in Narrator, Longhorn will
+also inherit the magnification, on-screen keyboard and sticky key
+functionality found in Windows XP. So far, so familiar, but where
+Longhorn will differ is in the way it learns about user preferences, and
+in the tools available to assistive technology developers. There will be
+less need to dig through layers of menus to change settings, says
+Haverty. Instead, new users will be prompted to tell Longhorn
+something about themselves when they first use the machine, and the
+system will track user behaviour afterwards, suggesting options when
+appropriate.
+
+But the most important development with Longhorn will undoubtedly
+be its interface for developers, containing the "hooks" needed to link
+text and rich media output with devices such as screen readers. The old
+interface, Microsoft Active Accessibility (MAA) proved difficult to
+use for many developers, and is to be scrapped. In its place will come
+User Interface (UI) automation. This aims to provide a clear and
+consistent route for developers to access information such as where a
+button is located on a screen, what text is displayed with it, and what
+the button does, for example. User controls and displays such as these
+are stored as objects and properties, all linked together in a single tree
+structure.
+
+According to Haverty, the new UI tools should provide developers
+with easier access and more power to tailor interactions to the needs of
+users. "Our concern is that in the past, assistive technology vendors
+spent too much time trying to find the information they need rather
+than on developing products. We hope Longhorn will change that."
+
+[Section Four ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2005 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the bulletin may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++Personnel:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+Technician - Nick Apostolidis
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

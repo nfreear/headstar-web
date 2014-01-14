@@ -1,0 +1,483 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 123, March 2010.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end).
+
+++Issue 123 Contents.
+
+01: Exclusive: EU Set To Ditch Rules On Accessible Goods.
+- UK one of majority to back watered-down Equal Treatment
+Directive.
+
+02: Praise for Councils' Web Accessibility Progress
+- "Astonishing" increase shown in report.
+
+03: Technology Trust To Launch Online Hub For Social Good
+- Network aimed at sharing learning from social IT projects.
+
+News in Brief: 04: Mixed Messages - on accessibility from
+Australian Government; 05: Free Surf - web learning days; 06:
+Portable Talk - mobile DAISY book device.
+
+Section Two: Special Report - Council Websites.
+07: Better Than They Seem? The latest annual review of every
+UK local authority website -Better Connected 2010 from the
+Society of IT Management (Socitm) - seems to show that the
+majority of council websites are still not fully accessible to
+those with disabilities. However, a look behind the quantative
+standards reveals a significant rise in levels of 'functional'
+accessibility, reports Tristan Parker.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Exclusive: EU Set To Ditch Rules On Accessible Goods.
+
+The European Union looks set to backtrack on proposed
+legislation that would have required accessibility to disabled
+people of all manufactured consumer goods, from digital
+televisions to washing machines, E-Access Bulletin has
+learned.
+
+A Brussels meeting this week is expected to confirm changes to
+the draft Equal Treatment Directive (ETD), first proposed by
+the European Commission in 2008 to ban discrimination in
+access to goods and services, as set out in its full title: Proposal
+for a Council Directive on implementing the principle of equal
+treatment between persons irrespective of religion or belief,
+disability, age or sexual orientation
+( http://bit.ly/9IFqXc ).
+
+In its original form, the directive would have required that all
+devices should be accessible, and for example could not be
+controlled solely by touch-screen controls or visual displays
+inaccessible to blind people.
+
+Since 2008, however, member states have amended the text to
+remove any specific requirement. Article 4, point 3 in the latest
+set of amendments (available in pdf only at http://bit.ly/anrdqs
+) says:"This Directive shall not apply to the design and
+manufacture of goods". The new version says simply that
+member states should take into account "measures to ensure
+accessibility for persons with disabilities . [and] promote the
+research and development of universally designed goods,
+promote their availability and use, and promote universal
+design in the development of standards and guidelines."
+However, details of what forms such action should take are not
+specified.
+
+The new version to be discussed in Brussels is supported by a
+majority of EU member states including the UK. A small
+number of states, including Austria, have spoken out against
+the reduced proposals however, and for the directive to
+become law, unanimous agreement will have to be reached.
+
+Carine Marzin, European campaigns officer at the Royal
+National Institute of Blind People (RNIB), told E-Access
+Bulletin that continued reliance on the goodwill of
+manufacturers to deliver accessible manufactured goods to the
+market will not solve the problem. "In practice, nothing will
+change if member states are not willing to address this issue
+through legislation," Marzin said. "This is a unique opportunity
+to end the discrimination that many disabled people experience
+when trying to access goods, an opportunity that we can't
+afford to miss."
+
+For its part, the European Blind Union (EBU) says failure to
+implement the accessibility proposals as originally drafted
+could jeopardise trade with areas outside of Europe which may
+have more stringent rules in place (see EBU response in
+Microsoft Word format at:
+http://bit.ly/bowvGU ).
+In the US, for example, a proposed law aims to force
+manufacturers to create accessible consumer technology
+products (see E-Access Bulletin, issue 122 -
+http://bit.ly/cRZVrs ).
+
+A joint campaign to oppose the UK's position on the ETD has
+now been launched by a group of UK disability charities:
+http://bit.ly/d1EP2R ).
+
+And you can comment on this story now, on EAB Live:
+http://bit.ly/aKG4es
+
+
++02: Praise for Councils' Web Accessibility Progress.
+
+UK local authority websites are "much more accessible now
+than they've ever been", according to one specialist who
+worked on the recent 'Better Connected 2010' review of every
+local authority website in the UK conducted by the Society of
+IT Management (Socitm) (
+http://bit.ly/dltkU5 ).
+
+Bim Egan, senior web access consultant at the Royal National
+Institute of Blind People (RNIB), told E-Access Bulletin the
+difference between council websites' accessibility this year
+compared with 2009 is "astonishing". "A much bigger
+proportion of [councils] are getting the message and are putting
+processes in place to make their websites a lot more
+accessible", she said.
+
+Egan's comments come despite the fact fewer local authority
+websites achieved formal compliance this year with Level A of
+the international Web Content Accessibility Guidelines, version
+one (WCAG 1.0) - 32 compared to 36 in 2009. However, the
+RNIB ran its own additional assessment of "functional
+accessibility" which rated 187 councils (43%) as either
+'satisfactory' or 'excellent' compared with only 136 councils
+(33%) achieving the same levels last year.
+
+Despite the progress, Egan said that over-reliance on PDFs
+(files in Adobe portable document format), which are often
+inaccessible to screen-readers and other forms of assistive
+technology, is still a significant accessibility problem for local
+authority sites.
+
+"It wouldn't matter as much if so many councils didn't rely so
+heavily on PDF format, but ... if it's not accessible, there could
+be situations where people can't even find out what their
+council tax is," Egan said.
+
+For a full breakdown of the accessibility results of Better
+Connected 2010 see section three, this issue.
+
+And you can comment on this story now, on EAB Live:
+http://bit.ly/9N5KGG
+
+
++03: Technology Trust To Launch Online Hub For Social
+Good.
+
+A new online knowledge centre for organisations working in
+the field of technology and social good is to be launched in
+June by the charity Nominet Trust, E-Access Bulletin has
+learned.
+
+The trust (
+http://bit.ly/aXFbxD ),
+the UK's largest charitable fund for social IT projects, was set
+up with £8 million from the UK's internet domain name
+registry Nominet to fund UK-based and international internet-
+related initiatives in the sectors of education, research and
+development, safety and inclusion meeting the needs of the
+young, the elderly, the disabled and sick, the disadvantaged,
+and other vulnerable groups.
+
+Its new online network, set to launch in June, will include a
+monitoring centre tracking all its investments and allowing
+funded bodies to submit quarterly reports online; and a
+'knowledge centre' allowing groups to network. It aims to
+become the biggest hub for best practice sharing in its fields of
+funding, trust chairman Jonathan Welfare told E-Access
+Bulletin at last week's Digital Inclusion conference in London (
+http://bit.ly/aFvYk7 ).
+
+Nominet Trust has been investing since February 2009 with 36
+grants made to date, totalling £1.9m. Its smallest grant so far
+has been £1,000 to a primary school in Derbyshire to help
+produce a pamphlet on the potential dangers of the internet
+designed by its pupils and disseminated to other schools
+throughout the county by the education authority; and the
+largest has been £0.5 million to the charity UnLtd ('unlimited')
+( http://bit.ly/cKD3Qy ) which in turn funds smaller social IT
+projects across the UK.
+
+One of the trust's first grants in April 2009 was made to the
+British Computer Association of the Blind (BCAB), to fund
+remote technical support people with impaired vision. Other
+funded groups include Screenreader.net, creator of free text-to-
+speech software 'Thunder'; ACE Centre Advisory Trust, for
+SpeechBubble, a comparison web site for disability
+communications aids; AbilityNet, for a project supporting
+accessible digital educational materials; and Citizens Online,
+for a project logging and fixing website accessibility problems.
+
+Any group can apply for a grant at any time, with new funding
+decisions made quarterly.
+
+And you can comment on this story now, on EAB Live:
+http://bit.ly/beZNon
+
+
+++News in Brief:
+
++04: Mixed Messages: Australian government websites will be
+required, by 2015, to conform to the latest version of the
+international World Wide Web Consortium's (W3C) Web
+Content Accessibility Guidelines, WCAG 2.0, the country's
+Parliamentary Secretary for Disabilities has announced:
+http://bit.ly/cTUNu7
+However, the decision will not receive legal backing unless
+supported by the Australian Human Rights Commission.
+Additionally, IT consultant Tom Worthington notes on his blog
+that the web page publicising the announcement itself fails to
+comply with basic accessibility standards:
+http://bit.ly/bwYWQU
+
++05: Free Surf: Making a Google search and accessing the
+British Museum's website are some of the internet skills being
+taught to blind and visually impaired people at a series of 50
+free 'web learning days' taking place around the country over
+the next four months. Organised by charity Screenreader.net
+with a £70,000 government grant, the sessions will use the free
+Thunder screen-reader software to demonstrate how computer
+users with impaired vision can surf the internet:
+http://bit.ly/cJipz4
+
++06: Portable Talk: Talking books in DAISY (Digital
+Accessible Information System) format can now be transferred
+directly from CD to a portable device, without the need for a
+computer. The Victor Reader Stream CD Edition, developed by
+HumanWare, allows visually impaired and blind users to copy
+talking books and other audio onto the device for mobile
+access using a single button:
+http://bit.ly/a2NZTC
+
+[Section One ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: Special Report
+- Council Websites.
+
++07: Better Than They Seem?
+by Tristan Parker.
+
+At first glance, the accessibility results of this year's Society of
+IT Management (Socitm) 'Better Connected' review of all UK
+council websites ( http://bit.ly/dltkU5 ) would suggest that
+online access to local government for disabled computer users
+and others using assistive technology is still not a priority.
+
+This year, for example, fewer local authorities achieved level
+'A' of the international Web Content Accessibility Guidelines,
+version one (WCAG 1.0 http://bit.ly/cmbc4g ) than last year -
+32 compared with 36 - and for the second year running, no
+council achieved the more stringent level 'AA'.
+
+But appearances can be deceptive, and these figures do not tell
+the whole picture, according to Bim Egan, senior web access
+consultant at the Royal National Institute of Blind People
+(RNIB: http://bit.ly/a5Jz3i ).
+
+Egan, who carried out assessments for the Better Connected
+report, told E-Access Bulletin that websites which failed to
+achieve even the basic WCAG level 'A' standard, are not
+necessarily completely inaccessible to people with disabilities.
+
+WCAG is, by and large, a quantative assessment of various
+aspects of a site, whereas for the second year running, the
+RNIB also carried out additional qualitative assessments on
+council websites to achieve a wider picture of online
+accessibility. These checked for 'outcome' factors such as
+"whether or not users could navigate, use and communicate
+with the site relatively easily if they had assistive technology
+needs or special needs", Egan says.
+
+These tests used their own 0-3 rating system, with 0
+representing a frequent absence of accessibility and 3
+representing a site that was functionally fully accessible. Based
+on this system, 187 councils (43%) were rated by RNIB as
+satisfactory or excellent, compared with 136 councils (33%)
+last year.
+
+This seems encouraging, but why is this not reflected in the
+WCAG 1.0-based system? "We never believed that conformity
+tests were a real measure of accessibility", said Egan. "It's not
+just what you do, it's how you do it, and conformity tests
+basically check for things like headings being used, and not
+how good [the websites] are."
+
+Overall the findings suggest that council websites have
+improved their functional accessibility, says Egan, while
+sometimes embracing new technologies and techniques in such
+a way that conformity levels with standards have dropped.
+
+So what are these new techniques that have hampered
+conformance to standards?
+
+Not for the first time, JavaScript - a common programming
+language used in website pages - is one culprit. The use of
+JavaScript often leads to increased difficulty in navigating a
+webpage when using assistive technology or a keyboard, for
+example providing 'hidden' content that may not be picked up
+by some assistive technologies. Although JavaScript can
+sometimes actually be used to increase accessibility - by
+providing additional information to the user, for example - by
+and large, it is a recurring problem for accessibility
+conformance.
+
+"The main thing that affects conformity testing for WCAG 1.0
+is that a lot more sites are putting in a lot more functionality,
+and a lot of that functionality is reliant on JavaScript," says
+Egan. "If we hadn't had JavaScript to check, we would have
+seen quite a considerable improvement in Level A
+conformance."
+
+Egan also warns that should the Better Connected website
+review team adopt WCAG version 2.0 (the latest version of the
+guidelines) for its assessments next year, further changes will
+need to be made to ensure that basic standards are met. "If
+we're looking at WCAG 2.0, the message is that councils are
+going to regret putting so much information into PDFs", she
+says.
+
+PDFs (files in the Adobe 'portable document format', used
+widely by local councils and other public bodies) are often not
+fully accessible for screen-readers and other assistive
+technologies. There are ways of creating accessible PDFs using
+new versions of the format that can provide text tags for
+pictures, for example, but councils still tend to use the older
+inaccessible versions.
+
+"It wouldn't matter as much if so many councils didn't rely so
+heavily on PDF format," says Egan, "but ...if [the PDF is] not
+accessible, there could be situations where people can't even
+find out what their council tax is."
+
+Despite these concerns, Egan is keen to emphasise the increase
+in accessibility demonstrated by the RNIB's qualitative
+assessments. "This is my fifth year of working on Better
+Connected and the difference is astonishing. Council websites
+are much more accessible now than they've ever been," she
+says.
+
+Perhaps surprisingly, Egan also believes that stronger legislation
+is not the best way to achieve further improvements, preferring
+instead to champion those that are succeeding and encourage
+them to lead by example. "I don't think more legislation is
+going to do it" she says. "We've had some pretty horrendous
+threats, like losing the '.gov.uk' domain, and I don't know
+what else can be done to encourage sites to become more
+accessible other than showing by example and rewarding and
+applauding the ones who do it right. Let's give more airtime to
+them, so that the people who've got it wrong and their councils
+are forced to do something about it."
+
+She urged those who have not achieved good accessibility
+ratings of any kind so far to rise to the challenge. "Those
+websites who've not achieved WCAG 1.0 or got a rating of 1
+or 2 on our own [RNIB] rating system should not feel
+discouraged - I'd prefer that they felt challenged", says Egan.
+"Accessibility isn't where you're at, it's the road you're
+following."
+
+And you can comment on this story now, on EAB Live:
+http://bit.ly/aQQNiy
+
+[Section Two ends].
+
+
+++Special Notice: Fortune Cookie
+- Web Sites That Really Work.
+
+Fortune Cookie's dedicated web accessibility team makes sure
+that everyone finds the web sites we design easy to use. As
+well as being accessible, Fortune Cookie sites are beautiful and
+deliver stunning return-on-investment. They're award-winning
+too. In 2007, our work was nominated for major web design
+awards 11 times.
+
+Legal & General, Kuoni, Diabetes UK, FT Business - just some
+of the big name brands on Fortune Cookie's client list.
+
+Every business can benefit from making its web site more
+accessible. If you'd like to know what accessibility can do for
+your business, talk to Fortune Cookie.
+
+Visit our web site at:
+http://www.fortunecookie.co.uk
+
+Julie Howell is our Director of Accessibility. Email Julie at:
+Julie.Howell@fortunecookie.co.uk .
+
+[Special notice ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you'll find discussion of
+accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you're looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2009 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor - Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 123 ends.]

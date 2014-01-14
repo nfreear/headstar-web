@@ -1,0 +1,57 @@
+__ BUILD [tens2html.pl  v1.14] log Mon Dec  4 14:14:23 2006 __
+
+Input file: ../eab/issues/2006/sep2006.txt
+
+Warning: file already exists: ../eab/issues/2006/sep2006.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: sep | index: 9 | year: 2006
+URLs, prev: ../2006/aug2006.html | next: ../2006/oct2006.html
+Found ++, heading 2: Issue 81 Contents.
+>> FOUND 2:  | 01:  | RNIB Addresses Software Accessibility Gap
+>> FOUND 2:  | 02:  | Win For Campaigners In Massachusetts
+>> FOUND 2:  | 03:  | Councils To Launch Talkative Robots.
+>> FOUND 2:  | 04:  | Path Cleared For Wearable Navigational Device
+>> FOUND 2: News in Brief:  | 05:  | Moving News - RSS feeds for mobiles; 06: Show
+OK, News in brief
+Found: Moving News - RSS feeds for mobiles | ; |  06: Show
+>> FOUND 2: Support - online radio show petition;  | 07:  | Description Expansion -
+Found: Support - online radio show petition;  | 07:  | Description Expansion -
+>> FOUND 2: more cinemas to have audio description capability;  | 08:  | Price Error -
+Found: more cinemas to have audio description capability;  | 08:  | Price Error -
+>> FOUND 2:  | 09:  | Reader Questions - screen reader feedback request; 10: Locked
+>> FOUND 2:  | 12:  | Lessons Learned In Strathclyde And Malawi. The assistive
+>> FOUND 2:  | 13:  | All Change!: Providing working people with subsidised access to
+Warning line 60: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Sponsored Notice: BT's BSL Guide
+> ITEM 2:  01:  | RNIB Addresses Software Accessibility Gap
+Found 'contents' match: 0.
+> ITEM 2:  02:  | Win For Campaigners In Massachusetts
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Councils To Launch Talkative Robots
+Found 'contents' match: 2.
+> ITEM 2:  04:  | Path Cleared For Wearable Navigational Device
+Found 'contents' match: 3.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  A free pilot of a text-to-speech Really Simple
+> ITEM 1:  06:  | : |  Over 1,200 people have signed an online petition
+> ITEM 1:  07:  | : |  Some 240 screens at 200 cinemas will use
+> ITEM 1:  08:  | : |  In the last issue of the bulletin in story 04 on the
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 280.
+> ITEM 1:  09:  | : |  "The
+> ITEM 1:  10:  | : |  Asim Rauf from Islamabad in Pakistan writes in
+> ITEM 1:  11:  | : |  DPM Weerakkody, Professor of Western Classics
+Found ++, heading 2: Special Notice: 'e-Access '06' - Technology For All.
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  12:  | Lessons Learned In Strathclyde And Malawi
+Warning: not found a 'contents' match: Lessons Learned In Strathclyde And Malawiby Derek Parkinson
+Found ++, heading 2: Section Two: Opinion
+> ITEM 2:  13:  | All Change!
+Warning: not found a 'contents' match: All Change!By Kevin Carey
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 1.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 536.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 542.

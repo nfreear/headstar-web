@@ -1,0 +1,57 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:06 2004 __
+
+Input file: ../eab/issues/2003/jan2003.txt
+
+Warning: file already exists: ../eab/issues/2003/jan2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: jan | index: 1 | year: 2003
+URLs, prev: ../2002/dec2002.html | next: ../2003/feb2003.html
+Found ++, heading 2: ISSUE 37 CONTENTS.
+>> FOUND 2:  | 01:  | EU expansion threatens anti-discrimination law
+>> FOUND 2:  | 02:  | Mass communications protest set for February
+>> FOUND 2:  | 03:  | Effectiveness doubts over e-government champion
+>> FOUND 2:  | 04:  | First graduates from access training course
+>> FOUND 2:  | 05:  | Writing competition winners online
+>> FOUND 1: News in brief:  |  06: Link up - sight loss quarterly; 07: ITCH awareness
+>> FOUND 2:  | 09:  | Shared vision - on information points; 10: Transatlantic viewing -
+>> FOUND 2: accessible TV nation?;  | 11:  | Job club - help needed; 12: Spanish
+OK, News in brief
+Found: Job club - help needed | ; |  12: Spanish
+Warning line 63: expected [Contents ends].
+$toc_count=14
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | EU EXPANSION THREATENS ANTI-DISCRIMINATION
+Warning: not found a 'contents' match: Eu Expansion Threatens Anti-Discriminationlaw.
+> ITEM 2:  02:  | MASS COMMUNICATIONS PROTEST SET FOR
+Warning: not found a 'contents' match: Mass Communications Protest Set Forfebruary.
+> ITEM 2:  03:  | EFFECTIVENESS DOUBTS OVER E-GOVERNMENT
+Warning: not found a 'contents' match: Effectiveness Doubts Over E-Governmentchampion.
+> ITEM 2:  04:  | FIRST GRADUATES FROM ACCESS TRAINING COURSE.
+Found 'contents' match: 3.
+> ITEM 2:  05:  | WRITING COMPETITION WINNERS ONLINE.
+Found 'contents' match: 4.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  06:  | : |  'Link Line' is a free quarterly magazine for people with
+> ITEM 1:  07:  | : |  The ITCH Network is the new name for
+> ITEM 1:  08:  | : |  A new graphic 'distortion puzzle' technique that
+Found ++, heading 2: SPONSORED NOTICE: CREATING OPPORTUNITIES FOR
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  09:  | : |  Last issue Mary Gwynne of Swansea Council
+> ITEM 1:  10:  | : |  Jerry Weichbrodt of Livonia,
+> ITEM 1:  11:  | : |  Ellen Bedford of Bridgeport, Connecticut says she
+> ITEM 1:  12:  | : |  A sixth-form level maths teacher from
+Found ++, heading 2: SPONSORED NOTICE: 'CSUN' 2003 INTERNATIONAL CONFERENCE.
+Found ++, heading 2: 13: SECTION THREE: FOCUS
+Warning: not title-casing possible HTML:
+  A COMPLEX WEB OF SUPPORTby Phil Cain  <a href="mailto:phil@headstar.com">phil@headstar.com</a> .
+Warning: not found a 'contents' match: A COMPLEX WEB OF SUPPORTby Phil Cain  <a href="mailto:phil@headstar.com">phil@headstar.com</a> .
+Found ++, heading 2: 14: SECTION FOUR: TECHNOLOGY
+Warning: not title-casing possible HTML:
+  RETURN TO THE BAD OLD DAYSby Dan Jellinek  <a href="mailto:dan@headstar.com">dan@headstar.com</a> .
+Warning: not found a 'contents' match: RETURN TO THE BAD OLD DAYSby Dan Jellinek  <a href="mailto:dan@headstar.com">dan@headstar.com</a> .
+Found ++, heading 2: 15: SECTION FIVE: VIEWPOINT
+Warning: not title-casing possible HTML:
+  SEEKING OUT THE COMMON GROUNDby Kevin Carey  <a href="mailto:humanity@atlas.org.uk">humanity@atlas.org.uk</a> .
+Warning: not found a 'contents' match: SEEKING OUT THE COMMON GROUNDby Kevin Carey  <a href="mailto:humanity@atlas.org.uk">humanity@atlas.org.uk</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin

@@ -1,0 +1,561 @@
++++E-ACCESS BULLETIN.
+- ISSUE 44, AUGUST 2003.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard. For details see:
+http://www.headstar.com/ten .
+
+
+++CORRECTION: JULY ISSUE.
+
+In our July issue we ran a story, 'Secret action could trigger wave of
+cases,' about legal action over inaccessible web sites. In this piece an
+editing error led us to state that the Disability Rights Commission was
+involved in this action. In fact, the action is being taken by individuals
+supported by the RNIB alone, and we would like to apologise to the
+commission for this error.
+
+[Correction ends].
+
+
+++ISSUE 44 CONTENTS.
+
+01: Assistive technology users 'poorly served'
+- interim findings of major investigation
+
+02: Accessible procurement plans on hold
+- software guidelines await support.
+
+03: Colleges slow to take up free software offer
+- only a third use new LIFT licence.
+
+04: Mobile showdown set for autumn.
+- new offerings for talking phones.
+
+News in brief: 05: New arenas - online forums; 06: Maths myths -
+email group; 07: 20/20 vision - October teachers' conference.
+
+Section two: 'The Inbox' - Readers' forum.
+08: Radio signals - internet stations; 09: Spanish lessons - audio and
+Braille resources; 10: Suite success - Shropshire project.
+
+Section three: Research - web access.
+11: Speak no evil: As testing by a 50-strong group of disabled users
+continues, Mel Poluck finds out what the UK's largest study into web
+accessibility has discovered so far.
+
+Section four: Opinion - e-equality.
+12: Building a dream. Will the Disability Discrimination Act help to
+create an 'internet playground' where all visitors are equal, or will
+the
+accessible e-revolution remain a paradisiacal fantasy? Andres Crespo
+has a dream.
+
+[Contents ends].
+
+
+++SECTION ONE: NEWS.
+
++01: ASSISTIVE TECHNOLOGY USERS 'POORLY SERVED'.
+
+Many assistive technology products for people with vision impairment,
+such as screen-readers, are unreliable and do not serve their users
+well, the leader of the UK's largest ever web site accessibility
+investigation said last week.
+
+Helen Petrie, professor of human computer interaction at City
+University London, is heading the major web research project on
+behalf of the Disability Rights Commission, managing a team of testers
+using a range of assistive products. "I was very struck by how poorly
+served people are by their assistive technology," she said at a
+progress briefing.
+
+Assistive technology products are also often too complicated for users'
+needs, and cause computers to crash too often, Petrie said. "They are
+not as stable as one would hope."
+
+Vision impaired testers have found filling in online forms using a
+screen reader particularly tough, she said. "Too much concentration is
+going on their assistive technology and not on the task they are trying
+to do."
+
+At focus group meetings held as part of the research programmes, a
+long discussion was held about the problems brought about by assistive
+technologies, Petrie said. She said she was "shocked" by the responses
+when users were asked how the technologies were working.
+
+"I think we'll make recommendations for people that work with
+assistive technology to make a range of systems ranging from simple to
+complex for people to access the web," Petrie said.
+
+Project manager Steven Beesley, from the DRC, said he would be
+happy to put pressure on assistive technology providers to improve
+their products. Full findings of the research will be published at the
+end of the year.
+
+NOTE: For a full report on the progress briefing see section three,
+this issue: 'Speak no evil'.
+
+
++02: ACCESSIBLE PROCUREMENT PLANS ON HOLD.
+
+An attempt to develop disability-friendly software development rules
+for all large organisations could be stymied unless the RNIB finds a
+partner willing to take it beyond the concept phase, E-Access Bulletin
+has learned.
+
+Most large organisations commission the development of significant
+amounts of new or tailored software to assist aspects of their work or
+internal efficiency. The charity wants to ensure as much as possible of
+such activity is accessible by developing a standard policy which any
+organisation could adapt.
+
+It will start by looking at its own software procurement practice, but
+is keen to sign up a partner to help develop the policy and ensure it is
+widely applicable.
+
+"We need a large government department or a large employer," says
+the project's manager Ruth Loebl. "If partnerships are not formed,
+there will be a risk that many organisations create their own
+guidelines
+independently, which will mean that software developers will have to
+apply different criteria for different customers. This can only devalue
+the issues, and increase the cost of software. The seeming inability of
+customers to agree on what comprises accessibility would surely
+undermine the principles we are trying to promote."
+
+However Loebl said that so far, only verbal support has been gained
+from three potential partners: the Department for Work and Pensions,
+the Office of the e-Envoy, and the Employers Forum
+(http://www.employers-forum.co.uk). Other organisations that might
+make good potential partners include the BBC and high street financial
+institutions, she said.
+
+The RNIB's thinking about software procurement is set out in an
+unpublished paper seen by E-Access Bulletin which suggests that
+accessibility rules should come in two parts: a concise set of legal
+standards and a lengthier code of practice. Failure to incorporate
+accessibility into procurement is likely to breach the Disability
+Discrimination Act, it warns.
+
+The RNIB drew on three existing resources in drawing up its
+proposals, a checklist for accessible software drawn up by IBM
+(http://fastlink.headstar.com/ibm1); section 508 of the US
+Rehabilitation Act (http://www.section508.gov); and the Irish National
+Disability Authority guidelines
+(http://www.accessit.nda.ie/guidelineindex_4.html). To ensure the
+policy is sensitive to the broadest range of disabilities the paper has
+been sent to the charities Mencap, Scope, the RNID, the British
+Dyslexic Association, and AbilityNet for comment.
+
+
++03: COLLEGES SLOW TO TAKE UP FREE SOFTWARE OFFER.
+
+Only a third of UK colleges and universities have taken up an offer of
+free software to test the accessibility of their websites, according to
+EduServ (http://www.eduserv.ac.uk), the national education
+technology charity which has launched the new scheme.
+
+Under a bulk licensing agreement negotiated by EduServ, all 750 UK
+colleges and universities have been granted free use of the 'LIFT'
+series of accessibility products developed by US firm UsableNet (see
+http://www.usablenet.com/products_services). The products help
+designers and publishers make the content and navigation features of
+their web sites more accessible to people with visual impairments.
+
+Under the scheme institutions may use versions of LIFT which work
+with the web site development software packages Dreamweaver and
+FrontPage, or LIFT Online
+(http://www.usablenet.com/frontend/demoform.jsp). Each institution
+will pay a preferential rate for use of more than one product, and
+could save up to 8,000 pounds each on licence fees, which would add up to
+millions of pounds in all.
+
+"So far, around 200 licences have been taken up, and we're anxious for
+more people to take up this opportunity," said Stephen Butcher of
+EduServ. "We ran several workshops before the summer break and it
+appears there is great variation in awareness of this issue."
+
+There is increased pressure on colleges and universities to improve the
+accessibility of their web sites because the Special Educational Needs
+and Disability Act (SENDA - http://fastlink.headstar.com/senda1)
+comes into force this autumn, setting new standards for study aids.
+
+A good response to the LIFT initiative could mean that other tester
+products are included in the EduServ scheme. According to recent
+research it is advisable to test web sites using a combination of
+products, rather than relying on a single solution such as LIFT (see E-
+Access Bulletin, issue 42, June 2003).
+
+
++04: MOBILE SPEECH SHOWDOWN SET FOR AUTUMN.
+
+This autumn the two main contenders in the field of mobile phone
+speech software - Mobile Accessibility and TALKS - will step up their
+competition with new products for a wider range of phones and
+portable digital assistants (PDAs).
+
+The Spanish-developed software Mobile Accessibility
+(http://www.mobileaccessibility.com) currently runs on Nokia phones
+using the Symbian series 60 operating system. The application -
+developed by the firm Code Factory in partnership with the Spanish
+national blindness charity ONCE - allows various features of the phone
+to be spoken aloud including text messages, a contact book, alarms and
+a battery and signal strength monitor.
+
+This autumn Mobile Accessibility is set to expand to four other
+platforms including the SPV smartphone which uses Microsoft
+Windows.
+
+Meanwhile the German system TALKS (formerly TALX - see
+http://www.talx.de/index_e.htm) - came to the UK in January when
+Vodafone UK and the RNIB launched a 'speaking phone' based on the
+Nokia 9210i Communicator - a mobile phone/PDA hybrid (see E-
+Access Bulletin, issue 36, December 2002). TALKS is a screen-reader
+which allows speech output of everything shown on the display of a
+mobile device.
+
+TALKS is set to take on Mobile Accessibility directly in September
+when it releases a screen-reader for phones which use the Symbian
+series 60 operating system. According to a TALKS spokesperson the
+new system will cost around 150 pounds, just 20 pounds more than the
+Mobile Accessibility application.
+
+TALKS says its screen reader product offers more flexibility than the
+Mobile Accessibility solutions, giving access to all the hundreds of
+applications developed for the new phones. Mobile Accessibility,
+meanwhile, said it was ready to consolidate its lead in the series 60
+market, launching an updated version before the end of the year along
+with Danish, Dutch and Norwegian speaking versions.
+
+
+++NEWS IN BRIEF.
+
++05: NEW ARENAS: Two online discussion forums for people
+interested in accessibility issues have been launched over the past few
+weeks. The first is within the 'WebProWorld' site, run by the
+technology IT newsletter publisher iEntry:
+http://www.webproworld.com/viewforum.php?f=12
+and the other from Accessify, the online accessibility information
+resource:
+http://www.accessifyforum.com .
+
++06: MATHS MYTHS: An email group has been set up by a blind
+maths teacher in the US to dispel some of the myths about maths and
+blindness. The 'BlindMath' list will help members share information
+about accessible texts, tactile and sonic graphing programs, and
+techniques for blind teachers:
+http://www.smartgroups.com/groups/blindmath .
+
++07: 20/20 VISION: The UK's main conference organised by and for
+teachers of children and young people with vision impairment, XX/20
+VIEW, is to be held on 9 and 10 October at Birmingham University.
+The event is organised by the teachers' chapter of the blindness
+association VIEW. For details email:
+ecs.kay.wrench@oldham.gov.uk .
+
+[Section one ends].
+
+
+++SECTION TWO: 'THE INBOX'
+- READERS' FORUM.
+- Please email all contributions or responses to inbox@headstar.com .
+
++08: RADIO SIGNALS: Last issue Peter Petersen wrote in with a
+request for
+information on finding internet radio stations on behalf of his mother
+in New Zealand, whose sight is poor.
+
+Allan Thomas, a technician at Clarity Transcription Services in Hull,
+responds: "I'm not sure about software or hardware devices that will
+scan the internet for radio stations. However, you might want to take a
+closer look at web sites dedicated to internet radio stations such as
+Mike's Radio World (http://www.mikesradioworld.com). Here you can
+browse through several thousand radio stations, and you can even
+download the radio players you may need."
+
+And another bulletin reader, Prabal Basak, puts in a related request:
+"I want to know about digital radio: how it works, and how it can be
+received." Do any readers know of good basic information web sites
+about digital radio? [Responses please to inbox@headstar.com].
+
+
++09: SPANISH LESSONS: We have received a few offers of
+information and help for our reader Jane Sellers, who contacted us last
+month to see if anyone knew of any good tapes or other resources to
+help her learn Spanish.
+
+Judy Haswell of the Royal New Zealand Foundation for the Blind
+Library in Auckland suggested she take a look at Linguaphone's 'All
+Talk' audio-only Spanish course available on CD or audio cassette. It
+costs about 50 pounds for beginner or intermediate level, or about 90
+pounds for beginner and intermediate level combined. Linguaphone
+can be contacted on 0800 282 417 or at:
+http://www.linguaphone.com .
+
+And John Coggans from Ontario says: "The Hadley School for the
+Blind at 700 Elm St, Winnetka, Illinois 60093, US (http://www.hadley-
+school.org) offers a course in conversational Spanish in Braille and
+tape. The tape version, besides providing the course material available
+in Braille, also gives guidance to pronunciation. It is offered as a
+conversational course rather than a detailed grammar course, so for
+example there are no long lists of verb conjugations."
+
+
++10: SUITE SUCCESS: Susan White of Shropshire County Council
+writes in to say: "I was interested in the news about the specially-
+adapted computer suites in Leicester to allow people with vision
+impairments to learn new IT skills (see E-Access Bulletin, issue 43,
+July 2003, story 07).
+
+"Here in Shropshire the Disability Consortium
+(http://www.shropshiredisability.org) has been offering training to
+vision-impaired people for the past two years. This has now been
+extended out and offered to disabled people in general. The training is
+supported by the Learning and Skills Council.
+
+"The accessible software in Shropshire libraries on the machines
+funded by the People's Network project
+(http://www.peoplesnetwork.gov.uk) is the same, to provide the link
+with the training offered for those people unable to afford or not
+interested in acquiring their own software. The training will also be
+offered using some library sites on their closed days to reduce the
+amount of travelling for disabled people as a partnership agreement
+between Shropshire libraries and the Disability Consortium."
+
+[Section two ends].
+
+
+++SECTION THREE: RESEARCH
+- WEB ACCESS.
+
++11: SPEAK NO EVIL
+by Mel Poluck  mel@headstar.com .
+
+"If you're hoping to hear lots of exciting results, I'm afraid you're
+going to be disappointed - we want to identify bad practice, not bad
+practitioners."
+
+Such was the news from Helen Petrie, professor of Human Computer
+Interaction at City University's School of Informatics, (http://www-
+hcid.soi.city.ac.uk), at a briefing last week on her team's ongoing
+investigation into web site accessibility on behalf of the Disability
+Rights Commission (DRC- http://www.drc-gb.org).
+
+The investigation, described by Petrie as having now reached 'halfway
+house', is entitled "an in-depth study of the current state of web site
+accessibility in Britain". It will survey the web sites of 1,000
+randomly selected organisations in both the public and private sectors, testing
+for compliance with accessibility standards. In addition, a panel of 50
+disabled people will take part in more in-depth testing of a sample of
+these sites (see E-Access Bulletin, issue 40, April 2003).
+
+As Petrie was keen to stress, the project's final report will not name
+poor sites. Instead it hopes to increase awareness of web accessibility
+by detailing cases of good practice and creating resources to help
+organisations to measure the accessibility of their site. However, the
+intention is not to create a new set of standards or a new standards
+body, Petrie said.
+
+Project manager Steven Beesley from the DRC said: "We want to work
+with people. We'd like to help, advise and conciliate rather than wade
+in with big boots."
+
+As an initial part of the work, a group of unnamed firms were given a
+questionnaire with a scale rating for various questions about
+accessibility. The question "How interested is your company in web
+accessibility?" gave rise to particularly disappointing results, with a
+low response rate, and those that did respond demonstrating a lack of
+awareness. Consequently, the investigation team will be making
+recommendations in the area of training, Petrie said. Pressure will be
+applied on organisations such as the British Computer Society to make
+accessibility training more widely available, she said.
+
+Respondents were also asked how easy or useful are the guidelines
+developed by the international Web Accessibility Initiative (WAI -
+http://www.w3.org/WAI/Resources), regarded as the industry standard.
+Interestingly, they found that newer guidelines developed by the RNIB
+(http://fastlink.headstar.com/rnib1) are more commonly used than WAI
+guidelines. One attendee said: "We struggle to understand in terms of
+plain English some of the WAI and government stuff - we've found it
+gobbledygook." Petrie said it was likely the team would make
+recommendations to WAI based on their findings.
+
+Another attendee said WAI guidelines were hard to follow, and she
+would like to be able to turn to a recommended audit procedure. To
+this Petrie said "That's an absolutely brilliant idea - watch this
+space."
+
+The project's panel of testers, ten of whom are blind and nine
+partially sighted, have now completed a basic accessibility check - using a
+newly-devised automated method - on the home pages of the 1,000
+sample web sites across five categories including governmental and
+entertainment. Of these, 100 sites that did well in this test were
+selected for more detailed analysis, and this is now half-completed.
+Testers with a range of disabilities, IT knowledge and assistive
+technologies are being filmed as they participate in task-based
+sessions such as filling out an online form - particularly troublesome for
+vision-impaired users according to the team - and performing simple searches.
+
+One clear early finding is that images on web pages are rarely 'tagged',
+meaning that no text alternative is provided, and texts that are provided
+are not good enough, Petrie said. "This needs to be part of the editorial
+work and not just left to the people implementing the code."
+
+Another finding was that technology that aims to help people with
+disabilities may not be performing well. "It's very easy to place all
+the blame about accessibility on the web but I was very struck by how
+poorly served people are by their assistive technology" Petrie said.
+She cited screen reader inefficiency and frequent crashing as particular
+problems, and said the team will be making recommendations to
+manufacturers of assistive technology.
+
+All the project findings will be made available in a DRC report at the
+end of 2003. Most organisations examined will not be named, although
+sites in the top 100 will be allowed information on user testing
+results and awards will be offered to the top ten.
+
+The creation of a good practice web site may also result from the
+study. Petrie and Beesley plan to make recommendations for resources
+for web site developers, with prototype examples.
+
+"The challenge is to the web development community," Petrie
+concluded. "If you test your web site on people who use assistive
+technology, then it'll be easy for everyone to use: this is the real
+business case that we can develop."
+
+[Section three ends].
+
+
+++ SECTION FOUR: OPINION
+- E-EQUALITY.
+
++12: BUILDING A DREAM
+by Andres Crespo  andres.crespo@londonconnects.org.uk .
+
+Back in the 1960s Dr Martin Luther King had a dream in which black
+children and white children were playing together. I may not be quite
+as high-achieving as Dr King, but I reserve my right to build my own
+dreams.
+
+Last night I had a dream.
+
+I dreamed of an internet playground where all visitors could experience
+the full benefits irrespective of their differences. An internet
+playground where everybody was different but with equal rights to get
+as much as anyone else . an internet space where information (and
+according to Francis Bacon information is power) was not in the hands
+of the establishment, as in previous centuries, but in the hands of all
+of us.
+
+I woke up this morning and thought about my dream. These days
+legislation is abundant and the technology is mature. In broad terms,
+the Freedom Of Information Act makes it an obligation to make
+information available. The Disability Discrimination Act requires the
+provision of services in equal terms. Conferences constantly remind
+the public sector why and how it should build this paradisiacal internet
+playground where all people, not just the majority, can reap the
+benefits.
+
+With all this, I naively felt the battle of 'accessibility' had been
+won, and I went to my local pub to celebrate this social victory on e-
+equality. My mate Robin was there, chatting with Ken and Dane.
+Robin is totally blind but can still 'see' more than the average person
+with his sharp hearing, his sense of smell, his touch and his uncommon
+common sense. Ken had been a bright engineer until multiple sclerosis
+hit him and left him severely disabled. Dane is a successful technology
+professional who is dyslexic.
+
+I told them about my triumphal dream and that in my view the dream
+had become a reality. Looking at their astonished straight faces, I
+couldn't quite make out if they were "pissed" or "pissed off" (excuse
+the language) until I heard what they (the people with disabilities)
+had to say.
+
+Ken told me that due to his physical condition he cannot use a mouse,
+but this is no problem if developers make sure that navigation is
+possible just by pressing the 'Tab' key. For example, only yesterday he
+visited the central government site that dictates technical standards
+for information exchange, 'Govtalk' (http://www.govtalk.gov.uk). He
+couldn't navigate through the information available in their
+inaccessible scrolling headlines right in the beginning of the home
+page.
+
+This could have been usually sorted by producing a link to a page with
+breaking news as opposed to scrolling text that is to be avoided
+according to any guidelines available.
+
+Robin explained that on Ken's example, his speech synthesiser
+wouldn't even pick up the fact that breaking news was being offered
+and was also surprised to see that an HTML frameset, so discouraged
+by every guideline available, had been used. This could have been
+easily avoided if HTML had been used to display the breaking news as
+opposed to a heavily JavaScript solution.
+
+Dane confessed that he had given up on using "Search" in any
+government site as searches are based on a keyword typed by the user.
+With his dyslexia, words are frequently misspelled (and one cannot
+spell-check when trying to search, can one?), leading to the response:
+'No matches found'.
+
+This could have been easily avoided if a 'knowledge management'
+package had been used as opposed to a keyword-based search engine.
+Knowledge management allows for misspelling and synonymous terms
+when searching.
+
+After my enlightening encounter, I decided to wake up and smell the
+coffee. Those that we are looking up to as role models are saying "Do
+as I say, not as I do". Until we see a move from legislation to
+implementation, the accessibility war is still on.
+
+And you! Yes, you!  Whose side are you on? Are you with the ones
+that act positively and don't talk about it, or those that preach
+impressively but then act against their own advice? The ball is in your
+court.
+
+NOTE: Andres Crespo is partnership manager at London Connects
+(http://www.londonconnects.org.uk), the agency responsible for
+delivering electronic government in London.
+
+[Section four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2003 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek  dan@headstar.com
+Deputy editor - Derek Parkinson  derek@headstar.com
+News editor -
+Reporter - Mel Poluck  mel@headstar.com
+Correspondent - Phil Cain  phil@headstar.com
+Editorial advisor - Kevin Carey  humanity@atlas.co.uk .
+
+ISSN 1476-6337 .
+
+[Issue ends.]

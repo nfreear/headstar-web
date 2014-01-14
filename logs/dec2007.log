@@ -1,0 +1,62 @@
+__ BUILD [tens2html.pl  v1.14] log Sun Jan 27 08:29:16 2008 __
+
+Input file: ../eab/issues/2007/dec2007.txt
+
+Warning: file already exists: ../eab/issues/2007/dec2007.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: dec | index: 12 | year: 2007
+URLs, prev: ../2007/nov2007.html | next: ../2008/jan2008.html
+Found ++, heading 2: Issue 96 Contents.
+>> FOUND 2:  | 01:  | Technology Giants Forge Accessibility Alliance
+>> FOUND 2:  | 02:  | EU Countries Set To Miss 2010 Accessibility Targets
+>> FOUND 2:  | 03:  | Tourism Websites Fall Short On Accessibility
+>> FOUND 2: News in Brief:  | 04:  | DAISY Save - electronic book format plug-in for
+OK, News in brief
+Found: News in Brief:  | 04:  | DAISY Save - electronic book format plug-in for
+>> FOUND 2: Microsoft Word;  | 05:  | 2020 Framework - national vision policy
+Found: Microsoft Word;  | 05:  | 2020 Framework - national vision policy
+>> FOUND 2: consultation;  | 06:  | Million Strong - online petition on disability law.
+Found: Million Strong - online petition on disability law | . | 
+>> FOUND 2: for views on technology firm;  | 08:  | Moodle Extras - educational
+Found: for views on technology firm;  | 08:  | Moodle Extras - educational
+>> FOUND 2: software platform;  | 09:  | Misplaced Responsibility? built-in accessibility
+Found: software platform;  | 09:  | Misplaced Responsibility? built-in accessibility
+>> FOUND 2: is best;  | 10:  | Ubuntu Update - text browser packaged with Linux brand;
+Found: Ubuntu Update - text browser packaged with Linux brand | ; | 
+>> FOUND 2:  | 11:  | Unequal Opportunity - online job application struggles; 12:
+>> FOUND 2:  | 13:  | Here Is The News - If You Can Find It: Newspaper websites
+>> FOUND 2:  | 14:  | Mixed Bag: Selected Findings from the Journalism.co.uk Study: a
+Warning line 55: expected [Contents ends].
+$toc_count=17
+Found ++, heading 2: Special notice: Mobile and Flexible Working in the Public Sector
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 78.
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Technology Giants Forge Accessibility Alliance.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | EU Countries Set To Miss 2010 Accessibility Targets.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Tourism Websites Fall Short On Accessibility.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A free plug-in allowing users of Microsoft Word to
+> ITEM 1:  05:  | : |  A draft strategic framework for the
+> ITEM 1:  06:  | : |  More than 200,000 people have signed an online
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 266.
+> ITEM 1:  07:  | : |  E-Access Bulletin is researching an article on the
+> ITEM 1:  08:  | : |  In our October issue (story number 11, section
+> ITEM 1:  09:  | ? |  Linda Woodbury, a reader in San
+> ITEM 1:  10:  | : |  Jeff Seager, Communications Specialist at the
+> ITEM 1:  11:  | : |  Further to our contribution last month from
+> ITEM 1:  12:  | : |  Alex Stobart of the Scottish Executive writes in to
+Found ++, heading 2: Section Three: Special Report, Part One
+> ITEM 2:  13:  | Here Is The News - If You Can Find It.
+Found 'contents' match: 14.
+Found ++, heading 2: Section Four: Special Report, Part Two
+> ITEM 1:  14:  | : |  Selected Findings from the Journalism.co.uk Study.
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 685.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 692.

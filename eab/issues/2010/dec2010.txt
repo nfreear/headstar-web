@@ -1,0 +1,451 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 132, December 2010.
+ 
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+ 
+Please forward this free bulletin to others (subscription details 
+at the end). We conform to the accessible Text Email 
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+ 
+ 
+++Issue 132 Contents.
+ 
+01: Canadian Government Loses Milestone Web Access Case
+- Donna Jodhan victorious after her ‘rights infringed’.
+ 
+02: Digital Government ‘Must Not Increase Exclusion’
+- Policy advisor speaks out.
+ 
+03: Free DAISY Book Recorder Software Upgraded.
+- New version of open source audio tool.
+ 
+News in Brief: 04: Standard Lesson – webinar on British web 
+access standard; 05: Refreshable Apple – Braille keyboard for 
+iPhone; 06: Third Survey – screen-reader trends questionnaire.
+ 
+Section Two: Interview Special Feature - Diane Mulligan OBE.
++07: Podcast Pioneer: Diane Mulligan OBE has battled with 
+adversity to emerge as one of the world’s leading champions of 
+the rights of people with disabilities, particularly those in the 
+developing world. In an exclusive interview with E-Access 
+Bulletin, she explains how new technologies can transform the 
+lives of the world’s poorest people – and those who work to 
+help them.
+ 
+[Contents ends].
+ 
+ 
+++Section One: News.
+ 
++01: Canadian Government Loses Milestone Web Access Case.
+ 
+A blind accessibility consultant has won her case against the 
+Canadian government for the lack of accessibility on its 
+websites, the country’s Federal Court has announced. 
+ 
+As reported in last month’s E-Access Bulletin ( 
+http://www.headstar.com/eablive/?p=508 ), Donna Jodhan sued 
+the Canadian government after she was unable to apply for a 
+government job online or complete an online census form 
+without assistance from sighted government employees, 
+arguing that this breached her rights.
+ 
+Last week, Justice Michael Kelen returned a verdict in favour 
+of Jodhan, ruling that the government had infringed the 
+Canadian Charter of Rights and Freedoms by failing to make 
+its websites fully accessible, and was discriminating against 
+disabled citizens. The government has now been given 15 
+months to make its websites accessible for blind and visually 
+impaired citizens. 
+ 
+“I am humbled and elated that a decision has been made, and 
+with great haste,” Jodhan told E-Access Bulletin. “The 
+Canadian Government should not view this as a defeat but 
+rather as one where we all get to ensure that the future of blind 
+and sight-impaired kids will be a better one, where accessibility 
+will be a reality. This case was never mine to win but that of 
+our blind and sight-impaired community not to lose.” 
+ 
+The court’s ruling stated that Jodhan’s inability to access 
+government information online “is representative of a system 
+wide failure by many of the 146 government departments and 
+agencies to make their websites accessible.”
+ 
+More on the case can be found on Jodhan’s personal blog: 
+http://www.donnajodhan.blogspot.com/
+and the blog of her accessibility company, Sterling Creations: 
+http://sterlingcreations.ca/blog/ 
+ 
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=511
+ 
+ 
++02: Digital Government ‘Must Not Increase Exclusion’.
+ 
+Digitisation of government services must not take place at the 
+expense of increased exclusion of people with disabilities, a 
+leading national policy adviser has told E-Access Bulletin. 
+ 
+Felicity Shaw is senior policy advisor for Race Online 2012, a 
+campaign headed by the UK’s Digital Champion Martha Lane 
+Fox to bring online the nine million people in the country who 
+have never used the internet ( http://raceonline2012.org ).
+ 
+“We’re making recommendations that government services 
+should be digital by default, but part of that is making sure that 
+nobody is excluded by that process. Making services digital is 
+about making them better, more convenient and easier, not 
+about leaving people behind who are excluded,” Shaw said.
+ 
+Some of the more difficult and important work for Race 
+Online 2012 will be helping people with a range of access 
+issues to use the internet for the first time. “What’s harder to 
+tackle is people who may have multiple barriers to getting 
+online, particularly disabled people who might have 
+accessibility issues which make it harder or more expensive for 
+them to access equipment.
+ 
+“What we don’t want is to have a campaign and promote just 
+some of the elements that go with that, which ultimately 
+increases exclusion for people who can’t get online” said 
+Shaw.
+ 
+Part of Race Online 2012’s work includes a ‘People’s 
+Taskforce’ ( http://bit.ly/glTN2w ), featuring people from a 
+variety of backgrounds who have been helped to go online, 
+and are now helping others to use the internet. Members of the 
+taskforce are helping to provide the campaign with ideas and 
+information about accessibility, including Heather Lyons – 
+who is visually impaired and campaigning for more affordable 
+assistive technology – and Alan Thomas – who was diagnosed 
+with ataxia, and now uses the internet to share information 
+about his support website, livingwithataxia.org .
+ 
+Shaw was among speaker’s at last week’s Future Democracy 
+’10, Headstar’s annual conference on the use of the internet 
+and other new technologies to boost all parts of the democratic 
+process ( http://www.headstar-events.com/fdem10 ).
+ 
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=518
+ 
+ 
++03: Free DAISY Book Recorder Software Upgraded.
+ 
+The latest version of an open source audio recording tool 
+designed to allow anyone to produce DAISY format electronic 
+books has been released by the global DAISY Consortium of 
+blindness organisations, publishers, technology companies and 
+others. 
+ 
+DAISY (digital accessible information system) books created 
+with the Obi 1.2 software ( http://bit.ly/fqzspr ) can contain 
+chapters, sub-sections and pages, allowing users with print 
+disabilities to easily navigate through the content. The Obi tool 
+is also fully accessible to screen-readers.
+ 
+Version 1.2 of the Obi tool features a number of improvements 
+and upgrades for users, including an adaptation to work with 
+Microsoft Windows 7. Users can now also manage large 
+DAISY production projects more easily; and MP3 and WAV 
+format audio files can now be imported into projects. 
+ 
+All DAISY content is produced to a standard ( 
+http://bit.ly/hcPbOF ) developed by the DAISY Consortium, 
+whose aim is to see all published information made readily 
+available to people with print disabilities through digital talking 
+books.
+ 
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=513
+ 
+ 
+++News in Brief: 
+ 
++04: Standard Lesson: A free ‘webinar’ (internet seminar) 
+explaining the recently launched British Standard on web 
+accessibility BS 8878 (see E-Access Bulletin issue: 130: 
+http://www.headstar.com/eablive/?p=498 ) will be hosted by 
+assistive technology charity AbilityNet on 8 December. The 
+webinar will provide an overview of the standard and how to 
+implement it, including a question and answer session:
+https://www1.gotomeeting.com/register/763164576 
+Short link: http://bit.ly/gCD5Gd 
+ 
++05: Refreshable Apple: A video demonstrating how to use the 
+Refreshabraille 18, a Braille display and keyboard, built by the 
+non-profit American Printing House for the Blind, with an 
+Apple iPhone or iPod, has been posted on YouTube. A link to 
+the video and a transcription can be found on the 
+‘StoneKnight’ blog run by transcription specialist Mirabai 
+Knight:
+http://blog.stenoknight.com/2010/11/natcapvidmo-day-28-
+refreshabraille-18.html 
+Short link: http://bit.ly/dIU26U 
+ 
++06: Third Survey: The third periodic survey tracking trends 
+and changes in assistive technology is underway from US non-
+profit WebAIM. The Screen Reader User Survey is intended to 
+help all organisations that create assistive technology products, 
+accessible web content and web standards. It takes around ten 
+minutes to complete and will close on January 10, with results 
+published around March 2011:
+http://webaim.org/projects/screenreadersurvey3/ 
+Short link: http://bit.ly/ikApbJ
+ 
+[Section One ends].
+ 
+ 
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+ 
+When you want alternative formats for disabled colleagues, 
+customers and staff, call Adept.
+ 
+Formats we produce include audio, audio description, Braille, 
+BSL, Easy Read, e-docs for websites, large print, Makaton, 
+Moon and sub-titles, at prices from a penny a word.
+ 
+Whether handling a newsletter, training DVD, equality scheme, 
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+ 
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org 
+ 
+[Sponsored Notice ends]
+ 
+ 
+++Section Two: Interview Special Feature
+- Diane Mulligan OBE.
+ 
++07: Podcast Pioneer
+by Dan Jellinek.
+ 
+This has been a busy year for Diane Mulligan.
+ 
+At the start of 2010 Mulligan was awarded an OBE for services 
+to disabled people and equal opportunities. Last week, she was 
+back at Buckingham Palace for a reception held by the Queen 
+for the Diplomatic Corps. In-between, she has been 
+spearheading a campaign to improve the rights of disabled 
+people in developing countries, in her role as Global Disability 
+Advisor for international charity Sightsavers.
+ 
+One of the UK’s leading campaigners for disabled people’s 
+rights worldwide, and a candidate for the 2012 election to the 
+UN Committee on the Rights of Persons with Disabilities 
+(another of this year’s accolades), Mulligan has faced many 
+struggles on her path to high achievement.
+ 
+Leaving school with few qualifications due to undiagnosed 
+dyslexia and ADHD, she has worked in the NGO sector all her 
+working life, starting with environmental issues and then 
+championing human rights, women’s rights and disability 
+rights.
+ 
+The internet and other technologies play a major role in her life 
+and work now, but growing up she lacked the technological 
+support on offer to today’s schoolchildren like her own 10-
+year-old son, Zephaniah. 
+ 
+“My son has ADHD and dyslexia, and he is using software that 
+helps him, especially with homonyms – he can write ‘no’ and 
+know whether it should be spelled ‘know’ or ‘no’ – and 
+pictorial software,” she says. “He still can’t hold a pen and 
+write, aged 10, but he went straight to using digital technology 
+and is now able to produce work of a standard that is really 
+high for his age. It’s so good for his self-esteem.
+ 
+“I left school with hardly any qualifications, but if I had had a 
+laptop and software I would have been able to do the same.”
+ 
+These learning challenges are not the only problems Mulligan 
+has had to overcome: after many years of working abroad, she 
+was involved in a serious road accident in Indonesia which led 
+to one of her legs being amputated. Returning to the UK, to 
+Seaford on the Sussex coast, she received good medical care 
+but a lack of proper psychological support spurred her to set up 
+the Sussex Amputee Support Group offering advice, emotional 
+support and information for people experiencing limb loss. 
+ 
+The group has its own website ( 
+http://www.sussexamputeesupport.co.uk ), a tool which has 
+proven essential to its work building a support community, 
+Mulligan says.
+ 
+“Getting that up on the internet was really key,” she says. 
+“Some people said the information was not accessible to a lot 
+of people – most amputees are over 80 – but I disagree: my 
+dad is over 80 and he is using online conferencing. But it is 
+also all available in large print and other formats.”
+ 
+Technology has also helped her with her sporting passion, rifle 
+shooting: she was on course to compete in the 2012 
+Paralympics until work and family commitments rendered the 
+training schedule impossible.
+ 
+“It’s all done on computers with laser beams from the end of 
+the gun onto a screen – they track your movement until you 
+fire so you can see how accurate you are, whether you are 
+swaying all over the place. But I’ve had to drop out from the 
+fast-track now. It takes up at least two evenings a week, and 
+every other weekend.
+ 
+Computers and the internet have also proven enormously 
+valuable with her main current work role. She joined 
+Sightsavers in 2007, and is leading the organisation’s strategy 
+for raising awareness of the link between disability and poverty 
+in developing countries, where 80% of disabled people live, 
+almost all below the poverty line. In 2000 most world leaders 
+signed up to achieving eight ‘anti-poverty’ Millennium 
+Development Goals by 2015, but disabled people and 
+disability rights are noticeably absent from these goals, and 
+much of Mulligan’s work with Sightsavers is to campaign for 
+their inclusion and recognition.
+ 
+With front-line teams in more than 30 countries, the charity has 
+created a global online network and uses a web-based 
+conferencing facility called Elluminate ( 
+http://www.elluminate.com ).
+ 
+“It has considerably cut down international travel, and 
+colleagues with low vision access the same information I can,” 
+Mulligan says.
+ 
+“I do three-day training sessions for all my staff and in August 
+we piloted doing a session online.
+We had 50 people in Pakistan, India and Sri Lanka, and guest 
+speakers, over three days in Sightsavers offices. Everyone 
+could access the PowerPoint, raise their online hand. They 
+could find out what people could do in different countries and 
+share best practice.
+ 
+“Now I run one every month, 60 minutes on social inclusion, 
+as a round-up and opportunity for any of our 300 employees 
+worldwide to ask any questions they have and contribute 
+examples. It’s almost like a radio show, I can answer questions, 
+and I have other people contributing. Once I’d done it once, I 
+thought that’s the way forward to me – I don’t have to travel, it 
+saves me jetlag and means I don’t have to stay away from my 
+family.”
+ 
+Mulligan records the webinars and puts them onto a podcasting 
+site called Podbean ( http://www.podbean.com ), each 
+bookmarked so people can browse between items without 
+having to listen to the whole hour. Currently they are only 
+available to Sightsavers staff, but “there are no trade secrets”, 
+so Mulligan is looking at ways of making them more widely 
+available. The service uses low bandwidth, so it is accessible 
+even in places like rural India, she says.
+ 
+Another technology that is revolutionising her work is 
+‘phlogging’, a service from a company called ipadio that is 
+“like blogging, but using a mobile phone” ( http://bit.ly/8Q4YF 
+). Users can call in from anywhere in the world and record a 
+voice message from their mobile, using local rate numbers, to 
+broadcast the voice clip onto their website, blog or social 
+network.
+ 
+Tools like this and ones that can help speak web content out 
+loud can be useful for communication not only with blind 
+people but for targeting remote communities who are either 
+illiterate or for whom the written word is not the medium of 
+choice, Mulligan says.
+ 
+“We also try and encourage people to create video diaries, to 
+give our supporters an insight into what we do and how we do 
+it. And we convert our reports to MP3.”
+ 
+Some of these technologies are hard for people in poorer 
+countries to access, but there is usually a way, she says. “Even 
+if you go to some of the poorest parts of the world you find 
+people with mobile phones. In India, social networking is 
+massive, and the blind people I know there are using it as much 
+as their sighted colleagues. And in countries like Indonesia, 
+you see internet cafes on the corner of every street.”
+ 
+Sightsavers have also worked with accessible technology 
+specialists Dolphin to create the Sightsaver Dolphin pen ( 
+http://bit.ly/gWM16t ), a low cost memory stick carrying 
+magnification and screen-reader software aimed at students in 
+developing countries.
+ 
+“So there are many new technologies out there, it’s just about 
+harnessing them. The only stumbling block I’ve got is getting 
+someone to get headphones and a mike, and log on. It’s that 
+barrier of the unknown, people think it’s going to be hard. The 
+barriers disabled people face in the developing world are 
+almost the same as disabled people face here – liberation takes 
+place in that space between our two ears, before anywhere 
+else.”
+ 
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=515
+ 
+[Section Two ends].
+ 
+ 
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+ 
+Accessify Forum has been the number one destination for 
+accessibility
+discussion on the web for nearly six years. Celebrating our 
+sixth birthday next month, you’ll find discussion of 
+accessibility at all levels, from beginner to guru.
+ 
+The site has recently been redesigned and the forum system 
+improved. This is still ongoing and you can join in the 
+discussions.
+ 
+So whether you’re looking to learn more about accessibility, 
+want to help others and improve on your own knowledge, or 
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+ 
+[Special notice ends].
+ 
+ 
+++End Notes.
+ 
++How to Receive the Bulletin.
+ 
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other 
+email addresses to subscribe in the body of the message. Please 
+encourage all your colleagues to sign up! To unsubscribe at any 
+time, put 'unsubscribe eab' in the subject header.
+ 
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+ 
+Copyright 2010 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including 
+this copyright notice are included, and as long as people are 
+always encouraged to subscribe with us individually by email. 
+Please also inform the editor when you are reproducing our 
+content. Sections of the bulletin may be quoted as long as they 
+are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+ 
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+ 
+ISSN 1476-6337.
+ 
+[Issue 132 ends.]

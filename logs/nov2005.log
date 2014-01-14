@@ -1,0 +1,67 @@
+__ BUILD [tens2html.pl  v1.14] log Tue May 23 09:06:51 2006 __
+
+Input file: ../eab/issues/2005/nov2005.txt
+
+Warning: file already exists: ../eab/issues/2005/nov2005.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: nov | index: 11 | year: 2005
+URLs, prev: ../2005/oct2005.html | next: ../2005/dec2005.html
+Found ++, heading 2: Issue 71 Contents.
+>> FOUND 2:  | 01:  | BBC Launches Free Online Web Customisation Resource
+>> FOUND 2:  | 02:  | 'Large Gap' Between Electronic Goods Makers and Users
+>> FOUND 2:  | 03:  | Irish Charity Opens Centre for Inclusive Technology
+>> FOUND 2:  | 04:  | New Internet Radio Station for Vision-Impaired Listeners
+>> FOUND 2: News in Brief:  | 05:  | Awards Open: 240,000 euro research prize; 06: Reading
+OK, News in brief
+Found: Awards Open: 240,000 euro research prize | ; |  06: Reading
+>> FOUND 2: Aloud: Dolphin Tutor for schools;  | 07:  | Deafblind Forum - email list; 08:
+Found: Deafblind Forum - email list | ; |  08:
+>> FOUND 2:  | 09:  | Hostile Features - accessibility complaint; 10: Colour Insight - online
+>> FOUND 2: vision tests;  | 11:  | Skype's Limits - internet telephony; 12: Podcast News -
+Found: Skype's Limits - internet telephony | ; |  12: Podcast News -
+>> FOUND 2:  | 13:  | Demand for Accessible Supply: Last month's conference hosted by the UK
+>> FOUND 2:  | 14:  | The Human Touch: Automated accessibility tests for your web pages have
+Warning line 52: expected [Contents ends].
+$toc_count=12
+Found ++, heading 2: Sponsored Notice: Win An UltraCane on VIP On Air.
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | BBC Launches Free Online Web Customisation Resource.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | 'Large Gap' Between Electronic Goods Makers and Users.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Irish Charity Opens Centre for Inclusive Technology.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | New Internet Radio Station for Visually Impaired Listeners.
+Warning: not found a 'contents' match: New Internet Radio Station For Visually Impaired Listeners.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  05:  | : |  Bids have been invited for a prize of 240,000 euros in the
+> ITEM 1:  06:  | : |  A software package aimed at print-impaired
+> ITEM 2:  07:  | Deafblind Forum A discussion list on issues relating to accessible
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 225.
+Warning: not title-casing possible HTML:
+  07: Deafblind Forum A discussion list on issues relating to accessibletechnology for deafblind people has been launched by Western Oregon
+University in the US. 'Deafblindtecchies.com' offers an open forum for
+technical support and sharing advice on devices. To subscribe, email:
+<a href="mailto:DBTECHIES-subscribe-request@TR.WOU.EDU">DBTECHIES-subscribe-request@TR.WOU.EDU</a> .
+Warning: not found a 'contents' match: Deafblind Forum A discussion list on issues relating to accessibletechnology for deafblind people has been launched by Western Oregon
+> ITEM 1:  08:  | : |  Feedback is sought on a pilot audible city guide to
+Found ++, heading 2: Special Notice: Braille Translations.
+Found ++, heading 2: Section Two: 'The Inbox'
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 266.
+> ITEM 1:  09:  | : |  Gerald Weichbrodt writes in response to our survey
+> ITEM 1:  10:  | : |  Michael Crossland, Senior Research Optometrist at
+> ITEM 1:  11:  | : |  Chris McMillan from Reading in the UK writes in
+> ITEM 1:  12:  | : |  Chris McMillan also writes to tell readers about a web
+Found ++, heading 2: Special Notice: Web Accessibility Forum.
+Found ++, heading 2: Section Three - Conference report
+> ITEM 2:  13:  | Demand for Accessible Supply
+Warning: not found a 'contents' match: Demand For Accessible Supplyby Mel Poluck.
+Found ++, heading 2: Special Notice: Test Your Site's Accessibility.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 494.
+Found ++, heading 2: Section Four - Technology
+> ITEM 2:  14:  | The Human Touch
+Warning: not found a 'contents' match: The Human Touchby Alastair Campbell.
+Found ++, heading 2: End Notes.
+Found 'contents' match: 0.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 629.
+Use of uninitialized value in concatenation (.) or string at tens2html.pl line 474, <IFILE> line 635.

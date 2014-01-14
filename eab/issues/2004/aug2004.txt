@@ -1,0 +1,704 @@
++++E-ACCESS BULLETIN.
+- ISSUE 56, AUGUST 2004.
+
+Technology news for people with vision impairment
+(http://www.headstar.com/eab).
+Sponsored by RNIB (http://www.rnib.org.uk).
+
+NOTE: Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email Newsletter
+(TEN) Standard:
+http://www.headstar.com/ten .
+
+
+++Issue 56 Contents.
+
+Section One: News.
+01: Overhaul for email newsletter standard
+- E-Access Bulletin's publisher seeks signatories.
+
+02: Unix accessibility forum unveiled
+- attempt to bridge gaps between open source communities.
+
+03: Online web browser adaptor hits UK
+- users can access their preferences on different computers.
+
+04: Plaudits for 'Chillingham' adventure game
+- haunted village navigated by sound.
+
+News in Brief: 05: DAISY age - library seeks e-book testers; 06: Jobs
+campaign - employers targeted; 07: European award - design for all.
+
+Section two: 'The inbox' - Readers' forum.
+08: Strong statements: support for bank statements by email; 09: More
+chips: 'chip and pin' banking; 10: Free reader - cheaper screen reader
+software.
+
+Section Three: Focus - Online shopping.
+11: Diary of a dissatisfied customer: Mel Poluck reviews an exchange
+of emails between disgruntled blind online shopper Karen Turner and
+customer services staff at supermarket giant Tesco.
+
+Section Four: Access concepts - The Totally Integrated Portal.
+12: Universal service: a single voice-operated portal using a
+hierarchical menu structure could give people with disabilities access
+to vast array of information and services, says Ken Matthews.
+
+[Contents ends].
+
+
+++Special Notice: Techshare 2004
+- 18-19 November 2004, Jury's Inn, Birmingham, UK
+
+The RNIB's Techshare 2004 conference is an important event for
+professionals who are interested in technology and the role it plays in
+learning, work and society for people with sight problems.
+
+For further information email
+techshare@rnib.org.uk or visit:
+http://www.rnib.org.uk/techshare .
+
+[Special notice ends].
+
+
+++Section One: News.
+
++01: OVERHAUL FOR EMAIL NEWSLETTER STANDARD.
+
+The latest version of the Text Email Newsletter (TEN) Standard, drawn
+up by the publishers of E-Access Bulletin as a blueprint for creating
+email newsletter layouts that are easy to navigate by people using
+special access technology such as screen readers, has been released.
+
+The revised standard (http://www.headstar.com/ten) draws on the most
+recent feedback from a range of leading organisations which have
+signed up to endorse its principles and apply the standard to their own
+communications.
+
+Signatories now include the UK government's Department of Work
+and Pensions; two local authorities, The London Borough of Brent
+(http://www.brent.gov.uk) and Tunbridge Wells
+(http://www.tunbridgewells.gov.uk); and overseas groups including the
+library of the Canadian National Institute for the Blind
+(http://www.cnib.ca/library) and The European Design for All
+e-Accessibility Network (http://www.e-accessibility.org).
+
+Version 1.1 of the TEN guidelines includes new suggestions on font
+styles, the best use of upper and lower case text, and the most
+accessible ways of embedding web links into text. There is new
+guidance on how to structure a newsletter to enable easy navigation,
+with suggestions on where to place contents listings and background
+information, and how to begin and end sections of an email newsletter.
+
+Organisations wishing to sign up to the standard, which merely
+requires them to endorse its general principles, should email
+ten-standard@headstar.com .
+
+NOTE: E-Access Bulletin's main web site
+(http://www.headstar.com/eab) has also been improved and made more
+accessible, enabling easier navigation with shortcut keys, while
+important elements of the page like the site menu are clearly
+signposted. Users can toggle between page formats displaying ordinary
+graphics and large text using a single mouse click. The web site now
+meets all priority 1 and 2 and most of the priority 3 specifications of
+the World Wide Web Consortium's Web Content Accessibility
+Guidelines (http://www.w3.org/TR/WAI-WEBCONTENT).
+
+
++02: UNIX ACCESSIBILITY FORUM UNVEILED.
+
+Efforts to improve the accessibility of the Unix operating system have
+progressed with the launch this month of the Unix Accessibility Forum
+(UAF - http://accessibility.kde.org/forum).
+
+The forum is to be hosted by the KDE Project (http://www.kde.org), a
+group of open source software engineers developing a desktop
+environment similar to Windows or the Mac Operating System within
+which Unix can be used.
+
+UAF draws together developers of screen reader and magnification
+technology for Unix, the widely-used open source computer operating
+system.
+
+Although developers have gradually improved Unix magnification
+tools over the last ten years, development work has begun only
+recently on the software interfaces needed to plug screen readers into
+Unix systems.
+
+"This is important because the internal systems of many large
+employers such as banks run on Unix," said Dr Terry Barnaby of Beam
+(http://www.beam.ltd.uk), a developer of assistive technology for Unix
+and Linux, the popular operating system derived from Unix. "Many
+bank employees have to use a Unix windows interface to verify
+customer transactions, such as when a cheque is paid into an account,
+for example," he said.
+
+According to Barnaby, making Unix accessible is complicated by the
+fact that desktop applications such as graphical user interfaces and web
+browsers are built by different communities of developers, and often
+cannot be made to work together without detailed technical knowledge.
+
+For example, screen readers are being developed by both KDE and the
+separate GNOME (http://www.gnome.org) community of developers
+for Unix desktop applications. Part of the UAF agenda will be to build
+bridges between the various different developer communities.
+
+
++03: ONLINE WEB BROWSER ADAPTOR HITS UK.
+
+A new system developed by IBM allowing people to set preferences
+for their web browser such as large text sizes, which can then be
+accessed from any computer, is to be supported in the UK by the
+charity Abilitynet.
+
+The system works by combining a small piece of software or 'plug-in'
+downloaded to the user's computer - which must be running the
+Internet Explorer web browser version 5.5 or higher - with preferences
+and settings stored on a remote web server by each user with a unique
+password. When the user logs in to any computer at work or home
+which has the browser plug-in, and enters their username and
+password, their preferences and settings will be restored.
+
+Web Adaptation Technology (WAT - http://www.webadapt.org) can
+adjust settings such as page magnification, text size and spacing,
+colour balance, graphics display, and audio output.
+
+Individuals and non-profit groups can use the technology for free,
+while other organisations must negotiate licence fees with IBM. The
+technology has already been undergoing trials in the US, in association
+with several charities and research bodies.
+
+"Although some owners of web site are very rigorous when it comes to
+accessibility, it will probably be years before most web sites are
+accessible. In the meantime, this kind of service will be of some
+value," said Mark Wakefield, Community Relations Manager at IBM
+UK.
+
+According to Wakefield, it is likely that many vision-impaired people
+will need assistance to download and use the software. AbilityNet
+(http://www.abilitynet.org.uk) is to provide information and help-desk
+support for individual users, and training for organisations that sign up
+for the WAT service.
+
+
++04: PLAUDITS FOR 'CHILLINGHAM' ADVENTURE GAME.
+
+Early feedback from players of Chillingham, a computer adventure
+game which uses sound alone and requires no sight to play, has been
+extremely positive, according to its creators Bavisoft
+(http://www.bavisoft.com).
+
+The game is named after a haunted village where the action takes
+place. Players take on the role of the protagonist Frederick, who is on a
+mission to find his missing friend Lily. The adventure is controlled
+using just the four arrow keys on a computer keyboard, allowing
+players to select objects, navigate the village and choose to talk to its
+residents such as Old Bill the hermit.
+
+In return for objects that will help them on his adventure, Frederick
+must solve puzzles, go on assignments and fend off enemies such as
+cackling witches using the objects acquired en route as weapons.
+
+"The inspiration for Chillingham was to recreate games that we
+enjoyed playing as youngsters, namely the text adventures," says Russ
+Byer, vice president of Sales and Marketing at Bavisoft. "The concept
+of melding the adventure with a few of the arcade style games seemed
+like a perfect fit," he says.
+
+He says the company has received praise from early players on sound
+quality, the challenge of the puzzles, the storyline, and the range of
+arcade events. "Defending against monsters, catching bugs, navigating
+the raft and mimicking the hermit were all mentioned as enjoyable
+aspects. And even though they all used the 4-key interface, the controls
+and games within the games were different enough to not be boring,"
+Byer says.
+
+Chillingham costs 44 US dollars. Bavisoft's previous creations include
+Grizzly Gulch, the first ever sound-based adventure game, set in the
+Wild West (see E-Access Bulletin, Issue 5, May 2000 and Issue 24,
+December 2001).
+
+
+++News in Brief:
+
++05: DAISY AGE: The National Library for the Blind is seeking
+vision-impaired people to test a selection of DAISY format electronic
+books using Dolphin's 'EaseReader' software. The aim is to improve
+the access; cost-effectiveness; and quality of electronic books. In return
+for their help, testers will receive a selection of DAISY books on CD
+and technical support:
+http://fastlink.headstar.com/nlb1 .
+
++06: JOBS CAMPAIGN: A campaign to highlight to employers that
+sight loss need not be a barrier to employment has been launched by
+RNIB with Action for Blind People. A report 'Beyond the stereotypes:
+Blind and partially sighted people and work,' has been published,
+along with a charter, 'Work matters.' A DVD featuring interviews with
+employers and vision-impaired employees has also been released:
+http://fastlink.headstar.com/rnib5 .
+
++07: EUROPEAN AWARD: The European Commission has
+announced its first 'Design for all and assistive technology' award, to
+take place in November. European designers, engineers, design
+students and companies will be encouraged to enter projects that
+ensure user involvement from all sections of society:
+http://www.dfa-at-awards.org .
+
+[Section one ends].
+
+
+++Special Notice: The UK Association of Braille Producers
+Conference
+- October 4-5, 2004
+- The Albright Hussey Hotel, Shrewsbury.
+
+The UK Association of Braille Producers is holding a conference in
+Shrewsbury on Monday 4 and Tuesday 5 October 2004. The two days
+will be packed with presentations, demonstrations and workshops of
+interest to anyone involved in Braille production including staff of
+charities, prison Braille units, school resource bases and local societies,
+commercial producers, and voluntary transcribers. Topics will include
+changes to the Braille code, copyright rules, DAISY, tactile diagrams
+and Moon production. Developers of Braille software, embossers and
+raised diagram machines will be demonstrating their latest products.
+
+For more details and to register see:
+http://www.ukabp.org/conference.asp
+or email conference@ukabp.org
+or phone 0870 765 9388.
+
+[Special notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to inbox@headstar.com .
+
++08: STRONG STATEMENTS: There has been widespread support
+among our readers for the suggestion of Amar Latif that banks should
+send out statements by email, without the account numbers for
+security, as the most accessible format.
+
+Kawal Gucukoglu said: "I wholeheartedly agree with [Amar Latif]. As
+well as having to log in to find out what is available at your bank via
+their web site, they are mostly not accessible and I have repeatedly
+asked my bank about what they are going to do about their website and
+making it accessible for people with impaired vision. I have never had
+a satisfactory response and I continue to wait for banks to make their
+sites accessible to screen readers. I also would like bank statements via
+email!"
+
+Carl Jolley says: "I would like to register my vote for having my bank
+statement emailed to me. I do use Halifax on-line when I have time,
+but as you say, logging on and so on takes time and this high pressure
+world doesn't really allow for that. We wouldn't have to have any
+confidential information on the statements, so no account number or
+sort code has to be printed as once we have registered our email
+address with them, then there is enough security to know that they are
+providing the correct information to the right person. The only security
+risk is if the visually impaired person enters the wrong email address,
+then someone will know you have been over spending at the
+supermarket!"
+
+The accessibility consultant Julia Schofield says she too would like
+bank statements by email, and says: "I don't feel that the brailling of
+statements going outside the banks to other organisations is particularly
+secure."
+
+And Simon Cavendish agrees: "Yes, I think it would be an excellent
+idea to have one's banking details provided minus the account number.
+What a silly excuse the banks use. I believe health and safety reasons
+are still used by some organisations to discriminate against disabled
+people."
+
+Two other readers recommend telephone banking as a good alternative
+to inaccessible web sites. Bart Simons, Web Accessibility Specialist at
+the Belgian e-government solutions firm ASCii, says: "My bank in
+Belgium runs a phone banking service. This means I can hear my
+statement and the list of past transactions through the phone. This is a
+regular service and thus not only set up for clients with a handicap.
+This method is very convenient and fast. I consider it indeed more
+secure than receiving this information via email."
+
+And Debbie Payne of Hereford says: "I don't use internet banking, but
+I do use the phone banking service provided by my bank, which I find
+invaluable. It gives you spoken access to your balance, recent
+transactions and so on and allows you to speak to an operator should
+you wish to obtain detailed information of transactions on previous
+statements. This is ideal, particularly if you do not read Braille, or find
+internet banking time-consuming."
+
+
++09: MORE CHIPS: Also on the subject of banking, the debate
+continues about the accessibility or otherwise of the new 'Chip and
+PIN' system which will see electronic codes replacing signatures for
+use with credit and debit cards.
+
+Debbie Payne writes: "I agree with Clare Page, who was incredulous
+as to why visually impaired people cannot use the Chip and PIN
+system. Personally I can't wait to start using it. As a totally blind
+person myself, I avoid using my card in shops, because I find using a
+signature extremely difficult, and always feel self-conscious. As Clare
+rightly points out, the only problem should be knowing the layout of
+the keypad. Surely, it would be far easier to simply key in a four-digit
+number than to worry about where to put your signature on a piece of
+paper."
+
+And Julia Schofield asks: "Do we in the UK always respond negatively
+to change? Is it poor education about something new, and the often
+negative stand taken by lead organisations for the blind that lead to this
+reaction to progress?
+
+"I hate fumbling for a pen and having to ask where to sign on a credit
+card or other receipt. If you can use a mobile phone, surely a 'pinpad'
+is no harder? Perhaps we should just be pressing for different surfaces
+on important keys like 'enter' or 'validate'?
+
+"Perhaps some unbiased 'how to' information and a little help the first
+time would change opinions - it's much easier and safer. I do think
+people tend to not like what they don't know, and from my past
+consultancy work with the Post Office, we found that if people were
+introduced to the PIN entry personally then they were converts
+immediately."
+
+
++10: FREE READER: Continuing our discussion on cheaper types of
+screen-reader software, Nick Freear of Bunbury IS says: "I use a audio
+Web-browser 'pwWebSpeak' from Productivity Works:
+http://www.soundlinks.com/pwgen.htm
+
+"Their terms include: "If you are a visually impaired individual, or are
+using the software to evaluate sites for accessibility, you may use the
+software freely, but will not be entitled to support." Unlike most
+screen-readers 'pwWebSpeak' does not rely on a separate browser to
+access the Web - it is self contained. The download is 6.3 Megabytes."
+
+[Section two ends].
+
+
+++Special Notice: Web Accessibility Forum.
+
+Accessify Forum is a discussion forum devoted to all topics relating to
+web accessibility. Topics cover everything from 'Beginners' and 'Site
+building and testing' through to projects such as the new accessibility
+testing tool WaiZilla and the accessibility of the open source forum
+software itself.
+
+All you need to register is a working email address, so come along and
+join in the fun at:
+http://www.accessifyforum.com .
+
+[Special notice ends].
+
+
+++Section Three: Focus
+- Online shopping.
+
++11: Diary of a Dissatisfied Customer
+by Karen Turner and Mel Poluck.
+
+E-Access Bulletin reader Karen Turner began using the Tesco
+supermarket's online, home delivery shopping service when she found
+herself unable to leave her home due to illness. However, even though
+Tesco has provided a special 'Access Grocery Service' web site aimed
+at those using assistive technologies, Turner found that ordering goods
+as a blind user was fraught with difficulties.
+
+In fact, Turner does not use the 'Access' site
+(http://www.tesco.com/access/about.htm) because she says it does not
+carry all the special offers shown in the main site, and it is not possible
+to amend an order after it has been placed.
+
+The following is an edited selection of a series of emails between
+Turner and the customer service department of Tesco, exchanged as a
+result of these problems.
+
+1 March 2004.
+From: Karen Turner.
+Dear Tesco,
+As a blind person, my preferred browser is Opera as this gives me
+many keyboard controls instead of having to use the mouse. On
+completing the order, and entering my payment details, I obtained an
+error message. I tried several times with different payment cards and
+received the error again and again, and became angry and frustrated
+feeling that I had just wasted four hours navigating your site.
+
+4 March 2004.
+From: Suzi Harris, Customer Service Manager, Tesco.com.
+Dear Karen,
+If you experience any problems in future placing orders with
+Tesco.com, please call our helpline where one of our operators will be
+happy to help.
+
+5 March 2004.
+From: Karen Turner.
+Dear Suzi Harris,
+You have made no comments on the difficulty I have using Tesco.com
+and my preferred browser. You state I should contact an operator on
+your helpline. However, I fail to understand why you cannot give a
+reason for my difficulty now, and wonder how I can contact you by
+telephone at the same time as viewing Tesco.com when I have one line
+for both my internet and telephone connection and no mobile phone?
+
+
+9 March 2004.
+From: Sean McKellican, Customer Service Manager, Tesco.com.
+Dear Karen,
+I'm sorry to hear of the problems that you are having with our site and
+the Opera browser. The site is not designed or coded in order for
+customers to use other browsers other than Internet Explorer or
+Netscape. This has always been the case since day one of the web site
+but fully understand as the years go by that this will have to change.
+
+At the moment we only have three per cent of our customers using the
+Opera browser - a few of them have advised us of this problem. In the
+meantime, until we do decide to change the site in any way, we can
+only ask that you use Internet Explorer or Netscape, or you can try our
+other site of www.tesco.com/access.
+
+
+11 March 2004.
+From: Karen Turner.
+Thank you for your kind and informative reply. Today I decide I need
+further products from Tesco and grudgingly use the Internet Explorer
+browser. I am not given information regarding my overall bill as I add
+each item and navigating with the tab key on this page is long and
+tedious, as I have to listen for my screen reader to speak each item. On
+adding items to my shopping basket, the text box for the product is
+omitted by the tab key and therefore not read to me by my screen
+reader. I am forced to attempt to visually read these boxes in the hope
+that I will order the goods I require.
+
+After each addition, I return to the original product list and start the
+procedure again, instead of being able to return to my latest choice. I
+then try to update selected items to my original order, then proceed to
+'check out.' I then find I now have two orders, the shopping I did on
+the access page being treated as a new order.
+
+Uncertain of the next step, I contact your helpline, and explain I want
+these items to be delivered with my original order. I queried if this
+would mean I had two separate delivery charges, which your operator
+confirmed. It appears you are not willing to forgo one of the delivery
+charges as you cannot amalgamate these two orders.
+
+
+17 March 2004.
+From: Stuart Robertson, Customer Service Manager, Tesco.com.
+Dear Karen,
+Thank you for your email. Please accept my apologies for the delay in
+replying to your query. Unfortunately, I have only just received your
+email after the time that your order can be amended. Orders for
+delivery before six pm can only be amended up until two forty-five am
+on the same day. Once again, please accept my apologies for any
+inconvenience caused.
+
+
+17 March 2004.
+From: Karen Turner.
+Thank you for replying to my email. However, I feel what you really
+mean is you have delayed actioning my email. I appreciate all the time
+and effort spent aiding my shop online. Unfortunately, due to the
+incomplete advice given by yourselves to my individual queries at the
+relevant times, I do not feel you have shown complete commitment,
+empathy or satisfaction to your customer.
+
+
+18 March 2004.
+From: Elaine Pople, Customer Service Manager, Tesco.com.
+Dear Karen,
+I fully appreciate your comments. We aim to provide the best possible
+service for our customers and any feedback or suggestions made are
+always very welcome. The relevant department dealing with such
+matters has been notified and I can assure you that this will be taken on
+board.
+
+NOTE: If other readers have had similar exchanges that might make
+interesting reading, please let us know. Email the editor on
+inbox@headstar.com .
+
+[Section three ends].
+
+
+++Special Notice: Test Your Site's Accessibility.
+
+Headstar, the publishers of E-Access Bulletin, is offering a range of
+independent, expert assessment packages to ensure your web services
+comply with best practice and the law. We can provide you with a
+clear, detailed report on the current access status of your site, and a list
+of tasks you will need to carry out to ensure compliance with
+government requirements.
+
+Reports also include results from general quality assurance tests such
+as link-checking. Taking accessibility action benefits all users, will
+make your site easier to maintain, and can improve your search engine
+rating! Please note the service is tailored in particular to larger
+organisations with major web sites or services.
+
+For more information please email:
+access-consult@headstar.com .
+
+[Special notice ends].
+
+
+++Section Four: Access Concepts
+- The Totally Integrated Portal.
+
++12: Universal Service
+by Ken Matthews.
+
+The Totally Integrated Portal (TIP) is a name I have given to the
+concept of developing a highly structured web site to completely
+integrate the visually impaired or dyslexic person into the digital
+domain, allow them to interact with each other and the outside world as
+simply as any other person who has access to the internet.
+
+I believe the concept can be broadened to include other disabled
+groups, and can be achieved relatively quickly. The technology is
+available: all that is required is the will to carry it forward.
+
+Here's how it would work. People who access the site would be
+greeted by a voice message giving them a choice of a numbered menu.
+The computer or other type of device that the client is using would be
+voice activated, and the user would simply say a number. Here are a
+number of example options, although anything could be offered:
+
+1: News headlines.
+2: Newspapers in depth.
+3: Radio schedules
+4: Library
+5: Latest information for specific groups.
+6: Communication.
+7: Other accessible sites.
+8: Online games rooms.
+9: Voice chat rooms
+10: Recorded chat.
+11: Talk to the moderator.
+12: Radio stations.
+
+Upon choosing a number, the individual would be given a further set of
+numbered options. In the examples listed above, options one and two
+could lead to top headlines from the main national newspapers, and
+selections of say 10 stories from each paper, respectively.
+
+Option number three. Radio Schedules, would present structured radio
+programme timetables.
+
+Option number four, Library, would offer a selection of audio books
+that could be listened to as streaming audio.
+
+Option number five, Latest information for specific groups, could
+cover for example announcements from the RNIB for blind people,
+information for dyslexics, or information for people with a motor
+control disability such as cerebral palsy.
+
+Option number six, Communication, would offer telephone lists and
+direct connection to a range of services including voicemail or doctors'
+surgeries or hospitals. The concept is that this area would be tailored to
+individual requirements of each person.
+
+Option number seven, Other accessible sites, would connect to other
+web sites meeting the same criteria as the gateway. Again, the
+possibilities are endless as more sites become accessible.
+
+Option number eight, Online games rooms, would offer accessible
+games like live quizzes or bingo.
+
+Option number nine, Voice chat rooms, would be live and moderated
+for the most part, although the concept is basically client led. At any of
+the chat rooms, the moderator could allocate a room for private advice
+if required on a one-to-one basis. Options might include The social
+worker; Citizen's advice bureaux; Meet the doctor; The lawyer's
+forum; The Benefits session; Political forum.
+
+Option number ten, Recorded chat, would feature recordings for people
+who had missed live events.
+
+Option number eleven, Talk to the moderator, would allow service
+problems to be aired or new features to be requested.
+
+Option number twelve, Radio stations, would combine access to
+current stations with a new dedicated 24-hour web radio station
+carrying content of interest to any disabled client group. The station
+could become a main hub or meeting place for all groups.
+
+The TIP concept would generally use voice recognition on the client's
+own equipment to communicate with the service, and meaning the
+client could make any recognisable sound to represent a number. Other
+disabled groups who are unable to make any sound or movement at all,
+should be able to interface with the equipment through other means,
+eye movement or blinking come to mind, because these methods are
+already being used in other areas. The 'Eyetracker system' seems to be
+particularly effective in operating equipment for the disabled who are
+only able to communicate by eye movement. This would appear to be
+an obvious interface for the portal for any group with such severe
+disability. Number pads could also be used by clients who have limited
+movement.
+
+The assistance of specialist societies that look after the interests of
+disadvantaged groups in identifying peoples' needs and helping
+provide the necessary hardware and software is fundamental to the
+whole model.
+
+The TIP gateway is envisaged as being a server in its own right and
+carrying out all of its services as a stand-alone application. Integration
+with other servers in different fields may happen in the longer term.
+For example, the TIP server could integrate with a library server to
+allow customers access to the audio books, so when the client accessed
+the library from the menu of the portal, the sub-menu of the books and
+the streaming audio book could be downloaded from a remote server.
+
+The portal would also be designed to enable the clients to communicate
+with their family or friends in whatever part of the world they may
+reside, opening up a world of opportunity to them. Other services such
+as council services might be accessed in similar ways.
+
+The simple fact that people with severe disabilities could have better
+options to integrate with the outside world makes the TIP concept
+worthwhile. I don't believe the money required to implement these
+ideas would be excessive, and the improvement to the quality of life to
+the recipients would be immeasurable.
+
+NOTE: Article Copyright Ken Matthews, 2004. Ken Matthews is vice-
+chairman of the Mid-Fife Newstape, a talking newspaper and audio
+magazine service for the visually impaired in Glenrothes and
+Kirkcaldy. Individuals or organisations interested in discussing ways of
+realising the TIP concept should contact him on
+kenmatthews@blueyonder.co.uk .
+
+[Section Four ends].
+
+
+++END NOTES.
+
++HOW TO RECEIVE THIS BULLETIN.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com with 'subscribe eab' in the subject header.
+You can list other email addresses to subscribe in the body of the
+message. Please encourage all your colleagues to sign up! To
+unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2004 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this
+copyright notice are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also
+inform the editor when you are reproducing our content. Sections of
+the report may be quoted as long as they are clearly sourced as 'taken
+from e-access bulletin, a free monthly email newsletter', and our web
+site address http://www.headstar.com/eab is also cited.
+
++PERSONNEL:
+Editor - Dan Jellinek
+Deputy editor - Derek Parkinson
+Senior reporter - Mel Poluck
+News reporter - Julie Hill
+Editorial advisor - Kevin Carey.
+
+ISSN 1476-6337 .
+
+[Issue ends.]
+

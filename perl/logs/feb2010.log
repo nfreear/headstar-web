@@ -1,0 +1,39 @@
+__ BUILD [tens2html.pl  v1.14] log Sat Jul  3 23:09:05 2010 __
+
+Input file: ../eab/issues/2010/feb2010.txt
+
+Warning: file already exists: ../eab/issues/2010/feb2010.html.
+Found +++, heading 1: E-ACCESS BULLETIN
+'prev_next' This month: feb | index: 2 | year: 2010
+URLs, prev: ../2010/jan2010.html | next: ../2010/mar2010.html
+Found ++, heading 2: Issue 122 Contents.
+>> FOUND 2:  | 01:  | Braille Struggles Under Threat From Audio Technologies
+>> FOUND 2:  | 02:  | Proposed US Law Would Force Product Accessibility
+>> FOUND 2:  | 03:  | Researchers Plan To Automate Web Image Description
+>> FOUND 2: News in Brief:  | 04:  | Diary Date - e-Access '10 event date set;
+OK, News in brief
+Found: Diary Date - e-Access '10 event date set | ; | 
+>> FOUND 2:  | 05:  | Tablet Features - Apple's iPad and accessibility; 06:
+Warning line 43: expected [Contents ends].
+$toc_count=6
+Found ++, heading 2: Section One: News.
+> ITEM 2:  01:  | Braille Struggles Under Threat From Audio
+Warning: not found a 'contents' match: Braille Struggles Under Threat From Audiotechnologies.
+> ITEM 2:  02:  | Proposed US Law Would Force Product Accessibility.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | Researchers Plan To Automate Web Image Description.
+Found 'contents' match: 2.
+Found ++, heading 2: News in Brief:
+> ITEM 1:  04:  | : |  A date has been set for e-Access '10, the
+> ITEM 1:  05:  | : |  The new iPad 'tablet' computer from
+> ITEM 1:  06:  | : |  A toolbar to increase internet
+Found ++, heading 2: Sponsored Notice: Adept Transcription
+Found ++, heading 2: Section Three: Focus
+> ITEM 2:  07:  | The Decline of Braille: Doomsday For The Dots?
+Warning: not found a 'contents' match: The Decline Of Braille: Doomsday For The Dots?
+Found ++, heading 2: Special Notice: Fortune Cookie
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 400.
+Found ++, heading 2: Sponsored Notice: Accessify Forum
+Found ++, heading 2: End Notes.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 431.
+Use of uninitialized value $1 in concatenation (.) or string at tens2html.pl line 485, <IFILE> line 440.

@@ -1,0 +1,65 @@
+__ BUILD [tens2html.pl  v1.14] log Wed Oct 27 20:38:04 2004 __
+
+Input file: ../eab/issues/2003/apr2003.txt
+
+Warning: file already exists: ../eab/issues/2003/apr2003.html.
+Found +++, heading 1: E-ACCESS BULLETIN.
+'prev_next' This month: apr | index: 4 | year: 2003
+URLs, prev: ../2003/mar2003.html | next: ../2003/may2003.html
+Found ++, heading 2: ISSUE 40 CONTENTS.
+>> FOUND 2:  | 01:  | 'Thin client' accessibility breakthrough
+>> FOUND 2:  | 02:  | Design flaws detected in 'driving licence' test
+>> FOUND 2:  | 03:  | Disability commission to survey the web
+>> FOUND 2:  | 04:  | Equality resource for universities
+>> FOUND 2:  | 05:  | Cynthia says
+>> FOUND 1: News in brief:  | 06: Prize exhibits - museum web awards; 07: Literary
+>> FOUND 2:  | 09:  | Correct reference - terminology debate; 10: Rectangular response -
+>> FOUND 2: cursor advice;  | 11:  | Purse-friendly printer - Braille query; 12: Bounce
+OK, News in brief
+Found: Purse-friendly printer - Braille query | ; |  12: Bounce
+>> FOUND 2: -  | 13:  | A fat lot of usability: The web's leading usability and access
+Found: -  | 13:  | A fat lot of usability: The web's leading usability and access
+>> FOUND 2: - | 14:  | Out of focus: Disability discrimination and universal access
+Found: - | 14:  | Out of focus: Disability discrimination and universal access
+>> FOUND 2: - | 15:  | Stepping ahead: Nolan Crabb charts his eventful journey from
+Found: - | 15:  | Stepping ahead: Nolan Crabb charts his eventful journey from
+Warning line 58: expected [Contents ends].
+$toc_count=15
+Found ++, heading 2: SECTION ONE: NEWS.
+> ITEM 2:  01:  | 'THIN CLIENT' ACCESSIBILITY BREAKTHROUGH.
+Found 'contents' match: 0.
+> ITEM 2:  02:  | FLAWS DETECTED IN 'DRIVING LICENCE' TEST.
+Found 'contents' match: 1.
+> ITEM 2:  03:  | DISABILITY COMMISSION TO SURVEY THE WEB.
+Found 'contents' match: 2.
+> ITEM 2:  04:  | EQUALITY RESOURCE FOR UNIVERSITIES.
+Found 'contents' match: 3.
+> ITEM 2:  05:  | CYNTHIA SAYS.
+Found 'contents' match: 4.
+Found ++, heading 2: NEWS IN BRIEF.
+> ITEM 1:  06:  | : |  Nominations are invited by the national Museums
+> ITEM 1:  07:  | : |  O'Reilly, the leading computer book publisher,
+> ITEM 1:  08:  | : |  The public and private sectors have
+Found ++, heading 2: SPECIAL NOTICE: 'ACCESS IT' AND 'COMPUTE IT'
+Found ++, heading 2: SECTION TWO: 'THE INBOX'
+> ITEM 1:  09:  | : |  Trevor Frost, Adaptive Technology Coordinator
+> ITEM 1:  10:  | : |  Last month John Loader wrote in on behalf of
+> ITEM 1:  11:  | : |  Long-time bulletin reader Anthony Bernard
+> ITEM 1:  12:  | : |  Jackie Wright (email
+Found ++, heading 2: SECTION THREE: INTERVIEW
+> ITEM 2:  13:  | A FAT LOT OF USABILITY?
+Warning: not title-casing possible HTML:
+  13: A FAT LOT OF USABILITY?by Dan Jellinek  <a href="mailto:dan@headstar.com">dan@headstar.com</a> .
+Warning: not found a 'contents' match: A FAT LOT OF USABILITY?by Dan Jellinek  <a href="mailto:dan@headstar.com">dan@headstar.com</a> .
+Found ++, heading 2: SECTION FOUR: OPINION
+> ITEM 2:  14:  | OUT OF FOCUS
+Warning: not title-casing possible HTML:
+  14: OUT OF FOCUSby Kevin Carey  <a href="mailto:humanity@atlas.co.uk">humanity@atlas.co.uk</a> .
+Warning: not found a 'contents' match: OUT OF FOCUSby Kevin Carey  <a href="mailto:humanity@atlas.co.uk">humanity@atlas.co.uk</a> .
+Found ++, heading 2: SECTION FIVE: VIEWPOINT
+> ITEM 2:  15:  | STEPPING AHEAD
+Warning: not title-casing possible HTML:
+  15: STEPPING AHEADby Nolan Crabb  <a href="mailto:ncra@teleport.com">ncra@teleport.com</a> .
+Warning: not found a 'contents' match: STEPPING AHEADby Nolan Crabb  <a href="mailto:ncra@teleport.com">ncra@teleport.com</a> .
+Found ++, heading 2: END NOTES.
+Warning: not found a 'contents' match: How To Receive This Bulletin
