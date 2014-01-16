@@ -5,14 +5,17 @@ Access To Technology For All, Regardless Of Ability
 A Headstar Publication.
 http://www.headstar.com/eab/ .
 
-Please forward this free bulletin to others (subscription details at the end). We conform to the accessible Text Email Newsletter (TEN) Standard:
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
 http://www.headstar.com/ten/ .
 
 
 ++Issue 135 Contents.
 
 01: Report Highlights Research Gaps For Assistive Technology
-- Production and commercial issues also impacting on the sector
+- Production and commercial issues also impacting on the
+sector
 
 02: Council Web Access ‘Should Be Built Into Procurement’
 - More user-testing also needed, says annual review.
@@ -20,13 +23,21 @@ http://www.headstar.com/ten/ .
 03: Empowering Potential of Technology Celebrated
 - Nominations for accessibility awards now open.
 
-News In Brief: 04: Copyright Controversy - analysts attacks EU-US blocks to copyright reform; 05: Sunny Content - CSUN San Diego papers online; 06: Settlement Complaint - Google books case disappointment.
+News In Brief: 04: Copyright Controversy - analysts attacks
+EU-US blocks to copyright reform; 05: Sunny Content - CSUN
+San Diego papers online; 06: Settlement Complaint - Google
+books case disappointment.
 
 Section Two: Inbox.
-07: Thunder Intact – no cuts for Screenreader.net; 08: More Sound – Word to audio latest.
+07: Thunder Intact – no cuts for Screenreader.net; 08: More
+Sound – Word to audio latest.
 
 Section Three: Opinion - Open Source Software.
-08: Priced Out of the Market? Most blind computer users in employment use the popular, high-end JAWS screen-reader running on Windows, but the combination can be expensive for retired or out of work users. The open source community needs to step in to fill the gap, says David Bates.
+08: Priced Out of the Market? Most blind computer users in
+employment use the popular, high-end JAWS screen-reader
+running on Windows, but the combination can be expensive
+for retired or out of work users. The open source community
+needs to step in to fill the gap, says David Bates.
 
 [Contents ends].
 
@@ -36,30 +47,64 @@ Section Three: Opinion - Open Source Software.
 +01: Report Highlights Research Gaps For Assistive
 Technology.
 
-Lack of awareness of the needs of users with disabilities; funding problems; user-testing problems and problems with ensuring use of open standards are all among barriers to successful transfer of new assistive technologies from the research laboratory to the real world, a new report finds.
+Lack of awareness of the needs of users with disabilities;
+funding problems; user-testing problems and problems with
+ensuring use of open standards are all among barriers to
+successful transfer of new assistive technologies from the
+research laboratory to the real world, a new report finds.
 
-The report was written by consultant Dr John Gill for the Cardiac project, a European initiative to identify research and development gaps in the fields of accessible and assistive ICT ( http://www.cardiac-eu.org ).
+The report was written by consultant Dr John Gill for the
+Cardiac project, a European initiative to identify research and
+development gaps in the fields of accessible and assistive ICT (
+http://www.cardiac-eu.org ).
 
-The project covers two main areas: transferring assistive devices from the laboratory to wide availability; and encouraging the introduction of more mainstream products and services which are usable by people with disabilities.
+The project covers two main areas: transferring assistive
+devices from the laboratory to wide availability; and
+encouraging the introduction of more mainstream products and
+services which are usable by people with disabilities.
 
-“In the area of assistive technology for people with disabilities, many devices have been developed, some of which were successful, but most have failed to make the transition from the laboratory to being generally available at affordable prices”, the report finds.
+“In the area of assistive technology for people with disabilities,
+many devices have been developed, some of which were
+successful, but most have failed to make the transition from
+the laboratory to being generally available at affordable
+prices”, the report finds.
 
 Problems have included:
 
-- Assistive devices are often required in relatively small quantities, but modern production techniques require large quantities to keep prices low;
+- Assistive devices are often required in relatively small
+quantities, but modern production techniques require large
+quantities to keep prices low;
 
-- Manufacturers often insist on using proprietary protocols, whereas users would prefer systems based on open standards to avoid supplier lock-in; and
+- Manufacturers often insist on using proprietary protocols,
+whereas users would prefer systems based on open standards
+to avoid supplier lock-in; and
 
-- Widespread lack of awareness of accessibility issues among product and service design teams.
+- Widespread lack of awareness of accessibility issues among
+product and service design teams.
 
-Organisations representing people with disabilities seldom join discussions on research priorities since they lack people with the skills to understand the potential of new developments to help people with disabilities, the report finds.
+Organisations representing people with disabilities seldom join
+discussions on research priorities since they lack people with
+the skills to understand the potential of new developments to
+help people with disabilities, the report finds.
 
 There is also a catch-22 situation regarding commercial risk:
-“Companies in the disability area tend to be risk-averse, so prefer to update an existing product rather than market a truly innovative concept”, it says. “New concepts may not get subsidised until such time that they have significant market penetration, but the market may not exist until a subsidy is available.
+“Companies in the disability area tend to be risk-averse, so
+prefer to update an existing product rather than market a truly
+innovative concept”, it says. “New concepts may not get
+subsidised until such time that they have significant market
+penetration, but the market may not exist until a subsidy is
+available.
 
-“Therefore, many projects are based on incremental improvements of available technology and produce only marginal advantages for end users [whereas] It is ... necessary to encourage research projects that are based on real technological innovations and produce significant advantages for users.”
+“Therefore, many projects are based on incremental
+improvements of available technology and produce only
+marginal advantages for end users [whereas] It is ... necessary
+to encourage research projects that are based on real
+technological innovations and produce significant advantages
+for users.”
 
-‘Passing it on - technology transfer for assistive and accessible information and communications systems’ is available as a pdf file at:
+‘Passing it on - technology transfer for assistive and accessible
+information and communications systems’ is available as a pdf
+file at:
 http://www.cardiac-eu.org/tech_transfer/report.pdf
 
 And you can comment on this story now, on EAB Live:
@@ -68,18 +113,38 @@ http://www.headstar.com/eablive/?p=569
 
 +02: Council Web Access ‘Should Be Built Into Procurement’.
 
-Website accessibility should be built into local authority software and IT systems procurement criteria, the leading annual review of all UK council websites has found.
+Website accessibility should be built into local authority
+software and IT systems procurement criteria, the leading
+annual review of all UK council websites has found.
 
-More local authorities should also carry out user-testing on their websites using groups of people with disabilities, according to Better Connected 2011 ( http://bit.ly/hBOGUw ), conducted by the public sector Society of IT Management (Socitm).
+More local authorities should also carry out user-testing on
+their websites using groups of people with disabilities,
+according to Better Connected 2011 ( http://bit.ly/hBOGUw ),
+conducted by the public sector Society of IT Management
+(Socitm).
 
 A direct accessibility test was carried out for the survey of all
-433 UK council websites, based on the World Wide Web Consortium’s international Web Content Accessibility Guidelines (WCAG).
+433 UK council websites, based on the World Wide Web
+Consortium’s international Web Content Accessibility
+Guidelines (WCAG).
 
-Using these guidelines, just 30 councils (7%) achieved the basic ‘Level A’ standard, compared with a similar number – 32 – in 2010. As in previous years, no council achieved ‘Level AA’ – the standard which the previous government encouraged all councils to reach.
+Using these guidelines, just 30 councils (7%) achieved the
+basic ‘Level A’ standard, compared with a similar number – 32
+– in 2010. As in previous years, no council achieved ‘Level
+AA’ – the standard which the previous government encouraged
+all councils to reach.
 
-Although the tests continue to use version 1.0 of WCAG ( http://bit.ly/cmbc4g ), the report says it is likely to switch to use of the newer version 2.0 guidelines for next year’s survey.
+Although the tests continue to use version 1.0 of WCAG (
+http://bit.ly/cmbc4g ), the report says it is likely to switch to use
+of the newer version 2.0 guidelines for next year’s survey.
 
-As in previous years the Royal National Institute of Blind People (RNIB), which advises Socitm on accessibility, carried out its own separate qualitative assessment for the survey on all sites that passed an automated test. This year, some 241 councils (56%) were rated by RNIB as satisfactory or excellent using this follow-up assessment of accessibility, compared with only 187 (43%) in 2010.
+As in previous years the Royal National Institute of Blind
+People (RNIB), which advises Socitm on accessibility, carried
+out its own separate qualitative assessment for the survey on all
+sites that passed an automated test. This year, some 241
+councils (56%) were rated by RNIB as satisfactory or excellent
+using this follow-up assessment of accessibility, compared with
+only 187 (43%) in 2010.
 
 And you can comment on this story now, on EAB Live:
 http://www.headstar.com/eablive/?p=566
@@ -87,16 +152,42 @@ http://www.headstar.com/eablive/?p=566
 
 +03: Empowering Potential of Technology Celebrated.
 
-A new awards event aims to recognise the ability of computers, the internet and assistive technology to improve the lives of people with disabilities and empower vulnerable sections of society.
+A new awards event aims to recognise the ability of computers,
+the internet and assistive technology to improve the lives of
+people with disabilities and empower vulnerable sections of
+society.
 
-Organised by disability and ICT charity AbilityNet ( http://bit.ly/himPdh ) and supported by organisations including BT, Microsoft and Race Online 2012, the first Technology4Good awards ( http://bit.ly/gwQUvZ ) are looking for examples of charities, businesses, government organisations and individuals that have used digital technology to improve the work and home lives of others, including disabled people, the elderly and young children. Two Accessibility Awards are featured in the seven categories.
+Organised by disability and ICT charity AbilityNet (
+http://bit.ly/himPdh ) and supported by organisations including
+BT, Microsoft and Race Online 2012, the first
+Technology4Good awards ( http://bit.ly/gwQUvZ ) are looking
+for examples of charities, businesses, government
+organisations and individuals that have used digital technology
+to improve the work and home lives of others, including
+disabled people, the elderly and young children. Two
+Accessibility Awards are featured in the seven categories.
 
-Speaking to E-Access Bulletin’s sister publication (E- Government Bulletin: http://bit.ly/aKaTdz ), Mark Walker of AbilityNet said that the event has two main aims: “The first is to share stories about what works. It’s a good chance for people to share knowledge and experience. Secondly, it’s a chance to inspire other people.”
+Speaking to E-Access Bulletin’s sister publication (E-
+Government Bulletin: http://bit.ly/aKaTdz ), Mark Walker of
+AbilityNet said that the event has two main aims: “The first is
+to share stories about what works. It’s a good chance for
+people to share knowledge and experience. Secondly, it’s a
+chance to inspire other people.”
 
-At a recent launch event for the awards, a blind member of AbilityNet gave a demonstration of how his smartphone helped him to navigate and organise parts of his life on a daily basis.
-“I’m sure lots of people have gone away and shared that story”, said Walker. “The inspiration you get from hearing about how other people have succeeded is a big part of what we’re trying to do as well.”
+At a recent launch event for the awards, a blind member of
+AbilityNet gave a demonstration of how his smartphone helped
+him to navigate and organise parts of his life on a daily basis.
+“I’m sure lots of people have gone away and shared that
+story”, said Walker. “The inspiration you get from hearing
+about how other people have succeeded is a big part of what
+we’re trying to do as well.”
 
-Nominations for all the Technology4Good Awards (whose judging panel will feature members of AbilityNet, Microsoft, BT and Martha Lane Fox – the UK’s Digital Champion) are now open, and entrants may nominate themselves or others before the 9 May deadline. The results will be announced on 7 June.
+Nominations for all the Technology4Good Awards (whose
+judging panel will feature members of AbilityNet, Microsoft,
+BT and Martha Lane Fox – the UK’s Digital Champion) are
+now open, and entrants may nominate themselves or others
+before the 9 May deadline. The results will be announced on 7
+June.
 
 And you can comment on this story now, on EAB Live:
 http://www.headstar.com/eablive/?p=562
@@ -105,7 +196,18 @@ http://www.headstar.com/eablive/?p=562
 ++News in Brief:
 
 +04: Copyright Controversy: Continuing European Union and
-US opposition to a proposed law by the World Intellectual Property Organisation (WIPO), which would allow people with print disabilities to share copyrighted works across international boundaries has been labelled as “rigid, insensitive and short- sighted”, by a former Member of the European Parliament for Spain. The WIPO proposal has been under discussion for several years, and had seemed to be edging forwards, though any clear agreement is still some way off (see E-Access Bulletin issue 131: http://bit.ly/eNgEDt ). David Hammerstein made the comments in an outspoken interview with a US website, in which he said the “EU-US coalition” has not put forward any solid economic or legal reasons for their
+US opposition to a proposed law by the World Intellectual
+Property Organisation (WIPO), which would allow people with
+print disabilities to share copyrighted works across international
+boundaries has been labelled as “rigid, insensitive and short-
+sighted”, by a former Member of the European Parliament for
+Spain. The WIPO proposal has been under discussion for
+several years, and had seemed to be edging forwards, though
+any clear agreement is still some way off (see E-Access
+Bulletin issue 131: http://bit.ly/eNgEDt ). David Hammerstein
+made the comments in an outspoken interview with a US
+website, in which he said the “EU-US coalition” has not put
+forward any solid economic or legal reasons for their
 opposition:
 
 http://www.keionline.org/node/1087
@@ -113,13 +215,27 @@ Short link: http://bit.ly/hLOHmb
 
 
 +05: Sunny Content: Papers from the 26th Annual International
-Technology & Persons with Disabilities Conference, which took place last week in San Diego, California, are now available to be read online. Hosted by the Center on Disabilities at California State University, Northridge (CSUN – the acronym by which the conference itself is usually known) – this year’s event featured presentations on hundreds of topics including accessibility developments in social media, and how assistive technology can benefit students with disabilities:
+Technology & Persons with Disabilities Conference, which
+took place last week in San Diego, California, are now
+available to be read online. Hosted by the Center on
+Disabilities at California State University, Northridge (CSUN –
+the acronym by which the conference itself is usually known)
+– this year’s event featured presentations on hundreds of topics
+including accessibility developments in social media, and how
+assistive technology can benefit students with disabilities:
 
 Short link: http://bit.ly/hQhn9p
 
 
 +06: Settlement Complaint: The US-based National Federation
-of the Blind (NFB) has expressed its disappointment at an American federal judge’s rejection of an agreement between Google and various publishing and authors’ groups which would have allowed the company to scan sections of any book and display extracts online, creating a global digital library. The NFB had previously expressed its support for the ‘Google Books Settlement’, claiming it would increase access to a wide range of books by blind people worldwide:
+of the Blind (NFB) has expressed its disappointment at an
+American federal judge’s rejection of an agreement between
+Google and various publishing and authors’ groups which
+would have allowed the company to scan sections of any book
+and display extracts online, creating a global digital library. The
+NFB had previously expressed its support for the ‘Google
+Books Settlement’, claiming it would increase access to a wide
+range of books by blind people worldwide:
 
 http://www.nfb.org/NewsBot.asp?MODE=VIEW&ID=778
 Short link: http://bit.ly/ieMvSE
@@ -130,11 +246,19 @@ Short link: http://bit.ly/ieMvSE
 ++Sponsored Notice: Accessify Forum
 - Six Years of Accessibility Discussion.
 
-Accessify Forum has been the number one destination for accessibility discussion on the web for nearly six years. Celebrating our sixth birthday next month, you’ll find discussion of accessibility at all levels, from beginner to guru.
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you’ll find discussion of
+accessibility at all levels, from beginner to guru.
 
-The site has recently been redesigned and the forum system improved. This is still ongoing and you can join in the discussions.
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
 
-So whether you’re looking to learn more about accessibility, want to help others and improve on your own knowledge, or just to browse the archives, come and join us at:
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
 http://www.accessifyforum.com/
 
 [Special notice ends].
@@ -147,20 +271,39 @@ Please email all contributions or responses to:
 inbox@headstar.com .
 
 +07: Thunder Intact: In last week’s inbox, Brian Gaff of
-Kingston upon Thames Talking Newspaper wrote in to bemoan the current government spending cuts, and suggested that two creators of free or open source screenreader software were being forced to scale back their operations as a result. However Roger Wilson-Hinds, director of one of the two firms mentioned, Screenreader.net, writes in to say: “I was very surprised to read in the February issue that we are cutting back our free screenreader development due to lack of cash.
+Kingston upon Thames Talking Newspaper wrote in to bemoan
+the current government spending cuts, and suggested that two
+creators of free or open source screenreader software were
+being forced to scale back their operations as a result. However
+Roger Wilson-Hinds, director of one of the two firms
+mentioned, Screenreader.net, writes in to say: “I was very
+surprised to read in the February issue that we are cutting back
+our free screenreader development due to lack of cash.
 
-“Actually, the opposite is the truth and there has never been more demand for free Thunder talking software.
+“Actually, the opposite is the truth and there has never been
+more demand for free Thunder talking software.
 
-“What we are really doing is moving into the smart phone sector with a plan to create some useful apps, low cost and aimed at perhaps a wider audience than merely those who can’t see. More about all this at a later date, but we are certainly not cutting back.”
+“What we are really doing is moving into the smart phone
+sector with a plan to create some useful apps, low cost and
+aimed at perhaps a wider audience than merely those who can’t
+see. More about all this at a later date, but we are certainly not
+cutting back.”
 
 [Further responses please to inbox@headstar.com ].
 
 
 +08: More Sound: Steve Griffiths, Digital Accessibility
-Development Officer at the Royal National Institute of Blind People, writes in with a further tip in response to David Bates’
-query in our January edition asking advice on free or open source software to convert Word files to audio formats.
+Development Officer at the Royal National Institute of Blind
+People, writes in with a further tip in response to David Bates’
+query in our January edition asking advice on free or open
+source software to convert Word files to audio formats.
 
-“I wanted to mention the ‘Save as DAISY’ plug-in for Word, which uses the SAPI 5 voice on your Windows PC”, he says – SAPI being Microsoft’s ‘Speech Application Programming Interface’ for speech recognition and voice synthesis in Windows. A trial version of this plug-in was released last week that supports Word 2010, Griffiths says:
+“I wanted to mention the ‘Save as DAISY’ plug-in for Word,
+which uses the SAPI 5 voice on your Windows PC”, he says –
+SAPI being Microsoft’s ‘Speech Application Programming
+Interface’ for speech recognition and voice synthesis in
+Windows. A trial version of this plug-in was released last week
+that supports Word 2010, Griffiths says:
 http://www.daisy.org/project/save-as-daisy-microsoft-word-
 add-in .
 Short link:
@@ -174,11 +317,15 @@ http://bit.ly/bAjxqY .
 ++Sponsored Notice: Adept Transcription
 - Alternative Formats At Affordable Prices.
 
-When you want alternative formats for disabled colleagues, customers and staff, call Adept.
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
 
-Formats we produce include audio, audio description, Braille, BSL, Easy Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at prices from a penny a word.
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
 
-Whether handling a newsletter, training DVD, equality scheme, public service leaflet, contract or consultation, we provide:
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
 - One-stop shop for all formats
 - Products quality-checked by users
 - Corporate presentation including your house style
@@ -187,7 +334,8 @@ Whether handling a newsletter, training DVD, equality scheme, public service lea
 - Accessible packaging
 
 Contact us at:
-Tel: 0208 133 5418 (precede with 18001 for typetalk) Email transcription@adept-uk.org
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
 
 [Sponsored Notice ends]
 
@@ -198,29 +346,88 @@ Tel: 0208 133 5418 (precede with 18001 for typetalk) Email transcription@adept-u
 +09: Priced Out of the Market?
 by David Bates.
 
-There is now increasing emphasis on enabling more of the older and poorer members of the community to use computers to access information and to communicate with others. I see the primary need for non-computer-literate older people to be an inexpensive ‘net book’ with a very simple and easily- learned interface which will enable them to undertake basic tasks. But from where can such machines be purchased with suitable, simple software installed?
+There is now increasing emphasis on enabling more of the
+older and poorer members of the community to use computers
+to access information and to communicate with others. I see
+the primary need for non-computer-literate older people to be
+an inexpensive ‘net book’ with a very simple and easily-
+learned interface which will enable them to undertake basic
+tasks. But from where can such machines be purchased with
+suitable, simple software installed?
 
-Like a new driver, learners are easily put off by technicalities – they just want to move forward by operating the controls without learning what goes on under the bonnet. This problem is especially acute for blind computer users, who have to control the machine in an unusual way: because they cannot read the text or see the cursor they must move it around the screen with the Alt, arrow and Tab keys, and then listen to the words under the cursor as they are read out with a synthetic voice. The link they require may be very visible on the screen, but it may well take the carefully listening user many keystrokes to locate it.
+Like a new driver, learners are easily put off by technicalities –
+they just want to move forward by operating the controls
+without learning what goes on under the bonnet. This problem
+is especially acute for blind computer users, who have to
+control the machine in an unusual way: because they cannot
+read the text or see the cursor they must move it around the
+screen with the Alt, arrow and Tab keys, and then listen to the
+words under the cursor as they are read out with a synthetic
+voice. The link they require may be very visible on the screen,
+but it may well take the carefully listening user many
+keystrokes to locate it.
 
-Many blind users consider themselves tied to Microsoft programmes and to Freedom Scientific, the company which makes the popular JAWS screenreader software which is optimised to read these programmes. These two brand leaders provide a first-class, premium-priced service for blind people in paid employment, but their sales policies largely exclude the needs of the great majority of blind people who are unemployed or retired.
+Many blind users consider themselves tied to Microsoft
+programmes and to Freedom Scientific, the company which
+makes the popular JAWS screenreader software which is
+optimised to read these programmes. These two brand leaders
+provide a first-class, premium-priced service for blind people
+in paid employment, but their sales policies largely exclude the
+needs of the great majority of blind people who are
+unemployed or retired.
 
-Since my retirement I have continued to use Microsoft XP, Office 97, Outlook Express and JAWS, while working for two charitable organisations. However, I recently had to buy a new computer which came with Windows 7 and Office 2007 because the older programmes have been withdrawn.
+Since my retirement I have continued to use Microsoft XP,
+Office 97, Outlook Express and JAWS, while working for two
+charitable organisations. However, I recently had to buy a new
+computer which came with Windows 7 and Office 2007
+because the older programmes have been withdrawn.
 
-Without the traditional fixed menus, the new programmes are much more difficult to use with a screenreader. To allow me to continue my work, Microsoft has therefore forced me to undertake a considerable and unnecessary learning curve, and they have also charged me for the privilege of doing this!
+Without the traditional fixed menus, the new programmes are
+much more difficult to use with a screenreader. To allow me to
+continue my work, Microsoft has therefore forced me to
+undertake a considerable and unnecessary learning curve, and
+they have also charged me for the privilege of doing this!
 
-However, the crowning insult was that the JAWS upgrade needed to access these programmes would have cost me £330 ($500), which would have meant that the new unnecessary software programmes would have cost more than the computer itself. You need to be rich to be blind!
+However, the crowning insult was that the JAWS upgrade
+needed to access these programmes would have cost me £330
+($500), which would have meant that the new unnecessary
+software programmes would have cost more than the computer
+itself. You need to be rich to be blind!
 
-I have decided that if I must go through future learning curves I will move to open source programmes which are regularly updated for free and which will remain available. I have therefore replaced JAWS with NVDA ( http://www.nvda- project.org/ ), a free screenreader which is easy to learn and works as well as JAWS. My email client is now Mozilla Thunderbird, with Firefox replacing Internet Explorer, and I am now checking a free office programme so that I can get away from Microsoft Word with its less accessible ribbon menus.
+I have decided that if I must go through future learning curves I
+will move to open source programmes which are regularly
+updated for free and which will remain available. I have
+therefore replaced JAWS with NVDA ( http://www.nvda-
+project.org/ ), a free screenreader which is easy to learn and
+works as well as JAWS. My email client is now Mozilla
+Thunderbird, with Firefox replacing Internet Explorer, and I am
+now checking a free office programme so that I can get away
+from Microsoft Word with its less accessible ribbon menus.
 
-Replacing the Windows operating system will need more care, but there are several free Linux operating systems out there whose developers could hopefully produce a simple desktop interface which will work with their vast assortment of free programmes, which, surprisingly, also includes a screenreader.
+Replacing the Windows operating system will need more care,
+but there are several free Linux operating systems out there
+whose developers could hopefully produce a simple desktop
+interface which will work with their vast assortment of free
+programmes, which, surprisingly, also includes a screenreader.
 
-Blind people mostly have incomes well below the average, and government cuts are likely to reduce these still further, while also increasing the rate of unemployment among the blind to above the present level of around 65%.
+Blind people mostly have incomes well below the average, and
+government cuts are likely to reduce these still further, while
+also increasing the rate of unemployment among the blind to
+above the present level of around 65%.
 
-The open source community should be encouraged to adapt and supply their software to this low cost market, thereby providing enormous benefits to both older and disabled members of the community, a market which appears to be outside the financial scope of both Microsoft and Freedom Scientific.
+The open source community should be encouraged to adapt
+and supply their software to this low cost market, thereby
+providing enormous benefits to both older and disabled
+members of the community, a market which appears to be
+outside the financial scope of both Microsoft and Freedom
+Scientific.
 
-Note: David Bates is a member of the National Federation of the Blind (NFB) UK Executive ( http://www.nfbuk.org ).
+Note: David Bates is a member of the National Federation of
+the Blind (NFB) UK Executive ( http://www.nfbuk.org ).
 
-This article is the personal opinion of the writer, and does not necessarily represent the views of E-Access Bulletin or Headstar. To respond please email inbox@headstar.com
+This article is the personal opinion of the writer, and does not
+necessarily represent the views of E-Access Bulletin or
+Headstar. To respond please email inbox@headstar.com
 
 And you can comment on this story now, on EAB Live:
 http://www.headstar.com/eablive/?p=558
@@ -232,14 +439,24 @@ http://www.headstar.com/eablive/?p=558
 
 +How to Receive the Bulletin.
 
-To subscribe to this free monthly bulletin, email eab-subs@headstar.com with 'subscribe eab' in the subject header. You can list other email addresses to subscribe in the body of the message. Please encourage all your colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
 
 Please send comments on coverage or leads to Dan Jellinek at:
 dan@headstar.com .
 
 Copyright 2011 Headstar Ltd http://www.headstar.com .
-The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email.
-Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
 http://www.headstar.com/eab
 is also cited.
 
@@ -250,4 +467,4 @@ Editorial advisor: Kevin Carey.
 
 ISSN 1476-6337.
 
-[Issue 135 ends.] 
+[Issue 135 ends.]

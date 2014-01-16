@@ -1,0 +1,552 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 142, November 2011.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end).
+
+
+++Issue 142 Contents.
+
+01: Disney Web Access Case Settles Before Trial
+- Class action concludes, terms as yet unclear.
+
+02: Smartphone App Launches Accessible Loyalty Cards
+- Pilot goes live from Yell directory service.
+
+03: ICT Access Barriers ‘Common Across Europe’
+- International survey aims to boost lifelong learning.
+
+News in Brief: 04: Voter Aid - Oregon iPad election pilot; 05:
+Live Essentials – web accessibility e-learning course; 06: Phone
+Guru – mobile store offers comprehensive assistance.
+
+Section Two, The Inbox – Readers’ Forum: 07: Auctions
+Blocked – eBay barriers; 08: File Fight – distortion on
+magnified pdf pages.
+
+Section Three: Viewpoint - Accessibility in the real world.
+09: Forced Choice: New technologies can liberate – or create
+new ways of excluding people. Miro Griffiths on how disabled
+people are often forced into using ways of accessing
+information they would never choose for themselves.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Disney Web Access Case Settles Before Trial
+
+A US class action against the Walt Disney Company for the
+alleged inaccessibility of its websites has reached an out of
+court settlement ahead of a trial that had been planned for
+January 2012, E-Access Bulletin has learned.
+
+On 29 June, California district judge Dolly Gee gave
+permission for three blind women from California and Kansas
+to proceed with a class action alleging Disney’s are inaccessible
+to screen reader programs, hampering the ability of blind users
+to make reservations for the company’s theme parks and
+download electronic tickets.
+
+The three women are represented by Andy Dogali at Florida-
+based law firm Forizs & Dogali, alongside Los Angeles-based
+attorney Eugene Feldman. Dogali has now told E-Access
+Bulletin the terms of a settlement have been agreed by the
+parties, subject to court approval as required by US law.
+
+“We are presently documenting the settlement, so most of the
+precise details remain confidential, although I expect the
+process to require no more than another few weeks”, he said.
+“The supportive documents will be publicly filed in the very
+near future, along with the request for approval.”
+
+The news of a pre-trial settlement may disappoint some
+observers, as a January trial would have raised the issue of a
+need for greater corporate web accessibility worldwide. Last
+month Samantha Fothergill, senior legal policy officer at UK
+blindness charity RNIB, said the fact that a company with such
+a high profile was being sued was bound to have an effect on
+corporate behaviour and lobbying campaigns elsewhere (see E-
+Access Bulletin, October 2011
+http://www.headstar.com/eablive/?p=633 ).
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=646 .
+
+
++02: Smartphone App Launches Accessible Loyalty Cards.
+
+A smartphone app offering digital versions of shop loyalty
+cards will open up card schemes to many disabled people for
+the first time, its developer has said.
+
+The “mClub” app from print and digital directories company
+Yell – which is free to download –allows retailers to offer
+deals such as “buy nine cups of coffee, get the 10th free”
+without using a physical card. A pilot service – available for
+both the Apple iPhone ( http://bit.ly/pDmUyC )
+and Android phones
+( http://bit.ly/rfB9u6 )
+- has been launched in London, Plymouth and Reading, with a
+BlackBerry service due to be released in the next few weeks.
+
+Although the service was not originally designed for use by
+disabled people Artur Ortega, senior accessibility developer at
+Yell, told E-Access Bulletin this month that when he saw the
+idea presented internally he immediately saw the potential
+benefits for disabled people, and was able to influence the
+design process.
+
+“Before, it wasn’t possible for blind people to use loyalty
+cards,” Ortega said. “You couldn’t find the right card in your
+pocket, and you didn’t know how many stamps were on it. The
+app is also useful for someone who has reduced mobility in
+their hands and who might have problems getting a card out of
+their pocket or wallet.”
+
+Once the app is running, loyalty points are added for each
+participating retailer either by swiping it near a terminal on
+Android phones using near field communication, or by
+scanning a QR code (a square bar code) using the iPhone.
+Although there is a beep emitted when the app is successfully
+swiped, the lack of near–field communication on an iPhone
+was a limitation for blind users unless helped by a shop
+assistant, Ortega acknowledged.
+
+Running the app itself was not too hard for blind users, with
+iPhones coming pre-installed with VoiceOver text-to-speech
+functionality and Android phones able to run similar software
+such as the Mobile Accessibility suite from Code Factory, he
+said.
+
+This kind of approach, combined with geo-location
+technology, is implemented in the new smartphone version of
+the company’s home page www.yell.com, which is hugely
+liberating for disabled people, Ortega said. “If I need a taxi, I
+can find one immediately and then call the taxi using the same
+device, I don’t have to copy telephone number – it’s two clicks
+away. Or I can order a table in a restaurant – it’s a huge
+advantage for blind people or people with reduced mobility.
+
+“Before, you had to call someone and ask them to put you
+through to the restaurant. If the line was busy you had to call
+again and ask them to look it all up again.”
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=644 .
+
+
++03: ICT Access Barriers ‘Common Across Europe’.
+
+The problems encountered in putting ICT accessibility policies
+into practice are common across Europe, according to early
+findings of a survey of policies in 30 nations (the EU
+countries, plus Norway, Iceland and Switzerland), E-Access
+Bulletin has learned.
+
+According to research carried out in June for the EU-funded ‘i-
+access’ project on access to electronic information and lifelong
+learning
+(http://www.european-agency.org/agency-projects/i-access ),
+problems encountered include creating accessible content;
+standards compliance; problems procuring accessible systems;
+and a lack of awareness and understanding.
+
+The project is run by the European Agency for Development in
+Special Needs Education to raise awareness of the issues
+surrounding accessible information provision for lifelong
+learning. While some survey respondents said their
+organisations provided style guides for creating content, only
+about half of these addressed accessibility aspects such as
+considering how a screen-reader would cope.
+
+“There are an estimated 80 million people in the EU with
+disabilities of varying sorts and to differing degrees, and as the
+age profile shifts, so too will the proportion with disabilities”,
+John Galloway, a consultant working on dissemination of i-
+access findings told E-Access Bulletin this week. “There is no
+one solution to the issue of ensuring that any information in an
+electronic format, whether a web-page, a text message, an on-
+screen document, or an information film, is available to all of
+them equally,” Galloway said.
+
+“For each country, we need to find out – what policies do they
+have, and how do they put them into practice? What are the
+differences and similarities? The lessons learned from across
+Europe will be brought together for everyone to share, so this
+difficult issue can be addressed.”
+
+Full details of the research and a report of a project conference
+co-hosted by the Danish Ministry of Education in Copenhagen
+this June are due to be published shortly, with the final project
+recommendations expected towards next summer, Galloway
+said.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=641 .
+
+
+++News in Brief:
+
++04: Voter Aid: Disabled voters in the US state of Oregon are
+being helped to cast their ballot by adaptable software carried
+on iPads by election workers into locations such as community
+centres and nursing homes. Residents in five of the 36 counties
+of Oregon cast their votes in a special primary election on
+Tuesday to nominate candidates to replace Congressman David
+Wu, who resigned following a sex scandal. Voters with
+disabilities were able to make their selection on-screen using
+screen-readers, adjustable font size and screen colours and
+other accessible features. Once the selection was made ballots
+were printed out to be delivered to the elections office.
+According to media reports if the pilot programme is
+successful, the technology will be made available across the
+whole state in future elections:
+Short link: http://apne.ws/swsnGT
+Long link:
+http://hosted.ap.org/dynamic/stories/U/US_VOTE_BY_IPAD?S
+ITE=TNMEM&SECTION=HOME&TEMPLATE=DEFAULT
+
+
++05: Live Essentials: The UK's first e-learning course
+delivering a national qualification in web accessibility went live
+this week. The Web Accessibility Essentials course was
+developed by digital inclusion charity AbilityNet with the
+Equality and Human Rights Commission and BCS (the
+Chartered Institute for IT). For a fee of just under £50, it offers
+a minimum standard by which web developers and managers
+can demonstrate their basic competence and commitment to
+accessibility:
+http://www.bcs.org/wae
+
+
++06: Phone Guru: High levels of assistance for disabled
+customers are being pioneered by the new flagship store for
+mobile network operator O2 in central London. The shop
+offers in-store advice on the benefits that mobile devices such
+as smartphones and their applications, features and functions
+can provide for people with sensory impairments. All staff
+have also received sight loss and deaf awareness training in
+partnership with the Royal National Institute of Blind People
+(RNIB) and consultancy Positive Signs, and the shop is also
+home to O2 “guru” Abigail who is deaf and fluent in BSL.
+Plans are in hand to provide further advice and services for
+people with motor and learning difficulties:
+Short link: http://bit.ly/vvrCYj
+Long link: http://news.o2.co.uk/Press-Releases/O2-store-on-
+Tottenham-Court-Road-aims-to-improve-service-for-D-deaf-
+people-and-those-living-with-sight-loss-345.aspx
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Auctions Blocked: Reader Martin Jones writes in with an
+accessibility complaint about one of the world’s biggest and
+most popular internet sites. He says: “I have been wanting to
+start selling items on eBay, as others have made a substantial
+amount of money, but when I go to list an item, the site is
+virtually inaccessible.
+
+“I would have thought, with it being probably the largest
+auction site in the world, it would appreciate disabilities and
+have made the site accessible, but this does not seem to be the
+case.
+
+Can you tell me if there is an accessible programme I can use
+to list my items, as I have heard software exists If not, is there
+anything which can be done to inform eBay and work with
+them to make the site accessible? (I have tried Turbo Lister, but
+have the same problems of inaccessibility).
+
+I ask, because when I try contacting them, there is either no
+email reply, or the phone line is always engaged. I just thought,
+as eBay is now so popular, if someone has a workaround, then
+others would be grateful of this: if not, then we should do
+something about it, and the more people who are aware, the
+more strength we have.
+
+[Responses please to inbox@headstar.com].
+
+
++08: File Fight: Our regular correspondent Fay Rohrlach from
+South Australia writes in with another major target in her sights:
+the inaccessibility of many pdf files.
+
+“I'm still fighting to get access to materials of which I want, of
+which many are PDFs, and people are not co-operating to
+change their ways when it comes to making a move to do so”,
+Fay writes.
+
+“We all want to be part of the community. But the accessibility
+of this, that, or the other, doesn't permit us to do so. I use
+ZoomText, and to bring up anything on the screen that is in
+pdf, the letters are distorted if the magnification is brought up
+too much.
+
+“I would like to know from anyone as to how can one convert
+pdfs into a word file, particularly into Word 2003, please.
+Some things I've been sent in a word file 2010, which isn't
+accessible. And if there is a way out of it, I'd like to know
+about it. This is 2011, nearly 2012. Why are we still carrying
+on as if we're still living back in the 1950s?
+
+“I say to any business organisations, and any others concerned,
+it could well be one day, that you may need our services, if
+you can't read for yourselves. All fully sighted users, please,
+change your ways for us, and all other people with disabilities,
+or face the compliance rules that may come in the not too
+distant future.”
+
+[Responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
++09: Forced Choice
+by Miro Griffiths.
+
+The social model of disability holds that it is socially
+constructed barriers, rather than the impairments of disabled
+people, that limit their opportunities.
+
+Disabled people are disadvantaged by the way society is
+organised by non-disabled people. Take any issue or area of
+society such as employment, education, housing, transport or
+poverty and you will find that disabled people are more
+disadvantaged than non-disabled people, and that the
+difference cannot be explained or excused by impairment.
+
+The explanation of this deep rooted “structured disadvantage”
+lie in the social, physical and attitudinal barriers that society
+creates, stopping disabled people from fulfilling their potential
+and from achieving the same life chances as non-disabled
+people.
+
+ICT is thought to hold great promise for disabled people
+because it has the potential to reduce or eliminate many of the
+disabling barriers that impair or completely prevent disabled
+people from working, learning, shopping, banking, being
+entertained, and communicating with others.
+
+But many barriers still remain.
+
+New technologies are constructed, tested and designed for non-
+disabled people. They empower people with new abilities, but
+also rely heavily on the existing ones. Telephones depend on
+the capacity to speak and to listen; computer screens on the
+ability to see; satellite navigation systems on the ability to see
+and to hear. And so on.
+
+Any new technology brings with it a new power for those who
+can use it, and a new disability for those who cannot.
+
+How ICT strategy is developed and implemented can mean for
+disadvantaged people the difference between dependency or
+autonomous living.
+
+I’ve heard the economic argument that disabled people need to
+be “reconceptualised” as a potential market (18% of the
+population) and need to trust the market and industry to
+address accessibility.
+
+However, I reject this business argument and would rather
+assert that the industry needs to embrace the “mind set” of the
+social model of disability.
+
+The three critical building blocks of this approach are first,
+respect for the human rights of disabled people. For example,
+product developers need to employ disabled people and
+consult actively with the disability community to ensure that
+access is a fundamental part of products.
+
+Second, respect for personal choice. ICT options must not be
+imposed on disabled people - often choices for
+accommodating impairments are made by a technical
+“expert”—someone who knows the technology options and
+assesses what they believe is best for the user. If only certain
+ICTs are accessible, then disabled people can only choose the
+accessible option – it is a forced choice. Forced choices carry
+with them the message that non-disabled people warrant a full
+range of affordable options, while disabled people only
+deserve the few, often specialised and expensive, options that
+are made available to them.
+
+And the third building block is development of universal
+design and disability-related supports. Often the solutions
+developed in accordance with the social model of disability
+help not only disabled people but also non-disabled people.
+
+Additionally, there are differences in how disabled and non-
+disabled can access and use ICTs that may be beyond the reach
+of universal design. These differences create the need for
+disability-related supports, as well as information, training, and
+local support services in order to become successfully
+connected to the digital world. The social model perspective
+holds that society should make necessary supports available to
+people. In this way, disabled people can both enjoy the
+benefits of society and be productive citizens.
+
+In summary, ICT isn’t the powerful agent of change – it is the
+strategy that is adopted that will be the change agent.
+
+My personal experience of using ICT during higher education –
+I am a post graduate student studying for a masters in disability
+at Leeds University – has, on balance, been a positive one.
+However, there are a few issues it will be useful to highlight.
+
+Disability Student Allowance (DSA) funding is supposed to
+help meet the extra course costs students can face as a direct
+result of a disability.
+
+I am a wheelchair user and have a neuromuscular condition
+associated with muscle weakness from the neck down. When I
+went to have my assessment for DSA I requested several types
+of equipment that were appropriate for my type of impairment.
+
+The first item I requested was a computer multi-monitor
+application. Typically, a student works surrounded by
+numerous text books to read and reference. In my case I am
+unable to lift, hold or turn the page of book. So I requested this
+piece of kit – three monitors and some software – to flip from
+monitor to monitor to access written material or documents.
+The total cost was about £700. Instead I was given a non-
+mainstream mechanical page turner. It takes up about all the
+available desk space, has limited functionality, costs about
+£2,500, is totally inappropriate and was a “forced choice” as
+described earlier. In the end I had to go out and buy the multi-
+monitors myself.
+
+Second item was a laptop – I need a laptop that is
+ergonomically suited to my impairment, and requested a model
+that I considered functionally appropriate for my access needs.
+Again, I was given the “forced choice” and subsequently had
+to go out and buy myself a laptop that I was able to access.
+
+Similarly, I wanted a Kindle so I could access reading material
+while lying on the bed. I spend 14 hours a day sitting in my
+wheelchair and sometimes I would like to study lying down. I
+requested the Kindle because it was lighter and ergonomically
+suited to my impairment. They gave me the heavier Sony
+Reader with the buttons at the top which I couldn’t access.
+
+I went out and bought a Kindle.
+
+This illustrates that it is not the ICT that is the problem but has
+more to do with the strategy and the prescriptive approach of
+the “gatekeepers” of the service. Thus the “technical expert”
+knows what’s best for the user.
+
+Then there was the set book list. All the course material was
+electronically accessible, but most of the set books were not
+accessible, so I was faced with paying somebody to scan my
+purchased books and format them into PDFs. This cost me
+three times the price of each book.
+
+The point I want to make is that I am not on “equal basis with
+other students”. And many disabled students may well have
+given up the course because of issues of affordability.
+
+ICT has to be affordable; available; accessible – and
+applicable.
+
+© Copyright Miro Griffiths 2011. Miro Griffiths is a disability
+equality consultant. This article is an edited version of a talk
+given at this year’s e-Access ’11 conference, hosted by E-
+Access Bulletin’s publisher Headstar.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=639 .
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility discussion on the web for nearly six years.
+Celebrating our sixth birthday next month, you’ll find
+discussion of accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2011 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Editorial advisors: Kevin Carey, Tristan Parker.
+
+
+ISSN 1476-6337.
+
+[Issue 142 ends.]

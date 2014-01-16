@@ -1,0 +1,599 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 144, January 2012.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end).
+
+
+++Issue 144 Contents.
+
+01: Tesco pledges action over inaccessible app
+- But customer questions why initial design was released.
+
+02: Global investment plan for cheaper Braille displays
+- Initiative hopes to slash prices by backing innovation.
+
+03: Age alliance plans digital inclusion knowledge base
+- Umbrella group plans to co-ordinate resources nationwide.
+
+News in Brief: 04: European Question – consultation on
+accessibility act; 05: New Editions – Adobe e-book reader; 06:
+Speech Square: VOICEYE document barcodes win award; 07:
+Free Reader – Nokia speech offering.
+
+Section Two, The Inbox – Readers’ Forum. 08: Petition
+Blocker – government web barrier; 09: Portable Query – pdf
+file access question.
+
+Section Three: Special Focus - Looking for work.
+10: Ticked Off: On the face of it, Dr Norman Waddington –
+the holder of two PhDs – should have what it takes to be
+offered a job interview. But as for many disabled people, this
+is not proving to be the case, and accessibility issues are among
+the problems he faces. Dan Jellinek reports.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Tesco pledges action over inaccessible app.
+
+The UK’s largest supermarket chain Tesco has said it is taking
+seriously concerns raised about the inaccessibility of its new
+smartphone app, and is to work with the RNIB to improve the
+situation.
+
+The statement was issued after E-Access Bulletin raised
+questions with the company about the experiences of Steph
+Cutler, a small business adviser and personal coach who has
+impaired vision. Cutler approached EAB after becoming
+dissatisfied with the new Tesco shopping app and with the
+retailer’s initial response to her complaints.
+
+“I love the iPhone – it has really changed my life, and on the
+whole, the apps I’ve got are pretty usable,” she said. “So when
+I downloaded the Tesco app I was excited to think I could use
+it to shop – although their website is accessible, I find it very
+time-consuming. But it turns out that the app is totally
+inaccessible with [the iPhone’s screenreader] VoiceOver.
+Basically, the app says the same thing whatever product you
+touch.”
+
+After Cutler asked the RNIB to take a look and they had
+supported her assessment, she contacted Tesco to complain,
+but says the company’s initial response was unsatisfactory.
+
+“I emailed them and they rang me back very quickly, but the
+poor lad from customer services just said ‘we know it’s
+inaccessible’, though he didn’t seem to know what that meant.
+He had obviously just been told to call, and he was trying to
+say he accepted it didn’t work, but that it was OK. He also
+categorically refused to let me talk to someone else.
+
+“I emailed again, and another email came back saying they
+care about accessibility – but with no details of any remedial
+plan.”
+
+Subsequently, after E-Access Bulletin had made its own
+enquiries into the case, Tesco did produce a fuller response. A
+spokesperson for Tesco said: “The software used in the iPhone
+application is cutting edge technology and we will be always
+aiming to improve the functionality of the application.
+
+“We have taken the concerns raised seriously and recently
+contacted the RNIB to work with them in identifying features
+that will improve accessibility for the product.
+
+“At this time, we are unable to give any timescales as to when
+this will be completed. Any amendments to the application will
+need to be built and tested, and will therefore take time to
+complete.”
+
+Tesco has now also been back in touch with Cutler to relay the
+same message, which she welcomes. “I am hoping they will be
+true to their word, and I do intend to monitor this one,” she
+said.
+
+However, she says she still fails to understand why such a large
+company in the 21st century is failing to design in accessibility
+from the first release of a technology offering such as their
+new app.
+
+“One argument about whether accessibility can be included is
+often resources, and rightly sometimes – but you just can’t say
+that about Tesco,” Cutler says. “We are talking about a massive
+retailer for whom resources aren’t a problem. They understand
+some of it, because they do some of it. It made me, as a
+visually impaired shopper, feel a little bit second class.
+
+“I do accept apps are new, and the accessibility might change
+in future, but as a user I’m discriminated against.
+
+“The point I put to them is that at the start of anything, you
+have a choice – you can choose to put accessibility into how it
+will function. But this time, either they briefed a developer and
+they didn’t put any emphasis on accessibility, or the developer
+just didn’t do it. It is far harder for them now – they will have
+to change code, which will be a biggish job. But it wouldn’t be
+a big job if they thought about it as a matter of course and
+didn’t put anything out that most of our customers can’t
+access.”
+
+Ultimately, she says, it is a question of leadership. ““The
+bottom line is I feel as if I’ve been treated less favourably for
+reasons of my disability. It doesn’t feel like it’s been taken
+seriously from the top down – it doesn’t feel like the decision-
+maker has taken an inclusive approach, so why should
+customer service?”
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=672 .
+
+
++02: Global investment plan for cheaper Braille displays.
+
+An international plan for disability organisations and others to
+invest in producing a refreshable Braille device hugely cheaper
+than current systems on sale has obtained initial approval from
+the international DAISY consortium for information standards,
+E-Access Bulletin has learned.
+
+The project is being led by the RNIB, which now has until the
+next DAISY board meeting in June to flesh out the plan. If this
+“charter” is passed, investors will be sought to identify and
+back a new device.
+
+Refreshable Braille devices are made up of individual plastic
+“cells” with a grid of tiny holes through which a small rod rises
+and falls, triggered by an electronic current. A line of cells
+forms into a line of Braille as a computer reads across text.
+
+As their production process is complex, cells currently cost
+around 100 US Dollars each, and mark-ups are high among the
+few firms which manufacture displays. With typical displays
+carrying 32, 40 and even 80 cells, overall costs soon spiral into
+thousands of dollars.
+
+Kevin Carey, chair of RNIB, said this month there are already
+currently as many as 34 technical ideas in outline or prototype
+format at universities worldwide, any of which might lead to
+the desired goal of a cheap Braille display roughly the size of a
+stick of rock that could plug into the side of an e-book player.
+
+“We need to narrow these 34 down to two or three – and
+ideally go down to one - and get massive investment in to bring
+prices down below 25 US Dollars per cell”, Carey said. At the
+moment, no business model had been ruled in or out for
+investment, production and sales, including models requiring
+mass pre-ordering and the involvement of existing major
+incumbent players in the Braille display market.
+
+Carey first floated the plan in an address to last year’s
+“Braille21” congress hosted by the World Blind Union in
+Leipzig, Germany.
+
+He told the congress a cheap display would “save massive
+amounts from hard copy Braille production which can be
+ploughed back into expanding the range of files on offer and
+into providing displays cheap or free to individuals.”
+
+Anticipating complaints about market interference, Carey told
+the Leipzig conference the high prices operated in a similar
+way to a cartel, requiring intervention. “There are some who
+say that organisations of and for the blind should not become
+involved in the access technology market but the current cartel
+does not have an automatic right to exist. For the last 30 years
+of its operations the price of Braille displays has fallen slowly
+when most other consumer electronics prices have plunged.”
+
+Ultimately, the very survival of Braille as a language could be
+at stake, he warned. “If Braille is to survive into the 21st
+Century, it will have to re-invent itself as a mass medium,
+simpler, cheaper and easier to render... unless we face up to
+these challenges, Braille will die”.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=670 .
+
+
++03: Age alliance plans digital inclusion knowledge base.
+
+A plan to create an online “knowledge base” of resources
+relating to digital inclusion for older people is being drawn up
+by Age Action Alliance, an umbrella group of companies and
+charities led by the Department for Work and Pensions.
+
+The alliance ( http://ageactionalliance.org/ ), whose members
+include the BBC, Microsoft, mobile network Three, Age UK
+and the digital inclusion charity for older people Digital Unite,
+has tasked a working group with drawing up a “starter strategy”
+for the knowledge base covering its potential usefulness,
+purpose and viability. It will then make a final decision on
+whether to go ahead with the project at the next meeting of its
+digital inclusion group in February.
+
+“The aim of the knowledge base is to gather in one place the
+mass of extensive and varied research, analysis and evaluation
+data on activities and projects that have, and still are, delivering
+and facilitating digital literacy for older people”, Emma
+Solomon, managing director of Digital Unite and the groups’
+chair, said this month. “The aim is also to gather – or at least
+signpost – practitioners to a variety of tools and resources that
+can help them deliver or facilitate digital inclusion for older
+people.”
+
+The knowledge base will be aimed at all practitioners and
+promoters of digital inclusion for older people, Solomon said.
+“These may be formal intermediaries, informal intermediaries
+and individuals as well as organisations and businesses from
+third, private and public sectors.”
+
+As a separate project, the group also hopes to help co-ordinate
+the promotion of all actions, events and activities that promote
+digital inclusion to older people by creating a searchable
+national database of all campaigns, outreach projects, learning
+and engagement activities in which older people are being
+encouraged and supported to embrace digital technologies, she
+said.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=667 .
+
+
+++News in Brief:
+
++04: European Question: Consultation on the possible creation
+of a European Accessibility Act has been launched by the
+European Commission. In an accompanying communication,
+the commission defines accessibility as meaning that “people
+with disabilities have access, on an equal basis with others, to
+the physical environment, transportation, information and
+communications including technologies and systems (ICT), and
+other facilities and services in line with Article 9 of the UN
+Convention on the Rights of Persons with Disabilities”. It seeks
+to identify which goods and services that should be covered,
+suggesting key areas could include bank cash machines
+(ATMs); health and emergency services; and online services to
+buy public transport services or book tickets for cultural or
+sport events. Provisions of any eventual act could include
+harmonising accessibility requirements across Europe, it says.
+Consultation runs to 29 February 2012, including an online
+questionnaire:
+Short link:
+http://bit.ly/uuIp0w
+Long link:
+http://ec.europa.eu/justice/newsroom/discrimination/opinion/11
+1207_en.htm
+
+
++05: New Editions: A new accessible version of the Adobe
+Digital Editions e-book software reader has been released in a
+trial format. The preview release of Adobe Digital Editions
+1.8.1, which reads e-books created in the popular EPUB open
+standard, works for the first time with the JAWS and NVDA
+screenreaders for Windows and VoiceOver on Mac. It is also
+able to access book content character by character and  word
+by word, and is designed to work with other Windows and
+Apple accessibility features including high contrast. The new
+reader currently lacks some features of its previous version
+1.7, however, such as printing and hardware device support.
+Adobe says future releases will incorporate more of the old
+features while maintaining accessibility improvements:
+http://labs.adobe.com/technologies/digitaleditions1-8/
+
+
++06: Speech Square: VOICEYE, a software system that allows
+documents to be stored in tiny bar codes just 1 centimetre
+square so a decoder can convert them instantly to speech, large
+print or coloured text, has won the ICT Special Educational
+Needs category of this year’s BETT awards for education
+technology presented by the annual BETT conference in
+London. The software, developed in South Korea and
+distributed in the UK by Forcentenco, means ordinary paper
+documents can also include the code in the top corner allowing
+users with free Android or iPhone apps to access the same data
+in accessible formats:
+http://www.bettawards.com
+
+
++07: Free Reader: Mobile phone maker Nokia has launched a
+free screen reader for some of its devices. Nokia Screen
+Reader can be downloaded from Nokia’s “Ovi” web portal and
+currently runs on three smartphones running the Symbian Belle
+operating system: the C5 5MP, 700 and 701 handsets. The
+reader was created by Spanish access software specialists Code
+Factory as a simplified version of the company’s Mobile Speak
+application:
+Short link:
+http://bit.ly/v1c5XE
+Long link:
+http://store.ovi.com/content/224364?clickSource=search&pos=
+1
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++08: Petition Blocker: David Bates, executive officer at the
+National Federation of the Blind (NFB) UK, writes in with a
+tale of democratic barriers for screen-reader users.
+
+“A few weeks ago I received an email from a blind colleague
+inviting me to sign a petition on the UK government e-petitions
+website (http://epetitions.direct.gov.uk/)”, Bates says.
+
+“I read the petition, filled in my name and details and was then
+instructed to ‘type in the two words below’. I realised that this
+referred to a graphic ‘captcha’ test which my screen-reader
+could not see, but below was an invitation to open an audio
+challenge instead.
+
+“Pressing enter started an audio playback with a group of
+people talking overlaid by a voice reading out several words. I
+selected the two clearest words and typed them into the
+required field, but my entry was rejected, as were my 10
+subsequent attempts. I then tried both the “Help” and
+“Accessibility” links and was told how wonderfully accessible
+the website was, but this information didn’t help.
+
+“I later repeated this story to a sighted colleague who opened
+the site while we were talking on the phone. She said the
+‘captcha’ text was easy to read but found the audio much more
+difficult to decipher. But she also said that on the page there
+were two links to either replay the audio file or to download it.
+This sounded very useful, but unfortunately my screen-reader
+could not detect these links, so I reluctantly left the site without
+recording my signature.
+
+“I understand that less than 20% of blind people in the UK are
+able to use a computer, or to visit a national or local
+government website. I wonder what percentage of the general
+public who visit a government website need to use an audio
+captcha, and what percentage of these visually disabled people
+are actually successful?”
+
+[Editor’s note: the HM Government e-petitions website uses the
+‘reCAPTCHA’ software owned by Google
+(http://www.google.com/recaptcha ). Responses please to
+inbox@headstar.com].
+
+
++09: Portable Query: Reader G F Mueden from New York,
+New York writes in to add to our recent discussions about the
+accessibility of Adobe pdf files.
+
+“I have read about pdf and accessibility, but it is all from the
+creator's point of view,” he writes. “They are not specific about
+what I can do to have the copy suit my eyes.
+
+“In charity websites I have been offered annual reports in pdf
+and have been unable to read them because I need 2X
+magnification with word wrap for my poor acuity, and choice
+of font for my poor contrast sensitivity. How can the reader tell
+if a file is accessible? If accessible, how do you approach it to
+use the adjustments he needs? As normally presented, what
+you see is not what you would see if you were in the full
+Adobe Reader, it is bare bones with no suggestion of
+accessibility adjustments. My guess is that you save it, leave
+the website, open Reader, then open the pdf. But before doing
+that I want to know if it will be worth the effort. Are they
+marked? Would the copy have to say?
+
+“I believe that the alternative is to save it and use a file
+converter. I would love to read user experience on this. I don't
+want to complain to the charities, I want to be helpful and let
+them know what they can do to help me without it being a
+burden to them.”
+
+[Responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Special Focus
+Looking for work.
+
++10: Ticked Off
+by Dan Jellinek.
+
+On the face of it, Dr Norman Waddington – the holder of not
+just one, but two PhDs – should have what it takes to be
+offered a job interview. But like many disabled people – he is
+blind – this is not proving to be the case.
+
+Early last year the government launched a programme of
+Incapacity Benefit reassessment, under which recipients of the
+benefit as well – as well as those in receipt of Severe
+Disablement Allowance or Income Support paid on the
+grounds of incapacity – were required to have their eligibility
+reassessed by undergoing a new "Work Capability
+Assessment".
+
+Anyone assessed as capable of working were moved on to Job
+Seekers’ Allowance or - for those with limited capability for
+work - Employment Support Allowance.
+
+While Waddington accepts this is fair, he says the way the
+system has worked for disabled people is in danger of swinging
+from one extreme to another – from a situation where people
+were left isolated on benefits with no options, to one where
+they are being moved off benefits when the work may not be
+there.
+
+“When I was pushed onto it at the age of 34, it was a bitter pill
+to swallow to be told you weren’t fit to work, when you knew
+you were. Now the tables have turned – they want people off
+incapacity benefit and back onto Employment Support
+Allowance and back into work. If you look at the small print in
+the DWP stuff, it seems you are likely to get benefit cuts after
+six months, but it’s not clear. The Jobcentre people don’t know
+what’s going on.”
+
+Waddington has not worked since 1993, when he was made
+redundant from a white collar post at the Sellafield nuclear
+plant. Since then he has done some voluntary work, and
+looked for other jobs sporadically but since the benefit changes
+in Easter has been searching intensively.
+
+“I must receive 1,000 job list emails a week now, people don’t
+realise the time it takes to plough through them with a screen
+reader,” he says. But despite having applied for some 800 jobs
+in that time, and despite his PHDs – in biodiversity science and
+clinical animal behaviour – he is yet to be shortlisted for any
+post.
+
+“You get a bog-standard letter, saying you’re not successful on
+this occasion – they don’t say why. It’s soul-destroying. These
+email lists with jobs – sighted people can scan down them
+quickly, but we’ve got to go down it and read it all – people
+have no knowledge of the time it takes. And the time it takes to
+do an application, to use a screen-reader, cutting and pasting –
+for someone who didn’t have the computer knowledge I do it
+would be impossible.
+
+“It’s as if they’re not aware of the time and effort it takes.
+They don’t want to know or they don’t want to know. And if
+you put it all in a covering letter, explaining about Access to
+Work, it’s as if they just throw your application out – though I
+can’t prove that’s the case.”
+
+It is now up to the government to work out how to make the
+system fairer, he said.”They need to close the loopholes. The
+classic is the two-tick system, by which if an applicant meets
+the job criteria and is disabled, they are bound by law to give
+you an interview. So they just don’t shortlist you, they say you
+don’t meet criteria. Something needs to be done.”
+
+The problems don’t stop there –applying for jobs in the first
+place can be made all but impossible by inaccessible online
+forms for job applications, he says. Recently he encountered a
+problem with an online application form on a local authority
+site, for example, which featured a visual icon to call up an
+interactive calendar for applicants to select dates such as start
+dates and end dates of previous jobs.
+
+“Using JAWS for windows, you can’t access it. They very
+grudgingly sent me a word copy of an application form, but
+how accessible that will be, I’m not sure. They say they can’t
+accept a CV and a covering letter for application, even though
+under the Disability Discrimination Act you have an obligation
+to find an alternative method. The Jobcentre people say this is
+wrong, but I think half the forms I send are not getting to the
+people they should be. If they’re not meeting the admin
+criteria, they’re just scrapped.”
+
+The Jobcentre itself is not providing enough information in
+accessible formats either, Waddington says. “People could
+possibly lose benefit, because it says in the small print you can
+lose £26 a week after six months. I went on it in September, so
+after March I could lose benefit if I don't turn up for the
+Jobcentre interviews, or take up any placements they offer. But
+you don’t get this information in a format you can read.
+
+“After my last Jobcentre interview, they said do I want a typed
+transcript – I said I couldn’t see it, can you email it to me?
+They said no, their computer system doesn’t talk to the
+internet. Then they gave me a whole load of leaflets I can't see
+– I had asked for Braille, but it’s not available.”
+
+Undeterred, Waddington says he will carry on trying to find
+work. “Obviously if I can get back into work I will get back
+into work. You can't let it get to you – you’ve just got to keep
+on trying.”
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=665 .
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility discussion on the web for nearly six years.
+Celebrating our sixth birthday next month, you’ll find
+discussion of accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2012 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Editorial advisors: Kevin Carey, Tristan Parker.
+
+
+ISSN 1476-6337.
+
+[Issue 144 ends.]
+

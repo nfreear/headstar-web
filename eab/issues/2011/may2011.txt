@@ -1,0 +1,472 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 137, May 2011.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 137 Contents.
+
++01: Screen-Reader Problems With Olympics Ticket Site
+- AbilityNet testing reveals ‘Captcha’ accessibility issues
+
+02: US Law School Council Settles Web Access Legal Action
+- Court case led by National Federation of the Blind.
+
+03: UK Government Promotes Inclusive Web Principles
+- 10 guidelines offered as practical tool for all.
+
+News In Brief: 04: App Sight – smartphone vision assistance
+tool; Billboards Blocked – online political campaign glitch; 06:
+Smart Museums – Australian audio tour app.
+
+Section Two: Inbox.
+07: Support Plea - access technology prices 'outrageous'; 08:
+Copyright Complaint - call for EU treaty opposition protest.
+
+Section Three: Special Consultation - BBC ‘MyDisplay’.
+09: The Future of Web Access? Jonathan Hassell of the BBC
+reports on his organisation’s trial of a highly customisable,
+innovative new web access tool – and invites E-Access Bulletin
+readers to help him perfect it.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Screen-Reader Problems With Olympics Ticket Site.
+
+Some blind web users may not have been able to buy tickets
+for next year’s London Olympics due to the partial
+inaccessibility of the tickets website, testing by the charity
+AbilityNet has found.
+
+In April this year, AbilityNet tested a series of major websites
+linked to the 2012 Olympics with screen readers, magnifiers,
+voice recognition software and other tools used by people with
+disabilities. Sites tested included the main London 2012 site:
+http://www.london2012.com ,
+the Transport for London website:
+http://www.tfl.gov.uk ,
+the Visit London website:
+http://www.visitlondon.com ,
+and various specific hotel and restaurant websites.
+
+Most aspects of the all the sites were “really quite good from
+an accessibility point of view”, Robin Christopherson,
+AbilityNet Head of Digital Inclusion, told delegates at a
+seminar ‘London 2012 – the IT accessible city’ hosted earlier
+this month by the Information Technologists’ Company.
+
+However the ticket buying section of the Olympics site used a
+‘Captcha’ anti-fraud system which required users to either
+decode a distorted image or an audio alternative. The latter was
+intended for people with impaired vision, but “I couldn’t work
+out what it was because it was also distorted,” Christopherson
+said. “This would cause a lot of problems for people – the
+blind user wasn’t able to register for tickets.”
+
+The site would have been better off using a system such as
+‘Textcaptcha’ (http://textcaptcha.com/), he said, which asks the
+user a logic question which only a human is capable of
+answering such as “Pub, sweatshirt, green, mosquito, white,
+jelly – the second colour is?”
+
+Such questions do require some level of understanding, but if a
+user finds one question hard they can ask for as many
+alternatives as they like, and people with learning difficulties
+such that they could not answer any of these questions would
+not have the ability to use the web without help in any case,
+Christopherson said.
+
+Bob Cottam, head of IT for the London games, said it was
+inevitable that one or two mistakes would be made in such a
+large project working to immovable deadlines, but that his team
+was committed to building in accessibility to all its systems,
+and was making efforts to ensure problems are minimised.
+
+Other web sites where accessibility problems were found by
+AbilityNet included the ‘Visit Britain’ website run by the
+British Tourism Authority, which was a “real stinker”,
+Christopherson said.
+
+Problems included a video player which automatically started
+up on accessing the site, so that a screen-reader user is unable
+to hear the sound of their access software over the sound of
+the video.
+
+“I’ve got to try and listen to my screen-reader over the top, so I
+can find pause button to make the stop. But in any case, there
+isn’t a pause button – the video player they have used is
+invisible to me so I can’t turn it off.” The player also lacks
+subtitles or audio description, and the site as a whole features
+many unlabelled graphics, another barrier for screen reader
+users, Christopherson said. Use of an accessible video player
+and better site coding could solve all these issues, he said.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=588
+
+
++02: US Law School Council Settles Web Access Legal Action.
+
+The Law School Admissions Council (LASC) in the US has
+agreed to make its website fully accessible to blind and visually
+impaired users following legal action by the country’s National
+Federation of the Blind (NFB).
+
+The NFB filed a lawsuit against LASC in 2009 claiming that the
+organisation’s website – used by nearly every US law school to
+accept student applications – violated the California Disabled
+Persons Act and the Unruh Civil Rights Act (a California-based
+piece of discrimination legislation).
+
+The federation claimed it was not possible for screen-readers to
+recognise various text on the website, meaning that visually
+impaired law school applicants who wished to apply online
+were forced to rely on assistance from a sighted employee –
+over the phone – at LASC’s customer support service, which
+was only available at certain times.
+
+Following a two-year legal battle a settlement has been reached
+whereby LASC will make its website accessible by allowing
+screen-readers to recognise all text on the site, meaning visually
+impaired applicants will be able to independently complete
+applications at a time of their choosing.
+
+The changes will come into effect from September 1 this year,
+and the NFB will perform semi-annual accessibility testing of
+the site until September 1, 2012.
+
+From 2006-08, the NFB was involved in a similar case
+supporting a class action against the US superstore chain Target
+for the alleged inaccessibility of its website. Target eventually
+agreed to pay six million dollars and make changes to its site,
+while not accepting liability (see
+http://www.headstar.com/eablive/?p=206 ).
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=586
+
+
++03: UK Government Promotes Inclusive Web Principles.
+
+The UK government Department for Culture, Media and Sport
+(DCMS) has published a set of 10 principles for inclusive web
+design to highlight the importance of building websites that can
+be used by as wide a range of people as possible and drive
+forward e-accessibility.
+
+The principles were written by Sandi Wassmer, managing
+director of web design company Copious and can be viewed
+on the DCMS site ( http://bit.ly/mfx9ax ) or the Copious site (
+http://bit.ly/lzsnOe ). They were designed to sit alongside
+existing web-based guidelines and best practice for building
+accessible and user-centred websites.
+
+The ten principles are broken down into keywords such as
+equitable; flexible; straightforward; and perceptible, each
+followed by a brief explanatory statement to give guidance on
+how the term relates to inclusive website design.
+
+Speaking to E-Access Bulletin, Wassmer said: “The 10
+principles of inclusive web design are not theoretical, but a
+practical framework for everyone involved in building great
+web experiences. Having the support of [DCMS minister] Ed
+Vaizey will encourage their adoption – from education to
+industry – and that is very exciting indeed.”
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=593
+
+
+++News in Brief:
+
++04: App Sight: A new iPhone application could allow blind
+and visually impaired people to recruit sighted people to give
+them information about an item or problem they have
+photographed. The ‘VizWiz’ application, being developed by
+Rochester Human Computer Interaction – from the University
+of Rochester in New York State, US – sends a photograph and
+recorded question from the visually impaired smartphone user
+to a team of sighted people sourced from Amazon’s
+Mechanical Turk, an online marketplace for people to
+complete paid-for tasks. The helpers then send a spoken
+answer back to the iPhone user. The application is still in
+development and is not yet available to the public:
+
+http://hci.cs.rochester.edu/currentprojects.php?proj=vw
+Short link: http://bit.ly/jSv9Al
+
+
++05: Billboards Blocked: A ‘make your own billboard’ website
+( http://makeyourownbillboard.co.nz/ ), created by the Labour
+Party of New Zealand as part of its campaign for upcoming
+elections, has had to be altered after it was found to be
+inaccessible to disabled computer users. Web accessibility
+blogger Nicolas Steenhout discovered that billboards on the site
+were displayed as images only, meaning that screen-readers
+were unable to read out the user-created messages on them.
+The site’s owners have now amended parts of the site to
+include tags, making it easier for screen-readers to identify:
+
+http://accessibility.net.nz/blog/nz-labour-billboard-website-not-
+accessible/
+Short link: http://bit.ly/iNF4LF
+
+
++06: Smart Museums: A smartphone application to transcribe
+audio museum tours in Australia into captions and sign
+language has been released, to improve museum accessibility
+for deaf and hearing impaired people in the country.
+Developed by the Australian Communication Exchange, the
+Smart Auslan service can be downloaded to a personal
+smartphone or accessed through museum-owned phones. The
+user scans a ‘Quick Response code’ on each exhibit which
+prompts the phone to display the relevant captions and sign
+language video:
+
+http://www.aceinfo.net.au/index.php?option=com_content&vie
+w=article&id=88&Itemid=83
+Short link: http://bit.ly/iiFNl4
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Support Plea: A new response to March’s opinion piece
+by David Bates on the need for more free or cheap open
+source accessibility solutions has been sent in, from reader
+Rachael Donnelly.
+
+Rachel writes: “I have been employed on and off for the past
+three years. I was out of work for a long time, and don't have
+the necessary software on my personal computer. I had an
+access to work pack, but wasn't sure if I could transfer the
+licence for ZoomText or JAWS to my PC and so I left it. I
+looked into buying my own copy of JAWS but being out of
+work, I couldn't afford the £800 they were asking for it. In
+order to search for a job online I needed some sort of assistive
+software and it was too expensive for me to use.
+
+“I also looked into buying some speech software for my
+mobile phone - but it was four times the price of my phone. It's
+outrageous! Why should visually impaired people need to pay
+enormous prices just to use their computers or mobile phones?
+
+“There should be a system in place for people who need to use
+this technology but who are on a low income and not
+employed so that they can have a heavily subsidised cost,
+which is more affordable, and I'm not just talking about £10 or
+£20 here! Even knocking things like that down to half price
+would be more bearable.”
+
+[Further responses please to inbox@headstar.com].
+
+
++08: Copyright Complaint: Reader Vivien Palcic has posted a
+comment online to our April story, ‘UK Fails To Support
+Accessible Copyright Treaty’ (
+http://www.headstar.com/eablive/?p=581 ),
+which reported that the UK government has declined to support
+a draft international treaty to allow accessible versions of
+copyrighted works to be shared across international
+boundaries.
+
+The story also found a general lack of EU support for the
+treaty, prompting Vivien to write: “The EU has only served to
+make illegal copying of copyrighted material more attractive to
+a community who have traditionally been the most compliant,
+patient and tolerant with the ongoing failure of publishers to
+make their works available in accessible formats to them.
+
+“Enough talk-fests have been held on this issue. Maybe it's
+high time for the disability community to finally mobilise on
+mass and call for widespread boycotts against the EU! It's bad
+enough when equal opportunity/anti-discrimination laws are
+toothless!”
+
+[Further responses please online, or to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Special Consultation
+BBC ‘MyDisplay’
+
++09: The Future of Web Access?
+by Jonathan Hassell
+
+Many people struggle with reading text on websites,
+particularly those with dyslexia, vision impairments, Asperger’s
+syndrome, ADHD and the multiple minor impairments
+associated with ageing.
+
+While web browsers do include facilities to help these users
+such as the ability to change text size or colour or use your
+own style-sheets, many people are not able to find or use the
+browser controls to take advantage of them.
+
+The situation is even worse for mobile web access, as most
+mobile browsers do not even include these facilities.
+
+A 2003 study by Forrester Research for Microsoft found that
+57% of all computer users would benefit from the use of
+assistive technology, yet figures for the UK show that only
+between 6%-8% of disabled people are actually making use of
+it. Even taking possible differences between US and UK into
+account, this is a huge gap. It could help explain the fact that
+disabled people’s use of the internet is lower than that of the
+general population.
+
+Put plainly, for a lot of disabled people as well as our ageing
+population, our current accessibility models aren’t working.
+They require too much from users to get things to work.
+
+As an attempt to address this problem, the BBC is testing a new
+tool to allow users to change the way text is presented on the
+more than three million web pages published by the
+organisation.
+
+While including a text-resizer or style-switcher tool on a
+website is not in itself a new idea, the scope of the new tool –
+called MyDisplay – is what makes it different.
+
+The tool enables commonly-requested alterations to be made,
+such as changing the text size and text and background colours.
+However, rather than restricting text changes to three sizes, it
+includes the ability to change the text to any size; change the
+font type; alter character spacing; remove italics; and force all
+lettering into lowercase – all preferences requested by
+consulting different sets of disabled users. And rather than
+restricting colour changes to four choices, it offers a choice of
+some 44 themes developed through user-research, and if that is
+not sufficient, also allows complete customisation to whatever
+other colour combinations the user might want.
+
+The tool is free, and works on any computer and browser, even
+on smartphones like the iPhone or Android phones. It’s really
+simple to turn on, works on computers with locked-down
+browser and operating settings, and does not require any
+downloads. It also allows users to store their settings in a secure
+‘BBC-iD’ and reuse them across devices. So you could set
+your preferences on a PC at work, and then use them on your
+Mac laptop at home, or your smartphone on the way home.
+
+The BBC has already user-tested MyDisplay with a large
+number of users during its development, but we are now keen
+for more people to try the tool and offer us their feedback
+before deciding whether it’s ready to launch.
+
+So if you think you could benefit from such a tool please visit
+http://bbc.in/kFB05p
+and give MyDisplay a try. And, most importantly, let the BBC
+know what you think via the feedback form you’ll find there.
+
+If the response to MyDisplay’s trial is favourable, it may
+become a permanent feature of bbc.co.uk, and possibly also be
+included on other websites so users can use their preferences
+on more of their web journeys.
+
+NOTE: Jonathan Hassell is Head of Usability and Accessibility,
+BBC Future Media.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=584
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you’ll find discussion of
+accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2011 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 137 ends.]
+

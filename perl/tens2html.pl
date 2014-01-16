@@ -1,4 +1,4 @@
-#!/usr/bin/perl -w
+﻿#!/usr/bin/perl -w
 my $version="v1.14";
 my $author="N.D.Freear";
 #
@@ -50,8 +50,8 @@ my $html_file="$file_stem.html";
 if (-e $html_file) {
   warn "Warning: file already exists: $html_file.\n";
 }
-open(IFILE, "$tens_file") or die "Failed to open: $tens_file\n";  #||
-open(OFILE, ">$html_file") or die "Failed to open: $html_file\n";
+open(IFILE, "<:utf8", "$tens_file") or die "Failed to open: $tens_file\n";  #||
+open(OFILE, ">:utf8", "$html_file") or die "Failed to open: $html_file\n";
 select(OFILE);
 
 # Constants.
@@ -272,7 +272,8 @@ sub prn_html_head {
   my $title=$_[0];
   print("<head>\n");
   print("<title>$title</title>\n");
-  print("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\" />\n");
+  #iso8859-1 --> utf-8.
+  print("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n");
   print("<meta name=\"generator\" content=\"$0 $version\" />\n");
   print("<meta name=\"dc:Creator\" content=\"$author\" />\n\n");
 
@@ -501,7 +502,8 @@ sub entities {
   my $line=$_[0];
   my $ln_no=$_[1];
 
-return encode_entities($line, '<>&"�'); #"\200-\377");
+#return encode_entities($line, '<>&"£'); #"\200-\377");
+return encode_entities($line, '<>&"£‘’“”'); #NDF, 6 April 2011.
 
 #while ($string =~ m/&[^#a]/&amp;/g) {
 #  print "Found '$&'.  Next attempt at character " . pos($string)+1 . "\n";
@@ -525,7 +527,7 @@ my $ch_ = substr($after, 0, 1);
       warn "Warning, replacing XML entity '&' (line $ln_no, $ch): $line\n";
       return $before ."&amp;". $after;
     }
-    if ($ord == 163) { #$char eq "�") {
+    if ($ord == 163) { #$char eq "£") {
       warn "Warning, replacing pound entity (line $ln_no, $ch): $line\n";
       $line = $before ."&#163;". $after;
       $line = &entities($line, $ln_no);

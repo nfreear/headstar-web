@@ -1,0 +1,549 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 145, January 2012.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please recommend this free bulletin to others so they can sign
+up to receive their own copy (subscription details at the end).
+
+
+++Issue 145 Contents.
+
+01: Graphics Formats Holding Back Blind People in Workplace
+- New software needed to emboss tables and charts, study
+finds.
+
+02: New trial in Spain for accessible medicines app
+- Square barcodes on packaging link to growing database.
+
+03: Video Game Communities Could Boost Social Inclusion
+- Support groups could focus on disability.
+
+News in Brief: 04: Research Winners - innovators awarded
+phase two funding from Small Business Research Initiative; 05:
+Potential Views - government disablity strategy consultation;
+06: Top Alumnus - Julie Howell wins award; 07: Parliamentary
+Briefing - input sought.
+
+Section Two: 'The Inbox' - Readers' Forum.
+08: Petition Protest - time running out; 09: Read Aloud - Adobe
+pdf audio option; 10: Course Revamp - web access revision.
+
+Section Three: Opinion - Access technology.
++11: Is It Best To Go Mainstream?
+Special access technologies can be more usable for disabled
+people than mainstream technologies, but they bring their own
+problems of affordability and support, says Donna Jodhan.
+Where does the balance lie?
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Graphics Formats Holding Back Blind People in
+Workplace.
+
+Lack of access to information graphics in tactile form is
+holding back blind people in the workplace, when the problem
+could be tackled by relatively simple software to adapt Braille
+printers to produce graphics, according to a report published
+this week.
+
+The independent research report, “Touching the world”, is the
+product of a two-year specialist fellowship with the Clore
+Social Leadership Programme funded by RNIB. Based on
+interviews with 12 blind people, the study was carried out by
+accessible technology specialist John Ramm, with support from
+University of Sussex research fellow Frances Aldrich.
+
+Blind people often come across data at work set in tables,
+graphics, charts and other graphical formats but it is extremely
+rare to receive such information in tactile form, the report
+finds. This means most often they rely on descriptions of
+graphics from colleagues or support workers, which creates a
+sense of dependency and inequality and are much harder to
+use.
+
+“The de facto standard at the minute for anything graphical
+seems to be to write a description of it, which to me is a really
+feeble attempt at best, because the whole reason for putting it
+into a graphic in the first place is it makes it easier for people to
+grasp the big picture,” Ramm told E-Access Bulletin. “Then I
+have to reconstruct in my head, I can’t just read off
+information.”
+
+Ironically, in the days before widespread computing when
+Braille materials were produced manually from steel embossing
+sheet, the situation for graphics was better because they could
+be embossed onto the same sheets, he said. More recently
+Braille production has become automated, with machines
+outputting it directly from software, but the issue of graphics
+appears to have been overlooked.
+
+The answer is to develop new software and standards which
+use automated Braille dots in freer formats to build graphics
+alongside character cells, Ramm said. “If you have a pie chart
+and it is only a rudimentary circle shape, that’s fine. For the
+purposes of a pie chart, it doesn’t really matter, all your want to
+know is how things split up.”
+
+He said tables could be produced more easily in Braille if there
+were better ways to abbreviate numbers and put the data into
+columns. “What most of these bits of software they don’t even
+try to do anything graphical with tables – they make each row
+as a new paragraph, with no attempt to recreate columns at all.
+It’s pointless.”
+
+The study finds some blind people may currently be deterred
+from applying for some jobs altogether because of the
+difficulty in accessing tables and charts. One participant said:
+“I am very put off jobs where I think the content is going to be
+quite graphical... That would actually make a decision for me,
+probably, because I think it adds another layer of need for
+assistance.”
+
+Ultimately however, blind employees may have to resort to
+legal action to force through equal provision, the study says.
+
+“It is quite possible that some test discrimination cases could be
+brought to show employers, universities, training institutions
+and others that the vague verbal descriptions are just not
+sufficient alternative provision when those who can see have a
+diagram in front of them,” it says.
+
+“There is a serious disconnect between the colourful, varied,
+eye-catching, multimedia world of printed material and the
+bland, text-based, serial Braille material which blind people
+receive – if they get anything at all.”
+
+The Clore Social Leadership Programme aims to develop
+aspiring leaders in the social sector through fellowships of up
+to two years. To download a copy of the new report visit:
+http://www.cloresocialleadership.org.uk/john-ramm
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=688 .
+
+
++02: New trial in Spain for accessible medicines app.
+
+A major new trial in Spain using mobile devices to make
+prescription medicine information more accessible has been
+approved by the project’s partners including charities,
+pharmaceutical industry representatives and government
+bodies.
+
+The "Accessible Medicine” project will use two-dimensional
+Data Matrix square barcodes placed on medicine boxes and
+packaging allowing people to use an application or “app”
+running on a smartphone or other mobile device with a camera
+to link to detailed medicine information online. The
+information can then be spoken aloud or conveyed in other
+formats on the mobile device according to user needs and
+preferences.
+
+The project is being led by Vodafone Spain Foundation with a
+range of partners including Technosite, the trading and research
+arm of Spanish national blindness charity ONCE; and the
+Spanish Federation of Pharmaceutical Industries and
+Associations (FARMAINDUSTRIA).
+
+The partners say beneficiaries of the system will include not
+only blind people and people with impaired vision but also
+people who have difficulties handling the small folded leaflets
+currently issued with medicines.
+
+The new trial has been approved following successful phase
+one trials ending last year. Developments for phase two include
+expansion of the online drug database from five to the 30 most
+commonly-used medicines; and improvements to the design
+interface.
+
+Alongside the trials, ONCE is working with the Spanish Agency
+of Medicine and Health Products to create a database with
+accessible information on all available medicines.
+
+According to the phase one report, the system has possible
+applications in other fields such as information about food and
+clothing. More information can be found in Spanish only at the
+project’s website:
+http://www.medicamentoaccesible.es
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=686 .
+
+
++03: Video Game Communities Could Boost Social Inclusion.
+
+Online communities built around popular video games could
+help build social inclusion for disadvantaged groups including
+disabled people, a digital games expert involved in a new
+European research project told E-Access Bulletin.
+
+The Digital Games for Empowerment and Inclusion (DGEI)
+research project, funded by the European Commission, held its
+first meeting in Seville last month. The project aims to examine
+uses of digital games for social purposes such as health,
+training, education, social inclusion and other public services –
+so-called “serious games”. After the researching the current
+state of play it aims to develop an action plan to help realise
+games’ social potential.
+
+However the use of games for social benefit is wider than
+simply the use of gaming techniques to create “serious games”
+with a social or educational purpose, says Scott Colfer, project
+manager of internet channel Young Dads TV (
+http://www.youngdads.tv/ ) and participant in the Seville event.
+
+He told E-Access Bulletin there was big untapped potential in
+building support communities around existing popular games,
+which already feature online player communities.
+
+“The big computer games have a budget bigger than a large
+motion picture,” Colfer said. “It’s hard to match that, so it
+might be better to see how communities around games can be
+used.” One model might be the UK-based group GamerDads, a
+group of young fathers who set up their own online community
+to play games online (http://www.gamerdads.co.uk/ ), Colfer
+said.
+
+“They were tired of playing in normal gamer groups where if
+you leave during a game, it’s frowned on. But they may have
+to leave the game because they are looking after their kids.”
+From coming together as gamers, the group had developed into
+one of the largest online communities of fathers, and members
+were offering each other informal support outside the gaming
+sphere, he said.
+
+“Now they work on other things together, they support a
+particular charity, and they do it all themselves, there’s no
+government input.” Similar communities could work well for
+disabled gamers, Colfer said.
+
+For more on the European project, see:
+http://is.jrc.ec.europa.eu/pages/EAP/eInclusion/games.html
+
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=684 .
+
+
+++News in Brief:
+
++ 04: Research Winners: Four technology innovators have been
+awarded phase two funding of £500,000 from the
+government’s Small Business Research Initiative (SBRI) to
+progress their ideas from ‘proof of concept’ to prototype stage,
+with a view to bringing full products to market. The four are:
+Gamelab, to use Microsoft Kinect gesture recognition
+technology to produce games, training and support applications
+which help people communicate more naturally;
+Technabling, for a portable sign-language-to-text translator
+capable of working with a handheld camera-enabled devices
+such as smart phones and tablet PCs;
+iansyst, to lead a consortium developing “MyDocStore”, a
+multi-platform document conversion and management tool
+using cloud, desktop and mobile techniques to create
+accessible transfer and conversion of files; and
+System Associates, for Navitext, a portable software
+application adding accessibility enhancements to documents in
+any format:
+http://www.jisctechdis.ac.uk/techdis/news/detail/2012/SBRI
+Short link: http://bit.ly/xTD9q5 .
+
+
+05: Potential Views: Consultation on a new cross-government
+disability strategy to be published this spring is now live,
+hosted by the UK Office for Disability Issues. The strategy,
+“Fulfilling potential”, sets out areas for discussion based on
+three key principles: realising aspirations; individual control;
+and changing attitudes and behaviours. Comments can be
+submitted until 9 March 2012:
+http://odi.dwp.gov.uk/odi-projects/fulfilling-potential.php
+Short link: http://bit.ly/tcQbNH .
+
+
++06: Top Alumnus: The web accessibility campaigner and
+online health pioneer Julie Howell has been named “Alumnus
+of the year 2012” by the University of Brighton. The award
+recognises outstanding community involvement, personal
+achievement and philanthropy as well as professional success.
+Howell’s cited achievements included the Jooly's Joint website,
+a support community used by 60,000 people with multiple
+sclerosis, and her work as a mentor with the university’s
+Momentum scheme for student mentoring. She was also the
+RNIB’s first website editor and became Disability Rights
+Campaigner for the charity before writing the first British
+Standards Specification for web design (PAS 78). Her current
+work includes social media training for small businesses:
+http://www.brighton.ac.uk/news/2012/110112alumnus_award.
+php?PageId=810
+Short link: http://bit.ly/yphBzy .
+
+
++07: Parliamentary Briefing: A policy briefing for MPs and
+Lords on ICT for disabled people is being compiled by the
+Parliamentary Office of Science and Technology (POST), and
+input is invited from our readers. POST provides Parliament
+with impartial advice, and its new briefing will summarise the
+major issues in the digital inclusion of disabled people
+including key statistics; current policies; barriers to uptake;
+accessibility problems; public/private sector initiatives and
+research efforts. If anyone would like to submit ideas or
+information, please contact Ned Yoxall by email on:
+yoxalle@parliament.uk
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++08: Petition Protest: In our last issue David Bates, of the
+National Federation of the Blind (NFB) UK, wrote in to say the
+government’s official electronic petitions website
+(http://epetitions.direct.gov.uk/) was hard for him to use
+because a “captcha” audio anti-spam test was hard to hear
+clearly.
+
+His message is strongly supported by Pat Onions, a registered
+blind person who with a group of disabled people and carers
+has launched a petition calling on the government to “Stop and
+review the cuts to benefits and services which are falling
+disproportionately on disabled people, their carers and
+families”:
+http://epetitions.direct.gov.uk/petitions/20968 .
+
+Pat writes: “I am only too aware of the huge barriers faced by
+not only blind people but, many, many disabled people in
+lacking the ability to sign this petition. It is a petition for
+disabled people and yet they are excluded completely by their
+own disabilities.
+
+“The sounds that I have to listen to are quite inaudible even
+with perfect hearing. Together with others with sight loss this
+has been taken up with those responsible for the site but their
+interest is nil.”
+
+She continues: “I had an email telling me this is a problem
+which will be looked at ‘sometime in the future’. Disabled
+people are fighting for their lives, under the devastating
+destruction of the Welfare Reform Bill and are being totally
+denied a platform to show their feelings.
+
+“We do not have time to wait for ‘sometime in the future’. I
+know there are tens of thousands who want to sign this
+petition. I have written to [Leader of the House of Commons]
+Sir George Young but as yet had no reply. Why aren't I
+surprised?”
+
+Regular correspondent Brian Gaff, who is on the committee of
+the Kingston upon Thames Association for the Blind, writes in
+to say he has encountered problems with the same system:
+“The average older person with hearing loss as well stands no
+chance. I had 10 attempts and never found it would work. I
+suspect it’s not me, it’s their system.
+
+“There is a growing problem of lip service as has been
+mentioned before. Nobody understands the issues and says
+they comply but who actually tests it with a real blind person?”
+
+[Further responses please to inbox@headstar.com].
+
+
++09: Read Aloud: To add to our ongoing discussion of the best
+ways to access information held in Adobe pdf files, Norman
+Lilly of Forcetenco writes in to say: “There has been for some
+time a read aloud option with Adobe.
+
+“If all else fails with your screen reader or importing with your
+OCR (optical character recognition) program, you can use this
+feature which can be found in the Adobe menu under ‘View’
+and the last item which is called ‘Read out loud’. The hot key
+is ‘Shift+Ctrl+Y’. It will read all PDFs, even those secured with
+128 bit encryption.”
+
+[Further responses please to inbox@headstar.com].
+
+
++10: Course Revamp: Further news in response to our
+December complaint from Allan Milne about incorrect text
+labels on forms used in an online course on web accessibility
+launched by charity AbilityNet with the Equality and Human
+Rights Commission and BCS (the Chartered Institute for IT).
+The BCS now adds: “Thanks for bringing this to our attention
+and apologies for the tardy response. We obviously consider
+the accessibility of the course and the entire log-in and course
+management platform as the highest of priorities.
+
+“The site will be taken down while we undertake a thorough
+review. We will of course keep you informed on progress.”
+
+[Further responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Opinion
+- Access technology.
+
++11: Is It Best To Go Mainstream?
+by Donna Jodhan.
+
+The topic of which is better – special access technology
+designed specifically for use by disabled people, or
+mainstream technology that is made accessible and used by
+everyone – is very near and dear to my heart.
+
+To put things into perspective: access technology is generally
+much more expensive than its mainstream counterpart and
+much less available on the market. It can also be extremely
+challenging to have access technology repaired, compared with
+mainstream technology.
+
+There are far fewer manufacturers of access technology
+hardware and far fewer developers of access technology
+software, than of mainstream products.
+
+The profit to be made for those who develop and sell access
+technology is much less than for those who do the same for
+mainstream technology.
+
+Access technology has to be developed in such a way as to
+adapt to the mainstream world.
+
+Those are the key issues. Now, where do we go from here?
+
+About 18 months ago, I bought a PDA (personal digital
+assistant) that was developed for blind people; a real find for
+me and one that I found to be really forward thinking because
+of its features. A few weeks ago, I was told that this PDA will
+no longer be manufactured and as of June 2012, no more
+hardware maintenance agreements would be available.
+Accessories will still be available as long as supplies last. That
+was quite a shock and now we are all left holding the bag, so to
+speak.
+
+I am not going to identify the manufacturers of this wonderful
+product but suffice it to say that it has made me rethink how I
+go about choosing my mobile devices. Do I continue to buy
+access technology that is extremely expensive and one that I
+am not sure will be around for too long? Or do I move towards
+the mainstream world?
+
+Do I expose myself to heartbreak if I continue to buy these
+pieces of access technology only to learn that in a short space
+of time they are off the market and no more supplies of
+accessories or support is no longer available? Should we as
+blind people continue to put up with such factors as
+unaffordability, unavailability, and inadequate support? Or is it
+time for us to start embracing the world of Apple and thank the
+late Steve Jobs for having taken that big step to make all of his
+devices like the iPad and iPhone accessible to us?
+
+Android devices are also out there for the exploring, and of
+course there are other tablets and mobile devices out there that
+are becoming more accessible to us. There are ever more
+choices to help us join the mainstream technology world.
+
+The landscape is rapidly changing and who knows for how
+long the manufacturers of JAWS Screen Reader, Window-Eyes
+and other types of access technology be able to hold on to their
+respective turfs? Only time will tell.
+
+NOTE: Donna Jodhan (
+http://www.donnajodhan.blogspot.com/ ) is an accessibility
+consultant who is involved in an ongoing legal battle with the
+Canadian government over accessibility of its websites.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=681 .
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility discussion on the web for nearly six years.
+Celebrating our sixth birthday next month, you’ll find
+discussion of accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2012 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Editorial advisors: Kevin Carey, Tristan Parker.
+
+
+ISSN 1476-6337.
+
+[Issue 145 ends.]

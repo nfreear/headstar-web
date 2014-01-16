@@ -5,7 +5,9 @@ Access To Technology For All, Regardless Of Ability
 A Headstar Publication.
 http://www.headstar.com/eab/ .
 
-Please forward this free bulletin to others (subscription details at the end). We conform to the accessible Text Email Newsletter (TEN) Standard:
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
 http://www.headstar.com/ten/ .
 
 
@@ -20,11 +22,17 @@ http://www.headstar.com/ten/ .
 03: Inclusive Island 'Discovered' In Second Life
 - Creator of 'Wheelies' Club Unveils Disability-Themed Area.
 
-News in Brief: 04: Radio Assistance - assistive technology broadcast; 05: iPhone Version - accessibility features correction; 06: European Nominations - European Parliament members shortlisted for disability award.
+News in Brief: 04: Radio Assistance - assistive technology
+broadcast; 05: iPhone Version - accessibility features
+correction; 06: European Nominations - European Parliament
+members shortlisted for disability award.
 
 Section Two: Event Report - Web Accessibility Unconference.
 +07: Open For Access: At the recent 'Web Accessibility
-London Unconference 2010,' delegates heard details of a wide range of innovative accessibility projects using open source technology. Dan Jellinek reports on the benefits of open development.
+London Unconference 2010,' delegates heard details of a wide
+range of innovative accessibility projects using open source
+technology. Dan Jellinek reports on the benefits of open
+development.
 
 [Contents ends].
 
@@ -33,29 +41,67 @@ London Unconference 2010,' delegates heard details of a wide range of innovative
 
 +01:  Volunteer Pool To 'Crowd-Source' Web Accessibility.
 
-An online service helping web users with disabilities report accessibility problems by linking them with thousands of tech- savvy volunteers is to be launched later this year by digital inclusion charity Citizens Online.
+An online service helping web users with disabilities report
+accessibility problems by linking them with thousands of tech-
+savvy volunteers is to be launched later this year by digital
+inclusion charity Citizens Online.
 
-A trial version of 'Fix the Web', sub-titled 'crowd-sourcing e- accessibility', was unveiled at this week's Web Accessibility London Unconference 2010 by Dr Gail Bradbrook, the charity's lead consulant.
+A trial version of 'Fix the Web', sub-titled 'crowd-sourcing e-
+accessibility', was unveiled at this week's Web Accessibility
+London Unconference 2010 by Dr Gail Bradbrook, the
+charity's lead consulant.
 
-Web users will be able to report accessibility problems directly to the service using Twitter, email or online forms. Members of a pool of registered volunteers will then take responsibility for finding the correct official path or website owner contact to lodge the complaint on the user's behalf, follow up any response and feed back to the user.
+Web users will be able to report accessibility problems directly
+to the service using Twitter, email or online forms. Members of
+a pool of registered volunteers will then take responsibility for
+finding the correct official path or website owner contact to
+lodge the complaint on the user's behalf, follow up any
+response and feed back to the user.
 
-The project's initial goal is to sign up 10,000 volunteers to cover 250,000 websites a year, Bradbrook said. Eventually she hopes to sign up 1.5 million volunteers worldwide.
+The project's initial goal is to sign up 10,000 volunteers to
+cover 250,000 websites a year, Bradbrook said. Eventually she
+hopes to sign up 1.5 million volunteers worldwide.
 
-Research has found that people with disabilities face many access issues, but do not often complain about them, Bradbrook said. "This isn't surprising - if so much of your time has already been wasted, why would you spend further time trying to communicate with the website owner?"
+Research has found that people with disabilities face many
+access issues, but do not often complain about them,
+Bradbrook said. "This isn't surprising - if so much of your
+time has already been wasted, why would you spend further
+time trying to communicate with the website owner?"
 
-Benefits of making it easier for people to complain could include greater pressure for accessibility; feedback that website owners can work with or use to justify changes; and increased knowledge and skills for volunteers, she said.
+Benefits of making it easier for people to complain could
+include greater pressure for accessibility; feedback that website
+owners can work with or use to justify changes; and increased
+knowledge and skills for volunteers, she said.
 
-Generally, volunteers would simply be raising awareness of accessibility issues, but if some major companies repeatedly ignored requests for help the project might consider working with campaign groups to lobby for action, Bradbrook said.
+Generally, volunteers would simply be raising awareness of
+accessibility issues, but if some major companies repeatedly
+ignored requests for help the project might consider working
+with campaign groups to lobby for action, Bradbrook said.
 
-One business manager present welcomed the project, saying it could save firms like his money by providing valuable user feedback. "We want to make our websites as accessible as possible to everyone, so we would put your link on all of our sites, and I don't see why anyone else wouldn't," he said. 
-However, a web developer delegate said he was worried that unfounded complaints passed on by volunteers with insufficient technical understanding could be used to criticise web developers unfairly.
+One business manager present welcomed the project, saying it
+could save firms like his money by providing valuable user
+feedback. "We want to make our websites as accessible as
+possible to everyone, so we would put your link on all of our
+sites, and I don't see why anyone else wouldn't," he said.
+However, a web developer delegate said he was worried that
+unfounded complaints passed on by volunteers with
+insufficient technical understanding could be used to criticise
+web developers unfairly.
 
-In response, Bradbrook said volunteers would be given guidance, and the project would be monitored for potential problems. "We are not asking them to be experts in e- accessibility - just to go to the website and log the problem formally. We hope it will open up communication which can be carried on by the volunteer so that proper understanding can be reached."
+In response, Bradbrook said volunteers would be given
+guidance, and the project would be monitored for potential
+problems. "We are not asking them to be experts in e-
+accessibility - just to go to the website and log the problem
+formally. We hope it will open up communication which can
+be carried on by the volunteer so that proper understanding can
+be reached."
 
-Anyone interested in helping develop a trial version of the system is invited to visit:
+Anyone interested in helping develop a trial version of the
+system is invited to visit:
 http://www.fixtheweb.net .
 
-NOTE: Web Accessibility London Unconference 2010 was organised by Makayla Lewis at City University London:
+NOTE: Web Accessibility London Unconference 2010 was
+organised by Makayla Lewis at City University London:
 http://www.a11yldn.org.uk .
 And for further reporting see section two, this issue.
 
@@ -65,27 +111,55 @@ http://www.headstar.com/eablive/?p=472
 
 +02: Kindle 3: Better Accessibility, But Still Not Perfect.
 
-Improved accessibility features on the new Kindle 3 electronic book reader will help vision-impaired users, but do not yet go far enough to make the device fully accessible, a leading analyst said this month.
+Improved accessibility features on the new Kindle 3 electronic
+book reader will help vision-impaired users, but do not yet go
+far enough to make the device fully accessible, a leading
+analyst said this month.
 
-The Kindle 3, developed by the online retailer Amazon, features a display with improved contrast and an audible menu facility, 'Voice Guide', enabling users to select an e-book using sound and activate the device's text-to-speech 'Read to Me' 
-feature. The Kindle 3 also features a display with 50% improved contrast between the text and background, improving the readability of text for partially sighted users. 
+The Kindle 3, developed by the online retailer Amazon,
+features a display with improved contrast and an audible menu
+facility, 'Voice Guide', enabling users to select an e-book using
+sound and activate the device's text-to-speech 'Read to Me'
+feature. The Kindle 3 also features a display with 50%
+improved contrast between the text and background, improving
+the readability of text for partially sighted users.
 
-"The Voice Guide does improve the accessibility of the device significantly", RNIB Principal Manager of Digital Accessibility Robin Spinks told E-Access Bulletin.
-"However, certain functions are not yet possible, for example, being able to browse the electronic bookstore using text-to- speech and being able to select, purchase and download book content from the device [using Voice Guide], rather than having to do that from a computer."
+"The Voice Guide does improve the accessibility of the device
+significantly", RNIB Principal Manager of Digital Accessibility
+Robin Spinks told E-Access Bulletin.
+"However, certain functions are not yet possible, for example,
+being able to browse the electronic bookstore using text-to-
+speech and being able to select, purchase and download book
+content from the device [using Voice Guide], rather than
+having to do that from a computer."
 
-Amazon's decision to incorporate audible menus follows growing pressure over the past year about the device's inaccessibility to visually impaired users, much of which arose after several US universities rejected the Kindle as a teaching aid (see E-Access Bulletin issue 119: 
-http://www.headstar.com/eablive/?p=357 ). In January, Amazon agreed to incorporate audible menus and an extra- large font size into the Kindle (see E-Access Bulletin issue 121: 
-http://www.headstar.com/eablive/?p=383 ). 
+Amazon's decision to incorporate audible menus follows
+growing pressure over the past year about the device's
+inaccessibility to visually impaired users, much of which arose
+after several US universities rejected the Kindle as a teaching
+aid (see E-Access Bulletin issue 119:
+http://www.headstar.com/eablive/?p=357 ). In January,
+Amazon agreed to incorporate audible menus and an extra-
+large font size into the Kindle (see E-Access Bulletin issue 121:
+http://www.headstar.com/eablive/?p=383 ).
 
-Furthermore, some publishers are still refusing to allow their books to be converted into text-to-speech on the Kindle, due to an ongoing row over publishing rights (see E-Access Bulletin issue 110: 
+Furthermore, some publishers are still refusing to allow their
+books to be converted into text-to-speech on the Kindle, due to
+an ongoing row over publishing rights
+(see E-Access Bulletin issue 110:
 http://www.headstar.com/eablive/?p=244 ).
-"We hope that through the ongoing campaign work that RNIB and other organisations are engaged in globally, we will be able to secure universal availability of text-to-speech on e-books" 
-said Spinks. "It's vital that blind and partially sighted people are able to be part of the e-book revolution." 
+"We hope that through the ongoing campaign work that RNIB
+and other organisations are engaged in globally, we will be able
+to secure universal availability of text-to-speech on e-books"
+said Spinks. "It's vital that blind and partially sighted people
+are able to be part of the e-book revolution."
 
-The Kindle 3 is available now in the UK. The RNIB has published a detailed accessibility review of the device and other e-book readers on its website:
+The Kindle 3 is available now in the UK. The RNIB has
+published a detailed accessibility review of the device and
+other e-book readers on its website:
 http://www.rnib.org.uk/livingwithsightloss/readingwriting/ebook
 s/Pages/ebook_readers_compared.aspx
-Short link: http://bit.ly/cNZKJz 
+Short link: http://bit.ly/cNZKJz
 
 And you can comment on this story now, on EAB Live:
 http://www.headstar.com/eablive/?p=474
@@ -93,37 +167,85 @@ http://www.headstar.com/eablive/?p=474
 
 +03: Inclusive Island 'Discovered' In Second Life.
 
-A new island themed around disability and inclusion has been 'discovered' in Second Life, by the man whose online character or 'avatar' was the first to use a wheelchair in the virtual world.
+A new island themed around disability and inclusion has been
+'discovered' in Second Life, by the man whose online
+character or 'avatar' was the first to use a wheelchair in the
+virtual world.
 
-Llamdos (try reading the name backwards) was created by Simon Stevens, a consultant who in 2006 created Wheelies, the first virtual night-club in Second Life aimed at both disabled and non-disabled users.
+Llamdos (try reading the name backwards) was created by
+Simon Stevens, a consultant who in 2006 created Wheelies, the
+first virtual night-club in Second Life aimed at both disabled
+and non-disabled users.
 
-The island, which Stevens estimates has already received more than 10,000 visitors from around 30 countries, is now home to Wheelies plus a range of virtual shops and services such as the Understand training centre and Viewpoint conference centre, where Stevens organises and hosts workshops and seminars on a wide range of issues in the fields of disability and social care. 
+The island, which Stevens estimates has already received more
+than 10,000 visitors from around 30 countries, is now home to
+Wheelies plus a range of virtual shops and services such as the
+Understand training centre and Viewpoint conference centre,
+where Stevens organises and hosts workshops and seminars on
+a wide range of issues in the fields of disability and social care.
 
-Stevens told E-Access Bulletin that although Llamdos has the themes of disability and inclusion, the island is not solely "for disabled people, and is intended to be a place for both disabled and non-disabled Second Life users". Although Llamdos is "probably not as technically accessible as it can be", he said "many organisations have become too obsessed with the rules of [accessibility] and they have forgotten the spirit of the intentions. My aim is for the island to feel inclusive and welcoming."
+Stevens told E-Access Bulletin that although Llamdos has the
+themes of disability and inclusion, the island is not solely "for
+disabled people, and is intended to be a place for both disabled
+and non-disabled Second Life users". Although Llamdos is
+"probably not as technically accessible as it can be", he said
+"many organisations have become too obsessed with the rules
+of [accessibility] and they have forgotten the spirit of the
+intentions. My aim is for the island to feel inclusive and
+welcoming."
 
-A number of communities in Second Life now explore themes of disability, such as Ability Island, a training and discussion area owned by US organisation Virtual Ability. Virtual Ability also own Cape Able Island, designed primarily for deaf and hard of hearing Second Life users. 
+A number of communities in Second Life now explore themes
+of disability, such as Ability Island, a training and discussion
+area owned by US organisation Virtual Ability. Virtual Ability
+also own Cape Able Island, designed primarily for deaf and
+hard of hearing Second Life users.
 
 And you can comment on this story now, on EAB Live:
 http://www.headstar.com/eablive/?p=476
 
 
-++News in Brief: 
+++News in Brief:
 
 +04: Radio Assistance: An assistive technology discussion
-programme is now being broadcast every weekend on Insight Radio, the radio station of the RNIB and Europe's first station for blind and partially sighted people, available online, and also through Sky, freesat and 101 FM in Glasgow. The slot forms part of Weekend Edition, hosted by Allan Russell with software developer Monty Lilburn and broadcast every Saturday from 10am to 1pm. Anyone wishing to pose a technology question - no matter how simple or complicated - can email info@insightradio.co.uk , putting 'tech question' in the email subject box:
+programme is now being broadcast every weekend on Insight
+Radio, the radio station of the RNIB and Europe's first station
+for blind and partially sighted people, available online, and
+also through Sky, freesat and 101 FM in Glasgow. The slot
+forms part of Weekend Edition, hosted by Allan Russell with
+software developer Monty Lilburn and broadcast every
+Saturday from 10am to 1pm. Anyone wishing to pose a
+technology question - no matter how simple or complicated -
+can email info@insightradio.co.uk , putting 'tech question' in
+the email subject box:
 http://www.insightradio.co.uk/
-or http://bit.ly/b0Lw4X 
+or http://bit.ly/b0Lw4X
 
 
 +05: iPhone Version: In the last issue of E-Access Bulletin, we
-used the wrong model number in referring to the accessibility functions of Apple's iPhone as discussed by the RNIB's Kiran Kaja at our E-Access '10 event. The "revolutionary" features built into the phone's touch-screen that Kaja mentioned are in fact only available on the newer iPhone 3GS, and not the iPhone 3G. We apologise for this mistake, which has now been corrected in the online version of our article:
+used the wrong model number in referring to the accessibility
+functions of Apple's iPhone as discussed by the RNIB's Kiran
+Kaja at our E-Access '10 event. The "revolutionary" features
+built into the phone's touch-screen that Kaja mentioned are in
+fact only available on the newer iPhone 3GS, and not the
+iPhone 3G. We apologise for this mistake, which has now been
+corrected in the online version of our article:
 http://www.headstar.com/eablive/?p=457
-or http://bit.ly/ase5No 
+or http://bit.ly/ase5No
 
 
 +06: European Nominations: Three Members of the European
-Parliament have been nominated for the European Blind Union's MEP Awards 2010, to recognise their contribution to the advancement of disability rights over the past year. The three are German member Ska Keller, who called for legislation to increase disabled citizens' access to reading materials, including e-books; UK member Liz Lynne, who raised awareness of the need for accessible manufactured goods, including consumer electronics; and Italian member Antonio Cancian, who highlighted the bus and coach travel needs of disabled people. Winners will be announced in Brussels at the end of this month:
-http://bit.ly/dCmt0Z 
+Parliament have been nominated for the European Blind
+Union's MEP Awards 2010, to recognise their contribution to
+the advancement of disability rights over the past year. The
+three are German member Ska Keller, who called for
+legislation to increase disabled citizens' access to reading
+materials, including e-books; UK member Liz Lynne, who
+raised awareness of the need for accessible manufactured
+goods, including consumer electronics; and Italian member
+Antonio Cancian, who highlighted the bus and coach travel
+needs of disabled people. Winners will be announced in
+Brussels at the end of this month:
+http://bit.ly/dCmt0Z
 
 [Section One ends].
 
@@ -131,11 +253,15 @@ http://bit.ly/dCmt0Z
 ++Sponsored Notice: Adept Transcription
 - Alternative Formats At Affordable Prices.
 
-When you want alternative formats for disabled colleagues, customers and staff, call Adept.
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
 
-Formats we produce include audio, audio description, Braille, BSL, Easy Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at prices from a penny a word.
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
 
-Whether handling a newsletter, training DVD, equality scheme, public service leaflet, contract or consultation, we provide:
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
 - One-stop shop for all formats
 - Products quality-checked by users
 - Corporate presentation including your house style
@@ -144,7 +270,8 @@ Whether handling a newsletter, training DVD, equality scheme, public service lea
 - Accessible packaging
 
 Contact us at:
-Tel: 0208 133 5418 (precede with 18001 for typetalk) Email transcription@adept-uk.org 
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
 
 [Sponsored Notice ends]
 
@@ -154,34 +281,65 @@ Tel: 0208 133 5418 (precede with 18001 for typetalk) Email transcription@adept-u
 
 +07: Open For Access.
 
-Delegates at this month's 'Web Accessibility London Unconference 2010' ( http://www.a11yldn.org.uk ) were treated to a run-through of the state-of-the-art for open source accessibility solutions by one of the world's leading experts in the field.
+Delegates at this month's 'Web Accessibility London
+Unconference 2010' ( http://www.a11yldn.org.uk ) were
+treated to a run-through of the state-of-the-art for open source
+accessibility solutions by one of the world's leading experts in
+the field.
 
-Steve Lee, of consultancy Full Measure ( http://www.fullmeasure.co.uk ), is the driving force behind many open source accessibility projects including several of those gathered under the umbrella of 'OSS Watch' ( http://www.oss-watch.ac.uk/ ), a free public service to help higher and further education institutions in the UK use or develop free and open source software. It is funded by higher education IT support agency JISC.
+Steve Lee, of consultancy Full Measure (
+http://www.fullmeasure.co.uk ), is the driving force behind
+many open source accessibility projects including several of
+those gathered under the umbrella of 'OSS Watch' (
+http://www.oss-watch.ac.uk/ ), a free public service to help
+higher and further education institutions in the UK use or
+develop free and open source software. It is funded by higher
+education IT support agency JISC.
 
-"There are some very strong potential benefits of open technology for users with disabilities," said Lee. These included making it easier for developers to create new tools and innovations, by working with what is already there; the creation of shared resources; and greater user engagement in the creation of new technologies, he said. "With open standards, the users are the developers."
+"There are some very strong potential benefits of open
+technology for users with disabilities," said Lee. These
+included making it easier for developers to create new tools
+and innovations, by working with what is already there; the
+creation of shared resources; and greater user engagement in
+the creation of new technologies, he said. "With open
+standards, the users are the developers."
 
 Projects highlighted by Lee included:
 
 - AccessApps
 http://www.techdis.ac.uk/getaccessapps
-AccessApps is an initiative supported by JISC TechDis, the accessibility advisory arm of JISC. It consists of more than 50 open source and freeware Windows applications, running from a USB stick, to support writing, reading and planning for students with sensory, cognitive and physical difficulties;
+AccessApps is an initiative supported by JISC TechDis, the
+accessibility advisory arm of JISC. It consists of more than 50
+open source and freeware Windows applications, running from
+a USB stick, to support writing, reading and planning for
+students with sensory, cognitive and physical difficulties;
 
 - Simon Listens
 http://www.simon-listens.org
-An open source speech-recognition programme, allowing users to control the computer by voice alone, bypassing mouse and keyboard;
+An open source speech-recognition programme, allowing users
+to control the computer by voice alone, bypassing mouse and
+keyboard;
 
 - NVDA
 http://www.nvda-project.org/
-NonVisual Desktop Access (NVDA) is a free, open source screen reader for Windows. It supports more than 20 languages and has the ability to run entirely from a USB drive, with no installation;
+NonVisual Desktop Access (NVDA) is a free, open source
+screen reader for Windows. It supports more than 20 languages
+and has the ability to run entirely from a USB drive, with no
+installation;
 
 - Opengazer
 http://www.inference.phy.cam.ac.uk/opengazer
-Opengazer is an open source eye-tracking application that uses an ordinary webcam to estimate the direction of your gaze. 
-This information can then be passed to other applications. For example, used in conjunction with the smartphone app Dasher, Opengazer allows you to write with your eyes;
+Opengazer is an open source eye-tracking application that uses
+an ordinary webcam to estimate the direction of your gaze.
+This information can then be passed to other applications. For
+example, used in conjunction with the smartphone app Dasher,
+Opengazer allows you to write with your eyes;
 
 - GOK (GNOME on-screen keyboard)
 http://www.gok.ca/
-Free software working with GNOME, the popular GNU/Linux desktop environment, that provides text entry and graphical user interface interaction using only switches or mice;
+Free software working with GNOME, the popular GNU/Linux
+desktop environment, that provides text entry and graphical
+user interface interaction using only switches or mice;
 
 - Caribou
 http://live.gnome.org/Caribou
@@ -189,32 +347,61 @@ Another on-screen keyboard application for use with switches;
 
 - Straight-Street
 http://straight-street.com
-An open symbol set known as 'Mulberry' - a free, scalable collection of about 800 picture symbols, and growing - 3,000 are promised by this time next year. Symbols like these are very useful for clear communication, particularly for use with solutions aimed at those with literacy issues like dyslexia or learning difficulties;
+An open symbol set known as 'Mulberry' - a free, scalable
+collection of about 800 picture symbols, and growing - 3,000
+are promised by this time next year. Symbols like these are
+very useful for clear communication, particularly for use with
+solutions aimed at those with literacy issues like dyslexia or
+learning difficulties;
 
 - Maavis
 http://maavis.fullmeasure.co.uk
-Project from Sheffield University and Barnsley NHS offering simple access to a range of tasks and games such as viewing photographs and making skype video calls, for older people including people with dementia. Applications, images and information are accessed by touching the screen and the interface is so simple and intuitive that users are not aware they are using a computer, Lee said. Buttons are also spoken aloud when pressed.
+Project from Sheffield University and Barnsley NHS offering
+simple access to a range of tasks and games such as viewing
+photographs and making skype video calls, for older people
+including people with dementia. Applications, images and
+information are accessed by touching the screen and the
+interface is so simple and intuitive that users are not aware they
+are using a computer, Lee said. Buttons are also spoken aloud
+when pressed.
 
-Overall, the key to developing successful open source solutions is the creation of a vibrant developer community, and the commitment of as many users as possible to helping with development, Lee said.
+Overall, the key to developing successful open source
+solutions is the creation of a vibrant developer community, and
+the commitment of as many users as possible to helping with
+development, Lee said.
 
-"A lot of people latch onto open source software and say 'free stuff - great'. And there are some things that are just free to download and that's it, no community.
+"A lot of people latch onto open source software and say 'free
+stuff - great'. And there are some things that are just free to
+download and that's it, no community.
 
-"But where there are communities, it is always better if you engage with them, try and contribute something - it could be a graphic, it could be some help text for the online manual. And if you are a programmer, you could contribute code - or fix something - that will get you a lot of brownie points."
-  
+"But where there are communities, it is always better if you
+engage with them, try and contribute something - it could be a
+graphic, it could be some help text for the online manual. And
+if you are a programmer, you could contribute code - or fix
+something - that will get you a lot of brownie points."
+ 
 And you can comment on this story now, on EAB Live:
 http://www.headstar.com/eablive/?p=478
 
-[Section Two ends]. 
+[Section Two ends].
 
 
 ++Special Notice: Fortune Cookie
 - Web Sites That Really Work.
 
-Fortune Cookie's dedicated web accessibility team makes sure that everyone finds the web sites we design easy to use. As well as being accessible, Fortune Cookie sites are beautiful and deliver stunning return-on-investment. They're award-winning too. In 2007, our work was nominated for major web design awards 11 times.
+Fortune Cookie's dedicated web accessibility team makes sure
+that everyone finds the web sites we design easy to use. As
+well as being accessible, Fortune Cookie sites are beautiful and
+deliver stunning return-on-investment. They're award-winning
+too. In 2007, our work was nominated for major web design
+awards 11 times.
 
-Legal & General, Kuoni, Diabetes UK, FT Business - just some of the big name brands on Fortune Cookie's client list.
+Legal & General, Kuoni, Diabetes UK, FT Business - just some
+of the big name brands on Fortune Cookie's client list.
 
-Every business can benefit from making its web site more accessible. If you'd like to know what accessibility can do for your business, talk to Fortune Cookie.
+Every business can benefit from making its web site more
+accessible. If you'd like to know what accessibility can do for
+your business, talk to Fortune Cookie.
 
 Visit our web site at:
 http://www.fortunecookie.co.uk
@@ -228,11 +415,19 @@ Julie.Howell@fortunecookie.co.uk .
 ++Sponsored Notice: Accessify Forum
 - Six Years of Accessibility Discussion.
 
-Accessify Forum has been the number one destination for accessibility discussion on the web for nearly six years. Celebrating our sixth birthday next month, you'll find discussion of accessibility at all levels, from beginner to guru.
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you'll find discussion of
+accessibility at all levels, from beginner to guru.
 
-The site has recently been redesigned and the forum system improved. This is still ongoing and you can join in the discussions.
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
 
-So whether you're looking to learn more about accessibility, want to help others and improve on your own knowledge, or just to browse the archives, come and join us at:
+So whether you're looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
 http://www.accessifyforum.com/
 
 [Special notice ends].
@@ -242,14 +437,24 @@ http://www.accessifyforum.com/
 
 +How to Receive the Bulletin.
 
-To subscribe to this free monthly bulletin, email eab-subs@headstar.com with 'subscribe eab' in the subject header. You can list other email addresses to subscribe in the body of the message. Please encourage all your colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
 
 Please send comments on coverage or leads to Dan Jellinek at:
 dan@headstar.com .
 
 Copyright 2010 Headstar Ltd http://www.headstar.com .
-The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email. 
-Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
 http://www.headstar.com/eab
 is also cited.
 

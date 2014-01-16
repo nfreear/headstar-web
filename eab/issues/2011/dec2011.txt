@@ -1,0 +1,685 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 143, December 2011.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end).
+
+To all our readers - Happy Holidays.
+
+++Issue 143 Contents.
+
+01: New Setback For Global Copyright Exception Treaty
+- Proposed EU amendments undermine progress.
+
+02: ‘Fix The Web’ In Struggle For Survival
+- No cash for pioneering project to ‘crowdsource’ web help.
+
+03: Free Magnifier Among First Smart Accessibility Awards
+- Winning apps unveiled by Vodafone Foundation.
+
+News in Brief: 04: Birthday Standard - BS8878 is One; 05:
+Appeal Heard - Canadian government fights web access ruling;
+06: Charter Points - major corporates in 10-point accessibility
+pledge; 07: Future Web - European project launch.
+
+Section Two, The Inbox – Readers’ Forum. 08: PDF Assistance
+– magnification and conversion tips; 09: Auction Battle – can
+eBay be sued? 10: Crash Course – web accessibility resource
+initially inaccessible, then fixed.
+
+Section Three: Focus - High Street Support.
+11: The Guru Is In: The new flagship store for mobile
+broadband provider O2 is one of the first attempts by a high
+street technology retailer to offer a tailored service to disabled
+people, with the help of Abigail Gorman, O2’s first deaf
+customer “guru”. Dan Jellinek went to see her.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: New Setback For Global Copyright Exception Treaty.
+
+Moves to create an international treaty to allow accessible
+versions of copyrighted works to be shared across borders,
+giving people with print disabilities wider access to books,
+received a setback this month following “aggressive”
+intervention by EU negotiators.
+
+Between 21 November and 2 December, the World Intellectual
+Property Organisation (WIPO) held a meeting in Geneva of its
+standing committee on copyright and related rights that
+negotiators for the World Blind Union (WBU) had hoped
+would clear the way for agreement on a copyright treaty.
+
+Hopeful signs had emerged from a June session of the
+committee, at which WIPO member states had agreed to merge
+several previously separate positions into a single draft
+document which became known as “the chair’s text” (see E-
+Access Bulletin, July 2011
+http://www.headstar.com/eablive/?p=615 ).
+The new meeting, however, cast uncertainty on the plans after
+the chair, Manuel Guerra Zamarro from Mexico, unexpectedly
+invited members to submit further amendments.
+
+Negotiators  for the EU subsequently attempted to reintroduce
+clauses that would require rights-holders to formally authorise
+and pre-approve organisations to use any exception, a
+condition the WBU says would render the whole exercise close
+to pointless.
+
+“The EU decided to submit a raft of new and aggressive
+amendments which moved us even further away from an
+agreed text”, WBU Vice Chair Dan Pescod told E-Access
+Bulletin. “They were trying to shoe-horn back in the idea of
+authorisation, but this is a no-no – the whole point of this
+exception is you will use it when you haven’t been given any
+help from rights-holders.”
+
+The new proposed amendments have now been captured in a
+working document which Pescod says must be fully discussed
+between member states ahead of the next WIPO meeting in
+July 2012. “What we are now urging is for the member states
+to come together before the next meeting to agree the basis for
+a new single text, rather than have a situation where each time
+people throw down amendments, go away and don’t consider
+them until the next meeting,” he said.
+
+Another vital issue remains, of whether the new agreement
+becomes a legally binding treaty – as urged by the WBU – or
+softer non-binding guidelines, but Pescod hopes all can be
+resolved in July. “I am still optimistic that we can finish this
+work next year, ahead of a formal diplomatic conference in
+2013.”
+
+If he is right, new ground will be broken: WIPO normally acts
+to reinforce protection for rights-holders, whereas this treaty
+would reinforce access for users. And it will not have been
+easy: formal negotiations on a treaty began two and a half
+years ago, in May 2009.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=659 .
+
+
++02: ‘Fix The Web’ In Struggle For Survival.
+
+A ground-breaking project to enlist the power of volunteers to
+fix web access problems for disabled people is at risk of
+closure, after failing to secure government funding.
+
+Fix the Web ( http://www.fixtheweb.net/ ) was launched in
+November 2010 to allow disabled internet users to complain
+quickly and easily about inaccessible websites using Twitter,
+email or online forms. Members of a pool of registered
+volunteers then take responsibility for contacting the website
+owner on the user’s behalf, following up any response and
+feeding back results to the user.
+
+Since launch, the project has recruited almost 700 volunteers
+who between them have handled more than 1,000 website
+reports and helped to solve problems with several high profile
+sites including the Coventry Building Society, various BBC
+sites and the online scheduling service Doodle. A major rise in
+activity was triggered earlier this year after actor, writer and
+technology lover Stephen Fry posted a message of support for
+the campaign.
+
+However, despite gaining £50,000 of initial funding from the
+Nominet Trust, and receiving publicity support from
+organisations including RNIB, the project has failed in attempts
+to raise further cash and has now been running for a year
+without any external funding.
+
+After it emerged that a recent bid for funding from the
+government’s new £10 million Social Action Fund has failed,
+Fix The Web founder Gail Bradbrook, director of programmes
+at Citizens Online, told E-Access Bulletin the project would
+struggle to survive.
+
+“The government asked for charities to innovate, and that’s
+what Citizens Online has done – we have raised multi-millions
+across all our projects over the years, with not a penny from
+central government. So we’re not a cap-in-hand charity, but
+equally we can’t run on fresh air.
+
+“Fix The Web still has a huge amount of potential, but it needs
+some design work and some funding to oversee the work by
+volunteers. Come the New Year, if there isn’t a clear plan for
+the project, Citizens Online might have to withdraw because
+our brand will be associated with something that isn’t being
+looked after properly.”
+
+The project could eventually be sustained by small donations
+from multiple sources, but in the short term needs around
+£150,000 over the next 18 months to help it reach a sustainable
+level, Bradbrook said.
+
+Citizens Online managed to raise pledges of services worth
+some £270,000 to use as “in kind” match funding for its recent
+Social Action Fund bid. "This shows the level of support and
+commitment to the project. The issue is securing money, when
+so few funders fit to the aims of this project. Times are really
+hard for the voluntary sector, competition is steep," she said.
+
+Ironically, the project has attracted interest from organisations
+in other countries including Canada who would like to replicate
+it, Bradbrook said. The intention had always been to expand
+the work internationally, but this vision is now also in
+jeopardy.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=656 .
+
++03: Free Magnifier Among First Smart Accessibility Awards.
+
+A smartphone app which allows people to magnify text and
+adjust fonts and background colours was among the winners of
+the inaugural Smart Accessibility Awards for smartphone
+applications aimed at supporting disabled and older people
+http://developer.vodafone.com/smartaccess2011
+
+Zoom Plus Magnifier, developed by a UK partnership of 232
+Studios, Ian Hamilton and Digital Accessibility Centre, offers
+functionality for free that has previously largely only been
+available in software and camera products costing hundreds of
+pounds.
+
+Four international awards of 50,000 Euros each were presented
+by the Vodafone Foundation – a charitable arm of mobile
+communications provider Vodafone –in partnership with AGE
+Platform Europe, a network of organisations working with
+older people, and the campaign group European Disability
+Forum.
+
+The other winners were Help Talk (
+http://www.1000empresas.com ), an app developed in Portugal
+allowing people who are unable to speak, such as those
+recovering from strokes, to communicate by tapping on icons;
+Wheelmap (http://wheelmap.org/en ), an app developed in
+Germany which lets users rate the accessibility for wheelchair
+users of public places; and BIG Launcher (
+http://biglauncher.com/), an alternative customisable Android
+home screen for elderly or visually impaired users who often
+struggle to use the small keyboards on most devices, developed
+in the Czech Republic.
+
+BIG Launcher uses big buttons and large fonts to represent all
+the basic functions of a phone such as voice calls, text
+messages and cameras. Jan Husak, the app’s co-developer,
+says a typical smartphone home screen is not very accessible
+for elderly and blind people, being often crowded with all sorts
+of icons and widgets.
+
+“On Android, due to its openness, you can choose from
+dozens of launchers, but they mostly offer functions which are
+only appealing to geeks - even more icons, special graphical
+effects and so on.
+
+“BIG Launcher makes using the phone easy, even for users
+who are scared of new technologies. It allows its users to use
+the phone quickly in any situation, without pulling out their
+glasses or getting lost in the menus.”
+
+Wheelmap is an app that builds on top of Google maps,
+overlaying information about wheelchair accessibility of any
+location such as a restaurant or railway station sourced from
+users. In its first month 1,200 users registered for the app,
+posting information about 180,000 places.
+
+Andrew Dunnett, director of the Vodafone Group Foundation,
+told E-Access Bulletin the type of crowdsourcing used by
+Wheelmap held huge promise for disabled people. “The
+potential for that to change people's lives is very impressive.
+The maps are there, the handsets are available - the key is the
+user groups, and how they engage with it.”
+
+In all some 67 applications were received by the awards, with
+12 shortlisted before the four prizes were award, Dunnett said.
+He confirmed that the foundation would be rerunning the
+awards next year.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=654 .
+
+++News in Brief:
+
++04: Birthday Standard: A call to make the British standard for
+developing accessible web sites BS8878 more affordable for
+small businesses is among responses from the user community
+collated on the first birthday of BS8878 by its lead author,
+Jonathan Hassell of Hassell Inclusion. One year after its initial
+publication, the standard has been adopted by organisations
+across central and local government, the NHS, police, retail,
+housing, education and charities, the report says. Although the
+precise number of users is kept confidential by the British
+Standards Institution, organisations known to have adopted it in
+year one include the government services portal Beta.gov;
+Royal Mail Group; and University of Southampton. Many of
+those interviewed felt that the cost of BS8878 was a constraint
+to its uptake, saying the £100 price tag is putting off smaller
+organisations. Support activities planned for 2012 include
+expansion of the BS8878 community of practice on
+meetup.com; and creation of ‘starting point’ templates, case
+studies and tools to help organisations create and share the
+policy documentation needed to follow the standard. Steps are
+also being taken to internationalise the standard:
+http://wp.me/p1NwIQ-5y
+
+
++05: Appeal Heard: An appeal by the Canadian government
+against a 2010 ruling which branded its websites inaccessible to
+disabled citizens, and ordered it to remedy the problem, has
+now been heard. Last year Donna Jodhan, a blind accessibility
+consultant from Canada, successfully sued her government
+after she was unable to apply for a public service job online.
+The government appeal came to court in November. Jodhan
+told E-Access Bulletin the government argued that blind
+Canadians did not have a right to equal access to online
+information, as people could use other channels or gain help
+from sighted staff. The government also claimed the case about
+inaccessible websites had not been proven, referring to
+previous evidence as mere ‘spot checks’. A ruling is now
+expected in the New Year. In September, the Canadian
+government published a new standard on web accessibility for
+its agencies, though Jodhan said at the time this was an
+inadequate response to her case:
+http://www.headstar.com/eablive/?p=621
+
+
++06: Charter Points: A 10-point ‘Accessible Technology
+Charter’ aimed at blue-chip corporations and government
+departments has been launched by the Business Taskforce on
+Accessible Technology, a sub-grouping of the Employers'
+Forum on Disability. Pledges contained in the charter include
+that “We will appoint an executive level ICT access champion
+who will report to the board”; “We will routinely consult with
+disabled employees, customers and experts to ensure that we
+understand the impact of our technology on talent
+management, employee productivity and our diverse customer
+base”; “We will allow reasonable personalisation of technology
+by our employees and customers”; and “We will give our
+relevant ICT people the ‘disability know how’ needed to
+deliver effective business processes and reasonable
+adjustments for disabled colleagues and customers”. Launch
+signatories include BT, BUPA, the Department for Work and
+Pensions, Lloyds Banking Group and Sainsbury's:
+http://www.btat.org/charter
+
+
++07: Future Web: A European project to investigate the
+accessibility for disabled and older people of ‘Web 2.0’
+applications including mobile web; user-generated content;
+social networks and web TV has been launched. The 2.7
+million euro “Inclusive Future Internet Web Services” (I2Web)
+project is being led by the Fraunhofer Institute for Applied
+Information Technology in Germany, with partners including
+the UK’s Foundation for Assistive Technology and the
+University of York. Initial work has investigated the ways that
+disabled and older people currently use web 2.0 services, and
+before the project’s completion in April 2013 it will look to
+create new tools to help developers produce more accessible
+applications:
+http://i2web.eu
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++08: PDF Assistance: There was a big response to last issue’s
+request from Fay Rohrlach from South Australia for help with
+using the ZoomText magnifier to magnify PDF files without
+distortion; and her related query about how to convert PDF
+files into Word 2003 files.
+
+Ted Page, director of accessibility consultancy PWS, writes that
+if PDF text is appearing fuzzy when using the magnifier, “the
+problem here lies with ZoomText rather than the document
+author. ZoomText uses a really effective technology called
+xFont to smooth out fonts in web pages, but in the current
+version (ZoomText 9) it doesn’t work in PDFs.”
+
+However, the next version - ZoomText 10 – is set for imminent
+release, Ted writes, and this might extend xFont to PDF files. “I
+have emailed the makers of ZoomText, ai squared, to see if
+they will let on... I will let you know if I hear anything.”
+
+Meanwhile reader Paul Wood writes in to recommend the
+website DocsPal (http://www.docspal.com). “This site can
+convert pds to word files that can easily be read, though the old
+adage still remains - ‘rubbish in, rubbish out!’
+
+“There is also the 'Copy as text' feature of Acrobat Reader, if
+desperate. And other paid for applications that will do optical
+character recognition on the pdf, if it’s an image.”
+
+Martin Slack writes in to add that text in a PDf can be
+magnified from within the free Adobe Acrobat Reader, without
+the use of ZoomText, as long as the file has been created using
+text and not images of text.
+
+“Under the View > Zoom menu in Acrobat Reader is an item
+called Reflow. It is the last item on its sub-menu, and may also
+be activated by the hotkey Control+4, without going into the
+menu system at all. When Reflow is activated, the normal
+Acrobat Reader magnification hotkey (control+plus) will
+magnify the text in such a way that when the line becomes too
+long for the screen, it will wrap.
+
+“Naturally this means that you lose the original document
+formatting, but on the other hand you can magnify the text
+until each word is on its own line.”
+
+Finally Opeolu Akinola, an assistive technology consultant
+from Lagos in Nigeria, writes to answer Fay’s second query, on
+converting PDF filesinto Word.
+
+“I don't know any direct way of converting PDF directly to
+Word but you can convert it to text by going to the file menu
+and selecting the Save As Text... option. Then open your Word
+and use the Open dialogue to locate and open the file (Word
+opens text files). If this does not work, open the text file in
+Notepad, select all the text and copy and paste into Word.”
+
+[Further responses please to inbox@headstar.com].
+
+
++09:Auction Battle: In the first of two December contributions
+Allan Milne, senior lecturer in software engineering at the
+University of Abertay in Dundee, writes in to respond to a
+complaint published last month from Martin Jones about the
+inaccessibility of the online auction service eBay to blind
+people using screenreaders who want to list items for sale.
+
+“The author was firstly asking if anyone had a work-around or
+other way of using the web site... why should we be asking this
+in today's equality environment?
+
+“It is about time the RNIB, the Equality and Human Rights
+Commission or some other national representative organisation
+took one of these large sites to court under equality law.
+
+“From the description in the article, the author seems to have a
+prima facia case that he cannot use a service provided by
+eBay, and that no alternative exists. This is not even a case of
+"reasonable adjustment", this sounds like a case of systemic
+inaccessibility.
+
+“When is someone going to stand up for us and take one of
+these companies to court? I have heard of no such case in the
+UK and yet your newsletter reports in the same issue of a US
+case against Disney so come on UK organisations, stop being
+nice and "co-operative" with companies; take them to court and
+make them meet their equality requirements.”
+
+[Further responses please to inbox@headstar.com].
+
+
++10: Crash Course: Meanwhile the same Allan Milne – he has
+been busy – writes with a complaint of his own about an initial
+flaw in a service also mentioned in our last issue – an online
+course on web accessibility launched by digital inclusion
+charity AbilityNet with the Equality and Human Rights
+Commission and BCS (the Chartered Institute for IT).
+
+“On 23 November I went to the supplied web address which
+was a simple form with only a few straightforward controls,
+using my Dolphin SuperNova screenreader; the first few boxes
+were fine with "first name" and so on announced for the form
+edit boxes. But then I got down to an edit box with no prompt
+announced, followed by a button simply announced as
+"button".
+
+“After reading around in virtual focus eventually I found the
+last edit box was for comments. I then made a leap of faith that
+the final button would be for submitting the form so I went
+ahead, entering comments about these accessibility issues and
+pressing the button.
+
+“Obviously my assumptions were correct since I received an
+email the following day apologising for the lack of labels
+accessible to my screenreader and intimating these had been
+corrected. So that was good customer service – but the email
+also contained a request for me to try these out myself... did
+the web development team not have the facility to test this
+out?”
+
+Allan did try the site again, this time from his work computer
+using a JAWS screen-reader, only to find that while the
+comment and button were now correctly announced,
+announcements were now missing from the initial edit boxes.
+
+“After further communication to the authors of this issue the
+form was then reported as being fully labelled. I have not
+verified this.
+
+“My analysis of this is that this was because SuperNova reads
+any text to the left of an edit box, while JAWS only reads
+correctly attached labels. From this I infer that none of the edit
+boxes on the original form had labels or captions associated
+with them. When the authors were made aware of the comment
+and button issues I can only assume they only amended this
+code without any checking of the other edit boxes.
+
+“What hope is there for accessibility when a page that is
+promoting a web accessibility course and is authored by the
+professional IT society is inaccessible in the first place and
+incorrectly updated when this is brought to their attention?”
+
+[Responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Focus
+- High Street Support.
+
++11: The Guru Is In
+by Dan Jellinek.
+
+The basement floor of the UK’s new largest outlet for mobile
+phone provider O2, which opened this autumn on London’s
+Tottenham Court Road, is a chic modern space echoing the
+metal and glass technology wonderlands pioneered by Apple.
+
+The “workshop” area with Wi-Fi, sofas and meeting booths,
+staffed at the entrance by a “concierge”, feels a long way from
+a traditional cramped high street mobile shop.
+
+The clear, large lettering of the shop’s signs are a hint that
+something else is different: the store is attempting to integrate
+support for disabled customers including deaf people and blind
+people into its mainstream service. Staff have received
+awareness training from the Royal National Institute of Blind
+People (RNIB) and sign language agency Positive Signs.
+
+Asad Hamir, one of the store’s directors, is a qualified optician,
+with direct experience of the poor level of service that people
+with impaired vision receive on the high street. He has been
+quoted as saying he would like to create the sort of
+environment to which opticians would feel comfortable
+sending their low vision patients, and this is clearly part of the
+motivation behind the store’s attempts to offer the best advice
+on the benefits that mobile devices can provide for people with
+sensory impairment.
+
+It’s not just a moral stand: the directors also see inclusion as a
+business opportunity. “If a section of the population is not
+being catered for or looked after, it’s definitely a market”, says
+Andrew Levey, the store’s marketing manager.
+
+Perhaps the most powerful advocate for the store’s approach is
+a member of its staff, Abigail Gorman. Deaf and fluent in BSL,
+Gorman is one of the shop’s three O2 “gurus” working through
+bookable appointments to offer specialist advice to both
+hearing and deaf customers.
+
+One of the only people in the world currently working in an
+integrated high street role of this kind, she works with a sign
+language interpreter funded from the government’s Access to
+Work scheme.
+
+Speaking to E-Access Bulletin with the help of her interpreter
+in a bright corner of the “workshop”, having just finished
+advising a hearing customer, Gorman said her work
+background did not have anything to do with mobiles.  But
+thanks to text messaging and internet access they are an
+indispensible part of modern life for deaf people as for
+everyone else, and she had first-hand experience of the
+barriers that can be thrown up on the high street when she went
+with her mother – who is also deaf – visited one shop with a
+sign language interpreter.
+
+“When we arrived, they said have you called customer
+services? If not, then we can’t help”, Gorman says. “What can
+you do? Deaf people can’t call customer services.”
+
+So when she saw the job advertised she jumped at the chance,
+and with the selection process supported for O2 by Positive
+Signs, successfully won through a large number of candidates
+to become O2’s first deaf guru.
+
+If a deaf person comes into the store or books an appointment
+with her, she says she tries to show there are ways to solve the
+inevitable problems and issues that they face in communicating
+using mainstream devices.
+
+“It’s about problem sharing, making it normalised.”
+
+The main ways deaf people use mobiles is for text messaging
+and video calls, and with more and more phones carrying a
+front-facing camera and the rise of apps allowing free
+international communication over the web, there are a wide
+range of solutions, Gorman says.
+
+For Apple users, one of the most important features for deaf
+people is the video utility FaceTime; BlackBerry offers the
+BBM instant messaging app; and other multi-platform video,
+voice and chat clients include Skype, Tango and ooVoo.
+
+One issue for deaf users is that tariffs are based around voice
+calls, which they cannot use, she says: “At the moment, you
+have to pay for inclusive minutes. So though deaf people only
+benefit from internet and texts, we pay for calls as well.” The
+tariff she tends to recommend is 100 mins, 500 free texts and
+internet access, though a deaf person would use an internet app
+for text in any case.
+
+Another minor irritation for a deaf user is voicemail, Gorman
+says. “A message comes up and says you have voicemail – but
+you have to call it to delete them. I have 52, because I never
+get round get round to asking someone to delete them for me!”
+
+Gorman is the first deaf guru, but she says she hopes the
+concept will take off at other shops to allow proper research
+and trials to be run into how disabled customers can be served
+even better.
+
+Since the store’s opening, use by disabled people has started
+slowly but a marketing campaign involving word of mouth,
+press campaigns, promotion through charities and disability
+networks such as deaf clubs around London is underway to
+spread the word and try to prove the concept makes good
+business sense.
+
+Plans are in hand to expand advice and services for people
+with motor and learning difficulties, and the RNIB plans to
+hold events at the workshop looking at the accessibility of
+mobiles. The disability community will be hoping that this is
+the future of high street retail.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=652
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility discussion on the web for nearly six years.
+Celebrating our sixth birthday next month, you’ll find
+discussion of accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2011 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Editorial advisors: Kevin Carey, Tristan Parker.
+
+
+ISSN 1476-6337.
+
+[Issue 143 ends.]

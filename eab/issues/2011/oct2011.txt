@@ -1,0 +1,531 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 141, October 2011.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end).
+
+
+++Issue 141 Contents.
+
+01: UK Charity Investigates Options To Back Disney Web
+Case
+- RNIB asks US lawyers if blind people here could join class
+action.
+
+02: Digital Inclusion Course Closure ‘Sets Dangerous
+Precedent’
+- Accessibility business case threatened, academic warns.
+
+03: RNIB To Launch Largest Ever Web Testing Exercise
+- All UK local authority sites to be checked against new
+criteria.
+
+News in Brief:
+04: Official Forum – UK government action plan to be
+updated; 05: Cloud Conversion – accessible documents on the
+move; 06: Descriptive Guidance – TV and film help.
+
+Section Two, The Inbox – Readers’ Forum:
+07: Refreshing Response - Braille unit software; 08: Google
+Gaps - new service grumbles.
+
+Section Three: Opinion - Accessible kids’ computer games.
+09: Serious Fun: Blind and sight-impaired children have often
+been left out of the fun when it comes to computer games,
+writes Donna Jodhan. But progress is being made, and things
+are looking brighter...
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: UK Charity Investigates Options To Back Disney Web
+Case.
+
+The UK’s leading charity supporting blind and partially sighted
+people RNIB is investigating whether people in the UK might
+be able to join a US class action against the Walt Disney
+Company for the alleged inaccessibility of its websites, E-
+Access Bulletin has learned.
+
+On 29 June, California district judge Dolly Gee gave
+permission for three blind women - two from Southern
+California and one from Wichita, Kansas - to proceed with a
+class action against Disney alleging the company’s websites
+unlawfully include information which is visible to sighted users
+but not to screen reader programs, as well as options which are
+inaccessible to blind people such as the ability to make
+reservations and download electronic tickets.
+
+Web accessibility is just one of five main areas of complaint
+being brought in the case, with others including issues in the
+theme parks themselves such as a lack of Braille maps. The
+plaintiffs are not seeking money damages, simply an injunction
+requiring Disney to comply with the Americans with
+Disabilities Act by making its services accessible.
+
+In her ruling judge Gee rejected as irrelevant arguments by
+Disney that the women could have accessed the same services
+and information elsewhere, and also rejected arguments that
+“there is no accepted accessibility standard”. In dismissing the
+latter argument she pointed out that nearly three years ago —
+"presumably when website accessibility standards were even
+less settled" – a similar action was allowed to proceed against
+the US retailer Target for alleged accessibility problems with its
+website Target.com (see
+http://www.forizs-
+dogali.com/pdf/Disney%20Certification%20Order.pdf ).
+
+The three women are represented by Andy Dogali at Florida-
+based law firm Forizs & Dogali ( http://www.forizs-dogali.com/
+), alongside Los Angeles-based attorney Eugene Feldman (
+http://www.californiadisabilitylawfirm.com/ ), with the case set
+for trial in Los Angeles in January 2012.
+
+Talking to E-Access Bulletin this week Samantha Fothergill,
+senior legal policy officer at RNIB, said she had contacted the
+US lawyers handling the case to see if UK citizens could
+potentially play any part in adding an international dimension
+to the case.
+
+“There is no recourse under UK law for the websites as you
+can only sue a website under the Equality Act if the provider is
+established in the UK, but because this is an international
+tourist attraction people from around the world, including
+Britain, could potentially be part of the US case.
+
+“If so we might be able to find clients who had gone to those
+resorts, and could make people aware this action is going on –
+we would not be encouraging them to join, just passing on the
+information.”
+
+UK class actions are rare in the field of disability law,
+Fothergill said, not least because all such cases tend to be
+settled out of court.
+
+“Class actions are often used here in product liability cases but
+disability lawyers don’t often think in that way. We’ve looked
+at possibility of class actions but the cases that we have always
+get settled, so we’ve never really got to that stage.”
+
+Whatever happens, the fact that a company with such a high
+profile worldwide is being sued anywhere is bound to have an
+effect on corporate behaviour and lobby campaigns elsewhere,
+she said.
+
+“The Target case got more publicity probably among IT
+professionals than it necessarily did among blind people, but
+this case is more likely to raise the profile of access issues with
+those responsible for services and websites around the world,
+which can only be a good thing wherever you are.”
+
+Disney is connected with a huge range of public-facing
+websites including sites for media partners ESPN and the ABC
+television network.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=633
+
+
++02: Digital Inclusion Course Closure ‘Sets Dangerous
+Precedent’.
+
+The closure by Middlesex University of the first ever European
+MSc course in digital inclusion after just one year of operation
+sets a “dangerous precedent” for those trying to establish a
+business case for accessibility, the academic leading the course
+has told E-Access Bulletin.
+
+The unique two-year part-time course was launched by
+Middlesex last year. Its curriculum included the social, ethical
+and business case for accessibility; regulations and
+standardisation; web accessibility; and inclusive user
+experience. The course’s overall goal was to improve
+participation in the digital society by older and disabled people
+as well as people at social disadvantage such as unemployed
+people, people on low incomes and those with low literacy.
+
+However after just eight people joined the programme the
+university has decided that no more will now be taken on and
+the course will close when the current set of students – who
+include four public sector workers – have graduated. To make
+the course financially sustainable a minimum of 20 students a
+year would have been needed.
+
+Gill Whitney, digital inclusion programme leader at Middlesex,
+told E-Access Bulletin the lack of demand for the course
+signalled a serious problem for the development of accessible
+digital services in the UK and beyond.
+
+“Losing the MSc programme due to low student numbers sets a
+dangerous precedent - if there is truly no demand, then there is
+no business case for offering similar specialist programmes
+elsewhere”, Whitney said.
+
+“Designing and developing more accessible systems depends
+on having suitable training or education courses in place for
+those involved in all aspects of the development process”, she
+said.  “The essential element is to convince students of the
+value of taking such courses, for example better job
+opportunities for both students and disabled people.
+
+“There is now recognition of e-accessibility at a political level,
+with the government setting up an e-accessibility forum, but we
+also need industry, not-for-profits and government bodies to
+demonstrate there is a market demand and that there will be
+better jobs for professionals who genuinely understand the
+complexities of delivering accessible ICT, systems and
+services.”
+
+Whitney said options other than the MSc course could also
+play a role in the educational mix, such as better integration of
+accessibility issues into mainstream technology courses or
+offering short professional development courses or diplomas
+that enhance existing skills. But whatever the solutions, action
+was needed to ensure student demand, she said.
+
+"There is a strong need for this sort of training to make
+accessibility happen.”
+
+One of the course’s students, Big Lottery Fund head of new
+media Claudio Concha, said the course had already proven
+valuable in his work.
+
+"Inclusive design is pretty much taken for granted in
+architecture and product design, yet online content and digital
+channels still suffer from a lack of user-centred development
+and there is a complete lack of consideration for disabled and
+older people,” Concha said.
+
+"This course has helped me understand the gulf that exists
+between content producers and organisations on one side and
+the reality of customers with differing needs on the other. It
+has allowed me to influence design and development projects
+with an authority that comes with real experience."
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=631 .
+
+
++03: RNIB To Launch Largest Ever Web Testing Exercise.
+
+The RNIB is set to conduct its largest ever manual website
+accessibility testing exercise later this year, when it will check
+all 433 UK local authority sites against a specially-devised set
+of criteria.
+
+The project will form the charity’s latest contribution to the
+annual ‘Better Connected’ review of UK council websites
+conducted by the public sector Society of IT Management
+(Socitm).
+
+In previous years RNIB has run initial automated accessibility
+tests on all the sites, only carrying out more detailed manual
+assessment on those passing a certain threshold. This year,
+however, it will carry out manual checks on all sites based on
+attempts to perform three practical tasks on each such as
+paying council tax or renewing a library book online. A few
+other random top level pages will also be checked.
+
+Marco Ranon, Principal Web Accessibility Consultant at RNIB,
+told a recent Socitm seminar in London the tests would not use
+a checklist approach against all the principles of the
+internationally accepted ‘WCAG [web content accessibility
+guidelines] 2.0’. Instead, though the guidelines would be used
+as a reference, the performance of tasks would be rated from
+0-3 against 14 criteria such as presence of ; unique and
+informative page titles; and clear labels on forms, Ranon said.
+Some criteria such as the presence of keyboard shortcuts for
+tasks would be considered essential “showstoppers”, whose
+absence would spell failure of the test as a whole – again with
+close reference to WCAG, he said.
+
+“Web accessibility is not about going through every page,
+unless you have a very small website,” Ranon told E-Access
+Bulletin this week.” You have templates and then try to
+educate content people. This is the largest group exercise we do
+as a team, and conformance testing with WCAG 2 takes a long
+time, so it was not practical.”
+
+‘Better Connected’ reviews are carried out in November and
+December, with all results including accessibility test results
+due to be published at the end of February 2012.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=629 .
+
+
+++News in Brief:
+
++04: Official Forum: The UK government’s ‘e-Accessibility
+Forum’, a group of civil servants and advisers tasked with
+developing policy to support the improvement of public
+websites, IT equipment and online content to suit the needs of
+disabled people, is meeting next week to update its action plan.
+Monday’s meeting, which will be attended by minister for
+culture, communications and creative industries Ed Vaizey,
+will examine EU and UK government accessibility standards;
+accessible consumer technology and digital equipment; website
+services and accessible content:
+http://www.culture.gov.uk/what_we_do/telecommunications_a
+nd_online/7782.aspx
+Short link: http://bit.ly/j8Z7sc
+
+
++05: Cloud Conversion: Trials have been successfully run of a
+prototype open source live document translation system that
+allows users to transfer files between devices while
+simultaneously converting them into more accessible formats
+including audio versions and larger text sizes. ‘MyDocStore’
+uses cloud computing to allow people to convert files easily,
+including to mobile devices such as smartphones. The system’s
+developers – assistive technology specialist iansyst,
+Southampton University and Raspberry Software - gained trial
+funding from the ‘Plain Sailing’ competition run by the
+government’s Small Business Research Initiative (SBRI) to
+develop technologies to suit specific public sector and
+educational needs. The partners are now waiting to hear by the
+end of this month if funding for phase two development of a
+marketable system will be made available:
+http://www.jisctechdis.ac.uk/techdis/news/detail/2011/SBRI_res
+ult
+Short link: http://bit.ly/kz8Pk7 .
+
++06: Descriptive Guidance: A guide to describing TV
+programmes and films for vision-impaired people has been
+published by Canadian non-profit body Media Access Canada.
+The first of six chapters that are planned to build into an
+‘Accessible content best practices guide for digital
+environments’, the descriptive video production and
+presentation guide is ‘open source’, and will be updated
+regularly based on comments received. Further chapters will
+cover issues including closed captioning techniques:
+http://www.mediac.ca/proj-ACBPG.asp .
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Refreshing Response: In last issue’s Inbox Tas wrote in to
+ask if anyone knew of a free or cheap screenreader programme
+that will work alongside the Tieman CombiBraille 98
+refreshable Braille unit.
+
+In response Ari from South Africa wrote: “For Tas, tell her to
+try the Cobra Braille screen reader from Baum (
+http://www.baum.de ), it works with many old displays. You
+can try it as a demo first to see if it’s OK for you. I think there
+in the UK it is sold by Pamtrad
+( http://www.pamtrad.co.uk ).
+
+Tas received this advice gratefully and has emailed Baum, and
+promised to update us on the results. In thanking Ari she said:
+“It’s amazing that someone on the other side of the world can
+help me like this. I am really grateful to you for taking the time
+to pass on your help.”
+
+[Further responses please to inbox@headstar.com].
+
+
++08: Google Gaps: Our regular correspondent Brian Gaff, who
+is on the committee of the Kingston upon Thames Association
+for the Blind, writes in to grumble about accessibility issues
+relating to Google services.
+
+“Judging by the comments in the Google group ‘accessible’ it
+seems that Google have painted themselves into a corner with
+their new online apps like Google Plus and Google Docs,” Gaff
+says. “Half of them won't work with most basic screenreaders
+and so they add ChromeVox to their Chrome browser. Hardly
+what blind folk would want, to have to alter access technology
+just to use Google’s stuff.
+
+“The failing here surely is that the folk writing the code are not
+aware enough of what works and what does not for blind
+access. It’s sad that in this age we are still saying that the
+writers of code are not educated in making sites that just work
+out of the box, so to speak.
+
+“Surely in this age when people want more users to generate
+more revenue, it ought to be a no-brainer to get as many folk as
+possible to be able to use web sites, software and online
+systems, but it seems it’s not. We are invisible I suspect.
+
+“I block Google’s ads now as they persist in trying to sell me
+Venetian blinds... grin.”
+
+[Responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Opinion
+- Accessible kids’ computer games.
+
++09: Serious Fun
+by Donna Jodhan.
+
+
+Each time I hear those commercials on TV of kids having fun
+with learning games, I ask myself how much of this is or can
+be available to blind and sight-impaired children. The truth is
+that, as modern technology develops, we find that more and
+more blind children are struggling to keep up when it comes to
+being able to enjoy the excitement and fun.  But with more and
+more toy manufacturers coming out with nifty ways for kids to
+learn to read, write, do maths and spell, blind and sight-
+impaired kids need to be given ways to enjoy all of this as well.
+
+It’s true that some major strides have been made in making
+mainstream games – whether educational or otherwise – more
+available and accessible to blind and sight-impaired kids but
+there is a great deal more that needs to be done.  Blind and
+sight-impaired kids need to be able to access more mainstream
+technology. In short, they need to have equal access to
+whatever game or learning tool is out there for the mainstream
+kid.
+
+Some strides have been made in the area of ball games; a
+beeping baseball or hockey puck, a beeping ball for lawn
+tennis, and look how Goalball has been developed for blind
+people. So all is not lost.
+
+So progress continues to be made.
+
+For example Spoonbill Software, run by “happily retired
+computer programmer” Ian Humphreys in Albany, Western
+Australia, now offers some 18 free computer games for
+sighted, vision-impaired and blind players. The Spoonbill’s
+newest accessible game, BG Codebreaker, substitutes all the
+letters of the alphabet with numbers and then invites you to
+decode words. You can browse all 18 game descriptions here:
+http://www.spoonbillsoftware.com.au/blindgamers.htm
+
+Other useful sites include AudioGames.net, a portal for games
+based entirely on sound:
+http://www.audiogames.net
+
+Accessible chess puzzles, hosted by Mario Lang:
+http://delysid.org/chess/epd.cgi
+
+And One Switch, a gaming resource for people with physical
+and learning disabilities:
+http://www.oneswitch.org.uk
+
+So can we allow ourselves to dream and hope that the blind
+children of tomorrow will have a better opportunity to move a
+bit closer to the mainstream world of games and toys?  That
+they will have more to choose from and that they will be able
+to enjoy them that much more?  Will they have a greater
+chance to participate in mainstream fun or will they continue to
+lag behind and need substitute games and toys?
+
+I am sure that as time goes on, more and more toys and games
+manufacturers will develop products that are more accessible.
+Products that will benefit all kids. This may even be closer to
+becoming a reality than many would think, though we can lend
+a hand by lobbying these companies to move in the right
+direction.
+
+NOTE: Donna Jodhan is an accessibility consultant who is
+involved in an ongoing legal battle with the Canadian
+government over accessibility of its websites (see E-Access
+Bulletin, September issue).
+And Donna’s blog is at:
+http://www.donnajodhan.blogspot.com/
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=626
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility discussion on the web for nearly six years.
+Celebrating our sixth birthday next month, you’ll find
+discussion of accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2011 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Editorial advisors: Kevin Carey, Tristan Parker.
+
+
+ISSN 1476-6337.
+
+[Issue 141 ends.]

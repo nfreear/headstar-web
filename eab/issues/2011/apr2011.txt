@@ -1,0 +1,584 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 136, April 2011.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 136 Contents.
+
+01: UK Fails To Support Accessible Copyright Treaty
+- Future of WIPO accessibility proposals still uncertain.
+
+02: Canadian Broadcasting Regulator Backs Access Fund
+- Creation of independent body is ‘making history’.
+
+03: Open Marketplace Launched For Assistive Technology
+Ideas
+- ‘REALISE’ takes concepts through to funded projects.
+
+News In Brief: 04: Accessible Transport - call for audio
+information on buses; 05: India Complaint - e-government bill
+criticism; 06: Android Guide - accessible apps advice.
+
+
+Section Two: Inbox.
+07: Open Views - juggling software costs and options; 08:
+Version Grumble - Keeping up with updates; 09: Procurement
+Problems - accessibility is moving target.
+
+Section Three: Section Three: Research – E-government for
+older people.
+10: Not So Easy To Help Yourself? More and more local
+government services are moving online, but are they always
+easy to use by older people? Tristan Parker reports on some
+new research from Hertfordshire University
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: UK Fails To Support Accessible Copyright Treaty.
+
+The UK government has declined to offer full support to a
+draft international treaty to allow accessible versions of
+copyrighted works to be shared across international
+boundaries, giving those with print disabilities wider access to
+books, E-Access Bulletin has learned.
+
+The news comes in a response to a written Parliamentary
+question from Lord Low, President of the European Blind
+Union (EBU), in which he asked for the government’s
+assessment of the treaty. The draft was first put forward by the
+World Blind Union (WBU) in 2009 at a standing committee of
+the World Intellectual Property Organisation (WIPO) ( see E-
+Access Bulletin issue 131: http://bit.ly/eNgEDt ).
+
+In a response from Baroness Wilcox seen by E-Access Bulletin
+ahead of publication, the government says: “Whilst we support
+the purpose behind [the treaty] we believe that it contains
+elements that go beyond existing international agreements on
+copyright… There is a need to strike the right balance between
+improving access and protecting the rights of authors and
+publishers.”
+
+Dan Pescod, Vice-Chair of the WBU (http://bit.ly/gs9o55 ), told
+E-Access Bulletin this response was “very disappointing,
+though not surprising.”
+
+The WBU treaty is one of four draft texts submitted by
+different national committees to address the issue of sharing
+accessible copyrighted material, all of which were discussed at
+a recent event co-hosted by the EBU in the European
+Parliament, Brussels.
+
+The event aimed to highlight a lack of support for the WBU
+treaty from the European Union (EU), which is proposing
+alternative guidelines based around ‘joint recommendations’,
+rather than binding laws – a proposal that is “frankly too weak
+and complicated,” Pescod told E-Access Bulletin.
+
+The EU is not taking seriously the rights set out in the UN
+Convention on the Rights of Persons with Disabilities, he said.
+“The EU can come up with reasons why the ‘soft law’ they
+propose is more effective, but those reasons don’t seem to
+apply when they’re dealing with other issues. So there is
+definitely something of a double standard there, which we urge
+the EU to rethink.”
+
+Publishing groups have previously lobbied the EU regarding
+the WBU treaty, claiming that the exception to copyright law it
+proposes would encourage widespread illegal sharing of
+copyrighted materials.
+
+However, while the European Commission and European
+Council – two of the EU’s three main institutions – do not
+support the WBU treaty, the European Parliament has been
+supportive of the proposals, with 101 Members of the
+European Parliament (MEPs) signing a supportive letter from
+the EBU in November 2010.
+
+The WBU treaty, and other proposed options surrounding the
+issue, will be discussed further when the WIPO meets again in
+June.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=581
+
+
++02: Canadian Broadcasting Regulator Backs Access Fund.
+
+A coalition of Canadian disability organisations is claiming a
+historic victory this month after the country’s broadcasting
+regulator backed their call for an independent trust fund
+working to ensure 100% accessibility of all digital broadcasting
+platforms by 2020. Its work programme will be designed to
+focus on “innovation that provides platform-neutral solutions
+to ensure accessibility of all broadcasting content.”
+
+The Canadian Radio-television and Telecommunications
+Commission (CRTC) has included establishment of the
+Broadcasting Accessibility Fund among conditions attached to
+its approval of the takeover of Canada’s largest TV network,
+CTV, by BCE ( http://www.bce.ca/en/ ), owner of
+communications company Bell.
+
+The proposal had initially been put forward by the Access
+2020 Coalition ( http://www.mediac.ca/proj-Access2020.asp ),
+an umbrella group led by the non-profit body Media Access
+Canada (see February issue:
+http://www.headstar.com/eablive/?p=544 ).
+
+The sum of money BCE will be required to put forward to
+establish the fund, at 5.7 million Canadian Dollars, is less than
+half the 13 million Dollars originally requested by Access
+2020. However the commission accepted the disability
+organisations’ call for the fund to be largely independent of the
+broadcasting industry and overseen by the access community.
+In its ruling (
+http://www.crtc.gc.ca/eng/archive/2011/2011-163.htm )
+the commission said that at least two-thirds of board members
+of the fund must be “persons with disabilities, representatives
+of disability organizations and/or other parties with relevant
+expertise in developing or implementing accessibility
+solutions.”
+
+The fund will also be empowered to raise further funding from
+other sources, such as annual contributions by other
+broadcasters or broadcasting distributors.
+
+“We are really making history here,” Beverley Milligan, CEO
+of Media Access Canada, told E-Access Bulletin. “At last those
+who depend on accessibility are being entrusted with the means
+of making it happen. The CRTC ruling is clear, the
+broadcasters are to play a part but this fund is to be run by the
+accessibility community. We have always had the will but now
+we also have the means.
+
+“This latest ruling by the CRTC makes them the first regulator
+in the world to take an alternative approach to ensuring 100%
+accessible content by 2020. They have empowered us to bring
+it about and now it is time for us to get down to work.”
+
+BCE now has until 6 May to submit detailed plans for the fund
+back to the commission.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=572
+
+
++03: Open Marketplace Launched For Assistive Technology
+Ideas.
+
+An ‘ideas marketplace’ for new open source assistive
+technology projects has been launched by a group of
+academics and developers with funding from JISC, the
+technology agency for UK colleges and universities.
+
+The REALISE project ( http://www.realisepotential.org ) is an
+open, three-stage tool for creating new software technologies to
+make it easier for people with disabilities to use the internet,
+computers and mobile devices.
+
+The first stage is an ‘ideas’ area, where anyone can ask for
+help with a problem or offer a theoretical solution. If there is
+enough interest in an idea and someone wants to take the lead,
+it can be moved to the second stage: the ‘incubator’, where a
+team of developers is assembled. Finally, the best ideas will
+move to full ‘project’ status, the third stage which will involve
+funding by non-profits or private companies.
+
+According to the project’s brief, “At any stage commercial
+companies or researchers can become involved and may lead
+at the incubator or project stages. In the end companies may
+make money out of a project but will need to keep to any
+agreements during the development stages.”
+
+Realise team member E.A. Draffan, of the Learning Societies
+Lab at the University of Southampton, told E-Access Bulletin:
+“We want to encourage people to come and take part in the
+project as ideas folk, users of assistive technology, developers
+and even those who may be willing to fund or take ideas and
+turn them into projects.
+
+“Anyone can add an idea for an app or program and you never
+know, a developer may take it up and we might have some
+new assistive technology projects developing.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=574
+
+
+++News in Brief:
+
++04: Accessible Transport: The Guide Dogs for the Blind
+Association is calling for buses and coaches to be forced to
+offer passengers the same audio-visual information already
+required in trains. The ‘Talking Buses’ campaign is urging the
+government to expand the Public Service Vehicle Accessibility
+Regulations to require buses and coaches to offer both audible
+and visual journey information, including next stop and final
+destination, making them more accessible to blind and visually
+impaired users:
+
+http://www.guidedogs.org.uk/helpus/campaigns/talking-buses/
+Short link: http://bit.ly/eUbOTL
+
+
++05: India Complaint: The draft of a bill to provide delivery of
+e-government services in India has been criticised by a
+research organisation in the country, The Centre for Internet
+and Society, over its lack of a requirement for e-government
+services to be accessible for disabled citizens. The centre says
+the Draft Electronic Delivery of Services Bill 2011 – which
+aims to gradually phase out manual delivery of government
+services – should make it mandatory for the Indian
+Government to comply with the widely used international Web
+Content Accessibility Guidelines (WCAG):
+
+Short link: http://bit.ly/dYzQN3
+
+
++06: Android Guide: A website dedicated to exploring apps,
+programs and advice for blind and visually impaired users of
+Android– Google’s operating system for mobile devices – has
+been launched by the online assistive technology store AT
+Guys. Android Access features a list of accessibility apps by
+topic; a ‘getting started’ section, with information on choosing
+an accessible Android phone; and links to accessible Android
+news, blogs and forums:
+
+http://androidaccess.net/
+Short link: http://bit.ly/fWuKSY
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Open Views: Last issue’s opinion piece by David Bates
+on the need for the open source community to fill a gap in the
+market for free or cheap accessibility solutions has generated a
+surge of correspondence.
+
+Reader Stuart Young writes in to mention the free open source
+distribution of Linux called Vinux which has been specifically
+designed for the blind and visually impaired, available at:
+http://www.vinux.org.uk .
+
+And our regular correspondent Roger Wilson-Hinds, creator of
+the free screen reader Thunder (
+http://www.screenreader.net ), said he read the March piece on
+the high expense of many access software packages with “a
+good deal of empathy and agreement”.
+
+He writes: “A great friend of ours who is totally blind has
+recently been made redundant, losing the benefits of
+government ‘Access To Work’ funding which has provided
+him with expensive assistive technology over the past 20 years.
+It is indeed a huge shock when you have to pay for these
+things out of your own pocket.
+
+“We have worked for the past ten years at Screenreader.net to
+provide no cost or low cost for such people. We [also] promote
+[the open source screen reader] NVDA when it is appropriate
+but that solution, good as it is, will not get you around
+Microsoft Office. Open source solutions are no magic pill and
+depend totally on voluntary good will in keeping up with
+changes to applications and the web.”
+
+Roger asks: “Is it not time we heard something from our larger
+blindness charities on this subject? For years they have
+promoted the costly stuff, sold it, trained in its use and
+assessed it as being the business for users. So is it not time they
+gave a little more thought to the needs of low income blind
+people?
+
+“Better than mere thought or talk would be a firm commitment
+to produce or support the production of free or low cost
+assistive software alternatives. After all, David Bates now is
+speaking for the vast majority of blind people who don’t work,
+don’t get government Access To Work hand-outs and don’t
+have a cat in hell’s chance of keeping up with the digital
+society unless, like him, they happen to be techy savvy
+already.
+
+“What I am talking about here is the free software simply as
+another option. There should never be a monopoly, whether it
+is free or commercial.”
+
+Finally, Kelvin Falconer, a reader from New Zealand who is
+blind and depends on a screen-reader to access his computer,
+speaks up for the accessibility of Apple Macs. He says: “Two
+years ago I needed to upgrade my computer. I was still using
+Windows 98 first edition which was not broadband-
+compatible, and the Dolphin SupaNova screen reader, so
+looked at my options. I chose an iMac for its convenience and
+[for the fact that] that the operating system comes standard
+with an excellent screen reader called VoiceOver, which is
+offered when first started up.
+
+“This option may not suit people who are also using software
+that does not have a Mac version, and currently not all
+software is compatible with this screen reader, such as
+Microsoft Word for Mac and Firefox. But I have not had any
+significant problems accessing web sites with VoiceOver.”
+
+[Further responses please to inbox@headstar.com].
+
+
++08: Version Grumble: David Steward, a reader from London,
+writes in to say that he has recently installed the new release of
+Internet Explorer 9 web browser software from Microsoft, and
+for the most part is happy with it.
+
+The access issue I’m annoyed with, is that I use Dolphin
+Systems Supernova screen-reader v12.2.
+
+So I installed IE9, [only] to find out, when accessing sites that
+use drop-down menus, my supernova screen reader doesn’t
+have the ability to read [them].”
+
+He says that Dolphin does plan to fix this issue in an upcoming
+version release, 12.3, but says users need more warning of
+potential problems before they happen. “I think that
+accessibility providers should put out email newsletters to their
+users when a large company like Microsoft releases updated
+versions. So we know whether we should update our programs
+straight away, or wait until the third party company has
+released updated scripts or maps for speech programs.
+
+“Lucky enough, I still have IE7 on my laptop, running
+Windows Vista, so I can access my online banking, but I prefer
+my PC which runs Windows 7 as [it] is faster than my laptop.”
+
+[Responses please to inbox@headstar.com].
+
+
++09: Procurement Problems: Mick Phythian – blogger at
+greatemancipator.com, electronic government researcher at De
+Montfort University and ICT Manager at Ryedale District
+Council – has posted a comment onto our E-Access Bulletin
+Live blog responding to our March story ‘Council web
+accessibility ‘should be built into procurement’ (
+http://www.headstar.com/eablive/?p=566 ).
+
+Referring to his own experience at Ryedale, Mick writes:
+“When I wrote the tender documents for our current site in
+2005-06 I did of course specify accessibility (to ‘AA’ standard
+minimum) as one would expect, as the report proposes.
+Without naming names, getting a CMS supplier to actually
+deliver that is a nightmare, since one doesn’t find out until the
+content is loaded and the site is up and running whether it
+actually is or not - and what do you do then?
+
+“There is also the additional complexity of web services, which
+are frequently procured and delivered from a range of
+suppliers, and can also impact upon a site’s accessibility.
+
+“To quote an expert on this field, “accessibility is not a binary
+state”, and is therefore not easy to contractually specify. So,
+yet again, from a practitioner’s view, easier said than done!”
+
+[Responses please to inbox@headstar.com].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Research
+– E-government for older people.
+
++10: Not So Easy To Help Yourself?
+by Tristan Parker.
+
+Some council websites present elderly users with a range of
+problems which prevent them taking full advantage of the
+opportunities to access their local services online, according to
+new research from the University of Hertfordshire. This is a
+problem for older people, and a problem for councils too,
+since citizen ‘self-service’ over council websites is seen as a
+key way of helping local authorities save money on face to
+face services, crucial in these times of heavy public sector
+budget cuts.
+
+‘An e-government case study of London’s older citizens’ was
+led by Dr Jyoti Choudrie, head of the university’s Systems
+Management Research Unit (SyMRU) ( http://bit.ly/e9utoc ),
+and Vivian Songonuga, a research student and staff member at
+the Royal National Institute of Blind People. It examined 30
+local government sites across London, plus 179 questionnaire
+responses and a further series of focus group interviews.
+
+“When we look at local authorities we don’t always think about
+their websites”, Choudrie told E-Access Bulletin. “So, we
+decided to look at a particular group of citizens – elderly
+people – to see how local government sites are helping these
+people with their daily requirements.”
+
+The initial part of the study involved finding out the main uses
+of the internet for elderly people, and then examining how well
+local authority sites served these needs.
+
+The most popular use for council websites was to find out
+information about council services in the area, with 79% of
+respondents using local authority sites for this purpose. It was
+also found that many elderly people were keen to get as much
+detail as possible about these services, such as location, the
+name of a council member to contact, etc.
+
+However, a number of issues were identified that hindered
+elderly people from using the sites. These included lengthy
+load times for web pages, and broken links that direct users to
+‘dead’ pages (particularly in the FAQs section).
+
+When broken down into more detailed focus group interviews,
+further barriers began to appear. A focus group of 14 people
+revealed that only four found the internet to be a useful social
+tool, and only five of the 14 found it to be a time-saving
+device.
+
+Examining physical problems or disabilities which may hamper
+internet use among elderly people, the research found that 73%
+(121 respondents) had no disabilities, while the most
+commonly highlighted issues were those related to the hands
+(such as arthritis or motor disabilities), which affected 14% of
+respondents (23), and visual impairments, which affected 6%
+of respondents (10 people).
+
+An additional interesting finding from this area of the research
+was that due to a large number of the elderly respondents living
+in extended family groups or residing in the same home as
+offspring and grandchildren, some of the internet use reported
+was actually based largely around these younger generations
+using the internet ‘for’ the elderly residents, rather than the
+elderly engaging in direct and extended use.
+
+“This is something that previous research has also identified”
+says Choudrie. “We may be promoting use of the internet
+among older people, but we need to consider very carefully –
+is this use being sustained, and how are [elderly people]
+sustaining it?”
+
+The study also makes a number of recommendations to
+encourage use of council websites among the elderly. As well
+as championing an overall simplification of website
+functionality, “More computer training centres for the elderly
+and silver surfer clubs should be set up”, says Choudrie. “We
+found that secondary schools and computer labs could be used
+as extra venues for evening and weekend computer training
+courses.
+
+“Also, we thought that councils could look at financial
+discounts for elderly people who use council services online.
+Even if it is only a nominal amount, it could be an incentive
+for elderly people.”
+
+Following on from that, the study points out that many of its
+elderly respondents considered computers to be expensive, and
+that offering free second-hand or reconditioned computers
+may again be an incentive for these users.
+
+NOTE: ‘An e-government case study of London’s older
+citizens’ is currently awaiting publication. Dr Choudrie will be
+chairing a roundtable discussion on its findings at E-Access
+’11, hosted by E-Access Bulletin publisher Headstar, in
+London on June 28:
+http://bit.ly/f3tZbH
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=576
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you’ll find discussion of
+accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2011 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 136 ends.]

@@ -1,0 +1,587 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 138, June 2011.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end).
+
+
+++Issue 138 Contents.
+
+01: European Projects To Explore Accessibility of Terminals
+- From cashpoints to ticket machines, possibilities have
+widened.
+
+02: ‘GoGenie’ Platform To Gather Live Access Information
+- Service to use ‘best of social media’ for disability support.
+
+03: Assistance Apps Set For Live Testing This Autumn
+- Tools for independent living and blue badge parking.
+
+News in Brief:
+04: Colour Maps – accessible colour schemes for digital maps;
+05: Assistive Struggle: Funding cuts warning; 06: Dyslexia
+Support – public sector guidance.
+
+Section Two, The Inbox – Readers’ Forum:
+07: Money Troubles – ongoing search for cheaper access
+solutions; 08: London Lapse? Olympic accessibility gap; 09:
+Mouse Quest – pressure-sensitive mouth device.
+
+Section Three: Access Champion - Dr Howard Leicester, Kent.
+10: Towards An Information-Accessible Village, County – And
+World: the story of a deafblind academic who is working with
+a national charity to improve health and other information
+available to people with special communication needs, from
+his home village outwards.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: European Projects To Explore Accessibility of Terminals.
+
+A European working group to develop guidelines and standards
+for the accessibility of self-service terminals such as cashpoints
+and transport ticket machines has been revived by the
+European standards body CEN.
+
+The group – to be convened by user interface consultant Julian
+Jones – is a successor to the former user interface working
+group WG6 of CEN technical committee TC224 on ‘Personal
+identification, electronic signature and cards’, which has lain
+dormant for two years.
+
+The revival is needed “because human interfaces have moved
+on a lot in last couple of years, with i-pods, i-pads and so on,”
+Jones told E-Access Bulletin this week. “There is far more use
+of touch-screens and operations which use multiple fingers.
+We also want to reflect the use of near-field communication
+and the use of tokens on personal handheld devices as well as
+contactless cards.”
+
+These developments mean the range of possible user
+preferences has become much wider, he said. Preferences
+could now include colour combinations, font size, volume of
+audio feedback, cursor behaviour and many other factors.
+
+The new group will run a UK open meeting at the end of the
+summer to explain the workgroup's objectives to interested
+parties and gather input before the membership is nominated
+by national standards bodies, Jones said. All those interested in
+attending should email him on juliang.jones@btinternet.com .
+
+Meanwhile a European research project into personalisation of
+digital self-service terminals, ‘APSIS4all’ (
+http://www.apsis4all.eu/ ), has been launched with the aim of
+overcoming accessibility barriers faced by people unfamiliar
+with ICT, people with disabilities and older people.
+
+The three-year project is being led by the Technosite
+Foundation in Spain, with other partners from across Europe
+including John Gill Technology and AbilityNet from the UK. It
+will focus on two areas – first, how users might be able to
+connect a mobile device such as a smartphone to any self-
+service terminals so they can carry out interactions on their
+own personal device; and second, that of personalisation
+according to preferences held either on a smartcard or in the
+cloud – work which will overlap with that of the revived CEN
+working group.
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=607
+
+
++02: ‘GoGenie’ Platform To Gather Live Access Information.
+
+An online platform to help disabled and deaf people find
+access information online for any location such as a shop,
+cinema, cultural event or town centre, based on the
+recommendations and comments of others, is set to go into
+beta testing next month.
+
+The ‘GoGenie’ pilot project (
+http://www.peskypeople.co.uk/go-genie/ ) is initially focused
+on the West Midlands. Its development phase was supported
+by the Arts Council England Digital Content Development
+programme and support for the pilot has come from NESTA’s
+Reboot Britain programme.
+
+Alison Smith, director of GoGenie developer Pesky People,
+told E-Access Bulletin the project is aimed at “taking the best
+of social media and using it for the benefit of everyone in
+planning a visit. We are not replacing existing social networks,
+we are working with them and enhancing them.”
+
+The result could embrace a mix of technologies including
+smartphone apps and tools that can be embedded into partner
+websites, with each format being shaped by its disabled and
+deaf users, Smith said. “We are not waiting until it is perfect
+and launching it - the whole point of crowdsourcing is to be
+organic.”
+
+Other partners for the pilot include Telford and Wrekin
+Council; the arts marketing agency Audiences Central; and
+community theatre and dance organisers Black Country
+Touring. “We are also in discussion with a number of cultural
+organisations outside of the region,” said Smith. “The pilot has
+an emphasis on cultural venues but has potential for wider
+application.”
+
+Various members of the wider digital community, such as Will
+Perrin of local networking group Talk About Local and Nick
+Booth of community social media specialists Podnosh, have
+been major supporters of the project from its outset, she said.
+“Much of what we are doing has been influenced by attending
+hack days, unconferences, and networking - very much the
+opposite end of formal conference events and the way
+businesses usually operate within the sector.”
+
+This approach brought unexpected success recently when a
+partnership forged with the design for all consultancy Enabled
+By Design and others to create an android mobile phone app in
+less than 24 hours ended up winning an award at Interactivism,
+a ‘hackday’ focused on finding accessible solutions for older
+people. The day was hosted by consultancy FutureGov and
+Google, and the mobile phone app ‘Spotted’ won the Gransnet
+award for most useful app (see http://bit.ly/myzsui ).
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=605
+
+
++03: Assistance Apps Set For Live Testing This Autumn.
+
+A series of smartphone apps to let disabled people contact
+shops, petrol stations and other locations to let them know their
+access needs before they arrive is being developed by
+Sunderland-based social enterprise DisabledAccess4All (
+http://www.access4allapps.com ).
+
+The ‘Customer Assist’ app will let users request assistance both
+en route and after arrival. When the user arrives, the shop,
+service or petrol station will have received information about
+the assistance he or she requires so they can have an attendant
+ready to help.
+
+The app will also offer directions to accessible services, and a
+separate ‘Parking Space Finder’ app is being developed to work
+with local authorities to offer people directions to the nearest
+blue badge parking spaces. The parking app is due to go live
+for testing in October, with Westminster and Sunderland
+councils signed up to take part.
+
+Gary McFarlane, managing director of DisabledAccess4All,
+said the apps would be free to use, with various business
+models being developed including a possible licensing deal for
+service providers, or sponsorship deals which would allow
+stronger accessibility branding for some businesses.
+
+“We are currently negotiating to sign up a range of public and
+private sector bodies such as banks. If they don’t want to
+sponsor, will still carry the information, but sponsors can gain
+brand awareness, more prominence.”
+
+The potential of mobile apps such as this to give people with
+disabilities more freedom in their everyday lives is enormous,
+McFarlane says.
+
+“It breaks down social and physical barriers as well as
+attitudinal ones. If someone is relying on a personal assistant to
+help them going out shopping, when they implement this, they
+may not need that assistance. It means life with a lot less fuss,
+with much more independence and choice.”
+
+- Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=603
+
+++News in Brief:
+
++04: Colour Maps: Special colour schemes for digital maps that
+make them easier to use by people with colour vision
+deficiency (commonly known as colour blindness) have been
+developed by Britain’s national mapping agency Ordnance
+Survey. Following two years’ work by Senior Technical
+Product Manager Simon Duquénoy, the colour schemes have
+now been released for feedback on the agency’s official blog:
+http://bit.ly/jgT5rX
+
++05: Assistive Struggle: Funding cuts imposed by the UK’s
+coalition government “may result in reductions in the provision
+of assistive technology and assistive technology information
+services at a time when these are even more needed”,
+according to a new report from the Assistive Technology (AT)
+Alliance, a grouping of four disability charities. Assistive
+technologies are defined as all technologies which support
+disabled people in living independent lives. Cuts to benefits,
+changes to the UK government’s Access to Work scheme, and
+the closure of the Independent Living Fund may have a similar
+effect, the report finds. “Private and third sector organisations
+are likely to become more important, both as a source of
+information and supply of AT for self-funders, and through
+services provided for or within statutory AT services, such as
+the retail model in community equipment services.” ‘Anarchy
+or Opportunity? The future for Assistive Technology
+information services’ can be downloaded as a PDF from:
+http://www.at-alliance.org.uk
+
++06: Dyslexia Support: Guidance for embedding dyslexia-
+friendly practices in public sector bodies has been published
+by the Adult Dyslexia Organisation with support from assistive
+technology supplier Microlink PC. The guide outlines potential
+areas of difficulty and sets a best practice framework that
+promotes a consistent approach to addressing dyslexia within
+current disability and discrimination law, including the new
+Public Sector Equality Duty. ‘Dyslexia – a guide for the civil
+service and public sector’ can be obtained from the ADO:
+http://www.adult-dyslexia.org
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Money Troubles: David Bates’ opinion piece on the need
+for more free or cheap accessibility solutions, from back in our
+March issue, continues to spark discussion.
+
+Brian Gaff, who is on the committee of the Kingston upon
+Thames Association for the Blind, says his organisation offers
+grants for just this sort of problem, “but as so often happens
+people either do not know they can apply, or don't want to.
+
+“We have bought [the screenreader] JAWS and [the screen
+magnifier] SuperNova for people doing courses, attempting to
+find work and so on. I'm sure, or at least I hope we are not
+alone in this. In rare cases we have even supplied second hand
+machines for these purposes.
+
+“In the current climate we should also remember that [the open
+source screenreader] NVDA is out there ( http://www.nvda-
+project.org ), and though not as all-singing as JAWS, is very
+good for no cost. Of course I must say that this project relies
+on donations and sponsored work, so if you do download and
+use it, consider a donation to its developers NV Access, or if
+you have software that you might like NVDA to support and it
+currently does not, discuss with them about how much it would
+cost you to remedy this.
+
+“I do agree that many pieces of equipment and software are far
+too expensive. I understand that there is now a Braille display
+being designed and made in India which is reported to be a lot
+cheaper than the current ones, so we all live in hope and also
+hope certain companies can see their way to price their
+products in line with people’s pockets.”
+
+Meanwhile David Taylor, from Preston in Lancashire, writes in
+to stress there are more affordable alternatives out there to the
+more expensive systems.
+
+“I must say, in this day and age, it is concerning that people are
+not looking beyond Jaws for their screen reading needs. NVDA
+uses an almost identical command structure, so there is no
+learning involved, and you can get reasonable voices for it via
+a number of routes. £800 for a screen reader is just £100 less
+than I paid for my computer which included a screen reader
+and I could set it up independently too. On top of that, I then
+don't need to pay such high upgrade costs or pay extra for
+office products since it was a Mac.
+
+“But it is a shame that some blind people just moan, rather than
+source alternatives. Voting with their feet would do far more to
+reduce the price of access technology. If it's too expensive,
+there is a cheaper alternative, try it!”
+
+Finally Fay Rohrlach, a reader from Adelaide in South
+Australia, writes in to say that she too would like to see more
+things being made available to people with disabilities at a
+more affordable price.
+
+“In this current climate, many people who want and need this
+sort of equipment can't get it because it is prohibitively
+expensive, way beyond the ability of the everyday person to
+afford, and especially so for retirees and people who currently
+are out of work.
+
+“While the Australian dollar, and the value of it, continues to
+be low, we'll always have those who'll never be able to have
+the equipment that they want, which is why I've got a computer
+on loan to me, long-term, through the Royal Society for the
+Blind in Adelaide.
+
+“I wished I never had to, but at least, I've got the certainty that
+knowing if something goes wrong, I've only got to phone them
+and they take care of the rest from their end. I did have a
+computer of my own at one time, but because the people
+helping with maintenance lived the opposite side of Adelaide
+to me, it didn’t work out. When you're vision impaired and
+have to rely on others to take you to places, your independence
+is severely limited. It was a real hurt for me when I had to part
+with it, as I had it for over 10 years, but that’s life, and we
+must get along.”
+
+[Further responses please to inbox@headstar.com].
+
+
++08: London Lapse? Responding to last issue's article last
+issue, 'Screen-Reader Problems With Olympics Ticket Site', the
+Australian accessibility academic and consultant Tom
+Worthington writes in to say: "Ticketing was one of the issues
+with the Sydney Olympics website accessibility case, which I
+was an expert witness for:
+http://www.w3.org/WAI/bcase/socog-case-study .
+
+“Then [in 2008] the Beijing Olympics Committee flew people
+from around the world to Beijing for a week and gave us VIP
+treatment, while pumping us for information about their web
+site:
+http://www.tomw.net.au/2003/bws.html .
+
+“But London have not, so far.”
+
+[Further responses to inbox@headstar.com].
+
+
++09: Mouse Quest: Dorcas Munday, chairperson of the Sequal
+Trust, a charity supplying communications equipment to
+disabled people ( http://www.thesequaltrust.org.uk ), writes in
+to ask if anyone has any information on computer mice that
+can be controlled with the mouth.
+
+She writes: “My mouse I use with my computer is 12 years old,
+and for five years or more we’ve been searching the net for a
+replacement as the company which made my mouse went bust
+in 1999. We traced it back to Taiwan. The difficulty being that
+I need a mouse with a pad that is pressure-sensitive, and they
+are not in fashion any more. I type with a plastic knitting
+needle in my mouth. Heat-sensitive is not the answer!
+
+“John, my carer, has revived the pressure-sensitive one until it
+is nearly dead! (And it is getting harder to use). With the mouse
+I have I can move the cursor around the screen better than
+using the number pad and arrows on the keyboard.
+
+“I feel that some of the technology of the past is very useful
+when you are disabled. I can’t be the only person in the UK
+that uses pressure-sensitive in a pad. I’ve written no end of
+letters but no-one ever replies, it is so frustrating! My computer
+is vital to me. I’m sure there must be an answer somewhere?”
+
+So far Dorcas has found two possible answers: the Jouse 2, a
+joystick-operated USB mouse that is controlled with your
+mouth, price $1,499.99 from Independent Living Source (
+http://www.iltsource.com ); and the Integramouse, a UK
+product with a more adaptable
+mouth piece ( http://bit.ly/iYG61F ).
+
+Readers with experience of these devices or with other
+suggestions should send them in please to inbox@headstar.com
+].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Access Champion
+- Dr Howard Leicester, Kent.
+
++10: Towards An Information-Accessible Village, County –
+And World.
+
+Twenty-six years ago Howard Leicester was unexpectedly
+diagnosed with genetic deterioration of his eyes and ears,
+halfway through taking his first degree. Simple things became
+difficult; difficult things impossible.
+
+However, with help and guidance from the charity Sense,
+which supports children and adults who are deaf and blind,
+Howard has since gained a PhD, run an academic department,
+and served on various boards in health and social care. Dr
+Leicester is now an independent consultant supporting change
+in healthcare planning and delivery.
+
+This year, he had a chance to offer some help in his turn to
+Sense when he received a grant from the Vodafone World of
+Difference programme which offers people the chance to
+donate their time and skills to their chosen charity. Here, he
+picks up the story in his own words:
+
+“Deafblind myself and working from home as an academic in
+health information systems (health informatics), I'm well on
+my way to providing accessible information across Kent from
+my native village of Otford.
+
+“My progress has been made partly thanks to Headstar’s events
+and bulletins. Last year's e-Access 10 conference introduced
+me to PDF accessibility expert Ted Page of PWS Ltd. Now
+we're converting advanced academic textbooks from
+inaccessible PDFs into usable versions. Many such texts have
+been standard on MSc courses I've taught for years. But it's
+only now that I've been able to "read" them myself. Moreover,
+Kent Library Services will get the products for their online
+library portals throughout the county.
+
+“Then E-Access Bulletin issue 129, September 2010
+(http://www.headstar.com/eablive/?p=478) introduced me to
+open source accessibility software expert and guiding force
+Steve Lee. In particular, the EduApps resource range, specially
+collected by the TechDis Regional Support Centre in North and
+East Scotland, allows us to generate and convert documents
+from and to various output formats. Local documents, like
+menus and newsletters, can thus be made more accessible for
+Otford residents and visitors.
+
+“IT Can Help (http://www.itcanhelp.org.uk), the network of
+volunteers to help older and disabled people with IT run by the
+British Computer Society, is also on board. My local ambitions
+also stand a better chance because I'm now an Otford Parish
+Councillor.
+
+“In recent months (mid March to mid May) I have also been
+working with the major deafblind charity Sense, generously
+supported by Vodafone's World Of Difference programme
+which funds people to work for charities
+(http://worldofdifference.vodafone.co.uk).
+
+“I have been working with Sense, fellow academics and other
+local and national organisations to help promote the charity,
+and help to identify additional needs of deaf-blind patients in
+the UK in the modern digital age. Aims include to:
+
+- Develop a standard for including 'special needs' in patient
+records;
+- Produce models of local populations for predicting 'special
+needs' for planning and awareness;
+- Promote computers for production and sharing of information
+in formats better suited to those with 'special communication
+needs';
+- Make Otford a more information-accessible village, and
+spread these principles across Kent; and
+- Gather stories promoting a greater sense of humour on
+disability issues.
+
+“Currently, patient 'special needs' are not formally collected,
+and data is too limited to estimate national or local needs. Most
+leaflets, books, mainstream and mobile websites are still
+inaccessible, and there is a general lack of awareness and
+understanding of accessibility issues.
+
+"But", continues Howard, "there's progress on some of my
+national aims on top of my Otford activities. The ongoing Life
+Opportunities Survey (LOS) carried out by ONS/ODI (
+http://odi.dwp.gov.uk/disability-statistics-and-research/life-
+opportunities-survey.php )
+deserves special attention by anyone involved in population
+modelling. For the first time, it maps up-to-date numbers on
+disability types to various barriers in society - and I've received
+generous, personal guidance from the official statisticians.
+
+"Recording patients' accessibility needs is also justified by
+LOS. I've produced a method based on self-completion linked
+to GP practices. I have received some encouragement for this
+work from various academics, Department of Health
+Informatics folk and RADAR, but further development and
+adoption will depend on receiving further help from other
+organisations, and I would be keen to hear from anyone
+interested.
+
+“Please follow my activities in Otford and Kent, as well as my
+wider activities, via my website:
+http://home.btconnect.com/howardleicester
+
+“The home page has a link to the programme with subsequent
+links to the specific strands.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=601
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you’ll find discussion of
+accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2011 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Editorial advisors: Kevin Carey, Tristan Parker.
+
+
+ISSN 1476-6337.
+
+[Issue 138 ends.]

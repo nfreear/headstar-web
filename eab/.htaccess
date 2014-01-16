@@ -1,4 +1,13 @@
 
+AddCharset  UTF-8  .txt
+AddDefaultCharset UTF-8
+AddType 'text/plain; charset=UTF-8' txt
+
+<FilesMatch "\.(htm|html)$">
+#|css|js
+ForceType 'text/html; charset=UTF-8'
+</FilesMatch>
+
 <Files .htaccess>
 order allow,deny
 deny from all

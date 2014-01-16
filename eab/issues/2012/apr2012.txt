@@ -1,0 +1,493 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 147, April 2012.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 147 Contents.
+
+01: Apps Risk Creating New World of Exclusion, Report Finds
+- “Choice, adaptability and flexibility” essential for
+accessibility.
+
+02: Publishers Call for Cohesion on Accessible e-Books
+- Supply chain pieces should work together, says report.
+
+03: Digital Exclusion For Older People 'Set To Continue'
+- Web designers must address constraints.
+
+News In Brief: 04: Closure Call - technology assessment centre
+under threat; 05: One Day - Global Accessibility Awareness;
+06: Cosmopolitan Player: - e-learning pioneer profiled.
+
+Section Two: Inbox.
+07: Petitions TV Trouble – new text-to-speech TVs create a stir.
+
+Section Three: Opinion
+- Entrepreneurship.
++08: Do People With Chronic Conditions Make Great
+Entrepreneurs?
+Julie Howell, who has lived with multiple sclerosis since the
+age of 19, says coping with a chronic condition has made her a
+more effective entrepreneur – and others could learn from her
+experience.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Apps Risk Creating New World of Exclusion, Report
+Finds.
+
+Developers of mobile apps must build in “as much choice,
+adaptability and flexibility as possible” to their products to
+maximise accessibility for disabled people, or risk creating a
+whole new world of digital exclusion, a new report finds.
+
+‘Moving together: mobile apps for inclusion and assistance’ (
+http://bit.ly/yBTdwo ) was written by E-Access Bulletin editor
+Dan Jellinek with Peter Abrahams of Bloor Research, on
+behalf of the OneVoice for Accessible IT Coalition.
+
+The report details a number of key issues facing elderly and
+disabled users of mobile apps, and makes recommendations
+for improving the accessibility of such apps.
+
+One emerging area in the field is that of apps for assistance
+which use ‘crowdsourcing’ to assist users, the report found.
+These are apps which draw on the knowledge base of a group
+to provide information or help to other users, such as the
+iPhone app VizWiz, which allows users to take a photo of
+something, record a question about the picture, and then
+‘crowdsource’ the answer from a team of online workers.
+
+Speaking to E-Access Bulletin, Peter Abrahams, co-author of
+the report, said accessible apps could enable disabled users “to
+be independent in ways they could not be in the non-digital
+environment.” However, “if the app is not accessible then the
+disabled person will be disenfranchised and marginalised. This
+is morally, ethically, financially and legally unacceptable”,
+Abrahams said.
+
+Mobile device retailers should ensure sales staff have training
+in basic disability awareness and use of the Global
+Accessibility Reporting Initiative (GARI) database, run by the
+Mobile Manufacturers Forum ( http://bit.ly/reiCg ), to provide
+customers with accessibility information, the report says.
+
+The report was launched last month at the inaugural Annual
+General Meeting of the One Voice for Accessible ICT
+Coalition, a collection of private, public and third sector groups
+committed to helping businesses and organisations improve
+their ICT accessibility. At the meeting, coalition members
+signed a set of principles detailing their commitment to
+promote and increase the uptake and delivery of accessible
+online and mobile services.
+
+The coalition has also drawn-up a ‘Seven Steps’ guide to basic
+mobile app accessibility for app designers and implementers:
+http://bit.ly/yL8iaZ
+
+All these steps are designed to help overcome the idea that
+accessibility is too complicated, Abrahams said. “They also
+emphasise the fact that accessibility is not just about getting the
+technical coding right, but goes right through the cycle from
+commissioning to dealing with feedback.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=716 .
+
+
++02: Publishers Call for Cohesion on Accessible e-Books.
+
+A pledge on behalf of the publishing industry to work with all
+parts of the publishing supply chain to improve the
+accessibility of e-books has been launched by The Publishers
+Association (PA), with cross-sector support.
+
+The joint statement ( http://bit.ly/HzaaBV ) was launched at this
+week’s London Book Fair 2012, and is supported by a range of
+organisations, including: the Royal National Institute of Blind
+People; and EDItEUR, the international trade standards body
+for the book industry.
+
+While technological advancements have made it easier for
+publishers to produce material that is more accessible to those
+with print impairments, the whole supply chain now needs to
+work together to advance e-book accessibility, the statement
+says.
+
+“The mechanisms by which an ebook is made accessible
+involve all the actors in the supply chain from author to reader;
+no single actor in that chain can solve the challenge of
+accessibility by itself. Publishers, ebook device manufacturers,
+platform developers, ebook wholesalers and retailers, and of
+course consumers themselves all have their part to play”, it
+says.
+
+Publishers are now looking to work with: developers of e-book
+devices and platforms; e-book retailers; learning providers and
+libraries; and readers with print impairments.
+
+The PA is asking organisations in all parts of the publishing
+supply chain, and others interested organisations, to pledge
+their support to the statement, which they can do through the
+PA’s website ( http://bit.ly/I7NIfZ ). The association has also
+produced its own recommendations on accessible publishing
+and text-to-speech ( http://bit.ly/ApJbsd ).
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=714 .
+
+
++03: Digital Exclusion For Older People 'Set To Continue'.
+
+Today’s technologically-skilled young people are likely to face
+significant web accessibility problems as they grow older,
+similar to those faced by elderly computer users today, a
+professor of computing has said.
+
+Speaking to E-Access Bulletin ahead of his talk at this week’s
+W4A web accessibility conference in Lyon, France (
+http://www.w4a.info/2012/ ), Alan F. Newell, an emeritus
+professor at Dundee University’s School of Computing, said
+that he has “every expectation” that today’s young people will
+face problems using the web in the future, even if they
+currently have good computer skills. This will arise from their
+declining abilities (such as poorer eyesight, poorer cognition,
+poorer dexterity) struggling to cope with constant technological
+evolution, he said.
+
+To counter these problems web designers must take into
+account the challenges that face elderly people – which they
+are not currently doing, Newell said. “Design is all about
+working to constraints, but web designers don’t see [challenges
+faced by elderly people] as a constraint they’re prepared to
+tackle.”
+
+To help tackle the problem web designers should meet older
+computer users to find out more about the problems they face,
+Newell said. This would help designers to create sites that are
+used more easily by older people, which, in turn, would
+increase usability for everyone, following principles of
+universal design, he said.
+
+Although older people are commonly seen as technologically
+inept, it is, in fact, the design flaws of the web which make it
+unusable by elderly people and other digitally disadvantaged
+groups, Newell said.
+
+Drawing on lessons from his book published last year, ‘Design
+and the digital divide’, Newell said the issues faced by older
+people are different from those faced by younger computer
+users with disabilities.
+
+“There has been significant work done on accessibility of
+websites for disabled people, but this tends to be focused on
+relatively young, highly motivated people with a single
+disability, but if you look at older people, they usually have
+multiple minor disabilities.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=712 .
+
+
+++News in Brief:
+
++04: Closure Call: The British Assistive Technology
+Association (BATA) is calling for government support to help
+prevent the closure of the ACE Centre, an independent centre
+in Oxford providing advice, assessments, assistive technology
+recommendations and training to young people and adults with
+communication difficulties, and their carers. At a general
+meeting in March, it was decided that the ACE Centre would be
+forced to close at the end of June due to a lack of funds:
+
+Short link: http://bit.ly/HKsAif
+
+
++05: One Day: A Global Accessibility Awareness Day is being
+organised through Facebook for 9 May, asking communities
+around the world to arrange events that promote digital
+accessibility. The concept was inspired by a blog post by web
+developer Joe Devon ( http://bit.ly/tYRJNX ), and the group it
+has spawned is helping to organise accessibility activities and
+demonstrations around the globe, as well as asking people to
+try and use their computers on the day without a screen,
+without a mouse or without speakers, to give them an insight to
+the challenges faced by disabled computer users:
+
+http://www.facebook.com/globalaccessibilityawarenessday/inf
+o
+Short link: http://on.fb.me/INGlNW
+
+
++06: Cosmopolitan Player: Maria Zedda, a UK-based disability
+awareness and equality trainer who has helped pioneer the use
+of e-learning in her field, has gained the unusual accolade of a
+profile in the Italian edition of Cosmopolitan magazine. Zedda,
+who is partially deaf, is the training director at Wideaware,
+which uses e-learning techniques to help employers and staff
+become more aware of disability issues and adhere to legal
+requirements:
+
+http://blog.wideaware.co.uk/archive/36/maria-zedda-featured-
+on-cosmopolitan-italy
+Short link: http://bit.ly/H9lVby
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07:TV Trouble: Nigel Timbrell, a reader who is blind, posted
+a comment onto our EAB Live discussion website following
+our March story “UK’s First Inbuilt Text-To-Speech TVs Hit
+The Shelves”, detailing a move by Panasonic to build text-to-
+speech functionality into 30 of its TV models, making them the
+first such TVs available on the UK general market.
+
+“It can be only a step in the right direction from Panasonic in
+putting in text-to-speech software into their TV sets”, writes
+Timbrell. “My concern would be how many people who need
+this facility are going to go out and purchase a brand-new TV
+set? It would be interesting to see if Panasonic can fit a
+component into existing TV sets to enable text-to-speech in our
+own TV sets instead of going out to purchase a new one.”
+
+The position is similar with the release of a new talking
+Freeview set-top box from RNIB, he says – those people who
+have already bought a Freeview box which is not accessible
+will be at a disadvantage. “It seems discrimination to those
+disabled people who had no choice [but] to make do what was
+available at that time, but [are] not allowed to have what is
+available today under the similar system.”
+
+Meanwhile another reader, Luca Davanzo, comments on the
+same story: “Great news! I wonder if text to speech will be
+available for other languages than English, and when... and [it]
+would be useful to know the exact TV models with [text to
+speech] enabled... any hint?”
+
+[Editor’s note: Nigel Prankard from Panasonic has kindly listed
+the Panasonic model ranges which include the text-to-speech
+functionality in a comment on the web version of our story –
+link at the end, or for a for a direct link to the comment use:
+http://www.headstar.com/eablive/?p=693%20.#comment-6417
+.
+
+With regard to text-to-speech TVs being available in other
+languages, Prankard said: “There is no plan to add any
+additional languages for our 2012 model range. The problem
+with additional languages is the memory required to support the
+language library. Panasonic is considering if this can be
+addressed in future models. We would like to receive input on
+European languages that we should consider for future models.
+In addition, we would like to understand if the user would
+consider it a problem if they had to download a language via
+an SD card into the TV set to replace a default language.”]
+
+Response please by email to inbox@headstar.com or you add
+your own comments to this story using the online form at the
+foot of the page at:
+http://www.headstar.com/eablive/?p=693 .
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Opinion
+- Entrepreneurship.
+
++08: Do People With Chronic Conditions Make Great
+Entrepreneurs?
+By Julie Howell
+
+Consider this: does having a long-term illness have any
+advantages?
+
+I’ve been living with multiple sclerosis since age 19. Until
+recently, I worked for other people, evangelising about the
+many benefits of web accessibility. Following redundancy in
+2010, I found myself at another of life’s crossroads. Should I
+find another job, or take the road less travelled and start my
+own business? I plumped for the latter and I haven’t looked
+back.
+
+Recently, I was asked to address a networking meeting
+attended by local entrepreneurs. Never having had the desire to
+scale a mountain or swim with sharks, some ‘thinking outside
+of the box’ was required.
+
+What is ‘good’ about have a chronic condition and are there
+any reasons why having a long-term illness might make a
+person a good entrepreneur? I came up with seven of them.
+
+1: Illness sets parameters.
+
+One of the hardest things about working for yourself is
+learning to focus on your goals without a boss standing over
+you. Living with a long-term illness is all about focus –
+focusing on what you can do, not what you can’t. Having
+periods of ‘down time’ when I cannot work places a premium
+on the time when I can work and ‘good time’ is never wasted.
+
+2: We’ve learned to forgive ourselves.
+
+It surprises me how difficult some people find it to forgive
+themselves for their mistakes. Business is all about learning
+from mistakes and moving on, so if you struggle to forgive
+yourself for making a mistake, the chances are you will also
+struggle in business. When you live with a chronic condition, a
+major feature of which is crippling fatigue, you learn pretty
+fast that time and energy spent feeling guilty about it is time
+and energy wasted.
+
+3: The 4-hour week is no longer just a dream.
+
+‘Work smarter, not harder’ is the entrepreneurs’ mantra and
+they dream of achieving the elusive ‘four-hour working week’.
+I joke a little here – many of us with chronic conditions can
+only manage four hours of work a week... and you’d be
+amazed how much you can pack in when that’s all the time
+you have (Parkinson’s Law)! I call this ‘living the dream’.
+
+4: We never waste time.
+
+People procrastinate. I’m sure you’ve worked with someone
+who can’t make a decision. Making decisions is something I
+find very easy. They may not always be the right decisions but
+in business, that’s not what’s important. If you get something
+wrong, dust yourself down and try again. Time is a precious
+commodity – don’t waste it through indecision.
+
+5: We work hours others won’t.
+
+I work when I’m at my most lucid and alert, which tends to be
+in the afternoon and evening. Being happy to work evenings
+means I can pick up work others find less convenient.
+
+6: We deflect hurtful remarks.
+
+People let things other people say get to them far too often.
+Everyone with a chronic condition has had to deal with stupid
+remarks. Learning to deflect crass comments without being
+negatively affected by them is important, as time spent
+ruminating would be better spent doing just about anything
+else.
+
+7: We say ‘no’ without guilt.
+
+Guilt is exhausting. Learning to accept our limitations and say
+‘no’, so we can say ‘yes’ more often to the important things, is
+just good business sense. If every entrepreneur did the same I
+reckon they would be more successful for it.
+
+I bet there are more reasons why people with chronic
+conditions can make great entrepreneurs. Isn’t it time to
+celebrate what we’re good at and remind ourselves of our
+numerous strengths, even – or maybe especially - in the face of
+adversity? The entrepreneurs I spoke to seemed inspired: job
+done.
+
+NOTE: Julie Howell is Managing Director of Giraffe Sense
+Mentoring.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=709
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you’ll find discussion of
+accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2012 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 147 ends.]

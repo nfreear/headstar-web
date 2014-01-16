@@ -5,25 +5,36 @@ Access To Technology For All, Regardless Of Ability
 A Headstar Publication.
 http://www.headstar.com/eab/ .
 
-Please forward this free bulletin to others (subscription details at the end). We conform to the accessible Text Email Newsletter (TEN) Standard:
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
 http://www.headstar.com/ten/ .
 
 
 ++Issue 130 Contents.
 
-01:  Accessibility Is ‘Business Opportunity’, Minister Tells EAB
+01:  Accessibility Is ‘Business Opportunity’, Minister Tells
+EAB
 - Ed Vaizey details role of new UK e-Accessibility Forum.
 
 02: Multimedia Report For World Standards Day
 - This year’s global focus on accessibility.
 
-03: Publishers And Campaigners Unite To Boost Text-to- Speech
+03: Publishers And Campaigners Unite To Boost Text-to-
+Speech
 - Joint statement says accessibility ‘broadens the market’.
 
-News in Brief: 04: Canadian Challenge: blind woman sues government; 05: Equality, Updated: UK tightens law on inaccessible web; 06: 21st Century: US communications access law.
+News in Brief: 04: Canadian Challenge: blind woman sues
+government; 05: Equality, Updated: UK tightens law on
+inaccessible web; 06: 21st Century: US communications access
+law.
 
-Section Two: Policy Focus – British Standard 8878 on Web Accessibility.
-07: Complementary Guidance: The British Standard on developing accessible websites has been four years in the making, but it looks to be worth the wait. Tristan Parker reports.
+Section Two: Policy Focus – British Standard 8878 on Web
+Accessibility.
+07: Complementary Guidance: The British Standard on
+developing accessible websites has been four years in the
+making, but it looks to be worth the wait. Tristan Parker
+reports.
 
 
 [Contents ends].
@@ -34,21 +45,65 @@ Section Two: Policy Focus – British Standard 8878 on Web Accessibility.
 +01:  Accessibility Is ‘Business Opportunity’, Minister Tells
 EAB.
 
-The work of the government’s newly-launched e-Accessibility Forum will include demonstrating to businesses that accessibility is a financial opportunity rather than just a cost, the Minister for Culture, Communication and Creative Industries, Ed Vaizey, told E-Access Bulletin in an exclusive interview this week.
+The work of the government’s newly-launched e-Accessibility
+Forum will include demonstrating to businesses that
+accessibility is a financial opportunity rather than just a cost,
+the Minister for Culture, Communication and Creative
+Industries, Ed Vaizey, told E-Access Bulletin in an exclusive
+interview this week.
 
-Led by the Department for Business, Innovation and Skills, the e-Accessibility Forum ( http://www.bis.gov.uk/e-accessibility ) will bring together more than 60 members from government, industry and the voluntary sector, working to deliver more accessible digital services, content and goods for disabled consumers. Some of the forum’s work is detailed in an e- Accessibility Action Plan which will be updated quarterly ( available as a PDF at: http://bit.ly/8Xh71O ).
+Led by the Department for Business, Innovation and Skills, the
+e-Accessibility Forum ( http://www.bis.gov.uk/e-accessibility )
+will bring together more than 60 members from government,
+industry and the voluntary sector, working to deliver more
+accessible digital services, content and goods for disabled
+consumers. Some of the forum’s work is detailed in an e-
+Accessibility Action Plan which will be updated quarterly (
+available as a PDF at: http://bit.ly/8Xh71O ).
 
-“The main challenge is to overcome the perception that e- accessibility costs money, that it’s a burden on business as opposed to being an opportunity for business,” Vaizey told EAB. “We want to really embed e-accessibility into a whole range of agendas, making sure that it is part and parcel of everything we do.”
+“The main challenge is to overcome the perception that e-
+accessibility costs money, that it’s a burden on business as
+opposed to being an opportunity for business,” Vaizey told
+EAB. “We want to really embed e-accessibility into a whole
+range of agendas, making sure that it is part and parcel of
+everything we do.”
 
-Overall awareness of e-accessibility needs to be improved by promotion of the forum and its work, he said. “It’s all very well for me to say that government should take a lead, but one can pretty much guarantee that there will be a lot of individual initiatives from government that won’t take account of the e- accessibility agenda, and therefore it’s very important for me to publicise it as widely as possible to my colleagues, so that they know about this agenda and they understand what their obligations are towards it.”
+Overall awareness of e-accessibility needs to be improved by
+promotion of the forum and its work, he said. “It’s all very
+well for me to say that government should take a lead, but one
+can pretty much guarantee that there will be a lot of individual
+initiatives from government that won’t take account of the e-
+accessibility agenda, and therefore it’s very important for me to
+publicise it as widely as possible to my colleagues, so that they
+know about this agenda and they understand what their
+obligations are towards it.”
 
 Government will play two key roles in the forum, said Vaizey.
-The first is as a “co-ordinator”, part of which will involve publicising best practice on, for example, web access standards or manufacturing of accessible goods. Second, government will help set the agenda for a specific ‘Regulatory work stream’ – one of five work streams detailed in the Action Plan – which will involve work on the EU Framework Directives for Electronic Communications Networks and Services, and applying public procurement standards.
+The first is as a “co-ordinator”, part of which will involve
+publicising best practice on, for example, web access standards
+or manufacturing of accessible goods. Second, government will
+help set the agenda for a specific ‘Regulatory work stream’ –
+one of five work streams detailed in the Action Plan – which
+will involve work on the EU Framework Directives for
+Electronic Communications Networks and Services, and
+applying public procurement standards.
 
-Overall, the forum’s approach will primarily be one of working with and educating organisations rather than forcing regulation.
-However, Vaizey said this should not be a barrier to progress, as the companies he has discussed these issues with so far are proving receptive. “I have to say, I’ve found the private sector very willing to engage in this agenda. I think they see it as absolutely in their self-interest if they can provide products and equipment everyone can use. I don’t feel like I’m bullying the private sector into doing anything, I feel very much that this is part of a very strong partnership.”
+Overall, the forum’s approach will primarily be one of working
+with and educating organisations rather than forcing regulation.
+However, Vaizey said this should not be a barrier to progress,
+as the companies he has discussed these issues with so far are
+proving receptive. “I have to say, I’ve found the private sector
+very willing to engage in this agenda. I think they see it as
+absolutely in their self-interest if they can provide products and
+equipment everyone can use. I don’t feel like I’m bullying the
+private sector into doing anything, I feel very much that this is
+part of a very strong partnership.”
 
-The Action Plan also features a ‘Websites services’ work stream, which plans to issue regular updates on web access issues, and highlight and encourage best practice. As more government services move online, the whole e-accessibility agenda will become increasingly essential, said Vaizey.
+The Action Plan also features a ‘Websites services’ work
+stream, which plans to issue regular updates on web access
+issues, and highlight and encourage best practice. As more
+government services move online, the whole e-accessibility
+agenda will become increasingly essential, said Vaizey.
 
 And you can comment on this story now, on EAB Live:
 http://www.headstar.com/eablive/?p=492
@@ -56,21 +111,45 @@ http://www.headstar.com/eablive/?p=492
 
 +02: Multimedia Report For World Standards Day.
 
-A new technical report on accessibility for audio, video, and multimedia systems and equipment has been published by the International Electrotechnical Commission (IEC), an international standards body for electronics, as part of activities to mark this year’s accessibility-themed World Standards Day.
+A new technical report on accessibility for audio, video, and
+multimedia systems and equipment has been published by the
+International Electrotechnical Commission (IEC), an
+international standards body for electronics, as part of activities
+to mark this year’s accessibility-themed World Standards Day.
 
-The report, IEC/TR 62678, provides information on accessibility and usability terms, activities, completed and ongoing standards, technical reports and projects, and is available as a pdf from:
+The report, IEC/TR 62678, provides information on
+accessibility and usability terms, activities, completed and
+ongoing standards, technical reports and projects, and is
+available as a pdf from:
 http://www.stc-access.org/2010/10/15/iec-offers-free-technical-
 report-on-accessibility-for-multimedia-systems-and-equipment/
 Short link: http://bit.ly/cL1PJf
 
-World Standards Day 2010, which took place on 14 October, was themed ‘accessibility for all’ in an effort to promote the importance of codes, standards, and conformity assessment activities in developing and maintaining the built environment, products, technologies and systems that are accessible for persons with special needs:
+World Standards Day 2010, which took place on 14 October,
+was themed ‘accessibility for all’ in an effort to promote the
+importance of codes, standards, and conformity assessment
+activities in developing and maintaining the built environment,
+products, technologies and systems that are accessible for
+persons with special needs:
 http://www.iso.org/iso/wsd2010.htm
 
-The project unites the work of the three main global standards bodies – the IEC, the International Organization for Standardization (ISO) and the International Telecommunication Union (ITU).
+The project unites the work of the three main global standards
+bodies – the IEC, the International Organization for
+Standardization (ISO) and the International Telecommunication
+Union (ITU).
 
-Meanwhile, the AccessAbility special interest group (SIG) of the Society for Technical Communication, a professional association for technical writers including editors, graphic designers and web page designers, is set to release a draft copy of guidance on producing conference accessibility guides.
+Meanwhile, the AccessAbility special interest group (SIG) of
+the Society for Technical Communication, a professional
+association for technical writers including editors, graphic
+designers and web page designers, is set to release a draft copy
+of guidance on producing conference accessibility guides.
 
-Aimed at anyone involved in the organisation of a major event or conference, the document will describe what areas to cover from an accessibility perspective including transport to and from the venue, accommodation, a venue guide and presentation equipment, Karen Mardahl, Co-Manager of the SIG, told E-Access Bulletin.
+Aimed at anyone involved in the organisation of a major event
+or conference, the document will describe what areas to cover
+from an accessibility perspective including transport to and
+from the venue, accommodation, a venue guide and
+presentation equipment, Karen Mardahl, Co-Manager of the
+SIG, told E-Access Bulletin.
 
 When published it will appear online at:
 http://www.stc-access.org
@@ -82,16 +161,38 @@ http://www.headstar.com/eablive/?p=494
 +03: Publishers And Campaigners Unite To Boost Text-to-
 Speech.
 
-A call for text-to-speech functions to be included on all electronic book platforms to improve their accessibility has been issued by a group of publishing and literary organisations.
+A call for text-to-speech functions to be included on all
+electronic book platforms to improve their accessibility has
+been issued by a group of publishing and literary organisations.
 
-The Publishers Association, The Society of Authors, The Association of Authors Agents and The Right to Read Alliance – itself an umbrella campaign group, whose members include The Royal National Institute of Blind People – grouped together to issue the joint statement. It recommended that speech functions, which help many print-disabled readers access a range of otherwise inaccessible e-books, “is routinely enabled on all e-books across all platforms, at least where there is no audio-book edition commercially available.”
+The Publishers Association, The Society of Authors, The
+Association of Authors Agents and The Right to Read Alliance
+– itself an umbrella campaign group, whose members include
+The Royal National Institute of Blind People – grouped
+together to issue the joint statement. It recommended that
+speech functions, which help many print-disabled readers
+access a range of otherwise inaccessible e-books, “is routinely
+enabled on all e-books across all platforms, at least where there
+is no audio-book edition commercially available.”
 
-The statement continued: “It is in the interests of publishers for their published content to be available and accessible to as many people as possible. This includes the broadening of the market to those with visual impairments or other disabilities”.
+The statement continued: “It is in the interests of publishers for
+their published content to be available and accessible to as
+many people as possible. This includes the broadening of the
+market to those with visual impairments or other disabilities”.
 
-The recommendation follows ongoing disputes over the inclusion of text-to-speech functions on e-book readers. Last year US manufacturer Amazon allowed publishers to disable the feature on an early version of its Kindle e-book reader, after an authors’ rights group claimed that the text-to-speech function effectively breached a royalties agreement ( see E- Access Bulletin issue 110:
+The recommendation follows ongoing disputes over the
+inclusion of text-to-speech functions on e-book readers. Last
+year US manufacturer Amazon allowed publishers to disable
+the feature on an early version of its Kindle e-book reader,
+after an authors’ rights group claimed that the text-to-speech
+function effectively breached a royalties agreement ( see E-
+Access Bulletin issue 110:
 http://www.headstar.com/eablive/?p=244 ).
 
-However, Amazon subsequently agreed to incorporate extra accessibility features into the Kindle after several American universities rejected the device as a potential teaching-aid, citing inaccessibility to blind students ( see
+However, Amazon subsequently agreed to incorporate extra
+accessibility features into the Kindle after several American
+universities rejected the device as a potential teaching-aid,
+citing inaccessibility to blind students ( see
 http://www.headstar.com/eablive/?p=383 ).
 
 And you can comment on this story now, on EAB Live:
@@ -101,20 +202,43 @@ http://www.headstar.com/eablive/?p=496
 ++News in Brief:
 
 +04: Canadian Challenge: A blind woman has launched a case
-against the Canadian Government in the country’s Federal Court after she was unable to apply for a government job online in 2004 or complete a 2006 online census using a text- to-speech screen-reader. Donna Jodhan, an accessibility consultant who has won four design awards from IBM, is arguing that the inaccessibility of online government information constitutes a breach of her equality rights under the Canadian Charter Rights of Freedoms. The case has now been heard, although the court is not expected to announce its decision for about six months:
+against the Canadian Government in the country’s Federal
+Court after she was unable to apply for a government job
+online in 2004 or complete a 2006 online census using a text-
+to-speech screen-reader. Donna Jodhan, an accessibility
+consultant who has won four design awards from IBM, is
+arguing that the inaccessibility of online government
+information constitutes a breach of her equality rights under
+the Canadian Charter Rights of Freedoms. The case has now
+been heard, although the court is not expected to announce its
+decision for about six months:
 http://www.bakerlaw.ca/taxonomy/term/60
 Short link: http://bit.ly/dnPEnt
 
 
 +05: Equality, Updated: New UK legal provisions on equality
-have come into force that could be used to take action against owners of inaccessible websites. Some 90% of the provisions of the Equality Act 2010 came into force on 1 October, including a new concept of “indirect discrimination”, which means that discrimination does not require knowledge. This could mean that even if website owners are unaware that their sites are inaccessible, they could still be breaching the act. The act also introduces an obligation for service providers and employers to provide information in accessible electronic
+have come into force that could be used to take action against
+owners of inaccessible websites. Some 90% of the provisions
+of the Equality Act 2010 came into force on 1 October,
+including a new concept of “indirect discrimination”, which
+means that discrimination does not require knowledge. This
+could mean that even if website owners are unaware that their
+sites are inaccessible, they could still be breaching the act. The
+act also introduces an obligation for service providers and
+employers to provide information in accessible electronic
 formats:
 http://www.equalities.gov.uk/equality_act_2010.aspx
 Short link: http://bit.ly/cGXuL1
 
 
 +06: 21st Century: Accessing the internet on mobile devices,
-viewing online TV programmes using captioning and making internet-based telephone calls will all become easier for US citizens with disabilities after a bill improving technology access was signed into law by President Barack Obama earlier this month. The 21st Century Communications and Video Accessibility Act sets new standards for the telecommunications industry, and is expected to help around
+viewing online TV programmes using captioning and making
+internet-based telephone calls will all become easier for US
+citizens with disabilities after a bill improving technology
+access was signed into law by President Barack Obama earlier
+this month. The 21st Century Communications and Video
+Accessibility Act sets new standards for the
+telecommunications industry, and is expected to help around
 60 million US citizens affected by visual or hearing
 impairments:
 http://www.whitehouse.gov/the-press-
@@ -129,11 +253,15 @@ Short link: http://bit.ly/bTlwym
 ++Sponsored Notice: Adept Transcription
 - Alternative Formats At Affordable Prices.
 
-When you want alternative formats for disabled colleagues, customers and staff, call Adept.
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
 
-Formats we produce include audio, audio description, Braille, BSL, Easy Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at prices from a penny a word.
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
 
-Whether handling a newsletter, training DVD, equality scheme, public service leaflet, contract or consultation, we provide:
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
 - One-stop shop for all formats
 - Products quality-checked by users
 - Corporate presentation including your house style
@@ -142,7 +270,8 @@ Whether handling a newsletter, training DVD, equality scheme, public service lea
 - Accessible packaging
 
 Contact us at:
-Tel: 0208 133 5418 (precede with 18001 for typetalk) Email transcription@adept-uk.org
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
 
 [Sponsored Notice ends]
 
@@ -153,43 +282,151 @@ British Standard 8878 on Web Accessibility.
 +07: Complementary Guidance
 by Tristan Parker.
 
-It’s certainly taken a while, but next month should finally see the long-awaited arrival of BS 8878 – a British Standard on web accessibility.
+It’s certainly taken a while, but next month should finally see
+the long-awaited arrival of BS 8878 – a British Standard on
+web accessibility.
 
-Developed by IST/45, a sub-committee of the British Standards Institution ( BSi: http://www.bsigroup.com/ ), BS 8878 provides guidance on making websites accessible for disabled and elderly users. It has been in the making for some four years, with two public drafts released for comment, of which there was plenty. After further input from a wide range of field experts, extensive user testing, and numerous modifications, the final version of the standard is now expected to be published at the end of November.
+Developed by IST/45, a sub-committee of the British Standards
+Institution ( BSi: http://www.bsigroup.com/ ), BS 8878 provides
+guidance on making websites accessible for disabled and
+elderly users. It has been in the making for some four years,
+with two public drafts released for comment, of which there
+was plenty. After further input from a wide range of field
+experts, extensive user testing, and numerous modifications,
+the final version of the standard is now expected to be
+published at the end of November.
 
-When discussing standards, it’s tempting to associate them with technical knowledge, especially when concerned with a complex topic like website accessibility. However, BS 8878 is aimed at people who, generally, will not possess a large degree of specialist IT knowledge.
+When discussing standards, it’s tempting to associate them with
+technical knowledge, especially when concerned with a
+complex topic like website accessibility. However, BS 8878 is
+aimed at people who, generally, will not possess a large degree
+of specialist IT knowledge.
 
-David Fatscher, sector development manager at BSi, told E- Access Bulletin this month: “It’s definitely not what we’d call a technical standard. It’s very much aimed at website owners, who may not think about technical issues when they’re about to procure a web-based product. This could be people in a press or marketing department, and some organisations are rolling out web-based products internally, so again, the site owner could be someone from the HR department.”
+David Fatscher, sector development manager at BSi, told E-
+Access Bulletin this month: “It’s definitely not what we’d call a
+technical standard. It’s very much aimed at website owners,
+who may not think about technical issues when they’re about
+to procure a web-based product. This could be people in a
+press or marketing department, and some organisations are
+rolling out web-based products internally, so again, the site
+owner could be someone from the HR department.”
 
-Neither is the new British standard an attempt to replace the latest version of the well-established international Web Content Accessibility Guidelines (WCAG), Fatscher says. Those guidelines ( http://www.w3.org/TR/WCAG20/ ) are aimed primarily at web developers, and contain detailed technical accessibility recommendations. BS 8878 aims to complement WCAG by providing a straightforward narrative for a non- technical audience. The result, says Fatscher, is “a very readable document to help people understand what they need to consider when revamping or launching a web product for their users.”
+Neither is the new British standard an attempt to replace the
+latest version of the well-established international Web Content
+Accessibility Guidelines (WCAG), Fatscher says. Those
+guidelines ( http://www.w3.org/TR/WCAG20/ ) are aimed
+primarily at web developers, and contain detailed technical
+accessibility recommendations. BS 8878 aims to complement
+WCAG by providing a straightforward narrative for a non-
+technical audience. The result, says Fatscher, is “a very
+readable document to help people understand what they need
+to consider when revamping or launching a web product for
+their users.”
 
-The standard has gone through huge changes since its first draft several years ago, and is now “tremendously different” from its original incarnation, says Fatscher. The foundations of BS
-8878 were laid down in 2006, when BSi was commissioned to create a web accessibility guidance document by the Equality and Human Rights Commission. The result was a ‘Publicly Available Specification’, ‘PAS 78: a guide to good practice in commissioning accessible websites’.
+The standard has gone through huge changes since its first draft
+several years ago, and is now “tremendously different” from
+its original incarnation, says Fatscher. The foundations of BS
+8878 were laid down in 2006, when BSi was commissioned to
+create a web accessibility guidance document by the Equality
+and Human Rights Commission. The result was a ‘Publicly
+Available Specification’, ‘PAS 78: a guide to good practice in
+commissioning accessible websites’.
 
-“Because technology is changing so rapidly, we felt we needed to revise that document” says Fatscher. “This happens with any commissioned work that BSi takes on. After three years, we talk to the sponsor and say ‘does this work or shall we re- commission some new work?’ We felt that it would be useful to revise PAS 78, update it and bring it up to full British Standard status, to give it even more credibility.”
+“Because technology is changing so rapidly, we felt we needed
+to revise that document” says Fatscher. “This happens with any
+commissioned work that BSi takes on. After three years, we
+talk to the sponsor and say ‘does this work or shall we re-
+commission some new work?’ We felt that it would be useful
+to revise PAS 78, update it and bring it up to full British
+Standard status, to give it even more credibility.”
 
-After extensive public feedback on the first draft, issued in December 2008, a second draft was published in May 2010, which contained additional guidance on areas including: The Equality Act 2010; procuring accessible web products; and dealing with feedback and complaints on accessibility from users.
+After extensive public feedback on the first draft, issued in
+December 2008, a second draft was published in May 2010,
+which contained additional guidance on areas including: The
+Equality Act 2010; procuring accessible web products; and
+dealing with feedback and complaints on accessibility from
+users.
 
-However, many of the key changes made to BS 8878 reflect the constant technological advancements that have taken place since the first draft. Two years is a long time in technology, and the final standard has also been adapted to encompass new methods of accessing the internet, such as the onset of web- enabled mobile devices, including smartphones.
+However, many of the key changes made to BS 8878 reflect
+the constant technological advancements that have taken place
+since the first draft. Two years is a long time in technology,
+and the final standard has also been adapted to encompass new
+methods of accessing the internet, such as the onset of web-
+enabled mobile devices, including smartphones.
 
-The concept of website personalisation is also addressed in the final version of BS 8878. As discussed by IST/45 committee chair Jonathan Hassell of the BBC after the second draft of the standard was opened up for public feedback (see E-Access Bulletin issue 125: http://www.headstar.com/eablive/?p=427 ), personalisation takes into account that different people use and access websites in different ways.
+The concept of website personalisation is also addressed in the
+final version of BS 8878. As discussed by IST/45 committee
+chair Jonathan Hassell of the BBC after the second draft of the
+standard was opened up for public feedback (see E-Access
+Bulletin issue 125: http://www.headstar.com/eablive/?p=427 ),
+personalisation takes into account that different people use and
+access websites in different ways.
 
-The final standard develops this idea and advises website owners on options for building tools into their site to give users a customisable website experience. This is particularly useful for sites such as e-learning platforms, social networking sites and educational establishments, which encounter a wide user- base performing a variety of functions.
+The final standard develops this idea and advises website
+owners on options for building tools into their site to give users
+a customisable website experience. This is particularly useful
+for sites such as e-learning platforms, social networking sites
+and educational establishments, which encounter a wide user-
+base performing a variety of functions.
 
-User feedback on the BS 8878 drafts was critical in shaping the structure of the final standard, says Fatscher, and provided much of the incentive for changes and additions, as each draft was subject to rigorous public consultation. “The user community is rightly very vocal in terms of what they expect,”
-says Fatscher, “and what we found was that while that first draft was a pretty good stab, it didn’t reach into all the areas we needed to explore. So it was very much a case of going back over things and looking at all the public comments.”
+User feedback on the BS 8878 drafts was critical in shaping the
+structure of the final standard, says Fatscher, and provided
+much of the incentive for changes and additions, as each draft
+was subject to rigorous public consultation. “The user
+community is rightly very vocal in terms of what they expect,”
+says Fatscher, “and what we found was that while that first
+draft was a pretty good stab, it didn’t reach into all the areas we
+needed to explore. So it was very much a case of going back
+over things and looking at all the public comments.”
 
-The volume of user feedback was one of the main reasons for the considerable delay in launching the final standard, which had previously been estimated at summer 2009. “This is the whole point of the British Standard development process” says Fatscher. “It’s not something that has just been cooked up by
-12 people around a table and then made available as ‘good practice’. [The standard] has gone out to public comment to become more robust and credible. Because the draft got the reaction it did, it meant we had to come back to it and take on board those comments, but that makes it a stronger document.”
+The volume of user feedback was one of the main reasons for
+the considerable delay in launching the final standard, which
+had previously been estimated at summer 2009. “This is the
+whole point of the British Standard development process” says
+Fatscher. “It’s not something that has just been cooked up by
+12 people around a table and then made available as ‘good
+practice’. [The standard] has gone out to public comment to
+become more robust and credible. Because the draft got the
+reaction it did, it meant we had to come back to it and take on
+board those comments, but that makes it a stronger document.”
 
-The second delay came during summer of last year, when the European Committee for Standardization (CEN) intervened due to concerns about harmonisation of standards. CEN were worried that a second set of web accessibility guidelines (after
-WCAG) may confuse people. However, after BSi explained the nature of BS 8878 and demonstrated that the standard referenced WCAG 2.0 and complemented it, work was allowed to continue.
+The second delay came during summer of last year, when the
+European Committee for Standardization (CEN) intervened due
+to concerns about harmonisation of standards. CEN were
+worried that a second set of web accessibility guidelines (after
+WCAG) may confuse people. However, after BSi explained
+the nature of BS 8878 and demonstrated that the standard
+referenced WCAG 2.0 and complemented it, work was allowed
+to continue.
 
-As for the future, it is hoped that BS 8878 will tie-in with wider e-accessibility plans unveiled by government, says Fatscher, as digital accessibility becomes an increasingly prominent topic. A promising start has already been made in this area, with the standard being referenced in the recent ‘eAccessibility Action Plan’ launched by Ed Vaizey (see lead news story, this issue), with a request for government to help BSi promote and implement the standard: “The BSI should be supported in their work to develop BS8878 which signposts website developers and commissioners to WCAG2 and provides credible non- technical guidance on how to implement these guidelines,” the Action Plan says.
+As for the future, it is hoped that BS 8878 will tie-in with wider
+e-accessibility plans unveiled by government, says Fatscher, as
+digital accessibility becomes an increasingly prominent topic. A
+promising start has already been made in this area, with the
+standard being referenced in the recent ‘eAccessibility Action
+Plan’ launched by Ed Vaizey (see lead news story, this issue),
+with a request for government to help BSi promote and
+implement the standard: “The BSI should be supported in their
+work to develop BS8878 which signposts website developers
+and commissioners to WCAG2 and provides credible non-
+technical guidance on how to implement these guidelines,” the
+Action Plan says.
 
-Fatscher is now optimistic that government support, for both the standard and e-accessibility overall, will help to spread the message about BS 8878 far and wide: “There’s been a lot of goodwill and good talk from government about e-accessibility, and I would expect lot of public sector websites to be procured and developed with BS 8878 in mind. In terms of the private sector – as digital inclusion becomes more of talking point, [the sector will realise that] if you don’t have a website which is as accessible as it could be, you are going to be shutting down 10% of your potential customers.”
+Fatscher is now optimistic that government support, for both
+the standard and e-accessibility overall, will help to spread the
+message about BS 8878 far and wide: “There’s been a lot of
+goodwill and good talk from government about e-accessibility,
+and I would expect lot of public sector websites to be procured
+and developed with BS 8878 in mind. In terms of the private
+sector – as digital inclusion becomes more of talking point, [the
+sector will realise that] if you don’t have a website which is as
+accessible as it could be, you are going to be shutting down
+10% of your potential customers.”
 
-The final version of BS 8878 is expected to be launched next month, with an official launch event following on December 7 in London. BSi has produced an introductory video on BS 8878, which can be viewed on their YouTube Channel:
+The final version of BS 8878 is expected to be launched next
+month, with an official launch event following on December 7
+in London. BSi has produced an introductory video on BS
+8878, which can be viewed on their YouTube Channel:
 http://bit.ly/crl7gt .
 
 And you can comment on this story now, on EAB Live:
@@ -201,11 +438,19 @@ http://www.headstar.com/eablive/?p=498
 ++Sponsored Notice: Accessify Forum
 - Six Years of Accessibility Discussion.
 
-Accessify Forum has been the number one destination for accessibility discussion on the web for nearly six years. Celebrating our sixth birthday next month, you’ll find discussion of accessibility at all levels, from beginner to guru.
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you’ll find discussion of
+accessibility at all levels, from beginner to guru.
 
-The site has recently been redesigned and the forum system improved. This is still ongoing and you can join in the discussions.
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
 
-So whether you’re looking to learn more about accessibility, want to help others and improve on your own knowledge, or just to browse the archives, come and join us at:
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
 http://www.accessifyforum.com/
 
 [Special notice ends].
@@ -215,14 +460,24 @@ http://www.accessifyforum.com/
 
 +How to Receive the Bulletin.
 
-To subscribe to this free monthly bulletin, email eab-subs@headstar.com with 'subscribe eab' in the subject header. You can list other email addresses to subscribe in the body of the message. Please encourage all your colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
 
 Please send comments on coverage or leads to Dan Jellinek at:
 dan@headstar.com .
 
 Copyright 2010 Headstar Ltd http://www.headstar.com .
-The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email.
-Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
 http://www.headstar.com/eab
 is also cited.
 
@@ -233,4 +488,4 @@ Editorial advisor: Kevin Carey.
 
 ISSN 1476-6337.
 
-[Issue 130 ends.] 
+[Issue 130 ends.]

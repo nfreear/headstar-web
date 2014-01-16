@@ -13,7 +13,8 @@ use warnings;
 
 # Hack for logging in Win 9x. (Append >>)
 $0=~/(.*)\./;
-my $log="logs/00$1.log";
+#NDF 28 jun 2012, my $log="logs/00$1.log";
+my $log="logs/00e-access.log";
 open(LOG, ">$log") or die "Failed to open:  $log\n";
 warn "Building, see:  $log\n";
 # Install a 'warn' handler.
