@@ -1,0 +1,530 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 157, April 2013.
+ 
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+In association with Go ON Gold:
+http://www.go-on-gold.co.uk .
+ 
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+ 
+ 
+++Issue 157 Contents.
+ 
+01: Accessible Copyright Treaty Hits New Roadblock
+- Warning that five-year talks may produce little of value.
+ 
+02: Great Expectations Of e-Book Access Demonstrations
+- London Book Fair event charts publishing industry progress.
+ 
+03: Location Networking Aims To Help Disabled People
+Connect
+- New app could help build local communities of support.
+ 
+News in Brief: 04: Cynthia Waddell – the sad passing of a
+world pioneer; 05 Money Talks – UK cash machine access; 06:
+Travel Prize – app awards.
+ 
+Section Two: Inbox.
+07: Visible Speech – “Google glasses” concept for seeing
+spoken words; 08: QUAIL Concerns – automated web checker
+response.
+ 
+Section Three: Profile - Erik Weihenmayer, Adventurer.
+09: Scaling The Heights Of Possibility: Erik Weihenmayer has
+climbed the highest mountains on all continents and is
+currently planning to kayak the Colorado Rapids – yet he is
+blind. Courage, determination and technology are all part of his
+formula for success, described in this article from Italian
+newspaper La Repubblica.
+ 
+[Contents ends].
+ 
+ 
+++Section One: News.
+ 
++01: Accessible Copyright Treaty Hits New Roadblock.
+ 
+The World Blind Union (WBU) has reacted angrily to a new
+setback to long-running work on an international copyright
+treaty which could improve access to accessible books for
+blind and visually impaired people.
+ 
+The union has been a key negotiator in talks at the World
+Intellectual Property Organisation (WIPO) which have been
+going on for almost five years. Following the latest round of
+talks from 18-20 April in Geneva, the WBU released a
+statement saying the discussions “devoted almost no time to
+insuring that the treaty will encourage the cross border sharing
+of desperately needed books for the blind”, concentrating
+instead on protecting the rights of existing copyright holders.
+ 
+One of the main areas the WBU has been trying to negotiate is
+for exceptions in copyright laws which govern the sharing
+between countries, which would allow easier access to
+accessible versions of books and other materials.
+ 
+When a “roadmap” for formalising a treaty was approved in
+October last year, WBU Vice Chair Dan Pescod had told E-
+Access Bulletin it signalled the “finish line” in sight. However,
+Pescod also warned against the creation of a “trophy treaty”
+which would have little or no use in allowing books to be
+shared more easily (see E-Access Bulletin 152:
+http://www.headstar.com/eablive/?p=776 )
+ 
+This threat now seems to be growing. In a statement about the
+meeting, Fred Schroeder, First Vice President of the World
+Blind Union, said: “WBU is alarmed that some of the
+negotiators have focused their efforts almost exclusively on
+crafting language around copyright protections that have
+nothing to do with the ability of authorised entities to produce
+books for the blind and visually impaired.”
+   
+A two-week diplomatic conference will now take in place in
+Morocco in June to finalise the wording of the treaty and
+discuss how it will be implemented. The latest draft can be
+viewed in PDF from the links below.
+ 
+Treaty draft – short link in PDF: http://bit.ly/17evViL
+ 
+Treaty draft – full link in PDF: http://www.ip-
+watch.org/weblog/wp-content/uploads/2013/04/Draft-text-
+SCCR-VIP-20-April-2013.pdf
+ 
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=861
+ 
+ 
++02: Great Expectations Of e-Book Access Demonstrations.
+ 
+Accessibility is “rising up the agenda” of the publishing
+industry as awareness grows of the value of helping people
+access electronic books in multiple formats, a publishing
+standards body said this month.
+ 
+The statement came following a live demonstration of
+accessible readings from “Great Expectations” by Charles
+Dickens at the London Book Fair in an event organised by the
+Royal National Institute of Blind People, the Publishers
+Licensing Society and EDitEUR – the trade standards body for
+the global book industry.
+ 
+Technologies demonstrated live included font size adjustment
+on the Kindle e-reader; a text-to-speech reader; and use of an
+iPod to produce both text-to-speech and a Braille output linked
+to a Bluetooth Braille display.
+ 
+Helen Gunesekera, Media Development Officer (Publishing
+and Reading) at RNIB, told E-Access Bulletin said the live
+Braille display demonstration in particular struck a chord with
+the audience. “Being able to see the Braille display in action
+really caught the imagination of people in the audience, few of
+whom were aware that this was technically possible,”
+Gunesekera said.
+ 
+Speaking to E-Access Bulletin after the event Mark Bide,
+Executive Director of EDItEUR, said accessibility is “rising up
+the agenda” in the publishing industry. He said there are now
+good levels of compliance with a 2010 recommendation by the
+Publishers Association that text-to-speech be routinely enabled
+on all e-books across all platforms, except where there is an
+audiobook edition commercially available.
+ 
+“It’s not at the top of the agenda but things have improved
+enormously over the last four or five years. There is a
+recognition that there are a number of very good reasons for
+making e-books accessible, one of which is market-driven: by
+bringing what has previously been a very specialist activity to
+the mainstream, you actually increase the overall market.”
+ 
+Bide said progress was founded on the Joint Statement on
+Accessibility ( http://bit.ly/12IZBUl ), a pledge issued by the
+Publishers Association in April 2012, asking for sector-wide
+support across the publishing industry to improve e-book
+accessibility (see E-Access Bulletin, issue 147:
+http://www.headstar.com/eablive/?p=714 ).
+ 
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=858
+ 
+ 
++03: Location Networking Aims To Help Disabled People
+Connect.
+ 
+A free smartphone app that can help disabled people find and
+connect with others in their community and request social
+support has been launched in the UK.
+ 
+MiFinder combines elements of social networking platforms
+with GPS satellite location, allowing users to engage and
+potentially meet with people nearby them who share similar
+interests. The app has a range of potential uses – including
+dating – but is unusual in promoting its use for social support,
+its owner says.
+ 
+Users create a profile on the app and can choose to input
+personal information, including whether they consider
+themselves disabled. Users then write a short description of
+why they are using the app – for dating, to make new friends,
+or to find social support if they feel isolated – and the kind of
+people they hope to connect with. The app then shows where
+other MiFinder users with similar profiles are located, including
+those who may be in the same area at the same time. Users can
+switch off their precise location if they do not feel comfortable
+disclosing it to others.
+ 
+MiFinder founder and CEO Gabriel Saclain told E-Access
+Bulletin that he hopes that eventually, if enough users join, the
+app will provide a unique means of engagement for people
+who may be isolated and lack the opportunity to meet others
+near where they live.
+ 
+“I did know of other location-based apps which were much
+more focused on dating and things like that, but I felt there was
+a need for something which was much more community-
+focused, that allows people to get to know other people in real-
+time, using GPS”, Saclain said.
+ 
+As well as allowing users to build up social connections and
+engage with similar communities nearby, MiFinder will be
+developed to give support groups – such as organisations that
+offer support to disabled people, for example – a real-time
+presence, he said.
+ 
+Short link to MiFinder:
+http://bit.ly/ZAdfnj
+ 
+Full link to MiFinder:
+http://www.mifinderapp.com/page/mifinder/8/
+ 
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=856
+ 
+ 
+++News in Brief:
+ 
++04: Cynthia Waddell: A wave of tributes has followed the sad
+death in April of accessible web design pioneer Cynthia
+Waddell, who will be deeply missed by the world technology
+community. Waddell contributed hugely to advancing the
+cause of IT equality for disabled people in the US, writing the
+country’s first accessible web design standard in 1995. These
+paved the way for Electronic and Information Technology
+Accessibility Standards legislation, known as Section 508,
+which used the public procurement process to have a huge
+impact on how technology companies design their products
+and services. Cynthia also founded and was executive director
+of the International Center for Disability Resources on the
+Internet, which under her leadership has tirelessly championed
+universal design and equal opportunities:
+ 
+Short link: http://bit.ly/ZBg47H
+ 
+Full link:  http://itu4u.wordpress.com/2013/04/05/accessibility-
+loses-a-great-champion/ 
+ 
++05 Money Talks: Two of the UK’s major banks, RBS and
+sister company NatWest, are the latest to commit to introducing
+“talking ATMs” to help blind and visually impaired customers
+operate their network of cash machines around the UK.
+Around 80% of RBS and NatWest’s 4,800 ATMs will be
+speech-enabled, with work beginning in early 2014 and
+concluding by the end of 2015, following a long-running
+campaign from the Royal National Institute of Blind People
+(RNIB). Six other financial services and cash machine
+companies – Barclays, Lloyds, Nationwide, LINK, Co-
+operative and Visa – have also signed up to the campaign:
+ 
+Short link: http://bit.ly/17r3jkD
+ 
+Full link:
+http://www.rnib.org.uk/getinvolved/campaign/yourmoney/cash
+machine/Pages/ATM_Latestnews.aspx
+ 
++06: Travel Prize: Transport for London (TfL) have launched a
+competition to find an app that relays real-time travel
+information in formats accessible for disabled or elderly users.
+Anyone is free to enter and develop an app, and the winner
+will receive up to £5,000. The competition is being run in
+association with the One Voice for Accessible ICT Coalition,
+and the deadline for entries is 30 August:
+ 
+Short link: http://bit.ly/12pRR9B
+ 
+Full link:
+http://www.tfl.gov.uk/businessandpartners/syndication/27319.a
+spx
+ 
+ 
+[Section One ends].
+ 
+ 
+++Sponsored Notice: Bee Communications
+- Specialist Providers of Remote Captioning.
+ 
+Remote Captioning enables deaf people to participate with
+confidence in meetings, lectures and conference calls. It
+delivers accurate and fast captions of everything that is said to
+a website for a deaf person to read. Costing just £65 per hour,
+and with same day booking, it means deaf people can have the
+communication support they need, on the go and on demand.
+All that is needed to use the service is access to the internet,
+and it can be accessed on a smart phone or tablet.
+ 
+For details visit:
+http://bee-communications.com/remote-captioning.htm
+ 
+[Sponsored Notice ends].
+ 
+ 
+++Section Two: 'The Inbox'
+- Readers' Forum.
+ 
+Please email all contributions or responses to:
+inbox@headstar.com .
+ 
++07: Visible Speech: Keith Paterson, a volunteer web trainer
+for older people, posted onto our website following last issue’s
+piece on training courses for blind and visually impaired
+people on the “Georgie” package of smartphone apps that can
+help with communication.
+ 
+His comment relates to his own imaginative idea about possible
+new digital technologies to help people with impaired hearing,
+building beyond the world of mobile apps to Google glasses.
+ 
+“I have good vision but my hearing is almost gone”, Paterson
+writes. “Fortunately I have a cochlear implant which is a
+tremendous help. However it is very surprising to me that I
+have yet to see a proposal for Google glasses to be used in
+connection with speech recognition so I can SEE what people
+are saying.
+ 
+“With a billion hard-of-hearing people worldwide there is a
+great need for this and it is something I have been pushing for
+over ten years. Speech recognition on things like this iPad I use
+has come on tremendously, so it is just a question of time
+before Google or someone catches on. But the glasses are more
+likely to sell to gadget freaks who want to show off or watch
+the sport while walking around!”
+ 
+Further comments please to inbox@headstar.com or add your
+response online at:
+http://www.headstar.com/eablive/?p=836 .
+ 
++08: QUAIL Concerns: Following the piece in our last issue
+“Web Content Accessibility Checker Pitched At Wider
+Audience”, which described an updated version of free web
+content accessibility checker QUAIL ( http://quailjs.org/ ),
+reader Steve Faulkner posted onto our website with some
+concerns.
+ 
+“While the concept of QUAIL is interesting, the default
+guideline set contains a significant amount of tests that are out
+of date or incorrect, which may lead developers into
+unnecessary code additions or additions that do not have the
+desired benefit”, Faulkner said.
+ 
+“Until the default set of tests match reality QUAIL should be
+treated with extreme caution.”
+ 
+However, Steve’s comment prompted a further reassuring
+response from Mike Gifford, President of Canadian open
+source web development group OpenConcept.
+ 
+“This [QUAIL] is a great project, because it is open source”,
+Gifford said. “It does take a while to build and maintain any
+test. Folks should consider adding to the issue queue if they
+find tests that are insufficient:
+https://github.com/kevee/quail/issues
+ 
+“It’s a great start to get content editors more aware of the
+accessibility challenges of their work. No automated tool will
+catch everything though.”
+ 
+Further responses please to inbox@headstar.com or add your
+response online at:
+http://www.headstar.com/eablive/?p=834 .
+ 
+[Section Two ends].
+ 
+ 
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+ 
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+ 
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+ 
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+ 
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+ 
+[Sponsored Notice ends]
+ 
+ 
+Section Three: Profile
+- Erik Weihenmayer, Adventurer.
+ 
++09: Scaling The Heights Of Possibility.
+ 
+Erik Weihenmayer has climbed Mount Everest, the world’s
+highest mountain, and descended Mount Elbrus, the highest
+peak in Europe, skiing to base camp. Now he is preparing to
+ride the rapids of the Grand Canyon’s Colorado River in a
+kayak. Extreme sports always offer extreme challenges, but for
+Weihenmayer, the level of difficulty is different: he is blind,
+after contracting retinoschisis at the age of three.
+ 
+Weihenmayer, 44, an American of German origin, lost his sight
+gradually until his eyes were removed as a teenager and as a
+young man, to be replaced with prosthetics. “I was not afraid
+of going blind, but of ending up marginalised,” he told Lukas
+Eberle, a writer at the German newspaper “Der Spiegel”.
+“Sometimes it’s frustrating, it’s a daily struggle with yourself
+and with your limitations that you would almost pull out your
+hair,” said Weihenmayer.
+ 
+After graduating with honours he took a teaching job, but soon
+decided the quiet life was not for him.
+ 
+“At the end of the 90s I decided to take the plunge and to
+devote myself to sports”, Weihenmayer says. He began by
+climbing Mount McKinley, the highest mountain in North
+America, then Kilimanjaro. But that wasn’t enough; nothing
+seemed to satisfy his desire to prove to himself and to others
+his ability to achieve what seemed to be impossible.
+Accompanied by a helper, he went to Vietnam with a mountain
+bike tandem, and rode across the country for 1,740 km.
+ 
+Today Weihenmayer relates his exploits at meetings and
+conferences where tens of thousands of people come to listen.
+He is in demand everywhere, from his native US to Hong
+Kong, Thailand, Chile and Germany.
+ 
+“There are some days in your life when everything is as
+difficult as if you were blind and had to climb a mountain”, he
+says. “But you must not be defeated by those days. They can
+transform you into pioneers, they can make you turn lead into
+gold”. Weihenmayer earns a good living as a lay preacher of
+the courage to live: only Bill Clinton and a few other speakers
+are paid more than him.
+ 
+His most extreme adventure was climbing Mount Everest, the
+roof of the world. Erik’s Nepalese Sherpas, seeing him move
+easily and nimbly, could not believe that he was blind. They
+tried to gently take away the snow and the ice from his face to
+check if he could see, and in the end he had to take out one of
+his artificial eyes and show them his empty orbit to persuade
+them.
+ 
+Being a sightless champion of extreme sports is tough.
+Weihenmayer has developed some personal techniques and
+systems: when climbing a mountain, he wears special
+sunglasses with an integrated minicam, transmitting signals to a
+sensor. This sensor is connected to his tongue by a cable, and
+he has learned to use it to recognise the shape of rocks. When
+skiing or racing, he always has a helper, but he has learned to
+distinguish between each type of soil, from sand to asphalt, by
+the sound of his footsteps and the surrounding noises.
+ 
+“I partially put my life in the hands of others, of those who
+accompany me; only sport can give me this special feeling of
+confidence”, he says. “When I am on a mountain, or in the
+most remote places, I take a great delight in this feeling, as I
+cannot see the splendid views around me.”
+ 
+Weihenmayer has founded a charity, “Soldiers to Summits”,
+which organises climbing groups with veterans from Iran or
+Afghanistan, some of whom are blind, have lost their limbs or
+experienced severe trauma. He gives them back the extreme
+but normal sensations of life by climbing mountains from
+Nepal to Ecuador.
+ 
+Now, for his latest feat in the Grand Canyon, Weihenmayer is
+being trained by US Olympic canoeist Casey Eichfeld. “I help
+him to control his feelings and nerves while going down with
+the kayak,” Eichfeld says, but when asked if he would ever
+come down the rapids of the Colorado blindfolded, the
+Olympian is clear. “Absolutely not. Never!”
+ 
+NOTE: Article reproduced with permission from the Italian
+newspaper “La Repubblica”, where it first appeared on 25
+February, 2013. Written by Andrea Tarquini and translated for
+E-Access Bulletin by Margherita Giordano. Our thanks to
+Margherita.
+ 
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=853
+ 
+ 
+[Section Three ends]
+ 
+ 
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+ 
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+ 
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+ 
+http://www.accessifyforum.com/ .
+ 
+[Special notice ends].
+ 
+ 
+++End Notes.
+ 
++How to Receive the Bulletin.
+ 
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+ 
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+ 
+Copyright 2013 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+ 
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+ 
+ISSN 1476-6337.
+ 
+[Issue 157 ends.]

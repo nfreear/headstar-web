@@ -1,0 +1,519 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 153, November-December 2012.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+In Association With Go ON Gold:
+http://www.go-on-gold.co.uk/ .
+
+Please forward this free bulletin to others
+So they can subscribe directly, at no cost.
+(sign-up details at the end).
+
+
+
+++Issue 153 Contents.
+
+01: Accessible Design Event Fuels User-Focused Innovation
+- Event aims to change mindset of “retrofitting” products.
+
+02: Call For New Task-Based Approach To Digital Inclusion
+- “Change in mind set” needed by organisations, says report.
+
+03: Personalisation Is Key To Draft E-Learning Standard
+- Comments invited by educational bodies and tech companies.
+
+News in Brief: 04: Shock Stats - One third of disabled adults
+have never used internet; 05: Nudge Online - report tackles
+elderly exclusion; 06: Directive Proposed - European web rules
+drafted.
+
+Section Two: Inbox.
+07: Career Opportunity? Video captioning – stenographer
+suggestion.
+
+Section Three: Profile Feature: Ro O’Shay
+08: The World at My Fingertips: When Ro O’Shay lost her sight
+in 2008, her MacBook and iPhone quickly became invaluable
+to her, and she is now a prolific blogger, Tweeter and online
+advocate. She talks to Tristan Parker about her passion for
+technology.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Accessible Design Event Fuels User-Focused Innovation.
+
+Sensors to help people secure their home and an accessible
+kettle were the winning entries in a recent event that
+encouraged participants to design and build products that are
+usable by everyone.
+
+Created by accessible design social business and community
+Enabled by Design ( http://enabledbydesign.org/
+), the “Enabled by Design-athon” featured 13 teams designing
+and modifying innovative items.
+
+“If you have design-for-all as your starting point, it was about
+asking how we can modify things and customise things – how
+can we take advantage of new technology, materials and new
+ways of working to make things more accessible to people?”
+Denise Stephens, Founder of Enabled by Design, told E-Access
+Bulletin.
+
+Running over two days, the event began with sessions to help
+participants understand some of the challenges faced by people
+living with particular impairments, and how they might account
+for these challenges when designing a product.
+
+Given access to a range of materials and equipment, including
+3D printers, the teams then set about designing their own
+products. Two winners were picked. The first was
+‘SafeHouse’, a project which tells homeowners if all their
+windows and doors are closed using sensors to complete
+circuits. “Rather than having to go round your whole house and
+check that everything is secure and closed, you could have a
+central panel, which can tell you if there’s a window or door
+open”, said Stephens. “Although SafeHouse could be used by
+anyone as a security feature, it may be particularly useful for
+older people or those with memory difficulties”, she said.
+
+The second winner was ‘Paul’s Kettle’, a device designed for
+an attendee at the event who was born without lower limbs. A
+team designed a lightweight kettle with a jug shape, modified
+handle and pivot, allowing someone with limited mobility to
+easily pick up and pour the kettle.
+
+The design consultancy and event partner IDEO, will now run
+a session to help the winning groups develop their ideas and
+examine possible methods of acquiring funding for their
+designs. Other partners included: the government’s Technology
+Strategy Board; Ravensbourne, a digital media and design
+higher education institution and the location of the event; the
+public service consultancy FutureGov; and sugru – a self-
+setting rubber which can be moulded and added to items to fix,
+modify and make them easier to use.
+
+Stephens said that the event had proved particularly useful for
+designers, who found it useful to speak directly to people
+about potential ideas and developing their products. “A
+message [from the Design-athon] would be to really involve
+people from the beginning of the design process. Rather than
+retrofitting something for somebody, why not speak to people
+throughout and use that information to help inspire and
+influence your design?”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=792
+
+
++02: Call For New Task-Based Approach To Digital Inclusion.
+
+A “change in mind set” on digital inclusion is needed by
+organisations in all sectors after a general failure to create
+accessible digital systems – particularly for those with a
+disability or the elderly – a new report by technology access
+charity AbilityNet says.
+
+“Mind the Digital Gap: It’s bigger than you think” says that
+although there has been much discussion on accessibility and
+inclusive digital systems over the past 15 years, this has not
+yielded significant results. “The reality is … that apart from a
+small number of good examples, many digital systems and
+content are inaccessible to the majority of disabled and older
+people. The current methodology … has failed and we need a
+change in mind set on how we approach digital inclusion,” it
+says.
+
+The paper proposes a six-part strategy to help organisations
+develop a more inclusive digital environment and economy.
+This includes the creation of a “support service” to help
+disabled and older people use technology effectively; and
+encouraging business, government and the third sector to work
+toward digital inclusion together through a new forum.
+
+The paper also stresses the importance of task-based testing –
+examining the achievability of individual tasks – in designing
+inclusive digital services. As an example of how not to do this,
+the report uses the example of an airline website where a user
+is sent back to the beginning of the ticket-buying process if the
+required information is not completed in a certain time. This
+security feature may make it difficult for someone with a
+learning or cognitive impairment to complete the process, and
+an adjustment to the cut-off time would increase usability for
+these groups, it says.
+
+“We have to recognise that people use technology to complete
+a task, whether that is filling in an online form, buying
+something, looking for information and so on,” Nigel Lewis,
+chief executive of AbilityNet, told E-Access Bulletin. “The
+approach to inclusion and accessibility has [so far] focused on
+piecemeal elements such as alternative text for images rather
+than thinking of what the user is actually trying to achieve”, he
+said.
+
+The new report builds on suggestions made by Kevin Carey,
+chairman of the Royal National Institute of Blind People, in a
+separate discussion paper commissioned by AbilityNet on
+improved consumer access to digital information, “Universal
+citizen and customer access”. Both papers can be downloaded
+at:
+http://bit.ly/R2ZqQM
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=790
+
+
++03: Personalisation Is Key To Draft E-Learning Standard.
+
+Public comment is being invited on a newly updated
+accessibility standard for students and learners, which focuses
+on personalising digital learning resources as a method of
+maximising accessibility for each learner.
+
+The standard, Access for All version 3.0 (AfA v3.0), is
+produced by IMS Global Learning Consortium, a non-profit
+body whose members include more than 180 leading
+universities, educational organisations and technology
+companies worldwide. It aims to give a personalised
+experience for learners through use of a “common language”
+which describes a learner’s needs and preferences.
+
+This information is not based around specifics of a learner’s
+medical condition or history, but how the learner interacts with
+digital resources, such as computers. Any specific needs of a
+user – if someone can only operate a computer using a
+keyboard, for example – are recorded, so resources can be
+adapted accordingly.
+
+Although AfA v3.0 states that “no single resource has to be
+100% accessible to all learners”, flexibility and the potential to
+alter a resource are important to the standard, as they increase
+the chances for personalisation.
+
+The constituent sections of AfA v3.0 can be viewed on the
+IMS Global website: http://www.imsglobal.org/accessibility/ .
+Comments about the standard can be left in an IMS public
+forum: http://bit.ly/QvdjGb
+
+A free webinar on AfA v3.0, hosted by EASI (Equal Access to
+Software and Information), an organisation that provides
+online training on accessible IT, will take place on 17
+December. To register, visit: http://easi.cc/clinic.htm#december
+.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=788
+
+
+++News in Brief:
+
++04: Shock Stats: One third 33% of disabled adults in the UK
+(3.89 million people) and 70% of people aged 75 and over
+(3.24 million people) have never used the internet according to
+the Office of National Statistics’ latest ‘Internet Access
+Quarterly Update’. According to report, which contains figures
+for the third quarter of 2012, “individuals with a disability are
+just over three times more likely never to have used the
+Internet than individuals with no disability:”
+
+Quick link: http://bit.ly/TjgocL
+
+
++05: Nudge Online: A new report has made a number of
+suggestions for tackling the digital exclusion of elderly people,
+including for government and the private sector to put more
+emphasis on “co-design” in the technology sector – that is,
+involving older people in the design of online services. The
+report, “Nudge or compel: can behavioural economics tackle
+the digital exclusion of older people?” was produced by the
+International Longevity Centre, a think-tank specialising in
+ageing and population change:
+
+Quick link: http://bit.ly/VfEzer
+
+
++06: Directive Proposed: A directive to increase the
+accessibility of public sector websites across Europe has been
+proposed by the European Commission. The proposal would
+introduce mandatory accessibility standards from the end of
+2015, for 12 different types of website, based on Level AA of
+version 2.0 of the international Web Content Accessibility
+Guidelines (WCAG 2.0). The proposal complements the
+European Accessibility Act to improve the accessibility of
+goods and services in the European market, which the
+European Commission is also preparing:
+
+Quick link: http://bit.ly/SryMy4
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Career Opportunity? Our regular correspondent Clive
+Lever, Diversity and Equality Officer at Kent County Council,
+writes in to respond to the online comment published in our
+last issue from a reader using the pseudonym “Deaf”.
+Following our earlier piece commenting on Channel 4’s failure
+to caption paralympic TV coverage, “Deaf” had written in to
+point out: “There are many qualified stenographers who can
+type at the minimum of 200-220 words per minutes with at
+least 98% accuracy.”
+
+Now Clive writes in to add: “In the days before word
+processors, many of those stenographers would have been
+blind audiotypists.
+
+“In these times, when only half of disabled people of working
+age, and only one-fifth of people with visual impairments of
+working age have jobs, is there not potential for a career
+opportunity for blind typists?”
+
+[Comments please to inbox@headstar.com ].
+
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Profile Feature
+Ro O’Shay
+
++08: The World at My Fingertips
+
+After training as a clinical support worker, US-based blogger
+Ro O’Shay was diagnosed with multiple sclerosis in 2006,
+before losing her sight in 2008. Since then, the internet and
+new communications technologies have gradually become a
+lifeline for her, and she is now a keen writer and technology-
+user. Tristan Parker talks to her about her passion for
+technology.
+
+TP: Please give us some background on yourself.
+
+ROS: I grew up sighted in Arizona, without the kinds of
+technology young people grow up with today. I lived at home
+and went to college and eventually decided on phlebotomy [the
+process of collecting blood from patients for examination] as a
+career. In 2006 my right eye went blind and I was diagnosed
+with multiple sclerosis. The internet and my PC quickly
+became my link to the world as I adjusted to suddenly being
+disabled. I became a moderator on a mental health forum and
+that was a huge sense of pride and accomplishment for me.
+When I suddenly became completely blind in 2008, all that
+was taken from me.
+
+TP: How do you use technology and how does it benefit you?
+
+ROS: I was without technology for eight months when a friend
+gave me an iPod nano. It had spoken menus! I called Apple,
+wondering what else they might have. It was explained to me
+that all their computers had built-in screen readers. I had heard
+about screen readers for Windows but the cost made me ill. I
+went to the Apple store and was able to log in and post on the
+mental health forum using the Mac screen reader, Voiceover. I
+could just afford the least expensive MacBook and began to
+painstakingly teach myself how to use it.
+
+TP: Do you use other technologies - online tools, screen-
+readers, anything else?
+
+ROS: I have an iPhone 4 that, next to my MacBook, is the most
+important piece of technology in my life. I have a typing app
+called Fleksy that really made using my iPhone all the easier
+and I have since gotten an app that scans and reads text, an app
+that scans barcodes and gives me product information, I am
+able to access my bank account with an app, I can listen to
+baseball games when I’m out of the house, I have a GPS app
+that helps me know where I am – the list goes on.
+
+I’m able to read books with iBooks and I keep audio books
+with me as well, and the calendar app has been a lifesaver. Just
+about every app that comes with an iPhone is accessible and
+even most third party apps are. App developers are becoming
+more and more familiar with Voiceover on all iDevices and a
+lot of them are receptive when the blind and low vision users
+have suggestions for accessibility.
+
+TP: You seem a very prolific writer on your blog. Is this one of
+your main activities when you’re online?
+
+ROS: Blogging used to be one of my main activities online. I
+started my blog after I decided to begin the journey of getting a
+guide dog and that was just another way I began meeting
+people. I met one of the close friends I mentioned earlier
+because of the blog.
+
+I found other blogs written by people who had lost their vision
+later in life and it helped me feel connected and find others
+like me. I was also helping people without even knowing it,
+and I had this entire fellowship of blind and low-vision people
+grow up around me, as well as puppy raisers and other dog
+people who helped me prepare for my life with a guide dog.
+My blog is very important to me and I recently had to move it
+to WordPress because Blogger made some changes that deeply
+impacted accessibility negatively. I was resistant to the move
+but am now grateful for it.
+
+While my blog is still active I spend most of my online time on
+Twitter using an accessible Mac client called YoruFukurou. It
+has become another hugely important window to the world for
+me. Twitter leads me to websites I want to read and my blog
+friends link their new posts there. It has become a sort of one-
+stop-shop for the internet, putting all my interests into one
+easy-to-access place. One of my fears is that Twitter will
+change things so that my client will no longer work and then
+Twitter will not be nearly as easy to use as it is now.
+
+TP: What are the main usability aspects you look for in a
+computer, and on a website?
+
+ROS: I’m spoiled since the only computer I’ve used since
+going blind is a Mac. If it’s not a Mac, I’m not interested. The
+built-in screen reader and the fact that it works so well with
+Mac software has me a loyal customer. When it comes to
+websites, I like a nice headings structure I can use to quickly
+“glance” at the page and get an idea of the layout. Plain text is
+my friend since obviously image-based content is something
+Voiceover can’t read to me. Image descriptions are nice and
+clearly labelled buttons and links are a must.
+
+Embedded media is a problem, since Voiceover and Flash
+aren’t always friends, so I like direct links. YouTube is great
+since content plays automatically, though I don’t like content
+that plays automatically on a page I’m not expecting. It drowns
+out my screen reader and makes it difficult to navigate. Pages
+that are pretty for the sighted might be completely inaccessible
+to screen readers.
+
+TP: Do you think that more organisations are now making their
+websites accessible to blind and visually impaired computer
+users?
+
+ROS: Yes. I think screen reading technology information is
+becoming more widespread, but technology changes so
+incredibly quickly that one site I visit today might go through
+an overhaul and be completely inaccessible the next. Here in
+the States it is law that government sites be accessible, which is
+great, but those laws haven’t expanded beyond government,
+that I know of.
+
+Commercial sites such as Amazon are fairly accessible now
+and have been open to suggestions. I use Amazon a lot, and so
+I worry that one day when I visit, something will suddenly
+have changed. Lately, I have found that restaurants pose the
+biggest problem, either using images for their menus or putting
+the menus into a jumbled PDF file. It can be infuriating but it
+seems to me to be rarer and rarer that I am turned away from a
+website due to inaccessibility.
+
+TP: What benefits can using technology and getting online
+bring to people with disabilities?
+
+ROS: The benefits are endless. For me, the biggest benefit is
+the fellowship. The fact that I never have to be alone is huge. I
+can just jump on Twitter or read blogs or carry on a
+conversation with someone clear across the pond over email.
+For me, information is secondary to the people I get to interact
+with. From blind friends in Canada or Texas or New York or
+Ireland to fellow Tampa Bay Rays baseball fans in Florida, I
+am never alone. The world is at my fingertips, just like it was
+when I could see.
+
+
+Ro O’Shay’s blog, In The Center of The Roof, can be found at:
+http://www.centerroof.com/ .
+
+Her Twitter profile is: @Raynaadi
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=786
+
+
+[Section Three ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2012 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 153 ends.]

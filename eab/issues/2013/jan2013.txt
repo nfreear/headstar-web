@@ -1,0 +1,512 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 154, January 2013.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+In Association With Go ON Gold:
+http://www.go-on-gold.co.uk/ .
+
+Please forward this free bulletin to others
+So they can subscribe directly, at no cost.
+(subscription details at the end).
+
+
+++Issue 154 Contents.
+
+01: Elderly Needs Study Could Be First “Crowdfunded” Social
+Research
+- Campaign group turns to internet to fund study of residents’
+needs.
+
+02: User Priorities Must Drive Accessible ICT Research, Warns
+Telecoms Expert.
+- Network providers must use direct input from disabled and
+elderly.
+
+03: Autism Communication App Wins Smart Accessibility
+Award
+- Mobility and independent living among other prizewinners.
+
+News in Brief: 04: Mapping eInclusion – survey catalogues
+assistive organisations; 05: European Feedback – feedback
+requested on web access proposal; 06: Repairs Needed – Fix
+The Web fights to survive.
+
+Section Two: Inbox.
+07: Net Possibilities – reader reflections on digital opportunities
+for older people.
+
+Section Three: Profile: Karen Darke, Adventurer and
+Paralympian.
+08: A Thirst for Adventure: Top athlete Karen Darke has had a
+lifelong passion for sport and adventuring. Winning a medal at
+the 2012 Paralympic Games as part of the British handcycling
+team was the latest in a long line of achievements, and now she
+has set her sights on further sporting goals and fundraising
+quests across the globe. She tells Tristan Parker about her
+sporting endeavours and how her laptop and iPhone have
+become central to her everyday life.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Elderly Needs Study Could Be First “Crowdfunded”
+Social Research
+
+A study into the consumer needs of elderly and disabled
+residents of a UK town could be the UK’s first piece of social
+research to be “crowdfunded”, E-Access Bulletin has learned.
+
+The project was developed by the non-profit campaign group
+Eastbourne Designed For All (
+http://www.eastbournedesignedforall.co.uk/ ), which aims to
+pass on advice to businesses in the Sussex town on how to
+design products and services to be as accessible as possible to
+the area’s high proportion of elderly and disabled residents.
+
+A local company has offered to carry out the market research
+study, “Understanding Eastbourne’s Needs”, for a discounted
+fee of £4,200. Eastbourne Designed For All is now using the
+crowdfunding website “Peoplefund.it” ( http://bit.ly/13mXaFT
+) to source this fee.
+
+Each project on the site is allocated a target fund figure and
+deadline, with backers offered rewards from the project team
+depending on the size of their pledge, such as (in the case of
+the Eastbourne project) free consultancy from a local business
+support organisation. Pledges will only be cashed in if the full
+target sum is met by the deadline.
+
+Tom Serpell, founder and director of Designed For All, told E-
+Access Bulletin the project is the first time in the UK that
+crowdfunding had been used to fund research, but that it
+seemed the logical choice for an organisation like theirs.
+
+“Because we are a social enterprise we’re not funded, and it’s
+difficult to raise money, so we decided crowdsourcing might
+be the way forward. It provides new ways of linking people.
+We’re hoping to make Eastbourne the UK’s first ‘inclusive
+town’ as a result of the work.”
+
+If the project is commissioned, Serpell expects the results to
+build on findings from previous research conducted by
+Designed For All partner the University of Brighton, which
+revealed that town infrastructures can be difficult to negotiate
+for elderly and disabled residents, due to features such as high
+pavement curbs and signage being difficult to read for those
+with visual impairments. At time of writing, Understanding
+Eastbourne’s Needs had received £850 of its £4,200 target,
+with 22 days remaining until the deadline.
+
+Online crowdfunding is becoming an increasingly popular
+method of acquiring funds for social and community projects,
+with other platforms such as Spacehive also growing in
+prominence.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=809
+
+
++02: User Priorities Must Drive Accessible ICT Research,
+Warns Telecoms Expert
+
+Research and investment priorities for the digital economy and
+development of internet services and mobile devices must
+reflect the needs of disabled and elderly people, a
+telecommunications expert has warned.
+
+In a video address to a London event on the future of
+accessible ICT research
+( http://bit.ly/T0SkH2 ), Dr Mike Short, vice president of
+Telefónica Europe and former president of the Institution of
+Engineering and Technology, said customer demand for more
+accessible services has risen over the past ten years.
+Accordingly, mobile network providers need to think about
+different groups of users when planning for future growth,
+including the benefits that universal design can offer to
+everybody, Short said.
+
+Internet access from mobile devices is also increasing, and
+developments in smartphones and tablets have made it easier
+for people with a sensory impairment to use these devices, said
+Short, citing larger screens, more adjustable font sizes and
+increased use of touch-screen technology.
+
+However, direct information from these groups on their
+priorities when using digital services and mobile devices is
+needed to aid research and ensure that future services are
+developed appropriately, he said. “What we don’t always have
+is the right range of inputs or priorities from the accessibility
+community, those people who are in some way suffering
+difficulties through hearing or seeing or other issues”.
+
+Similar input is also needed from people who are ageing and
+people with long-term health conditions, Short told delegates.
+
+Speaking to E-Access Bulletin before the event, he said mobile
+apps needed to become more “generation-friendly”. “We need
+to move towards a world of inclusion and internet for all,
+where we’re talking about everybody having access and a
+much more inclusive range of digital services available”.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=807
+
+
++03: Autism Communication App Wins Smart Accessibility
+Award
+
+A Spanish developer who created an app to help his five-year-
+old autistic son communicate has won 50,000 euros at the
+second annual “Smart Accessibility” awards for Android
+smartphone apps, presented by the Vodafone Foundation.
+
+Ablah ( http://bit.ly/10JJ5F6 ) is an augmentative
+communication application developed by Juan Carlos
+Gonzalez. Users select images, text and sounds on a touch-
+screen to make the device “speak” for them.
+
+Ablah was one of four category winners at the 2013 awards,
+topping the ‘Wellbeing’ category.
+
+The ‘Mobility’ category was won by the Jaccede app (
+http://bit.ly/VF0kT1 ), which allows users to search for
+locations that are accessible to people with a disability.
+Information is displayed on features such as step-free
+entrances to buildings and whether accessible toilets are
+available, and users can contribute their own accessible
+locations.
+
+The Happen app ( http://bit.ly/VF2n9J ), winner of the
+Independent Living category, is a customisable tool aimed at
+those with a visual impairment and the elderly. It allows users
+to easily search for popular online information such as news
+and weather, and then choose the format they receive it in. For
+example, someone with a visual impairment may choose to
+have the information spoken to them.
+
+The fourth category, Social Participation, was won by Starting
+Blocks ( http://bit.ly/R6JETT ). This app teaches basic mobile
+technology skills through eight lessons, which guide users
+through key functions of touch-screen technology.
+
+The awards, co-organised by the AGE Platform Europe
+network and the European Disability Network, form part of the
+Vodafone Foundation’s Mobile For Good programme, which
+supports global community projects using mobile technology.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=804
+
+
+++News in Brief:
+
++04 Mapping eInclusion: Organisations that work in the digital
+inclusion sector across Europe are being asked to fill out a
+survey commissioned by a research arm of the European
+Commission, the Institute for Prospective Technological
+Studies. The survey hopes to deepen understanding of e-
+inclusion intermediaries and their work, as well as building a
+map of the organisations and the services they offer. Any
+organisation or centre that tackles digital inclusion or simply
+provides public access to computers or digital technology is
+invited to take part before 15 February:
+
+Quick link: http://svy.mk/WAz4TY
+
+
++05: European Feedback: E-Access Bulletin readers are invited
+to offer their feedback on a European Commission proposal
+for a Directive of the European Parliament and Council on
+“Accessibility of Public Sector Bodies’ Websites”, published in
+December. The proposed directive will require public sector
+websites to comply with W3C’s Web Content Accessibility
+Guidelines 2.0 at the AA level. Now, Jorge Fernandes of the
+accessibility team at the Portuguese Ministry of Education and
+Science, would like to hear E-Access Bulletin readers’ views
+on the proposals to help formulate his agency's response to the
+commission. Follow the link below to read the proposals and
+then email your thoughts to Jorge on: jorge.f@netcabo.pt once
+you have examined them:
+
+Quick link: http://bit.ly/SryMy4
+
+
++06: Repairs Needed: Fix The Web, an online platform that
+allows disabled computer users to complain about inaccessible
+websites (volunteers then contact the website owners)
+continues to seek partners and resources. After initial funding
+from the Nominet Trust, the project has struggled to keep going
+(see also E-Access Bulletin 143: http://bit.ly/uxOEMv ), and
+Gail Bradbrook, the project’s manager, has used the UN-
+backed G3ict website to renew a plea for organisations to help
+the project continue:
+
+Quick link: http://bit.ly/117T1ac
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++07: Net Possibilities: Regular correspondent Fay Rohrlach
+from South Australia writes in with a response to last issue’s
+item which found that many older people (70% of people aged
+75 and over) have never used the internet, according to the
+UK’s Office of National Statistics.
+
+In fact there are many positive opportunities for older people,
+Fay writes.
+
+“I learned to use a computer more than 20 years ago and since
+then, I just love it, I can’t leave the jolly thing alone! I’m
+finding that with the use of ZoomText [a screen magnifier], I
+can read comfortably off the screen.
+
+“There are so many interesting things on there. It’s amazing
+how we’ve had printed matter all the way through our lives,
+that all of a sudden, we now no longer need them anymore,
+yet, I just can’t imagine what life would be like without the real
+thing, to be able to have a book in hand, whether it’s Braille or
+print.
+
+“I am 63 years of age now these days, and I know that our
+world has not only changed, sometimes for the better, other
+times maybe not, but hey, that’s life, isn't it?”
+
+She signs off with a New Year wish: “I [hope] 2013 may bring
+you all that you would wish for it to be, and those of you who
+are looking for employment, will get what you want, and not
+what the organisations for the blind say you should be having.”
+
+[Comments please to inbox@headstar.com ].
+
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Profile
+- Karen Darke, Adventurer and Paralympian
+
++08: A Thirst for Adventure
+By Tristan Parker
+
+Paralympic athlete and adventurer Karen Darke has always
+been a keen sports and outdoor enthusiast. At the age of 21 she
+became paralysed from the chest down after a climbing
+accident, but this did nothing to quell her passion for
+adventure. Over the coming years she undertook numerous
+intrepid – and often dangerous – trips across the globe before
+training for the 2012 Paralympic Games, where she competed
+as a member of the British Cycling Team.
+
+Darke took part in several handcycling events at the London
+Games, including the road race over 48km (where she captured
+the headlines by crossing the finish line hand-in-hand with
+British team-mate Rachel Morris) and the road time trial over
+16km, in which she earned a silver medal. Recently, she has
+supported Go ON Gold, a national campaign to raise awareness
+of the importance of access to technology by disabled people.
+Tristan Parker (TP) caught up with her (no mean feat) to ask
+her about her life, plans and greatest achievements:
+
+TP: Please give us some background information on yourself,
+and how you became interested in sports.
+
+KD: I started into outdoor sports when I was at school.
+Climbing, caving, running, etc. This carried on with walking
+holidays with my parents, a youth expedition when I was 17,
+and mountain biking.
+
+TP: Did your accident at 21-years-old change your outlook on
+life and how you wanted to approach sporting achievements?
+
+KD: I don’t think so. I was already keen on sport and the
+outdoors so that didn’t change, but I was lucky to have a circle
+of friends who enjoyed those activities and were willing to help
+me find new ways to do them. A close friend died in a
+climbing accident only a few months after my own accident
+and that had an impact on me – it made me think about what I
+could do instead of what I couldn’t.
+
+TP: In the 2012 Paralympics you represented Great Britain in
+handcycling, but you also take part in many other activities and
+sports – is cycling something that you have a particular affinity
+with?
+
+KD: Yes, I’ve always been a keen cyclist, though before my
+accident I preferred not to be on the roads, but on a mountain
+bike (now a really old-fashioned one without suspension!).
+Really, though, I just enjoy anything that takes you into the
+outdoors, but particularly where you get to be in a different
+position from sat in a wheelchair, feeling the wind in your hair,
+your lungs working… You get the idea.
+
+TP: Do you use any kinds of technology on a regular basis?
+
+KD: A Mac laptop, iPhone and internet connectivity all the
+time. It’s kind of central to my work and life now.
+
+TP: Has technology made living with a disability any easier for
+you?
+
+KD: Not IT particularly, though it perhaps opens more areas of
+work up, given that you don’t have to be able to walk to use
+technology.
+
+TP: What kinds of barriers do you think that people with
+disabilities face in accessing and using technology and getting
+online? What could be done to remove these barriers?
+
+KD: Cost would be a barrier to some, and hassle of getting set
+up. Maybe also the support to use equipment. I would love to
+use more than I do on my laptop – make movies, etc, but lack
+of time and know-how prevent me. Perhaps having access to
+an IT buddy would be good – though I’m sure it would be
+good for everybody, regardless of disability.
+
+TP: And what kinds of benefits can technology access and
+getting online bring to people with disabilities?
+
+KD: It does help being able to access information, online
+forums and websites so easily. I can get whatever information
+is available about equipment developments, opinions, etc, in an
+instant. When I was first injured, computers weren’t so
+common, and accessing information was harder. IT is a great
+way of connecting up a minority group, e.g. into sport and with
+a disability.
+
+TP: What would you say have been your greatest or most
+significant achievements over the years?
+
+KD:
+- Staying positive.
+- Training for the Paralympics and committing 100% to it – and
+being fitter than ever at age 41.
+- Overcoming barriers and challenges with groups of friends to
+complete some amazing journeys (sea kayaking from Canada
+to Alaska, skiing across Greenland...)
+
+TP: How did it feel to win a medal at the 2012 Paralympics?
+
+KD: Relief. I worked really hard for it and gave it 100 per cent
+and more for the two years prior, so it was a relief that the hard
+work paid off and brought a medal home. Shame it wasn’t a
+Gold one, but it’s also good to have goals to chase! It’s very
+special having the medal though, mainly because children love
+it, so I love sharing it with them – seeing their faces light up
+and hearing about their goals and aspirations.
+
+TP: What do you have planned for the future? And are you
+hoping to take part in the Rio 2016 Paralympic Games?
+
+KD: I’m staying on the cycling squad. I’m also dabbling in
+paratriathlon, as I was out at the World Championships in New
+Zealand in October, and ended up winning. I enjoy the variety
+with swimming and wheelchair racing as it’s been pretty
+dedicated cycling, cycling, cycling for a while! However, my
+main commitment is still to the bike, and I’m on the British
+Cycling squad going forward with a view to Rio. But in 2013
+we hope to ‘snow-bike’ from the edge of Antarctica to the
+South Pole, and raise a big chunk of money for Back Up (a
+charity that transforms lives after spinal cord injury). The
+website is www.poleofpossibility.com. We need a nice
+corporate sponsor to make it happen, but in the meantime
+we’re on a training trip to Norway in January.
+
+NOTE: This interview first appeared on the website of Go ON
+Gold, the national campaign to raise awareness of the barriers
+faced by disabled and elderly people in accessing technology.
+E-Access Bulletin is the campaign’s official publication. To
+find out more about how you can help, visit:
+http://www.go-on-gold.co.uk/ .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=802
+
+[Section Three ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2013 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 154 ends.]

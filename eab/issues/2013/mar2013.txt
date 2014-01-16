@@ -1,0 +1,544 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 156, March 2013.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+In Association With Go ON Gold:
+http://www.go-on-gold.co.uk/ .
+
+Please forward this free bulletin to others
+So they can subscribe directly, at no cost.
+(subscription details at the end).
+
+
+++Issue 156 Contents.
+
+01: Tech Giant Launches Smartphone For Older People
+- Audio and touch screen features enhance usability.
+
+02: UK Government Funding For Assistive App “Georgie”
+- Free user training for 200 visually impaired people.
+
+03: Web Content Accessibility Checker Pitched At Wider
+Audience
+- Switch to JavaScript hoped to open up QUAIL content
+checker.
+
+News in Brief: 04: Partner Power – national Go ON Gold
+campaign increases its reach; 05: Tech4Good Returns –
+accessible internet nominations; 06: Social Awards – request
+for projects; Newspaper Problems – news website falls short;
+07: Generous Grant – digital accessibility prize.
+
+Section Two: Inbox.
+07: Smarter Homes – more ICT in homes doesn’t always mean
+more accessibility, warns one analyst.
+
+Section Three – Profile: Neil Cottrell, founder of LexAble.
+09: How To Spell Innovation: After encountering barriers in his
+university studies due to his dyslexia, Neil Cottrell built his
+own autocorrection tool to help him write essays. Several years
+later, Cottrell has started his own company and sold thousands
+of copies of the spelling tool he developed. He explains how it
+all happened to Tristan Parker.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Tech Giant Launches Smartphone For Older People
+
+A smartphone designed for elderly people has been developed
+by global technology company Fujitsu.
+
+When setting up the Stylistic S01 phone the user inputs their
+age, which customises some aspects to work differently. For
+example, the audio frequency range will be optimised for older
+people so they can clearly hear the voice of the person they are
+speaking to, and the phone can also slow down the speech of a
+caller without losing audio quality, again making it easier to
+understand.
+
+The Stylistic also features a forgiving touch-screen which
+highlights icons if they are only touched lightly. This means
+that accidental touches – common by people not familiar with
+smartphone controls – will not immediately lead to an
+undesired function.
+
+Each sub-screen on the phone also contains a question mark
+icon which gives the user
+guidance for that page.
+
+“People are living longer, have access to better healthcare and
+want to have access to the same communications channels
+(email, social media) that their younger family does.” James
+Maynard, product marketing director at Fujitsu, told E-Access
+Bulletin.
+
+The Stylistic S01 phone will be released in France in June. The
+cost has not been confirmed, but it will be priced as a “mid-
+range handset”, Maynard said. The phone’s release in other
+countries is under discussion between Fujitsu and
+telecommunications partner Orange.
+
+Fujitsu also recently unveiled another technological innovation
+designed to assist elderly people, the ‘New Generation Cane’.
+This is a prototype of a walking stick with built-in GPS and
+heart-rate monitor, which could send the user’s location and
+health data to a cloud network. Data could then be sent back to
+the cane to help direct the user. Family members can also
+check the heart rate of an elderly relative using the cane via the
+cloud, to check that they are not encountering difficulties.
+There is currently no indication of if and when the cane might
+become a purchasable product, however.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=838
+
+
++02: UK Government Funding For Assistive App “Georgie”
+
+Up to 200 blind and visually impaired people are to be trained
+to use a package of smartphone apps that can help with
+communication and everyday tasks, with £14,000 of funding
+allocated by the UK government.
+
+The training is for an app bundle for Android smartphones
+named “Georgie”, developed by husband and wife Roger and
+Margaret Wilson-Hinds through their company
+Screenreader.net. The apps help blind and visually impaired
+people operate smartphones using functions such as voice-
+assisted touch-screen operation, and also help people with
+daily tasks such as catching public transport, reading printed
+text aloud and navigation outdoors (see also our previous
+report on the apps – full link:
+http://www.headstar.com/eablive/?p=751 Short link:
+http://bit.ly/X8zS7I ).
+
+The free training sessions will be available at 30 locations
+across the UK with funding from the Department for Work and
+Pensions (DWP) provided to the charity Communication for
+Blind People, the parent organisation of Screenreader.net. As
+well as funding the trainers’ time, the money will help buy
+phones and develop learning resources including Braille and
+large print manuals, Tim Carrington, Screenreader.net’s
+business development manager, told E-Access Bulletin.
+
+The app training programme is part of a three million pound
+government funding project entitled Strengthening Disabled
+People’s User Led Organisations, launched in July 2011.
+
+“A training session will enable a hesitant smartphone user to
+learn how Georgie can provide them with the confidence to
+better venture out into the world”, Carrington told E-Access
+Bulletin. “Trainers will provide hands-on use of Georgie to
+Blind Association staff who will go on to act as local learning
+champions, to support Georgie users and direct them to web
+pages and other learning resources once the trainer has left.”
+
+Local maps and data will also be integrated into the sessions,
+Carrington said. For example, one of Georgie’s features is a
+bus app, and this will use local information to help users find
+their nearest bus stop, see bus times and find out when to get
+off at the right stop.
+
+Sessions will begin in May, and blind and visually impaired
+people can find out more by emailing:
+mailto:reply@screenreader.net.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=836
+
+
++03: Web Content Accessibility Checker Pitched At Wider
+Audience
+
+An updated version of a free web content accessibility
+checker, originally developed because its creator was frustrated
+at the limitations of similar products, has been launched in
+JavaScript to allow wider usage.
+
+QUAIL ( http://quailjs.org/ ) is a piece of software that uses
+more than 200 tests to assess if web content conforms to the
+widely used Web Content Accessibility Guidelines (WCAG)
+2.0.
+
+Kevin Miller, a web developer at California State University,
+Monterey Bay, developed the first version in 2009 after he
+found other accessibility checkers that he used in his job too
+limited. “I wrote QUAIL out of frustration about what products
+were out there at the time,” Miller told E-Access Bulletin.
+
+Issues for which QUAIL can test include seeing if headers on
+web pages are being used correctly; if links to other pages
+make sense when read on their own – perhaps by a screen-
+reader; and if images have appropriate text to describe them for
+someone who cannot see the image. It can be used to provide
+accessibility checking for any web page, including learning
+management systems, social media sites or content
+management systems.
+
+The software is aimed primarily at developers and content
+authors. “Ultimately, the goal was to provide instant feedback
+to content creators, kind of like spell-check-as-you-type lets
+users know they misspelled a word with a red underline,
+QUAIL can do the same about images missing a description …
+When a document is easier to read for everyone, it’s also a big
+win for users with assistive technology” Miller said.
+
+QUAIL has now been converted from PHP (a programming
+language commonly used in web developing) to a jQuery
+plugin – software that uses the widely used JavaScript
+programming language – to open it up to more users. “I really
+wanted this to be a project that could be embraced regardless
+of what someone was building”, Miller said. “Because
+JavaScript is ‘the programming language of the web’, moving
+to JavaScript meant a much broader potential audience.”
+
+Speaking about how he would like to develop the software in
+the future, Miller said that QUAIL can help make accessibility
+testing a more automated and integrated experience, by
+registering and testing every change made when a web
+application is being built, for example.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=834#more-834
+
+
+++News in Brief:
+
++04: Partner Power: Go ON Gold, the national campaign to
+raise awareness of the barriers faced by disabled and elderly
+people in accessing the internet and digital technologies, has
+signed up several new high profile new partners. These include
+the Rix Centre; Birmingham-based Castle Vale Community
+Housing Association (CVCHA); and the Scottish Disability
+Equality Forum. All partners have agreed to helping to raise
+awareness of the barriers faced by disabled and elderly people
+in accessing technology and the internet. To find out more
+about how your organisation can help the campaign, see:
+
+Full link:
+http://www.go-on-gold.co.uk/resources/champion/partner-
+signup
+
+Short link:
+http://bit.ly/11nW8rU
+
++05: Tech4Good Returns: The third annual Technology4Good
+Awards is now open for nominations. The event, organised by
+technology charity AbilityNet, celebrates the power of
+computers and the internet to affect positive social change.
+Categories include an Accessibility Award, which recognises
+the work of an individual or organisation using digital
+technology to help people overcome a disability. Nominations
+close on May 3:
+
+Full link:
+http://www.technology4goodawards.org.uk/
+
+Short link:
+http://bit.ly/gwQUvZ
+
++06: Newspaper Problems: Changes made to the website of
+daily Australian newspaper the Sydney Morning Herald – to
+link in with the printed paper moving to a smaller, tabloid size
+format – have created a number of accessibility issues, claims
+IT consultant and web accessibility expert Tom Worthington.
+Worthington found 29 problems with the site by using the
+AChecker tool, which bases its tests on the widely used Web
+Content Accessibility Guidelines 2.0:
+
+Full link:
+http://blog.tomw.net.au/2013/03/new-tabloid-sydney-morning-
+herald-fails.html
+
+Short link:
+http://bit.ly/WPNmUO
+
++07: Generous Grant: US accessibility software company
+Deque is offering 10,000 US Dollars to one innovative idea –
+with working prototype – that makes the internet more
+accessible. International applications are allowed for the
+Amaze Digital Accessibility Grant, with the deadline for
+submission 1 May:
+
+Full link: http://www.deque.com/amazegrant
+
+Short link:
+http://bit.ly/YJdVX2
+
+[Section One ends].
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
++08: Smarter Homes: Australian accessibility academic and
+consultant Tom Worthington, a regular contributor to the
+bulletin (see News in Brief, this issue), writes in to point
+readers to a response he has posted on his “Net Traveller” blog
+to a story in our last issue on the release of some new Smart
+Home Accessibility Guidelines by John Gill Technology (E-
+Access Bulletin, February 2013 – Full link:
+http://www.headstar.com/eablive/?p=821 Short link:
+http://bit.ly/160aLCL ).
+
+“These recommendations suggest that ICT in the home can
+help the elderly and others with disabilities, but only if their
+needs are taken into consideration when designing the
+interfaces for the smart home”, Tom says. “I suggest that voice
+and other hands-free controls would be useful for the
+population generally, as well as those with a disability. Also
+designers of smart home controls and displays tend to make
+them too complex and hard to use, and so an accessible design
+would benefit everyone.
+
+“However, I question the value of controls and displays for
+smart homes. A truly smart home should anticipate needs and
+adjust, without having any explicit input from the occupants
+and any need for them to look at displays.
+
+“Smart meters are an example of what is not a ‘smart’
+technology. Householders should not have to read the tariff
+from a meter and then manually adjust the appliances in their
+home: this should happen automatically. Smarter technology
+has existed for decades with off-peak electric hot water
+systems, which switch on automatically when tariffs are low.
+An electronic smart meter should be able to be interfaced to
+major energy using appliances, which also monitor the pattern
+of use and so can optimise energy saving without bothering the
+householder.”
+
+More can be found at Tom’s blog, below:
+
+Full link:
+http://blog.tomw.net.au/2013/03/accessible-smart-home-
+guidelines.html
+
+Short link:
+http://bit.ly/160aLCL
+
+[Comments please to inbox@headstar.com ].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+Section Three: Profile
+- Neil Cottrell, Founder, LexAble
+
++09: How To Spell Innovation
+By Tristan Parker
+
+After being diagnosed with dyslexia as a child, Neil Cottrell
+used various forms of assistive technology to help him study.
+He went on to develop his own autocorrective software, Global
+AutoCorrect, forming the company LexAble to develop and
+market it. Global AutoCorrect has now sold about 10,000
+copies. E-Access Bulletin spoke to Cottrell about how his own
+innovations helped him achieve a first-class degree at
+university and start his own business.
+
+E-Access Bulletin: How did it all begin?
+
+Neil Cottrell: I was identified as being dyslexic when I was
+about 10 or 11-years-old. I was a very bright kid but my
+dyslexia was really quite severe, so it meant that I was really
+good at some things and really bad at others.
+
+I ended up using lot of technology through school and
+university. My Local Education Authority bought me a laptop
+with a couple of assistive technology (AT) programs on, which
+I used in all of my lessons. My computer would read
+everything aloud to me, and I was using it to help organise my
+ideas. So I grew up benefiting from technology from a young
+age.
+
+Then when I got to 15, I started doing my GCSEs. Once I’d
+written something I could read it back with text-to-speech and
+spell check and all those things, but where I still had a problem
+that the AT wasn’t solving was with the process of writing.
+
+I’d start writing a sentence and get to a word I didn’t know how
+to spell, then the red underline would pop up from the spell
+check and when that happened, what I’d do – which was a
+really bad strategy – was stop mid-sentence and go back and
+work out how to spell that word. I’d lose track of the sentence,
+because I was constantly switching between the processes of
+writing and checking. What I often ended up with were
+sentences that were disjointed and didn’t make practical sense.
+
+So I started developing a tool for myself which would
+automatically correct my spelling as I was writing. Whether I
+was writing in Microsoft Word or doing a PowerPoint
+presentation or using Facebook, I could have this tool that
+would sit in the background. It really helped because it meant I
+wasn’t worrying about how I was spelling a word when I typed,
+I could just get my ideas down and not have to go back and
+correct things later on.
+
+EAB: How did you learn to build this tool?
+
+NC: Basically using the internet and online tutorials. Initially, I
+hadn’t envisaged this being something that thousands of people
+would use, it was just a case of, “I’ve got this problem, so it’s
+worth investing a few hours to do something that’s going to
+make everything a lot easier.” I enjoy writing software and in
+order to get it working pretty crudely it was quite quick, but
+then I was making a lot of improvements and building it up to
+work better. I got really into it and saw the benefits.
+
+EAB: Did the tool help you with your studies at university?
+
+NC: Yes, I had a very basic version I could use and then it was
+just adding improvements as I went through school and
+university. My degree was an essay-writing subject,
+Psychology, so I had to write projects and other things. I did
+very well actually, I graduated with the top mark in my year in
+Psychology at Cardiff University and I also got the top mark
+for an essay in my year out of everyone who took Psychology,
+so it showed me that once I had overcome those barriers, I was
+quite good at the fundamentals of writing essays – coming up
+with ideas, forming arguments, putting it together logically. It
+was just the spelling and my thought process getting disturbed
+that was causing problems.
+
+EAB: How did LexAble and Global AutoCorrect take shape?
+
+NC: I set up LexAble as soon as I graduated and built a
+commercial version of the tool, which became Global
+AutoCorrect. Then I started to show people Global
+AutoCorrect, asking companies if their clients would benefit
+from the software.
+
+That lasted a couple of years, then it got to the point where, as
+LexAble developed, I would call people up and ask if they
+wanted to know more about the software, and they would say
+‘Oh yes, I’ve already heard about it, my colleague
+recommended it.’ So, we hit critical mass when we realised that
+people were becoming aware of it. And at that point, things just
+really exploded.
+
+EAB: You went on to win the ‘Accessibility’ category at the
+Technology4Good Awards…
+
+NC: That was really useful for us, partly as a validation that
+what we were doing was a really good thing, but it also
+introduced us to some corporate clients. Some of the people we
+met at the awards are now helping us to distribute Global
+AutoCorrect across large companies.
+
+EAB: Do you think people with dyslexia and other print
+impairments might struggle with computer-based tasks but not
+know how they can go about overcoming those difficulties?
+
+NC: Yes, I’m sure they do. If you have the correct, easy-to-use
+assistive technology on a computer, it can actually circumvent
+a lot of the problems that you have.
+
+When you’ve invested time and perhaps when you’ve got
+some support with using a computer and technology, then
+actually, using a computer can make your life so much easier
+and more fulfilling.
+
+Using a computer is quite a stressful, new thing, and you’ve got
+to learn skills in order to start using it. For some people that can
+cause a lot of anxiety and stress. The same goes for pieces of
+software. There are a lot of things out there that can help
+people, but you’ve got to find out what suits your working
+style and how to use the piece of kit. Once you’ve got over
+those initial barriers to using computers and AT, the benefits
+they can give in terms of productivity and reducing stress are
+absolutely massive.
+
+NOTE: You can find out more about Global AutoCorrect at
+LexAble’s website: http://www.lexable.com/
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=831
+
+
+[Section Three ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2013 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 156 ends.]

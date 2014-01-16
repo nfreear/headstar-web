@@ -1,0 +1,468 @@
++++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 163, November 2013.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the 
+end). We conform to the accessible Text Email Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 163 Contents.
+
++01: Paralympics effect ‘challenges perceptions of disabled people’
+- Campaigner and Paralympian dissect changes in public attitude
+
++02: Care home workers ‘lack digital confidence and skills’
+- New projects launched to boost digital awareness and support.
+
++03: Standards developers urged to support older and disabled people
+- All mainstream products and services must be inclusive, academic warns.
+
+News in Brief: 04: Wiki Fix - accessibility patches for all; 05: Divide 
+Displayed - graphic reveals digital divide; 06: Increasing Expertise - 
+higher education course on accessible ICT design.
+
+
+Section Two: Conference Report – eAccess 13: Debate.
+07: The price of software freedom: Free and open source software is 
+generally cheaper, so why is it not in wider use in the assistive technology 
+sector? Dan Jellinek reports on a debate hosted by Southampton University’s 
+EA Draffan.
+
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Paralympics effect ‘challenges perceptions of disabled people’
+
+The impact of the 2012 Paralympic Games on public attitudes towards disabled 
+people has been positive but some campaign groups have sought to “misuse” it 
+for political ends, a leading activist told this year’s eAccess conference.
+
+And disability consultant and campaigner Simon Stevens told delegates that 
+while the London Games had raised the profile of disability issues, it would 
+take some time before we could judge whether the effect will be lasting.
+
+Stevens was addressing e-Access ’13, the UK’s leading event on access to 
+technology by disabled people, organised by E-Access Bulletin publisher 
+Headstar. He criticised the way some charities used the Paralympics 
+alongside “anti-government rhetoric”, for example. “They argue that for the 
+average disabled person, the Paralympics has not distracted from the 
+supposed hardship that disabled people face from this Government’s welfare 
+reforms”, Stevens said. “This use of the Games to promote a prejudiced 
+victimhood viewpoint… is unhelpful.”
+
+However he said the true value of the Games for the image of disabled people 
+in the UK lies somewhere between positive and negative views. “I believe it 
+is important that we see the Paralympics are just as one factor of many that 
+has assisted to raise the profile of disability issues… The politics of 
+disability has peaked and the Paralympics has been a part of them, adding 
+another dimension to the public’s understanding of disability, contrasting 
+the media’s portrayal of disabled people as vulnerable and or freaks.”
+
+It would take some time to assess the Games’ true legacy, Stevens said. “The 
+trick will be how to be keep this going in the long-term, and use it to 
+challenge the perceptions of disabled people as merely vulnerable objects of 
+pity. I fear the public still see disabled people as a single homogeneous 
+group, who all think the same… We must start showing that disabled people 
+are diverse individuals that have their own unique wants, desires, 
+aspirations, goals, likes and dislikes...The Games must be seem as a part of 
+a wider informal movement of action that is helping disabled people to 
+achieve their status as fully contributing citizens.”
+
+Conference keynote speaker Hannah Cockroft MBE – world-record-holding 
+wheelchair sprint racer and winner of two gold medals at London 2012 – said 
+the rise of the internet and social media had helped boost athletes’ 
+profiles. The video sharing site YouTube, for example, had hosted short 
+films on individual athletes and their training. “It really made people 
+watch and take notice of our abilities for the first time,” Cockroft said. 
+“It helped bring the Paralympics out of the Olympic shadow and celebrate us 
+[Paralympians] as elite athletes. It really made people watch and [see] our 
+abilities for the first time... what we could do instead of what we can’t 
+do.”
+
+Cockroft said interest in Paralympians had carried on into 2013, partly due 
+to the extensive media coverage the Games had received. It was essential for 
+this kind of exposure to continue, she said, “because otherwise a nation 
+seems to be able to forget the Paralympians pretty quickly.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=969
+
+
++02: Care home workers ‘lack digital confidence and skills’
+
+Many people who work with older people and disabled people in care homes 
+lack digital skills and are poorly placed to help residents use the internet 
+and other vital tools, eAccess 13 delegates heard.
+
+“We often find that the people who work with those in care are not 
+particularly confident or skilled in their use of digital,” said Miles 
+Maier, ICT champion at LASA, an organisation which helps charities and 
+voluntary groups use technology.
+
+To address this gap LASA has launched the Connected Care project, helping 
+not-for-profit social care providers such as independent living centres, 
+care homes and day care centres to use ICT more effectively, Maier said. 
+Under the scheme, which has been funded by the Department of Health for 
+three years, organisations receive an ICT ‘health check’ and an action plan 
+to help staff become more digitally aware and boost skills.
+
+The end goal is to enable those receiving social care to use technology more 
+effectively, he said, allowing them to communicate with family and friends 
+and have more control over their own care. “Our working theory is by 
+providing people in social care with access to e-skills and digital 
+technology, it is empowering and it is enabling,” Maier said.
+
+In a complementary project the Disabled Living Foundation (DLF), which 
+provides information on independent living, has launched a “Living Made 
+ Easy” web resource, offering impartial advice on assistive products and 
+technology to everyone, the conference heard.
+
+Ed Mylles, director of business development at the charity, said the 
+resource is split into eight sections, including house and home; mobility 
+and walking; leisure; and communication.
+
+Users can browse a wide range of communications technologies and products 
+including text-to-speech programmes, magnifiers, conversion amplifiers for 
+hearing aids and mouse and keyboard alternatives.
+
+The Department for Culture, Media and Sport supported the development of the 
+communication section including ICT access, helping to “widen the product 
+area and specifically work on including software products”, Mylles said.
+
+The communications section of Living Made Easy now contains details of more 
+than 250 software products with prices and specification, as well as listing 
+relevant ICT organisations that can provide further advice and support, he 
+said.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=965
+
+
++03: Standards developers urged to support older and disabled people
+
+People working on technical standards for mainstream products and services 
+must be more aware of the needs of older and disabled people, delegates at 
+eAccess 13 heard in a closing session in speakers raised key points for the 
+future of accessibility.
+
+Gill Whitney, head of the Design for All Research Group at Middlesex 
+University, said that in a recent survey of committee members by the British 
+Standards Institution, only one third answered ‘yes’ to the question: “Do 
+any of your standardisation activities involve the standardisation of 
+products or services where the accessibility for older and disabled people 
+needs to be considered?”
+
+However, almost four-fifths of respondents (76.7%) had said yes to the 
+question: “Do any of your standardisation activities involve the 
+standardisation of products or services which are designed to be used by 
+people?”
+
+In an ageing society, these answers make no sense together, Whitney said, 
+since all standards for people are also standards for older and disabled 
+people. One development that might help is the current revision of the 
+international standards creation guidance ISO/IEC Guide 71:2001, she said: 
+guidelines for standards developers to address the needs of older persons 
+and persons with disabilities.
+
+“Embrace mobile first” was another key point presented by Jonathan Hassell, 
+former head of accessibility at the BBC and founder of Hassell Inclusion.
+
+“For me, the most natural place for somebody with any type of impairment to 
+get a better experience of the world is through a mobile device. It’s the 
+one thing they have with them all of the time, [that] they will depend on 
+for absolutely everything,” Hassell said. “If you are not thinking about 
+accessibility and mobile you’ve got it completely back to front.”
+
+Mel Findlater, Director of The You Can Hub, made a similar point when she 
+took to the stage dressed in a cardboard box. “As a society, we put people 
+with disabilities in boxes all the time” Findlater said. “Technology, 
+especially mobile technology, has real potential to help people with 
+disabilities step out of their boxes. Can we start thinking in that way, 
+co-design with people and help people step out of their boxes?”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=960
+
+
+++News in Brief:
+
++04: Wiki Fix: A website has been launched to give web developers and other 
+internet users the opportunity to write their own accessibility “fixes” for 
+popular websites, to be stored for others to view and use. The creator of 
+“Accessify Wiki”, Open University web developer Nick Freear, says the site 
+is intended to complement existing accessibility efforts and guidelines, and 
+give website owners assistance in improving accessibility. A range of tools 
+to help people use the fixes will now be developed, and volunteers are 
+sought to help with all aspects of the project:
+
+Short link: http://bit.ly/1aTcTxz
+
+Full link: http://accessify.wikia.com/wiki/Accessify_Wiki
+
++05: Divide Displayed: A visual information diagram or “infographic” 
+visualising the UK’s digital divide reveals that 49% of disabled people and 
+61% of those aged over 65 are still not online. The ‘Digital Nation?’ 
+graphic has been produced by the Tinder Foundation, based on figures from 
+official sources including communications regulator Ofcom and the Office for 
+National Statistics. It shows the kinds of people who are more likely to use 
+the internet and for what purpose, with visual representations of how 
+factors such as age and socio-economic status affect user-activity:
+
+Short link to infographic as PDF: http://bit.ly/18l5R4E
+
+Full link to infographic as PDF: 
+http://www.tinderfoundation.org/sites/default/files/research-publications/digital_nation_infographic.pdf
+
++06: Increasing Expertise: A new higher education qualification has been 
+developed by Middlesex University for ICT professionals and others who want 
+to improve their knowledge of accessible ICT design. The Post Graduate 
+Certificate Professional Practice in Design for Diversity in ICT is a 
+one-year course led by e-inclusion expert Gill Whitney, beginning in January 
+2014:
+
+Short link: http://bit.ly/17PySWd
+
+Full link: 
+http://www.mdx.ac.uk/courses/postgraduate/Professional-practice/Diversity_information_Communication_Technology.aspx
+
+
+[Section One ends].
+
+
+++Sponsored Notice: Bee Communications
+- Specialist Providers of Captioning.
+
+Bee Communications has joined the Ai-Media group and is now able to offer 
+classroom, lecture, meeting or event captioning on the game-changing Ai-Live 
+platform. Real-time captions are streamed to a web-enabled device, and a 
+transcript can also be provided after each session. The system is optimised 
+for tablet use, with significant improvements to dictionary and transcript 
+functionality, enhanced security, and an accessible caption viewer including 
+dyslexic fonts and optimised colour palettes.
+
+Captioning helps people learn and interact by providing equality of access 
+to live content. For more information, please contact:
+beth.abbott@ai-live.com .
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers and 
+staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL, Easy 
+Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at 
+prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public service 
+leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: Conference Report
+- eAccess 13: Debate.
+
++07: The price of software freedom
+By Dan Jellinek.
+
+With some assistive technology software such as specialist text-to-speech 
+screenreaders being relatively expensive to buy, moves have been underway 
+for some time to widen the role that free and open source software can play 
+in supporting the IT needs of people with disabilities.
+
+However, while free software sounds like a great idea – and an even better 
+price – its development is not always so straightforward, delegates heard at 
+the recent eAccess 13 conference in London.
+
+A discussion group chaired by University of Southampton internet research 
+fellow EA Draffan focused on “the exciting expansion in the number of 
+strategies involving free and open source software that can support access 
+to technology”. It set out to examine “the robustness of this type of 
+software; ongoing support and maintenance issues and whether this is a 
+feasible route for government and other organisations to take in the long 
+term.”
+
+Free and open source software are notoriously hard to define, but in general 
+terms, free software can mean both that which has no cost to the user, and 
+software which people are free to adapt for their own ends. Open source 
+software (which is sometimes, but not always, also free in either or both 
+senses) is software whose source code is published so everyone can see it. 
+There are various overlaps between these categories, and many varieties of 
+copyright licence under which software can be distributed so as to remain 
+“free”, but on the whole both free and open source software are either no 
+cost or much lower cost to use than proprietary, specialist assistive 
+software which only the developers or owners can sell or licence.
+
+Free and open source software has advantages other than price: the ability 
+for others to adapt it means, for example, that software produced in one 
+language can be taken by another group and translated into another language. 
+And its functionality can be tweaked to suit new groups of users by 
+volunteer developer communities, often working together using online code 
+exchange and development platforms, such as GitHub and SourceForge.
+
+Sounds good, but the fact is there has been a surprisingly low level of free 
+and open source software to emerge in the assistive technology arena, 
+Draffan said. “There is lots of good free software in other sectors – what 
+is stopping us in assistive technology?”
+
+One of the main problems is funding, she said. Although developing software 
+can be relatively affordable, open source software needs to have a community 
+of users built around it to help maintain and strengthen the code, Draffan 
+said. “You have to build your community, to blog, tweet – you have got to 
+have your community stay with you. How do you do that? It is terribly time 
+consuming, and without money, you can’t sustain it.
+
+“The actual capital expense of developing something is 33% or even less of 
+total cost. The real money goes on promotion and marketing.”
+
+Some projects are supported by companies who allow their paid developers 
+time to support voluntary open source projects. Google, for example, allows 
+its engineers a certain percentage of their time to pursue creative projects 
+such as writing open source software; and many other giant IT companies such 
+as IBM support social projects.
+
+For individual projects, however, support can still be a problem. And there 
+are other barriers, too: free software licences sound simple but there are 
+so many variations such as BSD and GNU that the field can be hard to 
+understand, Draffan said. This matters: getting each licence exactly right 
+to suit the aims of each project is “horrendously important”, she said.
+
+Other issues include inevitable limitations to projects supported by 
+volunteer communities: commercial tools, while they tend to be more 
+expensive, often have access to better development funding and hence are 
+generally more fully-featured and support more standard platforms, Draffan 
+said. Open source software, on the other hand, often does part of a job very 
+well, or supports one operating system or web browser well, but does not 
+work so well across the board, she said.
+
+But isn’t the world big enough for all kinds of software? Or, as Draffan put 
+it, “Can we achieve a nirvana where we have a two-tier system?”
+
+To do that, we need more encouragement for open innovation, she said. This 
+could partly be achieved by promoting existing success stories, to fire 
+people’s imaginations, and also by wider distribution of the free and open 
+source assistive technology that already exists. “I give a pen drive with 
+free assistive technology to new students – why is someone not doing it for 
+people in care homes?”
+
+The government may have a useful role to play here, and does support some 
+open source software because it wants to avoid supplier lock-in and control, 
+Draffan said. However, this support has so far mainly concentrated on 
+well-established platforms and tools such as web content management 
+software, she said, “whereas with assistive technology, we are asking for 
+someone to create something new.”
+
+One answer might be to look for software projects that have already been 
+started but need support to reach the next level, she said. “We need to look 
+for something already sitting there that is waiting to tip, that needs a bit 
+of a nudge, so you can validate it, you can say here is what we think is the 
+most promising one.”
+
+The results will definitely be worth it, she said, in an ageing society. 
+Some might think assistive technology is a small area of software 
+development aimed at a small user community, she said, “but is it? If I am 
+thinking of 25% of population that is getting old, it is not so small.”
+
+NOTE: EA Draffan’s slides and other speaker slides and notes from eAccess 13 
+are available to view online at:
+http://www.headstar.com/eaccess13/agenda.html
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=958
+
+
+[Section Two ends]
+
+
+++Sponsored notice: Audio book mysteries to relax and enjoy
+
+More and more people are using audio books to relax, and to develop and 
+stimulate their imaginations. My name is Donna J. Jodhan and since 2010 I 
+have been using my audio mysteries to help thousands from around the world 
+to do just that – for pennies at a time.
+
+I am an author who is blind. My audio mystery titles include ‘Birthday Party 
+at the Beach’ [plot summary follows]: It was supposed to have been a happy 
+occasion – yet one of the guests ended up being dead. She just got into the 
+wrong things at the wrong time and before she knew it, it was too late to 
+run. But why did Dr. Jan Bearstow have to die? [plot summary ends] Other 
+titles include ‘The Million Dollar Mansion’, ‘The Kidnapper’s Kid’ and many 
+more.
+Visit www.donnajodhan.com to learn more, subscribe to my monthly newsletter 
+or buy the audio mysteries direct at:
+www.donnajodhan.com/store.html .
+
+[Sponsored notice ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email 
+addresses to subscribe in the body of the message. Please encourage all your 
+colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in 
+the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2013 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright 
+notice are included, and as long as people are always encouraged to 
+subscribe with us individually by email. Please also inform the editor when 
+you are reproducing our content. Sections of the bulletin may be quoted as 
+long as they are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Associate Editor: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 163 ends.]

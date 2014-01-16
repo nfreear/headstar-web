@@ -1,0 +1,542 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 159, June 2013.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+In association with Go ON Gold:
+http://www.go-on-gold.co.uk .
+
+Please forward this free bulletin to others (subscription details
+at the end).
+
+
+++Issue 159 Contents.
+
+01: Digital Inclusion “About Everybody, Not Just Disabled
+People”
+- Access through new devices means inclusion is mainstream
+issue.
+
+2: Practitioners Rally To Defend Web Access Guidelines
+- Concerns raised over academic attack on WCAG
+effectiveness.
+
+03: Employers ‘Need Support To Make Job Applications
+Accessible’
+- Charity finds range of barriers for applicants with disabilities.
+
+News in Brief: 04: Election Access - European Parliament
+website declaration; 05: Classroom Captions - Australian
+students receive live text feed; 06: Tablet Teaching – iPads in
+the classroom.
+
+Section Two: Special Report - Accessible Video Games.
+07: Serious Fun, Serious Business – computer games are a
+major part of modern culture, but many disabled people are
+excluded by their design. The result, says Ian Hamilton, can be
+much more damaging than missing out on entertainment – but
+help is at hand thanks to a range of accessibility initiatives
+including developer guidelines.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Digital Inclusion “About Everybody, Not Just Disabled
+People”.
+
+The concept of digital accessibility simply as a means of
+catering for disabled users is out-of-date: in the modern world,
+digital inclusion must be understood as the need to serve
+everybody, whatever their access method or device, a leading
+accessibility specialist has said.
+
+Robin Christopherson, head of digital inclusion at technology
+access charity AbilityNet, told delegates at the recent national
+digital conference in London, ND13, that providers of digital
+content and services already need to adapt to new devices and
+access methods. With more people than ever accessing
+websites through mobile and other devices, we are in a
+situation where “everybody is disabled from time-to-time”,
+Christopherson said.
+
+“People are accessing your content and your services while
+they’re on the go – from a small screen which might be more
+difficult to see, or while they’re driving they might need to
+have things spoken back to them and need to control things by
+voice,” he said.
+
+“This idea of accessibility being for disabled people, I would
+argue, is now anachronistic”, he said. “Digital inclusion is… by
+far a preferred statement, because it talks about including
+everybody, whereas traditionally, accessibility has been this
+bolt-on activity to help disabled people, with additional budget,
+additional skills required.”
+
+For people with disabilities, new technologies are also opening
+up new horizons, Christopherson said. Emerging technologies
+such as: Google Glass, a head-mountable computer that
+responds to voice commands; software that detects human
+facial expressions; and the ‘Talking Goggles’ app, which
+photographs an object and then tells the user what the object is,
+are all opening up new frontiers of communication.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=893
+
+
++02: Practitioners Rally To Defend Web Access Guidelines.
+
+Accessibility practitioners have defended the international
+standard ‘WCAG’ web content accessibility guidelines this
+month, in the wake of an academic study suggesting they were
+“ineffective”.
+
+The PhD study by André Pimenta Freire of the University of
+York, as reported in E-Access Bulletin in May, said adherence
+to the WCAG guidelines could not resolve many problems on
+website pages encountered by print-disabled computer users. In
+a series of responses on the bulletin’s website, however,
+several practitioners raised objections to points raised in
+Pimenta Freire’s study.
+
+Ian Hamilton, a user experience consultant who has also
+contributed this issue’s feature on accessible gaming, said the
+study referred to issues such as confusing web page layouts,
+which were problems for all users – not just those with
+disabilities. “These are not accessibility issues, and are not
+what WCAG is for”, Hamilton said. “WCAG is to help avoid
+being unnecessarily excluded because of disability, and not to
+guarantee that people with disabilities can use a website.”
+
+While he said he agreed with the study’s assertion that user
+testing by people with disabilities is essential to check
+accessibility – and that guidelines should not be relied on alone
+– he said extensive testing at all stages of a design process
+would be too expensive and difficult for most organisations.
+
+“Testing, guidelines and expert review each have their own
+major inadequacies, and their own major benefits. Do all three
+and they compensate for each other very nicely.”
+
+In a further analysis, Grant Broome of DIG Inclusion said he
+and his colleagues were concerned that someone reading
+Pimenta Freire’s report might end up rejecting the WCAG
+guidelines, when they are in fact a valuable tool.
+
+“Many of us who use the guidelines in the real world know
+how essential they are in educating web developers, unifying
+objectives for browser and assistive technology developers,
+and as a tool for measuring accessibility conformance metrics,”
+said Broome.
+
+“As supporters of user-testing with disabled users, we would
+not promote WCAG as a be-all and end-all solution for
+accessibility: there are perhaps some improvements required to
+be made to the guidelines… however, we would not advocate
+building a web product without a framework which includes
+the support of a robust and recognised set of guidelines such as
+WCAG 2.0.
+
+“Approaching the development or testing of web products
+without this framework and instead relying solely on feedback
+from users is likely to result in an inconsistent and unreliable
+approach to developing a site which is not based on
+measurable metrics, but on individual opinion or preference.”
+
+Broome said the study’s finding that there was no significant
+difference in the number of user problems found on sites that
+did not conform to the guidelines, compared with those that
+did, was “troubling”, and “it is difficult for us to imagine how a
+study of this depth could arrive at such an impossible
+conclusion.” He said some of the problems found with non-
+conforming websites in the study – such as broken links – are
+in fact covered in the guidelines.
+
+The University of York Computer Science Department said this
+week it was confident
+the results in the study were derived from rigorous scientific
+and mathematical analysis of the data gathered. Further
+detailed comment from the department has been invited by E-
+Access bulletin for our next issue.
+
+To view the original report and join in the debate, follow the
+link below. Please post all comments on the topic there:
+http://www.headstar.com/eablive/?p=873
+
+
++03: Employers ‘Need Support To Make Job Applications
+Accessible’.
+
+Employers need more support to make their digital job
+application processes accessible to people with disabilities,
+according to a new report from disability employment services
+charity Shaw Trust.
+
+The report, ‘Making work a real choice’, examines the
+government’s disability employment programme Work Choice
+through the experiences of more than 400 people – a mix of
+job applicants, employers, and Shaw Trust staff.
+
+Employers’ online application forms acted as a barrier for
+some disabled applicants, as the process was not always
+accessible, the report finds. For example, ‘time-out’ features on
+some online forms, which force applicants to enter information
+within a time limit, were particularly problematic for some
+people with learning difficulties.
+
+“One customer outlined how their learning difficulty prevented
+them from completing a screen of an online application form
+for a national company in the required time limit”, it states.
+“The failure to complete the task resulted in the customer being
+barred for reapplying for another job with the employer for
+two years.”
+
+To help solve this and other related problems, the report
+recommends that employers should receive support to make
+their recruitment processes fully accessible. Although some
+government funding is already available for staff with
+disabilities through Access to Work, a scheme that offers
+funding for costs such as assistive equipment, this is focused
+on helping people once they have secured work, the Shaw
+Trust report says. “There is therefore a lack of subsidised
+support for employers to help make their application processes
+fully accessible. Increasing the accessibility of the application
+stage, could remove another systemic barrier to more people
+with disabilities entering work”, it says.
+
+Speaking to E-Access Bulletin Ian Lyons, sales manager for
+digital inclusion at Shaw Trust, said that although many
+organisations are happy to fix digital accessibility problems
+once they have been pointed out, most do not have the in-
+house skills to consider accessibility from the outset. “In the
+life-cycle of the employment process, from when a candidate
+is looking for work to their first day [of employment] people
+forget how much of that process is actually digital. I think most
+organisations want to make employment a level playing field
+for everyone, but a lot of them don’t know where to go to get
+that support or to implement those processes.”
+
+‘Making work a real choice’ can be downloaded from the
+Shaw Trust website:
+
+Quick link: http://bit.ly/120eg9v
+Full link: http://www.shaw-trust.org.uk/support-us/policy-and-
+research/making-work-a-real-choice-report-and-consultation/
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=895
+
+
+++News in Brief:
+
++04: Election Access: Leaders of all political groups in the
+European Parliament (EP) have signed a declaration setting out
+measures to increase the rights of people with disabilities. This
+includes a commitment to ensure the accessibility of all EP
+websites and other information, so disabled citizens will have
+equal access to campaign information for the 2014 European
+elections. The signing took place during a meeting of the
+political group leaders with the independent European
+Disability Forum.
+
+Quick link to declaration as Word document:
+http://bit.ly/19IrAXs .
+
++05: Classroom Captions: Real-time captions will be delivered
+directly to deaf and hearing-impaired students’ laptops in some
+schools across New South Wales, Australia, after a captioning
+company, Ai-Media, won a tender to provide the service. A
+trained captioner will work remotely during lessons, clearly
+“respeaking” teachers’ words sent to them through a
+microphone. This speech is then converted into text using
+specialist software and sent back to students’ laptops or tablet
+computers within seven seconds.
+
+Quick link: http://bit.ly/144tnTz
+
+Full link: http://www.ai-media.tv/news/Ai-
+Media_Wins_NSW_Education_Tender
+
+
++06: Tablet Teaching: The Royal National Institute of Blind
+People is assembling a collection of resources on how tablet
+computers, including iPads, are being used in schools by blind
+and visually impaired students. Articles, guidance, news and
+case studies on the topic are being collected by the charity, and
+any schools with experience in this area are being asked to
+share what they have learned:
+
+Quick link: http://bit.ly/1ahDvNA
+
+Full link:
+http://www.rnib.org.uk/professionals/education/support/tablets/
+Pages/tablets-classroom.aspx
+
+
+[Section One ends].
+
+
+++Sponsored Notice: Bee Communications
+- Specialist Providers of Remote Captioning.
+
+Remote Captioning enables deaf people to participate with
+confidence in meetings, lectures and conference calls. It
+delivers accurate and fast captions of everything that is said to
+a website for a deaf person to read. Costing just £65 per hour,
+and with same day booking, it means deaf people can have the
+communication support they need, on the go and on demand.
+All that is needed to use the service is access to the internet,
+and it can be accessed on a smart phone or tablet.
+
+For details visit:
+http://bee-communications.com/remote-captioning.htm
+
+[Sponsored Notice ends].
+
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+Section Two: Special Report
+- Accessible Video Games.
+
++ 07: Serious Fun, Serious Business
+by Ian Hamilton.
+
+Video games are now a major part of our culture, but one in
+which accessibility for people with disabilities is comparatively
+low. Work in this field has been accelerating greatly in the past
+couple of years, however, making it a very exciting and fast-
+paced area of accessibility to be involved with.
+
+Major players include the charities SpecialEffect and
+AbleGamers Foundation, and the International Game
+Developers Association’s game accessibility special interest
+group, alongside many other smaller groups and individuals
+working on advocacy and development in industry and
+academia.
+
+A common question among people in the accessibility field is
+simply – “why games?” Why should we care about a few
+teenagers having a bit of fun, when there are so many other
+serious challenges that need addressing?
+
+There are two key issues here: the scale of the industry; and the
+personal benefits. In terms of value the games sector is not far
+short of being a twelve-figure industry, roughly on a par with
+books, way ahead of music, films and DVDs and second only
+to television. Already, there are more twice as many female
+gamers over 18 as male gamers under 18.
+
+Furthermore, research commissioned by US video game
+developer PopCap
+( http://bit.ly/PYsRwl ) showed a higher proportion of people
+with disabilities among gamers than in the general population.
+Games can be a huge contributor to quality of life for people
+who have limited recreation options, but they also enable
+access to culture and socialising, and can have therapeutic
+benefits (even being prescribed by doctors in some cases). In
+multiplayer games and virtual worlds, everyone is able to
+participate on a level playing field, with players’ first
+impressions of someone being based on how they play the
+game and what they say, not on any disability they may have.
+
+It is not uncommon to hear of games having a truly life-
+changing effect. For example, one young man was in a horrific
+accident which left him quadriplegic and in despair, thinking
+his life was over, but he was then brought back from the brink
+through discovering gaming. He had found something
+meaningful that he was able to do independently. What brought
+this about were game developers simply allowing button
+configuration so he could move essential controls from the
+front to the top of his controller, meaning that although he had
+little fine motor control in his fingers, he could operate the
+buttons by moving his arms and wrists.
+
+There are a few differences to how accessibility in games
+works compared to other industries. To meet the definition of
+“game” as opposed to a toy or an interactive narrative, there
+must be a challenge to overcome, a test of some kind of skill.
+Every challenge will be a barrier for some people, so universal
+design in its truest sense cannot really exist in games. However,
+because games are so technology-focused, there is great
+accessibility potential and a great deal that can be done to
+avoid unnecessary barriers.
+
+Some of this potential can be achieved through: inclusive
+design, such as avoiding use of colour as a sole means of
+communicating information; providing gamers with options
+such as a choice of difficulty level or being able to configure
+which button does what on your controller; and providing
+support for assistive technologies such as switches or screen-
+readers.
+
+There are some very common impairments that affect gaming,
+such as colour-blindness or impaired reading ability, translating
+into huge amounts of lost business, yet many access problems
+are cheap and easy to fix if considered early enough. The
+situation is rapidly improving, but the games industry still lags
+way behind others, and a large part of that is down to
+awareness.
+
+There have been many attempts over the years to produce
+game accessibility resources, but these have generally been
+either too short or too detailed to be a practical reference for
+developers.
+
+So in 2012 a group of game developers, accessibility specialists
+and academics collaborated to produce a set of game
+accessibility guidelines, divided into levels based on a balance
+of reach, impact and – uniquely – cost.
+
+The guidelines were launched in September 2012, at:
+http://www.gameaccessibilityguidelines.com .
+
+They are communicated in developer-friendly language,
+together with examples of best practice, and have already been
+used by many developers, publishers and universities around
+the world. They have even been used by the Australian
+Government as part of the application process for its 20-
+million-dollar games industry funding programme.
+
+Looking ahead, as gaming technology continues to change
+rapidly, each new generation of devices will bring its own new
+potential accessibility benefits and hurdles, from motion and
+speech detection to touch-screen interaction and multi-touch
+gestures.
+
+Two developments that have made a really significant
+difference in recent years have been mobile screen-readers and
+connected gaming.
+
+Blind-accessible games have traditionally been a highly
+specialist area, but mobile devices have changed this. Users
+can now navigate using a mobile screen-reader, by dragging a
+finger around the screen. The screen-reader then describes
+what element the user’s finger is over, meaning that the finger
+can essentially be used to perform the same functions that an
+eye normally would, and the user can explore the screen in a
+similar way to a sighted person.
+
+Also, unlike console games, many mobile games are based on
+navigating simple interfaces rather than complex 3D
+environments. These two factors combined have made it far
+easier to develop blind-accessible games – so easy, in fact, that
+Zynga, creators of the popular Farmville and Words with
+Friends games, actually managed to make their Hanging with
+Friends game blind-accessible by accident, simply by labelling
+elements correctly.
+
+Games also allow reporting back of analytics over the internet,
+and this, too, has huge potential. While it is very difficult to
+find out how many people enter a building using a wheelchair
+ramp rather than stairs, or to know how many people accessing
+your website are colour blind, in games you can find out
+exactly how many of your players configure their controls or
+turn on subtitles, meaning accurate business cases can be
+formed.
+
+One example of this is MUDRammer, a recent game designed
+for Apple’s iOS operating system which was made screen-
+reader accessible by its developer, Jonathan Hersh. Based on
+prevalence statistics you might guess that 1% of the players
+might be blind, but thanks to a single line of code the
+developer was able to find out that up to 10% of the players
+were screen-reader users. His game sells for five US Dollars, so
+the 24 hours work he put into making it accessible generated a
+profit “more or less immediately”, says Hersh.
+
+Overall, there is a great opportunity at the moment to spread
+knowledge, educate game developers, and build some good
+foundations that will stay relevant for years to come, making a
+real difference to many people’s quality of life.
+
+NOTE: Ian Hamilton is an independent UX (user experience)
+designer and consultant who contributed to the Game
+Accessibility Guidelines.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=891
+
+
+[Section Two ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2013 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 159 ends.]

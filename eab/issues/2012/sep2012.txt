@@ -1,0 +1,416 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 151, September 2012.
+
+In Association With Go ON Gold:
+http://www.go-on-gold.co.uk/ .
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+Please forward this free bulletin to others (subscription details
+at the end).
+
+
+++Issue 151 Contents.
+
+01: Internet Use Cuts Depression In Elderly, Study Finds
+- US university tracks up to 28% boost for mental wellbeing.
+
+02: DOTCOM Maps Out European Disability Laws
+- Commission-funded database maps policy across the
+continent.
+
+03: “Smart TVs” To Be Scrutinised For Accessibility
+- update on access guidelines for internet-connected TVs.
+
+News in Brief: 04: Travel Companion – train journey planner;
+05: Equipment Provided – US fund supports deaf-blind
+communications users; 06: Video Advice – TV and radio
+guidance; 07: eInclusion Achievers – learning difficulties
+website wins award.
+
+Section Two: Profile Feature: - Simon Stevens.
+08: A High Flyer in Two Worlds: Tristan Parker talks to award-
+winning entrepreneur Simon Stevens about the power of
+technology to overcome prejudice and isolation for people with
+disabilities. Additional research by Carrie Saint Freedman.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Internet Use Cuts Depression In Elderly, Study Finds.
+
+Elderly people who regularly use the internet are less likely to
+suffer from depression, new research from a US university has
+found.
+
+The research, from the University of Alabama at Birmingham,
+found that regular internet usage in retired Americans aged 50
+and older reduced depression by 20-28% and helped promote
+mental well-being among this group.
+
+The definition of regular internet use was based on people’s
+own answers to the question: “Do you regularly use the World
+Wide Web, or the Internet, for sending and receiving e-mail or
+for any other purpose…?”) and depression was classified by
+the ‘eight-item version’ of the Center for Epidemiologic
+Studies’ Depression Scale – a commonly used method for
+measuring depression.
+
+“Internet use and depression among older adults” was
+compiled by Shelia Cotten, George Ford, Sherry Ford and
+Timothy Hale using existing data from a survey covering both
+internet usage and health among US adults aged 50 and older,
+conducted as part of the Health and Retirement Study (HRS),
+an ongoing study into ageing by the University of Michigan.
+
+The University of Alabama at Birmingham study notes that
+much prior research on the relationship between internet use
+and depression among older adults has been based “on small
+samples, which limit the statistical sophistication and the
+robustness of the findings”. The HRS sample was larger,
+surveying 7,839 older adults who are retired and not living in a
+nursing home.
+
+The new research concludes: “Internet use reduces the
+probability of a depression categorization for older adults by
+about 20%–28%. The effects of Internet use on depression are
+large and positive, resolving, at least to some extent, the lack of
+evidence supporting the Internet’s impact on depression among
+older adults.”
+
+Dr Cotten told E-Access Bulletin that the most important
+finding of this study is that “there is a strong and robust effect
+of Internet usage on depression. What this means is that
+regardless of the statistical analysis techniques used, internet
+users were 20%-28% less likely to be classified as depressed.
+This suggests that we should be encouraging more older adults
+to become Internet users.”
+
+Dr Cotten said other research she has conducted in this area
+shows that “using the internet provides a way for older adults
+to find information, garner resources, and communicate with
+members of their social networks. The ability to stay in touch
+with others and find support when needed are likely
+responsible for the beneficial impacts of Internet use on mental
+health among older adults.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=765 .
+
+
++02: DOTCOM Maps Out European Disability Laws.
+
+A searchable online database of laws, policies, strategies and
+initiatives upholding the rights of people with disabilities has
+been launched to measure how well European nations are
+implementing the UN Convention on the Rights of Persons
+with Disabilities.
+
+“DOTCOM: the Disability Online Tool of the Commission” (
+http://www.disability-europe.net/dotcom )
+has been developed by the Academic Network of European
+Disability Experts (ANED) – in collaboration with the
+European Commission and EU Member States – building on
+the commission’s European Disability Strategy 2010-20.
+
+The information, taken from 34 countries, is organised into
+eight themes: UN convention status; general legal framework;
+accessibility; independent living; education; employment;
+statistics and data collection; and awareness and external
+action.
+
+Data can be searched by country, group of countries, theme or
+sub-category – for example the three sub-categories of
+accessibility law are transport accessibility; built environment
+accessibility; ICT and web accessibility.
+
+Searching for the UK’s ICT accessibility laws and policies
+brings up the following results, including information on the
+Equality Act 2010 and the Web Content Accessibility
+Guidelines:
+http://bit.ly/PmjM1R .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=763 .
+
+
++03: “Smart TVs” To Be Scrutinised For Accessibility.
+
+Accessibility features for “connected TVs” or “smart TVs” –
+television sets which can access internet content – are being
+examined by a working group from the Digital TV Group
+(DTG), the UK’s industry association for digital television.
+
+The work will include an updating of guidelines first published
+in a 2011 TV usability document from the DTG usability
+group, which has been renamed the accessibility group to
+incorporate wider interests.
+
+“The UK Digital TV Usability and Accessibility Guidelines” –
+nicknamed the U-Book – offer advice for manufacturers of
+digital TV receiving equipment on how to incorporate
+accessibility features into their products, including audio
+description services and text-to-speech conversion. The DTG
+accessibility group will be updating the U-Book in the autumn
+to include internet content on TVs.
+
+“The guidelines are intended to document the best practice for
+supporting accessibility and are there to provide a reference
+tool for industry”, Simon Gauntlett, Technology Director at
+DTG, told E-Access Bulletin.
+
+“Increasingly, we will see the integration of TV services and
+web-based content, and it is essential that, in the development
+of new types of services, accessibility is not compromised.”
+
+The U-Book is available by email on request from the DTG
+website:
+http://www.dtg.org.uk/publications/books.html .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=761 .
+
+
+++News in Brief:
+
+04: Travel Companion: A website to help disabled people plan
+train journeys has been launched by the Association of Train
+Operating Companies (ATOC). ‘Rail Travel Made Easy’,
+developed for ATOC by consultants Wideaware, features a
+journey planner including information and pictures on station
+layouts; information on booking a passenger assistance service;
+and travel tips for passengers with disabilities:
+Quick link:  http://www.railtravelmadeeasy.co.uk/
+
+
++05: Equipment Provided: A 10 million US Dollar national
+distribution programme for equipment and technology to help
+deaf-blind people access telecommunications services has been
+launched in the US. The project was unveiled by the Federal
+Communications Commission (FCC) as part of its drive to
+fulfil the Twenty-First Century Communications and Video
+Accessibility Act. Some 53 organisations across the US have
+been chosen to become official distributors of equipment in
+the programme:
+
+Quick link:  http://fcc.us/NXCdsE
+
+
++06: Video Advice: Two new videos advising designers,
+manufacturers and content providers on making digital
+products and services more accessible for blind and visually
+impaired people have been released by the Royal National
+Institute of Blind People (RNIB). Entitled ‘Making TV catch-up
+and on-demand services more usable for people with sight
+loss’ (video 1) and ‘Making digital radios more usable for
+people with sight loss’ (video 2), the videos address a range of
+design and usability issues and provide advice on how to
+resolve them. The videos are available on RNIB’s YouTube
+channel:
+
+Quick link to video 1: http://bit.ly/Mu3rdK
+
+Quick link to video 2: http://bit.ly/MZUhBf
+
+
++07: eInclusion Achievers: A website to help young pupils with
+learning difficulties improve their quality of life through ICT,
+by teaching ICT skills and allowing access to content that might
+otherwise be difficult for them to access is among the recently-
+announced winners of the 2012 e-Inclusion Awards. The WAI-
+NOT project, designed to be used in special education schools,
+won the ‘I am part of IT’ prize at the awards, which were set
+up by the European Commission to recognise good practice in
+tackling digital exclusion across Europe. Siemon Dekelver,
+who has Down’s syndrome, has become an ambassador for
+WAI-NOT, after using the site to write emails, read newspapers
+and for learning:
+
+Quick link: http://www.e-inclusionawards.eu/
+
+[Section One ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: Profile Feature:
+- Simon Stevens.
+
++08: A High Flyer in Two Worlds
+by Tristan Parker.
+
+Simon Stevens is a high achiever. A manufacturing and
+business graduate of Coventry University, he now works as an
+independent disability consultant, trainer and activist and has
+provided accessibility consultancy to eBay, lectured to students
+at universities, and helped organise and run European youth
+seminars.
+
+He has even appeared in a Channel 4 TV comedy series, ‘I’m
+Spazticus’ – a new take on the hidden camera prank show –
+which ran in August during the run-up to the Paralympic
+Games and can still be viewed on the channel’s “4oD” online
+catch-up service.
+
+Stevens, who has cerebral palsy affecting his speech, mobility,
+hand control and balance, is also a techno-wizard. He uses a
+PC, iPad and Lightwriter text to speech communication aid, and
+says such advances have benefited him hugely in day-to-day
+life.
+
+“Technology enables me to do so many things and to be an
+independent, active citizen”, he says. “Without computers,
+email and internet... I would not be able to work from home, I
+would be more socially isolated, and it would be harder to do
+my banking, my shopping and order takeaways to be delivered.
+Most importantly it would be much harder to have a voice in
+society as a contributing citizen and be able to be heard in the
+way I believe I am.”
+
+As long-term readers of E-Access Bulletin will also be aware,
+Stevens is also a pioneer in the popular online virtual world
+Second Life, becoming its first full-time virtual wheelchair user
+– meaning his online character or “avatar” is also in a
+wheelchair – when he joined in 2006. “While this felt very
+normal for me, I was unaware of the impact my decision to use
+a wheelchair made on others,” says Simon. “I have been
+interviewed in top mainstream media, like BBC World Service,
+about the issue, and it has been studied and researched by
+people all over the world.”
+
+Soon after joining, Simon opened ‘Wheelies’, the world’s first
+disability-themed virtual nightclub in Second Life, with the aim
+of it being a friendly and inclusive place for disabled and non-
+disabled people from around the world to meet and have a
+virtual dance to the club’s music. In 2008, Simon was awarded
+the UK Catalyst ‘Revolutionary’ Award by then-Prime Minister
+Gordon Brown for his work on Wheelies.
+
+Simon believes it is important for people with impairments to
+recognise the solutions that technology can provide, although
+he is aware that cost can be a significant barrier. It can
+expensive to replace a computer or tablet computer that may
+only last several years, with the added difficulty of finding
+reliable repair services when needed, he says.
+
+Despite this, Simon believes that technology can be a key
+factor for increasing the ability of disabled people to become
+“modern, contributing citizens.” He says: “The internet gives
+everyone direct power over their lives and the ability to express
+themselves… in a way no previous generation has had. The
+technology has its practical difficulties, but it is far more
+accessible in comparison with other methods of
+communication, and therefore is an equaliser for so many
+disabled people.”
+
+The achievement of which Simon is proudest is his 2004 award
+in the ‘Community’ category of the first Enterprising Young
+Brits Award. “The reason it was my greatest achievement was
+that it was a mainstream competition where I was the only
+disabled finalist, and as someone with a speech impairment
+who has faced a lot of prejudices in my life, it is a true
+recognition of how far technology has enabled me to make a
+difference.”
+
+As for the future, he says: “I would like to continue to make a
+difference and demonstrate what someone with a significant
+impairment can achieve with the assistance of technology. I
+also look forward to the continuing improvement of
+technology, where we can achieve more and more in a way
+that is easier and easier.”
+
+NOTE: Simon is a video champion for Go ON Gold, a new
+national campaign to promote awareness of the barriers
+disabled people face in accessing technology, and help people
+overcome those barriers. The campaign is supported by E-
+Access Bulletin, To find out more, including an exclusive
+video interview with Simon Stevens, see:
+http://www.go-on-gold.co.uk/
+
+And to find out more about Simon and his work, visit his
+website: http://www.simonstevens.com/ .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=758 .
+
+[Section Two ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2012 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 151 ends.]

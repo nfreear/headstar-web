@@ -1,0 +1,448 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 162, October 2013.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the 
+end).
+
+
+++Issue 162 Contents.
+
+01: UK Ignoring British Sign Language Video Technology, Analyst Warns.
+- Most firms and UK government departments misunderstand value, says 
+entrepreneur
+
++02: Access to the Internet by Older People and Mobile Tips at Heart of 
+e-Access 13.
+- Mobile inclusion and care home technology projects lead the exemplary 
+event
+
+03: ‘3D Search Engine’ Tested by Blind Tokyo Schoolchildren.
+- Futuristic trial creates tactile aids from live object data
+
+News in Brief: 04: Digital benefits - guide to online benefits for older 
+people; 05: Guiding Resource - sight loss support; 06: Leaders’ Vote - 
+e-accessibility policy advisor up for award; 07: Visual Paralympics - 
+graphic history of the games
+
+Section Two: Web Accessibility
+08: One Million Steps: Boosting Access Awareness, One Website at a Time.
+Despite increased publicity around digital inclusion, online access and 
+accessibility are still huge problems for millions in the UK, including many 
+disabled and elderly people. Several years ago, expensive specialist 
+equipment was often the only answer, but as AbilityNet’s Robin 
+Christopherson reports, the growth of inclusive technology is providing 
+invaluable new routes of access for many people.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: UK Ignoring British Sign Language Video Technology, Analyst Warns.
+
+Most British companies and government departments are ignoring new ways of 
+offering video links to British Sign Language (BSL) interpreters because 
+they misunderstand the value of this to deaf customers, a leading 
+practitioner has told E-Access Bulletin.
+
+Jeff McWhinney, chair of social enterprise SignVideo ( 
+http://www.signvideo.co.uk ), was speaking following the launch of a trial 
+service by the broadcaster Sky, allowing deaf customers to contact the 
+company’s customer services team using SignVideo interpreters based in 
+London and Edinburgh.
+
+The cloud-based service – run through Sky’s Accessibility website ( 
+http://www.sky.com/accessibility ) – facilitates the call between a member 
+of Sky’s Accessible Customer Services team and the company’s customers, who 
+use their own webcam.
+
+However, use of such services by major firms is all-too rare in the UK 
+despite advances in technology, McWhinney said, due to basic 
+misunderstandings about the need to offer them. “The technology has been 
+around for some time now, but there are a lot of misunderstandings about 
+sign language”, he said. “Most people think sign language is a visual form 
+of English, but that is not the case: it is actually a different language. 
+Its grammar and syntax are nothing like English. Sign language is actually 
+closer to languages in India in terms of word order, for instance.”
+
+That misunderstanding creates a lot of barriers because companies usually 
+just say that deaf customers don’t need to sign, they can just send an 
+email, McWhinney said. The problem is, the average deaf person has a low 
+reading age, so in email exchanges there will be misunderstandings, he said. 
+“But when deaf people are able to use sign video as first language, they can 
+express themselves confidently.”
+
+Sky is the only major broadcaster outside America to use this service, 
+McWhinney said, though one or two other UK firms such as BT and Lloyds Bank 
+have used it. “It is crucial for financial industry: in the past, deaf 
+people had to ask their neighbours and friends to phone in for them, and you 
+can imagine the security consequences of asking your neighbour to call the 
+bank for you.”
+
+Around 40 UK local authorities also use the service, he said, in a similar 
+way to offering telephone language interpreter services to customers with 
+other spoken languages such as Polish or Hindi. But no central government 
+body is using SignVideo, McWhinney said, despite many such as HM Revenue & 
+Customs being huge, customer-facing organisations.
+
+“I have major frustrations with HMRC: they refuse to speak to me via a third 
+party. On three occasions I have been fined £100 for not filing a tax return 
+on time due to confusion over my password, and I couldn’t phone them, I had 
+to write to them and of course this meant the deadline was passed. All three 
+times I have had my fine refunded because it was obviously not my fault, but 
+all this just adds more bureaucracy.”
+
+McWhinney said Sky has a good track record with deaf people who use BSL, as 
+one of the main funders for the BSL Broadcasting Trust which produces 
+independent content presented in sign language for the Community Channel on 
+Sky, Virgin Media, Freeview and BT Vision services.
+
+NOTE: You can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=941
+
+
++02: Access to the Internet by Older People and Mobile Tips at Heart of 
+e-Access 13.
+
+Access to the internet in homes for the elderly and developing inclusive 
+services on smartphones and tablet computers are among topics on the agenda 
+at e-Access 13, the UK’s leading event on access to technology by people 
+with disabilities.
+
+Delegates will hear about the Connecting Care project, looking at how care 
+homes for older people can make the most of new technology to support their 
+organisation, carers and service users. The project is run by Lasa, a 
+technology support group for charities and public sector bodies, with 
+funding from the Department of Health.
+
+Presenters of a mobile inclusion workshop include Shadi Abou-Zahra of the 
+World Wide Web Consortium’s Web Accessibility Initiative (WAI).
+
+Mobile platforms such as iOS, Android, and Windows are rapidly evolving with 
+richer and more robust accessibility features and support, giving developers 
+more ways to create accessible mobile web applications, Abou-Zahra will say. 
+His workshop – co-presented with Jon Gibbins of Dotjay consulting – will 
+cover the accessibility features available on the major mobile platforms and 
+suggest strategies for integrating accessibility into mobile projects.
+
+Elsewhere on the agenda, GB Paralympics star Hannah Cockroft MBE, winner of 
+two gold medals at London 2012, will help explore the ‘Paralympics effect’, 
+focusing on how increased public awareness of disability issues after the 
+2012 Paralympic Games can be used to maximum benefit.
+
+Minister for Culture, Communications and Creative industries Ed Vaizey will 
+update delegates on how the government is addressing accessibility, and 
+other speakers will cover a wide range of topics, including: user-testing of 
+websites by people with disabilities; e-book accessibility; and how people 
+can go about securing senior management support for digital inclusion 
+strategies.
+
+The event, hosted by E-Access Bulletin publishers Headstar in association 
+with the One Voice for Accessible ICT Coalition, is held in central London 
+on 31 October. For more information and to secure your place, visit:
+http://www.headstar.com/eaccess13/
+
+NOTE: You can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=944
+
+
++03: ‘3D Search Engine’ Tested by Blind Tokyo Schoolchildren.
+
+A voice-activated machine combining web search engine technology with 3D 
+printing is giving visually impaired school children in Tokyo the chance to 
+experiment with what could be a glimpse into the future for the creation of 
+live tactile teaching aids.
+
+Called the ‘Hands On Search’, users speak the name of an object into the 
+machine which then searches the internet for modelling data. The 3D printer 
+then creates a miniature model of it, using materials such as plastic, 
+carbon and metal. If the machine cannot find enough modelling data, a 
+request for the data will be posted onto the Hands On Search public website.
+
+Developed by Yahoo! Japan and Tokyo creative agency Hakuhodo Kettle, the 
+Hands On Search device is currently on free loan to the Special Needs 
+Education School for the Visually Impaired, a laboratory school of the 
+University of Tsukuba.
+
+The aim is to allow children who cannot search the internet conventionally 
+an opportunity to experience the results of web searches through touch, as 
+opposed to vision. A video by Yahoo! Japan shows the machine printing out 
+small models of items whose names children have spoken into the machine, 
+such as a giraffe, dinosaur and the Tokyo Skytree, a landmark building in 
+the city.
+
+Yahoo! Japan plan to donate Hands On Search to an organisation at the end of 
+October, though it has not been decided who will receive it. There are 
+currently no plans to make a commercial version of Hands On Search, the 
+company has said.
+
+NOTE: You can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=946
+
+
+++News in Brief:
+
++04: Digital benefits: A guide detailing the benefits that the internet can 
+offer to older people has been published online by price comparison service 
+Choose.net. Using research from charity Age UK, the government, think-tanks 
+and other organisations, the guide explores the benefits that going online 
+can offer to older people, including financial management; independence; and 
+reducing social isolation:
+
+Short link: http://bit.ly/VZP7Nv
+
+Full link: 
+http://www.choose.net/media/guide/features/digital-inclusion-reasons-older-people.html
+
++05: Guiding Resource: A website has been launched by the Prevent Blindness 
+America organisation aimed at helping people with sight loss in all aspects 
+of their lives, ‘Living well with low vision’. The site includes a self-help 
+guide for people experiencing low vision; links to and resources from more 
+than 1,500 organisations, services and other websites; and a free online 
+handbook to help people caring for someone with a visual impairment:
+
+Short link: http://bit.ly/1d86x12
+
+Full link: http://lowvision.preventblindness.org/
+
++06: Leaders’ Vote: Adrian Goodall, senior eAccessibility policy advisor at 
+the Department for Culture, Media and Sport, has been nominated in the 
+Digital Leaders 50 awards, which recognise innovation and achievement in the 
+digital sector. Goodall – who has helped E-Access Bulletin publishers 
+Headstar develop our eAccess conference over the years – is among several 
+nominees linked with access to technology by people with disabilities. 
+Others include Ed Vaizey MP, Minister for Culture, Communications and 
+Creative Industries, in whose office Goodall works – nominated in the 
+politicians category – and charity AbilityNet, nominated among 
+non-governmental organisations. E-Access Bulletin readers are encouraged to 
+vote for their favourites online:
+
+Short link: http://bit.ly/1g1VYPx
+
+Full link: http://www.digitalbydefaultnews.co.uk/digital-leaders-50/vote/
+
++07: Visual Paralympics: An “infographic” visual data chart tracing the 
+history and evolution of the Paralympic Games from its beginnings in the 
+nineteenth century up to the 2012 London Paralympics has been released by a 
+US-based website aimed at people working in special needs education. 
+‘Pathway to the Paralympics’ features historical facts and figures about the 
+games, such as data on the growing number of female Paralympians and the 
+identity of the most decorated athlete in the history of the games, who won 
+55 medals, 41 of them gold. What is her name? Find out at:
+
+Short link: http://bit.ly/1734khY
+
+Full link: http://www.masters-in-special-education.com/paralympics/
+
+
+[Section One ends].
+
+
+++Sponsored Notice: Bee Communications
+- Specialist Providers of Captioning.
+
+Bee Communications has joined the Ai-Media group and is now able to offer 
+classroom, lecture, meeting or event captioning on the game-changing Ai-Live 
+platform. Real-time captions are streamed to a web-enabled device, and a 
+transcript can also be provided after each session. The system is optimised 
+for tablet use, with significant improvements to dictionary and transcript 
+functionality, enhanced security, and an accessible caption viewer including 
+dyslexic fonts and optimised colour palettes.
+
+Captioning helps people learn and interact by providing equality of access 
+to live content. For more information, please contact:
+beth.abbott@ai-live.com .
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers and 
+staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL, Easy 
+Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at 
+prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public service 
+leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: Opinion
+- Web Accessibility
+
++08: One Million Steps: Boosting Access Awareness, One Website at a Time.
+By Robin Christopherson
+
+Recent research shows that the great majority of websites are still failing 
+consistently to comply with even the lowest priority checkpoints of the 
+accessibility guidelines set out by the international web standards body the 
+World Wide Web Consortium. Despite a plethora of initiatives to raise 
+awareness of this issue, from Citizens Online’s ‘Fix the Web’ campaign to 
+Global Accessibility Awareness Day, the situation does not seem to be 
+improving at a significant rate.
+
+Little wonder, therefore, that one in six of us is still reluctant to 
+venture into the online world and not surprising either that around half of 
+those on the wrong side of the digital divide are disabled, and a similar 
+number are aged 65 or over. The scope for mainstream technologies to 
+transform the lives of this sizeable minority seems largely untapped.
+
+It is ironic that in this divided digital economy, the UK public sector – 
+both local and central government – is now heavily promoting the elusive 
+‘channel shift’ – a switch from dealing with citizens by phone, post or 
+face-to-face, to digital channels. This, we are told, is the holy grail of 
+efficient modern public services.
+
+But the truth is that in this same new digital world, some eight million UK 
+citizens without full access to the online environment due to age, 
+disability or economic situation could become progressively disenfranchised, 
+economically, socially and even politically.
+
+But there is a glimmer of hope. Just in time, it appears that technology has 
+an emergent property – that of inclusivity. Mainstream devices are actually 
+getting increasingly user-friendly for disabled and older people as design 
+becomes more inclusive for all of us. And prices are dropping too as these 
+products become more ubiquitous.
+
+In the past, disabled people became accustomed to living in a ‘ghetto’ of 
+specialist, bespoke products with prohibitive price tags that few could 
+afford. But all of that specialist functionality and much, much more can now 
+be supplied for a fraction of the cost by smartphones or tablets, using mass 
+market applications and not expensively produced bespoke software. With the 
+addition of inexpensive peripherals such as Bluetooth keyboards or switching 
+devices, almost anyone’s needs can be served.
+
+The trick is to know how to make the necessary adjustments in their 
+operating systems and functions to make them more disability friendly and 
+accommodate your own specific requirements.
+
+AbilityNet’s contribution to solving this problem is “My Computer, My Way”, 
+an online resource to which any website can link for free. It’s already 
+embedded in various high profile sites such as Samsung, Barclays, Sky and 
+NHS Choices, and now the charity has set itself the target of ensuring one 
+million websites are linked to the tool.
+
+Designed to help those who struggle at the digital interface (with a vision 
+or hearing impairment, difficulties in operating keyboard and mouse; or 
+simply reading and spelling), a link to My Computer My Way from a website’s 
+accessibility page helps to equip users with the information they need to 
+optimise their experience.
+
+And you don’t have to be disabled to find this tool valuable. Have you tried 
+to use your tablet device in strong sunlight? Wouldn’t it be easier to see 
+what’s on the screen if you knew how to adjust the brightness?
+
+It explains the accessibility features of many operating systems across a 
+wide range of devices including Mac and PC desktops, tablets and 
+smartphones. It now includes details of current desktop versions of Windows 
+and Mac OS X, as well as newly launched versions of Android and iOS. The 
+next version is due out by Christmas 2013 to explain what’s new in Android 
+4.3 Jellybean and iOS7.
+
+Not only does this mean that end-users will be able to navigate online 
+content more effectively, it also increases the legal compliance of any site 
+as it shows a real commitment to accessibility and digital inclusion.
+
+At AbilityNet we believe that communicating simple messages about 
+accessibility is the most effective way to raise awareness and behaviour. It’s 
+a slow process, but an incremental one, and we remain hopeful that 
+significant progress can be made.
+
+NOTE: Robin Christopherson is Head of Digital Inclusion at AbilityNet.
+
+You can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=948
+
+[Section Two ends]
+
+
+++Sponsored notice: Audio book mysteries to relax and enjoy.
+
+More and more people are using audio books to relax, and to develop and 
+stimulate their imaginations. My name is Donna J. Jodhan and since 2010 I 
+have been using my audio mysteries to help thousands from around the world 
+to do just that – for pennies at a time.
+
+I am an author who is blind. My audio mystery titles include ‘Birthday Party 
+at the Beach’ [plot summary follows]: It was supposed to have been a happy 
+occasion – yet one of the guests ended up being dead. She just got into the 
+wrong things at the wrong time and before she knew it, it was too late to 
+run. But why did Dr. Jan Bearstow have to die? [plot summary ends] Other 
+titles include ‘The Million Dollar Mansion’, ‘The Kidnapper’s Kid’ and many 
+more.
+Visit www.donnajodhan.com to learn more, subscribe to my monthly newsletter 
+or buy the audio mysteries direct at:
+www.donnajodhan.com/store.html .
+
+[Sponsored notice ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email 
+addresses to subscribe in the body of the message. Please encourage all your 
+colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in 
+the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2013 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright 
+notice are included, and as long as people are always encouraged to 
+subscribe with us individually by email. Please also inform the editor when 
+you are reproducing our content. Sections of the bulletin may be quoted as 
+long as they are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 162 ends.] 

@@ -1,0 +1,575 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 150, July 2012.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 150 Contents.
+
+01: Final Draft of Mandate 376 Set For Review.
+- Feedback sought for ICT procurement standard.
+
+02: “Georgie” Apps Make Smartphones Smarter.
+- Accessible apps series for Android phones.
+
+03: Dyslexia Spelling Checker Wins Techology4Good Award
+- “Talking TVs” commended, Stephen Hawking speaks.
+
+News In Brief: 04: IQ Guidance - developer resource hub; 05:
+Improving Interfaces - control system barriers; 06: Pledging
+Change - ‘WebSight’ campaign; 07: Job-Share Politics - MP
+calls for Parliamentary job-sharing.
+
+Section Two: Inbox.
+08: TV Trouble – set top box firm in administration; 09:
+Northern Voice – text-to-speech accents; 10: Airline Struggles
+– websites still inaccessible; 11: Opera Blocked – request for
+digital text denied.
+
+Section Three: Special Report - Paralympics Broadcasting
+12: Winning The Accessible Games, Live and Online.
+Preparing for broadcasting the 2012 Paralympic Games has
+presented Channel 4 with a range of accessibility challenges,
+but addressing these issues has bolstered accessibility
+throughout the organisation, says Paul Edwards, Channel 4’s
+online programme manager for the Paralympics 2012. Tristan
+Parker speaks to him.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Final Draft of Mandate 376 Set For Review.
+
+The latest and final draft of a new European Standard for the
+accessibility of ICT products and services procured by the
+public sector – known as “Mandate 376” – is to be placed
+online next week, E-Access Bulletin has learned.
+
+Users, developers, manufacturers, public bodies and procurers
+will have until October to offer feedback on the standard and
+associated documents before formal work begins on legislation
+this autumn.
+
+The work, co-funded by the European Commission, is being
+carried out by European standards organisations. It aims to
+harmonise accessibility requirements for public procurement of
+ICT across Europe, and to provide a set of tools for the use of
+procurers.
+
+“Informal feedback on the draft standard is urgently needed
+before it is submitted to the formal – and lengthy – standards-
+making process”, said Dave Sawdon of TRE Projects, who is
+working on the project for the European Telecommunications
+Standards Institute (ETSI).
+
+Sawdon said the commission hopes the finished standard will
+“promote the procurement of accessible ICT products and
+services by public bodies and hence promote the general
+development and adoption of more accessible ICT.
+
+“In support of this and to build a coherent EU-US market it is
+hoped to maximise commonality between the emerging EU
+standard and the ongoing refresh of Section 508 of the US
+Rehabilitation Act.” Section 508 is a US law requiring public
+bodies to ensure the ICT systems they buy are accessible.
+
+The new draft will be published at:
+http://www.mandate376.eu
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=753
+
+
++02: “Georgie” Apps Make Smartphones Smarter.
+
+A new series of apps has been developed to enhance
+accessibility features for Android-enabled smartphones for
+blind and visually impaired users.
+
+The “Georgie” apps allow blind and visually impaired users to
+perform a number of functions additional to ‘standard’ phone
+features, including recording and broadcasting audio blogs;
+photographing text and having it read out to them, using an
+optical character recognition feature; and audio tagging images
+with sound clips. It will also read aloud screen text when users
+touch the screen, and voice recognition software enables users
+to speak the content for text messages into the phone.
+
+Although all these features are already available from other
+providers, Georgie collects them into one place for the first
+time. It was designed by husband and wife founders of
+assistive technology company Screenreader, Roger and
+Margaret Wilson-Hinds, who are themselves blind, alongside
+software architect Alan Kemp.
+
+The fact the system was developed by blind users is key to its
+power, Roger Wilson-Hinds told E-Access Bulletin. “We’re not
+second guessing what blind users want. Georgie is not
+retrofitted to software that’s been designed for sighted users.
+Apple and Google both have accessibility settings that are a
+great start, but the intricate and cluttered screens are very
+difficult to navigate around and find the correct button, even if
+it’s being read out.”
+
+The software is available ready to use and pre-installed on a
+Samsung Galaxy Y smartphone handset for £299, or can be
+downloaded separately onto any existing Android-based phone
+for £149.
+
+Georgie’s core features help users send text messages; scroll
+through phone book contacts; make phone calls; and configure
+the phone. Three additional bundles of apps (at £24.99 each)
+cover ‘travel’; ‘lifestyle’; and ‘communicate’.
+
+These additional bundles feature apps that can, for example,
+help users navigate around hazards on a daily route, by
+allowing users to mark known dangers – such as potholes and
+low-hanging branches – on a map, which then reminds the user
+of the obstacle during their journey.
+
+Georgie is being distributed through Sight and Sound
+Technology: http://bit.ly/NwA1Lp
+
+Earlier this year, the One Voice for Accessible ICT Coalition –
+an umbrella group of organisations promoting access to
+technology – published a report on apps that can help disabled
+people, and access to apps and smartphones in general. See:
+http://bit.ly/yBTdwo
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=751
+
+
++03: Dyslexia Spelling Checker Wins Techology4Good Award.
+
+A piece of software that can correct spelling as the user types
+into any programme – hugely valuable for people with dyslexia
+– has won the accessibility award at the second annual
+Technology4Good awards, presented in London this month.
+
+“Global AutoCorrect” (
+http://www.lexable.com/GlobalAutoCorrect )
+is the brainchild of Neil Cottrell, a 24-year-old graduate who is
+himself severely dyslexic.
+
+Other finalists for the accessibility award were Panasonic
+Corporation, for a range of “talking TVs” designed with the
+RNIB (as discussed in recent issues of this newsletter – see:
+http://bit.ly/HmjoAD ); Therapy Box, for a range of of apps
+supporting people with communication disabilities; and satellite
+TV company BSkyB, for embedding accessibility across its
+products and services, including a talking electronic
+programme guide.
+
+Also shortlisted for an innovation award was MyChoicePad, a
+Makaton language app for the iPad making Makaton signs and
+symbols much easier and cheaper to use for children and
+adults with special communication needs.
+
+An AbilityNet Excellence in Accessibility Award went to the
+celebrated physicist Professor Stephen Hawking, who has
+motor neurone disease. Professor Hawking was not able to
+attend the awards ceremony but recorded a message using his
+electronic voice synthesiser, which he operates by twitching his
+cheek.
+
+He said: “I am delighted to accept this award as recognition for
+all the truly great things that disabled people can achieve when
+technology has given them the chance to shine.
+
+“I was lucky to be born in the computer age. Without
+computers my life would have been miserable, and my
+scientific career impossible.
+
+“...the Technology4Good awards remind us that technology is
+a vital part of human existence. They show us that the right
+tools, in the right hands, can help everyone, regardless of our
+frailties, to achieve our true potential and advance as a
+civilisation. And I hope that the Technology4Good awards will
+inspire people to think about the needs of everyone around
+them and make sure they can all benefit from the power of
+computers and the internet to change their lives for the better.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=749
+
+
+++News in Brief:
+
++04: IQ Guidance: A new online hub of resources to help
+developers create accessible websites has been launched by
+non-profit organisation Media Access Australia. The website,
+Access iQ, features advice and guidance on creating accessible
+content, accessibility news, event listings, and a ‘marketplace’
+listing services, products and jobs within the sector.
+
+Quick link: http://www.accessiq.org/
+
+
++05: Improving Interfaces: The barriers faced by disabled and
+elderly people when using interfaces and control systems for
+common technologies such as bank cash machines and
+computer equipment are examined in a new report, ‘Accessible
+user interfaces: priorities for research’. The report was written
+by John Gill and Julio Abascal of the Cardiac project to
+support and carry out research in accessible and assistive ICT.
+Its recommendations include increased European support for
+research in this field; and better dissemination of knowledge
+about accessible interface designs that do not make it all the
+way to a product stage.
+
+Quick link: http://bit.ly/jtxaxc
+
+
++06: Pledging Change: Businesses are being asked to pledge
+their commitment to a minimum standard of accessibility for
+their company website and smartphone apps, by following five
+key design criteria. The 180-Day WebSight Pledge campaign,
+launched by the Royal National Institute of Blind People
+(RNIB) and PC Pro magazine, will ask companies to adjust
+their site or app over a period of six months to make it easier to
+use for blind and visually impaired users. The five elements of
+the pledge include: avoiding fixed-size fonts; making sites/apps
+screen-reader compatible; using a constant interface; ensuring
+keyboard-alone accessibility; and testing the site/app with blind
+and visually impaired users. RNIB will offer advice and
+consultancy to the companies throughout the campaign.
+
+Quick link: http://bit.ly/OMwLXZ
+
+
++07: Job-Share Politics: John McDonnell MP, Labour
+representative for Hayes and Harlington, has recorded a video
+message asking for evidence from people with disabilities who
+might like to become MPs if it were possible to job-share in
+Parliament, Job-shares are not currently allowed for MPs,
+something Mr McDonnell and others feel is one cause of
+under-representation of disabled people and women in
+Parliament. E-Access Bulletin readers are invited to respond:
+
+Quick link: http://bit.ly/LuofRq
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++08: TV Trouble: Following our mention last issue of
+accessible TV set top boxes manufactured by British firm
+TVonics, our regular correspondent Brian Gaff, who is on the
+committee of the Kingston upon Thames Association for the
+Blind, writes in to say: “Are you aware that TVonics has been
+in administration since 12 June? Though the RNIB say the box
+is still available they won’t be drawn on whether it will
+continue to be produced. I guess we must hope that the
+software is generic enough to run on other makes of box in the
+future with minimal conversion.”
+
+In response Tara Alexander, Senior Manager – Innovation at
+RNIB who had initially written in about TVonics,
+acknowledged this “unfortunate situation”, and said: “I can
+confirm that we still have stock of the DTR-HD500 set top box
+and are still selling and supporting that box.”
+
+She also forwarded a holding statement on TVonics going into
+administration from Steve Tyler, Head of Innovation and
+Development at RNIB, which said: “We learned today that
+TVonics has gone into administration. The company has been a
+great support in our bid to bring about a sea change in
+accessibility in the area of TV and related products and
+services.
+
+“We are unable to comment further until we receive more
+information from TVonics; however the set top box is still
+available via the RNIB shop and our customers are able to call
+our Helpline if they need support.”
+
+[Further comments please to inbox@headstar.com ].
+
+
++09: Northern Voice: The same reader Brian Gaff has also
+corrected a claim made in our last issue by the makers of the
+“TechDis Jill”, who thought the voice was the first text-to-
+speech tool to possess a Northern English accent.
+
+Brian notes that the voice synthesiser software eSpeak, as used
+by the free open source screenreader software NVDA, has had
+a Northern English voice “for ages” alongside its main English
+and American English voices, as well as a West Midlands voice
+and an old-fashioned Received Pronunciation (RP) voice!
+
+[Further comments please to inbox@headstar.com ].
+
+
++10: Airline Struggles: Further to our reporting last issue of a
+legal settlement between the budget airline bmibaby and RNIB
+over the inaccessibility of the airline’s website, regular reader
+Gustaw Kon writes in to say the settlement was: “Doubtless a
+kind of success but since bmibaby is in some kind of terminal
+state (as it looks), not very useful.
+
+“Much more useful would be if RNIB ensured that Ryanair
+and Easyjet were more accessible. I used to find Easyjet easy
+to access but they have changed their layout and their website
+is unsatisfactorily accessible. Ryanair are a waste of time.
+
+“And, while we are about it, what about the big boys... British
+Airways are totally inaccessible. Like practically every airline,
+they use the wonderful idea of presenting a map from which
+you can find and book flights, together with splendid graphical
+representations of timetables. Try hammering them into shape.”
+
+[Comments please to inbox@headstar.com ].
+
+
++11: Opera Blocked: Reader Stephanie Leven has contacted E-
+Access Bulletin to describe an experience she had recently in
+attempting to receive a digital text copy of English translation
+“supertitles” due to be displayed during a performance of
+Puccini's Italian language opera la bohème she was due to
+attend at Glyndebourne opera house in Sussex.
+
+As she knew her sight is not good enough to follow these
+surtitles live, Leven contacted Glyndebourne to ask for an
+electronic copy to be emailed her so she could access it in
+advance or convert it into a better format.
+
+Glyndebourne Productions replied that it was unable to send
+her the supertitle script as it is copyrighted material, but
+suggested an alternative free English language libretto to the
+opera which she could access online.
+
+Leven says she does appreciate staff were trying to help, but
+feels the copyright law must be changed as soon as possible to
+allow access to this kind of material for disabled people.
+
+She has since written to the Minister for Disabled People, Maria
+Miller MP, to say: “Management should by now be able to
+circumvent the ‘copyright’ excuse, when it is clear of the
+purpose of the request.
+
+“Although it is now too late for me for Glyndebourne I hope
+we can find a way to move forward so that this does not
+happen to the next visually impaired person. After all, a ticket
+of £215 should include access to the words of the opera in a
+suitable format.”
+
+[Comments please to inbox@headstar.com ].
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Special Report
+- Paralympics Broadcasting
+
+12: Winning The Accessible Games, Live and Online.
+
+For Channel 4, being the official broadcaster of the 2012
+Paralympic Games comes with a lot of prestige, but there are
+also significant accessibility challenges. If the website and
+other digital services of this event were not accessible to
+disabled people, it would be absurd – not to mention
+catastrophic from a PR perspective.
+
+However, rising to these challenges have helped improve the
+overall standard and awareness of digital accessibility within
+the channel, says Paul Edwards, Channel 4’s online programme
+manager for the Paralympics 2012.
+
+“The fact that we’ve got the Paralympics means that the
+importance of accessibility internally, within the company, has
+been raised. So, people who previously didn’t have much
+knowledge of the challenges of different accessibility needs
+are now learning about it”, Edwards told E-Access Bulletin.
+
+Edwards explained to the recent eAccess ’12 conference in
+London ( http://www.headstar.com/eaccess12/ ) how the
+Paralympics have provided a driver for a number of Channel
+4’s separate divisions to come together to improve
+accessibility.
+
+Although Channel 4 did already have a corporate accessibility
+programme including role-specific training, and a requirement
+that all its projects be independently reviewed before going live
+to ensure they meet accessibility requirements, one of the
+initial challenges of the Paralympics project was considering
+the different levels of accessibility experience within different
+parts of the organisation, said Edwards.
+
+“In TV, the whole issue of accessibility is often something
+commissioners and producers don’t have to worry about,” he
+said. “It’s something that’s done once a programme is made,
+and they can then get it subtitled or add audio description.
+That’s obviously not case with the web, where accessibility has
+to be considered from day one.”
+
+Additionally, for Channel 4’s online operations, a significant
+number of external agencies are used for development work,
+which presents a further challenge dealing with varying levels
+of understanding about creating accessible content.
+
+“In the past, we’ve discovered that there’s a big difference
+between people saying ‘Yes, we understand accessibility’, and
+having their knowledge properly questioned during a selection
+process,” Edwards said. “Now, all prospective suppliers have
+to provide their understanding of accessibility requirements as
+part of the selection process.”
+
+In broadcasting the Paralympics, Channel 4 will be providing
+more than 400 hours of live sports coverage – more than ever
+before in the channel’s history. As part of this task, Edwards
+and his team have created a number of online platforms
+specifically for Paralympic content.
+
+Firstly, a Channel 4 Paralympics website has been designed (
+http://bit.ly/lhBGdx )
+featuring schedules, results and live video throughout the
+Games. The site is supported by mobile apps on iOS and
+Android systems, all of which have been reviewed by the
+Digital Accessibility Centre, a non-profit accessibility
+consultancy, alongside testing by disabled users.
+
+A series of short video features have also been created,
+including over 200 video diaries from Paralympic athletes and
+individuals involved with the games, showing their build-up to
+the event and “60-second guides” to Paralympic sports. Both
+of these video series are available with closed captions and
+subtitles.
+
+Several accessible online game-simulations of Paralympic
+sports have been developed for the site, including boccia, an
+event which sees players in wheelchairs competing to throw
+leather balls as close as possible to a ‘jack’ ball on a court, and
+wheelchair rugby.
+
+Finally, the online video player used to broadcast live sporting
+events has presented a major challenge for text access. “Live
+video for sport is a real challenge when it comes to
+commentary and subtitles, and the accuracy of live captions in
+this area has been derided for some time”, said Edwards. “The
+speed at which live sport moves often means it’s unfeasible to
+produce accurate captions. People have suggested putting a
+delay in the broadcast, but this is often not acceptable to many
+viewers, particularly if there’s an equivalent radio broadcast
+going on at same time.”
+
+To tackle the problem, Edwards and his team have created an
+online video platform to support text commentary on the right-
+hand side of the screen. “This won’t necessarily be as
+comprehensive as full subtitles, but we’re trying to provide a
+context for what’s happening within the games, while at the
+same time trying to provide a really good viewer experience”,
+said Edwards. “I’ll hold my hands up and say that it’s an
+experiment, but I think it works better than live subtitles for a
+very fast sport like wheelchair rugby. The challenge is to
+balance reporting of every piece of action in a sport with the
+pace of the narrative. We’ve done a lot of tests on that, and
+we’re getting pretty close.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=746
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you’ll find discussion of
+accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2012 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 150 ends.]

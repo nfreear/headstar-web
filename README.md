@@ -3,7 +3,7 @@
 
 Copyright © 2000-2014 Headstar Limited.
 
-* http://headstar.com/eab
+* <http://headstar.com/eab>
 * http://e-accessibility.com | 80.87.128.130
 * http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://headstar.com/eab/contact.html
 
@@ -15,16 +15,16 @@ for the blind and visually impaired"
 Dan Jellinek, 01273 267172.
 
 
-
-perl/      - Web site/bulletin build scripts (CVS).
-eab_base/  - Base E-Access Bulletin HTML files (CVS).
-eab/       - Public Bulletin Web site (delete HTML from CVS, css/ images remain).
-eab/issues/  Bulletin archive, by year (some CVS).
-errors/    - ErrorDocument HTML (CVS).
-
+    perl/        -- Web site/bulletin build scripts.
+    eab_base/    -- Base E-Access Bulletin HTML files.
+    eab/         -- Public Bulletin Web site.
+    eab/issues/  -- Bulletin archive, by year.
+    ten/         -- Text Email Newsletter Standard (TEN).
 
 
---
+
+---
+
 To: Dan Jellinek <dan+@+headstar.com> | Subject: Re: EAB news page
 From: Nicholas Freear <nick@bunburyIS.com>
 Organization: Bunbury IS | Date: Thu, 01 Jul 2004 11:54:10 +0100

@@ -4,7 +4,11 @@ CVS
 docs
 headstar
 1
+/2014
 *old*
+*NEW*
+
+*.log
 
 Thumbs.db
 .DS_Store

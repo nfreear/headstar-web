@@ -1,0 +1,490 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 149, June 2012.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end). We conform to the accessible Text Email
+Newsletter (TEN) Standard:
+http://www.headstar.com/ten/ .
+
+
+++Issue 149 Contents.
+
+01: Launch for National Accessibility Awareness Campaign
+- All organisations urged to embed videos and spread the word.
+
+02: New Resources Promote Inclusive e-Learning
+- Text-to-Speech Tools and Guidance Free To Use.
+
+03: Appeal Court Upholds Canadian Woman’s Web Access
+Case
+- Government loses challenge to 2010 ruling.
+
+News in Brief: 04: Case Resolved - low-cost airline settles over
+website; 05: Prize Apps - smartphone innovation awards; 06:
+Parliamentary Briefing - Westminster event; 07: Inaccessibility
+Blacklist - Italian sites named and shamed.
+
+Section Two: The Inbox. 07: TV News - cost of talking sets;
+08: Education Law - schools access query; 09: Political
+Problems - access to Parliamentary correspondence.
+
+Section Three: Conference report: eAccess ’12.
+10: Time To Be Creative: Following accessibility guidelines is
+not enough – organisations must instil an inclusive approach
+throughout everything they do, delegates heard at this year’s
+eAccess event. Tristan Parker reports.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Launch for National Accessibility Awareness Campaign.
+
+Go ON Gold, a new national campaign to raise awareness
+about the barriers faced by disabled people in accessing
+modern technologies, from the internet to smartphones and
+digital TV, was launched this week by a consortium of partners
+lead by Headstar, the publisher of E-Access Bulletin.
+
+Running for a year from summer 2012 to summer 2013, Go
+ON Gold is being launched ahead of the London Paralympics
+to capitalise on a stronger- than-usual public focus on disability
+issues.
+
+At the project’s core is a partnership between the UK’s major
+e-accessibility players including the new national digital
+inclusion charity Go ON UK led by Martha Lane Fox, the UK
+government’s Digital Champion. Other partners include
+Headstar; AbilityNet, the UK’s leading charity on access to IT;
+BCS; the UK’s national blindness charity RNIB; Disability
+Rights UK (formerly RADAR), an umbrella group of other
+major charities; and the Equality and Human Rights
+Commission. The project is funded by Nominet Trust.
+
+A series of video interviews with leading figures in the
+disability community – including Paralympic athletes – are
+being created for the campaign, about how access to new
+technologies has transformed their lives. All organisations and
+individuals invited to embed the videos in their own site. The
+Go ON Gold website also intends to act as a signpost to all the
+best accessibility resources elsewhere on the web.
+
+Any organisation can sign up to become a Go ON Gold
+partner. For more information, see:
+http://www.go-on-gold.co.uk .
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=734 .
+
+
++02: New Resources Promote Inclusive e-Learning.
+
+Two free new learning resources have been released by JISC
+TechDis, a education advisory service on accessible and
+inclusive technology, to boost skills for learners with and
+without disabilities.
+
+The first resource will help learners who use text-to-speech
+applications: two new voices for text-to-speech were
+commissioned from specialists CereProc available for free to
+learners and learning institutes.
+
+The male and female voices – named “TechDis Jack” and
+“TechDis Jill” – are designed to be easy to understand,
+“youthful and modern”. TechDis Jill possesses a Northern
+English accent, which its creators believe is a first in text-to-
+speech.
+
+According to the TechDis website, “all staff and learners over
+16 in every publicly-funded learning provider in England
+should be eligible for the TechDis Voices”, which can be
+downloaded after registering: http://bit.ly/LfKoz3 .
+
+The second project to be launched was the JISC TechDis
+Toolbox ( http://www.jisctechdis.ac.uk/tbx/ ), with information
+to help people use ICT and online technologies more
+effectively in employment.
+
+This information is divided into five main categories: ‘using
+technology’, ‘planning and organisation’, ‘communicating’,
+‘teamworking’, and ‘different needs?’ It includes guidance on
+how to carry out effective Google searches; and how to operate
+text-to-speech on some mobile devices.
+
+The resources were launched at ND’12, the seventh national
+digital inclusion conference, held in London last month. In a
+launch video, Alistair McNaught of JISC TechDis said: “We
+spent eight years working with learning providers from the top
+down, helping to influence senior management teams,
+librarians, learning support staff, tutors, etc, and telling them
+about the kinds of tools and technology that could make a
+difference to their learners.
+
+“But while that was fantastic in some areas, in many places it
+just wasn’t trickling down to the learner, so we decided to flip
+it over and work form the learner upwards. The whole point of
+the Toolbox is to take all the things you wish your tutor might
+have told you about but never did, and take that to learners
+directly.”
+
+The work was funded by the Department for Business,
+Innovation and Skills.
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=736 .
+
+
++03: Appeal Court Upholds Canadian Woman’s Web Access
+Case.
+
+A blind accessibility consultant who took the Canadian Federal
+Government to court over the inaccessibility of its websites has
+won a second victory, after the Canadian Federal Court of
+Appeal upheld an initial decision in her favour.
+
+Canadian citizen Donna Jodhan, who is blind, won her first
+case against the government in 2010, after claiming that her
+rights were breached when she could not apply for a
+government job online or complete an online census form
+using screen-reader technology. The government then appealed
+the decision (see E-Access Bulletin issue 133:
+http://bit.ly/hNcwT4 ), continuing a long legal battle.
+
+In its defence, the Canadian Government had claimed the case
+should be thrown out since the information was available to
+Jodhan by other means – by telephone, post or in person.
+However, the appeal court has now upheld Jodhan’s 2010
+victory, which included a ruling that the Canadian Government
+must make its websites accessible for blind and visually
+impaired citizens within 15 months.
+
+Jodhan told E-Access Bulletin she was “absolutely delighted,
+humbled, and relieved that this decision has been handed
+down.” She said: “It is my sincere hope that the Canadian
+government will now take the initiative to work with our
+community to ensure that the court’s ruling is adhered to in full
+and in the spirit that it was meant to be. Now we need to build
+on this and use this as a launching pad for creating more
+awareness and to encourage all stake holders to work together
+for a common goal.”
+
+In a press statement about the ruling, a spokesperson for the
+Federal Government said: “Our government is continuing to
+implement the Federal Court decision from 2010. We are
+committed to web accessibility and to date over 100
+government institutions are converting their content in line with
+the Web Content Accessibility Guidelines.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=738 .
+
+
+++News in Brief:
+
++04: Case Resolved: A legal dispute between the Royal
+National Institute of Blind People (RNIB) and bmibaby over
+the alleged inaccessibility of the low-cost airline’s website to
+visually impaired customers has been settled. The legal action
+was taken by RNIB earlier this year, after the organisation had
+audited bmibaby’s websites following complaints from blind
+and visually impaired customers and made recommendations
+which were not acted on. In a statement approved by both
+parties, bmibaby apologised to its blind and visually impaired
+customers and said it is committed to rectifying remaining
+accessibility issues on its website:
+
+Quick link: http://bit.ly/KDlcl5
+
+
++05: Prize Apps: The second annual Smart Accessibility
+Awards have been launched to find the best smartphone
+applications catering for the elderly and those with disabilities.
+The awards, supported by the AGE Platform Europe network
+and the European Disability Forum, were launched by the
+Vodafone Foundation, which supports mobile technology
+projects to drive social change. Apps will be rewarded in four
+categories: social participation; independent living; mobility;
+and wellbeing, with entries invited by 15 October:
+
+Quick link: http://bit.ly/KVMO3Z
+
+
++06: Parliamentary Briefing: A briefing for UK
+Parliamentarians on the barriers disabled people face in
+accessing and using ICT, and what can be done to remove
+some of these barriers, has been published by the
+Parliamentary Office of Science and Technology. To support
+the document a seminar, ‘ICT for Disabled People’, will take
+place in the Houses of Parliament on 5 July, featuring field
+experts talking about the transforming potential of technology,
+and how ICT can be made more accessible. All are welcome:
+
+Quick link to event information: http://bit.ly/NUhuab
+
+Quick link to the document: http://bit.ly/MtAwDA
+
+
++07: Inaccessibility Blacklist: A new Italian web portal is
+naming and shaming websites and applications throughout the
+country that are inaccessible to blind and visually impaired
+computer users. The project, called ‘Titengodocchio’ in Italian
+(translated as “I am keeping an eye on you”) has been created
+by a 17-year-old blind technical student, Vincenzo Rubano,
+who collects reports from users, verifies them and enters
+upheld claims onto a ‘blacklist’ of inaccessible websites. Sites
+featured so far include the Italian National Institute for
+Statistics; the iPad version of Google Analytics; and the iPhone
+version of Skype:
+
+
+Quick link (note the site is in Italian): http://bit.ly/wOLUmo
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions or responses to:
+inbox@headstar.com .
+
+
++07: Commission Responds: Clive Lever, Diversity and
+Equality Officer at Kent County Council, wrote in to bemoan
+the apparent inaccessibility of aspects of an email newsletter
+from an organisation that should be setting the standard:
+“Please can you advise on the best way that we may be able to
+persuade the Equality and Human Rights Commission (of all
+people) to send out newsletters that conform to accessibility
+standards? For instance, three links in a row that say "read
+more" doesn't seem the best example to be setting.”
+
+After receiving the query from E-Access Bulletin, Jean Irvine
+OBE, Equality and Human Rights Commissioner, raised the
+matter internally and writes back to inform us of progress.
+
+She writes: “I have checked this with the web site manager who
+has asked me to thank you for bringing this to our attention
+[and we are] working to resolve this. We now provide an
+alternative plain text version, as the e-newsletter is sent out as a
+MIME message, in otherwords it contains a message sent in
+both plain text and HTML. Recipients receive one version or
+the other depending on how their mailbox is set up.
+
+“We also publish the newsletter on our website in an accessible
+format:
+http://www.equalityhumanrights.com/publications/email-
+newsletter/previous-editions/
+Short link: http://bit.ly/KdvVEw .
+
+“We are now looking at the links themselves, replacing the
+‘read more’ description with more relevant and accurate link
+text descriptions.”
+
+[Further comments please to inbox@headstar.com ].
+
+
++08: Television Continuation: Phil Smalley, a reader from
+Leicestershire who is blind, writes in to add to last issue’s
+comments from reader Nigel Timbrell on a move by Panasonic
+to build text-to-speech functionality into 30 of its TV models.
+Nigel had welcomed this move, but said: “My concern would
+be how many people who need this facility are going to go out
+and purchase a brand-new TV set?”
+
+Phil replies: “While I appreciate Nigel’s comments about
+existing users not having the resources to go out and purchase
+£430+ TV sets in order to benefit from the new technology,
+unfortunately, this is the way of technical advances – wouldn’t
+it be good to have “start-stop” technology fitted to your old
+banger rather than going out and purchasing a new model!
+
+“No, the exciting thing about the Panasonic development is that
+it’s mainstream. This means those who need to purchase a new
+TV and require text to speech technology can go to the high
+street for a demonstration or purchase the best price online.
+Additionally, more exciting than a mere set-top box, the
+Panasonic range can enable sight-impaired people to record
+and retrieve programmes.
+
+“Ideally, other manufacturers will follow suit and then when
+you, as a sight-impaired person, want to purchase a TV with
+text to speech, there will be far greater choice in facilities,
+quality and price.”
+
+Phil concludes: “So thank you, Panasonic, for taking the lead.
+Sadly I won’t be rushing out and purchasing at the moment as
+I’ve just given up on my speech-enabled Freeview box as
+stuttering speech, automatic turning off of audio description
+and freezing/locking up have finally got the better of me, and I
+have switched to Freesat.”
+
+Our regular correspondent Brian Gaff, who is on the committee
+of the Kingston upon Thames Association for the Blind, writes
+in to add his perspective to the debate on talking TVs – and
+talking home appliances in general.
+
+“About talking domestic appliances: the history of these is not
+a good one. I recall in the late 1970s or early 1980s, Sharp had
+a talking video. Nobody seemed to buy it so they stopped
+making it. Admittedly, the voice was rather robotic. And what
+happened to the talking DAB radio by Pure?
+
+“I'd like to see the same technology as on the Panasonics used
+on stereo systems and so on. But in a few years’ time, will
+anyone still be making voice-assisted units?”
+
+Further comments please to inbox@headstar.com .
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Conference report
+eAccess ’12.
+
++10: Time To Be Creative
+by Tristan Parker.
+
+A more creative, inclusive approach to accessibility is needed
+than simply following technical guidelines, delegates heard at
+the eAccess 12 conference co-hosted this week by E-Access
+Bulletin publisher Headstar.
+
+David Sloan of the Digital Media Access Group at Dundee
+University said his university’s School of Computing had
+integrated user feedback into all aspects of its work, from the
+building’s open design to recruitment of local elderly people to
+come in and participate in research.
+
+“Involving people who benefit from the skills you’re teaching
+is critical, rather than just presenting people with guidelines like
+WCAG and using that in an assessment”, Sloan said.
+
+Paul Edwards, programme manager for Channel 4’s online
+coverage of the upcoming Paralympic Games, agreed that
+sticking too rigidly to accessibility guidelines can have a
+detrimental effect on your audience. Flexibility is crucial: “The
+most important thing we’ve been trying to do is make sure our
+process is flexible enough to react when a situation occurs.
+When you’re looking at guidelines like WCAG, sticking too
+closely to them actually blinkers you to what’s happening to
+your users.”
+
+Henny Swan, senior accessibility specialist for iPlayer and
+mobile at BBC Technology, said modern developers should
+ensure a website responds to the device it is being viewed on,
+including smartphones and mobile devices: “responsive
+design”.
+
+However, designing accessible content for mobile devices is
+still tough due to a lack of authoritative guidelines on the
+subject, Swan said. This led to Swan and her team at the BBC
+developing their own specialist guidelines for accessible BBC
+mobile content: “We decided to write guidelines for HTML,
+Android and iOS (the iPhone operating system), because those
+are our three biggest areas. We needed ‘device-agnostic’
+guidelines, rather than writing three different sets.”
+
+The result is ‘Mobile and tablet accessibility guidelines and
+techniques’ – an internal BBC guide for developers, designers
+and project managers when creating mobile content. Guidance
+includes ‘supporting device capabilities’, which states that
+content must try not to break specific device accessibility. An
+example of this is the ‘pinch’ zoom function on the iOS, said
+Swan, which allows users to magnify content with a small
+finger gesture on the screen. “If you’re coding in HTML you
+can suppress ability for user to do that, immediately preventing
+a lot of people being able to read content quickly and easily.
+Don’t suppress what the device allows you to do.”
+
+And you can comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=741 .
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Six Years of Accessibility Discussion.
+
+Accessify Forum has been the number one destination for
+accessibility
+discussion on the web for nearly six years. Celebrating our
+sixth birthday next month, you’ll find discussion of
+accessibility at all levels, from beginner to guru.
+
+The site has recently been redesigned and the forum system
+improved. This is still ongoing and you can join in the
+discussions.
+
+So whether you’re looking to learn more about accessibility,
+want to help others and improve on your own knowledge, or
+just to browse the archives, come and join us at:
+http://www.accessifyforum.com/
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2012 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Reporter: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 149 ends.] 
