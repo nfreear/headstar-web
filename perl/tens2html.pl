@@ -270,10 +270,9 @@ sub prn_html_close {
 }
 sub prn_html_head {
   my $title=$_[0];
-  print("<head>\n");
   print("<title>$title</title>\n");
   #iso8859-1 --> utf-8.
-  print("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />\n");
+  print("<meta charset=\"utf-8\" />\n");
   print("<meta name=\"generator\" content=\"$0 $version\" />\n");
   print("<meta name=\"dc:Creator\" content=\"$author\" />\n\n");
 
@@ -286,7 +285,6 @@ sub prn_html_head {
   print("<link rel=\"prev\" href=\"$prev\" />\n");
   print("<link rel=\"next\" href=\"$next\" />\n");
   &prn_switch_links();
-  print("</head>\n");
 }
 sub prn_switch_links {
   print("<link rel='stylesheet' media='all' href='../../includes/noscript.css' type='text/css' />\n");
@@ -304,7 +302,7 @@ sub prn_switch {
 }
 sub prn_menu {
   my $id=$_[0];
-  print("<ul id='menu'>\n");
+  print("<ul id='menu' role='navigation'>\n");
   print("<li><h3><a tabindex='2' class='Bookmark'>Menu</a></h3></li>\n");
   print("<li><a href='#toc' title='Contents for this issue'>Contents</a></li>\n");
   print("<li><a href='$home_url' accesskey='1' class='Key' title='Bulletin home'>Home</a></li>\n");
@@ -341,7 +339,7 @@ sub srch_contents {
 }
 sub prn_contents {
   my $issue=$_[0];
-  print("<div id=\"contents\">\n");
+  print("<div id=\"contents\" role=\"navigation\">\n");
   print("<h2><b class=\"Ps\">++</b>Issue $issue Contents.</h2>\n");
   print("<ol id=\"toc\">\n");
   my $item="";

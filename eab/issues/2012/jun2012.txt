@@ -1,3 +1,8 @@
+[Editor’s Note – The issue sent out earlier had the
+incorrect ‘Inbox’ section – here is the correct version with
+the new ‘Inbox’ section. Apologies!]
+
+
 ++E-ACCESS BULLETIN
 Access To Technology For All, Regardless Of Ability
 - ISSUE 149, June 2012.
@@ -28,12 +33,12 @@ website; 05: Prize Apps - smartphone innovation awards; 06:
 Parliamentary Briefing - Westminster event; 07: Inaccessibility
 Blacklist - Italian sites named and shamed.
 
-Section Two: The Inbox. 07: TV News - cost of talking sets;
-08: Education Law - schools access query; 09: Political
+Section Two: The Inbox. 08: TV News - cost of talking sets;
+09: Education Law - schools access query; 10: Political
 Problems - access to Parliamentary correspondence.
 
 Section Three: Conference report: eAccess ’12.
-10: Time To Be Creative: Following accessibility guidelines is
+11: Time To Be Creative: Following accessibility guidelines is
 not enough – organisations must instil an inclusive approach
 throughout everything they do, delegates heard at this year’s
 eAccess event. Tristan Parker reports.
@@ -254,92 +259,98 @@ Please email all contributions or responses to:
 inbox@headstar.com .
 
 
-+07: Commission Responds: Clive Lever, Diversity and
-Equality Officer at Kent County Council, wrote in to bemoan
-the apparent inaccessibility of aspects of an email newsletter
-from an organisation that should be setting the standard:
-“Please can you advise on the best way that we may be able to
-persuade the Equality and Human Rights Commission (of all
-people) to send out newsletters that conform to accessibility
-standards? For instance, three links in a row that say "read
-more" doesn't seem the best example to be setting.”
++08: TV News: Our recent discussion of talking TV sets from
+Panasonic has raised further response. Debbie Payne, customer
+services officer at Herefordshire Council, says: “I'm very
+encouraged by Panasonic's move to introduce the new talking
+TVs. However, I think their longevity will depend on supply
+and demand.
 
-After receiving the query from E-Access Bulletin, Jean Irvine
-OBE, Equality and Human Rights Commissioner, raised the
-matter internally and writes back to inform us of progress.
+“I have a Pure DAB radio and I was disappointed to learn that
+it's no longer available. Unfortunately, it's a sad fact of life that
+these accessible products are usually costly and, despite
+extensive publicity by the RNIB, the majority of blind and
+visually impaired consumers are on low incomes and unable to
+afford them.”
 
-She writes: “I have checked this with the web site manager who
-has asked me to thank you for bringing this to our attention
-[and we are] working to resolve this. We now provide an
-alternative plain text version, as the e-newsletter is sent out as a
-MIME message, in otherwords it contains a message sent in
-both plain text and HTML. Recipients receive one version or
-the other depending on how their mailbox is set up.
+Further to the issue of affordability Tara Alexander, Senior
+Manager – Innovation at RNIB, writes in to promote an
+alternative product created by TVonics, a British manufacturer
+of set top boxes with Ivona, a text-to-speech developer. The
+two have collaborated with RNIB to launch a fully accessible
+Freeview+ digital TV HD recorder usable by blind and partially
+sighted people which retails for £179.95 including VAT.
 
-“We also publish the newsletter on our website in an accessible
-format:
-http://www.equalityhumanrights.com/publications/email-
-newsletter/previous-editions/
-Short link: http://bit.ly/KdvVEw .
-
-“We are now looking at the links themselves, replacing the
-‘read more’ description with more relevant and accurate link
-text descriptions.”
+“This product might be the answer to some of your readers'
+concerns about the cost of replacing their television with one
+of the Panasonic range of talking televisions”, Alexander
+writes.
+The device can be found by searching for “TVonics” at:
+http://www.rnib.org.uk/shop/
 
 [Further comments please to inbox@headstar.com ].
 
 
-+08: Television Continuation: Phil Smalley, a reader from
-Leicestershire who is blind, writes in to add to last issue’s
-comments from reader Nigel Timbrell on a move by Panasonic
-to build text-to-speech functionality into 30 of its TV models.
-Nigel had welcomed this move, but said: “My concern would
-be how many people who need this facility are going to go out
-and purchase a brand-new TV set?”
++09: Education Law: Emma Moore of the Child Development
+Centre at Bedford Borough Council writes in to ask if anyone
+can help her determine what the legal position is on ensuring
+accessibility of schools ICT systems.
 
-Phil replies: “While I appreciate Nigel’s comments about
-existing users not having the resources to go out and purchase
-£430+ TV sets in order to benefit from the new technology,
-unfortunately, this is the way of technical advances – wouldn’t
-it be good to have “start-stop” technology fitted to your old
-banger rather than going out and purchasing a new model!
+“I’ve been asked by my manager to write to schools about the
+importance of accessibility of websites and school intranets,
+and wondered if there was a legal obligation for schools to
+provide this?”
 
-“No, the exciting thing about the Panasonic development is that
-it’s mainstream. This means those who need to purchase a new
-TV and require text to speech technology can go to the high
-street for a demonstration or purchase the best price online.
-Additionally, more exciting than a mere set-top box, the
-Panasonic range can enable sight-impaired people to record
-and retrieve programmes.
+[Responses please to inbox@headstar.com ].
 
-“Ideally, other manufacturers will follow suit and then when
-you, as a sight-impaired person, want to purchase a TV with
-text to speech, there will be far greater choice in facilities,
-quality and price.”
 
-Phil concludes: “So thank you, Panasonic, for taking the lead.
-Sadly I won’t be rushing out and purchasing at the moment as
-I’ve just given up on my speech-enabled Freeview box as
-stuttering speech, automatic turning off of audio description
-and freezing/locking up have finally got the better of me, and I
-have switched to Freesat.”
++10: Political Problems: Wendy Sharpe, a reader from
+Aylesbury in Buckinghamshire, writes in to relate a problem
+she encountered in receiving information from her MP, David
+Lidington, when she wrote to him with an enquiry about the
+government’s recent draft Communications Data Bill.
 
-Our regular correspondent Brian Gaff, who is on the committee
-of the Kingston upon Thames Association for the Blind, writes
-in to add his perspective to the debate on talking TVs – and
-talking home appliances in general.
+“I recently received an email from my MP with two
+attachments which are “.png” files [an image rather than a text
+format]”, writes Sharpe. “These files are apparently two pages
+of a letter which he sent me in response to my query, but of
+course, they are totally inaccessible to a blind user. I think you
+should know that Parliament is not providing documents which
+everyone can access, thus breaching the Equality Act 2010.”
 
-“About talking domestic appliances: the history of these is not
-a good one. I recall in the late 1970s or early 1980s, Sharp had
-a talking video. Nobody seemed to buy it so they stopped
-making it. Admittedly, the voice was rather robotic. And what
-happened to the talking DAB radio by Pure?
+After raising the issue with David Lidington’s office, however,
+she received a response which clarified that the MP had simply
+been forwarding a hard copy of a letter he had obtained from
+the minister overseeing the draft Bill, James Brokenshire.
 
-“I'd like to see the same technology as on the Panasonics used
-on stereo systems and so on. But in a few years’ time, will
-anyone still be making voice-assisted units?”
+The note from Victoria Blane, a caseworker for Mr Lidington,
+read: “I am sorry that you were not able to decipher the letter
+that I forwarded to you from James Brokenshire MP regarding
+the government's communication data proposals.
 
-Further comments please to inbox@headstar.com .
+“A number of constituents contacted Mr Lidington about this
+issue, and he subsequently wrote to the relevant Minister to
+pass on their concerns. He received a hard copy response in
+the post and, as is usual practice, constituents were forwarded a
+scanned version for their reference... I contacted the Home
+Office to request a text only version of the letter which I have
+now received. I have attached a copy and hope it will be of use
+to you.”
+
+This response was satisfactory so far as the MP is concerned,
+said Sharpe: “It clearly isn't my MP's fault that scanned
+documents are distributed in this way.”
+
+Ironically, when Sharpe tried to access the draft Bill itself, she
+was directed to a .pdf file which, when she attempted to open
+it, simply read: "empty file". The link was:
+http://www.official-
+documents.gov.uk/document/cm83/8359/8359.pdf
+
+"This is clearly a paper which has been scanned in as images,
+again inaccessible to a blind person," she said.
+
+[Further comments please to inbox@headstar.com].
 
 [Section Two ends].
 
@@ -487,4 +498,4 @@ Editorial advisor: Kevin Carey.
 
 ISSN 1476-6337.
 
-[Issue 149 ends.] 
+[Issue 149 ends.]

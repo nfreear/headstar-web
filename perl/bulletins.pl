@@ -28,11 +28,11 @@ my $url_issues="$url_stem/issues";
 my $b_parse = 1;
 #use constant B_PARSE => 1;
 use constant START_YEAR => 2000; #!2000!
-use constant START_ISSUE=> 140; #136; #128 mar 2011; #127; #119; #109 Jan2009; #95; #84; #77;   #25 Jan 2002. 13 Jan 2001. 61 Jan 2005. 70 Oct 2005.
+use constant START_ISSUE=> 149; #149 jun 2012; #128 mar 2011; #127; #119; #109 Jan2009; #95; #84; #77;   #25 Jan 2002. 13 Jan 2001. 61 Jan 2005. 70 Oct 2005.
 #my $end_issue=55;    #53, May 2004; 63, Mar 2005
 use constant TENS_ISSUE => 36;   #36, Dec 2002.
 # Release day about 20th of the month, 18.
-use constant RELEASE_MDAY => 16; #7;
+use constant RELEASE_MDAY => 25;  #16; #7;
 my @months=("January","February","March","April","May","June",
             "July","August","September","October","November","December");
 
