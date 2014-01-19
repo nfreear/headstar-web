@@ -1,5 +1,5 @@
-<!DOCTYPE html><html lang="en" dir="ltr"><head>
-  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!DOCTYPE html><html lang="en" dir="ltr">
+  <meta charset="iso-8859-1" />
   <!--meta http-equiv="Content-Language" content="en" /-->
 
   <link rel="shortcut icon" type="image/x-icon" href="http://headstar.com/site/favicon.ico" />
@@ -15,27 +15,27 @@
   <meta name="DC.identifier" content="ISSN: 1476-6337" />
   <meta name="DC.subject" content="EAB, TENS, e-access, bulletin, e-accessibility, accessibility, blind, visually impaired, RNIB, access technology, Headstar, Bunbury IS" />
   <meta name="DC.creator" content="N.D.Freear" />
-  <meta name="DC.date" content="2010-07-03" />
+  <meta name="DC.date" content="2014-01-18" />
   <meta name="eGMS.accessibility" content="eGMS.WCAG10: Double-A" />
 
-  <meta name="copyright" content="&copy; 2000-2010 Headstar Limited." />
+  <meta name="copyright" content="&copy; 2000-2014 Headstar Limited." />
   <meta name="description" content="News and research on technology for the blind and visually impaired." />
   <meta name="keywords" content="EAB, TENS, e-access, bulletin, e-accessibility, accessibility, blind, visually impaired, RNIB, access technology, Headstar" />
 
-  <link rel="stylesheet"           media="all"    href="includes/noscript.css" type="text/css" />
-  <link rel="alternate stylesheet" media="screen" href="includes/textonly.css" type="text/css" title="Text" />
-  <link rel="alternate stylesheet" media="screen" href="includes/graphic.css"  type="text/css" title="Graphic" />
-  <script src="includes/styleswitcher.js" type="text/javascript"></script>
+  <link rel="stylesheet"           media="all"    href="includes/noscript.css" />
+  <link rel="alternate stylesheet" media="screen" href="includes/textonly.css" title="Text" />
+  <link rel="alternate stylesheet" media="screen" href="includes/graphic.css"  title="Graphic" />
+  <script src="includes/styleswitcher.js"></script>
 
   <link rel="home"  href="./" />
   <link rel="help"  href="site.html#help" />
   <link rel="index" href="archive.html" title="Archive" />
   <link rel="copyright" href="site.html#rights" />
-</head>
-<body>
+
+
 <div id="Body">
 
-<div id="top">
+<div id="top" role="banner">
   <ul id="switch">
    <li><a href="site.html#access" accesskey="0" class="Key" title="[0] access key details">Help</a></li>
    <li><a href="#main" accesskey="S" class="Key" title="[S] skip navigation">skip menu</a></li>
@@ -47,8 +47,8 @@
 </div>
 
 
-<div>
-<h2 class="accesshide"><a class="Bookmark">Site Menu</a></h2>
+<div role="navigation" aria-labelledby="nav-lbl">
+<h2 class="accesshide" id="nav-lbl"><a class="Bookmark">Site Menu</a></h2>
 <ul id="menu">
   <li><a href="./"             title="[1] Bulletin Home" accesskey="1" class="Key">Home</a></li>
   <li><a href="./news.html"    title="[2] What's new"    accesskey="2" class="Key">News</a></li>
@@ -67,7 +67,7 @@
 </ul>
 </div>
 
-<div id="main">
+<div id="main" role="main">
 <!-- ==================================================================== -->
 
 <div id="bulletin">
@@ -93,7 +93,7 @@
 <!-- ==================================================================== -->
 </div>
 
-<p id="foot">&copy; 2000-2011 Headstar Limited.<br />
+<p id="foot" role="contentinfo">&copy; 2000-<span class="y">2013</span> Headstar Limited.<br />
   <a href="http://www.headstar.com/eab">headstar.com/eab</a> |
   <a href="./site.html#credit" title="Design credits">credits</a>.
 </p>
@@ -101,7 +101,7 @@
 <p id="totop"><a href="#top" title="Goto top of page">To the top.</a></p>
 
 </div><!--id="Body"-->
-<script type="text/javascript">
+<script>
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-7941798-1']);
   _gaq.push(['_trackPageview']);
@@ -112,5 +112,14 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-</body>
+<script>
+(function () {
+
+  var el = document.querySelector("#foot .y"),
+    year = 1900 + (new Date()).getYear();
+
+  el.innerHTML = year;
+
+})();
+</script>
 </html>

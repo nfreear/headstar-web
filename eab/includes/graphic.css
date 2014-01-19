@@ -1,7 +1,7 @@
 /**
  * Title: E-Access Bulletin web - Graphical style sheet (CSS2).
  * URL:   http://www.headstar.com/eab/includes/graphic.css
- * Rights: Copyright 2004-2009 N.D.Freear.
+ * Rights: Copyright 2004-2014 N.D.Freear.
  */
 body, #Body {
   /*font-weight: bold;*/
@@ -14,7 +14,7 @@ p,li,table,address, h4 { font-size: 1.06em; }
 
 .accesshide {
   position: absolute;
-  left: -999em;
+  left: -9999px;
 }
 
 /* Undo 'textonly' styles. */
@@ -29,12 +29,12 @@ p,li,table,address, h4 { font-size: 1.06em; }
 #eab #main { margin-top: 3%; }
 a {
   color:      #640a64; /* #862c86 */
-  background: #fff;
+  background: #fbfbfb;
   text-decoration: none;
 }
 a:hover, a:focus, a:active {
   color:      #900;
-  background: #fff;
+  background: #fbfbfb;
 }
 #main a:hover, #foot a:hover { text-decoration: underline; }
 #main a.Tab:hover { text-decoration: none; }

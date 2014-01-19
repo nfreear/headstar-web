@@ -1,18 +1,18 @@
 /**
  * Title: 'No script' base E-accessibility Stylesheet (CSS2).
  * URL:   http://www.e-accessibility.com/includes/noscript.css
- * Rights: Copyright 2003-07-23 2006-10-18 Nick, Bunbury IS.
+ * Rights: Copyright 2003-07-23 2014-10-18 Nick Freear.
  */
 @import "textonly.css";
 
 @media screen
 {
   body, #Body {
-    color:       #000;
-    background:  #fff;
-    font-family: Arial, Helvetica, Geneva, sans-serif;
+    color:       #333;
+    background:  #fbfbfb;
+    font: 1em Arial, Helvetica, Geneva, sans-serif;
   }
-  pre { font-family: Arial, Helvetica, Geneva, sans-serif; font-weight: normal; font-size: 1.05em; }
+  pre { font: 1.05em Arial, Helvetica, Geneva, sans-serif; font-weight: normal; }
   p, address, #main li { line-height: 1.3em; }
   a img { border: none; }
   address { font-style: normal; letter-spacing: .05em; }
