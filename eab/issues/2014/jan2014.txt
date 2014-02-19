@@ -1,0 +1,331 @@
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 164, January 2014.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the end).
+
+
+++Issue 164 Contents.
+
+01: Firm in “revolutionary” move to give away £600 screenreader
+- GW Micro cuts deal with Microsoft for free distribution of Window-Eyes.
+
+02: Is EPUB the most accessible format? One Voice debate
+- Campaign group asks which documents are easiest to use.
+
+03: Practitioner heralds ‘new phase’ of digital learning for disabled children
+- Access devices offer boost for students with the most complex difficulties.
+
+News in Brief: 04: Closed Wallet - Bitcoin access complaint;
+05: Innovation Octet - government supports learning technologies; 06: Generation Gap - strategies to help older people online.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Eye Control – iPad navigation query; 08: Open Defence:
+free assistive software fights its corner.
+
+Section Three: Focus - Airline Check-In.
+09: Are airline check-in kiosks onboard with accessibility?
+Tristan Parker reports on a new lawsuit filed by a US charity against allegedly weak government regulation.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Firm in “revolutionary” move to give away £600 screenreader.
+
+In a deal described as “a huge step forward” for blind computer users, the developer of one of the world’s most sophisticated text-to-speech screenreaders has announced it is now giving away for free its previously chargeable software.
+
+US-based software firm GW Micro ( http://www.gwmicro.com
+) has revealed it has reached a deal with Microsoft – on unspecified terms – to provide people who are blind, visually impaired or print disabled with a free licence to use its Window-Eyes screen reader.
+
+Window-Eyes is a highly-regarded screen reader first released in 1995, enabling people with sight problems or other print disabilities to access computers running Microsoft Windows by reading text on the screen as synthesised speech. The software is also designed to help people access major programmes that run on Windows such as Microsoft Office, with versions available in more than 15 languages.
+
+Until this month, users had to pay hefty licence fees to use the software – in the UK, for example, a single licence had cost about £600. Under the new “partner” deal, however, Windows users who own a licensed version of Microsoft Office 2010 or later can download Window-Eyes for free.
+
+Disability organisations in the UK and US have welcomed the move, while raising questions about its detail.
+
+Steve Griffiths, digital accessibility development officer at Royal National Institute of Blind People (RNIB), told E-Access Bulletin the move could help level the playing field between Windows and Apple computers in terms of accessibility. Until now the fact that Apple machines speak to the user “out of the box” through the built-in VoiceOver screenreader have led to many blind people favouring them over Windows devices, but this could now change, Griffiths said.
+
+“It is a big step forwards in terms of Microsoft Office – people tout Apple as accessible but only way they did this was to drastically simplify [the Apple office software suite] iWork so it works better with VoiceOver. Because it was simplified however, it is no longer comparable with Microsoft Office.
+
+“Maybe Apple will now start building more accessible functionality back in [to iWork] but to my mind, Microsoft has now jumped ahead. It’s a huge step forward.”
+
+The move could also have significant repercussions in the wider market for screenreaders, which split roughly into two
+types: more expensive tools such as SuperNova from UK- based Dolphin Computer Access and JAWS from US firm Freedom Scientific (and formerly, Window-Eyes itself), alongside already existing free screenreaders which have tended to be less sophisticated such as NVDA from Australian firm NV Access and Thunder from UK-based Screenreader.net, he said.
+
+“It will be really interesting to see how it affects other commercial products like SuperNova and JAWS and other low cost or free ones, but how it will pan out depends on how many people do actually put in the work and learn how to use Window-Eyes, because it is a bit different from other products,” Griffiths said.
+
+Although GW Micro are offering free installation support by email or phone, and the software manuals and tutorials are available online, all other technical support must now be purchased. Another small potential extra cost may come from the third-party voice synthesiser programmes that have often been packaged with Window-Eyes: the free version comes with the open source synthesiser eSpeak or Windows’ own default text-to-speech voices, but many users will prefer to use alternatives, Griffiths says.
+
+“Most people in my experience don’t like eSpeak as it is quite robotic, while most other ones now are easy on the ear.” Some people will be happy to put up with eSpeak for free, though it does not cost much to buy a better voice separately, he says – users can pay typically between £25 and £50 for synthesisers such as Eloquence, Vocalizer or IVONA.
+
+As to why GW Micro has struck the new partnership deal with Microsoft to give away its flagship software, and on what terms, Griffiths said no details have emerged from the US.
+However he said observers have speculated that either sales of Window-Eyes have been so poor recently that GW Micro are trying a new business model based on selling support and training; or that Microsoft has paid a sum of money for the benefits the deal brings to Windows.
+
+Roger Wilson-Hinds, founder of Screenreader.net which developed the first free screen-reader Thunder which is still available but is no longer being renewed, said the Window- Eyes announcement was “brilliant news.”
+
+“Our business is getting free PC software to blind people worldwide. We have played a part and this is a huge step forward alongside NVDA and the Apple Mac story” Wilson- Hinds said. “Over the past seven years, we have had more than
+400,000 downloads of Thunder, and Window-Eyes is superior to Thunder.
+
+“So it is all good news, so long as GW Micro continue to invest in and update their offering to keep abreast with Windows advances. If the money from Microsoft tempts them away from their mission and vision and they stop changing and innovating, that would be sad.”
+
+The announcement has also been welcomed by the National Federation of the Blind in the US, whose president Marc Maurer described it as “revolutionary”.
+
+“For the first time, users of Microsoft Office 2010 or later will not have to pay hundreds of dollars… to obtain an accessibility solution,” Maurer said. However, he said the battle for computer access by screenreaders was far from over, as every other software developer must ensure their own packages are compatible with access technologies.
+
+“The usefulness of any screen reader product, of course, is limited by the degree to which other products are compatible with it,” he said. “Developers of mainstream technology, as well as the businesses, institutions, and governmental entities that use it, must continue to do their part by making sure that screen reader users have full access to what they produce, procure, and deploy.”
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=974 .
+
+
++02: Is EPUB the most accessible format? One Voice debate.
+
+The EPUB electronic book format is the most accessible digital document format, according to a new paper designed to open a debate on accessibility of all mainstream document formats by people with disabilities.
+
+The debate ( www.onevoiceict.org/node/130 ) – intended to lead to a further paper to be published in the summer – has been launched by One Voice for Accessible ICT Coalition, an umbrella group for organisations supporting access to digital technology by people with disabilities.
+
+“At present digital documents are sent out in a variety of formats including doc, docx, pdf, EPUB, daisy, MP3 and MP4 and it is not clear what the accessibility pros and cons of these different formats are and if one should be the preferred option”, Peter Abrahams, accessibility leader at Bloor Research and author of the paper, said this week.
+
+According to the paper, EPUB documents can be accessed by most people including users of special access technology, with the exception of sign language readers who will need video files. EPUB documents can also be easily converted into other formats, it says. However, "The present issue is that not everyone has ePub readers installed on their device. Also not everyone has an ePub creator tool", the paper says.
+
+“There are a wealth of document formats: so this is an opportunity to review those and recommend what the most accessible format is, to try and increase accessibility in document publication”, Nigel Lewis, chair of One Voice, told E-Access Bulletin this week.
+
+“The initial recommendation of the EPUB format is perhaps a surprise, since most people might consider pdf or .doc as the most accessible default formats”, Lewis said. “But we wanted a controversy – to stir a debate among our membership”.
+
+EPUB ( http://idpf.org/epub ) is an open electronic book standard developed by the International Digital Publishing Forum (IDPF), an international publishing industry body whose UK members include Cambridge University Press, Oxford University Press, Open University and RNIB.
+
+As well as looking at the overall accessibility of each format, the One Voice debate would examine the best ways of structuring documents in all major formats, Lewis said. “Most people still don’t structure common documents in an accessible way,” he said.
+
+Alongside the new work, One Voice is launching a membership drive to expand its network of partners collaborating to improve digital accessibility, Lewis said.
+Membership of the group currently stands at about 50 organisations and individuals including E-Access Bulletin publisher Headstar. Full members must pay an annual fee to join, and new members include Barclays banking group.
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=976 .
+
+
++03: Practitioner heralds ‘new phase’ of digital learning for
+disabled children.
+
+New technologies such as tablet computers and techniques such as online data analysis are heralding a new age of customised learning assistance for young people who are severely disabled, a practitioner has told E-Access Bulletin.
+
+“We’re entering into a really interesting phase where technology is starting to make massive changes in the way we teach and assess children with the most complex difficulties, allowing us to give them independence and access that we haven’t seen before”, said Sandra Thistlethwaite, specialist speech and language therapist at Oldham-based firm Inclusive Technology ( http://www.inclusive.co.uk ).
+
+“For example, we have seen some extremely interesting results using eye gaze technologies with children with complex difficulties, and in using iPads and tablets that people now have as a mainstream device.
+
+“With a good scientific grounding – the right content, structure and theory behind what people are doing with those devices – technology opens up massive potential for health, therapy and learning.”
+
+Thistlethwaite was speaking after one of Inclusive’s software packages, ChooseIt! Maker 3, won the ICT Special Educational Needs Solutions category at last week’s 16th Bett Awards for education resources and companies.
+
+The software allows teachers or parents to help students create and play personalised learning materials. It uses photographs and sounds – including those taken or recorded by the user – with symbols and text to build activities, helping learners who respond best to familiar sights and sounds including those with autism spectrum disorders, communication difficulties, language impairment, developmental disabilities, Down’s Syndrome, Aphasia and traumatic brain injury.
+
+Desktop computers, tablets, touch screens, interactive classroom displays, switches and eye gaze devices can be used with the software, and materials created can be played online or downloaded to mobile, playable offline.
+
+Because the system automatically records learners' progression, and online activities can be shared between users, a new world of analysable data is being built up that could help not only to improve future products but to determine which interventions work for which children, for the good of all, Thistlethwaite said.
+
+“We are looking at undertaking data analytics over a range of products. We are still at very early stages of looking at how teachers and children are using our software, and it will also give a chance to see how children are learning, what they are looking at, what access methods are used.
+
+“Eventually we plan to have data research tools that would inform education, communication and health, as well as real feedback and real data to inform our practice and improve future products.”
+
+The Bett awards are co-hosted by education suppliers’
+association BESA with the organisers of education technology event Bett.
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=978 .
+
+
+++News in Brief:
+
++04: Closed Wallet: A blind user of the controversial virtual
+currency Bitcoin has complained that wallet software designed by third-party developers to store the currency is inaccessible to visually impaired users. Michael Staffen highlighted the problem on the popular discussion platform reddit, receiving almost 200 comments, including one from a developer at Bitcoin wallet maker MultiBit, inviting Staffen to become part of the testing group for future versions of the software.
+
+Short link: http://bit.ly/1bxIMxg
+
+Full link:
+http://www.reddit.com/r/Bitcoin/comments/1ufacn/bitcoin_wall
+ets_are_inaccessible_for_blind_people/
+
+
++05: Innovation Octet: Eight technology-focused projects to
+help persons with disabilities will be brought to life with
+£500,000 of government funding, as part of two competitions managed by inclusive technology advisory service Jisc TechDis. The first competition, ‘Ready steady STEM’, was aimed at opening up science, technology, engineering and mathematics to disabled learners, while the other, ‘Good to go’, aims to help people access information in unfamiliar or challenging environments. The four winning bidders of each of the two competitions – part of the government’s Small Business Research Initiative – include university departments and a systems design company. Full details of all eight projects will be announced shortly.
+
+Short link: http://bit.ly/1dTIQIg
+
+Full link:
+http://www.jisctechdis.ac.uk/techdis/news/detail/2014/sbriresult
+s
+
+
++06: Generation Gap: Some 78% of people in London aged
+over 75 have never used the internet, with a total of 661,000 people over the age of 55 in the capital still not online, according to Office of National Statistics data cited in a new report from Age UK London. The ‘Wealth of the web’ report offers recommendations for getting more older people online including local government-funded computer training, and recruiting older people with existing computer skills as ‘digital champions’ to help and inspire others:
+
+Short link: http://bit.ly/1bs1bvn
+
+Full link: http://www.ageuk.org.uk/london/news--
+campaigns/wealth-of-the-web/
+
+[Section One ends].
+
+
+++Sponsored Notice: Bee Communications
+- Specialist Providers of Captioning.
+
+Bee Communications has joined the Ai-Media group and is now able to offer classroom, lecture, meeting or event captioning on the game-changing Ai-Live platform. Real-time captions are streamed to a web-enabled device, and a transcript can also be provided after each session. The system is optimised for tablet use, with significant improvements to dictionary and transcript functionality, enhanced security, and an accessible caption viewer including dyslexic fonts and optimised colour palettes.
+
+Captioning helps people learn and interact by providing equality of access to live content. For more information, please
+contact:
+beth.abbott@ai-live.com .
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL, Easy Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk) Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
++07: Eye Control: Alick Mackenzie of Enabled City
+(www.enabledcity.com) – a company which supported the travel information on the website of our recent conference eAccess 13 – writes in to ask for information to help the father of a friend. He said his friend had “asked about software for his dad who has multiple sclerosis and when having tough days has very limited movement with his head, making it impossible to control a computer or iPad.
+
+“Do you know of any retina software he could use to navigate his iPad?”
+
+Readers should please send any information which may help
+to:
+inbox@headstar.com .
+
+
++08: Open Defence: Fernando Botelho, founding partner of the
+open source assistive technology software group F123 ( http://F123.org/en ), has responded online to our report of a debate at our recent conference eAccess13 on open source IT access solutions (see E-Access Bulletin, November 2013, section two – ‘eAccess 13 debate: the price of software freedom’). The debate covered a number of potential challenges to the development of free assistive software, including a perceived lack of cross-platform support and issues with licensing and sustainable funding.
+
+“I think it is inaccurate to say that open source solutions tend to work only on one platform, as opposed to proprietary systems which are more widely available”, Botelho said. “In both cases there are examples of portability, but I believe there are way more examples that are open source such as Dasher and eSpeak, which work in everything from cell phones to tablets and computers.
+
+“Licensing is also not such a big issue. It is only a problem for companies that wish to get the public relations credit of free software without paying the GPL price of decentralised control.
+
+“Finally, projects such as [free screenreader software project] NVDA and F123… need support to scale up, but do not need any validation beyond the feedback they already receive from happy users. The proprietary software model requires expenditures that are unsustainable, so the government needs the free and open source community as much or more than this community needs the government.”
+
+Readers can read our original story and continue the debate at:
+http://www.headstar.com/eablive/?p=958
+
+[Section Two ends].
+
+
+++Sponsored notice: Audio book mysteries to relax and enjoy
+
+More and more people are using audio books to relax, and to develop and stimulate their imaginations. My name is Donna J.
+Jodhan and since 2010 I have been using my audio mysteries to help thousands from around the world to do just that – for pennies at a time.
+
+I am an author who is blind. My audio mystery titles include ‘Birthday Party at the Beach’ [plot summary follows]: It was supposed to have been a happy occasion – yet one of the guests ended up being dead. She just got into the wrong things at the wrong time and before she knew it, it was too late to run.
+But why did Dr. Jan Bearstow have to die? [plot summary ends] Other titles include ‘The Million Dollar Mansion’, ‘The Kidnapper’s Kid’ and many more.
+Visit www.donnajodhan.com to learn more, subscribe to my monthly newsletter or buy the audio mysteries direct at:
+www.donnajodhan.com/store.html .
+
+[Sponsored notice ends]
+
+
+++Section Three: Focus
+- Airline Check-In.
+
++09: Are airline check-in kiosks onboard with accessibility?
+by Tristan Parker
+
+Readers who have travelled by air in the past few years are likely to have come across new technologies designed to enhance the convenience of travel such as automated kiosks where people can check in without queuing for hours in a barely-moving queue of bored passengers.
+
+As so often with new technologies, however, it seems that their accessibility for people with disabilities was not always considered when they were first being developed. And now, in the US, the issue is about to hit the courts.
+
+Earlier this month, US-based charity and campaigning organisation the National Federation of the Blind (NFB) filed a lawsuit against the country’s Department of Transportation claiming the department’s new regulations on the accessibility of airport check-in kiosks breach discrimination legislation.
+
+The law the NFB claims has been violated is the Air Carrier Access Act (ACAA), passed in 1986 to ban discrimination against air travel passengers with disabilities. As part of its duties to comply with this act, the DoT issued the new accessibility regulations which came into effect in December 2013. However, the NFB claims the new rules do not go far enough, and hence do not comply with the law.
+
+So, what is the detail of the federation’s case?
+
+The regulations are split into two separate sections. The first covers website accessibility, requiring airlines to make all public-facing content on their websites compliant with level ‘AA’ of the international World Wide Web Consortium’s Web Content Accessibility Guidelines (WCAG) 2.0 by 12 December
+2016 – three years after the regulations took effect.
+
+But although the NFB did express frustration back in November at what they called an “overly generous” time period back for website improvements, they are not challenging this timescale in the courts – in fact, their current legal action relates to the second part of the DoT regulations, regarding airline check-in kiosks.
+
+This states that at least 25% of all existing check-in kiosks in an airport must be made accessible to disabled passengers by December 2023, including the display screen, inputs and outputs, instructions and floor space. However this is a timescale which the federation does believe is so long as to be unreasonable.
+
+It claims that offering a compliance period as long as 10 years means that the DoT is failing to implement the ACAA as it was intended, and is therefore breaking the law.
+
+In a statement explaining the decision to take legal action, NFB president Marc Maurer said that the technology to make airline check-in kiosks accessible to visually impaired passengers is “readily available” and is already in use in bank cash machines and other types of kiosk across the US. “The Department of Transportation violated the law by allowing continued discrimination against blind passengers based on spurious assertions by the airline industry that making kiosks accessible will cost too much and take a decade”, Maurer said.
+
+The NFB has also published details of how it says kiosks can be more quickly made accessible in the same way as bank machines and other devices, such as: “affixing Braille labels, installing headphone jacks and adding speech software that provides audio prompts to the user.”
+
+As yet, there has been no word on how – or if – any court action might proceed, or any response from the DoT. But this is not the first time that the NFB have pursued legal action over this issue. In 2011, the charity filed a lawsuit against Las Vegas McCarran International Airport on behalf of four blind passengers, claiming its self-service kiosks were inaccessible due to the visual-only instructions on their screens.
+
+As in so many sectors, website accessibility is also an ongoing issue. In 2012 the Royal National Institute of Blind People
+(RNIB) sued low-cost airline bmibaby.com (now no longer active), claiming that customers with sight-loss were unable to use the company’s website to search for and book flights, as it was only possible to do so using a mouse.
+
+Several months after initiating legal action, RNIB reported that bmibaby.com had made changes to its website which improved its accessibility, enabling visually impaired customers to book flights online, and withdrew its case.
+
+So the new action keeps up the pressure on the airline industry:
+legal action may not be frequent, but it does keep coming, and organisations representing disabled travellers will continue to push for governments to fully implement their own anti- discrimination laws.
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=980 .
+
+
+[Section Three ends]
+
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination for accessibility discussion. The “site critiques” section has helped hundreds of people improve their websites, with members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from beginner to guru. So whether you’re looking to learn more about accessibility, want to help others and improve on your own knowledge, or just to browse the archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email eab-subs@headstar.com with 'subscribe eab' in the subject header. You can list other email addresses to subscribe in the body of the message. Please encourage all your colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2014 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Associate Editor: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 164 ends.] 
+

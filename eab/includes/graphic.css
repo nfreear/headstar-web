@@ -62,10 +62,15 @@ a:hover, a:focus, a:active {
   height:  93px;
   float:   left;
 }
-#switch {
+#switch, #search {
   margin:  1%;
   float:   right;
 }
+.pg-search #search{ display:none; }
+#search{ margin: 9px; }
+input{ font-size: .95em; }
+form.gsc-search-box input,
+#search [type=submit]{ font-size: 1.05em; }
 
 blockquote { margin: 4pt; }
 ul#menu, #totop {

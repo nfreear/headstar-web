@@ -28,7 +28,7 @@ my $src="../eab_base/";
 
 my $base="__E-ACCESS__";
 my @files=("index","about","archive","contact","language1",
-            "news","news-archive","private","site","subs");
+            "news","news-archive","private","site","subs","search");
 my $ext="html";
 
 my $B_ARCHIVE=0;  #1.
