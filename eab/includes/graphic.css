@@ -69,8 +69,7 @@ a:hover, a:focus, a:active {
 .pg-search #search{ display:none; }
 #search{ margin: 9px; }
 input{ font-size: .95em; }
-form.gsc-search-box input,
-#search [type=submit]{ font-size: 1.05em; }
+#search [type=submit]{ font-size: 1.1em; }
 
 blockquote { margin: 4pt; }
 ul#menu, #totop {
@@ -162,5 +161,6 @@ ol.Archive, ul.Archive, ul#notes { list-style: circle; }
 #eab h1, #eab h2, #eab h3 { text-transform: capitalize; }
 
 /* Homepage, 'current' link */
-#toCurrent { padding-bottom: .4em; letter-spacing: .05em; }
+.pg-index #bulletin li { margin: .4em 0; }
+#toCurrent { font-weight: bold; letter-spacing: .05em; }
 

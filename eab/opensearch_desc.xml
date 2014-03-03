@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>E-Access Bulletin</ShortName>
+  <Description>Search the EAB archive and the EAB Live blog for web accessibility topics. (uses Google Custom Search).</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Language>en-gb</Language>
+  <AdultContent>false</AdultContent>
+  <Image width="16" height="16">http://headstar.com/favicon.ico</Image>
+  <Url type="text/html" template="http://headstar.com/eab/search.html?q={searchTerms}"/>
+  <!--
+  <Url type="text/html" template=
+"http://www.google.com/cse?cx=001222343498871500969%3A_bdc-eyvq4o&amp;cof=FORID%3A11&amp;safe=active&amp;q={searchTerms}"/>
+  <Url type="text/html" template="http://dl.dropbox.com/u/3203144/search/cse.html?q={searchTerms}"/>
+  <moz:SearchForm>http://google.com/cse/home?cx=001222343498871500969:_bdc-eyvq4o</moz:SearchForm>
+  -->
+  <moz:SearchForm>http://headstar.com/eab/search.html</moz:SearchForm>
+</OpenSearchDescription>

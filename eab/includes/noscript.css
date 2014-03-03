@@ -47,3 +47,25 @@
 .adr .region, .adr .postal-code { display: inline; }
 
 .vhide { display: none; }
+
+
+/* Google custom search.
+*/
+body .gsc-control-cse,
+body .gsc-control-cse .gsc-table-result,
+body form.gsc-search-box {
+  font-size: .96em;
+}
+body .gsc-control-cse .gs-result .gs-title *,
+form.gsc-search-box input {
+  font-size: 1.03em;
+}
+body .gs-webResult div.gs-visibleUrl,
+body .gs-webResult.gs-result a.gs-title:link,
+body .gs-webResult.gs-result a.gs-title:link b {
+  color: #640a64;
+}
+body .gs-webResult.gs-result a.gs-title:visited,
+body .gs-webResult.gs-result a.gs-title:visited b {
+  color: #900;
+}
