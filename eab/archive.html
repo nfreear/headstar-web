@@ -3,6 +3,9 @@
   <!--meta http-equiv="Content-Language" content="en" /-->
 
   <link rel="shortcut icon" type="image/x-icon" href="http://headstar.com/site/favicon.ico" />
+  <link rel="search" title="Search" href="opensearch_desc.xml"
+    type="application/opensearchdescription+xml" />
+
   <link rel="meta" href="http://headstar.com/eab/labels.rdf" type="application/rdf+xml" title="ICRA labels" />
   <meta name="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://www.headstar.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0) gen true for "http://www.headstar.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))' />
 	
@@ -44,6 +47,12 @@
   </ul>
   
   <h1 id="logo"><span class="accesshide">E-Access Bulletin</span></h1>
+
+  <form id=search role=search method=get action=search.html >
+    <!--<label for=q >Search </label>--><input name=q id=q
+     aria-label="Search Bulletins" placeholder="Search bulletins"  />
+    <input type=submit value=Search />
+  </form>
 </div>
 
 
@@ -51,15 +60,22 @@
 <h2 class="accesshide" id="nav-lbl"><a class="Bookmark">Site Menu</a></h2>
 <ul id="menu">
   <li><a href="./"             title="[1] Bulletin Home" accesskey="1" class="Key">Home</a></li>
-  <li><a href="./news.html"    title="[2] What's new"    accesskey="2" class="Key">News</a></li>
+  <li><a href="http://www.headstar.com/eablive" accesskey=2 class=Key
+    title="[2] Latest accessibility news on EAB Live" >News</a>
+  <!--<li><a href="./news.html" class="Key">News</a>-->
   <li><a href="./archive.html" title="Archive of Bulletins" >Archive</a></li>
-  <li><a href="./subs.html"    title="Subscribe to the Bulletin">Subscribe</a></li>
+  <li><a href="http://www.headstar.com/eablive/?page_id=80"
+    title="Subscribe to the Bulletin" >Subscribe</a>
+  <!--<li><a href="./subs.html" >Subscribe</a>-->
   <li><a href="./language1.html" title="International versions" >International</a></li>
-  <li><a href="./about.html"   title="About the Bulletin">About us</a></li>
-  <li><a href="./contact.html" title="Contact the staff" >Contact us</a></li>
+  <li><a href="http://www.headstar.com/about"
+    title="About Headstar" >About us</a>
+  <!--<li><a href="./about.html" >About us</a>-->
+  <a href="http://www.headstar.com/site/scripts/contact.php">Contact us</a>
+  <!--<li><a href="./contact.html" title="Contact the staff" >Contact us</a>-->
   <li><a href="./private.html" title="[8] Terms and conditions" accesskey="8" class="Key">Privacy policy</a></li>
 
-  <li><a href="http://www.headstar.com/eablive" title="E-Access Bulletin Live">E-Access Live</a></li>
+  <!--<li><a href="http://www.headstar.com/eablive" >E-Access Live</a>-->
 
   <li id="headstar"><a href="http://www.headstar.com/">
     <img src="images/hedstar.gif" alt="headstar.com" /></a>
@@ -73,7 +89,7 @@
 <h2><a class="Tab">Bulletin Archive</a></h2>
 
 <ul id="notes">
-<li>Current issue;  <a href="#current">November 2013<!--December 2014--></a>.</li>
+<li>Recently archived:  <a title='Most recently archived Bulletin' href='#current'>June 2014</a>.</li>
 <li>Years;  <a href="#a2000">2000</a>,
   <a href="#a2001">2001</a>,
   <a href="#a2002">2002</a>,
@@ -87,550 +103,571 @@
   <a href="#a2010">2010</a>,
   <a href="#a2011">2011</a>,
   <a href="#a2012">2012</a>,
-  <a href="#a2013">2013</a><!--,
-  <a href="#a2014">2014</a>,-->
+  <a href="#a2013">2013</a>,
+  <a href="#a2014">2014</a>,
 </li>
 <li>Note; <a href="http://www.headstar.com/ten">
   <abbr title="Text Email Newsletter Standard">TENS</abbr></a> introduced issue 36, December 2002.</li>
 </ul>
 
-<!--<h3 id="a2014">2014</h3>
+<h3 id="a2014">2014</h3>
 <ul class="Archive">
+<li id="current">Issue 174;  <a href="issues/2014/jun2014.html">June 2014 HTML</a>, <a
+  href="issues/2014/jun2014.txt">June 2014 text</a>.
+</li>
+<li>Issue 173;  <a href="issues/2014/may2014.html">May 2014 HTML</a>, <a
+  href="issues/2014/may2014.txt">May 2014 text</a>.
+</li>
+<li>Issue 172;  <a href="issues/2014/apr2014.html">April 2014 HTML</a>, <a
+  href="issues/2014/apr2014.txt">April 2014 text</a>.
+</li>
+<li>Issue 171;  <a href="issues/2014/mar2014.html">March 2014 HTML</a>, <a
+  href="issues/2014/mar2014.txt">March 2014 text</a>.
+</li>
+<li>Issue 170;  <a href="issues/2014/feb2014.html">February 2014 HTML</a>, <a
+  href="issues/2014/feb2014.txt">February 2014 text</a>.
+</li>
+<li>Issue 169;  <a href="issues/2014/jan2014.html">January 2014 HTML</a>, <a
+  href="issues/2014/jan2014.txt">January 2014 text</a>.
+</li>
 </ul>
--->
 
 <h3 id="a2013">2013</h3>
 <ul class="Archive">
-<li id=current >Issue 166;  <a href="issues/2013/nov2013.html">November 2013 HTML</a>, <a
+<li>Issue 167;  <a href="issues/2013/nov2013.html">November 2013 HTML</a>, <a
   href="issues/2013/nov2013.txt">November 2013 text</a>.
 </li>
-<li>Issue 165;  <a href="issues/2013/oct2013.html">October 2013 HTML</a>, <a
+<li>Issue 166;  <a href="issues/2013/oct2013.html">October 2013 HTML</a>, <a
   href="issues/2013/oct2013.txt">October 2013 text</a>.
 </li>
-<li>Issue 164;  <a href="issues/2013/sep2013.html">September 2013 HTML</a>, <a
+<li>Issue 165;  <a href="issues/2013/sep2013.html">September 2013 HTML</a>, <a
   href="issues/2013/sep2013.txt">September 2013 text</a>.
 </li>
-<li>Issue 162;  <a href="issues/2013/jul2013.html">July 2013 HTML</a>, <a
+<li>Issue 163;  <a href="issues/2013/jul2013.html">July 2013 HTML</a>, <a
   href="issues/2013/jul2013.txt">July 2013 text</a>.
 </li>
-<li>Issue 161;  <a href="issues/2013/jun2013.html">June 2013 HTML</a>, <a
+<li>Issue 162;  <a href="issues/2013/jun2013.html">June 2013 HTML</a>, <a
   href="issues/2013/jun2013.txt">June 2013 text</a>.
 </li>
-<li>Issue 160;  <a href="issues/2013/may2013.html">May 2013 HTML</a>, <a
+<li>Issue 161;  <a href="issues/2013/may2013.html">May 2013 HTML</a>, <a
   href="issues/2013/may2013.txt">May 2013 text</a>.
 </li>
-<li>Issue 159;  <a href="issues/2013/apr2013.html">April 2013 HTML</a>, <a
+<li>Issue 160;  <a href="issues/2013/apr2013.html">April 2013 HTML</a>, <a
   href="issues/2013/apr2013.txt">April 2013 text</a>.
 </li>
-<li>Issue 158;  <a href="issues/2013/mar2013.html">March 2013 HTML</a>, <a
+<li>Issue 159;  <a href="issues/2013/mar2013.html">March 2013 HTML</a>, <a
   href="issues/2013/mar2013.txt">March 2013 text</a>.
 </li>
-<li>Issue 157;  <a href="issues/2013/feb2013.html">February 2013 HTML</a>, <a
+<li>Issue 158;  <a href="issues/2013/feb2013.html">February 2013 HTML</a>, <a
   href="issues/2013/feb2013.txt">February 2013 text</a>.
 </li>
-<li>Issue 156;  <a href="issues/2013/jan2013.html">January 2013 HTML</a>, <a
+<li>Issue 157;  <a href="issues/2013/jan2013.html">January 2013 HTML</a>, <a
   href="issues/2013/jan2013.txt">January 2013 text</a>.
 </li>
 </ul>
 
 <h3 id="a2012">2012</h3>
 <ul class="Archive">
-<li>Issue 154;  <a href="issues/2012/nov2012.html">November 2012 HTML</a>, <a
+<li>Issue 155;  <a href="issues/2012/nov2012.html">November 2012 HTML</a>, <a
   href="issues/2012/nov2012.txt">November 2012 text</a>.
 </li>
-<li>Issue 153;  <a href="issues/2012/oct2012.html">October 2012 HTML</a>, <a
+<li>Issue 154;  <a href="issues/2012/oct2012.html">October 2012 HTML</a>, <a
   href="issues/2012/oct2012.txt">October 2012 text</a>.
 </li>
-<li>Issue 152;  <a href="issues/2012/sep2012.html">September 2012 HTML</a>, <a
+<li>Issue 153;  <a href="issues/2012/sep2012.html">September 2012 HTML</a>, <a
   href="issues/2012/sep2012.txt">September 2012 text</a>.
 </li>
-<li>Issue 150;  <a href="issues/2012/jul2012.html">July 2012 HTML</a>, <a
+<li>Issue 151;  <a href="issues/2012/jul2012.html">July 2012 HTML</a>, <a
   href="issues/2012/jul2012.txt">July 2012 text</a>.
 </li>
-<li>Issue 149;  <a href="issues/2012/jun2012.html">June 2012 HTML</a>, <a
+<li>Issue 150;  <a href="issues/2012/jun2012.html">June 2012 HTML</a>, <a
   href="issues/2012/jun2012.txt">June 2012 text</a>.
 </li>
-<li>Issue 148;  <a href="issues/2012/may2012.html">May 2012 HTML</a>, <a
+<li>Issue 149;  <a href="issues/2012/may2012.html">May 2012 HTML</a>, <a
   href="issues/2012/may2012.txt">May 2012 text</a>.
 </li>
-<li>Issue 147;  <a href="issues/2012/apr2012.html">April 2012 HTML</a>, <a
+<li>Issue 148;  <a href="issues/2012/apr2012.html">April 2012 HTML</a>, <a
   href="issues/2012/apr2012.txt">April 2012 text</a>.
 </li>
-<li>Issue 146;  <a href="issues/2012/mar2012.html">March 2012 HTML</a>, <a
+<li>Issue 147;  <a href="issues/2012/mar2012.html">March 2012 HTML</a>, <a
   href="issues/2012/mar2012.txt">March 2012 text</a>.
 </li>
-<li>Issue 145;  <a href="issues/2012/feb2012.html">February 2012 HTML</a>, <a
+<li>Issue 146;  <a href="issues/2012/feb2012.html">February 2012 HTML</a>, <a
   href="issues/2012/feb2012.txt">February 2012 text</a>.
 </li>
-<li>Issue 144;  <a href="issues/2012/jan2012.html">January 2012 HTML</a>, <a
+<li>Issue 145;  <a href="issues/2012/jan2012.html">January 2012 HTML</a>, <a
   href="issues/2012/jan2012.txt">January 2012 text</a>.
 </li>
 </ul>
 
 <h3 id="a2011">2011</h3>
 <ul class="Archive">
-<li>Issue 143;  <a href="issues/2011/dec2011.html">December 2011 HTML</a>, <a
+<li>Issue 144;  <a href="issues/2011/dec2011.html">December 2011 HTML</a>, <a
   href="issues/2011/dec2011.txt">December 2011 text</a>.
 </li>
-<li>Issue 142;  <a href="issues/2011/nov2011.html">November 2011 HTML</a>, <a
+<li>Issue 143;  <a href="issues/2011/nov2011.html">November 2011 HTML</a>, <a
   href="issues/2011/nov2011.txt">November 2011 text</a>.
 </li>
-<li>Issue 141;  <a href="issues/2011/oct2011.html">October 2011 HTML</a>, <a
+<li>Issue 142;  <a href="issues/2011/oct2011.html">October 2011 HTML</a>, <a
   href="issues/2011/oct2011.txt">October 2011 text</a>.
 </li>
-<li>Issue 140;  <a href="issues/2011/sep2011.html">September 2011 HTML</a>, <a
+<li>Issue 141;  <a href="issues/2011/sep2011.html">September 2011 HTML</a>, <a
   href="issues/2011/sep2011.txt">September 2011 text</a>.
 </li>
-<li>Issue 138;  <a href="issues/2011/jul2011.html">July 2011 HTML</a>, <a
+<li>Issue 139;  <a href="issues/2011/jul2011.html">July 2011 HTML</a>, <a
   href="issues/2011/jul2011.txt">July 2011 text</a>.
 </li>
-<li>Issue 134;  <a href="issues/2011/mar2011.html">March 2011 HTML</a>, <a
+<li>Issue 135;  <a href="issues/2011/mar2011.html">March 2011 HTML</a>, <a
   href="issues/2011/mar2011.txt">March 2011 text</a>.
 </li>
-<li>Issue 133;  <a href="issues/2011/feb2011.html">February 2011 HTML</a>, <a
+<li>Issue 134;  <a href="issues/2011/feb2011.html">February 2011 HTML</a>, <a
   href="issues/2011/feb2011.txt">February 2011 text</a>.
 </li>
-<li>Issue 132;  <a href="issues/2011/jan2011.html">January 2011 HTML</a>, <a
+<li>Issue 133;  <a href="issues/2011/jan2011.html">January 2011 HTML</a>, <a
   href="issues/2011/jan2011.txt">January 2011 text</a>.
 </li>
 </ul>
 
 <h3 id="a2010">2010</h3>
 <ul class="Archive">
-<li>Issue 131;  <a href="issues/2010/dec2010.html">December 2010 HTML</a>, <a
+<li>Issue 132;  <a href="issues/2010/dec2010.html">December 2010 HTML</a>, <a
   href="issues/2010/dec2010.txt">December 2010 text</a>.
 </li>
-<li>Issue 130;  <a href="issues/2010/nov2010.html">November 2010 HTML</a>, <a
+<li>Issue 131;  <a href="issues/2010/nov2010.html">November 2010 HTML</a>, <a
   href="issues/2010/nov2010.txt">November 2010 text</a>.
 </li>
-<li>Issue 129;  <a href="issues/2010/oct2010.html">October 2010 HTML</a>, <a
+<li>Issue 130;  <a href="issues/2010/oct2010.html">October 2010 HTML</a>, <a
   href="issues/2010/oct2010.txt">October 2010 text</a>.
 </li>
-<li>Issue 128;  <a href="issues/2010/sep2010.html">September 2010 HTML</a>, <a
+<li>Issue 129;  <a href="issues/2010/sep2010.html">September 2010 HTML</a>, <a
   href="issues/2010/sep2010.txt">September 2010 text</a>.
 </li>
-<li>Issue 127;  <a href="issues/2010/aug2010.html">August 2010 HTML</a>, <a
+<li>Issue 128;  <a href="issues/2010/aug2010.html">August 2010 HTML</a>, <a
   href="issues/2010/aug2010.txt">August 2010 text</a>.
 </li>
-<li>Issue 126;  <a href="issues/2010/jul2010.html">July 2010 HTML</a>, <a
+<li>Issue 127;  <a href="issues/2010/jul2010.html">July 2010 HTML</a>, <a
   href="issues/2010/jul2010.txt">July 2010 text</a>.
 </li>
-<li>Issue 125;  <a href="issues/2010/jun2010.html">June 2010 HTML</a>, <a
+<li>Issue 126;  <a href="issues/2010/jun2010.html">June 2010 HTML</a>, <a
   href="issues/2010/jun2010.txt">June 2010 text</a>.
 </li>
-<li>Issue 124;  <a href="issues/2010/may2010.html">May 2010 HTML</a>, <a
+<li>Issue 125;  <a href="issues/2010/may2010.html">May 2010 HTML</a>, <a
   href="issues/2010/may2010.txt">May 2010 text</a>.
 </li>
-<li>Issue 123;  <a href="issues/2010/apr2010.html">April 2010 HTML</a>, <a
+<li>Issue 124;  <a href="issues/2010/apr2010.html">April 2010 HTML</a>, <a
   href="issues/2010/apr2010.txt">April 2010 text</a>.
 </li>
-<li>Issue 122;  <a href="issues/2010/mar2010.html">March 2010 HTML</a>, <a
+<li>Issue 123;  <a href="issues/2010/mar2010.html">March 2010 HTML</a>, <a
   href="issues/2010/mar2010.txt">March 2010 text</a>.
 </li>
-<li>Issue 121;  <a href="issues/2010/feb2010.html">February 2010 HTML</a>, <a
+<li>Issue 122;  <a href="issues/2010/feb2010.html">February 2010 HTML</a>, <a
   href="issues/2010/feb2010.txt">February 2010 text</a>.
 </li>
-<li>Issue 120;  <a href="issues/2010/jan2010.html">January 2010 HTML</a>, <a
+<li>Issue 121;  <a href="issues/2010/jan2010.html">January 2010 HTML</a>, <a
   href="issues/2010/jan2010.txt">January 2010 text</a>.
 </li>
 </ul>
 
 <h3 id="a2009">2009</h3>
 <ul class="Archive">
-<li>Issue 119;  <a href="issues/2009/dec2009.html">December 2009 HTML</a>, <a
+<li>Issue 120;  <a href="issues/2009/dec2009.html">December 2009 HTML</a>, <a
   href="issues/2009/dec2009.txt">December 2009 text</a>.
 </li>
-<li>Issue 118;  <a href="issues/2009/nov2009.html">November 2009 HTML</a>, <a
+<li>Issue 119;  <a href="issues/2009/nov2009.html">November 2009 HTML</a>, <a
   href="issues/2009/nov2009.txt">November 2009 text</a>.
 </li>
-<li>Issue 117;  <a href="issues/2009/oct2009.html">October 2009 HTML</a>, <a
+<li>Issue 118;  <a href="issues/2009/oct2009.html">October 2009 HTML</a>, <a
   href="issues/2009/oct2009.txt">October 2009 text</a>.
 </li>
-<li>Issue 116;  <a href="issues/2009/sep2009.html">September 2009 HTML</a>, <a
+<li>Issue 117;  <a href="issues/2009/sep2009.html">September 2009 HTML</a>, <a
   href="issues/2009/sep2009.txt">September 2009 text</a>.
 </li>
-<li>Issue 115;  <a href="issues/2009/aug2009.html">August 2009 HTML</a>, <a
+<li>Issue 116;  <a href="issues/2009/aug2009.html">August 2009 HTML</a>, <a
   href="issues/2009/aug2009.txt">August 2009 text</a>.
 </li>
-<li>Issue 114;  <a href="issues/2009/jul2009.html">July 2009 HTML</a>, <a
+<li>Issue 115;  <a href="issues/2009/jul2009.html">July 2009 HTML</a>, <a
   href="issues/2009/jul2009.txt">July 2009 text</a>.
 </li>
-<li>Issue 113;  <a href="issues/2009/jun2009.html">June 2009 HTML</a>, <a
+<li>Issue 114;  <a href="issues/2009/jun2009.html">June 2009 HTML</a>, <a
   href="issues/2009/jun2009.txt">June 2009 text</a>.
 </li>
-<li>Issue 112;  <a href="issues/2009/may2009.html">May 2009 HTML</a>, <a
+<li>Issue 113;  <a href="issues/2009/may2009.html">May 2009 HTML</a>, <a
   href="issues/2009/may2009.txt">May 2009 text</a>.
 </li>
-<li>Issue 111;  <a href="issues/2009/apr2009.html">April 2009 HTML</a>, <a
+<li>Issue 112;  <a href="issues/2009/apr2009.html">April 2009 HTML</a>, <a
   href="issues/2009/apr2009.txt">April 2009 text</a>.
 </li>
-<li>Issue 110;  <a href="issues/2009/mar2009.html">March 2009 HTML</a>, <a
+<li>Issue 111;  <a href="issues/2009/mar2009.html">March 2009 HTML</a>, <a
   href="issues/2009/mar2009.txt">March 2009 text</a>.
 </li>
-<li>Issue 109;  <a href="issues/2009/feb2009.html">February 2009 HTML</a>, <a
+<li>Issue 110;  <a href="issues/2009/feb2009.html">February 2009 HTML</a>, <a
   href="issues/2009/feb2009.txt">February 2009 text</a>.
 </li>
-<li>Issue 108;  <a href="issues/2009/jan2009.html">January 2009 HTML</a>, <a
+<li>Issue 109;  <a href="issues/2009/jan2009.html">January 2009 HTML</a>, <a
   href="issues/2009/jan2009.txt">January 2009 text</a>.
 </li>
 </ul>
 
 <h3 id="a2008">2008</h3>
 <ul class="Archive">
-<li>Issue 107;  <a href="issues/2008/dec2008.html">December 2008 HTML</a>, <a
+<li>Issue 108;  <a href="issues/2008/dec2008.html">December 2008 HTML</a>, <a
   href="issues/2008/dec2008.txt">December 2008 text</a>.
 </li>
-<li>Issue 106;  <a href="issues/2008/nov2008.html">November 2008 HTML</a>, <a
+<li>Issue 107;  <a href="issues/2008/nov2008.html">November 2008 HTML</a>, <a
   href="issues/2008/nov2008.txt">November 2008 text</a>.
 </li>
-<li>Issue 105;  <a href="issues/2008/oct2008.html">October 2008 HTML</a>, <a
+<li>Issue 106;  <a href="issues/2008/oct2008.html">October 2008 HTML</a>, <a
   href="issues/2008/oct2008.txt">October 2008 text</a>.
 </li>
-<li>Issue 104;  <a href="issues/2008/sep2008.html">September 2008 HTML</a>, <a
+<li>Issue 105;  <a href="issues/2008/sep2008.html">September 2008 HTML</a>, <a
   href="issues/2008/sep2008.txt">September 2008 text</a>.
 </li>
-<li>Issue 103;  <a href="issues/2008/aug2008.html">August 2008 HTML</a>, <a
+<li>Issue 104;  <a href="issues/2008/aug2008.html">August 2008 HTML</a>, <a
   href="issues/2008/aug2008.txt">August 2008 text</a>.
 </li>
-<li>Issue 102;  <a href="issues/2008/jul2008.html">July 2008 HTML</a>, <a
+<li>Issue 103;  <a href="issues/2008/jul2008.html">July 2008 HTML</a>, <a
   href="issues/2008/jul2008.txt">July 2008 text</a>.
 </li>
-<li>Issue 101;  <a href="issues/2008/jun2008.html">June 2008 HTML</a>, <a
+<li>Issue 102;  <a href="issues/2008/jun2008.html">June 2008 HTML</a>, <a
   href="issues/2008/jun2008.txt">June 2008 text</a>.
 </li>
-<li>Issue 100;  <a href="issues/2008/may2008.html">May 2008 HTML</a>, <a
+<li>Issue 101;  <a href="issues/2008/may2008.html">May 2008 HTML</a>, <a
   href="issues/2008/may2008.txt">May 2008 text</a>.
 </li>
-<li>Issue 99;  <a href="issues/2008/apr2008.html">April 2008 HTML</a>, <a
+<li>Issue 100;  <a href="issues/2008/apr2008.html">April 2008 HTML</a>, <a
   href="issues/2008/apr2008.txt">April 2008 text</a>.
 </li>
-<li>Issue 98;  <a href="issues/2008/mar2008.html">March 2008 HTML</a>, <a
+<li>Issue 99;  <a href="issues/2008/mar2008.html">March 2008 HTML</a>, <a
   href="issues/2008/mar2008.txt">March 2008 text</a>.
 </li>
-<li>Issue 97;  <a href="issues/2008/feb2008.html">February 2008 HTML</a>, <a
+<li>Issue 98;  <a href="issues/2008/feb2008.html">February 2008 HTML</a>, <a
   href="issues/2008/feb2008.txt">February 2008 text</a>.
 </li>
-<li>Issue 96;  <a href="issues/2008/jan2008.html">January 2008 HTML</a>, <a
+<li>Issue 97;  <a href="issues/2008/jan2008.html">January 2008 HTML</a>, <a
   href="issues/2008/jan2008.txt">January 2008 text</a>.
 </li>
 </ul>
 
 <h3 id="a2007">2007</h3>
 <ul class="Archive">
-<li>Issue 95;  <a href="issues/2007/dec2007.html">December 2007 HTML</a>, <a
+<li>Issue 96;  <a href="issues/2007/dec2007.html">December 2007 HTML</a>, <a
   href="issues/2007/dec2007.txt">December 2007 text</a>.
 </li>
-<li>Issue 94;  <a href="issues/2007/nov2007.html">November 2007 HTML</a>, <a
+<li>Issue 95;  <a href="issues/2007/nov2007.html">November 2007 HTML</a>, <a
   href="issues/2007/nov2007.txt">November 2007 text</a>.
 </li>
-<li>Issue 93;  <a href="issues/2007/oct2007.html">October 2007 HTML</a>, <a
+<li>Issue 94;  <a href="issues/2007/oct2007.html">October 2007 HTML</a>, <a
   href="issues/2007/oct2007.txt">October 2007 text</a>.
 </li>
-<li>Issue 92;  <a href="issues/2007/sep2007.html">September 2007 HTML</a>, <a
+<li>Issue 93;  <a href="issues/2007/sep2007.html">September 2007 HTML</a>, <a
   href="issues/2007/sep2007.txt">September 2007 text</a>.
 </li>
-<li>Issue 91;  <a href="issues/2007/aug2007.html">August 2007 HTML</a>, <a
+<li>Issue 92;  <a href="issues/2007/aug2007.html">August 2007 HTML</a>, <a
   href="issues/2007/aug2007.txt">August 2007 text</a>.
 </li>
-<li>Issue 90;  <a href="issues/2007/jul2007.html">July 2007 HTML</a>, <a
+<li>Issue 91;  <a href="issues/2007/jul2007.html">July 2007 HTML</a>, <a
   href="issues/2007/jul2007.txt">July 2007 text</a>.
 </li>
-<li>Issue 89;  <a href="issues/2007/jun2007.html">June 2007 HTML</a>, <a
+<li>Issue 90;  <a href="issues/2007/jun2007.html">June 2007 HTML</a>, <a
   href="issues/2007/jun2007.txt">June 2007 text</a>.
 </li>
-<li>Issue 88;  <a href="issues/2007/may2007.html">May 2007 HTML</a>, <a
+<li>Issue 89;  <a href="issues/2007/may2007.html">May 2007 HTML</a>, <a
   href="issues/2007/may2007.txt">May 2007 text</a>.
 </li>
-<li>Issue 87;  <a href="issues/2007/apr2007.html">April 2007 HTML</a>, <a
+<li>Issue 88;  <a href="issues/2007/apr2007.html">April 2007 HTML</a>, <a
   href="issues/2007/apr2007.txt">April 2007 text</a>.
 </li>
-<li>Issue 86;  <a href="issues/2007/mar2007.html">March 2007 HTML</a>, <a
+<li>Issue 87;  <a href="issues/2007/mar2007.html">March 2007 HTML</a>, <a
   href="issues/2007/mar2007.txt">March 2007 text</a>.
 </li>
-<li>Issue 85;  <a href="issues/2007/feb2007.html">February 2007 HTML</a>, <a
+<li>Issue 86;  <a href="issues/2007/feb2007.html">February 2007 HTML</a>, <a
   href="issues/2007/feb2007.txt">February 2007 text</a>.
 </li>
-<li>Issue 84;  <a href="issues/2007/jan2007.html">January 2007 HTML</a>, <a
+<li>Issue 85;  <a href="issues/2007/jan2007.html">January 2007 HTML</a>, <a
   href="issues/2007/jan2007.txt">January 2007 text</a>.
 </li>
 </ul>
 
 <h3 id="a2006">2006</h3>
 <ul class="Archive">
-<li>Issue 83;  <a href="issues/2006/dec2006.html">December 2006 HTML</a>, <a
+<li>Issue 84;  <a href="issues/2006/dec2006.html">December 2006 HTML</a>, <a
   href="issues/2006/dec2006.txt">December 2006 text</a>.
 </li>
-<li>Issue 82;  <a href="issues/2006/nov2006.html">November 2006 HTML</a>, <a
+<li>Issue 83;  <a href="issues/2006/nov2006.html">November 2006 HTML</a>, <a
   href="issues/2006/nov2006.txt">November 2006 text</a>.
 </li>
-<li>Issue 81;  <a href="issues/2006/oct2006.html">October 2006 HTML</a>, <a
+<li>Issue 82;  <a href="issues/2006/oct2006.html">October 2006 HTML</a>, <a
   href="issues/2006/oct2006.txt">October 2006 text</a>.
 </li>
-<li>Issue 80;  <a href="issues/2006/sep2006.html">September 2006 HTML</a>, <a
+<li>Issue 81;  <a href="issues/2006/sep2006.html">September 2006 HTML</a>, <a
   href="issues/2006/sep2006.txt">September 2006 text</a>.
 </li>
-<li>Issue 79;  <a href="issues/2006/aug2006.html">August 2006 HTML</a>, <a
+<li>Issue 80;  <a href="issues/2006/aug2006.html">August 2006 HTML</a>, <a
   href="issues/2006/aug2006.txt">August 2006 text</a>.
 </li>
-<li>Issue 78;  <a href="issues/2006/jul2006.html">July 2006 HTML</a>, <a
+<li>Issue 79;  <a href="issues/2006/jul2006.html">July 2006 HTML</a>, <a
   href="issues/2006/jul2006.txt">July 2006 text</a>.
 </li>
-<li>Issue 77;  <a href="issues/2006/jun2006.html">June 2006 HTML</a>, <a
+<li>Issue 78;  <a href="issues/2006/jun2006.html">June 2006 HTML</a>, <a
   href="issues/2006/jun2006.txt">June 2006 text</a>.
 </li>
-<li>Issue 76;  <a href="issues/2006/may2006.html">May 2006 HTML</a>, <a
+<li>Issue 77;  <a href="issues/2006/may2006.html">May 2006 HTML</a>, <a
   href="issues/2006/may2006.txt">May 2006 text</a>.
 </li>
-<li>Issue 75;  <a href="issues/2006/apr2006.html">April 2006 HTML</a>, <a
+<li>Issue 76;  <a href="issues/2006/apr2006.html">April 2006 HTML</a>, <a
   href="issues/2006/apr2006.txt">April 2006 text</a>.
 </li>
-<li>Issue 74;  <a href="issues/2006/mar2006.html">March 2006 HTML</a>, <a
+<li>Issue 75;  <a href="issues/2006/mar2006.html">March 2006 HTML</a>, <a
   href="issues/2006/mar2006.txt">March 2006 text</a>.
 </li>
-<li>Issue 73;  <a href="issues/2006/feb2006.html">February 2006 HTML</a>, <a
+<li>Issue 74;  <a href="issues/2006/feb2006.html">February 2006 HTML</a>, <a
   href="issues/2006/feb2006.txt">February 2006 text</a>.
 </li>
-<li>Issue 72;  <a href="issues/2006/jan2006.html">January 2006 HTML</a>, <a
+<li>Issue 73;  <a href="issues/2006/jan2006.html">January 2006 HTML</a>, <a
   href="issues/2006/jan2006.txt">January 2006 text</a>.
 </li>
 </ul>
 
 <h3 id="a2005">2005</h3>
 <ul class="Archive">
-<li>Issue 71;  <a href="issues/2005/dec2005.html">December 2005 HTML</a>, <a
+<li>Issue 72;  <a href="issues/2005/dec2005.html">December 2005 HTML</a>, <a
   href="issues/2005/dec2005.txt">December 2005 text</a>.
 </li>
-<li>Issue 70;  <a href="issues/2005/nov2005.html">November 2005 HTML</a>, <a
+<li>Issue 71;  <a href="issues/2005/nov2005.html">November 2005 HTML</a>, <a
   href="issues/2005/nov2005.txt">November 2005 text</a>.
 </li>
-<li>Issue 69;  <a href="issues/2005/oct2005.html">October 2005 HTML</a>, <a
+<li>Issue 70;  <a href="issues/2005/oct2005.html">October 2005 HTML</a>, <a
   href="issues/2005/oct2005.txt">October 2005 text</a>.
 </li>
-<li>Issue 68;  <a href="issues/2005/sep2005.html">September 2005 HTML</a>, <a
+<li>Issue 69;  <a href="issues/2005/sep2005.html">September 2005 HTML</a>, <a
   href="issues/2005/sep2005.txt">September 2005 text</a>.
 </li>
-<li>Issue 67;  <a href="issues/2005/aug2005.html">August 2005 HTML</a>, <a
+<li>Issue 68;  <a href="issues/2005/aug2005.html">August 2005 HTML</a>, <a
   href="issues/2005/aug2005.txt">August 2005 text</a>.
 </li>
-<li>Issue 66;  <a href="issues/2005/jul2005.html">July 2005 HTML</a>, <a
+<li>Issue 67;  <a href="issues/2005/jul2005.html">July 2005 HTML</a>, <a
   href="issues/2005/jul2005.txt">July 2005 text</a>.
 </li>
-<li>Issue 65;  <a href="issues/2005/jun2005.html">June 2005 HTML</a>, <a
+<li>Issue 66;  <a href="issues/2005/jun2005.html">June 2005 HTML</a>, <a
   href="issues/2005/jun2005.txt">June 2005 text</a>.
 </li>
-<li>Issue 64;  <a href="issues/2005/may2005.html">May 2005 HTML</a>, <a
+<li>Issue 65;  <a href="issues/2005/may2005.html">May 2005 HTML</a>, <a
   href="issues/2005/may2005.txt">May 2005 text</a>.
 </li>
-<li>Issue 63;  <a href="issues/2005/apr2005.html">April 2005 HTML</a>, <a
+<li>Issue 64;  <a href="issues/2005/apr2005.html">April 2005 HTML</a>, <a
   href="issues/2005/apr2005.txt">April 2005 text</a>.
 </li>
-<li>Issue 62;  <a href="issues/2005/mar2005.html">March 2005 HTML</a>, <a
+<li>Issue 63;  <a href="issues/2005/mar2005.html">March 2005 HTML</a>, <a
   href="issues/2005/mar2005.txt">March 2005 text</a>.
 </li>
-<li>Issue 61;  <a href="issues/2005/feb2005.html">February 2005 HTML</a>, <a
+<li>Issue 62;  <a href="issues/2005/feb2005.html">February 2005 HTML</a>, <a
   href="issues/2005/feb2005.txt">February 2005 text</a>.
 </li>
-<li>Issue 60;  <a href="issues/2005/jan2005.html">January 2005 HTML</a>, <a
+<li>Issue 61;  <a href="issues/2005/jan2005.html">January 2005 HTML</a>, <a
   href="issues/2005/jan2005.txt">January 2005 text</a>.
 </li>
 </ul>
 
 <h3 id="a2004">2004</h3>
 <ul class="Archive">
-<li>Issue 59;  <a href="issues/2004/dec2004.html">December 2004 HTML</a>, <a
+<li>Issue 60;  <a href="issues/2004/dec2004.html">December 2004 HTML</a>, <a
   href="issues/2004/dec2004.txt">December 2004 text</a>.
 </li>
-<li>Issue 58;  <a href="issues/2004/nov2004.html">November 2004 HTML</a>, <a
+<li>Issue 59;  <a href="issues/2004/nov2004.html">November 2004 HTML</a>, <a
   href="issues/2004/nov2004.txt">November 2004 text</a>.
 </li>
-<li>Issue 57;  <a href="issues/2004/oct2004.html">October 2004 HTML</a>, <a
+<li>Issue 58;  <a href="issues/2004/oct2004.html">October 2004 HTML</a>, <a
   href="issues/2004/oct2004.txt">October 2004 text</a>.
 </li>
-<li>Issue 56;  <a href="issues/2004/sep2004.html">September 2004 HTML</a>, <a
+<li>Issue 57;  <a href="issues/2004/sep2004.html">September 2004 HTML</a>, <a
   href="issues/2004/sep2004.txt">September 2004 text</a>.
 </li>
-<li>Issue 55;  <a href="issues/2004/aug2004.html">August 2004 HTML</a>, <a
+<li>Issue 56;  <a href="issues/2004/aug2004.html">August 2004 HTML</a>, <a
   href="issues/2004/aug2004.txt">August 2004 text</a>.
 </li>
-<li>Issue 54;  <a href="issues/2004/jul2004.html">July 2004 HTML</a>, <a
+<li>Issue 55;  <a href="issues/2004/jul2004.html">July 2004 HTML</a>, <a
   href="issues/2004/jul2004.txt">July 2004 text</a>.
 </li>
-<li>Issue 53;  <a href="issues/2004/jun2004.html">June 2004 HTML</a>, <a
+<li>Issue 54;  <a href="issues/2004/jun2004.html">June 2004 HTML</a>, <a
   href="issues/2004/jun2004.txt">June 2004 text</a>.
 </li>
-<li>Issue 52;  <a href="issues/2004/may2004.html">May 2004 HTML</a>, <a
+<li>Issue 53;  <a href="issues/2004/may2004.html">May 2004 HTML</a>, <a
   href="issues/2004/may2004.txt">May 2004 text</a>.
 </li>
-<li>Issue 51;  <a href="issues/2004/apr2004.html">April 2004 HTML</a>, <a
+<li>Issue 52;  <a href="issues/2004/apr2004.html">April 2004 HTML</a>, <a
   href="issues/2004/apr2004.txt">April 2004 text</a>.
 </li>
-<li>Issue 50;  <a href="issues/2004/mar2004.html">March 2004 HTML</a>, <a
+<li>Issue 51;  <a href="issues/2004/mar2004.html">March 2004 HTML</a>, <a
   href="issues/2004/mar2004.txt">March 2004 text</a>.
 </li>
-<li>Issue 49;  <a href="issues/2004/feb2004.html">February 2004 HTML</a>, <a
+<li>Issue 50;  <a href="issues/2004/feb2004.html">February 2004 HTML</a>, <a
   href="issues/2004/feb2004.txt">February 2004 text</a>.
 </li>
-<li>Issue 48;  <a href="issues/2004/jan2004.html">January 2004 HTML</a>, <a
+<li>Issue 49;  <a href="issues/2004/jan2004.html">January 2004 HTML</a>, <a
   href="issues/2004/jan2004.txt">January 2004 text</a>.
 </li>
 </ul>
 
 <h3 id="a2003">2003</h3>
 <ul class="Archive">
-<li>Issue 47;  <a href="issues/2003/dec2003.html">December 2003 HTML</a>, <a
+<li>Issue 48;  <a href="issues/2003/dec2003.html">December 2003 HTML</a>, <a
   href="issues/2003/dec2003.txt">December 2003 text</a>.
 </li>
-<li>Issue 46;  <a href="issues/2003/nov2003.html">November 2003 HTML</a>, <a
+<li>Issue 47;  <a href="issues/2003/nov2003.html">November 2003 HTML</a>, <a
   href="issues/2003/nov2003.txt">November 2003 text</a>.
 </li>
-<li>Issue 45;  <a href="issues/2003/oct2003.html">October 2003 HTML</a>, <a
+<li>Issue 46;  <a href="issues/2003/oct2003.html">October 2003 HTML</a>, <a
   href="issues/2003/oct2003.txt">October 2003 text</a>.
 </li>
-<li>Issue 44;  <a href="issues/2003/sep2003.html">September 2003 HTML</a>, <a
+<li>Issue 45;  <a href="issues/2003/sep2003.html">September 2003 HTML</a>, <a
   href="issues/2003/sep2003.txt">September 2003 text</a>.
 </li>
-<li>Issue 43;  <a href="issues/2003/aug2003.html">August 2003 HTML</a>, <a
+<li>Issue 44;  <a href="issues/2003/aug2003.html">August 2003 HTML</a>, <a
   href="issues/2003/aug2003.txt">August 2003 text</a>.
 </li>
-<li>Issue 42;  <a href="issues/2003/jul2003.html">July 2003 HTML</a>, <a
+<li>Issue 43;  <a href="issues/2003/jul2003.html">July 2003 HTML</a>, <a
   href="issues/2003/jul2003.txt">July 2003 text</a>.
 </li>
-<li>Issue 41;  <a href="issues/2003/jun2003.html">June 2003 HTML</a>, <a
+<li>Issue 42;  <a href="issues/2003/jun2003.html">June 2003 HTML</a>, <a
   href="issues/2003/jun2003.txt">June 2003 text</a>.
 </li>
-<li>Issue 40;  <a href="issues/2003/may2003.html">May 2003 HTML</a>, <a
+<li>Issue 41;  <a href="issues/2003/may2003.html">May 2003 HTML</a>, <a
   href="issues/2003/may2003.txt">May 2003 text</a>.
 </li>
-<li>Issue 39;  <a href="issues/2003/apr2003.html">April 2003 HTML</a>, <a
+<li>Issue 40;  <a href="issues/2003/apr2003.html">April 2003 HTML</a>, <a
   href="issues/2003/apr2003.txt">April 2003 text</a>.
 </li>
-<li>Issue 38;  <a href="issues/2003/mar2003.html">March 2003 HTML</a>, <a
+<li>Issue 39;  <a href="issues/2003/mar2003.html">March 2003 HTML</a>, <a
   href="issues/2003/mar2003.txt">March 2003 text</a>.
 </li>
-<li>Issue 37;  <a href="issues/2003/feb2003.html">February 2003 HTML</a>, <a
+<li>Issue 38;  <a href="issues/2003/feb2003.html">February 2003 HTML</a>, <a
   href="issues/2003/feb2003.txt">February 2003 text</a>.
 </li>
-<li>Issue 36;  <a href="issues/2003/jan2003.html">January 2003 HTML</a>, <a
+<li>Issue 37;  <a href="issues/2003/jan2003.html">January 2003 HTML</a>, <a
   href="issues/2003/jan2003.txt">January 2003 text</a>.
 </li>
 </ul>
 
 <h3 id="a2002">2002</h3>
 <ul class="Archive">
-<li>Issue 35;  <a href="issues/2002/dec2002.html">December 2002 HTML</a>, <a
+<li>Issue 36;  <a href="issues/2002/dec2002.html">December 2002 HTML</a>, <a
   href="issues/2002/dec2002.txt">December 2002 text</a>.
 </li>
-<li>Issue 34;  <a href="issues/2002/nov2002.html">November 2002 HTML</a>, <a
+<li>Issue 35;  <a href="issues/2002/nov2002.html">November 2002 HTML</a>, <a
   href="issues/2002/nov2002.txt">November 2002 text</a>.
 </li>
-<li>Issue 33;  <a href="issues/2002/oct2002.html">October 2002 HTML</a>, <a
+<li>Issue 34;  <a href="issues/2002/oct2002.html">October 2002 HTML</a>, <a
   href="issues/2002/oct2002.txt">October 2002 text</a>.
 </li>
-<li>Issue 32;  <a href="issues/2002/sep2002.html">September 2002 HTML</a>, <a
+<li>Issue 33;  <a href="issues/2002/sep2002.html">September 2002 HTML</a>, <a
   href="issues/2002/sep2002.txt">September 2002 text</a>.
 </li>
-<li>Issue 31;  <a href="issues/2002/aug2002.html">August 2002 HTML</a>, <a
+<li>Issue 32;  <a href="issues/2002/aug2002.html">August 2002 HTML</a>, <a
   href="issues/2002/aug2002.txt">August 2002 text</a>.
 </li>
-<li>Issue 30;  <a href="issues/2002/jul2002.html">July 2002 HTML</a>, <a
+<li>Issue 31;  <a href="issues/2002/jul2002.html">July 2002 HTML</a>, <a
   href="issues/2002/jul2002.txt">July 2002 text</a>.
 </li>
-<li>Issue 29;  <a href="issues/2002/jun2002.html">June 2002 HTML</a>, <a
+<li>Issue 30;  <a href="issues/2002/jun2002.html">June 2002 HTML</a>, <a
   href="issues/2002/jun2002.txt">June 2002 text</a>.
 </li>
-<li>Issue 28;  <a href="issues/2002/may2002.html">May 2002 HTML</a>, <a
+<li>Issue 29;  <a href="issues/2002/may2002.html">May 2002 HTML</a>, <a
   href="issues/2002/may2002.txt">May 2002 text</a>.
 </li>
-<li>Issue 27;  <a href="issues/2002/apr2002.html">April 2002 HTML</a>, <a
+<li>Issue 28;  <a href="issues/2002/apr2002.html">April 2002 HTML</a>, <a
   href="issues/2002/apr2002.txt">April 2002 text</a>.
 </li>
-<li>Issue 26;  <a href="issues/2002/mar2002.html">March 2002 HTML</a>, <a
+<li>Issue 27;  <a href="issues/2002/mar2002.html">March 2002 HTML</a>, <a
   href="issues/2002/mar2002.txt">March 2002 text</a>.
 </li>
-<li>Issue 25;  <a href="issues/2002/feb2002.html">February 2002 HTML</a>, <a
+<li>Issue 26;  <a href="issues/2002/feb2002.html">February 2002 HTML</a>, <a
   href="issues/2002/feb2002.txt">February 2002 text</a>.
 </li>
-<li>Issue 24;  <a href="issues/2002/jan2002.html">January 2002 HTML</a>, <a
+<li>Issue 25;  <a href="issues/2002/jan2002.html">January 2002 HTML</a>, <a
   href="issues/2002/jan2002.txt">January 2002 text</a>.
 </li>
 </ul>
 
 <h3 id="a2001">2001</h3>
 <ul class="Archive">
-<li>Issue 23;  <a href="issues/2001/dec2001.html">December 2001 HTML</a>, <a
+<li>Issue 24;  <a href="issues/2001/dec2001.html">December 2001 HTML</a>, <a
   href="issues/2001/dec2001.txt">December 2001 text</a>.
 </li>
-<li>Issue 22;  <a href="issues/2001/nov2001.html">November 2001 HTML</a>, <a
+<li>Issue 23;  <a href="issues/2001/nov2001.html">November 2001 HTML</a>, <a
   href="issues/2001/nov2001.txt">November 2001 text</a>.
 </li>
-<li>Issue 21;  <a href="issues/2001/oct2001.html">October 2001 HTML</a>, <a
+<li>Issue 22;  <a href="issues/2001/oct2001.html">October 2001 HTML</a>, <a
   href="issues/2001/oct2001.txt">October 2001 text</a>.
 </li>
-<li>Issue 20;  <a href="issues/2001/sep2001.html">September 2001 HTML</a>, <a
+<li>Issue 21;  <a href="issues/2001/sep2001.html">September 2001 HTML</a>, <a
   href="issues/2001/sep2001.txt">September 2001 text</a>.
 </li>
-<li>Issue 19;  <a href="issues/2001/aug2001.html">August 2001 HTML</a>, <a
+<li>Issue 20;  <a href="issues/2001/aug2001.html">August 2001 HTML</a>, <a
   href="issues/2001/aug2001.txt">August 2001 text</a>.
 </li>
-<li>Issue 18;  <a href="issues/2001/jul2001.html">July 2001 HTML</a>, <a
+<li>Issue 19;  <a href="issues/2001/jul2001.html">July 2001 HTML</a>, <a
   href="issues/2001/jul2001.txt">July 2001 text</a>.
 </li>
-<li>Issue 17;  <a href="issues/2001/jun2001.html">June 2001 HTML</a>, <a
+<li>Issue 18;  <a href="issues/2001/jun2001.html">June 2001 HTML</a>, <a
   href="issues/2001/jun2001.txt">June 2001 text</a>.
 </li>
-<li>Issue 16;  <a href="issues/2001/may2001.html">May 2001 HTML</a>, <a
+<li>Issue 17;  <a href="issues/2001/may2001.html">May 2001 HTML</a>, <a
   href="issues/2001/may2001.txt">May 2001 text</a>.
 </li>
-<li>Issue 15;  <a href="issues/2001/apr2001.html">April 2001 HTML</a>, <a
+<li>Issue 16;  <a href="issues/2001/apr2001.html">April 2001 HTML</a>, <a
   href="issues/2001/apr2001.txt">April 2001 text</a>.
 </li>
-<li>Issue 14;  <a href="issues/2001/mar2001.html">March 2001 HTML</a>, <a
+<li>Issue 15;  <a href="issues/2001/mar2001.html">March 2001 HTML</a>, <a
   href="issues/2001/mar2001.txt">March 2001 text</a>.
 </li>
-<li>Issue 13;  <a href="issues/2001/feb2001.html">February 2001 HTML</a>, <a
+<li>Issue 14;  <a href="issues/2001/feb2001.html">February 2001 HTML</a>, <a
   href="issues/2001/feb2001.txt">February 2001 text</a>.
 </li>
-<li>Issue 12;  <a href="issues/2001/jan2001.html">January 2001 HTML</a>, <a
+<li>Issue 13;  <a href="issues/2001/jan2001.html">January 2001 HTML</a>, <a
   href="issues/2001/jan2001.txt">January 2001 text</a>.
 </li>
 </ul>
 
 <h3 id="a2000">2000</h3>
 <ul class="Archive">
-<li>Issue 11;  <a href="issues/2000/dec2000.html">December 2000 HTML</a>, <a
+<li>Issue 12;  <a href="issues/2000/dec2000.html">December 2000 HTML</a>, <a
   href="issues/2000/dec2000.txt">December 2000 text</a>.
 </li>
-<li>Issue 10;  <a href="issues/2000/nov2000.html">November 2000 HTML</a>, <a
+<li>Issue 11;  <a href="issues/2000/nov2000.html">November 2000 HTML</a>, <a
   href="issues/2000/nov2000.txt">November 2000 text</a>.
 </li>
-<li>Issue 09;  <a href="issues/2000/oct2000.html">October 2000 HTML</a>, <a
+<li>Issue 10;  <a href="issues/2000/oct2000.html">October 2000 HTML</a>, <a
   href="issues/2000/oct2000.txt">October 2000 text</a>.
 </li>
-<li>Issue 08;  <a href="issues/2000/sep2000.html">September 2000 HTML</a>, <a
+<li>Issue 09;  <a href="issues/2000/sep2000.html">September 2000 HTML</a>, <a
   href="issues/2000/sep2000.txt">September 2000 text</a>.
 </li>
-<li>Issue 07;  <a href="issues/2000/aug2000.html">August 2000 HTML</a>, <a
+<li>Issue 08;  <a href="issues/2000/aug2000.html">August 2000 HTML</a>, <a
   href="issues/2000/aug2000.txt">August 2000 text</a>.
 </li>
-<li>Issue 06;  <a href="issues/2000/jul2000.html">July 2000 HTML</a>, <a
+<li>Issue 07;  <a href="issues/2000/jul2000.html">July 2000 HTML</a>, <a
   href="issues/2000/jul2000.txt">July 2000 text</a>.
 </li>
-<li>Issue 05;  <a href="issues/2000/jun2000.html">June 2000 HTML</a>, <a
+<li>Issue 06;  <a href="issues/2000/jun2000.html">June 2000 HTML</a>, <a
   href="issues/2000/jun2000.txt">June 2000 text</a>.
 </li>
-<li>Issue 04;  <a href="issues/2000/may2000.html">May 2000 HTML</a>, <a
+<li>Issue 05;  <a href="issues/2000/may2000.html">May 2000 HTML</a>, <a
   href="issues/2000/may2000.txt">May 2000 text</a>.
 </li>
-<li>Issue 03;  <a href="issues/2000/apr2000.html">April 2000 HTML</a>, <a
+<li>Issue 04;  <a href="issues/2000/apr2000.html">April 2000 HTML</a>, <a
   href="issues/2000/apr2000.txt">April 2000 text</a>.
 </li>
-<li>Issue 02;  <a href="issues/2000/mar2000.html">March 2000 HTML</a>, <a
+<li>Issue 03;  <a href="issues/2000/mar2000.html">March 2000 HTML</a>, <a
   href="issues/2000/mar2000.txt">March 2000 text</a>.
 </li>
-<li>Issue 01;  <a href="issues/2000/feb2000.html">February 2000 HTML</a>, <a
+<li>Issue 02;  <a href="issues/2000/feb2000.html">February 2000 HTML</a>, <a
   href="issues/2000/feb2000.txt">February 2000 text</a>.
 </li>
-<p id="stamp">Last build: 18 January 2014 22:26 <abbr title="Greenwich Mean Time">GMT</abbr>.</p>
+<li>Issue 01;  <a href="issues/2000/jan2000.html">January 2000 HTML</a>, <a
+  href="issues/2000/jan2000.txt">January 2000 text</a>.
+</li>
+</ul>
+<p id="stamp">Last build: 24 July 2014 20:14 <abbr title="Greenwich Mean Time">GMT</abbr>.</p>
 </div><!--id=bulletin-->
 
 <div id="comment"> </div>
@@ -659,10 +696,13 @@
 <script>
 (function () {
 
-  var el = document.querySelector("#foot .y"),
+  var D = document,
+    page = D.location.pathname.replace(/.+\//, '').replace(/\..+/, ''),
+    el = D.querySelector("#foot .y"),
     year = 1900 + (new Date()).getYear();
 
   el.innerHTML = year;
+  D.body.className += " pg-" + page;
 
 })();
 </script>

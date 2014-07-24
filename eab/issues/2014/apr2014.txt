@@ -1,0 +1,505 @@
+E-Access Bulletin, April 2014: Application of EU accessibility standard hits roadblock; Accessible e-book debates in UK and US.
+Sent:	 29 April 2014 19:06
+
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 167, April 2014.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the 
+end).
+
+
+++Issue 167 Contents.
+
+01: Application of EU accessibility standard hits roadblock
+- Law mandating use unlikely to be drafted until the autumn.
+
+02: Supply chain collaboration key to accessible e-books
+- Device makers must work with content producers, publishers told
+
+03: E-book access debate continues in US following legal waiver
+- US communications body offers manufacturers one-year exemption.
+
+News in Brief: 04: EGAAD Returns - Global accessibility awareness day in 
+May; 05: Government Research - what are most popular access tools? 06: Other 
+Space - pioneering restaurant in Italy.
+
+Section Two: News Analysis - European Policy and Standards.
+07: The slow arm of the law: just as it seems progress is being made in 
+drawing up European accessibility legislation, further delays appear. Dan 
+Jellinek talks exclusively to the chairman of a European technical standard 
+body at the heart of the struggle.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Application of EU accessibility standard hits roadblock
+
+Application of a new European standard on ICT accessibility is being 
+hampered by delays with an EU directive mandating its use by governments, 
+the standard's developer has told E-Access Bulletin.
+
+The 'European Standard on accessibility requirements suitable for public 
+procurement of ICT products and services in Europe' (EN 301 549) was 
+published in February by ETSI (the European Telecommunications Standards 
+Institute).
+
+Currently, however, the standard's use is not mandated by EU law, a fact 
+which is likely to delay its take-up for some time, Matthias Schneider of 
+ETSI tells E-Access Bulletin in an exclusive interview published this month 
+(see Section Two, this issue).
+
+"The EU has not yet ruled that the standard has to be used for procurement 
+at European level, and unless a state regulates that the standard has to be 
+applied by public procurers, I wouldn't expect many organisations will 
+switch over to using it", Schneider said.
+
+In 2011, the European Commission did announce it was developing a European 
+Accessibility Act covering the accessibility requirements of all goods and 
+services bought and sold in the EU, which would be likely to use the new 
+standard. However despite several false dawns, it has since been delayed 
+again and is unlikely to be drafted before the autumn, he said.
+
+In a further complication, Schneider said the standard itself might have to 
+be altered later this year to remain consistent with the revision of Section 
+508 of the US Rehabilitation Act, a US law requiring ICT purchased by public 
+bodies to be accessible. EU standards makers and technology companies are 
+keen for the two systems to be aligned to boost international trade, but 
+Section 508 has been undergoing its own review process which is lasting 
+longer than policymakers originally expected.
+
+NOTE: For the full story and a chance to comment on it online, see 'The slow 
+arm of the law', Section Two, this issue.
+
+
++02: Supply chain collaboration key to accessible e-books
+
+People in all parts of the publishing chain - from device manufacturers to 
+those developing content platforms - must work together to improve e-book 
+accessibility, delegates at the London Book Fair heard this month.
+
+"No one player in the chain between author and reader can solve the problem 
+of accessibility on their own . only through collaboration can we achieve 
+our goal of delivering the content in ways and on platforms that suit the 
+needs of particular readers", Publishers Licensing Society (PLS) chairman 
+Mark Bide told the fair's seminar on accessible e-publishing.
+
+The seminar is organised by the book industry standards body EDItEUR with 
+the Royal National Institute of Blind People and The Publishers Association.
+
+Speaking after the seminar, Bide told E-Access Bulletin the debate over 
+e-book accessibility has shifted recently towards the need to ensure 
+mainstream formats are flexible. "We are now increasingly focused on the 
+importance of making mainstream e-books as accessible as possible, although 
+we do not forget that there continues to be a need to facilitate access to 
+specialist formats where no appropriate e-book is accessible", he said.
+
+"As with any other reader, we simply need to deliver the reading experience 
+that [readers] require - whether it be large print, text-to-speech, 
+different text or background colours", Bide said.
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1013 .
+
+
++03: E-book access debate continues in US following legal waiver
+
+Meanwhile, the debate over whether all e-book readers should be made 
+accessible - including the addition of sound capabilities - is set to 
+continue in the US, after the country's Federal Communications Commission 
+granted reader manufacturers a temporary waiver to one accessibility 
+regulation.
+
+The FCC has granted a one-year waiver exempting single-purpose e-book 
+readers from a requirement in the US 21st Century Video and Communications 
+and Video Accessibility Act that equipment used for advanced communication 
+services (ACS) be accessible to people with disabilities ( 
+http://www.fcc.gov/document/coalition-e-reader-manufacturers-petition-waiver-acs-rules ) 
+.
+
+The move came in response to a petition filed last year by a coalition of 
+e-reader manufacturers -Amazon, Kobo and Sony - who said that because 
+e-readers are used almost exclusively for reading, they do not provide ACS 
+(see http://bit.ly/16gW53i ). The firms also argued that to make such 
+readers fully accessible would increase their cost and weight and decrease 
+battery life, essentially turning them into different devices more similar 
+to tablet computers.
+
+In granting the waiver, the FCC said: "Although capable of accessing ACS 
+(such as email), we conclude that this narrow class of e-readers is designed 
+primarily for reading text-based digital works, not for ACS."
+
+However, the commission limited the waiver to one year, despite the 
+coalition's request for an indefinite waiver, saying: "given the swift pace 
+at which technologies are evolving and the expanding role of ACS in 
+electronic devices, the waiver will expire on January 28, 2015."
+
+It also limited the waiver to "a distinct, narrow class of e-readers" with 
+limited features, namely those with no LCD screen; no camera; and no 
+built-in email, instant messaging or similar ACS applications. Most e-book 
+manufacturers already also make more sophisticated, tablet PC-style readers 
+which do comply with accessibility rules, and the new waiver in effect 
+separates these categories of products from each other for legal purposes - 
+for one year, at least.
+
+Nate Hoffelder, editor of the e-books blog "Digital reader" ( 
+http://www.the-digital-reader.com ), told E-Access Bulletin he expected the 
+waiver to be extended again next year, since its removal would be likely to 
+result in the simpler class of e-book readers being withdrawn from the 
+market.
+
+"By the time the new regulation was written in 2011, Amazon, Kobo... and 
+other device makers all had one or more e-readers on the market which did 
+not have sound, and thus could not comply with the regulation", Hoffelder 
+said. "That put the device makers in the position of filing for a waiver or 
+simply pulling the e-readers from the market."
+
+However the American Library Association, which has campaigned against any 
+waiver, said in a statement it was "pleased that e-reader manufacturers must 
+file for a waiver next year and re-argue their case, or make their e-reader 
+ACS features accessible to people with print and other disabilities."
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1015 .
+
+
+++News in Brief:
+
+04: EGAAD Returns: Thursday 15 May is the second annual Global Accessibility 
+Awareness Day. The day, launched last year by US-based web developer Joe 
+Devon, allows organisations and individuals working in the field worldwide 
+to pool their efforts to boost accessibility awareness. To find out about 
+events near you and join the campaign, see:
+http://www.globalaccessibilityawarenessday.org .
+
+
+05: Government Research: The UK Department for Work and Pensions (DWP) is 
+trying to profile the types of assistive technology tools in use by citizens 
+accessing the department's digital services, and would like to hear from 
+E-Access Bulletin readers who have been involved in or know of similar work. 
+In particular, managers are interested in finding out what assistive 
+software tools are the most commonly-used, and if possible an estimate of 
+the numbers of people using them in the UK. Anyone who can help with this 
+research should please contact Clare Shepherd on:
+clare.shepherd1@dwp.gsi.gov.uk
+
+
+06: Other Space:
+A restaurant accessible to deafblind people, raising awareness of disability 
+issues for everyone and showing that blind and deafblind people can live a 
+normal life, has opened in Bologna, Italy. Features include a tactile map at 
+the entrance, and regular placing of cutlery, glasses and napkins. L'Altro 
+Spazio (The Other Space) is run by the local cultural organisation Farm, 
+which had previously opened the first bar in Italy run by deaf people called 
+Untitled (Senza Nome), where people who ordered by sign language received a 
+discount. For more information on L'Altro Spazio in Italian, see:
+http://laltrospazio.com/
+https://www.facebook.com/laltrospazio.viapolese .
+
+[Section One ends].
+
+
+++Sponsored Notice: Bee Communications
+- Specialist Providers of Captioning.
+
+Bee Communications has joined the Ai-Media group and is now able to offer 
+classroom, lecture, meeting or event captioning on the game-changing Ai-Live 
+platform. Real-time captions are streamed to a web-enabled device, and a 
+transcript can also be provided after each session. The system is optimised 
+for tablet use, with significant improvements to dictionary and transcript 
+functionality, enhanced security, and an accessible caption viewer including 
+dyslexic fonts and optimised colour palettes.
+
+Captioning helps people learn and interact by providing equality of access 
+to live content. For more information, please contact:
+beth.abbott@ai-live.com .
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues, customers and 
+staff, call Adept.
+
+Formats we produce include audio, audio description, Braille, BSL, Easy 
+Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at 
+prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme, public service 
+leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: News Analysis
+- European Policy and Standards.
+
++07: The slow arm of the law
+by Dan Jellinek.
+
+For many years, the disability community in Europe has been pushing the EU 
+to write accessibility into its trade rules for ICT goods and services, not 
+least when it comes to ICT purchased by governments themselves.
+
+Similar rules have long been in place in the US, perhaps surprisingly for 
+those who like to caricature America as a champion of free trade at any 
+social cost. Now it seems, some progress is being made in Europe. But is it 
+fast enough?
+
+The 'European Standard on accessibility requirements suitable for public 
+procurement of ICT products and services in Europe' (EN 301 549) was 
+published in February by ETSI (the European Telecommunications Standards 
+Institute - http://www.etsi.org ) in association with international 
+groupings of national standards bodies CEN and CENELEC (www.cencenelec.eu). 
+It had previously been known as Mandate 376, through a drawn-out development 
+period of some seven years (see EAB, July 2012 - 
+http://www.headstar.com/eablive/?p=753).
+
+The standard aims to ensure ICT products and services - including websites, 
+software and digital devices from computers to smartphones and ticketing 
+machines - are made more accessible to people of all abilities, either 
+directly or through compatibility with assistive technologies such as 
+text-to-speech. It is accompanied by three technical reports (TR 101 550, TR 
+101 551 and TR 101 552), adding more detail.
+
+Currently, however, its use is not mandated either by EU law or national law 
+in any individual country, a fact which is likely to delay its take-up in 
+most parts of Europe for some time, Matthias Schneider, chairman of the ETSI 
+technical committee on human factors, told E-Access Bulletin.
+
+"The EU has not yet ruled that the standard has to be used for procurement 
+at European level, and unless a state regulates that the standard has to be 
+applied by public procurers, I wouldn't expect many organisations will 
+switch over to using it", Schneider said.
+
+In 2011, the European Commission did announce it was developing a European 
+Accessibility Act covering the accessibility requirements of all goods and 
+services bought and sold in the EU, which would be likely to use the new 
+standard. However despite several false dawns - including a promise last 
+year that the act would finally be drafted in the first quarter of 2014 - it 
+has since been delayed again.
+
+"So far it has still not been drafted, and there is no clear insight why the 
+commission has delayed for so long", Schneider said. "My personal opinion is 
+that it will not appear prior to the instalment of the next European 
+Commission in July or August, so I don't see anything happening before 
+October."
+
+As and when an accessibility act is passed it will cover both public and 
+private sector procurement, and it will then be possible for member states 
+to apply the new accessibility standard across all sectors, after a late 
+change to it at the urging of the European Commission, Schneider said.
+
+"The original purpose of the standard was very clearly public procurement, 
+but during its development the commission realised it could be used for many 
+more purposes", he said. "The problem was, to change its purpose halfway 
+through development would have meant asking new groups of interested parties 
+to comment, which was no longer possible. So in the end, we came up with 
+something which didn't go all the way to what the commission wanted but 
+still could also be used in other tasks such as in the private sector, 
+provided someone mandates it."
+
+The compromise reached can be seen in a small but key change in the standard's 
+title, from the previous 'Accessibility requirements for public procurement' 
+to the final 'Accessibility requirements suitable for public procurement', 
+with the new wording leaving its use open in other fields, Schneider said.
+
+In a bizarre quirk of the European standards system - that could cause 
+unnecessary expense to the unwary - the new European Standard EN 301 549 is 
+available free of charge from the ETSI website but costs a significant fee 
+to buy from some national standards bodies. The latter group includes the 
+British Standards Institution (BSI), which is charging members £134 and 
+non-members £264 to buy the same standard (its website does not specify how 
+much it charges for membership, which depends on how many standards an 
+organisation uses).
+
+It is usual for all national European standards bodies to publish their own 
+copies of European standards, numbered within their own systems - the new 
+standard is published by BSI as BS EN 301549:2014. However because different 
+standards bodies have different business models, some charge for their 
+products, while others do not. ETSI, funded by more than 700 members 
+worldwide including technology companies, does not charge for its standards.
+
+The situation is made even stranger by the fact that the British and other 
+national 'versions' of a standard such as this one do not differ in any way 
+from the pan-European version, Schneider said.
+
+"It might have a different cover page, but the content is identical because 
+they cannot change it. It is one of the puzzles that the European standards 
+situation creates every once in a while."
+
+The new standard does not create its own technical specifications from 
+scratch in most areas, since this groundwork has already been carried out 
+for existing hardware and software standards in Europe, the US and 
+elsewhere, he said.
+
+For example there are already standards specifying the range over which 
+speech volume should be adjustable; and for web accessibility the new 
+standard refers to level 'AA' of WCAG 2.0, the web content accessibility 
+guidelines produced by the international World Wide Web Consortium (W3C).
+
+Likewise for software that runs on desktop computers or other devices and 
+for documents, the requirements are harmonised with work by the W3C's 
+WCAG2ICT Task Force (http://www.w3.org/WAI/intro/wcag2ict). This means that 
+the requirements for the web, documents and software all follow the same 
+principles.
+
+The work on this standard is seen as crucial for global trade and so ETSI 
+and its partners have worked hard to ensure the accessibility requirements 
+contained in the new standard are consistent with the revision of Section 
+508 of the US Rehabilitation Act, a US law requiring ICT purchased by public 
+bodies to be accessible, Schneider said.
+
+However, this work has been complicated by the fact that Section 508 has 
+been undergoing its own review process which is lasting longer than 
+policymakers originally expected, he said.
+
+"We have tried to synchronise with the newest version of Section 508, but 
+unfortunately the newest version is not finalised, so we don't know what its 
+contents will be yet. It could be that in half a year from now, when the US 
+comes out with the newest version of Section 508, we might have to change 
+ours again so it is compatible. We hope that this will not be the case.
+
+"Harmonising our approach with US was extremely difficult and very 
+time-consuming, but we want it to be harmonised because international 
+companies such as Nokia, Motorola or Microsoft have no wish to develop 
+products designed for accessibility requirements in Europe which are 
+different to the US."
+
+Progress in some areas is happening a bit faster, however. While Europe 
+continues to wait for a general accessibility directive, one area where the 
+new standard may be put to use more quickly could be public sector websites. 
+There is a proposal to use it as part of accessibility guidelines for a new 
+public sector website accessibility directive already passing through the EU 
+law-making system
+(see E-Access Bulletin, February 2014 - 
+http://www.headstar.com/eablive/?p=986).
+
+It would also be possible for European nations to pick up on the new 
+standard individually and embed it in their own policies, Schneider says. 
+"Member states can act individually, so I would expect that some - probably 
+Nordic countries and Germany first - will mandate it in their state 
+procurement rules."
+
+As well as creating major potential social benefits, European policymakers 
+also hope the standard, and European Directives or state laws mandating its 
+use, will help boost the market for technology companies and companies 
+working in the accessible and assistive technology sectors.
+
+As Elena Santiago Cid, director general of CEN and CENELEC, said in a 
+statement: "We believe that including accessibility requirements in European 
+standards will deliver both societal and economic benefits, by helping to 
+expand the market for accessible products and services."
+
+While the workings of European law move slowly, the new standard is the 
+latest piece in a jigsaw puzzle which does seem to be finally coming 
+together.
+
+Despite the long delay in its development, and the new further wait for a 
+law mandating it to be widely used, the standard's publication - following 
+on from the directive on public sector websites - marks the beginning of a 
+breakthrough.
+
+In the US, Section 508 law is credited with driving the biggest technology 
+companies including Apple and Microsoft to pay far more attention to the 
+accessibility of their mainstream products. Step by step, Europe seems to be 
+catching up.
+
+Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1017
+
+[Section Two ends]
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination for 
+accessibility discussion. The "site critiques" section has helped hundreds 
+of people improve their websites, with members offering friendly, no 
+nonsense advice.
+
+You'll find discussion of accessibility at all levels, from beginner to 
+guru. So whether you're looking to learn more about accessibility, want to 
+help others and improve on your own knowledge, or just to browse the 
+archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++Sponsored notice: Audio book mysteries to relax and enjoy
+
+More and more people are using audio books to relax, and to develop and 
+stimulate their imaginations. My name is Donna J. Jodhan and since 2010 I 
+have been using my audio mysteries to help thousands from around the world 
+to do just that - for pennies at a time.
+
+I am an author who is blind. My audio mystery titles include 'Young, 
+good-looking, and brilliant!' [plot summary follows]:
+Who says that success does not come with a price tag? Especially when there 
+are secrets lurking in the background, and this was Senator Christian 
+Jansen's downfall. There was one who did not want the senator to run as 
+president because he would be too difficult to handle. Another wanted the 
+senator dead for breaking his promise to an oil company. And a Mafia boss 
+who felt that the senator would be dangerous to them as president.
+Who could have done it? [plot summary ends] Other titles include 'The 
+Million Dollar Mansion', 'The Kidnapper's Kid' and many more.
+
+Visit www.donnajodhan.com to learn more, subscribe to my monthly newsletter 
+or buy the audio mysteries direct at:
+www.donnajodhan.com/store.html .
+
+[Sponsored notice ends]
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email 
+addresses to subscribe in the body of the message. Please encourage all your 
+colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in 
+the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2014 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright 
+notice are included, and as long as people are always encouraged to 
+subscribe with us individually by email. Please also inform the editor when 
+you are reproducing our content. Sections of the bulletin may be quoted as 
+long as they are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Associate Editor: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 167 ends.] 

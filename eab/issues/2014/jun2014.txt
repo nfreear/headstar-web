@@ -1,0 +1,902 @@
+E-Access Bulletin, June 2014: One Voice launches election manifesto campaign; accessible gaming; ICT barriers for older people.
+Sent:	 30 June 2014 09:38
+
+++E-ACCESS BULLETIN
+
+Access To Technology For All, Regardless Of Ability
+
+- ISSUE 169, June 2014.
+
+
+
+A Headstar Publication.
+
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the 
+end).
+
+
+
+
+
+++Issue 169 Contents.
+
+
+
+01: One Voice launches 2015 election pledge campaign
+
+- Politicians urged to back accessibility, through public petition
+
+
+
+02: Accessible gaming guidelines win US award
+
+- "Milestone" for international project.
+
+
+
+03: Accessible digital tube map wins app design award
+
+- principles apply to all map-making, say developers
+
+
+
+News in Brief: 04: Be Resilient: social enterprise seeks video stories from 
+young disabled people; 05: Action Stalled - call for EU accessibility law 
+revival; 06: Human Factors - technical workshop results.
+
+
+
+Section Two: 'The Inbox' - Readers' Forum.
+
+07: Election Glitches - problems with Canadian vote; 08: Unfit Booth - plus 
+issues with UK elections; 09: Firefox Additives - more accessibility 
+features of the web browser.
+
+
+
+Section Three: Digital inclusion - Shifting barriers for older people.
+
+10: Time for a change. Why do older people make less use of computers and 
+digital services than younger people? Maybe not for the reasons you think - 
+but there are real barriers, says Ann Bajina.
+
+
+
+[Contents ends].
+
+
+
+
+
+++Section One: News.
+
+
+
++01: One Voice launches 2015 election pledge campaign
+
+
+
+A campaign urging all UK political parties to add digital accessibility 
+pledges to their 2015 election manifestos has been launched by the One Voice 
+for Accessible ICT Coalition.
+
+
+
+The coalition is an umbrella group of organisations from all sectors 
+including Leonard Cheshire Disability; BT; Middlesex University; Business 
+Disability Forum and Barclays Bank.
+
+
+
+Its new campaign has two main parts: a direct approach to the political 
+parties and a petition on the open campaigns website '38 Degrees' 
+(https://you.38degrees.org.uk/petitions/building-an-inclusive-society).
+
+
+
+It is centred on a call for "all political parties to reaffirm their 
+previously stated goals for equal opportunities and economic growth, by 
+adding a statement to their 2015 election manifestos pledging to improve 
+access by people with disabilities to digital public services, the digital 
+economy and the workplace.
+
+
+
+It is vital that action is taken in this field now, to ensure we keep on top 
+of the rising problem of digital discrimination."
+
+
+
+In particular, the coalition is asking the main UK parties to pledge if 
+elected to t review of anti-discrimination law to "see if it is fit for 
+purpose in the digital age; and to see how existing laws, guidelines and 
+standards on access to digital goods and services by disabled and older 
+people can be better enforced across all sectors."
+
+
+
+In background information published alongside the petition, the coalition 
+notes that the government has already published reasonable accessibility 
+guidelines in its Government Service Design Manual for the Digital by 
+Default Service Standard 
+(https://www.gov.uk/service-manual/user-centred-design/accessibility).
+
+
+
+However, it warns: "We are concerned that such messages are still not 
+strongly enough promoted or enforced across the whole of government. And 
+outside central government, in local government and the NHS for example, the 
+pattern of accessibility of digital services is even more patchy.
+
+
+
+"It is also a concern that the Equality and Human Rights Commission, which 
+was set up in 2006 with a mandate to "challenge discrimination", has 
+undertaken very little research, issued little guidance and carried out 
+little enforcement work in this vital area. This is a clear indicator that 
+review of anti-discrimination law enforcement in this field is urgently 
+needed."
+
+
+
+Andy Heath, a consultant on digital accessibility (http://axelafa.com) and 
+One Voice council member who is running the petition on behalf of the 
+coalition, told E-Access Bulletin this week: "Technology can serve us all, 
+or if we let it, it can serve only the few. Accessibility of digital 
+information in the UK is not a done deal, its a work in progress.
+
+
+
+"I see the support of the next government it as crucial to the progress of 
+inclusion and accessibility in the UK and making a high level manifesto 
+statement would show a commitment to that. We need the policy vision out 
+there in view so all can see, not buried in a dusty filing cabinet. Whether 
+you believe competition between people, organisations and nations, is a good 
+way to go or not, we cannot afford to waste the talents of any of our people 
+by excluding them - for their sakes and ours."
+
+
+
+Heath urged all readers of E-Access Bulletin to sign the petition (The 
+petition, Building an Inclusive Society
+
+https://you.38degrees.org.uk/petitions/building-an-inclusive-society), and 
+promote it on social media and through other channels, as the parties enter 
+the final stages of their manifesto-setting processes this summer.
+
+
+
+NOTE: Comment on this story now, on EAB Live:
+
+http://www.headstar.com/eablive/?p=1043 .
+
+
+
+
+
++02: Accessible gaming guidelines win US award
+
+
+
+A set of international guidelines to make computer games more accessible to 
+gamers with disabilities has won an award from the US-based Federal 
+Communications Commission (FCC).
+
+
+
+The Game Accessibility Guidelines 
+(http://www.gameaccessibilityguidelines.com) won the intellectual and 
+developmental disabilities category of the annual FCC Chairman's Awards for 
+Advancements in Accessibility.
+
+
+
+Launched in 2012, the guidelines were created by an international group of 
+game developers, accessibility specialists and academics and cover six 
+categories of impairment: general, motor, cognitive, vision, hearing and 
+speech, and are divided into three levels of complexity: basic, intermediate 
+and advanced.
+
+
+
+Examples of guidelines at different levels of complexity include basic: to 
+provide details of accessibility features on game packaging or website; 
+intermediate: to allow difficulty level to be altered during gameplay; and 
+advanced: to allow settings to be saved to different profiles, at either 
+game or platform level.
+
+
+
+Ian Hamilton, an independent user experience designer and consultant from 
+the UK who contributed to the guidelines' development, told E-Access 
+Bulletin: "Having a US government body make such a public statement about 
+the importance of accessible recreation is a great milestone.
+
+
+
+"It is recognition that other people are actually listening and paying 
+attention, and they do value the work that various groups of advocates for 
+game accessibility are doing to advance the field."
+
+
+
+Since launching in 2012, the guidelines have been constantly developed and 
+updated as a "living document" following feedback from gamers and 
+developers. There is a continual open call to contact the authors, to keep 
+the guidelines as inclusive as possible.
+
+
+
+Hamilton said he hopes the FCC award will help bring to prominence what 
+remains a niche area in the field of digital accessibility.
+
+
+
+"We've seen some pretty rapid development in the past couple of years, but 
+the industry is still way, way behind others", he said. "Despite the 
+progress that is being made, by far the biggest barrier to accessibility in 
+gaming is just a simple lack of awareness amongst developers. So anything at 
+all that results in more conversation about it is always a fantastic thing."
+
+
+
+In an article on the guidelines written in a previous issue of E-Access 
+Bulletin (June 2013 - see http://www.headstar.com/eablive/?p=891 ), Hamilton 
+wrote that research commissioned in 2008 by US video game developer PopCap 
+( http://bit.ly/PYsRwl ) found a higher proportion of people with 
+disabilities among gamers than in the general population.
+
+
+
+"Games can be a huge contributor to quality of life for people who have 
+limited recreation options, but they also enable access to culture and 
+socialising, and can have therapeutic benefits", the article found. "In 
+multiplayer games and virtual worlds, everyone is able to participate on a 
+level playing field, with players' first impressions of someone being based 
+on how they play the game and what they say, not on any disability they may 
+have."
+
+
+
+NOTE: Comment on this story now, on EAB Live:
+
+http://www.headstar.com/eablive/?p=1040 .
+
+
+
+
+
++03: Customisable digital tube train map wins design award
+
+
+
+A customisable version of the London Underground map for people with 
+impaired vision has won best transport app in this month's UK Mobile and App 
+Design Awards, hosted by design100 
+(http://appdesignawards.co.uk/UKAPPS14/entry_details.asp?ID=12734&Category_ID=5615).
+
+
+
+"Colourblind tube map" was created by digital agency 232 Studios - which 
+also won best small studio - working with accessibility specialist Ian 
+Hamilton, also known for his work on accessible video game guidelines (see 
+previous story, this issue).
+
+
+
+The app is based on the official tube map - "it took some tough licensing 
+negotiations to allow that", Hamilton says  - and offers combinations of 
+colours and patterns which are easier to read by users with different forms 
+of colourblindness.
+
+
+
+Other versions are designed to cater for other vision impairments such as 
+cataracts, loss of contrast sensitivity and myopia, with features including 
+increased contrast; reduced glare; large detailed high-zoom maps; 
+customisable text size; and simple interfaces with no fiddly gestures
+
+
+
+The app previously won a Judges' Award in last December's Transport for 
+London (TfL) accessible app awards, with the prize money from this helping 
+ensure it could be made available to both Apple and Android users free of 
+charge, Hamilton told E-Access Bulletin.
+
+
+
+"The iconic London underground map is relied on by millions of travellers 
+every day, but its white background, small text and low contrast differences 
+in colour can cause problems for people with many different types of 
+impaired vision", the app's developers say.
+
+
+
+"There is a black and white pattern-based map available, but only as a 
+PDF... [but this] is actually left over from the time before colour printing 
+became cheaply available, it isn't actually designed for colour-blindness, 
+so the first enhancement was to produce something that was actually tailored 
+to that audience, that combined colour with pattern to create something 
+ideally suited to people who see in a restricted palette.
+
+
+
+"Additionally, due to our past experience working on video magnifier 
+software, another use soon became apparent. A pattern based map is free from 
+being constrained by colour choice, meaning those colours can be altered to 
+suit the preferences of people with a wide range of different vision 
+impairments."
+
+
+
+The approach taken to develop the app is an example of the benefits digital 
+technology can bring to all kinds of impairments, the developers say. "The 
+tube map in the station is a physical object that has to compromise to work 
+for as many people as possible, but digital products do not have the same 
+constraints. Interfaces can be customised, the best solution tailored to 
+each individual's need."
+
+
+
+The same basic principles are also applicable to all map design, they say, 
+and there has been interest in the project from across the cartography 
+community. "Using symbols and pattern as well as colour, or providing high 
+detail imagery that can in turn support a high level of zoom; these are 
+things that are applicable to all maps."
+
+
+
+Other winners of December's TfL accessible app competition included London's 
+Nearest Bus, which helps people find what bus stop they are at and when the 
+next bus will arrive; Station Master, which offers detailed train and 
+station access information for tube and overground lines; and Tube Tracker, 
+an app that uses text-to-speech and high colour contrast to ease access to 
+live journey information.
+
+
+
+NOTE: Comment on this story now, on EAB Live:
+
+http://www.headstar.com/eablive/?p=1038 .
+
+
+
+
+
+++News in Brief:
+
+
+
+04: Be Resilient: A social enterprise which aims to help young disabled 
+people share advice by telling stories about their lives is appealing for 
+video clips to be used in a pilot TV programme. 'bResilient' is inviting 
+young people (aged 25 or under) with disabilities - working alone or with 
+friends, carers or family - to make video clips of up to three minutes 
+telling stories about experiences connected with the arts or creating 
+artworks. "Whether you have been gripped by reading a compelling novel; 
+collaborated to perform with a disability dance group; are a sculptor who is 
+blind; or just want to speak about a TV programme which has affected you, we 
+would like you to make a short video and send it to us (or send us a link to 
+it)", the organisation says. "We will take the best and edit them into a 
+single programme, with a presenter adding commentary." For more information 
+or to send in your clips, contact James Plummer on:
+
+james@prospectmsl.com
+
+
+
+
+
+05: Action Stalled: The forthcoming Italian Presidency of the EU must 
+implement a proposal for a Directive on the Accessibility of Public Sector 
+Bodies' Websites, the European Disability Forum has urged. The forum, an 
+umbrella organisation representing the interests of people with disabilities 
+in Europe, said that despite the proposal being advanced over the past two 
+years by the European Commission and the European Parliament, there has been 
+no further progress in the European Council of Ministers during the last two 
+presidencies of the EU under Lithuania and Greece. A clear political 
+commitment is now needed to ensure rapid progress on the Directive during 
+the Italian Presidency, which begins on 1 July, it said. "EDF regrets that 
+the Greek Presidency failed to take this very important legislation further, 
+and hopes that the forthcoming Italian presidency will treat the web 
+directive as a priority... Non-binding political initiatives failed to make 
+the web accessible for persons with disabilities. That is why this directive 
+must cover all public websites as well as public services provided online, 
+regardless of who owns the website, either it is a public or private entity":
+
+http://www.edf-feph.org/
+
+
+
+06: Human Factors: Developing digital interfaces for users with cognitive 
+impairments and people with low or no literacy; ICT for an ageing 
+population; and speech intelligibility in mobile networks were among topics 
+addressed by the annual workshop on Human factors in ICT hosted by European 
+technology standards body ETSI this month in Sophia Antipolis, France. ETSI 
+has already achieved a milestone earlier this year with the publication of 
+the first European Standard for accessible ICT (EN 301 549), intended to 
+ensure that publicly procured websites, software, and digital devices are 
+more accessible to persons with the widest range of abilities (see E-Access 
+Bulletin, February 2014 http://www.headstar.com/eablive/?p=1017 ). 
+Presentations from the June workshop can be found online at:
+
+http://www.etsi.org/news-events/events/737-etsi-hf-ws-2014
+
+
+
+[Section One ends].
+
+
+
+
+
+++Sponsored Notice: Bee Communications
+
+- Specialist Providers of Captioning.
+
+
+
+Bee Communications has joined the Ai-Media group and is now able to offer 
+classroom, lecture, meeting or event captioning on the game-changing Ai-Live 
+platform. Real-time captions are streamed to a web-enabled device, and a 
+transcript can also be provided after each session. The system is optimised 
+for tablet use, with significant improvements to dictionary and transcript 
+functionality, enhanced security, and an accessible caption viewer including 
+dyslexic fonts and optimised colour palettes.
+
+
+
+Captioning helps people learn and interact by providing equality of access 
+to live content. For more information, please contact:
+
+beth.abbott@ai-live.com .
+
+
+
+[Sponsored Notice ends].
+
+
+
+
+
+
+
+++Section Two: 'The Inbox'
+
+- Readers' Forum.
+
+
+
++07: Election Glitches: Our regular correspondent and leading accessibility 
+campaigner from Canada, Donna Jodhan, writes in to describe a recent voting 
+experience following our "access to elections" special issue last month.
+
+
+
+"On 12 June I voted in an Ontario Provincial election and whereas my 
+expectation was that I would have had greater access to the voting process, 
+I was disappointed", Donna writes.
+
+
+
+"Before 12 June I had seen several commercials on TV where it was stated 
+that the Ontario elections would be accessible in Braille, and I was looking 
+forward to this new feature, but alas! The process was not fully accessible 
+in Braille as had been advertised.
+
+
+
+"The staff were extremely helpful and friendly and were very quick on the 
+draw when I asked for a Braille template but here is where the good news 
+ended. The template contained numbers in Braille but there was no Braille 
+list of candidates. Accordingly, the returning officer had to read out the 
+list of names to me and I had to ask her to do this twice as there were five 
+names on the list and I wanted to make sure that I remembered them all along 
+with the corresponding parties that they were representing.
+
+
+
+"Everything else went smoothly. I was allowed to vote in secret and to fold 
+my own ballot and place it in the ballot box but there was one last thing 
+for me to report. There was no way for me to verify that I had indeed marked 
+my ballot in the spot that I had wanted.
+
+
+
+"A good first effort on the part of [provincial election agency] Elections 
+Ontario, but there is more work to be done and hopefully by the next time an 
+election rolls around, these glitches will have been rectified."
+
+
+
+Further comments please to inbox@headstar.com .
+
+
+
+
+
++08: Unfit Booth: Our regular correspondent Brian Gaff, from the Kingston 
+upon Thames Association for the Blind, writes in to describe his own recent 
+voting experience, in the UK's recent European Parliamentary elections.
+
+
+
+"I seem to be almost unique in my area to still go to a polling station", 
+writes Brian. "It seems that most blind people around here either do a proxy 
+or a postal vote, which is a little sad.
+
+
+
+"Normally my borough is quite good at the access stuff, but I found this 
+time all new people were there and the person who helped me did not even 
+know they had to peel the backing off the plastic template, and had 
+difficulty even reading the list in a good way. Still, we got there in the 
+end.
+
+
+
+"The booths used are not fit for purpose when you think that the European 
+Parliament ballot paper had 17 parties on it and the booths were basically a 
+circular card table with an X shaped divider, so four small triangular areas 
+were all you had to put the ballot down on. One would have thought by now 
+that at the very least a voting computer with headphones might have been in 
+use!"
+
+
+
+Further comments please to inbox@headstar.com .
+
+
+
+
+
++09: Firefox Additives: Another story from last month's issue, on 
+accessibility features of the Firefox web browser, is the subject of further 
+comment from Brian Gaff.
+
+
+
+"On Firefox, I got the impression that the person  you had in the article 
+was mainly interested in partial sighted use", Brian writes. "Due to Firefox 
+being completely devoid of any audio cues, I now always install an add on 
+called 'navigational sounds', which restores the clicks for links, the 
+sounds for alerts and the ding for download completed as in Internet 
+Explorer. This makes it a whole lot easier.
+
+
+
+"Another thing which for me at least, is very important, is an advert 
+blocker. Firefox add-ons also has one of those. It's not that I do not want 
+adverts, but it seems to me that increasingly, advert creators screw up the 
+sites they are used on by not making them in a way that agrees with 
+screenreaders, often throwing them into strange parts of the page due to odd 
+graphic and clever animation. It's about time they fixed their errant ways."
+
+
+
+Further responses please to inbox@headstar.com .
+
+
+
+[Section Two ends]
+
+
+
+
+
+++Sponsored Notice: Adept Transcription
+
+- Alternative Formats At Affordable Prices.
+
+
+
+When you want alternative formats for disabled colleagues, customers and 
+staff, call Adept.
+
+
+
+Formats we produce include audio, audio description, Braille, BSL, Easy 
+Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at 
+prices from a penny a word.
+
+
+
+Whether handling a newsletter, training DVD, equality scheme, public service 
+leaflet, contract or consultation, we provide:
+
+- One-stop shop for all formats
+
+- Products quality-checked by users
+
+- Corporate presentation including your house style
+
+- Fast turnaround of one document or thousands
+
+- Multi-format discounts
+
+- Accessible packaging
+
+
+
+Contact us at:
+
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+
+Email transcription@adept-uk.org
+
+
+
+[Sponsored Notice ends]
+
+
+
+
+
+++Section Three: Digital inclusion:
+
+- Shifting barriers for older people.
+
+
+
++10: Time for a change
+
+by Ann Bajina.
+
+
+
+Why do older people make less use of computers and digital services than 
+younger people?
+
+
+
+Of course, there is the perception that they don't want to simply because 
+the digital world is new, but I don't think that is always the reason. There 
+are some real problems with access for older people.
+
+
+
+Let's look first at the positives, as an older person myself - recognising 
+that I couldn't do without my laptop now, having resisted buying one for a 
+few years! It's great to be able to stay in touch with relatives and friends 
+without needing to know if they are available to take a phone call, and 
+without the feeling that a letter needs to contain important news. I have 
+had health problems and have needed to report in to my daughter every 
+morning and evening just to reassure her that I am OK. By email it is easy - 
+I don't even need to know if she is up yet! And it's free, whether we are 
+countries apart or next door.
+
+
+
+Then mobile phones - what would we do without them now? I take issue with 
+those friends who say they only use them in emergencies and switch them off 
+otherwise - so my question is: so it's only an emergency you have that 
+matters, not one someone else might have?
+
+
+
+I understand they do not want to be fiddling with answering the phone in the 
+middle of doing something else, and that's if they can actually find it - 
+which leads to one of the difficulties for older people - hearing it ring in 
+the first place! I think many older people find mobile phones intrusive, not 
+helped by (mostly) younger people chatting at full volume on trains and 
+buses! I haven't any experience yet with smart phones, for reasons I will 
+describe shortly.
+
+
+
+Other major positives for older people include remotely controlled burglar 
+alarm systems, alarm systems on a phone to alert someone of health issues, 
+and even for some people, games!
+
+
+
+However, there are problems which get worse the older you get. Here are my 
+main gripes.
+
+
+
+Touch screens are a nice idea but almost impossible to use if you have shaky 
+hands, and most of us do eventually.
+
+
+
+Small devices are a problem as well, as we often can't read the screens. 
+Even this Notebook computer I am using is difficult. It is rarely intuitive 
+finding out how to increase the text size, and then there's no room on the 
+screen without lots of scrolling. I've just found how to do it for this 
+article!
+
+
+
+Passwords and PIN numbers - another problem. We're told not to write them 
+down but to have different ones for each application. I couldn't have 
+remembered them if I'd obeyed this rule years ago, now it is impossible. 
+Quite apart from issues such as failing memory, we now have so many.
+
+
+
+Then there are constantly changing computer operating systems. I read a 
+letter in the Saga magazine just this morning pleading for fewer of these. 
+It nearly always depends on having some younger techie to explain and 
+implement changes, and not all of us have access to such people. Even after 
+a full career in IT I am seriously out of date and have no confidence in 
+being able to deal with this problem. Associated with this is the cost of 
+getting new hardware and software - many older people can't afford to change 
+even if they wanted to.
+
+
+
+Anti-virus systems are an even more complicated example of the above. And a 
+particular irritation is being offered extra features on a trial basis and 
+then not being able to say you don't want them.
+
+
+
+Finally, spam is a nuisance for everyone, but it is counter-intuitive to 
+expect older people to avoid putting details say of their email address on a 
+form when asked to do so. We're much less likely to realise when this is 
+risky. This leads to the issue of scare stories and hoaxes - I always advise 
+my friends to check with Snopes.com before opening anything they don't 
+recognise, and never to download anything they don't know about - but they 
+don't know about software upgrades they need either!
+
+
+
+In conclusion, there's quite a lot of education needed for my generation who 
+mostly had almost no experience of computers in their working lives. But 
+they are not going to do it - they don't see why they should and in any 
+case, it just makes them recognise how little they know and how much can go 
+wrong! And cost again is a factor.
+
+
+
+So, what do we need? Fewer changes; cheaper support networks; clearer 
+instructions on how to increase volume and text size and swap between mouse 
+and touch screen systems; and older people serving in computer shops! And 
+how about bringing back paper copies of manuals- if you don't know how to 
+use your computer, how do you find the help system?
+
+
+
+NOTE: Ann Bajina worked for more than 50 years in IT, and is now gratefully 
+retired.
+
+
+
+Comment on this story now, on EAB Live:
+
+http://www.headstar.com/eablive/?p=1035
+
+
+
+[Section Three ends]
+
+
+
+
+
+++Sponsored Notice: Accessify Forum
+
+- Accessibility Discussion.
+
+
+
+Established in 2003, Accessify Forum is a popular destination for 
+accessibility discussion. The "site critiques" section has helped hundreds 
+of people improve their websites, with members offering friendly, no 
+nonsense advice.
+
+
+
+You'll find discussion of accessibility at all levels, from beginner to 
+guru. So whether you're looking to learn more about accessibility, want to 
+help others and improve on your own knowledge, or just to browse the 
+archives, head over to:
+
+
+
+http://www.accessifyforum.com/ .
+
+
+
+[Special notice ends].
+
+
+
+
+
+++Sponsored notice: Audio book mysteries to relax and enjoy
+
+
+
+More and more people are using audio books to relax, and to develop and 
+stimulate their imaginations. My name is Donna J. Jodhan and since 2010 I 
+have been using my audio mysteries to help thousands from around the world 
+to do just that - for pennies at a time.
+
+
+
+I am an author who is blind. My audio mystery titles include 'Young, 
+good-looking, and brilliant!' [plot summary follows]:
+
+Who says that success does not come with a price tag? Especially when there 
+are secrets lurking in the background, and this was Senator Christian 
+Jansen's downfall. There was one who did not want the senator to run as 
+president because he would be too difficult to handle. Another wanted the 
+senator dead for breaking his promise to an oil company. And a Mafia boss 
+who felt that the senator would be dangerous to them as president.
+
+Who could have done it? [plot summary ends] Other titles include 'The 
+Million Dollar Mansion', 'The Kidnapper's Kid' and many more.
+
+
+
+Visit www.donnajodhan.com to learn more, subscribe to my monthly newsletter 
+or buy the audio mysteries direct at:
+
+www.donnajodhan.com/store.html .
+
+
+[Sponsored notice ends]
+
+
+
+
+
+++End Notes.
+
+
+
++How to Receive the Bulletin.
+
+
+
+To subscribe to this free monthly bulletin, email
+
+eab-subs@headstar.com
+
+with 'subscribe eab' in the subject header. You can list other email 
+addresses to subscribe in the body of the message. Please encourage all your 
+colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in 
+the subject header.
+
+
+
+Please send comments on coverage or leads to Dan Jellinek at:
+
+dan@headstar.com .
+
+
+
+Copyright 2014 Headstar Ltd http://www.headstar.com .
+
+The Bulletin may be reproduced as long as all parts including this copyright 
+notice are included, and as long as people are always encouraged to 
+subscribe with us individually by email. Please also inform the editor when 
+you are reproducing our content. Sections of the bulletin may be quoted as 
+long as they are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address:
+
+http://www.headstar.com/eab
+
+is also cited.
+
+
+
++Personnel:
+
+Editor: Dan Jellinek.
+
+Associate Editor: Tristan Parker.
+
+Editorial advisor: Kevin Carey.
+
+
+
+ISSN 1476-6337.
+
+
+
+[Issue 169 ends.]

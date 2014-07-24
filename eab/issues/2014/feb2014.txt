@@ -1,0 +1,582 @@
+E-Access Bulletin, February 2014: ‘Unconscious bias’ against disabled IT job applicants; European Parliament urges stronger public web access law.
+Sent:	 28 February 2014 16:13
+
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 165, January 2014.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details
+at the end).
+
+
+++Issue 165 Contents.
+
+01: BCS To Tackle ‘Unconscious Bias’ Against Disabled IT
+Job Applicants
+- Institute targets unrepresentative recruitment.
+
+02: European Parliament urges stronger public web access law
+- Huge majority urges governments to ensure all sites covered.
+
++03: Audio Interaction For 'Swype' Virtual Keyboard App
+- Enhanced features for smartphone text prediction system.
+
+News in Brief: 04: Inclusion Price-tag – report estimates cost of
+ensuring everyone has basic digital skills; 05: Collaboration
+Crew - mobile technology forum; 06: Training Appeal: Fix the
+Web seeks resources.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: Eye Support - funding issues in England for eye-gaze
+software; 08: Strings Attached? The free screenreader debate
+continues; 09: Shared Spaces - GPS and outdoor navigation
+query.
+
+Section Three: Opinion - Technical support.
+10: Escaping The Mousetrap: Clive Lever bemoans the lack of
+awareness and knowledge among IT support staff about issues
+faced by keyboard-only, non-mouse computer users.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: BCS To Tackle ‘Unconscious Bias’ Against Disabled IT
+Job Applicants
+
+Training to tackle “unconscious bias” against disabled job
+applicants by recruitment staff at IT firms has been launched
+by BCS, The Chartered Institute for IT.
+
+The institute is to receive £18,000 of funding from Royal
+Academy of Engineering to support bias training after signing
+up to the academy’s Engineering Diversity Concordat (
+http://www.raeng.org.uk/about/diversity/resources/eng_div_con
+cordat.htm ). The training is aimed at tackling unconscious bias
+affecting disability, race, sexual orientation, age, obesity and
+gender.
+
+About 300 BCS specialist group and branch committee
+members will be trained initially by the end of 2015, with the
+intention of ensuring those key individuals spread the learning
+more widely throughout the institute’s membership.
+
+“We are hard-wired to prefer people who look like us, sound
+like us and share our interests”, Rebecca George, chair of the
+BCS policy and public affairs board, told E-Access Bulletin
+this week.
+
+“Unconscious biases are simply our natural people preferences
+but this can lead to us making poor decisions, particularly
+around recruitment. It means that we are less likely to recruit
+people who do not look or sound like us, and this can lead to a
+workforce which doesn’t fully represent the demographics of
+society.”
+
+Examples of action to tackle bias include removing names and
+photos from CVs and training interviewers in guarding against
+unconscious bias, George said.
+
+“The first step is to help individuals become aware of their
+own unconscious bias which can be done through self-
+assessment”, she said. “Our aim is to raise awareness of
+unconscious bias through research, case studies and
+explanations of what it is, as well explaining the gap between
+explicit and implicit bias.”
+
+To illustrate the urgency of the IT profession’s need for such
+traning, George quoted diversity analyst Tinu Cornish, a
+psychologist at consultancy Different With Difference, who
+has said: “At the current rate of change it will be 2080 before
+we elect a representative government, 2085 before we close the
+gender pay gap, and probably never before we close the
+disability employment gap”.
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=983 .
+
+
++02: European Parliament urges stronger public web access law.
+
+Members of the European Parliament have voted by a huge
+majority to beef up a proposed European Directive on the
+Accessibility of Public Sector Bodies’ Websites.
+
+This week MEPs backed a move by 593 votes to 40, with 13
+abstentions, to require EU member states to ensure all public
+websites are fully accessible, not just those in 12 categories
+proposed by the European Commission such as social security
+benefits and enrolment in higher education (see bit.ly/1jF3j99
+).
+
+The parliament also wants the new rules to apply to websites
+run by private firms performing public tasks, such as energy
+utility companies and companies providing outsourced public
+services such as transport or health care.
+
+According to the Parliament’s plan, an optional exemption
+would be included in the private sector condition for small
+businesses, however. This would mean companies employing
+up to 12 people could be exempted from the new law if
+member states wish. MEPs have proposed giving member states
+one year to comply with the rules for new content and three
+years for all existing content, with a further two years for live
+audio content.
+
+The vote constitutes the European Parliament’s first reading of
+the proposed directive. The EU Council of Ministers, made up
+of government ministers from all member states,  may now
+accept, reject or adapt the recommendations, for further
+subsequent discussion with Parliament.
+
+In a statement following this week’s vote the European Blind
+Union, an umbrella group of blidness associations from 43
+countries including the RNIB in the UK, welcomed “ the strong
+message sent by the European Parliament to EU governments”.
+
+However it urged rapid action – “within days” – by the current
+Greek Presidency of the EU to schedule meetings to discuss the
+directive, something it says is currently not planned other than
+in general terms.
+
+“It is not enough for the Greek Presidency to have this
+directive on their ‘to do' list”, EBU President Wolfgang
+Angermann said in the statement. “If the presidency refuses to
+organise a meeting to discuss the directive with member states
+then they are effectively blocking the legislative process.
+
+“When 92% of MEPs are calling for action, we believe that
+council members should listen and engage… Failure to act will
+delay new rules for many months and therefore be hugely
+detrimental for the 30 million blind and partially sighted EU
+citizens who struggle to access information and services
+online”, Angermann said. “People with sight loss have been
+shut out of the online world for far too long.”
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=986
+
+
++03: Audio Interaction For 'Swype' Virtual Keyboard App
+
+The popular ‘Swype’ virtual keyboard app for Android
+smartphones, designed to allow users to type more quickly and
+effectively, has introduced audio accessibility features to its
+latest version in a move which will benefit users with impaired
+vision.
+
+Users of the standard ‘Swype’ app type words by sliding a
+finger across a virtual keyboard in a continuous motion,
+beginning at the first letter and pausing briefly at each letter
+they want to include, before lifting their finger at the end of
+each word. The app then predicts the word, and correction
+features help the process.
+
+In the latest version of Swype, users can activate it to work
+with Android’s ‘TalkBack’ and ‘Explore by Touch’
+accessibility features so that individual letters and words are
+spoken out loud to users as they slide their fingers across the
+virtual keyboard.
+
+Working in this ‘TalkBack’ mode also enables audio versions
+of the predictive text and correction features. For example,
+depending on what letters of a word have already been written,
+users can move their fingers to the top of the smartphone
+screen and scroll through lists of words suggested and spoken
+by Swype, navigated using circular finger motions.
+
+Similarly, Swype suggests words to the user depending on what
+has been written, and will learn to recognise common choices.
+Other app navigation, such as switching to the symbols and
+punctuation menu, can also be managed using audio prompts.
+
+The latest version of Swype also uses Dragon Dictation speech-
+recognition software to allow users to dictate text to the app
+rather than type. Swype can be purchased for a few pounds
+through the Google Play platform or Amazon Appstore.
+
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=988 .
+
+
+++News in Brief:
+
++04: Inclusion Price-tag: The cost of ensuring every adult in the
+UK has basic digital skills by 2020 – including the ability to
+use email, browse the web and use online shopping and
+government services – would be £875 million, a new report
+estimates. The study, published by national digital inclusion
+bodies the Tinder Foundation and Go ON UK, covers all 11
+million adults who currently lack such skills, including people
+with disabilities. It urges government, the private and voluntary
+sectors to work together to cover the training costs, which it
+says are needed on top of all current planned activity in this
+field. The report estimates the cost of training for each person
+will range from £47 up to £319 depending on various factors
+including disability:
+http://www.tinderfoundation.org/nation2020
+
++05: Collaboration Crew: An online community to enable
+people working across all sectors to collaborate on projects to
+help mobile technology make a positive impact in the lives of
+older people and people with disabilities was launched this
+month. Get Tech Collaboration Crew is a project of community
+interest company the You Can Hub and was founded by social
+technology innovators Mel Findlater and Adam Gill. The
+project is inviting everyone from app developers to usability
+experts, social entrepreneurs, the older community and the
+disability community to come together and share ideas. For
+invitations to online and offline discussions, sign up at:
+ http://www.get-tech.org
+
++06: Training Appeal: The Fix the Web project – a service
+which allows anyone to report accessibility problems with
+websites, and recruits volunteers to liaise with site developers
+to fix them – is launching an appeal for information on
+accessibility training resources. The project has invited E-
+Access Bulletin readers to email in information about training
+courses, tutorials, useful sites, articles and blogs on
+accessibility training, both technical and non-technical. Please
+send ideas with a brief note and a web link where possible to
+accessibility consultant and Fix the Web project partner
+Graham Armfield, on:
+graham.armfield@coolfields.co.uk
+and for more information on Fix The Web, see:
+http://www.fixtheweb.net
+
+[Section One ends].
+
+
+++Sponsored Notice: Bee Communications
+- Specialist Providers of Captioning.
+
+Bee Communications has joined the Ai-Media group and is
+now able to offer classroom, lecture, meeting or event
+captioning on the game-changing Ai-Live platform. Real-time
+captions are streamed to a web-enabled device, and a transcript
+can also be provided after each session. The system is
+optimised for tablet use, with significant improvements to
+dictionary and transcript functionality, enhanced security, and
+an accessible caption viewer including dyslexic fonts and
+optimised colour palettes.
+
+Captioning helps people learn and interact by providing
+equality of access to live content. For more information, please
+contact:
+beth.abbott@ai-live.com .
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+
+When you want alternative formats for disabled colleagues,
+customers and staff, call Adept.
+
+Formats we produce include audio, audio description, Braille,
+BSL, Easy Read, e-docs for websites, large print, Makaton,
+Moon and sub-titles, at prices from a penny a word.
+
+Whether handling a newsletter, training DVD, equality scheme,
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
++07: Eye Support: Two readers wrote in to respond to last
+issue’s request for information on retina software to navigate
+an iPad, sent in by Alick Mackenzie of Enabled City
+(www.enabledcity.com) to help the father of a friend who has
+multiple sclerosis.
+
+Gary Derwent, joint head of assistive and rehabilitation
+technology at the Royal Hospital for Neuro-disability, wrote in
+to say: “The funding situation for eye-gaze technology in the
+NHS in England is very tricky right now. Some parts of the
+contry can get some funding and others cannot.
+
+“We hope things will be better from the start of April, but right
+now we don't know for sure. There is a lot of politics and
+commissioning activity going on right now and the outcome
+remains uncertain.”
+
+Health data accessibility campaigner Howard Leicester adds a
+little more detail to this analysis. He says: “Variations on
+funding are due to local politics; potentially competing calls on
+limited funds; and guiding documents (such as Joint Strategic
+Needs Assessments) which cover local population health and
+social needs, but often ignore the scale and characteristics of
+disability requirements.
+
+“Extra-specialist services are not commissioned by Clinical
+Commissioning Groups led by GPs or by councils, but (I
+believe) directly by NHS England. Specialist services are
+grouped around Clinical Reference Groups (CRGS), with
+services commissioned and delivered in regional areas across
+England.
+
+“Assistive technologies such as eye-gaze technology is covered
+under the group serving trauma patients, Group D, Howard
+says. Information can be found online under the heading
+‘Complex disability equipment - Alternative/Augmentative
+communications technology’ at:
+http://www.england.nhs.uk/ourwork/commissioning/spec-
+services/npc-crg/group-d/d01/
+
+“I don't think there are any details of what's provided, but you
+can see who's broadly responsible”, he says. “Note that reps
+are still being recruited for this CRG and its sub-components.”
+
+Readers should please send any further comments in this field
+to:
+inbox@headstar.com .
+
+
++08: Strings Attached? Our regular correspondent Brian Gaff,
+from the Kingston upon Thames Association for the Blind,
+writes in to comment on the news we reported last issue that
+software developer GW Micro had reached a deal with
+Microsoft to give away its Window-Eyes screen reader
+software for free.
+
+“I feel [the Window-Eyes offer] is not as good as it sounds”,
+Brian writes. “When people want a
+screenreader, they often try them out and decide on what is
+best for them. Now we have Microsoft saying ‘this one is free
+if you pay for our Office package’, so lots of people will make
+do with it, and not try the others.”
+
+He writes that it is also unfair to bundle together mentions of
+the two free screenreaders Thunder and NVDA, since NVDA
+is has been more extensively developed than Thunder. “NVDA
+now supports touch in Windows 8, and has better support for
+many other programs, and a team of add on writers making it
+work with other software.
+
+“So really NVDA still has many things to make it worthwhile.
+Additionally of course, not everyone can afford Microsoft
+Office in the first place, and work between [free open source
+office software] LibreOffice, Open Office and NVDA teams
+are gradually cracking this.
+
+“Incidentally, You mentioned in your piece, the voice
+synthesiser Eloquence. As far as I am aware, this is now only
+bundled with [certain commercial] products. It is not available
+to buy. It would be great if someone  outside could investigate
+the situation here. I personally find the voice sounds like a
+person with a clothes peg on their nose, but many do like it.”
+
+Further comments please to:
+inbox@headstar.com .
+
+
++09: Shared Spaces: The same reader, Brian Gaff, adds a
+request for comments on a separate topic, to which our readers
+may like to respond. He asks if modern consumer satellite
+location technologies (GPS) are now accurate enough to keep
+blind people safe in shared or partially shared outdoor streets
+or areas – partly pedestrianised areas where cars can pass
+through, and where there are no tactile indications of the safe
+areas.
+
+“So on a street, usually a shopping street, where there are no
+kerbs, but cars are only allowed between lines, could GPS be
+used to warn a blind person that they are about to go into the
+shared area?
+
+“I suspect not, but it was a suggestion brought up by a traffic
+engineer  of  our council the other day. Presumably he did not
+want to have to dig up his pretty street to put in tactile chevrons
+or whatever.”
+
+Responses please to inbox@headstar.com .
+
+[Section Two ends].
+
+
+++Sponsored notice: Audio book mysteries to relax and enjoy
+
+More and more people are using audio books to relax, and to
+develop and stimulate their imaginations. My name is Donna J.
+Jodhan and since 2010 I have been using my audio mysteries
+to help thousands from around the world to do just that – for
+pennies at a time.
+
+I am an author who is blind. My audio mystery titles include
+‘Young, good-looking, and brilliant!’ [plot summary follows]:
+Who says that success does not come with a price tag?
+Especially when there are secrets lurking in the background,
+and this was Senator Christian Jansen's downfall. There was
+one who did not want the senator to run as president because
+he would be too difficult to handle. Another wanted the
+senator dead for breaking his promise to an oil company. And
+a Mafia boss who felt that the senator would be dangerous to
+them as president.
+Who could have done it? [plot summary ends] Other titles
+include ‘The Million Dollar Mansion’, ‘The Kidnapper’s Kid’
+and many more.
+
+Visit www.donnajodhan.com to learn more, subscribe to my
+monthly newsletter or buy the audio mysteries direct at:
+www.donnajodhan.com/store.html .
+
+[Sponsored notice ends]
+
+
+++Section Three: Opinion
+Technical support.
+
++10: Escaping The Mousetrap
+by Clive Lever.
+
+Heard the one about the technological mousetrap?
+
+No, not the play which has been running in the West End since
+the 1950s: it’s the situation that has trapped people who
+navigate computers using just the keyboard –not the mouse –
+for far too long. It’s time to solve this case.
+
+The pace of technology change in the work place is growing
+ever faster, and wherever there are changes, there are
+inevitably teething troubles. These in turn drive up the need for
+people to call their technology help desks when things go
+wrong, or when it’s not obvious how to change software
+settings.
+
+Whatever the reason for contacting them, the majority of
+support engineers can answer the query for mouse users in
+about ten seconds flat. However, when the caller says they
+need to perform the action using only the keyboard shortcuts,
+more often than not the engineer runs off to find who knows
+something about this, and the caller is put on hold.
+
+When the support officer returns, his or her next gambit
+generally begins with the dreaded “unfortunately”, and ends
+with a call being logged to have the problem looked into. What
+happens next is someone usually emails you back the
+following day with the answer you would have got instantly if
+you had been a mouse user.
+
+It may not be possible to consider training all IT support
+engineers to be experts in the detailed use of keystrokes, or in
+meeting the needs of people who use access technology. It
+would ease the frustration of those people though, if at least
+one member of every support team could be trained in access
+technology awareness and in using a computer without
+touching the mouse, so that we don’t risk having to wait for a
+day or so to get answers that would ordinarily be on hand
+during the first call we make.
+
+It would also be useful if all IT support engineers setting up
+new software for people who do not use a mouse at least know
+where keyboard shortcut lists can be found on the system – by
+use of keystrokes.
+
+They also need to know, at the very least, how letters are
+highlighted to indicate what keystrokes will perform the
+operation. It would even help if all IT support engineers knew
+that, for example, you can jump to icons on your desktop, or
+files in a tree structure, by typing in the first part of the names
+of the items. It would appear that even this is often fresh news
+to some technicians. So, it is so much easier to find items on
+your desktop named “Word”, “Excel”, “Access” “Outlook”,
+than it is to deal with them when all of their names have the
+default prefix ‘Microsoft’, because the system administrators
+do not know that this can be unhelpful.
+
+One way or another, the matter of supporting non-mouse users
+in the workplace needs to be addressed, or we risk having a
+two-tier system of support, where mouse users get instant help,
+and non-mouse users are trapped in a slow lane of tech
+support.
+
+Support query systems could even be structured so that access-
+related calls automatically go to the top of the queue.
+
+Either way, IT departments need to capture and make available
+knowledge of the experience of working without a mouse as
+they acquire it,  so non-mouse users are not forced to wait
+unnecessarily for service while technicians go off and re-learn
+what should already be known.
+
+That is the technological mousetrap: and it is time to break free.
+
+NOTE: Clive Clive Lever is a local government diversity and
+equality officer. Views stated here are his own.
+
+Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=992 .
+
+[Section Three ends]
+
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination
+for accessibility discussion. The “site critiques” section has
+helped hundreds of people improve their websites, with
+members offering friendly, no nonsense advice.
+
+You'll find discussion of accessibility at all levels, from
+beginner to guru. So whether you’re looking to learn more
+about accessibility, want to help others and improve on your
+own knowledge, or just to browse the archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other
+email addresses to subscribe in the body of the message. Please
+encourage all your colleagues to sign up! To unsubscribe at any
+time, put 'unsubscribe eab' in the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2014 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including
+this copyright notice are included, and as long as people are
+always encouraged to subscribe with us individually by email.
+Please also inform the editor when you are reproducing our
+content. Sections of the bulletin may be quoted as long as they
+are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Associate Editor: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 165 ends.] 
