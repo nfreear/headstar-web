@@ -1,0 +1,480 @@
+
+E-Access Bulletin: October 2014 - Academics condemn research cut; Lib Dems make digital access election pledge
+Dan Jellinek [dan@headstar.com]
+Sent:	31 October 2014 09:55
+To:	eaccess@headstar.com
+
+
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 172, October 2014.
+ 
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+Please forward this free bulletin to others (subscription details 
+at the end).
+ 
+
+++Issue 172 Contents.
+ 
+01: MPs, academics condemn research funding withdrawal
+- Department of Health assistive tech move “false economy”
+ 
+02: Lib Dems are first to make digital access election pledge
+- Party support One Voice call for equality review.
+ 
+03: Technology pioneers in ‘disability power list’
+- Major showing for web, app and IT social entrepreneurs.
+ 
+News in Brief:
+04: GARI First: telecom operator integrates mobile handset 
+access data; 
+05: International Day - technology theme for December; 06: 
+Government Gaps - UN-backed review of accessibility 
+support.
+ 
+Section Two: International Focus - Accessible elections.
+07: Declaration of independence: Donna Jodhan reports on a 
+ground-breaking Canadian technology initiative allowing 
+blind people to vote freely and independently.
+ 
+[Contents ends].
+ 
+
+++Sponsored Notice: GeorgiePhone
+ 
+The Android smartphone for people with all levels of sight 
+loss.
+GeorgiePhone is a family of Android smartphone apps that 
+make using your phone and carrying out everyday tasks quick 
+and easy for everyone.
+ 
+GeorgiePhone’s big bright buttons and words with colour 
+choices make phoning and texting easy, and for those who 
+can’t see, everything can speak. Choose from:
+ 
+- Apps to make bus and walking journeys less stressful, helping 
+you find where you are, and what’s around;
+- Apps for surfing the web, enjoying  YouTube, setting 
+calendar reminders, speaking the colour of your clothes; 
+reading your mail
+- And many more!
+ 
+Download today from Google Play Store: just search on 
+‘GeorgiePhone’.
+ 
+[Sponsored Notice ends].
+ 
+
+++Sponsored Notice: Traveleyes
+- The World Travel Company With A Difference
+- Anniversary Discount Offer For EAB Readers.
+ 
+Traveleyes is a world travel company with a difference, 
+providing hand-made, multi-sensory group holiday vacations 
+for both blind and sighted travellers, who journey together to 
+stunning world destinations.
+ 
+April 2014 marks our 10-year anniversary. To celebrate this 
+proud milestone, Traveleyes is giving sight back to those 
+suffering from preventable blindness in some of the world’s 
+poorest countries. So far we have cured blindness in more than 
+120 people! We aim to reach 500 before April 2015.
+ 
+By booking onto one of our exciting holidays, you too can 
+help. What’s more, as an introductory offer for E-Access 
+Bulletin readers, we will give you a £50 voucher to use against 
+the price of your holiday booking. For your voucher code, 
+email us now at
+info@Traveleyes-international.com
+ 
+Terms and conditions apply.
+ 
+[Sponsored Notice ends].
+ 
+
+++Section One: News.
+ 
++01: MPs, academics condemn research funding withdrawal
+ 
+A group of MPs, academics and technologists have 
+condemned the cancellation by the UK Department of Health 
+(DH) of a long-standing contract for an annual independent 
+report on assistive technology research and development.
+ 
+Production of an annual report on government-funded 
+research to improve AT is a statutory requirement, set out in 
+the Chronically Sick and Disabled Persons Act 1970.
+ 
+However after 15 years of allocating funding to the 
+Foundation for Assistive Technology (FAST) to produce the 
+work, the DH announced last month it is to bring production 
+in-house to its research and development directorate, at an 
+estimated annual saving of £68,000.
+ 
+In a statement, FAST said the move was “short-sighted” and 
+“a false economy”, as it would lead to lower quality 
+information being made available to policy makers, funding 
+bodies and others. Overall it “will significantly hamper efforts 
+to support disabled and older people to become independent 
+through the use of technology,” the foundation said, as the 
+DH report proposal is “insubstantial” and “only minimally 
+meets the statutory requirement.”
+ 
+The withdrawal of the contract also means FAST will no 
+longer have the resources to update a publicly-available 
+database it has been maintaining on AT research and 
+development, it said (
+http://fastuk.org/research/projects.php ).
+ 
+In its own statement, the DH responded that this public 
+information is already available elsewhere online, such as 
+Research Councils UK’s Gateway to Research, and the EU 
+CORDIS database. However FAST says these sites do not 
+provide a comprehensive picture.
+ 
+Seven MPs and more than 30 academics and technologists 
+have so far supported FAST’s call for continued funding 
+including EA Draffan and Mike Wald of Southampton 
+University; Gill Whitney of Middlesex University; and Tim 
+Adlam of Designability.
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1073 .
+ 
+
++02: Lib Dems are first to make digital access election pledge
+ 
+A pledge to review relevant laws, guidelines and standards 
+on access to digital goods and services to ensure fair access 
+by disabled and older people has become the official policy 
+of the UK’s Liberal Democrats in the run-up to next year’s 
+general election.
+ 
+The pledge came as an amendment to the party’s equalities 
+policy paper “Expanding opportunity, unlocking potential” 
+which was submitted to the party's autumn conference for 
+approval earlier this month.
+ 
+The party has now promised, if elected to govern or as part of 
+a new coalition government subject to negotiation, to conduct 
+“a review of anti-discrimination law and of existing laws, 
+guidelines and standards on access to digital goods and 
+services to ensure they are fit for the modern age and so that, 
+in particular, people with disabilities and older people have 
+fair access to digital public services, the digital economy and 
+the workplace”.
+ 
+The amendment was moved by Mark Pack, Editor of Liberal 
+Democrat Newswire, on behalf of One Voice for Accessible 
+ICT Coalition, which is campaigning for all the main UK 
+political parties to pledge similar action ahead of the 2015 
+elections. MPs and policymakers in the Labour and 
+Conservative parties are currently considering making similar 
+undertakings.
+ 
+One Voice, an umbrella group of charities, businesses and 
+other organisations pushing for better digital accessibility 
+across society, has called for the review in light of poor legal 
+enforcement of existing laws, rules and guidelines for 
+accessibility of websites, mobile apps and other digital goods 
+and services across the public and private sectors.
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1071 .
+ 
+
++03: Technology pioneers in ‘disability power list’
+ 
+Champions of digital accessibility feature prominently in the 
+first ever “disability power list”, a round-up of Britain's 100 
+most influential people with a disability or impairment 
+selected by recruitment firm Powerful Media in partnership 
+with non-profit disability support group the Shaw Trust.
+ 
+Top of the list is scientist Stephen Hawking, perhaps the 
+world’s best-known user of synthesised speech 
+communication and winner of a special prize at the 2012 
+Technology4Good Awards from charity AbilityNet. In 
+second place is Baroness Tanni Grey Thompson, one of 
+Britain’s greatest Paralympians and supporter last year of Go 
+ON Gold, a national campaign to raise awareness about 
+barriers faced by disabled people in accessing computers and 
+the Internet.
+ 
+Fifth overall came actor, writer, broadcaster and technology 
+early-adopter Stephen Fry, who has been diagnosed with 
+bipolar disorder and has supported many disability 
+technology access projects including the Fix the Web project 
+led by Citizens Online.
+ 
+Other digital pioneers in the list include entrepreneur and 
+philanthropist Neil Barnfather, founder and director of 
+TalkNav, a supplier of accessible mobile devices to the blind 
+and low vision community; Gary McFarlane, managing 
+director of Assist-Mi, a mobile app that allows people with 
+disabilities to request assistance from service providers such 
+as petrol stations and airports; Amar Latif, founder and 
+director of ‘Traveleyes’, the world’s first commercial air tour 
+operator to specialise in serving blind as well as sighted 
+travellers; and Euan McDonald, founder of disabled access 
+review website euansguide.com.
+ 
+Also recognised are consultant Geoff Adams-Spink, who 
+covered many technology accessibility stories in his former 
+role as age and disability correspondent for BBC News; 
+Caroline Waters, vice chair of the Equality and Human Rights 
+Commission and former policy director at BT; and 
+Paralympian gold medallist wheelchair sprinter Hannah 
+Cockcroft, keynote speaker at last year’s eAccess 13 
+conference.
+ 
+Disability power list long link:
+http://www.shaw-trust.org.uk/media-centre/news/launch-of-
+the-first-disability-power-list/
+Short link:
+http://bitly.com/1wb9toy
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1069 .
+ 
+
+++News in Brief:
+ 
++04: GARI First: Australian telecom operator Telstra has 
+become the first mobile communications carrier in the world 
+to fully integrate data from GARI (Global Accessibility 
+Reporting Initiative) into its own customer information portal, 
+the initiative has announced. GARI is an information 
+database on accessibility features of mobile devices launched 
+in 2010 by the Mobile Manufacturers Forum (MMF), an 
+international association of mobile equipment manufacturers. 
+The new portal
+http://telstra.com.au/mobile-phones/find-accessible-devices
+allows Telstra users to search for handsets with specific 
+accessibility features related to speech, hearing, vision, 
+cognitive impairment and reduced mobility.
+Previously, promoters of the GARI service have tended to be 
+public sector bodies and telecoms regulators and associations, 
+such as new recruits the Romanian telecommunications 
+regulator ANCOM and the South African Electronic 
+Communications Association SAECA:
+http://www.GARI.info
+ 
++ 05: International Day: “Sustainable development: the 
+promise of technology” is the theme for this year’s UN-
+backed International Day of Persons with Disabilities, set to 
+take place on 3 December. Three sub-themes for the day 
+focus on disability-inclusive sustainable development goals; 
+disaster risk reduction and emergency responses; and creating 
+enabling work environments. Any organisation with an 
+interest in the field can organise an event to mark the day, the 
+UN says, including public discussions, information 
+campaigns, performances and innovation showcases. 
+Organisations are also invited to send in links to videos or 
+short films promoting any of the objectives of the 
+International Day as part of the UN Enable Film Festival 
+2014:
+http://www.un.org/disabilities/default.asp?id=1620
+ 
+
+06: Government Gaps: Fewer than a third of global 
+governments (32%) provide funding to support digital 
+accessibility work by disability organisations, according to an 
+article published this month in the Journal of Disability and 
+International Development. The article, “Removing barriers 
+and advancing digital accessibility”, was written by Martin 
+Gould, Axel Leblois, Francesca Cesa Bianchi and Viviana 
+Montenegro of the UN-backed G3ict (Global Initiative for 
+Inclusive ICTs). The four write that “Removing digital 
+accessibility barriers and developing sustainable local 
+capabilities among [disabled people’s groups]... will require 
+commitment by State Parties to capacity building.” However 
+as well as the funding gap, the paper says only about a fifth 
+of governments (21%) have systematically reviewed 
+legislation or policies on digital access support for disability 
+organisations; only 27% of government have set up national 
+technical assistance centres in the field; and even fewer (11%) 
+have mandated digital access training programs for future 
+professionals at universities and vocational schools:
+http://www.zbdw.de
+ 
+[Section One ends].
+ 
+
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+ 
+When you want alternative formats for disabled colleagues, 
+customers and staff, call Adept.
+ 
+Formats we produce include audio, audio description, Braille, 
+BSL, Easy Read, e-docs for websites, large print, Makaton, 
+Moon and sub-titles, at prices from a penny a word.
+ 
+Whether handling a newsletter, training DVD, equality scheme, 
+public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+ 
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+ 
+[Sponsored Notice ends]
+ 
+
+++Section Two: International Focus:
+- Accessible elections.
+ 
++07: Declaration of independence
+by Donna Jodhan.
+ 
+In late 2013 the Canadian national elections agency Elections 
+Canada formed an Advisory Group on Disability Issues, and 
+I was invited to be a member. Initiatives the agency is 
+working on include ensuring election staff are trained to meet 
+the needs of voters with a disability; developing a Braille 
+template to help Blind and partially-sighted voters; ensuring 
+that voters with a disability can vote more independently and 
+with greater privacy; and monitoring progress and how 
+initiatives are being implemented.
+ 
+This month, citizens in Toronto tested out some of these 
+principles as they made a trip to the polls – their third in about 
+five months – to vote for a new mayor; their local councillor; 
+and a school board trustee in their area.
+ 
+This time however, things were quite a bit different for voters 
+with disabilities, as we were able to use a new “voter access 
+terminal” allowing people with a disability to vote 
+independently.
+ 
+As a Blind voter, I was extremely excited about this new 
+development as it gave me the opportunity to take my time 
+when voting and I was able to do it without having to 
+depend on a returning officer to help me.
+ 
+I was able to take my headphones along and plug them into 
+the terminal's jack. There were several well defined buttons 
+that were easy to distinguish, enabling one to review the list 
+of names for each category; make repeated reviews; select a 
+candidate for each position; and confirm one's choice.
+ 
+So in short, I was able to sit in front of this new voter access 
+machine, fetch a list of candidates, make my choice from this 
+list and then submit my choice. I also had the choice not to 
+vote for anyone if I so chose.
+ 
+The voice on this terminal was extremely clear and distinct 
+and the beauty about it all is that I as a blind person was able 
+to vote in private without anyone knowing whom I have 
+voted for and at the end of it all I was able to remove my 
+own ballot from the terminal's output tray and place it myself 
+into the ballot box.
+ 
+Easy as anything, and a terrific invention: now let us see if 
+this terminal will be able to make its way up the ladder to 
+provincial and federal elections. Some time during the course 
+of 2015, Canada will once more be going to the polls to elect 
+a new federal government, and Elections Canada has already 
+indicated that we can look forward to some important 
+changes when it comes to improved accessibility for these 
+elections as well.
+ 
+I believe that if countries are truly serious about wanting 
+persons with disabilities to be an active part of their voting 
+population then it is vitally important for meaningful dialogue 
+to take place between the governmental body in charge of the 
+running of elections and a representative segment of 
+organisations for and of those with disabilities. We should 
+never assume that governments would naturally know how to 
+proceed in a matter such as this and it is up to voters with 
+disabilities to speak up in a meaningful way.
+ 
+NOTE: Donna Jodhan (
+http://www.donnajodhan.blogspot.com/ ) is an accessibility 
+and special needs business consultant and author.
+ 
+Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1067 .
+ 
+[Section Two ends].
+ 
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+ 
+Established in 2003, Accessify Forum is a popular destination 
+for accessibility discussion. The “site critiques” section has 
+helped hundreds of people improve their websites, with 
+members offering friendly, no nonsense advice.
+ 
+You'll find discussion of accessibility at all levels, from 
+beginner to guru. So whether you’re looking to learn more 
+about accessibility, want to help others and improve on your 
+own knowledge, or just to browse the archives, head over to:
+ 
+http://www.accessifyforum.com/ .
+ 
+[Special notice ends].
+ 
+
+++Sponsored notice: Author Donna Jodhan announces release 
+of "12 days of Christmas" box set
+ 
+More and more people are using audio books to relax, and 
+stimulate their imaginations. My name is Donna Jodhan and 
+since 2010 I have been using my audio mysteries to help 
+thousands from around the world to do just that – for pennies 
+at a time.
+ 
+My new 12-episode Christmas series is filled with riveting 
+Christmas mysteries for all ages. Recorded in my own voice 
+and in my own unique style, let me help capture the true spirit 
+of Christmas!
+ 
+Download a free sample, available in the third week of 
+November at:
+http://www.donnajodhan.com/store.html.
+ 
+[Sponsored notice ends]
+ 
+
+++End Notes.
+ 
++How to Receive the Bulletin.
+ 
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other 
+email addresses to subscribe in the body of the message. Please 
+encourage all your colleagues to sign up! To unsubscribe at any 
+time, put 'unsubscribe eab' in the subject header.
+ 
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+ 
+Copyright 2014 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including 
+this copyright notice are included, and as long as people are 
+always encouraged to subscribe with us individually by email. 
+Please also inform the editor when you are reproducing our 
+content. Sections of the bulletin may be quoted as long as they 
+are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+ 
++Personnel:
+Editor: Dan Jellinek.
+Associate Editor: Tristan Parker.
+Editorial advisor: Kevin Carey.
+ 
+ISSN 1476-6337.
+ 
+[Issue 172 ends.]

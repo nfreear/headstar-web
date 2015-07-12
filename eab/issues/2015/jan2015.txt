@@ -1,0 +1,306 @@
+
+E-Access Bulletin: Jan/Feb 2015 - Educational technology; eAccess conference preview; mobile guidelines
+Dan Jellinek [dan@headstar.com]
+Sent:	15 February 2015 19:10
+To:	eaccess@headstar.com
+
+
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 174, January/February 2015.
+ 
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+Please forward this free bulletin to others (subscription details at the end).
+ 
+ 
+++Issue 174 Contents.
+ 
+01:  ‘Immersion box’ wins educational technology contest
+- Interactive video supports people with learning disabilities.
+ 
+02: Bristol accessibility group ‘could be national model’
+- Cross-sector meetings aim to share solutions
+ 
+03: Accessibility maturity models unpicked at eAccess event
+- Benchmarking systems under the microscope.
+ 
+News in Brief:
+04: Winning Customs – award for government body; 05: Guide 71 - accessibility help for standards developers; 06: Mobile Description - audio description app trial.
+ 
+Section Two: 'The Inbox' - Readers' Forum.
+07: Silent Treatment: Audio description of films and TV series on DVD and video by demand services is patchy at best, and too often absent. Reader Andrea Wilson asks - is it time to pass a law?
+ 
+Section Three: Special Focus - Mobile Accessibility.
+08: Moving With The Times: Mobile internet access is a liberation, and many devices have built-in accessibility, says Chris Bailey. However, clear guidance on best practice can be hard to find.
+ 
+[Contents ends].
+ 
+ 
+++Sponsored Notice: GeorgiePhone
+ 
+The Android smartphone for people with all levels of sight loss.
+GeorgiePhone is a family of Android smartphone apps that make using your phone and carrying out everyday tasks quick and easy for everyone.
+ 
+GeorgiePhone’s big bright buttons and words with colour choices make phoning and texting easy, and for those who can’t see, everything can speak. Choose from:
+ 
+- Apps to make bus and walking journeys less stressful, helping you find where you are, and what’s around;
+- Apps for surfing the web, enjoying  YouTube, setting calendar reminders, speaking the colour of your clothes; reading your mail
+- And many more!
+ 
+Download today from Google Play Store: just search on ‘GeorgiePhone’.
+ 
+[Sponsored Notice ends].
+ 
+ 
+++Sponsored Notice: Traveleyes
+- The World Travel Company With A Difference
+- Anniversary Discount Offer For EAB Readers.
+ 
+Traveleyes is a world travel company with a difference, providing hand-made, multi-sensory group holiday vacations for both blind and sighted travellers, who journey together to stunning world destinations.
+ 
+April 2014 marks our 10-year anniversary. To celebrate this proud milestone, Traveleyes is giving sight back to those suffering from preventable blindness in some of the world’s poorest countries. So far we have cured blindness in more than 120 people! We aim to reach 500 before April 2015.
+ 
+By booking onto one of our exciting holidays, you too can help. What’s more, as an introductory offer for E-Access Bulletin readers, we will give you a £50 voucher to use against the price of your holiday booking. For your voucher code, email us now at
+info@Traveleyes-international.com
+ 
+Terms and conditions apply.
+ 
+[Sponsored Notice ends].
+ 
+ 
+++Section One: News.
+ 
+01:  ‘Immersion box’ wins educational technology contest.
+ 
+A project to create interactive video and multi-sensory environments for people with learning disabilities has been awarded almost £80,000 in a competition to find the most innovative learning technologies.
+ 
+Project Immersion, from technology and design company seeper, won the award in the ‘Learning technologies: design for impact’ competition organised by government agency Innovate UK with the Department for Business, Innovation and Skills.
+ 
+Among its key elements is an ‘Immersion box’ that projects video onto walls. Learners can interact with the footage and control aspects of it using gestures or touch. Project Immersion aims to help those with learning disabilities increase their skills, work with others and adjust to new environments.
+ 
+The competition, announced in 2014, sought proposals for innovative ways of using technology as an educational aid.
+ 
+In total, 15 winning projects were chosen to receive funding. Other winners included SafeReads, a tool to help children aged 8-14 with dyslexia. Created by assistive technology company Dolphin Computer Access, it offers learners literacy advice and support and can be installed on a range of devices. Teachers and parents have access to an interactive web portal where best practice on using the SafeReads tool can be shared.
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1100 .
+ 
+ 
++02: Bristol accessibility group ‘could be national model’
+ 
+A cross-sector group of technology developers, academics and public sector workers, formed in the UK city of Bristol to exchange knowledge about digital accessibility, could be a model for similar initiatives across the country, one of the group’s founders has told E-Access Bulletin.
+ 
+Léonie Watson, an accessibility consultant who advises the Government Digital Service, said the idea for Accessible Bristol ( http://www.accessiblebristol.org.uk ) was first sown about three years ago when she was working at digital agency Nomensa. Alongside colleagues from her work, Watson joined forces with developers from Bristol City Council and University of Bristol.
+ 
+“We realised there was a thriving tech scene in Bristol, and quite a concentration of accessibility and usability companies and accessibility and usability departments within bigger companies such as Nokia and Orange”, Watson said. “So we thought – why don’t we create something to bring people together?”
+ 
+After a year of activity, the group petered out in 2013 as some of its core people moved away or changed jobs, she said. Then a few months ago, a conversation on Twitter started by someone looking for accessibility experts in Bristol led to Watson pointing out the group was still there, but dormant. “We had an overwhelming response.” The group has now been restarted with monthly speaker sessions followed by open discussion and networking. January speaker was Steve Faulkner, technical director for web accessibility at the Paciello Group and co-editor of the HTML5 specification. Its February speaker is set to be Ian Pouncey, senior accessibility specialist at the BBC.
+ 
+The idea behind the events is to give developers and designers in the city, the chance to hear some excellent speakers and to get to know each other in the hope they can share information and solutions, Watson said. “There are umpteen developers in different teams across the city all going through the same problems, so there is a good chance someone, somewhere has found a solution.” The group can also start bringing practitioners together with people with disabilities, allowing developers to talk to people using a range of different devices or assistive technologies, she said.
+ 
+Watson said she is not aware of such a diverse accessibility practitioner group meeting elsewhere in the UK, though the model should translate well to other areas. “If it works, it would be brilliant if other places took it up.”
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1092 .
+ 
+ 
++03: eAccess event reviews accessibility maturity models
+ 
+Alternative models for benchmarking an organisation’s maturity in digital accessibility are to be examined at this month’s eAccess conference, hosted by E-Access Bulletin n London on 24 February.
+ 
+Professor Jonathan Hassell, director of consultancy Hassell Inclusion, will ask - with organisations spending more on accessibility than ever, how should they ensure that the money and effort they are investing is strategic? What do organisations need to do to embed accessibility throughout their teams so their work results in accessible products? And how should organisations measure the return on their investment in accessibility?
+ 
+Meanwhile Paul Smyth, Head of IT Accessibility at Barclays, will describe the bank’s work with the Business Disability Forum to help develop its accessibility maturity model, used by major organisations including HMRC and EY.
+ 
+Smyth will also offer insights into the best ways of supporting employees with disabilities, including access to technology in the workplace. He will describe “how technology is enabling a diverse workforce, which in turn is having a profound impact on accessible services for the bank’s customers.”
+ 
+In a plenary session on the future of UK accessibility policy Kevin Carey, chair of the independent Digital Accessibility Alliance, will outline the aims and work plan for the alliance, a new cross-sector advisory group supported by the Department for Culture, Media and Sport.
+ 
+The policy session will also feature Kathleen Egan, programmes manager at Age UK London, who will present research into the digital needs of older people; and examine the most effective partnership approaches for building digital literacy for older people.
+ 
+Keynote speaker this year is Amar Latif, a blind 39-year-old world traveller, entrepreneur, TV actor and director who is founder of ‘Traveleyes’, the world’s first commercial air tour operator to specialise in serving blind as well as sighted travellers. Effective use of technology has been central to his story, and Latif will present his insights into the inspirational role technology can play in the liberation of “those who live without eyesight, but can nonetheless be rich in vision”.
+ 
+Meanwhile Graham Armfield, web accessibility consultant at Coolfields Consulting and a member of the voluntary Make WordPress Accessible initiative, will ask - can the popular free, open source content management system WordPress help make the web more accessible?
+ 
+WordPress now powers more than 20% of the world’s websites, Armfield will say. Initially just a blogging tool, it has developed over the years to support sites for all kinds of organisations from businesses to public bodies and charities. But how easy is it to create an accessible website with WordPress? And what are the pitfalls?
+ 
+Other topics to be covered include the importance of accessibility in the connected home of the future; accessibility of e-book formats; media player accessibility; and the tension between quantity and quality in subtitling for online, broadcast and live content.
+ 
+For more information and to register your place for 24 February, visit:
+http://www.eaccess-event.com
+ 
+ 
+++News in Brief:
+ 
++04: Winning Customs: The UK government tax authority HM Revenue & Customs is among winners in digital technology categories of the 2014 Disability-Smart Awards, announced in December by their organiser Business Disability Forum. The awards are given to organisations that demonstrate an outstanding commitment to employing, working with and doing business with disabled people. HM Revenue & Customs won the ICT category, and the department’s ICT accessibility lead Sean Smith also won a “disability champion” award. Most accessible website was won by Barclays. Business Disability Forum is a not-for-profit business consortium that represents 400 organisations employing 20% of the UK workforce. The 2015 awards scheme will open for entries in early 2015. For more information visit:
+http://www.disabilitystandard.com.
+ 
+ 
++05: Guide 71: A guide to including accessibility to people with disabilities, children and older people in the development of technical standards including ICT standards has been published by three international standards bodies. The “Guide for addressing accessibility in standards” was published by the International Electrotechnical Commission (IEC), International Organization for Standardization (ISO) and the International Telecommunications Union (ITU). ISO/IEC Guide 71: provides practical advice to standards developers so they can address accessibility in standards. It has three main aims: to help designers, manufacturers and educators gain a better understanding of accessibility requirements; to increase the number of standards containing accessibility considerations, with perhaps a greater number focusing specifically on accessibility; and to integrate accessibility features into standards – and product or service design – from the outset. International Electrotechnical Commission:
+http://www.iec.ch
+ 
+ 
+06: Mobile Description: Trials of a new mobile app allowing blind or vision-impaired users to access audio description (AD) for video-on-demand services such as Sky Go, Now TV, Netflix, iTunes and Amazon Instant Prime has been launched by RNIB. Until now users have had no way to access AD for video-on-demand services, with technical barriers cited as one of the main reasons for the gap. According to RNIB, the MovieReading app developed by Italian firm Universal Multimedia Access “listens to” the soundtrack of the film through the smartphone or tablet’s microphone to sync a downloaded AD track. It is available for both Apple iOS and Android users. The trial launched on 1 February and is due to complete on 31 May. For more information contact:
+adapp@rnib.org.uk .
+ 
+[Section One ends].
+ 
+ 
+++Sponsored Notice:
+121 Captions – for all your captioning and subtitling needs
+ 
+121 Captions deliver live remote captioning of your meetings, events, lectures, webinars and TV programmes in less than three seconds, word-by-word in real-time, giving true access; onsite captioning from NRCPD registered captioners; and subtitles – open captions and closed captions.
+ 
+We also offer audio description; British Sign Language interpreters; expert witness forensic lipreaders; training in deaf awareness, deafblind awareness, and disability equality; and access audits.
+ 
+We specialise in subtitling short videos for YouTube, Vimeo, and your staff intranet. We are also excited to offer the world’s first audio description app. 121 Captions is managed by a deaf team who use captioning and subtitling services every day - you are in expert hands. Forget the rest, now get the best.
+ 
+Contact us at:
+Email bookings@121captions.com
+Tel 0845 527 0321, 07715 587 499
+ 
+[Sponsored Notice ends]
+ 
+ 
+++Section Two: 'The Inbox'
+- Readers' Forum.
+ 
++07: Silent Treatment: Reader Andrea Wilson writes in with a tale of frustration which will be familiar to many of our readers who are blind or have blind friends or family.
+ 
+“My blind partner and I love watching DVDs together but, disappointingly, most DVDs we would like to share are issued without audio description”, she writes. “In many of these, the dialogue is so patchy that my partner cannot follow the plot. It is frustrating for both of us when we reach the end of a film or TV episode, when I’ve spent an enjoyable hour or two, but he has to ask me what happened.
+ 
+“On many TV channels now, the programmes are audio-described at the time of broadcast, but with no description on the “Plus 1 hour” channel or official internet player services. And when the DVD of one of these is released in the shops, and also when a film becomes available to buy, an audio-described track is rarely included on the disk. This means that with many a TV programme, you have only one chance to enjoy it with full audio description – catch it at first broadcast time or you may never get another chance to hear it.
+ 
+“Not too long ago, Amazon sent me a list of 14 “hot new releases” on DVD. On checking the details in the store, I found that not one of them listed audio description as a feature. The position for deaf people was better but not much, with four titles including subtitles. The titles included The Great Fire; Grantchester; The Code; The Driver; Secrets And Lies; and Our Zoo.
+ 
+“In all, the list included titles from nine different production companies. As two of the these were high profile ITV series, I wrote to ITV asking what more I could do to raise industry awareness of the importance of Audio-described editions of films and TV programmes on DVDs . I received the following reply: “From the list of titles provided, only Grantchester and The Great Fire are commissioned by ITV. Both are made by outside production companies, so it is up to those companies to provide access services for the DVD release. ITV have no influence for them to make a provision for it, as they own the material. May I suggest contacting the production companies directly, as ITV is only responsible for DVD releases of programmes made by ITV studios.”
+ 
+“It was disheartening to notice that the only response they gave was to advise me to contact other companies, while making no reference in their reply to the fact that two of the titles were in-house ITV products, and what they may be prepared to do to improve the situation with their own titles in the future. If individuals are expected to contact each company separately about each DVD, it will take a humongous effort on the part of each viewer,  and it could be a very long time before an audio-described soundtrack made for a film or TV programme appears on the DVD as a matter of course . So, I ask here the question I put to ITV in my letter: what more can be done, and by whom, to increase the ratio of described DVDs over those where the soundtrack tells a blind person an incomplete story?
+ 
+“Could the answer be to pass a law to make it compulsory for manufacturers to make technology accessible, so blind and partially sighted people will be able to share the enjoyment of film and TV drama on an equal footing with their sighted family members?”
+ 
+Responses please to inbox@headstar.com .
+ 
+[Section Two ends].
+ 
+ 
+++Sponsored Notice: Adept transcription
+- Accessible and inclusive communication.
+ 
+Adept transcription is a disability equality company that provides accessible format documents, media and communication to your customers, colleagues and staff. We also handle distribution and customer lists.
+ 
+Being one of the few PCI-DSS approved providers we have a range of clients from national 'blue chip' firms and government bodies to micro organisations.
+ 
+Our most common formats are:
+- Braille (All codes)
+- Audio (CD, cassette, MP3, streaming)
+- Large print (soft and hard copy)
+- Easy Read (Picture assisted for people with learning difficulties)
+- e-documents and e-forms
+- Subtitles and BSL (overlaying and 'video letter' service)
+ 
+For more information see:
+http://www.adept-uk.org
+or email transcription@adept-uk.org
+ 
+[Sponsored Notice ends]
+ 
+ 
+++Section Three: Special Focus
+- Mobile Accessibility.
+ 
++08: Moving With The Times
+by Chris Bailey
+ 
+The popularity of mobile technologies has grown tremendously over the past few years, and many of us now conduct a large proportion of our web browsing on mobile devices. Apps allow you to do pretty much anything from your smartphone these days.
+ 
+For users with disabilities, the great thing is that accessibility is deeply embedded into the operating system of many mobile devices, for example with the VoiceOver screenreader on the iPhone. Many users tell us that they now rarely use their desktop machines and do most of their browsing, banking and social communication on their mobile.
+ 
+One story serves to highlight the importance of mobile accessibility. My former employer AbilityNet recently moved to new offices in central London and one of the charity’s regular accessibility testers, who is blind, was dropped off at the wrong address by his taxi. He called me and told me he was lost. Thankfully, he was able to use an accessible mobile map application to send me his location. It turned out he was about a mile away so I jumped in a taxi and went to collect him. This is a great example of how accessible technology solved what could have potentially been a dangerous situation.
+ 
+But it is important to remember that accessibility does not happen automatically – it is something which needs to be considered and implemented at all stages of design and development.
+ 
+Two of the main sets of accessibility guidelines which can be applied to mobile devices are the Web Content Accessibility Guidelines (WCAG 2.0) and Mobile Web Best Practices (MWBP), both produced by the international Web Accessibility Initiative (WAI) of the World Wide Web Consortium. However problems can arise not from the guidelines themselves, but from the level of knowledge and understanding needed to interpret and apply them. While WAI does provide supporting documentation, it is very long and, ironically, not that usable or easy to understand.
+ 
+WCAG 2.0 were developed to be platform-neutral, but they are more easily applied and testable on desktop platforms as the technologies are more mature. It takes expert interpretation to determine which guidelines are relevant and appropriate to mobile platforms.
+ 
+While MWBP 1.0 Statements may be directly relevant to mobile websites, many are not directly applicable to mobile applications or ‘apps’. MWBP statements are written from a technical and development perspective. There are fewer statements related to visual design or how an application behaves with user interaction. Ultimately, that is the main issue: mobile guidelines are not as user-centred as they should be.
+ 
+Guidelines by definition are also quite general and broad so in some cases it takes expert knowledge and interpretation to relate an issue to a specific guideline.
+ 
+In testing sessions at AbilityNet, users often report that the purpose of some icons is unclear, confirmation messages are not displayed on-screen long enough for them to read or on-screen elements such as buttons are too small or too close together, which makes activating them difficult. These are fundamental issues which could affect a wide range of users, but they are not covered by the main guidelines already mentioned.
+ 
+You can find guidelines which cover these issues in other guideline sets, such as iOS or Android development guidelines, but we cannot expect designers and developers to refer to a number of different sets of guidelines - they simply do not have the time. What is needed is a comprehensive, useful point of reference for mobile accessibility and I would expect this to come from the WAI as they are part of the body which governs web standards.
+ 
+One issue here is communication. If, as practitioners, we find that guidelines are not working, or we are finding issues not covered by guidelines, then we need to engage with the WAI. They cannot do anything about a problem if they don’t know it exists.
+ 
+Looking to the future, mobile accessibility guidelines need to be based on empirical evidence of issues which impact users in a real situation. Some guidelines need be based on the results of testing sessions held with a diverse group of users over a period of time.
+ 
+AbilityNet will continue to monitor the results of its user testing sessions, collate the issues found and publish its work for the benefit of the wider accessibility community. It has also started work on producing its own evidence-based mobile accessibility heuristics, and have spoken with the W3C about engaging directly with the WAI working groups to influence the guidelines of the future.
+ 
+If we work together, we will solve the problem, but due to the length of time it takes to produce a stable set of guidelines, this will not happen overnight.
+ 
+NOTE: Chris Bailey is accessibility lead user experience, customer experience at Vodafone Group Services and former accessibility and usability consultant at technology access charity AbilityNet. Last year the charity won an international award for its research paper ‘Investigating the appropriateness and relevance of mobile web accessibility guidelines’
+http://www.abilitynet.org.uk/news/accessibility-research-wins-international-award .
+ 
+Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1095 .
+ 
+[Section Three ends].
+ 
+ 
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+ 
+Established in 2003, Accessify Forum is a popular destination for accessibility discussion. The “site critiques” section has helped hundreds of people improve their websites, with members offering friendly, no nonsense advice.
+ 
+You'll find discussion of accessibility at all levels, from beginner to guru. So whether you’re looking to learn more about accessibility, want to help others and improve on your own knowledge, or just to browse the archives, head over to:
+ 
+http://www.accessifyforum.com/ .
+ 
+[Special notice ends].
+ 
+ 
+++Sponsored notice: Audio book mysteries to relax and enjoy
+ 
+More and more people are using audio books to relax, and to develop and stimulate their imaginations. My name is Donna J. Jodhan and since 2010 my audio mysteries have been helping thousands from around the world to do just that – for pennies at a time.
+ 
+I am an author who is blind. My audio mystery titles include ‘Young, beautiful, and smart!’
+- She had lots of friends, but someone wanted her dead.
+It all came down to jealousy, obsession, and revenge.
+Why was Carie Christiansen killed?
+ 
+Other titles include ‘The Million Dollar Mansion’, ‘The Kidnapper’s Kid’ and many more.
+ 
+Visit:
+www.donnajodhan.com
+to learn more, subscribe to my monthly newsletter or buy the audio mysteries direct, download a sample, or subscribe for unlimited access at: www.donnajodhan.com/store.html
+ 
+[Sponsored notice ends].
+ 
+ 
+++End Notes.
+ 
++How to Receive the Bulletin.
+ 
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email addresses to subscribe in the body of the message. Please encourage all your colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+ 
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+ 
+Copyright 2015 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email. Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+ 
++Personnel:
+Editor: Dan Jellinek.
+Associate Editor: Tristan Parker.
+Editorial advisor: Kevin Carey.
+ 
+ISSN 1476-6337.
+ 
+[Issue 174 ends.]

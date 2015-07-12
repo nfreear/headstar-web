@@ -1,0 +1,503 @@
+
+From: Dan Jellinek [dan@headstar.com]
+Sent: 05 May 2015 19:37
+To: eaccess@headstar.com
+Subject: E-Access Bulletin - May 2015: Connected TV; Wearable devices; Accessible smart homes.
+
+
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 175, May 2015.
+
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+Please forward this free bulletin to others (subscription details at the
+end).
+
+++Issue 175 Contents.
+
+01: Collaboration urged to boost access to 'Connected TV'
+- Call for set makers and content providers to align on accessibility
+
+02: Accessibility campaign targets Canadian government
+- Equality group urges law to remove technology barriers.
+
+03: UK companies 'need guidance on accessibility law'
+- Organisations unclear on how to comply, charity warns.
+
+News in Brief: 04: One Ring: prototype to scan and read printed text; 05:
+ABBI Days: bracelet provides audio feedback about body movements; 06:
+Council Access - web accessibility covered at local government "Share
+Digital" event.
+
+Section Two: 'The Inbox' - Readers' Forum.
+07: More Description: Frustration at poor levels of audio description for
+DVDs and on-demand TV.
+
+Section Three: Conference Report - eAccess 15.
+08: Home, Smart Home: New home control technologies could be liberating for
+people with disabilities, but cheaper mainstream systems are generally
+inaccessible, delegates at eAccess 15 heard. But a pioneering project led by
+charity Scope's Beaumont College aims to change that, writes Dan Jellinek.
+
+[Contents ends].
+
+
+++Sponsored Notice: GeorgiePhone
+
+The Android smartphone for people with all levels of sight loss.
+GeorgiePhone is a family of Android smartphone apps that make using your
+phone and carrying out everyday tasks quick and easy for everyone.
+
+GeorgiePhone's big bright buttons and words with colour choices make phoning
+and texting easy, and for those who can't see, everything can speak. Choose
+from:
+
+- Apps to make bus and walking journeys less stressful, helping you find
+where you are, and what's around;
+- Apps for surfing the web, enjoying  YouTube, setting calendar reminders,
+speaking the colour of your clothes; reading your mail
+- And many more!
+
+Download today from Google Play Store: just search on 'GeorgiePhone'.
+
+[Sponsored Notice ends].
+
+
+++Sponsored Notice: Traveleyes
+- The World Travel Company With A Difference
+- Anniversary Discount Offer For EAB Readers.
+
+Traveleyes is a world travel company with a difference, providing hand-made,
+multi-sensory group holiday vacations for both blind and sighted travellers,
+who journey together to stunning world destinations.
+
+April 2014 marks our 10-year anniversary. To celebrate this proud milestone,
+Traveleyes is giving sight back to those suffering from preventable
+blindness in some of the world's poorest countries. So far we have cured
+blindness in more than 120 people! We aim to reach 500 before April 2015.
+
+By booking onto one of our exciting holidays, you too can help. What's more,
+as an introductory offer for E-Access Bulletin readers, we will give you a
+£50 voucher to use against the price of your holiday booking. For your
+voucher code, email us now at
+info@Traveleyes-international.com
+
+Terms and conditions apply.
+
+[Sponsored Notice ends].
+
+
+++Section One: News.
+
++01: Collaboration urged to boost access to 'Connected TV'
+
+Broadcast, online and on-demand TV accessed on "connected TV" sets could be
+made more accessible if set manufacturers and content providers work
+together to improve standards, delegates heard at this year's eAccess 15
+conference in London (http://www.eaccess-event.com).
+
+Advances in text-to-speech technology and voice control of sets mean it
+ought to be possible for all content to be made more accessible to visually
+impaired people, Richard Moreton, business development manager at Samsung
+Electronic Research Institute UK, told delegates.
+
+"But to achieve a fully voiced ecosystem for the consumer is very much a
+collaborative effort", Moreton said. "Content providers, programme makers
+and broadcasters all need to participate - it's not something just down to
+TV set makers".
+
+Samsung uses a Linux-based operating system for its TV sets which is being
+opened up to help content owners offer voice navigation for all kinds of
+video and TV applications, he said. "We're looking at ways to make the API
+(application programming interface) which accesses our voice engine
+available to application writers, so they can tap into the capabilities of
+our television".
+
+The company has worked on accessibility features with RNIB and the
+accessibility working group of DTG (Digital TV Group), the body leading
+collaboration across the digital TV industry, Moreton said. These include
+text-to-speech access to the electronic programme guide and other menus; the
+ability to enlarge parts of the screen; high contrast display options; and
+voice control, "so not only will the TV talk to you, but you can talk to the
+TV."
+
+New models have expanded text-to-speech access covering all user tasks
+including set configuration, app navigation and web browsing, he said.
+Another new feature is that use of the headphone socket no longer mutes the
+main speakers, "so if you are living in a household where someone can't hear
+so well. the user with the headphones and the rest of the family can control
+the volume independently."
+
+With better collaboration on standards, it might also become possible in
+future to offer greater flexibility in display of subtitles, with the
+ability to adjust their size, colour and font, Moreton said. However here
+again, it would require content providers and hardware manufacturers to
+align standards, he said.
+
+
++02: Accessibility campaign targets Canadian government.
+
+A Canadian equality group is urging the country's government to pass a law
+giving more rights to citizens with disabilities, including better access to
+technology.
+
+Barrier-Free Canada (BFC - http://barrierfreecanada.org) is calling for the
+enactment of a Canadians with Disabilities Act (CDA), a draft of which it
+has drawn up based on existing disability law in the Canadian provinces of
+Ontario and Manitoba.
+
+The proposed act centres on 14 core principles, including that it "should
+apply to all accessibility barriers, for example physical, legal,
+bureaucratic, information, communication, attitudinal, technological, policy
+or other barriers". If implemented, the CDA would require providers of good
+and services to make their products fully accessible through universal
+design, and employers and organisations to take steps to achieve a workplace
+free of barriers for those with disabilities.
+
+BFC is chaired by Donna Jodhan, a blind accessibility advocate and author
+who won a landmark website accessibility case against the Canadian
+Government in 2012, as reported by E-Access Bulletin:
+( http://www.headstar.com/eablive/?p=770 )
+
+Jodhan told E-Access Bulletin her organisation will be "lobbying all federal
+parties - as this is an election year - through letter-writing, asking
+supporters to lobby their MPs, a town hall meeting and social media".
+
+The group has sent letters to the three federal party leaders in Canada,
+requesting meetings to discuss the CDA. Other national disability
+organisations pledging their support to the campaign include CNIB - a
+charitable organisation that helps Canadians with visual impairments - and
+the Canadian Hearing Society.
+
+
++03: UK companies 'need guidance on accessibility law'.
+
+UK companies need better guidance on digital accessibility law to help them
+understand their duties, according to a report from digital inclusion
+charity Citizens Online (http://www.citizensonline.org.uk).
+
+The UK's Equality Act 2010 is one of the furthest-reaching pieces of
+accessibility law in the world, but to date there has been no case law
+precedent set, the report finds. There has also been no significant pressure
+from government on service providers who do not make their websites, mobile
+apps, software, e-books or digital document formats accessible, it says.
+
+One problem is that the law's requirement for organisations to make
+"reasonable adjustments" to their digital services is open to
+interpretation, making it hard to mount a robust legal challenge against a
+service provider, the report says.
+
+"The law may need further elucidation to make clear what is and is not
+expected of companies and service providers in terms of compliance with
+standards and law", it says.
+
+Although national and international accessibility standards, guidelines and
+policies are well-established, published research suggests at least 80% of
+websites are still failing to meet minimum requirements for accessibility,
+the report finds.
+
+"The policy intentions are there, the standards, frameworks and technologies
+are there, the business case - compelling though not always totally
+straightforward - has been made. So why are accessibility levels so low?
+There seems to be little in the way of "teeth" to this issue, no case law
+precedent yet on web accessibility in the UK, and no significant pressure
+from government on service providers who do not make their sites or apps
+accessible," it says.
+
+The latest version of Citizen Online's pilot project Fix the Web is to be
+launched later in 2015, the charity says. The project aims to challenge
+inaccessible products and sites and "crowd-source" digital accessibility
+fixes.
+
+
+++News in Brief:
+
++04: One Ring: A prototype device worn on a ring that could help visually
+impaired people read printed text is being developed by the Massachusetts
+Institute of Technology. The FingerReader uses a miniature camera to scan
+text as the wearer's finger moves along the bottom of a line. The device
+reads the words scanned out aloud, and gives vibration feedback to alert the
+user if they veer away from the text or reach the end of a line. Its
+developers say the device could eventually be used with a smartphone app
+although it could take several years to develop into a commercial product:
+http://fluid.media.mit.edu/projects/fingerreader
+
+
++05: ABBI Days: Meanwhile a group of European academic institutions have
+developed another wearable device which can help blind people, a bracelet
+worn on the wrist or ankle that provides audio feedback about body
+movements. The prototype Audio Bracelet for Blind Interactions (ABBI) is a
+programmable, motion-sensitive audio device with Bluetooth communication
+capacity, controlled by a smartphone app. A special sequence of sounds
+allows wearers to build a sense of space and understand their own body
+movements, helping with posture control, motor co-ordination and social
+skills and hence reducing the risk of exclusion for disabled people.
+Partners in the EU-funded project are University of Glasgow; Chiossone
+Institute, Italy; University of Hamburg; Lund University in Sweden; and the
+Italian Institute of Technology. The research at Glasgow University includes
+exploring the potential of other wearable devices for providing information
+to visually impaired people:
+https://www.abbiproject.eu/
+
+
++06: Council Access: Web accessibility will be on the agenda at this year's
+local government "Share Digital" event, the new incarnation of the former
+annual "Building Perfect Council Websites" event run by the Society of IT
+Management (Socitm) with E-Access Bulletin publisher Headstar. This year's
+conference will be composed largely of best practice sharing sessions, where
+people developing digital local public services will be able to learn from
+their peers and other specialists. The event takes place on 9 July in
+central London:
+http://www.sharedigital.net
+
+[Section One ends].
+
+
+++Sponsored Notice:
+121 Captions - for all your captioning and subtitling needs
+
+121 Captions deliver live remote captioning of your meetings, events,
+lectures, webinars and TV programmes in less than three seconds,
+word-by-word in real-time, giving true access; onsite captioning from NRCPD
+registered captioners; and subtitles - open captions and closed captions.
+
+We also offer audio description; British Sign Language interpreters; expert
+witness forensic lipreaders; training in deaf awareness, deafblind
+awareness, and disability equality; and access audits.
+
+We specialise in subtitling short videos for YouTube, Vimeo, and your staff
+intranet. We are also excited to offer the world's first audio description
+app. 121 Captions is managed by a deaf team who use captioning and
+subtitling services every day - you are in expert hands. Forget the rest,
+now get the best.
+
+Contact us at:
+Email bookings@121captions.com
+Tel 0845 527 0321, 07715 587 499
+
+[Sponsored Notice ends]
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
++07: More Description: In our last issue Andrea Wilson voiced  her
+frustration at the poor levels of audio description for DVDs as well as
+on-demand and catch-up TV services.
+
+Reader Phil Jenkins writes in response: "First, I would like to say that I
+am pleased how an increasingly large number of new release DVDs do have an
+audio description (AD) track. OK, it's by no means enough of them, but some
+huge releases such as 'Star Trek' do have the AD track. Ditto I have found
+so at the cinema itself.
+
+"I also agree how terrible the on-demand services are for not having an AD
+track and for the likes of ITV to dodge responsibility because programmes
+are made by independent production companies is terrible - doesn't similar
+apply to the Beeb?
+
+"Finally, I use an Apple iOS device and I find that while the iPlayer app
+works very well and will list audio-described programmes, when one selects a
+programme from that list it is NOT audio-described as promised - last night
+I tried 'watching' Bluestone 42 and Call the Midwife, both of which were
+supposedly audio-described (and I know Call the Midwife is, when
+transmitted) but neither had the track on the iOS device. I'm not sure if
+this is a 'feature' of the iPlayer app on iOS or a failing of the BBC?
+
+Further responses please to inbox@headstar.com .
+
+[Section Two ends].
+
+
+++Sponsored Notice: Adept transcription
+- Accessible and inclusive communication.
+
+Adept transcription is a disability equality company that provides
+accessible format documents, media and communication to your customers,
+colleagues and staff. We also handle distribution and customer lists.
+
+Being one of the few PCI-DSS approved providers we have a range of clients
+from national 'blue chip' firms and government bodies to micro
+organisations.
+
+Our most common formats are:
+- Braille (All codes)
+- Audio (CD, cassette, MP3, streaming)
+- Large print (soft and hard copy)
+- Easy Read (Picture assisted for people with learning difficulties)
+- e-documents and e-forms
+- Subtitles and BSL (overlaying and 'video letter' service)
+
+For more information see:
+http://www.adept-uk.org
+or email transcription@adept-uk.org
+
+[Sponsored Notice ends]
+
+
+++Section Three: Conference Report
+- eAccess 15.
+
++08: Home, Smart Home
+by Dan Jellinek.
+
+"Smart home" technologies linking environmental controls with wireless
+internet offer powerful potential benefits to people with disabilities. The
+ability to remotely control everything from lighting and heating to window
+curtains, home electronics and almost anything else in the home powered by
+electricity can be liberating for older people, people with restricted
+mobility and those with sensory impairments.
+
+The problem, however, has been the balance between cost and accessibility of
+smart home control systems available to ordinary users, delegates heard at
+this year's eAccess 15 conference in London (http://www.eaccess-event.com).
+
+There is specialist equipment available for accessible smart home control
+but it is expensive due to the high costs of research and development and
+small market size, said Trevor Mobbs, lead assistive technologist at
+Beaumont College, a further education college for students with complex
+needs run by disability charity Scope.
+
+Users of these specialist systems do receive a high level of support but
+they also then tend to be locked in to one manufacturer and may find their
+equipment becomes out of date, Mobbs said.
+
+Mainstream smart home or home automation products are cheaper, cutting edge,
+and run on open standards, he said. However the problem is they are
+generally not particularly accessible.
+
+Beaumont College's Connect to Control project, sponsored by BT, set out to
+address this issue by developing accessible smart home technology that
+connects with cheap, widely available equipment.
+
+Students at the college helped to test a prototype, which in turn informed a
+challenge prize. This was won by the company Therapy Box which developed an
+app called SmartHub, which links off-the-shelf smart home equipment to an
+accessible interface usable on a tablet computer, smartphone or even over
+the web.
+
+"With environmental controls nobody has yet won the battle of formats, so we
+want to look at an accessible interface that would be independent of the
+main current protocols", Mobbs said.
+
+"With our prototype you can control devices using both Z-Wave
+(www.z-wave.com) and LightwaveRF (www.lightwaverf.com), which are different
+ways of controlling home features such as door openers, window openers, plug
+sockets or lights.  We created a web based system where any device that
+could visit a web page could activate the controls."
+
+Mobbs played delegates a video showing a student tester, Jodie, using a
+wheelchair-mounted communication aid controlled using a head mouse, a device
+shining an infrared beam on a reflective dot worn on her forehead to move
+the mouse pointer.
+
+Jodie used a piece of accessible communication software called Grid 2 from
+supplier Sensory Software to control other software such as a web browser,
+allowing her to use social media and also to access the smart home system
+and  control doors, lights, curtains, and even her music system.
+
+"We're trying to use technology to give our students more independence",
+Mobbs said. "We're able to set people up with a system now that costs tens
+to hundreds of pounds rather than hundreds to tens of thousands.  You can
+buy LightwaveRF gear from B&Q now, you just need a little box to plug into
+the router and then a series of plug sockets, probably for under £200. And
+we've had a bit of influence hopefully over the more specialist companies to
+move in this direction."
+
+The project has also been working with the set-top box consortium YouView -
+whose members include the BBC and BT - to make set top boxes more
+accessible, particularly for users with motor impairments, Mobbs said.  With
+YouView, the team created jointly a 'grid set' layout which can control
+every function of a YouView set top box using the Grid 2 system, he said.
+This is now published free of charge by YouView.
+
+An alternative approach would be to open up the YouView interface to give
+third parties greater access into the system and hence greater control, he
+said. "At the moment our Grid 2 controller is just an infrared remote
+control as far as the set top box is concerned and the Grid 2 controller
+doesn't know what the set top box is doing. But if it could be integrated to
+be a true second screen so it had some knowledge of the status of the box it
+could be two-way, which would create much more functionality.
+
+"That's the next thing we'd love to pursue - everyone's made encouraging
+noises so we'll see what happens."
+
+[Section Three ends].
+
+
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+
+Established in 2003, Accessify Forum is a popular destination for
+accessibility discussion. The "site critiques" section has helped hundreds
+of people improve their websites, with members offering friendly, no
+nonsense advice.
+
+You'll find discussion of accessibility at all levels, from beginner to
+guru. So whether you're looking to learn more about accessibility, want to
+help others and improve on your own knowledge, or just to browse the
+archives, head over to:
+
+http://www.accessifyforum.com/ .
+
+[Special notice ends].
+
+
+++Sponsored notice: Audio book mysteries to relax and enjoy
+
+More and more people are using audio books to relax, and to develop and
+stimulate their imaginations. My name is Donna J. Jodhan and since 2010 my
+audio mysteries have been helping thousands from around the world to do just
+that - for pennies at a time.
+
+I am an author who is blind. My audio mystery titles include 'Young,
+beautiful, and smart!'
+- She had lots of friends, but someone wanted her dead.
+It all came down to jealousy, obsession, and revenge.
+Why was Carie Christiansen killed?
+
+Other titles include 'The Million Dollar Mansion', 'The Kidnapper's Kid' and
+many more.
+
+Visit:
+www.donnajodhan.com
+to learn more, subscribe to my monthly newsletter or buy the audio mysteries
+direct, download a sample, or subscribe for unlimited access at:
+www.donnajodhan.com/store.html
+
+[Sponsored notice ends].
+
+
+++End Notes.
+
++How to Receive the Bulletin.
+
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email
+addresses to subscribe in the body of the message. Please encourage all your
+colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in
+the subject header.
+
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+
+Copyright 2015 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright
+notice are included, and as long as people are always encouraged to
+subscribe with us individually by email. Please also inform the editor when
+you are reproducing our content. Sections of the bulletin may be quoted as
+long as they are clearly sourced as 'taken from e-access bulletin, a free
+monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+
++Personnel:
+Editor: Dan Jellinek.
+Associate Editor: Tristan Parker.
+Editorial advisor: Kevin Carey.
+
+ISSN 1476-6337.
+
+[Issue 174 ends.]

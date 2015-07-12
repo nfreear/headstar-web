@@ -1,0 +1,322 @@
+	
+E-Access Bulletin, September 2014: Million dollar boost for low cost braille display
+Dan Jellinek [dan@headstar.com]
+Sent:	30 September 2014 09:31
+To:	
+eaccess@headstar.com
+
+++E-ACCESS BULLETIN
+Access To Technology For All, Regardless Of Ability
+- ISSUE 171, September 2014.
+ 
+A Headstar Publication.
+http://www.headstar.com/eab/ .
+Please forward this free bulletin to others (subscription details at the end).
+ 
+ 
+++Issue 171 Contents.
+ 
+01: Million dollar boost for low cost braille display
+- New technology could revolutionise book access worldwide.
+ 
+02: Mapping mobility access across Europe
+- research support for “Wheelmap” open source tool.
+ 
+03: Lack of skills and awareness fuel web inaccessibility: survey
+- Practitioners’ research highlights wide-ranging problems.
+ 
+News in Brief: 04: Spurs Access - football club offers ground navigation tool; 05: Flight Description: Emirates airline introduces in-flight movie audio description; 06: Life Designs - independent living competition; 07: Passenger Survey: European transport review.
+ 
+Section Two: 'The Inbox' - Readers' Forum.
+08: Shifting Sands? Reader query on stability and accessibility of free online email services.
+ 
+Section Three: Q & A - Euan MacDonald, Founder, Euan’s Guide
+09: Information Is Power: EAB interviews the founder of an award-winning community access review website helping disabled people share their tips on best locations and services.
+ 
+[Contents ends].
+ 
+ 
+++Sponsored Notice: GeorgiePhone
+ 
+The Android smartphone for people with all levels of sight loss.
+GeorgiePhone is a family of Android smartphone apps that make using your phone and carrying out everyday tasks quick and easy for everyone.
+ 
+GeorgiePhone’s big bright buttons and words with colour choices make phoning and texting easy, and for those who can’t see, everything can speak. Choose from:
+ 
+- Apps to make bus and walking journeys less stressful, helping you find where you are, and what’s around;
+- Apps for surfing the web, enjoying  YouTube, setting calendar reminders, speaking the colour of your clothes; reading your mail
+- And many more!
+ 
+Download today from Google Play Store: just search on ‘GeorgiePhone’.
+ 
+[Sponsored Notice ends].
+ 
+ 
+++Sponsored Notice: Traveleyes
+- The World Travel Company With A Difference
+- Anniversary Discount Offer For EAB Readers.
+ 
+Traveleyes is a world travel company with a difference, providing hand-made, multi-sensory group holiday vacations for both blind and sighted travellers, who journey together to stunning world destinations.
+ 
+April 2014 marks our 10-year anniversary. To celebrate this proud milestone, Traveleyes is giving sight back to those suffering from preventable blindness in some of the world’s poorest countries. So far we have cured blindness in more than 120 people! We aim to reach 500 before April 2015.
+ 
+By booking onto one of our exciting holidays, you too can help. What’s more, as an introductory offer for E-Access Bulletin readers, we will give you a £50 voucher to use against the price of your holiday booking. For your voucher code, email us now at
+info@Traveleyes-international.com
+ 
+Terms and conditions apply.
+ 
+[Sponsored Notice ends].
+ 
+ 
+++Section One: News.
+ 
++01: Million dollar boost for low cost Braille display.
+ 
+An international project to build a low-cost refreshable braille display for computers is reaching fruition, with new plans announced for a technology retailing at less than 20% of current prices.
+ 
+Refreshable braille devices are formed of plastic “cells”, small grids of holes through which rods rise and fall, triggered by an electric current using a technology known as “piezoelectric”. A line of Braille forms as a computer reads across text.
+ 
+Product mark-ups are currently high among the few specialist firms who manufacture the cells mainly in the far East, with each cell costing around 100 US Dollars and full displays reaching thousands. However the new project is being supported to the tune of $1m by the Transforming Braille Group (TBG), a global consortium of organisations of and for the blind, led by RNIB in the UK. Other members are American Printing House for the Blind; National Federation of the Blind; and Perkins School for the Blind in the US; The Norwegian Association of the Blind and Partially Sighted; Sightsavers, Mumbai, India; Association Valentin HAüY, France; Blind Foundation in New Zealand; Vision Australia; and The Canadian National Institute for the Blind.
+ 
+The group has commissioned Orbit Research, an engineering company based in Delaware, US to develop and manufacture a stand-alone 20-cell refreshable braille display which would then retail at $300 (£200) – less than 20% of the current market price.
+ 
+The display will be designed to work as a plug-in device through USB and Bluetooth connectivity with smartphones and tablets. It is intended primarily to bring e-books to a wider audience, but not to compete with more permanent, high-specification displays used in education and employment.
+ 
+The investment plan was first hatched more than two years ago by Kevin Carey, chair of RNIB and TBG president, in a bid to bring refreshable braille within the reach of children in developing countries and provide libraries in all countries with a viable alternative to hard copy braille (see “Global investment plan for cheaper braille displays”, EAB issue 144, 23 January 2012 - http://www.headstar.com/eablive/?p=670 ).
+ 
+Many groups in both the developed world and the developing world are currently spending large amounts on printed materials for Braille libraries, Carey told E-Access Bulletin this month. But if they were able to buy displays at £200 each, they could “massively reduce” the costs of bringing literature to braille readers, he said.
+ 
+Group action to invest in a new solution was needed because of long-term market failure in the sector, Carey said. “My single aim has always been to destroy the floor price of refreshable Braille”, he said. “At the moment, almost all people buy Braille cells from a small number of suppliers at a fixed price, and mostly get their equipment funded by the public sector. The major suppliers have had their own way for the last 40 years, since piezoelectric cells were introduced in the 1970s. The market was just stuck.”
+ 
+The move could also stimulate innovation by other major suppliers, leading to greater competition and even lower prices, Carey said. “It is immensely exciting for Western libraries but even more exciting for third world kids, who are currently using smartphones – having something read out or spelled word by word is not genuine literacy: it is much better to have kids read symbols than hearing them spoken.”
+ 
+The group plans to launch the new product in 2016.
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1061 .
+ 
+ 
++02: Mapping mobility access across Europe.
+ 
+An open source map that plots information on accessibility of public spaces is being enhanced by a European Commission-funded research project.
+ 
+The CAP4Access project
+(http://cap4access.eu/ )
+aims to improve the Wheelmap platform
+( http://wheelmap.org/ ),
+an interactive website that allows users to input mobility information about an area using editable mapping platform OpenStreetMap. Information might cover issues such as how accessible an area is to those with mobility impairments, such as wheelchair users and those with walking aids.
+ 
+Users visit the Wheelmap website and ‘tag’ areas with category symbols, such as ‘leisure’, ‘shopping’, ‘food’ and ‘accommodation’, before choosing a colour for the symbol to indicate partial, full or no wheelchair accessibility, or ‘unknown’ status.
+ 
+CAP4Access aims to develop more advanced tools for the collection of accessibility data such as route planning and navigation for users with limited mobility. New accessibility data will be submitted through Wheelmap, as well as other OpenStreetMap platforms such as Mapping For Change
+( http://www.mappingforchange.org.uk ),
+using a smartphone, tablet or desktop computer. Other accessibility information from existing sources, such as public sector open data, will also be added.
+ 
+Partially funded under the European Commission’s ICT Policy Support Programme, CAP4Access is currently in a three-year test phase and is being piloted in four cities: Vienna, Austria; Elche, Spain; Heidelberg, Germany; and London. UK project partners include University College London.
+ 
+Karsten Gareis, project manager of CAP4Access, told E-Access Bulletin one longer-term aim is to establish Wheelmap in countries that don’t currently use the platform. Another is to “firmly establish online routing and navigation for people in wheelchairs and other people with limited mobility – make it available in the same way that navigation and routing have become common tools for non-disabled travellers”, Gareis said.
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1059 .
+ 
+ 
++03: Lack of skills and awareness fuel web inaccessibility: survey
+ 
+Lack of skills or knowledge and lack of awareness of web accessibility are responsible for the great majority of website accessibility problems, according to a US survey of web accessibility practitioners.
+ 
+Almost four in 10 respondents (36.6%) rated lack of skills and knowledge as the primary reason behind web site accessibility; and only slightly fewer (36.2%) lack of awareness. Other factors cited were Fear that accessibility will hinder the look, feel, or functionality of a website (13.2%); and lack of budget or resources to make it accessible (13.9%).
+ 
+The research was conducted by WebAIM, a non-profit accessibility research, software and services body based at the Center for Persons with Disabilities at Utah State University
+( http://webaim.org/projects/practitionersurvey/ ). The body surveyed 900 web accessibility practitioners from North and Central America (58%); Europe (28%) and worldwide, working in all sectors.
+ 
+Most of the web accessibility practitioners responding only work in their roles part-time, the research found. While 51.3% indicate that web accessibility is their official role or a significant part of their job assignment, only 29.3% spend more than 30 hours per week in this area. Meanwhile just under a third of respondents (31%) said accessibility work represents “a small part of my work or assignments”; and nearly one in five (17.7%) carry out accessibility work on their own initiative, or as a volunteer.
+ 
+Asked which was the main factor behind their organisation's motivation for implementing accessibility, just under a third (31.4%) said Compliance with guidelines and/or best practices. About one quarter (25.7%) said Moral motivation (it's the right thing to do); a similar number (25.6%) said Legal, contractual, or structured negotiation requirements; other factors included Fear of a lawsuit or complaint (10.9%).
+ 
+Within an organisation, management support was cited as the most critical factor to ensuring a successful web accessibility effort (36.7%); followed by Staff that are proficient in accessibility (24.8%); A clearly defined policy and/or guidelines (22.3%); Sufficient budget or time support (13.9%); and Legal mandates and requirements (8.7%).
+ 
+The survey also found that people working in the web accessibility field are generally older, better paid, and better educated than their peers in the wider field of web development, and that the accessibility field has a larger proportion of women and people with disabilities than other technology fields.
+ 
+However, a significant pay disparity exists for people with disabilities, who earn an average of at least $12,400 less than those without disabilities despite having very similar education level and years of experience, it found.
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1057 .
+ 
+ 
+++News in Brief:
+ 
++04: Spurs Access: Tottenham Hotspur FC has become the first Premier League football club to offer disabled fans access step-free matchday directions using the PhotoRoute mobile app, the club has announced. The app, also accessible through a web browser from a mobile or desktop device, tells a visual story with directions. It was developed by specialist firm Enabled City. Drop-down menus allow fans to select a starting point such as a disabled parking facility or local underground station; and an end-point of a specific entrance to Spurs’ home ground of White Hart Lane. Once inside the ground, fans can also navigate indoor routes to disabled seating areas. The service can be accessed on a mobile device at:
+Short Link: http://bit.ly/1vpinOQ
+Long Link: http://m.tottenhamhotspur.com/matchday-travel/disabled-access-directions/
+ 
++05: Flight Description: Emirates has become the first airline to introduce audio description for visually impaired passengers for films on its inflight entertainment system, the company has said. The system, ice Digital Widescreen, offers audio description tracks on 16 Walt Disney Studios films such as Monsters University and Marvel’s The Avengers:
+http://www.emirates.com
+ 
++06: Life Designs: A competition inviting people to put forward their products or ideas to support disabled people of all ages with independent living has been launched by law firm Irwin Mitchell and charity Disability Rights UK with support from innovation agency NESTA. “Design for Life” categories are Daily activities; Preparing meals, eating and drinking; Gardening, hobbies or leisure; Tasks around the house; Personal care; Interacting and communication; Memory or mood; Dressing; and Shopping. Irwin Mitchell will provide funding of up to £10,000 for the development of a prototype of the overall winning entry, with gift voucher prizes also on offer. Entries are invited by 1 December at:
+www.irwinmitchell.com/designforlife
+ 
++07: Passenger Survey: A survey of disabled travellers’ experiences on all forms of transport in Europe has been launched by the international campaign group European Disability Forum. The survey is aimed at gauging the effectiveness of new EU laws on passengers’ rights by air, rail, long-distance bus and coach and sea. Examples of problems they are keen to hear about include people being denied boarding because of their disability; or a lack of accessible travel information. Readers are invited to send their stories by email to:
+marie.denninghaus@edf-feph.org
+Contributions may also be made on Facebook or Twitter using hashtag #FreeMove .
+ 
+[Section One ends].
+ 
+ 
+++Sponsored Notice: Bee Communications
+- Specialist Providers of Captioning.
+ 
+Bee Communications has joined the Ai-Media group and is now able to offer classroom, lecture, meeting or event captioning on the game-changing Ai-Live platform. Real-time captions are streamed to a web-enabled device, and a transcript can also be provided after each session. The system is optimised for tablet use, with significant improvements to dictionary and transcript functionality, enhanced security, and an accessible caption viewer including dyslexic fonts and optimised colour palettes.
+ 
+Captioning helps people learn and interact by providing equality of access to live content. For more information, please contact:
+beth.abbott@ai-live.com .
+ 
+[Sponsored Notice ends].
+ 
+ 
+++Section Two: 'The Inbox'
+- Readers' Forum.
+ 
++08: Shifting Sands? Reader Mubanga Chipalo of Zambia writes in with a query about the stability and screen-reader compatibility of free online email services.
+ 
+“What kind of [web service] can I use to create email accounts which do not change from time to time?”, writes Chipalo. “Because each time I create email accounts on Google I receive the following message: ‘You are using a version of this browser which will soon be unsupported. Some features may not work correctly. Upgrade to a modern browser such as Google Chrome.’
+ 
+“Now this message [worries me] because I don’t know whether... I am likely to lose correspondence I am writing. At first before I created an account in Gmail which I am using right now I began with Googlemail then Google switched [that] off, then I came to try Google Chrome and it keeps quiet when I try to use it.
+ 
+“Google [should know] that each time they are making changes they also disadvantage blind people who rely by using their search engine. If it is possible they should employ people who use screenreaders so that they should give proper advice to the programmers working on changes used by screenreaders.”
+ 
+Responses please to inbox@headstar.com .
+ 
+[Section Two ends].
+ 
+ 
+++Sponsored Notice: Adept Transcription
+- Alternative Formats At Affordable Prices.
+ 
+When you want alternative formats for disabled colleagues, customers and staff, call Adept.
+ 
+Formats we produce include audio, audio description, Braille, BSL, Easy Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at prices from a penny a word.
+ 
+Whether handling a newsletter, training DVD, equality scheme, public service leaflet, contract or consultation, we provide:
+- One-stop shop for all formats
+- Products quality-checked by users
+- Corporate presentation including your house style
+- Fast turnaround of one document or thousands
+- Multi-format discounts
+- Accessible packaging
+ 
+Contact us at:
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+Email transcription@adept-uk.org
+ 
+[Sponsored Notice ends]
+ 
+ 
+++Section Three: Q & A
+- Euan MacDonald, Founder, Euan’s Guide
+ 
++09: Information Is Power.
+ 
+Euan’s Guide is a website and app that allows people to share reviews about the accessibility for disabled people of shops, restaurants or any community location. Its most-reviewed areas include Edinburgh; London; Glasgow; York; Sheffield; Cardiff; Birmingham; Aberdeen; Newcastle-Upon-Tyne; and Cambridge. In July, the website won the People's Choice award in a BT Infinity Lab "Connected Society" competition seeking solutions to social issues, and celebrity supporters include J K Rowling and Professor Stephen Hawking. Here, the site’s founder Euan MacDonald speaks to E-Access Bulletin about the inspiration for his project.
+ 
+- What motivated you to create Euan's Guide?
+ 
+I was diagnosed with Motor Neurone Disease 10 years ago, and then when I started to use a wheelchair five years ago I realised how difficult it was to find good disabled access information. It got myself and my sister Kiki thinking that we would like to share our favourite places that we had discovered had good disabled access, and learn from others about their favourite places too.
+ 
+My family and I have funded the service’s development ourselves, and we have set it up as a not-for-profit organisation.
+ 
+ 
+- Did you have any experience creating websites or apps?
+ 
+Not really! Certainly one of our biggest challenges and one of the most interesting for me was making sure that the site and the app is accessible for everyone. For example, I use eye gaze technology with a hands-free system, which can make some websites tricky to navigate, so we have worked hard to make the navigation clear to follow and easy to use. Some areas required the creation of bespoke functions such as the buttons to move around the maps. We’ve also developed the site and app to exploit the native accessibility functionality of smartphones such as voice input and output.
+ 
+ 
+- What are the main aims of Euan’s Guide?
+ 
+The main aim of the website is to empower disabled people by giving them information that will give them choices and confidence for getting out and about. I call this “removing the fear of the unknown”, which is something experienced by many disabled people.
+ 
+Success stories for us are getting reviews from places that we would not have thought were accessible and being told that they’re great! Edinburgh Castle, T in the Park Festival and London’s Cutty Sark are prime examples of this.
+ 
+There are a whole host of related things that we hope will follow, such as businesses realising how much of a demand there is for their services to be accessible. There are more than 11 million disabled people and more than 6.5 million carers in the UK alone. We’ve already had venues that have contacted us saying that they have acted on what our reviewers have told them and made improvements. It is also worth mentioning that not all changes have to cost lots of money - there are some really simple things that some businesses can do to improve their accessibility and staff play such a huge part in this too. And of course, making your venue or service more accessible will not only help disabled people but will also aid the elderly, infirm and parents with buggies too.
+ 
+We also hope that Euan’s Guide may encourage more disabled people online. There are stats to suggest that in the UK, disabled people are a third less likely to have used the internet than non disabled people.
+ 
+ 
+- Do you think new technologies such as smartphones, apps, GPS and mobile social networking have a liberating potential for people with disabilities?
+ 
+The combination of accessibility, portability and mobile data have created fantastic opportunities when out and about. It is now possible to ask your phone verbally where you are, have your location read aloud to you, receive directions and find places of places of interest that are near to you, all combining to give people spontaneity in their daily lives.
+ 
+As for the future - who knows? From turning your phone into a magnifying glass to becoming a telecare tool, a portable health monitor and AAC device, there are apps that can already do so much to help people live an independent life… and these are just apps that we’ve heard about in the last couple of weeks!
+ 
+We’re starting to see emergence of disabled people working with talented technically minded people to identify problems and create the solutions.
+ 
+ 
+- How important is digital accessibility?
+ 
+Digital accessibility is critical as it may be the only means a disabled person has of independently engaging in a timely fashion with service providers.
+ 
+A classic example of this is a friend of mine who is registered blind. Digital accessibility allows him to read his post and check his bank statements, and therefore to run his business and earn a living. Just 10 years ago much of this was not possible and he had to employ a PA to manage these tasks, which often took much longer and encroached on his privacy.
+ 
+However, one of my pet hates at the moment is where organisations have attempted digital inclusion but have not ‘connected the dots’. Regularly I come up against this when trying to buy tickets for events and accessible tickets are not available to buy online. There is inevitably a phone number to ring and as I can’t use the phone I have to get other people to do this on my behalf - frustrating is an understatement!
+ 
+ 
+- What does the future hold for Euan’s Guide?
+ 
+Of particular interest to me is what people think of the site and how we can improve it and we regularly make changes to the site based on their suggestions. And we would always like more reviews, by more reviewers!
+ 
+Euan’s Guide: www.EuansGuide.com
+ 
+NOTE: Comment on this story now, on EAB Live:
+http://www.headstar.com/eablive/?p=1055 .
+ 
+[Section Three ends].
+ 
+ 
+++Sponsored Notice: Accessify Forum
+- Accessibility Discussion.
+ 
+Established in 2003, Accessify Forum is a popular destination for accessibility discussion. The “site critiques” section has helped hundreds of people improve their websites, with members offering friendly, no nonsense advice.
+ 
+You'll find discussion of accessibility at all levels, from beginner to guru. So whether you’re looking to learn more about accessibility, want to help others and improve on your own knowledge, or just to browse the archives, head over to:
+ 
+http://www.accessifyforum.com/ .
+ 
+[Special notice ends].
+ 
+ 
+++Sponsored notice: Audio book mysteries to relax and enjoy
+ 
+More and more people are using audio books to relax, and to develop and stimulate their imaginations. My name is Donna J. Jodhan and since 2010 I have been using my audio mysteries to help thousands from around the world to do just that – for pennies at a time.
+ 
+I am an author who is blind. My audio mystery titles include ‘Young, good-looking, and brilliant!’ [plot summary follows]:
+Who says that success does not come with a price tag? Especially when there are secrets lurking in the background, and this was Senator Christian Jansen's downfall. There was one who did not want the senator to run as president because he would be too difficult to handle. Another wanted the senator dead for breaking his promise to an oil company. And a Mafia boss who felt that the senator would be dangerous to them as president.
+Who could have done it? [plot summary ends] Other titles include ‘The Million Dollar Mansion’, ‘The Kidnapper’s Kid’ and many more.
+ 
+Visit www.donnajodhan.com to learn more, subscribe to my monthly newsletter or buy the audio mysteries direct at:
+www.donnajodhan.com/store.html .
+[Sponsored notice ends]
+ 
+ 
+++End Notes.
+ 
++How to Receive the Bulletin.
+ 
+To subscribe to this free monthly bulletin, email
+eab-subs@headstar.com
+with 'subscribe eab' in the subject header. You can list other email addresses to subscribe in the body of the message. Please encourage all your colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in the subject header.
+ 
+Please send comments on coverage or leads to Dan Jellinek at:
+dan@headstar.com .
+ 
+Copyright 2014 Headstar Ltd http://www.headstar.com .
+The Bulletin may be reproduced as long as all parts including this copyright notice are included, and as long as people are always encouraged to subscribe with us individually by email. Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-access bulletin, a free monthly email newsletter', and our web site address:
+http://www.headstar.com/eab
+is also cited.
+ 
++Personnel:
+Editor: Dan Jellinek.
+Associate Editor: Tristan Parker.
+Editorial advisor: Kevin Carey.
+ 
+ISSN 1476-6337.
+ 
+[Issue 171 ends.]

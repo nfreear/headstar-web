@@ -1,13 +1,13 @@
 # Readme for E-Access Bulletin
 
 
-Copyright © 2000-2014 Headstar Limited.
+Copyright © 2000-2015 Headstar Limited.
 
 * <http://headstar.com/eab>
 * http://e-accessibility.com | 80.87.128.130
 * http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://headstar.com/eab/contact.html
 
-"news and research on technology 
+"news and research on technology
 for the blind and visually impaired"
 
 "a free, independent monthly e-mail newsletter on information technology issues for people with visual impairment and blindness."

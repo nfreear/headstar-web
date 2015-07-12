@@ -1,0 +1,790 @@
+
+E-Access Bulletin, November/December 2014: "Embedded outreach"; Eye gaze tech; Access to elections.
+Dan Jellinek [dan@headstar.com]
+Sent:	01 December 2014 09:16
+To:	eaccess@headstar.com
+
+++E-ACCESS BULLETIN
+
+Access To Technology For All, Regardless Of Ability
+
+- ISSUE 173, November/December 2014.
+
+
+
+A Headstar Publication.
+
+http://www.headstar.com/eab/ .
+
+Please forward this free bulletin to others (subscription details at the 
+end).
+
+
+
+
+
+++Issue 173 Contents.
+
+
+
+01: "Embedded outreach" key to digital inclusion, conference hears
+
+- Older and disabled people more receptive to trusted workers.
+
+
+
+02: Low-cost eye gaze tech shortlisted for education award
+
+- New options for pupils with complex needs.
+
+
+
+03: Online resource to boost access to elections and politics
+
+- International foundation aims to create "peer pressure".
+
+
+
+News in Brief:
+
+04: Future Inclusion - contract helps "hardest-to-reach" groups gain basic 
+digital skills; 05: Innovation Reward - £400,000 disability tech 
+competition; 06: Work Detail - portal to help US employers use accessible 
+technology.
+
+
+
+Section Two: Viewpoint - Web accessibility.
+
+07: Embedding inclusion: Most organisations do not handle accessibility 
+well - but the tools exist to take a low-cost, high reward approach, writes 
+Jonathan Hassell in an exclusive extract from his new book "Including your 
+missing 20%" by embedding web and mobile accessibility".
+
+
+
+[Contents ends].
+
+
+
+
+
+++Sponsored Notice: GeorgiePhone
+
+
+
+The Android smartphone for people with all levels of sight loss.
+
+GeorgiePhone is a family of Android smartphone apps that make using your 
+phone and carrying out everyday tasks quick and easy for everyone.
+
+
+
+GeorgiePhone's big bright buttons and words with colour choices make phoning 
+and texting easy, and for those who can't see, everything can speak. Choose 
+from:
+
+
+
+- Apps to make bus and walking journeys less stressful, helping you find 
+where you are, and what's around;
+
+- Apps for surfing the web, enjoying  YouTube, setting calendar reminders, 
+speaking the colour of your clothes; reading your mail
+
+- And many more!
+
+
+
+Download today from Google Play Store: just search on 'GeorgiePhone'.
+
+
+
+[Sponsored Notice ends].
+
+
+
+
+
+++Sponsored Notice: Traveleyes
+
+- The World Travel Company With A Difference
+
+- Anniversary Discount Offer For EAB Readers.
+
+
+
+Traveleyes is a world travel company with a difference, providing hand-made, 
+multi-sensory group holiday vacations for both blind and sighted travellers, 
+who journey together to stunning world destinations.
+
+
+
+April 2014 marks our 10-year anniversary. To celebrate this proud milestone, 
+Traveleyes is giving sight back to those suffering from preventable 
+blindness in some of the world's poorest countries. So far we have cured 
+blindness in more than 120 people! We aim to reach 500 before April 2015.
+
+
+
+By booking onto one of our exciting holidays, you too can help. What's more, 
+as an introductory offer for E-Access Bulletin readers, we will give you a 
+£50 voucher to use against the price of your holiday booking. For your 
+voucher code, email us now at
+
+info@Traveleyes-international.com
+
+
+
+Terms and conditions apply.
+
+
+
+[Sponsored Notice ends].
+
+
+
+
+
+++Section One: News.
+
+
+
++01: "Embedded outreach" key to digital inclusion, conference hears
+
+
+
+Digital inclusion projects must work with community and voluntary sector 
+bodies if the UK is to ensure people with disabilities engage with the 
+digital world, a national conference has heard.
+
+
+
+The call was made by Jude Palmer, managing director of Digital Outreach, a 
+social enterprise formed in 2007 by three organisations - Community Service 
+Volunteers, Age UK and CEL Group - to run outreach work for the UK's digital 
+TV switchover.
+
+
+
+Research at the time from lead TV switchover body Digital UK found there was 
+a group of about 20% of the population who would not naturally engage with a 
+major mainstream publicity campaign, Palmer told delegates at November's 
+digital inclusion conference hosted by non-profit Tinder Foundation.
+
+
+
+These included older people, people with a disability and those for whom 
+English is not their first language, all of whom can be socially isolated, 
+she said.
+
+
+
+"A lot of people found the switchover daunting, because TV for a lot of 
+people is their main connection out into society", Palmer said. "They were 
+putting their head in the sand, saying 'it's technical, it's not for me, why 
+do I need to change? I'm perfectly OK as I am'. So a lot of this resonates 
+with why people have not got online yet."
+
+
+
+The key to developing a successful strategy to reaching people in these 
+groups was to work with and through voluntary and community groups who are 
+already interacting with and trusted by them, she said.
+
+
+
+Palmer said the nature of "embedded outreach" was "about people hearing 
+messages from the person they see every week, every day: finding that one 
+person and that one organisation that they do trust and interact with.
+
+
+
+"We often describe it as 'knitting' - we were able to knit organisations 
+together so you can cut across geographical barriers, social groups. You 
+need to ask - how can you develop relationships with local voluntary and 
+community groups?"
+
+
+
+Once the right groups have been found, it is important for digital inclusion 
+groups to strike the right balance between passing them consistent materials 
+to fit their own messages, and allowing the trusted intermediaries to remain 
+in control, she said.
+
+
+
+"It is about making sure you work consistently with every organisation so 
+key messaging is cascaded down, and people are signposted consistently for 
+where they can get further help.
+
+
+
+But at the same time once you hand over the framework, [you must] leave it 
+to the organisation to deliver that. What we find with embedded outreach is 
+there needs to be an investment from those organisations as well, and that 
+is a really big ask."
+
+
+
+In the course of its work, Digital Outreach was asked to run a trial project 
+in the North West of England to see how its embedded outreach model for 
+digital TV might work for broader digital inclusion, and the results 
+strongly supported the concept, Palmer said.
+
+
+
+Overall, research found that some 77% of people reacted positively to online 
+training if it was led by someone they knew, compared with only 17% reacting 
+positively to a session led by someone they did not know.
+
+
+
+NOTE: Comment on this story now, on EAB Live:
+
+http://www.headstar.com/eablive/?p=1088 .
+
+
+
+
+
++02: Low-cost eye gaze tech shortlisted for education award
+
+
+
+A low-cost eye gaze computer controller for schoolchildren is among 
+technologies shortlisted for the 2015 Bett Awards for educational ICT (
+
+http://www.bettawards.com ).
+
+The shortlist was announced this month by i2i Events, organisers of the 
+annual London Bett conference, with the British Educational Suppliers 
+Association (BESA).
+
+
+
+Inclusive EyeGaze Foundations combines myGaze eye tracker hardware from 
+German firm Visual Interaction with Eye Gaze Attention & Looking software 
+from accessible early learning software specialists Inclusive Technology. It 
+is portable, and works with any Windows computer.
+
+
+
+Students can learn to track, fix their gaze and interact with images on 
+screen. The system also allows real-time recording of students' progress, so 
+teachers can review where they looked and for how long using line trace, 
+video and heat maps.
+
+
+
+Sandra Thistlethwaite, specialist speech and language therapist at Inclusive 
+Technology, told E-Access Bulletin the system's cost of just under £1,000 
+was less than a tenth of the average previous cost of similar technologies, 
+opening up new possibilities for eye gaze ICT in schools.
+
+
+
+"Traditionally, devices have cost more than £10,000 so they have not been in 
+the reaches of most schools, and you had to go through individual funding 
+streams", Thistlethwaite said. "So we have been working hard to get units up 
+at a reasonable price that can be afforded by a much wider range of schools 
+and pupils.
+
+
+
+"We had already identified those with a physical need for eye gaze but this 
+is now giving us the insight into how we interact with and teach pupils with 
+more profound and complex needs, where we are not sure about their cognitive 
+skills, or what they can understand from what they see on screen."
+
+
+
+It is possible that as much as 10%-20% of the UK special school population 
+could experience some benefit from using eye-gaze technology, she said. "I 
+was talking to a special school in the North East this morning with 120 
+pupils which has 20 pupils now using eye gaze and possibly more in the 
+pipeline."
+
+
+
+Plans for future developments include more sophisticated learning analytics, 
+with systems that can help users through a learning progression and return 
+more detailed data on their work to teachers and therapists, Thistlethwaite 
+said.
+
+
+
+The seven other finalists in the Bett Awards special educational needs 
+category are the Clicker Books literacy app for primary school children, 
+from Crick Software; ReadingWise English literacy software from IdeasWise; 
+the Dynamo Profiler online dyscalculia assessor from JellyJames Publishing; 
+Forbrain, an auditory feedback headset for speech improvement, from Sound 
+For Life; Read&Write literacy support software from Texthelp; Predictable, a 
+text-based augmentative communication app, from Therapy Box; and Exam Pen, a 
+scanner and assistive reader to help students with reading difficulties such 
+as dyslexia take exams independently, from WizCom Tech.
+
+
+
+Winners will be announced in January 2015.
+
+
+
+NOTE: Comment on this story now, on EAB Live:
+
+http://www.headstar.com/eablive/?p=1086 .
+
+
+
+
+
++03: Online resource to boost access to elections and politics
+
+
+
+An online resource to boost access to elections and politics by people with 
+disabilities is to be launched next month by the International Foundation 
+For Electoral Systems (IFES), a non-profit based in Washington DC, E-Access 
+Bulletin has learned.
+
+
+
+IFES works internationally to promote access to democracy by all groups 
+including people with disabilities, with funding largely from government 
+agencies in the US, UK, Canada and Australia. Its work is aimed at many 
+groups including governments, election management agencies, civil society 
+groups, academics, lawyers, disability groups and people with disabilities.
+
+
+
+The new online resource will be based on an overhaul of the foundation's 
+website ElectionAccess.org (
+
+www.electionaccess.org ),
+
+IFES access and inclusion specialist Virginia Atkinson told E-Access 
+Bulletin.
+
+
+
+It will include an introduction to disability rights aimed at election 
+management bodies and observer groups, giving examples of inclusive practice 
+such as accessible voter education
+
+
+
+"In many countries they don't think at all about access to elections for 
+people for disabilities", Atkinson said. "Or maybe they build a wheelchair 
+ramp, but they don't think about other issues such as accessible voter 
+education, websites or voting machines."
+
+
+
+Materials will include good practice examples such as YouTube videos, images 
+or brochures and posters from other countries, as well as excerpts from 
+relevant laws on election access.
+
+
+
+"We are hoping the website will be used as an advocacy tool to create peer 
+pressure, and help change discriminatory laws", she said. "It will be the 
+only site where all this information is collected in one place."
+
+
+
+Other aspects of the foundation's current disability rights work includes a 
+major project in South East Asia working with international teams of 
+election observers, Atkinson said. "Many observer teams do not include 
+people with disabilities, and then don't include questions relating to 
+disability access in their work", she said.
+
+
+
+NOTE: Comment on this story now, on EAB Live:
+
+http://www.headstar.com/eablive/?p=1084 .
+
+
+
+
+
+++News in Brief:
+
+
+
++04: Future Inclusion: A contract to help 200,000 people in the 
+"hardest-to-reach" social groups in England, including disabled people, to 
+gain basic digital skills has been awarded to Tinder Foundation. The "Future 
+Digital Inclusion" programme will be run in 2014-15 through the established 
+network of UK online centres in community locations such as libraries and 
+voluntary groups, with funding from the Department for Business, Innovation 
+and Skills. Learners will be supported through Tinder Foundation's learning 
+platform, Learn My Way to gain web skills such as email, safety, job 
+searching, and transacting. More than 750 "digital champion" volunteers will 
+be trained to support delivery in local communities:
+
+
+
+Short link: http://bit.ly/14NUQOp
+
+
+
+Full link: 
+http://www.tinderfoundation.org/our-thinking/news/tinder-foundation-wins-future-digital-inclusion-contract
+
+
+
+
+
++05: Innovation Reward: A £400,000 competition to inspire people to develop 
+innovative technologies helping people with disabilities has been launched 
+by the UK government with innovation charity Nesta. The Accessible 
+Technology Prize money is to be distributed between two shortlists of 25 and 
+then 10 ideas to help them develop, before the final winner is announced in 
+2016 to receive a further £50,000:
+
+
+
+Short link: http://bit.ly/1u2YtuY
+
+
+
+Full link: 
+https://www.gov.uk/government/news/entrepreneurs-encouraged-to-tap-into-creative-accessible-technologies-market
+
+
+
+
+
++06: Work Detail: A web portal to help US employers adopt and use accessible 
+workplace technology has been launched by the Partnership on Employment and 
+Accessible Technology (PEAT), a division of the US Office of Disability 
+Employment Policy. PEATworks.org contains resources, tools and articles, 
+including legal obligations and a step-by-step guide on implementing and 
+testing a range of accessible technologies in the workplace:
+
+http://www.peatworks.org/
+
+
+
+[Section One ends].
+
+
+
+
+
+++Sponsored Notice: Adept Transcription
+
+- Alternative Formats At Affordable Prices.
+
+
+
+When you want alternative formats for disabled colleagues, customers and 
+staff, call Adept.
+
+
+
+Formats we produce include audio, audio description, Braille, BSL, Easy 
+Read, e-docs for websites, large print, Makaton, Moon and sub-titles, at 
+prices from a penny a word.
+
+
+
+Whether handling a newsletter, training DVD, equality scheme, public service 
+leaflet, contract or consultation, we provide:
+
+- One-stop shop for all formats
+
+- Products quality-checked by users
+
+- Corporate presentation including your house style
+
+- Fast turnaround of one document or thousands
+
+- Multi-format discounts
+
+- Accessible packaging
+
+
+
+Contact us at:
+
+Tel: 0208 133 5418 (precede with 18001 for typetalk)
+
+Email transcription@adept-uk.org
+
+
+
+[Sponsored Notice ends]
+
+
+
+
+
+++Section Two: Viewpoint
+
+- Web accessibility.
+
+
+
++07: Embedding inclusion
+
+by Jonathan Hassell.
+
+
+
+Most organizations are either oblivious to, or terrified about, web 
+accessibility.
+
+
+
+They are probably aware that up to 20% of their customers - people with 
+disabilities - could be clicking away from their websites, or leaving their 
+mobile apps every day without having bought anything or found the 
+information or service they wished to find.
+
+
+
+They may have even heard from one of this 20%, complaining about problems 
+they can't reproduce, talking about 'assistive technologies' they don't 
+understand, and asking for what seem like impossible fixes.
+
+
+
+They know there is the possibility of being sued if they don't do the right 
+thing, but they don't know how far they need to go to prevent that. So if 
+they do make something 'accessible', it's usually only for one product, or 
+one version of a product.
+
+
+
+If this sounds anything like the place where you work, I have some 
+comforting news: you are not alone.
+
+
+
+I learned directly where I believe most organizations want to be from the 
+heads of diversity and inclusion of the top blue-chip corporations in Europe 
+at a meeting of the Vanguard Network in 2011. Here, the event's chairwoman 
+spent a whole hour asking each of the delegates what one thing would really 
+make a difference to their organization's inclusion practices, if they could 
+achieve it. When delegates were asked to vote for which contribution they 
+felt was the most important, the following was the unanimous choice: "What I 
+want is to strategically embed inclusion into my organization's culture and 
+business-as-usual processes, rather than just doing another inclusion 
+project."
+
+
+
+I spent much of my time subsequently conveying the following to the people 
+in the room:
+
+
+
+That they could implement a strategy that would allow them to attract and 
+keep that 20% of their audience who are disabled, while not detracting from 
+the user experience of those who aren't.
+
+
+
+That there was a way they could sleep soundly, knowing that they'd done 
+enough to cover their 'accessibility risk', but without costing the earth.
+
+
+
+That, through following a simple, strategic business-aligned framework, they 
+could embed the best practice necessary to consistently achieve these aims 
+throughout their organization.
+
+
+
+And that all of this work could also benefit their organization in their 
+bottom line, as benchmarked analytics show how disabled people's increased 
+use of their sites increases their turnover and profits.
+
+
+
+What did I have that could take them from their position of pain to the 
+place they all wanted to be? The answer is British Standard BS 8878:2010, 
+Web Accessibility - Code of Practice.
+
+
+
+It's not the catchiest title in the world, but BS 8878 opens up in detail 
+the strategies, policies and processes that award-winning, best-of-breed 
+organizations like the BBC, IBM, Vodafone, Opera, BT and Lloyds Banking 
+Group have used to become 'accessibility competent and confident', so that 
+they can be used by any organization, no matter how big or small.
+
+
+
+It does this at a time when the legal imperatives behind accessibility are 
+being strengthened internationally, and when tablet and smartphone vendors 
+are racing to promote accessibility as a key selling point of their 
+handsets. It also does this as we start to enter the massive demographic 
+change that will result in the number of people who need accessibility 
+rocketing up, and the 'missing 20%' become 50%.
+
+
+
+There has never been a better time to get into web accessibility, and people 
+who have implemented BS 8878 are increasingly telling me that incorporating 
+its user-centred inclusive design thinking into their production processes 
+has resulted in not only more accessible websites and apps for disabled 
+people, but better websites and apps for everyone.
+
+
+
+NOTE: Professor Jonathan Hassell has more than 14 years' experience of 
+embedding accessibility within digital production teams in leading companies 
+worldwide, and he wrote the British Standard BS 8878. This article is based 
+on an edited extract of his new book "Including your missing 20% by 
+embedding web and mobile accessibility", reproduced with permission from 
+BSI.
+
+
+
+For more information on the book and to access free accompanying case-study 
+videos, visit: http://hassellinclusion.com/book/
+
+
+
+British Standards can be obtained in PDF or hard copy formats from: 
+www.bsigroup.com/Shop or by contacting BSI Customer Services on 020 8996 
+9001 or email: cservices@bsigroup.com
+
+
+
+Comment on this story now, on EAB Live:
+
+http://www.headstar.com/eablive/?p=1081 .
+
+
+
+[Section Two ends].
+
+
+
+
+
+++Sponsored Notice: Accessify Forum
+
+- Accessibility Discussion.
+
+
+
+Established in 2003, Accessify Forum is a popular destination for 
+accessibility discussion. The "site critiques" section has helped hundreds 
+of people improve their websites, with members offering friendly, no 
+nonsense advice.
+
+
+
+You'll find discussion of accessibility at all levels, from beginner to 
+guru. So whether you're looking to learn more about accessibility, want to 
+help others and improve on your own knowledge, or just to browse the 
+archives, head over to:
+
+
+
+http://www.accessifyforum.com/ .
+
+
+
+[Special notice ends].
+
+
+
+
+
+++Sponsored notice: Author Donna Jodhan announces release of "12 days of 
+Christmas" box set
+
+
+
+More and more people are using audio books to relax, and stimulate their 
+imaginations. My name is Donna Jodhan and since 2010 I have been using my 
+audio mysteries to help thousands from around the world to do just that - 
+for pennies at a time.
+
+
+
+My new 12-episode Christmas series is filled with riveting Christmas 
+mysteries for all ages. Recorded in my own voice and in my own unique style, 
+let me help capture the true spirit of Christmas!
+
+
+
+Download a free sample, available in the third week of November at:
+
+http://www.donnajodhan.com/store.html.
+
+
+[Sponsored notice ends]
+
+
+
+
+
+++End Notes.
+
+
+
++How to Receive the Bulletin.
+
+
+
+To subscribe to this free monthly bulletin, email
+
+eab-subs@headstar.com
+
+with 'subscribe eab' in the subject header. You can list other email 
+addresses to subscribe in the body of the message. Please encourage all your 
+colleagues to sign up! To unsubscribe at any time, put 'unsubscribe eab' in 
+the subject header.
+
+
+
+Please send comments on coverage or leads to Dan Jellinek at:
+
+dan@headstar.com .
+
+
+
+Copyright 2014 Headstar Ltd http://www.headstar.com .
+
+The Bulletin may be reproduced as long as all parts including this copyright 
+notice are included, and as long as people are always encouraged to 
+subscribe with us individually by email. Please also inform the editor when 
+you are reproducing our content. Sections of the bulletin may be quoted as 
+long as they are clearly sourced as 'taken from e-access bulletin, a free 
+monthly email newsletter', and our web site address:
+
+http://www.headstar.com/eab
+
+is also cited.
+
+
+
++Personnel:
+
+Editor: Dan Jellinek.
+
+Associate Editor: Tristan Parker.
+
+Editorial advisor: Kevin Carey.
+
+
+
+ISSN 1476-6337.
+
+
+
+[Issue 173 ends.]
+
+ 
+ 
+	
+
+ 	Previous Item	Next Item	
+Connected to Microsoft Exchange
