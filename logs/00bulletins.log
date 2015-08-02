@@ -1,22 +1,3 @@
-__ BUILD [bulletins.pl  v1.12 ] log Wed Apr  1 22:23:49 2009 __
+__ BUILD [perl/bulletins.pl  v1.12 ] log Thu Jul 24 21:12:04 2014 __
 
-> This year start: 109
-Archive file: ../eab_base/archive.html
-Current issue, 111:  March 2009.
-Archive for new year: 2009  (reverse chronological).
-Parsing TENS, issue 111:  perl -w tens2html.pl ../eab/issues/2009/mar2009.txt
-Parsing TENS, issue 110:  perl -w tens2html.pl ../eab/issues/2009/feb2009.txt
-Parsing TENS, issue 109:  perl -w tens2html.pl ../eab/issues/2009/jan2009.txt
-No longer parsing, issue: 109 ...
-Archive for new year: 2008.
-Archive for new year: 2007.
-Archive for new year: 2006.
-Archive for new year: 2005.
-Archive for new year: 2004.
-Archive for new year: 2003.
-Archive for new year: 2002.
-Archive for new year: 2001.
-Archive for new year: 2000.
-Completed issue, 1: jan 2000.
-
-__ log Wed Apr  1 21:23:50 2009 __
+> This year start: 169

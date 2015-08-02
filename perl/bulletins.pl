@@ -28,7 +28,7 @@ my $url_issues="$url_stem/issues";
 my $b_parse = 1;
 #use constant B_PARSE => 1;
 use constant START_YEAR => 2000; #!2000!
-use constant START_ISSUE=> 166;  #165 feb 2014; #166 nov 2013; #149 jun 2012; #128 mar 2011; #127; #119; #109 Jan2009; #95; #84; #77;   #25 Jan 2002. 13 Jan 2001. 61 Jan 2005. 70 Oct 2005.
+use constant START_ISSUE=> 171; #166;  #165 feb 2014; #166 nov 2013; #149 jun 2012; #128 mar 2011; #127; #119; #109 Jan2009; #95; #84; #77;   #25 Jan 2002. 13 Jan 2001. 61 Jan 2005. 70 Oct 2005.
 #my $end_issue=55;    #53, May 2004; 63, Mar 2005
 use constant TENS_ISSUE => 36;   #36, Dec 2002.
 # Release day about 20th of the month, 18.
@@ -87,7 +87,7 @@ for (my $issue=$end_issue; $issue>=1; --$issue)
 
   my $tens_file="../eab/$tens_link";
   my $html_file="../eab/$html_link";
-  
+
   if( 1==$b_parse && (-r $tens_file) ){
     #Ok, parse.
 
@@ -104,10 +104,10 @@ for (my $issue=$end_issue; $issue>=1; --$issue)
       my $insert_args="-ah $stem\\__EAB_HEAD__.html -pp $stem\\_EAB_PREPEND_.html -ab $stem\\_EAB_APPEND_.html";
       #my $head_file="..\\eab_base\\__EAB_HEAD__.html";  #-ah $head_file
       my $cmd="$txt2html -o $html_file.tmp $insert_args -t \"$title\" -H \"\\*\" $tens_file ";
-      
+
       system($cmd) && die "Failed: $!\n  $cmd\n";
       warn "Parsing pre-TENS, issue $issue:  $txt2html ... $tens_file\n";
-      
+
       # Call the tidy app, exit=1 so don't die.
       $cmd="$tidy -o \"$html_file\" -f \"logs/tidy_errors.log\" -b \"$html_file.tmp\"";
       system($cmd);
@@ -124,13 +124,13 @@ for (my $issue=$end_issue; $issue>=1; --$issue)
   }
   # Test HTML, add links.
   if (-r $html_file) {
-    
+
     if ($mon == $this_mon && $year == $this_year) {
       print("<li id=\"current\">");
     } else {
       print("<li>");
     }
-    # Split the 2nd <a /> so that 'tabindex' will only be defined for 1st. &#183; '·' (middle) dot.
+    # Split the 2nd <a /> so that 'tabindex' will only be defined for 1st. &#183; 'ï¿½' (middle) dot.
     printf("Issue %02d", $issue);
     print(";  <a href=\"$html_link\">$Month $year HTML</a>, <a\n");
     print("  href=\"$tens_link\">$Month $year text</a>.\n</li>\n");
@@ -138,7 +138,7 @@ for (my $issue=$end_issue; $issue>=1; --$issue)
     warn "Warning, cannot read: $!\n  $html_file.\n";
     #end loop.
   }
-  
+
   if ($issue <= 1) {
     warn "Completed issue, $issue: $mnth $year.\n";
   }
@@ -169,7 +169,7 @@ sub prn_html_open {
   print("<html>\n");
 	print("<head>\n<title>$title</title>\n");
 	print("</head>\n<body>\n");
-	
+
 	print("<div id=\"bulletin\">\n");
 	print("<h2><a class=\"Tab\">$title</a></h2>\n\n");
 }
@@ -216,4 +216,3 @@ sub log_to_file {
   my $now_string = localtime();
   warn "__ BUILD [$0  ". VERSION ." $em] log $now_string __\n\n";
 }
-
