@@ -1,19 +1,56 @@
-__ BUILD [bulletins.pl  v1.12 ] log Sun Jul  4 00:09:05 2010 __
+__ BUILD [./bulletins.pl  v1.12 ] log Sat Aug  1 22:35:04 2015 __
 
-> This year start: 121
+> This year start: 181
 Archive file: ../eab_base/archive.html
-Current issue, 126:  June 2010.
-Archive for new year: 2010  (reverse chronological).
-Parsing TENS, issue 126:  perl -w tens2html.pl ../eab/issues/2010/jun2010.txt
-Parsing TENS, issue 125:  perl -w tens2html.pl ../eab/issues/2010/may2010.txt
-Parsing TENS, issue 124:  perl -w tens2html.pl ../eab/issues/2010/apr2010.txt
-Parsing TENS, issue 123:  perl -w tens2html.pl ../eab/issues/2010/mar2010.txt
-Parsing TENS, issue 122:  perl -w tens2html.pl ../eab/issues/2010/feb2010.txt
-Parsing TENS, issue 121:  perl -w tens2html.pl ../eab/issues/2010/jan2010.txt
+Current issue, 187:  July 2015.
+Archive for new year: 2015  (reverse chronological).
+Warning, cannot read: No such file or directory
+  ../eab/issues/2015/jul2015.html.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2015/jun2015.html.
+Parsing TENS, issue 185:  perl -w tens2html.pl ../eab/issues/2015/may2015.txt
+Warning, cannot read: No such file or directory
+  ../eab/issues/2015/apr2015.html.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2015/mar2015.html.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2015/feb2015.html.
+Parsing TENS, issue 181:  perl -w tens2html.pl ../eab/issues/2015/jan2015.txt
+Archive for new year: 2014.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2014/dec2014.html.
+Parsing TENS, issue 179:  perl -w tens2html.pl ../eab/issues/2014/nov2014.txt
+Parsing TENS, issue 178:  perl -w tens2html.pl ../eab/issues/2014/oct2014.txt
+Parsing TENS, issue 177:  perl -w tens2html.pl ../eab/issues/2014/sep2014.txt
+Warning, cannot read: No such file or directory
+  ../eab/issues/2014/aug2014.html.
+Parsing TENS, issue 175:  perl -w tens2html.pl ../eab/issues/2014/jul2014.txt
+Parsing TENS, issue 174:  perl -w tens2html.pl ../eab/issues/2014/jun2014.txt
+Parsing TENS, issue 173:  perl -w tens2html.pl ../eab/issues/2014/may2014.txt
+Parsing TENS, issue 172:  perl -w tens2html.pl ../eab/issues/2014/apr2014.txt
+Parsing TENS, issue 171:  perl -w tens2html.pl ../eab/issues/2014/mar2014.txt
+No longer parsing, issue: 171 ...
+Archive for new year: 2013.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2013/dec2013.html.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2013/aug2013.html.
+Archive for new year: 2012.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2012/dec2012.html.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2012/aug2012.html.
+Archive for new year: 2011.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2011/aug2011.html.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2011/jun2011.html.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2011/may2011.html.
+Warning, cannot read: No such file or directory
+  ../eab/issues/2011/apr2011.html.
+Archive for new year: 2010.
 Archive for new year: 2009.
-Parsing TENS, issue 120:  perl -w tens2html.pl ../eab/issues/2009/dec2009.txt
-Parsing TENS, issue 119:  perl -w tens2html.pl ../eab/issues/2009/nov2009.txt
-No longer parsing, issue: 119 ...
 Archive for new year: 2008.
 Archive for new year: 2007.
 Archive for new year: 2006.
@@ -25,4 +62,4 @@ Archive for new year: 2001.
 Archive for new year: 2000.
 Completed issue, 1: jan 2000.
 
-__ log Sat Jul  3 23:09:06 2010 __
+__ log Sat Aug  1 21:35:05 2015 __

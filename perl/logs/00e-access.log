@@ -1,4 +1,4 @@
-__ BUILD [e-access.pl  v1.7] log Sat Jul  3 23:09:07 2010 __
+__ BUILD [./e-access.pl  v1.7] log Sat Aug  1 21:44:35 2015 __
 
 Output: ../eab/index.html
 Score:  0
@@ -19,5 +19,7 @@ Score:  0
 Output: ../eab/site.html
 Score:  0
 Output: ../eab/subs.html
+Score:  0
+Output: ../eab/search.html
 Score:  0
 Web site built OK.
