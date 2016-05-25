@@ -1,0 +1,512 @@
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 178, April 2016.
+
+A Headstar Publication, produced with the support of Thomas Pocklington
+Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page:
+http://lists.headstar.com .
+
+Please email requests, comments, news leads and article ideas to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 178 contents.
+
+Section One: News.
+01: Low-cost refreshable Braille display set to revolutionise the market:
+- A new device aims to make refreshable Braille affordable.
+
+02: Integrate accessibility into teaching practices, says field expert:
+- A call for accessibility to become part of more educational curriculums.
+
+03: Technology company award for ‘helping kids learn’ across the globe:
+- Assistive educational package given prestigious business recognition.
+
+
+News in Brief: 04: Talking Tweets – Twitter gets image-descriptive; 05:
+Invaluable Insights – business accessibility portal launched; 06: Tech
+Deadline – Tech4Good Awards closing date.
+
+
+Section Two: The Inbox – Readers’ Forum.
+07: Refreshing Braille – a new lease of life for people in developing
+countries?; 08: Virtual Viewing – can virtual reality make watching TV
+with a visual impairment easier?
+
+
+Section Three: Special Report – ICT barriers for older people.
+09: How can we keep in touch with technology?
+A new academic study has explored if and how older adults with dual sensory
+impairment (DSI) can use assistive technology to live more independent
+lives. While the benefits of this technology may seem obvious, a number of
+barriers preventing its use remain. Two authors of the study, Kate Hamblin
+and Sue Yeandle, discuss what those barriers are, and what can be done to
+remove them.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Low-cost refreshable Braille display set to revolutionise the market.
+
+A device that could become ‘the world’s most affordable refreshable
+Braille display’ – costing around 80-90% less than current systems –
+has been unveiled, and should be available for purchase later this year.
+
+The Orbit Reader 20 was announced at the Annual International Technology
+and Persons with Disabilities Conference – known as CSUN – in the
+United States, by the Chair of the Royal National Institute of Blind People
+(RNIB), Kevin Carey, in his role as president of the Transforming Braille
+Group (TBG).
+
+TBG was conceived to realise and produce an affordable refreshable Braille
+display, partly as a way to give people in developing countries greater
+access to refreshable Braille. Current devices are prohibitively expensive,
+often running into thousands of US Dollars or British Pounds. TBG set about
+raising 1.25 million US Dollars for the Orbit Reader 20 to be produced by
+assistive technology company Orbit Research (further background in a
+previous e-Access Bulletin at the following link: http://eab.li/v ).
+
+Refreshable Braille displays allow blind or visually impaired users to read
+text from a computer screen via a system of small rods in Braille cells.
+These rods are electronically raised and lowered, creating readable Braille
+that constantly changes, or ‘refreshes’, as the user scrolls or moves
+across the screen.
+
+The Orbit Reader 20 features 20 Braille cells and can be connected to a
+computer or mobile phone via USB or Bluetooth. There is also an SD card
+slot to enable loading and reading of books and other files.
+
+Speaking to e-Access Bulletin, Carey explained that the aim is for the
+Orbit Reader 20 to be sold for $320 per unit, but this is dependant on
+Orbit Research receiving enough pre-orders for the device: “Orbit need an
+order of 200,000 to make the optimum price of $320 a unit, so what
+they’re doing is collecting wholesale orders. If it’s below 200,000,
+the price goes up,” Carey said.
+
+On its website, Orbit Research claims that the Orbit Reader 20 will be the
+“world’s most affordable refreshable Braille display”.
+
+User-testing of the Orbit Reader took place in January on 27 prototype
+machines, in North America and Europe, by testers both with and without
+experience of refreshable Braille systems. Carey will be supervising
+further testing in India and Kenya. Speaking about the results of this
+testing in his CSUN speech, Carey said that the refreshable Braille on the
+Orbit Reader was “the best that experienced users have ever seen”.
+
+The refresh rate on the device was found to be suitable for
+“poor-to-average” Braille-users, but not effective enough for
+“experienced users”. However, as Carey then pointed out: “Those who
+have reported dissatisfaction with the refresh rate are very experienced
+users of high-end refreshable Braille note-takers or Braille bars attached
+to generic devices – but it is important to note that these are precisely
+the Braille readers for whom the Orbit Reader was not designed.” (Read
+Kevin Carey’s CSUN speech in full at the Transforming Braille Group’s
+website: http://eab.li/r .)
+
+Carey told e-Access Bulletin that the device could be revolutionary for
+visually impaired Braille-users due to its low cost. “Whichever way you
+look at it, the [price] is just way below anything anybody else is
+offering,” he said. Carey also pointed out that the timing of when the
+Orbit Reader will be available, “is simply to do with how fast the orders
+come in [to Orbit Research].”
+
+The Orbit Reader 20 isn’t yet available to purchase by the general
+public, but Orbit Research’s website says that the device will be
+available in “late 2016”. It appears that when it does go on sale, the
+Reader will be sold through the website of the American Printing House for
+the Blind (APH), one of the shareholders in the project.
+
+Find out more about the Orbit Reader 20 at the links below:
+
+Orbit Research website:
+http://eab.li/s .
+
+APH website:
+http://eab.li/u .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/z .
+
+
++02: Integrate accessibility into teaching practices, says field expert.
+
+Accessibility should be weaved into more educational curriculums and
+demonstrated in teaching, a specialist consultant told delegates at a
+recent conference.
+
+Speaking at the ‘Digital Accessibility in Higher and Further Education
+Conference 2016’, David Sloan, a user experience engineer from
+accessibility agency The Paciello Group, said that accessibility needs to
+be integrated into the fabric of any curriculum featuring digital content
+creation, and can no longer be taught in isolation.
+
+“It’s not something we can treat as a specialism, that inevitably
+becomes a class that somebody can skip because they are busy or doing
+something else,” Sloan said.
+
+He went on to say that accessible communication is a “core digital
+literacy” that everyone should develop. “It’s not something we [can]
+leave to computing science to teach and everyone else can forget about. If
+we are thinking about digital literacy as a general concept that we want
+our employees of the future to acquire and use, then accessible
+communication needs to be part of that,” Sloan said.
+
+Another crucial challenge, said Sloan, is for educators to directly apply
+inclusive practices when teaching: “Too often, I have seen [a situation]
+where somebody will stand up and talk about accessibility, saying something
+like: ‘Here’s an example of an inaccessible image that doesn’t have
+appropriate alt text, as you can see in the slide beside me.’ Hang on a
+minute, you are talking about an accessibility issue and assuming that
+everybody can see the slide on the screen.”
+
+Addressing these kinds of oversights through inclusive teaching should be a
+“core professional skill” among educators, said Sloan: “A failure to
+do that weakens the message that digital accessibility is a core skill that
+our learners should be acquiring.”
+
+The conference was sponsored by BCS (the British Computer Society), and
+took place in London. More information about the presentations can be found
+at the link below to the BCS website:
+http://eab.li/l .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/y .
+
+
++03: Technology company wins award for ‘helping kids learn’ across the
+globe.
+
+A UK assistive technology company has been given a prestigious business
+award for exporting an e-learning software package for children with
+disabilities.
+
+Inclusive Technology – which provides equipment for individuals with
+physical disabilities, sensory impairments or learning difficulties –
+received a Queen’s Award for Enterprise for its HelpKidzLearn product.
+HelpKidzLearn features games, activities and tools designed for young
+children with a range of specialist learning needs.
+
+The company was recognised in the ‘International Trade’ category of the
+Queen’s Award for Enterprise (an annual event that commends a range UK
+business achievements), for signing up over 25,000 paying subscribers to
+HelpKidzLearn across 148 countries.
+
+The United States is the largest user of HelpKidzLearn, and the product is
+also being used in 14 countries across Europe, in eight different
+languages.
+
+The basic HelpKidzLearn package costs £55/$99 for one annual subscription
+(the idea is for a teacher or parent to purchase the subscription, and use
+the package with a child). Other multiple subscriptions (for use in
+schools, with multiple learners) can also be purchased. The package
+provides over 80 activities designed to aid learning.
+
+The activities – including games, quizzes, stories and songs – can be
+accessed on a range of devices and equipment, such as keyboard switches,
+touch-screen, rollerball mouse and eye-tracking technology. A free, basic
+version of HelpKidzLearn is also available, featuring ten activities (Read
+more at the HelpKidzLearn website: http://eab.li/o ).
+
+Chairman, CEO and co-founder of Inclusive Technology Martin Littler – who
+also founded the British Assistive Technology Association (BATA) – will
+collect the award at Buckingham Palace, London, in July. In a statement on
+the Inclusive Technology website, Littler said: “I am absolutely
+delighted with this brilliant award, which I feel recognises the huge
+contribution that the whole British assistive technology industry has made
+during the past 40 years. Of course, the award is also a huge pat on the
+back for our team of developers, teachers and therapists, all of whom get a
+buzz from producing resources which can transform the lives of learners
+with special educational needs and disabilities.”
+
+Find out more at the Inclusive Technology website:
+http://eab.li/p .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/x .
+
+
+++News in Brief:
+
++04: Talking Tweets: Twitter has taken a step to improve its accessibility
+by allowing users to add descriptions to their images. Assistive
+technologies such as screen-readers can now pick up these descriptions
+(known as alt text) and read them to users who are unable to see the
+images. However, the feature is currently only available on the Twitter
+mobile apps for the iOS and Android operating systems.
+
+Read more at the official Twitter blog:
+http://eab.li/m .
+
+
++05: Invaluable Insights: UK bank Barclays has launched an online portal
+offering free advice to businesses on making products and services more
+accessible. The portal features information on why accessibility matters,
+potential barriers for businesses to avoid, and insights from its own work,
+which has led to the company receiving praise for its accessibility
+efforts.
+
+Read more at the Barclays accessibility portal:
+http://eab.li/n .
+
+
++06: Tech Deadline: Entry for the 2016 Tech4Good Awards closes on May 6.
+The event champions individuals, charities, public bodies and businesses
+across the UK that are using technology to improve lives. Founded by
+technology charity AbilityNet, the awards – which are split into
+categories including ‘Digital Skills’ and ‘Community Impact’ –
+are open to all, and people can nominate themselves or others. Entry
+details are at the link below:
+
+Read more at the Tech4Good Awards website:
+http://bit.ly/212Ddpp .
+
+
+[Section One ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all contributions, requests and responses to:
+eaccessbulletin@gmail.com .
+
++07: Refreshing Braille: Long-time bulletin reader Anthony Bernard writes
+in from Sri Lanka to express support for an item featured in this very
+issue – the affordable refreshable Braille display masterminded by the
+Transforming Braille Group (TBG). The topic was first covered by e-Access
+Bulletin in 2014, when Dan Jellinek reported on an initial one million
+dollar funding-boost for the project (read Dan’s 2014 news report at the
+following link: http://eab.li/v ).
+
+Anthony was pleased to hear about the unveiling of the new device (and its
+intended price tag of 320 US Dollars) when he read the online transcript of
+a speech by TBG founder Kevin Carey, from the device launch at a recent
+assistive technology conference.
+
+“I read the launching speech from Kevin Carey and was much encouraged. If
+Kevin wants me to be one of the testers and suggest ideas, I am available.
+We in developing countries will welcome this new product. It promises to
+give another lease of life to Braille. $320, or even $350, is not too much
+to ask for a Braille display, considering the more advanced displays
+costing thousands of dollars. Please keep me updated with the latest
+developments of this product.”
+
+Read the lead news story in this issue for more coverage, found above.
+
+Further responses and comments, please, to:
+eaccessbulletin@gmail.com .
+
+
++08: Virtual Viewing: Steve Brazier, another long-time bulletin reader,
+writes in with an information request about virtual reality equipment as a
+potential viewing aid, and to express his sadness at the passing of
+e-Access Bulletin editor and founder Dan Jellinek.
+
+“I’m so sorry to hear about Dan. We never met, but had corresponded
+over the years since the Bulletin began. It is very good that the bulletin
+is going again. I wanted to ask if anyone had information on virtual
+reality headsets or goggles. I wondered if a partially sighted user might
+be able to maximise the use of their peripheral vision by viewing live TV,
+a smartphone screen or a PC screen via such a headset.
+
+“I have suffered from macular degeneration [a condition which affects
+central vision of the eye], due to myopic maculopathy, and for years have
+watched TV with ‘8x’ magnification binoculars, mounted on a microphone
+stand. Even football matches are reasonably easy to see. It struck me that
+if any virtual reality headsets allowed live video input, they might do the
+job even better.”
+
+Please email any responses, advice or comments to:
+eaccessbulletin@gmail.com .
+
+[Section Two ends].
+
+
+++ Notice: Thomas Pocklington Trust
+e-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+Section Three: Special report.
+- ICT barriers for older people.
+
++09: How can we keep in touch with technology?
+
+By Kate Hamblin and Sue Yeandle.
+
+All too often, the deterioration of sight and hearing are seen as ‘just
+part of getting older’, and as a result are under-reported and
+inadequately assessed. When hearing and vision are both impaired, they
+present a unique challenge which requires new strategies and management.
+It’s estimated that 222,000 people in the UK aged over 70 have dual
+sensory impairment (DSI), and that by 2030 that number will be close to
+418,000. Recognising this, UK deafblind charity Sense established a
+research team in 2010 to undertake new projects evaluating the impact of
+DSI across the lifespan. One of these projects created a screening tool for
+DSI for use in residential care settings, while another project explored
+issues related to living independently in older age with DSI.
+
+A study at the University of Sheffield, ‘Keeping in Touch with
+Technology?’, is part of this research, and explores the use of assistive
+technology and telecare by older adults with DSI. Sense commissioned the
+study in 2014 and we completed it in 2015. The University of Sheffield’s
+CIRCLE (Centre for International Research on Care, Labour and Equalities)
+worked with Sense and the Oxford Institute of Population Ageing to examine
+issues related to the challenges faced by older adults with DSI, and the
+role of assistive technology and telecare devices in promoting active and
+independent lives.
+
+As part of a previous study that looked at independence in later life, we
+regularly visited elderly participants over a period of 4-6 months, to
+explore their use of technology and their wider lives. This included their
+personal biographies, relationships, communities and health. We adapted
+this methodology for our work with Sense and our research team, making 146
+household visits to 38 older adults with varying degrees of DSI. These
+adults had a variety of assistive technology and telecare in place, ranging
+from quite ‘low-tech’ devices to expensive, highly specialist
+equipment.
+
+We explored participants’ use of technology in managing difficulties they
+faced in everyday life. These difficulties were arranged into three groups:
+activities outside the home (transport, shopping, socialising); activities
+inside the home (household chores, personal care); and, communicating with
+others. Some participants had coped well with single sensory impairment for
+many years, but now had to adjust to the deterioration of the other sense
+on which they had previously relied. Technology could sometimes help: GPS
+devices helped with navigation, ‘talking’ kitchen technology items made
+cooking easier, and personal loop systems and Braille displays promoted
+communication.
+
+In some situations, technology gave people with DSI valuable extra support,
+but there were also barriers in using and accessing technology. Some felt
+intimidated by technology, or felt that it was not “for them”. Limited
+awareness was another barrier – people in the study were often unsure
+what technology was available, and even if they felt an item of equipment
+might be useful, they found the huge variety of manufacturers and suppliers
+confusing and off-putting. Specialist technology can be very expensive, so
+making choices based on limited information or experience was deemed to be
+“risky”.
+
+Cost and choice were also major barriers. Those who had resources felt that
+some equipment was prohibitively expensive, while those who relied on
+equipment provided by their local authority said their choice was limited.
+Some participants felt their local authority’s assessment for equipment
+focused only on safety and risk, and failed to address other needs or give
+them access to activities where technology could help.
+
+Some felt that the products they had tried were not “fit for purpose”,
+and that a lot of equipment had been designed with only single-sensory
+impairment in mind. Participants felt that using these devices involved a
+“compromise”, and in many of our research visits, the team saw
+assistive technology equipment which had been abandoned. Inadequate
+training and follow-up support was another issue, with some participants
+unsure as to how to use their devices correctly, or what to do if they went
+wrong.
+
+Our findings indicate that service providers, equipment suppliers and
+product developers need to do more to meet the needs of older people with
+DSI – the size of this group is growing fast, just as technology is also
+advancing at a rapid rate. Where technology was successfully adopted, the
+following things happened: participants felt much safer at home; they were
+using public transport alone; they could manage everyday chores unaided;
+and they enjoyed new modes of communication and social interactions.
+
+However, we also found worrying barriers to accessing and using technology.
+To address this, we recommend an increase in awareness-raising and
+campaigning around technology and DSI. This will help older people with DSI
+find out what products are available, and where and how they can obtain
+them. We also highlight the importance of raising awareness of the needs of
+people with DSI in the product-design community. This will ensure that, in
+future, products are developed with this growing group firmly in mind.
+
+
+The ‘Keeping in Touch with Technology?’ report was compiled by Kate
+Hamblin, Sue Yeandle and Emma-Reetta Koivunen. Dr Kate Hamblin is James
+Martin Senior Research Fellow at the Oxford Institute of Population Ageing,
+University of Oxford. Sue Yeandle is Professor of Sociology and Director of
+CIRCLE at the University of Sheffield. Dr Emma-Reetta Koivunen is Research
+Associate in the Faculty of Health and Social Care, Manchester Metropolitan
+University.
+
+The full report can be found at the link below in PDF:
+http://eab.li/t .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/w .
+
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+Copyright 2016 Headstar Ltd.
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 178 ends.]
+
+
+--
+
+ This message was sent to N.D.Freear@open.ac.uk by
+eaccess@lists.headstar.com
+
+ To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=f4d5f2a645ac25411415cc072892e824&mid=73>
+in our newsletter system.
+
+ To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=f4d5f2a645ac25411415cc072892e824>
+
+ Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=f4d5f2a645ac25411415cc072892e824>
+from all future mailings.

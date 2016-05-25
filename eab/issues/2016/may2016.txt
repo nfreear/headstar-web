@@ -1,0 +1,465 @@
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 179, May 2016.
+
+A Headstar Publication, produced with the support of Thomas Pocklington
+Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page:
+http://lists.headstar.com .
+
+Please email requests, comments, news leads and article ideas to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 179 contents.
+
+Section One: News.
+01: A cautious welcome as Europe looks to lock-in web accessibility:
+- A “significant milestone”, but still progress to be made on
+legislation.
+
+02: The Kindle begins to find its voice with text-to-speech:
+- Amazon’s e-reader gets screen-reader-friendly functionality.
+
+03: Your assistive technology queries answered online by an expert:
+- Utilise professional advice on a charity’s community forum.
+
+
+News in Brief: 04: Route Finding – First open standard for digital
+navigation; 05: Citizen Feedback – Government site launches technology
+survey; 06: Testers Wanted – Screen-reader users requested.
+
+
+Section Two: The Inbox – Readers’ Forum.
+07: Time for Translation – A request to run e-Access Bulletin in other
+languages; 08: Getting on Course – is a lack of specialist IT training
+sapping digital inclusion?.
+
+
+Section Three: Opinion – Conquering the website accessibility divide.
+09: Realising the dream.
+In 2012, Donna Jodhan, a blind accessibility consultant and writer, struck
+a blow for the rights of disabled citizens when she won a prolonged court
+battle against the Canadian Government for the inaccessibility of its
+websites. Since then, she has continued to be a vocal champion of equality
+for blind citizens. Here, she reflects on how inaccessible websites hinder
+day-to-day living, and explains why she is fighting for disability
+legislation in Canada.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: A cautious welcome as Europe looks to lock-in web accessibility.
+
+A provisional agreement to make public sector websites and mobile apps
+across Europe more accessible has been reached, creating mixed reactions
+from the accessibility community.
+
+The deal between the European Parliament, the Council of the European Union
+and the European Commission was made earlier this month, and relates to the
+existing ‘Directive on Web Accessibility for Public Sector Websites’,
+which has been the subject of debate since its introduction in 2012 (See
+e-Access Bulletin’s previous coverage at the following link:
+http://eab.li/b ).
+
+If formalised, the directive would demand that both new and existing public
+sector sites and apps be more accessible to citizens with disabilities
+across the European Union (EU). Older public sector content would also be
+made accessible when requested by citizens.
+
+Carine Marzin, Chair of the European Blind Union (EBU) Campaigns Network,
+told e-Access Bulletin that the EBU welcomed this “significant
+milestone” based on the information publicly available, but warned that
+the final text of the directive is still to be released.
+
+Marzin said that the EBU is also encouraged at the inclusion of mobile apps
+in the initial agreement – an issue it has been campaigning for. Another
+EU campaign focused on eliminating proposed exceptions to the directive,
+which would have meant that public sector intranet services and other
+content formats would have been excluded from accessibility regulations.
+Marzin said that “significant progress” appeared to have been made on
+some of these exceptions, again based on available information. Such
+intranet services are “very important for all disabled people in terms of
+access to education and jobs,” she said.
+
+However, there is still some way to go before any enforceable web
+accessibility regulations appear. The agreement needs to be formally
+adopted by the Council and the European Parliament, and then formed into
+legislation across all EU countries. In practice, it could be several years
+before the proposed new accessibility rules are applicable; legislation
+would first be created for new websites, followed by remaining public
+sector sites, and mobile apps after that.
+
+Technology access charity AbilityNet also welcomed the initial agreement,
+but called for the measures to go further than just regulating public
+sector content. Writing on the charity’s website, CEO Nigel Lewis said:
+“AbilityNet wholeheartedly welcomes this recent move … but it doesn’t
+go far enough … Policy makers are missing a trick by not including
+websites and apps in the private and third sectors. Their sheer volume
+vastly outweighs public sector websites and in our experience, they lag
+behind the public sector in accessibility terms.”
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/19 .
+
+
++02: The Kindle begins to find its voice with text-to-speech.
+
+Amazon is making its Kindle e-readers more accessible for visually impaired
+users by introducing a screen-reader feature.
+
+The VoiceView screen-reading function is now available on the Kindle
+Paperwhite model by plugging in the ‘Kindle Audio Adaptor’, a USB
+device designed by Amazon specifically for use with the Kindle. Users plug
+the adaptor into the Paperwhite charging jack, before plugging in
+headphones to the adaptor, and can then listen to e-books and navigate the
+Kindle interface through text-to-speech and touch-screen functionality,
+with eight adjustable reading speeds.
+
+VoiceView was previously only available on Amazon’s Fire tablet devices,
+but the company has now extended it to the Paperwhite – seen as the
+‘mid-range’ Kindle option. Currently, it’s only this one model that
+supports VoiceView, but a post on Amazon’s blog says that the feature
+“will be available in the future with other Kindle e-readers as well.”
+
+The VoiceView-enabled Paperwhite Kindle is being sold in a special package,
+including the audio adaptor, for $140. This is $20 more than the standard
+Paperwhite price, but Amazon is supplying a $20 Amazon account credit with
+all purchases, to offset the extra cost.
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/18 .
+
+
++03: Your assistive technology queries answered online by an expert.
+
+Anyone seeking advice on assistive technology will be able to call on the
+expertise of a technology professional, thanks to a community forum on the
+website of disability charity Scope.
+
+The charity’s ‘Ask an assistive technologist’ service allows users to
+leave questions on the forum, where they will be read by a specialist, who
+will then leave advice for the user to pick up. Users just need to register
+on the site to become part of Scope’s online community, and can then post
+questions.
+
+Kim Lawther, an assistive technologist at Craig y Parc School in Cardiff,
+Wales, will be answering the queries. Lawther works with children and young
+adults with a range of disabilities at the Cardiff school, and has
+extensive knowledge of assistive equipment.
+
+Lawther explained more about the process to e-Access Bulletin: “Scope has
+a phenomenal team of assistive technologists, so if I don’t know the
+answer to someone’s question, then I am sure one of us will. I also
+intend to point people in the direction of more information – for
+example, about suppliers or funding.”
+
+The service was initially available in 2014 with a different assistive
+technologist, but after a temporary hiatus, the new appointment of Lawther
+as the community advisor has effectively relaunched the initiative.
+
+So far, questions left for Lawther have covered a wide rage of topics in
+just a few weeks. Forum members have asked about: speech-recognition
+software; Google Cardboard (a newly launched virtual reality headset);
+making banking accessible for users of eye-tracking technology; games
+programming for users with learning disabilities; and a new app to help
+people with communication difficulties, AzuleJoe.
+
+Find out more and ask a question on Scope’s ‘Ask an assistive
+technologist’ forum, at the following link:
+http://eab.li/13 .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/17 .
+
+
+++News in Brief:
+
++04: Route Finding: The first open standard for digital navigation
+services, which can assist people with visual impairments in independent
+navigation, has been published by non-profit organisation Wayfindr.
+Feedback is invited on the draft standard, which aims to improve the
+navigability of the built environment by informing developers, venue
+owners, and researchers. Look out for more on the Wayfindr standard in
+June’s e-Access Bulletin.
+
+Read more at the Wayfindr website:
+http://eab.li/1e .
+
+
++05: Citizen Feedback: The UK Government services citizens’ portal,
+GOV.UK, has launched a survey to find out what types of assistive
+technology its audience uses to access the site. Users of screen-readers,
+screen-magnifiers, voice-input applications, and literacy software are
+invited to take part, and can also comment on any accessibility barriers
+they encounter on GOV.UK.
+
+Take the survey at the following link, before the end of June:
+http://eab.li/1d .
+
+
++06: Testers Wanted: A free web browser extension that makes social media
+platforms (including Facebook, YouTube and WhatsApp) and other websites
+more accessible for screen-readers is looking for user-testers. After
+launching in October 2015, the team behind F123 Access now want to make
+customer relationship management (CRM) software accessible for blind and
+visually impaired users, and are seeking users of NVDA, Orca, Jaws, and
+Window-Eyes screen-readers to help develop their work. Anyone interested
+can email the following address for details:
+devs@f123.org .
+
+Find out more at the F123 Access website:
+http://eab.li/12 .
+
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust
+e-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
++07: Time for Translation: Zeljko Bajic, a blind journalist working for
+public radio in Serbia, has been reading e-Access Bulletin for a number of
+years, and gets in touch to ask about the possibility of getting it
+translated.
+
+“Do any opportunities exist to run e-Access in our languages – Serbian,
+Croatian, Bosnian? Unfortunately, we don’t have anything similar to
+E-Access Bulletin here. It would be very important additional support, for
+me and others. I wait for your answer with hope!”
+
+Please send suggestions and comments to:
+eaccessbulletin@gmail.com .
+
+
++08: Getting on Course: Digital inclusion consultant Clive Lever, formerly
+a local government diversity and equality officer, writes in with a general
+accessibility query that many readers will have encountered in some form
+before.
+
+“A blind friend of mine asked me why it is that we get accessible
+mainstream technology (both hardware and software), and then a couple of
+releases later, access is broken and we have to start again.
+
+“His question, and my own recent experiences of support at a popular
+consumer technology store (where the in-store agents didn’t have a clue
+how to work a device’s accessibility speech navigation), have convinced
+me that the answer could lie in training: do all IT training courses
+include access and inclusion? If not, why not?”
+
+Replies and comments, please, to:
+eaccessbulletin@gmail.com .
+
+
+[Section Two ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month in a
+new feature on the station’s Afternoon Edition programme. Hear more about
+the bulletin and upcoming content appearing in each issue, as we discuss
+the latest accessible technology news and readers’ questions with Allan
+Russell.
+
+Episodes will be available after broadcast as podcasts. Listen to and
+download the latest edition at the following link:
+http://eab.li/1i .
+
+Listen to RNIB Connect Radio online, or via television, smartphone or
+radio. Listening details at the following link:
+http://eab.li/1g .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+Section Three: Opinion.
+- Conquering the website accessibility divide.
+
++09: Realising the dream.
+
+By Donna Jodhan.
+
+There is the digital divide and then there is the technology divide. Now
+I’d like to add the website accessibility divide to this list.
+
+The ‘website accessibility divide’ refers to those of us who are unable
+to access websites due to navigable and usability reasons, versus those who
+do not have any difficulty accessing websites.
+
+The former group often describes those of us who are visually impaired, and
+for me, as one who falls into this category, I can tell you that it makes a
+huge difference in my personal life whenever I am unable to do things such
+as: access information independently and in privacy; complete forms on my
+own; request information without having to ask for sighted help; download
+and read documents without having to ask for sighted assistance; read
+content on a website on my own.
+
+On a personal level, inaccessible and unusable websites have a direct
+affect on my life.  My ability to protect and maintain my confidentiality,
+independence and privacy are all affected. In short, I often have no
+alternative but to place all of this in the hands of strangers if I am
+unable to find a friend or family member that I trust to assist me.
+
+For me and others like me, we are all in the same boat, so to speak. We
+cannot have access to vital information if we are unable to access websites
+independently. We cannot make vital decisions on our own behalf if we are
+unable to read information for ourselves in an independent manner.
+
+For example: important information pertaining to such things as public
+safety, security, health, job and financial markets, social programs, and
+up-to-the-minute news are often beyond our reach, because of the website
+accessibility divide.
+
+This is the main reason why I launched a charter challenge against the
+Canadian Government in 2006 – because their websites were inaccessible to
+me and to other blind Canadians. I could not apply for a job through their
+websites on my own, and access to vital information was horribly lacking.
+
+Yes! True it is that we won a landmark victory that mandated the Canadian
+Government to make all of their websites accessible, and true it is that
+things have improved in a noticeable way, but there is still a lot of work
+to be done when it comes to this.
+
+Canada does not have any sort of legislation in place that mandates and
+penalises federally regulated companies and agencies if their websites are
+not accessible to Canadians with vision impairments. As a result,
+inaccessible and unusable websites continue to be a part of the lives of
+those Canadians with vision impairments.
+
+We, as visually impaired Canadians, continue to live at the whim of website
+developers who do not believe that website accessibility and usability are
+important enough for them to include in their design, and this is why I
+personally decided to take one more step.
+
+In early 2015, I, along with a small group, launched Barrier Free Canada
+– Canada sans Barrières; a non-partisan grassroots organisation whose
+main objective is to lobby the Canadian Government to pass a Canadians with
+Disabilities Act. During the October 2015 Canadian election campaign, three
+parties committed to passing such legislation, including the governing
+Liberal Party lead by Prime Minister Justin Trudeau.
+
+This new government has committed two million dollars towards this
+initiative in its most recent budget. This is good news for us! We are now
+waiting on the minister responsible for disabilities issues to commence
+public hearings, as part of the process to pass a Canadians with
+Disabilities Act. It is our cherished hope that such an act can be passed
+in time for Canada's 150th anniversary on the first day of July, 2017.
+
+As it stands now, the majority of Canada’s new Parliament supports the
+passage of a Canadians with Disabilities Act, so that is one major hurdle
+that has been overcome.  Now comes the more difficult task of actually
+getting the act drafted and placed before the Canadian Parliament.
+
+It is my personal dream that some day soon, all Canadians will be able to
+access websites independently, and in doing so be able to protect their
+privacy and confidentiality. This should not be a dream, because under the
+Canadian Charter of Rights, all Canadians are guaranteed equal access to
+information. Yet I can only continue to dream – for myself, for all
+Canadians who are visually impaired, but most of all, for our children of
+the future.
+
+As Robert F. Kennedy, paraphrasing George Bernard Shaw, once said: “Some
+men see things as they are and say, ‘Why?’; I dream things that never
+were and say, ‘Why not?’”  Maybe I should be a bit more realistic,
+but in my heart I know that somewhere over the rainbow I will some day
+realise my dream.
+
+I promised Steve Jobs to help change the world and I will keep this
+promise, because he kept his promise to us.
+
+
+Find out more about Barrier-Free Canada at the following link:
+http://eab.li/15 .
+
+Read more about Donna Jodhan at her website:
+http://eab.li/14 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/16 .
+
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+Copyright 2016 Headstar Ltd.
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 179 ends.]
+
+
+--
+
+ This message was sent to N.D.Freear@open.ac.uk by
+eaccess@lists.headstar.com
+
+ To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=f4d5f2a645ac25411415cc072892e824&mid=75>
+in our newsletter system.
+
+ To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=f4d5f2a645ac25411415cc072892e824>
+
+ Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=f4d5f2a645ac25411415cc072892e824>
+from all future mailings.

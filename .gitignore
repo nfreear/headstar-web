@@ -23,7 +23,7 @@ archiv*_*.html
 
 /*.vcf
 /*.gif
-em*.txt
+##em*.txt
 /*.html
 
 

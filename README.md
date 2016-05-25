@@ -1,18 +1,15 @@
 # Readme for E-Access Bulletin
 
-
-Copyright © 2000-2015 Headstar Limited.
-
 * <http://headstar.com/eab>
-* http://e-accessibility.com | 80.87.128.130
-* http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://headstar.com/eab/contact.html
+* [contact information (vcard)][vcard]
 
-"news and research on technology
-for the blind and visually impaired"
+"_news and research on technology
+for the blind and visually impaired_"
 
-"a free, independent monthly e-mail newsletter on information technology issues for people with visual impairment and blindness."
+"_a free, independent monthly e-mail newsletter on information technology
+issues for people with visual impairment and blindness._"
 
-Dan Jellinek, 01273 267172.
+Dan Jellinek.
 
 
     perl/        -- Web site/bulletin build scripts.
@@ -22,27 +19,26 @@ Dan Jellinek, 01273 267172.
     ten/         -- Text Email Newsletter Standard (TEN).
 
 
+[![E-Access Bulletin][eab-logo-1]][eab]
+
+
+_[In memory of Dan … Dan Jellinek 1968 — 2015][tribute]_
+
 
 ---
+Copyright © 2000-2016 Headstar Limited. All rights reserved.
 
-To: Dan Jellinek <dan+@+headstar.com> | Subject: Re: EAB news page
-From: Nicholas Freear <nick@bunburyIS.com>
-Organization: Bunbury IS | Date: Thu, 01 Jul 2004 11:54:10 +0100
-
-Dear Dan,
-
-We are good to go!  Please have a look:
-    http://www.headstar.com/eab/~new/
-
-I've updated the news page.  Let me know of any edits or serious issues - and let me know if I should replace the
-current site (http://www.headstar.com/eab).
-
-There may be minor bugs that can be fixed after the relaunch, and I've invited user feedback.
-
-I'll phone in a bit. Regards,
-
-Nick
+ISSN 1476-6337.
 
 
+[vcard]: http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://headstar.com/eab/contact.html
+    "Download a vCard (VCF file), via Suda.co.uk — 'Dan-Jellinek.vcf'"
+[expired-domain]: http://e-accessibility.com "| 80.87.128.130"
+[eab]: http://headstar.com/eab/ "e-access bulletin"
+[eablive]: http://headstar.com/eablive/ "E-Access Bulletin Live"
+[eab-logo-1]: http://www.headstar.com/images/EAB-logo-small-trans.png
+[eab-logo-2]: http://www.vision2020uk.org.uk/wp-content/uploads/EAccessBulletinLive_logo.png
+[tribute]: http://www.headstar.com/eablive/?p=1143
+    "Asking the right questions: a tribute to Dan Jellinek. Published: March 31st, 2016"
 
-[End]: http://example
+[End]: //end
