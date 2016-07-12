@@ -1,15 +1,36 @@
 /**
  * Title: 'No script' base E-accessibility Stylesheet (CSS2).
  * URL:   http://www.e-accessibility.com/includes/noscript.css
- * Rights: Copyright 2003-07-23 2014-10-18 Nick Freear.
+ * Rights: Copyright 2003-07-23 .. 2016-07-12 Nick Freear.
  */
 @import "textonly.css";
 
+
+
 @media screen
 {
+  .notice /* #tribute */ {
+    font-size: 1.05em;
+    text-align: center;
+    background: rgb(254, 239, 255);  /* rgb(255, 236, 252) */
+    border: 1px solid rgb(182, 141, 192);
+    border-radius: 3px;
+    margin: 1.5em 120px 1.3em 243px;
+  }
+  .notice > a {
+    display: inline-block;
+    width: 100%;
+    padding: 6px 0;
+    background: transparent;
+  }
+  .X-pg-archive .notice {
+    display: none;
+  }
+
+
   body, #Body {
     color:       #333;
-    background:  #fbfbfb;
+    background:  #fefefe;
     font: 1em Arial, Helvetica, Geneva, sans-serif;
   }
   pre { font: 1.05em Arial, Helvetica, Geneva, sans-serif; font-weight: normal; }
@@ -27,16 +48,17 @@
     padding:0%;
     margin: 0%;
   }
-  
+
   /* Bulletins */
   #toc, #personnel li { list-style: none; }
-  
+
   #switch li, #totop li, #totop h3 { list-style: none; display: inline; }
   #headstar { width: 92px; height: 90px; }
   #validators img { width: 88px; height: 32px; border: none; }
-  
+
   /*#switch a:hover:after,#switch a:focus:after,#menu a:hover:after,#menu a:focus:after*/
-  a.Key:hover:after, a.Key:focus:after { content: " [" attr(accesskey) "]"; }
+  /* DISABLE. */
+  a.X-Key:hover:after, a.Key:focus:after { content: " [" attr(accesskey) "]"; }
 }
 
 .vcard address { font-style: normal; }

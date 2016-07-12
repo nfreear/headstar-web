@@ -1,0 +1,541 @@
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 180, June 2016.
+
+A Headstar Publication, produced with the support of Thomas Pocklington
+Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page:
+http://lists.headstar.com .
+
+Please email requests, comments, news leads and article ideas to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 180 contents.
+
+Section One: News.
+01: Crowdsourcing site aims to be world leader for venue accessibility
+data.
+- Users score locations and personalise searches to their access needs.
+
+02: Social networking through voice rather than vision.
+- The voice messaging app being embraced by blind users.
+
+03: Tactile Braille tablet brings pictures and content to life over 14
+lines.
+- Its makers want it to help improve literacy in low-income communities.
+
+
+News in Brief: 04: Getting Better – UK councils improve web
+accessibility; 05: Progressing Print – Canada’s drive for accessible
+books; 06: Uniting Ideas – The UN talks inclusive tech.
+
+
+Section Two: The Inbox – Readers’ Forum.
+07: Gaps in the Market – The difficulties of shopping for the right
+product; 08: Smart Timing – Affordable smartwatches with a voice of their
+own.
+
+
+Section Three: Q & A – Katherine Payne, Wayfindr.
+09: Navigating life’s obstacles.
+Last year, Wayfindr hosted an audio navigation trial in London’s busy
+Euston Tube station, featuring blind and visually impaired participants
+finding their way around using spoken directions from a mobile app. Now,
+Wayfindr has released an open standard, so that others can use the
+knowledge to build digital audio navigation apps and systems. Wayfindr’s
+Katherine Payne tells us more.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Crowdsourcing site aims to be world leader for venue accessibility
+data.
+
+A new online platform built around user ratings and feedback is aiming to
+become “the world’s leading provider of accessible venue
+information,” according to the site’s developer.
+
+The Access Earth site is about to launch in full after ten months of public
+testing in beta stage, with a mobile app to follow soon.
+
+The platform allows users to give scores and leave comments about the
+accessibility of hotels, restaurants and other locations around the world.
+This information is then available to other users.
+
+The platform was developed in 2012, after Matt McCann – who has cerebral
+palsy – had booked a hotel describing itself online as ‘wheelchair
+accessible’. On arrival, McCann found steps to the entrance and rooms too
+small for his rollator mobility aid, sparking both frustration and a desire
+to help prevent these situations for others.
+
+McCann told e-Access Bulletin: “I knew that being a software engineer I
+could do something about this lack of specific accessibility
+information.”
+
+The site’s database of venues across the globe is currently split into
+four categories, covering places to eat and drink, places to sleep,
+shopping, and things to do. Users select a venue type and where around the
+world they want to search, before specifying accessibility criteria, such
+as step-free access, ground floor rooms, and accessible bathrooms.
+
+Anyone can supply a venue accessibility rating, either by answering Access
+Earth’s ‘accessibility criteria’ or leaving a note: “This could be
+something like ‘the elevator is currently out of order’, or directions
+to the accessible bathrooms,” McCann said. “By keeping the access
+information up-to-date, we can ensure people have the most accurate
+information available to them.”
+
+Users can also add and rate a new venue if it isn’t already on the
+database, as well as sharing information and tips with other users.
+
+The full Access Earth site will allow users to personalise their searches
+based on their own individual accessibility criteria. Different profiles
+for different access needs can also be created, McCann said: “For
+example, someone may need only step-free access when on their own, but they
+might also want an accessible bathroom when with a friend. Users can now
+switch between those different profiles.”
+
+An Access Earth app, scheduled for the end of August, will allow users to
+easily leave accessibility feedback about locations from a mobile device.
+
+Access Earth is one of a number of new and existing platforms that provide
+crowdsourced location access information, including Johnny’s Pass,
+Euan’s Guide (read our interview with the founder of Euan’s Guide at
+the following link: http://eab.li/1l ) and Wheelmap. In March, one of
+Wheelmap’s developers, Holger Dieterich, told e-Access Bulletin that his
+goal was to share the site’s user-data with other location-based
+services, so that more people can use it.
+
+McCann is also keen to explore the idea of information-sharing for Access
+Earth in the longer-term. “Collaboration is definitely something that we
+would look to try and do in the future,” he said. “It’s great that
+there are other people out there tackling this problem, it just shows that
+this is a worldwide issue that needs to be addressed.”
+
+Read more at the Access Earth website:
+http://eab.li/1m .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/1w .
+
+
++02: Social networking through voice rather than vision.
+
+A free communication app based on voice messages is proving popular with
+blind and visually impaired users, and has launched a Kickstarter
+crowdfunding campaign to help expand its community.
+
+Users of the Vorail app communicate by recording questions or thoughts as
+short voice messages, which are available for other users to listen to and
+reply. Users just need to set up a basic profile, without any photos or
+images.
+
+One of Vorail’s co-founders, Tom Rosenthal, told e-Access Bulletin that
+although the app wasn’t designed specifically for blind and visually
+impaired people, most users are from these groups. As a result, the team
+behind the app now dedicate resources to making sure it is accessible.
+Rosenthal said: “Vorail was designed to create a safer place where we can
+see the true nature of others … There’s much more to a person than a
+photo or what is revealed in text messages. That’s why we developed
+Vorail – the voice is a window to the soul.”
+
+Around 80,000 questions a day are asked on the app, covering a huge range
+of topics. Subjects discussed include: Braille and guide dogs; personal
+reflections on blindness; requests for relationship advice; and thoughts on
+anything from favourite foods to nightclubs.
+
+Some Vorail members use the app for dating, but it is also widely used to
+meet new friends or simply connect with others. The user-community features
+people who are married, engaged, dating, single and even families,
+Rosenthal said. The first Vorail marriage is taking place soon, between two
+people who met using the app, one from the UK, the other from the United
+States.
+
+Rosenthal said that while social media platforms like Facebook and Snapchat
+are useful for networking with existing friends, Vorail allows its
+community to meet new people easily. Similarly, while popular meeting and
+dating sites are based around users’ photos, “Vorail was designed for
+people that want to see beyond the picture … Technology can do better at
+helping us find people who we share chemistry with,” Rosenthal said.
+
+Vorail went live at the end of 2015 on Apple’s iOS operating system, and
+recently launched a Kickstarter crowdfunding campaign to gauge public
+interest in expanding to the Android operating system as well.
+
+Find out more at Vorail’s Kickstarter page:
+http://eab.li/1n .
+
+Download Vorail for free at the Apple iOS App Store:
+http://eab.li/1p .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/1v .
+
+
++03: Tactile Braille tablet brings pictures and content to life over 14
+lines.
+
+A Braille tablet computer, thought to be the first of its kind available to
+the public, is about to be launched with a series of potentially
+game-changing features.
+
+BLITAB is a tactile tablet computer designed for blind and visually
+impaired users, claimed to be the first such tablet by its developers. The
+design features a page of Braille over 14 lines, plus a smaller
+touch-screen below. Through the touch-screen, which has voice-navigation,
+users access the internet, email, documents and other content, which is
+then converted into Braille above. This includes pictures, graphics, maps
+and other images, which can all be represented on the Braille display.
+
+The Braille is formed through a liquid-based system that creates small
+bubbles, which raise and fall on the page. BLITAB’s 14 lines of Braille
+presents an advantage over many standard Braille readers, which usually
+feature one single line for text.
+
+The device was developed by BLITAB Technology, a Bulgarian start-up company
+now based in Austria. Kristina Tsvetanova, co-founder and CEO, had the idea
+for BLITAB after a blind student at a Bulgarian university (where
+Tsvetanova was studying industrial engineering) asked for her help to
+register for classes online.
+
+“I did some research, and realised that the technology boom over the past
+few years had not benefited everyone,” Tsvetanova told e-Access Bulletin.
+
+User-testing with visually impaired and blind participants helped shape
+BLITAB’s development, and all standard features found on other tablet
+computers (such as Wi-Fi, USB slots, Bluetooth and text-to-speech) are
+available.
+
+As reported in e-Access Bulletin’s March edition, BLITAB has received
+funding from the Google Impact Challenge project. It was then demonstrated
+at an event in Brussels earlier this year, which showcased accessible
+technology that helps independent living.
+
+BLITAB will be launched in beta (testing stage) at a mobile technology
+conference, Mobile World Congress Shanghai, at the beginning of July. It
+will be available for public purchase soon after that, said Tsvetanova, and
+will cost €2,500 – a price similar to or cheaper than many full-size
+refreshable Braille displays currently on the market.
+
+Tsvetanova also wants BLITAB to help blind individuals in developing
+countries and low-income communities, with the device acting as a literacy
+aid, both for children in school and adults seeking employment. BLITAB can
+be “a tool and platform that engenders confidence and knowledge of the
+world, which is crucial for better quality of social life,” she said.
+
+Find out more at the BLITAB website:
+http://eab.li/1j .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/1u .
+
+
+++News in Brief:
+
++04: Getting Better: Local councils in the UK have ‘significantly
+improved’ their website accessibility for users with disabilities,
+according to a nation-wide assessment. The annual Better Connected report
+(carried out by public sector IT management body Socitm) found that 64% of
+council websites passed its accessibility test, compared to 43% in 2015 and
+only 26% in 2014. The test assesses sites for ease of use with technologies
+like screen-readers and keyboard-only controls.
+
+Find out more at the Better Connected website:
+http://eab.li/1q .
+
+
++05: Progressing Print: Blind and visually impaired people in Canada are on
+track for greater access to books and other printed materials in accessible
+formats (such as Braille and audiobooks), after a specially created bill
+has been passed. The Bill C-11 amends Canada’s Copyright Act and ratifies
+the Marrakesh Treaty, which sets out exceptions to copyright law to allow
+international sharing of accessible books. The treaty now needs to be
+ratified by several other countries to fully come into force.
+
+Find out more at the Government of Canada website:
+http://eab.li/1x .
+
+
++06: Uniting Ideas: Assistive technology was represented at a recent United
+Nations event on the UN Convention on the Rights of Persons with
+Disabilities. Panel talk topics included ‘Tec Talk’, which featured
+members of the Hackaday platform and US publication ABILITY Magazine.
+Projects discussed included Canon printers and copiers with voice-operation
+software, and ABILITY embedding the VOICEYE text-to-speech print-reader to
+increase content accessibility.
+
+Find out more at ABILITY Magazine’s website:
+http://eab.li/1r .
+
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++ Notice: Supernova screen-reader support.
+Are you a Supernova screen-reader user? Are you interested in having
+someone provide you with remote support, via email, FaceTime or even Skype?
+My name is Donna Jodhan and I am a certified Supernova instructor.
+I am based in Toronto, Canada, but this does not stop me from providing you
+with timely and reliable Supernova support. If you are interested and want
+to learn more, then please email me at the address below and I will be
+happy to respond:
+donnajodhan@sterlingcreations.ca .
+
+[Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
++07: Gaps in the Market: Alan Philpott gets in touch to reply to a comment
+in last month’s e-Access Bulletin. In that issue, Clive Lever wondered
+why digital product accessibility doesn’t seem to feature in the training
+received by retail staff who sell these products. Here are Alan’s
+thoughts:
+
+“For the most part, I don’t believe that the product training staff
+receive in most stores in the UK is adequate – and not just in the field
+Clive mentions. Everyone is affected by the poor service in shops (in terms
+of knowledge) that occurs, but this problem, which can be overcome by
+sighted people more easily, is very hard to deal with for blind and other
+vision-impaired people, through mobility restrictions. This may make it
+difficult to go to different shops before making a purchase, during which
+time they might be able to find out the answers they need from one of the
+ten or so shop assistants they encounter on their travels.
+
+“For many blind and vision-impaired people, difficulties in accessing the
+internet also have an effect, and accessing computer training is also
+difficult, and may be very expensive and hard to come by when you are
+unemployed … IT skills can deteriorate, one falls behind, and the whole
+thing becomes a nightmare, as one struggles to find out the information
+which one should have been given in the stores one visited in the first
+place. Truly, a vicious circle in my view.”
+
+Please send further replies and comments to:
+eaccessbulletin@gmail.com .
+
+
++08: Smart Timing: Martin Jones gets in touch with a request for
+information on accessible smartwatches with a voice navigation function.
+
+“I recently bought a universal smartwatch, but the functions were not
+usable with a voice feature. Are there any smartwatches which are
+accessible, with a spoken voice function, but that are also affordable? I
+think others will be interested in this too, as it makes the technology
+accessible, but without leaving [blind and visually impaired] people
+vulnerable to theft, like mobile phones do.”
+
+Suggestions and replies, please, to:
+eaccessbulletin@gmail.com .
+
+
+[Section Two ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month in a
+new feature on the station’s Afternoon Edition programme. Hear more about
+the bulletin and upcoming content appearing in each issue, as we discuss
+the latest accessible technology news and readers’ questions with Allan
+Russell.
+
+Episodes will be available after broadcast as podcasts. Listen to and
+download the latest edition at the following link:
+http://eab.li/1y .
+
+Listen to RNIB Connect Radio online, or via television, smartphone or
+radio. Listening details at the following link:
+http://eab.li/1g .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+Section Three: Q & A.
+- Katherine Payne, Wayfindr.
+
++09: Navigating life’s obstacles.
+
+Audio navigation systems can be a useful tool to help blind and visually
+impaired people become more independent and mobile, particularly when used
+in an app.
+
+The Wayfindr project has just unveiled a valuable contribution to the field
+by releasing the first ‘open standard’ for audio navigation. The
+standard features detailed guidelines to help developers, transport
+services and building owners create digital navigation systems that can be
+used by blind and visually impaired people.
+
+Last year, Wayfindr organised a trial in London’s Eutson Tube Station,
+featuring blind and visually impaired participants navigating the station
+through a demo mobile app. The app spoke directions out loud to the users,
+triggered by Bluetooth ‘beacons’ around the station. With the trial
+successful and the open standard released, it seems like there’s big
+potential for Wayfindr to make a real difference.
+
+e-Access Bulletin spoke to one of the Wayfindr team, Katherine Payne, to
+find out more.
+
+- How did the idea for Wayfindr come about?
+
+“In 2014 the Royal London Society for Blind People’s Youth Forum
+released their youth manifesto, which detailed the challenges they faced as
+blind young Londoners. One of the main challenges was transport. They
+wanted to navigate the London Underground transport system independently.
+Working with digital product studio ustwo, the Youth Forum investigated how
+mainstream technology could support this. Using Bluetooth low energy
+beacons and smartphones, we have developed a system of audio-based
+navigation.”
+
+- How does Wayfindr work?
+
+“Emerging indoor navigation technologies, such as Bluetooth low energy
+beacons, hold the key to opening up the world for vision-impaired people.
+However, in order to achieve the greatest impact globally, there is a
+pressing need to develop a consistent standard to be used across wayfinding
+systems. This will truly open up a world where vision-impaired people are
+no longer held back by their sight loss, removing barriers to employment,
+to seeing friends and family, and engaging in their community.
+
+“The Wayfindr Open Standard aims to do just that. It gives venue owners
+and digital navigation service providers the tools to implement high
+quality, consistent audio wayfinding solutions. It also includes an
+open-source demo app that enables people who download it to use Bluetooth
+beacons, to understand and implement the open standard with real users, in
+real contexts, in real time.”
+
+- Who is the standard aimed at and where might it be used?
+
+“The aim is that this open standard will help lower the barrier for
+built-environment owners and digital navigation services to make their
+environments, products and services inclusive from the outset, as we
+continue to weave technology into our cities.
+
+“We hope it will be used across transport networks and digital navigation
+services, including places like Tranport For London and the CityMapper
+transport app.”
+
+- What kind of research helped produce the standard?
+
+“Various resources informed the content of the standard, which is still a
+first-version working draft. These resources include user-research from
+trials of London Pimlico Underground Station, Sydney Town Hall Train
+Station and London Euston Underground Station. Academic research supports
+the findings from these trials.
+
+“Additionally, factual information about vision-impairment and the
+navigation techniques of vision impaired people was used, plus input and
+feedback from industry experts.”
+
+- What applications does the Wayfindr open standard have for blind and
+visually impaired people?
+
+“Eventually it will be other trains, and not just the London Underground,
+that vision-impaired people will be able to navigate on their own. It could
+then be expanded to city level, to restaurants and to shops. Ruksana, a
+member of the Royal London Society for Blind People’s Youth Forum, made
+the following comment about these ideas: ‘That would be really
+revolutionary, it would change our lives. We wouldn’t need any assistance
+to get anywhere.’”
+
+- How do you hope to develop Wayfindr in the future?
+
+“We want to see audio wayfinding solutions across the world – in
+transport networks, shopping centres, hospitals and other places. We
+can’t do this alone. We need the Wayfindr community to keep sharing their
+knowledge, expertise and experience, to strengthen the standard and
+implement accessible navigation solutions globally.”
+
+
+Find out more at the Wayfindr website:
+http://eab.li/1k .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/1t .
+
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+Copyright 2016 Headstar Ltd.
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 180 ends.]
+
+
+---
+
+This message was sent to XXX by
+eaccess@lists.headstar.com
+
+ To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=f4d5f2a645ac25411415cc072892e824&mid=80>
+in our newsletter system.
+
+ To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=f4d5f2a645ac25411415cc072892e824>
+
+ Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=f4d5f2a645ac25411415cc072892e824>
+from all future mailings.

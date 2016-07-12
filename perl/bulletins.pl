@@ -28,7 +28,7 @@ my $url_issues="$url_stem/issues";
 my $b_parse = 1;
 #use constant B_PARSE => 1;
 use constant START_YEAR => 2000; #!2000!
-use constant START_ISSUE=> 171; #166;  #165 feb 2014; #166 nov 2013; #149 jun 2012; #128 mar 2011; #127; #119; #109 Jan2009; #95; #84; #77;   #25 Jan 2002. 13 Jan 2001. 61 Jan 2005. 70 Oct 2005.
+use constant START_ISSUE=> 175; #176 feb 2016;  #165 feb 2014; #166 nov 2013; #149 jun 2012; #128 mar 2011; #127; #119; #109 Jan2009; #95; #84; #77;   #25 Jan 2002. 13 Jan 2001. 61 Jan 2005. 70 Oct 2005.
 #my $end_issue=55;    #53, May 2004; 63, Mar 2005
 use constant TENS_ISSUE => 36;   #36, Dec 2002.
 # Release day about 20th of the month, 18.
