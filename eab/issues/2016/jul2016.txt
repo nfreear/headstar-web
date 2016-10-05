@@ -1,0 +1,635 @@
+http://transgallaxys.com/~kanzlerzwo/index.php?topic=9006.0
+
+E-Access Bulletin, July 2016: issue 181
+« on: July 30, 2016, 05:56:45 AM »
+[*QUOTE*]
+------------------------------------------------------------------------
+Headstar
+
+
+
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 181, July 2016.
+29.7.2016
+A
+ Headstar Publication, produced with the support of Thomas Pocklington Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 181 contents.
+
+Section One: News.
+01: Top travel websites still failing users with disabilities, report
+uncovers.
+- Companies are risking reputations and profits by ignoring accessibility.
+
+02: New guide on home technology launched for people with sight loss.
+- Both high-end and mainstream devices can help, publication says.
+
+03: Innovation and impact honoured at Tech4Good Awards.
+- Winners included an audio navigation system and pocket computer.
+
+
+News in Brief: 04: Helpful Hacks – assistive technology design prize; 05:
+Public Policy-Shaping – Accessibility consultation asks for input; 06:
+Tech For Teaching – free resource to assist hearing-impaired students.
+
+
+Section Two: The Inbox – Readers’ Forum.
+07: Smartphone Stats – Increasing inclusive cultural spaces.
+
+
+Section Three: Q & A – Robin Christopherson, AbilityNet.
+08: Steering digital inclusion from the driving seat.
+Robin Christopherson has been instrumental in pushing forward the digital
+accessibility agenda and sharing his expertise on the subject for more than
+two decades. Earlier this month he received a special recognition for his
+invaluable contributions at the annual Tech4Good Awards. e-Access Bulletin
+chatted to Christopherson about his work, enforcing accessibility
+legislation and testing a driverless car.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Top travel websites still failing users with disabilities, report
+uncovers.
+
+Many of the most popular travel companies are still not making their
+websites accessible, new research has found.
+
+The report (named ‘Are travel companies burying their heads in the sand
+when it comes to user experience and accessibility?’, compiled by digital
+user experience agency Sigma), tested ten of the most popular travel
+websites in the UK over three main categories: accessibility; usability;
+ease of use on different devices.
+
+The accessibility testing uncovered a wide range of problems across the
+sites for users with disabilities, particularly those with visual
+impairments.
+
+The ten sites tested were: Airbnb, Booking.com, British Airways,
+Co-operative Travel, Expedia, lastminute.com, LateRooms, On the Beach,
+Skyscanner and Virgin Atlantic.
+
+Molly Watt, an independent accessibility consultant and founder of the
+Molly Watt Trust charity, tested the travel sites as part of the report.
+Watt, who has Usher syndrome, was born deaf and is registered blind,
+retaining a small degree of vision.
+
+Problems that Watt discovered with the sites included: colours and fonts
+being “too garish”; zooming features being disabled; cluttered content;
+and “design-based trends” on web pages, such as text over images, or
+moving images.
+
+Watt told e-Access Bulletin that the biggest improvement travel websites
+need to make is to “simplify”. Giving examples of this, she said:
+“Travel websites need to avoid temporary pop-ups, as they can confuse or
+worry some users who might then think they have missed an important message
+… Colour contrasts also need to be improved, especially in drop-down
+menus and calendars – these are all crucial details.”
+
+A number of other accessibility problems were also found. Only two sites
+(Expedia and Virgin Atlantic) were rated as being compatible with a
+screen-reader, some sites had switched off the zoom function, many images
+weren’t accompanied by alt text, and not all sites were navigable with
+the ‘tab’ key.
+
+The travel site with the highest overall accessibility score was Expedia,
+which scored 10 out of a possible 11. Co-operative Travel scored lowest,
+achieving just 1 out of 11 (colour contrast, confusing drop-down menus and
+overly busy page layouts were some of the reasons given).
+
+Watt told e-Access Bulletin that travel companies are missing out on
+business by not properly catering for users with disabilities. “So much
+is advertised online these days. It’s ridiculous, therefore, that these
+websites aren’t fully accessible, and as a result, disabled users are
+missing out. Something needs to change, and fast.”
+
+This view is supported by a summary of key findings at the end of the
+report, including an observation that although accessibility is crucial,
+many travel websites still aren’t prioritising it. The report says: “If
+companies continue to ignore accessibility, they could be isolating
+millions of users, risking reputation, customer loyalty, and profits.”
+
+Read more about the report and download it in full at Sigma’s website:
+http://eab.li/21 .
+
+Read more about Molly Watt’s work at her website:
+http://eab.li/20 .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/2c .
+
+
++02: New guide on home technology launched for people with sight loss.
+
+The “blurring” of assistive technology and inclusive design into
+mainstream technology is helping to provide both high-end and everyday
+devices that can benefit visually impaired people around the home, claims a
+new publication.
+
+Talking microwaves, smart watches, audio thermometers, e-readers and online
+banking apps are some of the innovations featured in ‘Assistive and
+Inclusive Home Technology: A guide for people with sight loss’. The free
+guide has just been published by UK sight loss charity Thomas Pocklington
+Trust, and covers a wide range of devices that can improve independent
+living. Assistive technology funding information and tips for product
+designers are also highlighted.
+
+Subject areas covered include: household chores; home shopping and finance;
+health, fitness and wellbeing; reading and writing; entertainment and
+leisure. The guide provides a thorough introduction to the many useful
+technologies available for visually impaired people in these areas, as well
+as explaining the difficulties and pitfalls with existing devices.
+
+One of these difficulties is the increasing use of digital and touch-screen
+displays on household appliances, such as boilers, which can be difficult
+or impossible to control for someone with a visual impairment. The guide
+notes that: “Modern appliances can be an accessibility rollercoaster,
+with many ovens, microwaves, dishwashers, washers and dryers being hard to
+operate by people with sight loss.”
+
+However, many useful exceptions are explained, such as a combined washing
+machine and dryer that uses audio description to tell users about different
+washing cycles.
+
+Both everyday devices and hi-spec technologies can benefit people around
+the home, the guide says – for example, in home security: “Some recent
+technology trends threaten to undermine home access and security for
+visually impaired people, with concerns that touch-screen-reliant systems
+could make front doors inaccessible. On the other hand, biometric security
+technology can improve accessibility, with fingerprint locking mechanisms
+making it unnecessary for people to have to fiddle around finding the right
+key and guiding it into the keyhole. Lower-tech solutions such as keys with
+in-built torches and basic intercom systems can also assist people.”
+
+A series of real-life case studies are also highlighted in the guide, with
+accounts of visually impaired people using assistive and inclusive
+technology to help with everyday tasks, like reading books, cooking, mowing
+the lawn, and blogging.
+
+Also included in the guide are hints and tips on getting to grips with
+technology, a checklist for finding the right device, funding options for
+purchasing assistive technology, and a selection of other resources.
+
+The guide is available at the link below, in accessible PDF format:
+http://eab.li/1z .
+
+Read more about Thomas Pocklington Trust at the charity’s website:
+http://www.pocklington-trust.org.uk/ .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/2b .
+
+
++03: Innovation and impact honoured at Tech4Good Awards.
+
+A digital audio navigation system and a portable asthma management device
+are two of the winners in this year’s Tech4Good Awards, which recognises
+projects and individuals that are using technology to improve lives.
+
+People honoured at the event included an IT volunteer who helped to set up
+a charity by establishing its ICT systems, and digital inclusion expert and
+campaigner Robin Christopherson.
+
+Now in its sixth year, Tech4Good (organised by technology access charity
+AbilityNet) features ten categories, including awards for accessibility,
+digital health, community impact, digital skills, and a ‘people’s
+award’.
+
+Winners at the 2016 event – announced at a ceremony in London earlier
+this month – included Wayfindr, which received the AbilityNet
+Accessibility Award. Wayfindr is a set of tools for developing audio
+navigation systems which can help visually impaired people navigate the
+built environment.
+
+Wayfindr CEO Umesh Pandya told e-Access Bulletin that the team were
+“truly honoured” to win: “It is an incredible recognition of our
+efforts supporting vision-impaired people to navigate the world
+independently. It is indicative of a move across the sector towards weaving
+accessibility into mainstream technology,” said Pandya.
+
+(Read e-Access Bulletin’s interview with Wayfindr from issue 180, at the
+link below:
+http://eab.li/1t ).
+
+Other winning projects included Neighbourly (a platform to connect
+charities with businesses and people that can donate time or funds), BBC
+micro:bit (a pocket-sized programmable computer given out in schools to
+teach children coding and digital skills) and AsthmaPi (a portable,
+affordable device that helps children manage their asthma and prevent
+severe attacks by recognising triggers).
+
+The AsthmaPi was built by nine-year-old Arnav Sharma, who won the
+‘People’s Award’ and the ‘Winner of Winners’ Award chosen by the
+audience at the ceremony. Sharma told e-Access Bulletin that he was “very
+happy but also overwhelmed” to win. He said: “I am really thankful that
+I won these awards and for all the nice things everyone said.”
+
+Individuals recognised at the Tech4Good Awards included Maureen Johnston,
+who won IT Volunteer of the Year. Johnston volunteers at The Silver Line, a
+free helpline for older people, and has helped the charity to grow by
+setting up a virtual call centre. This centre assists volunteers with
+speaking to older people who use the service.
+
+Robin Christopherson, head of digital inclusion at AbilityNet, received a
+Tech4Good Special Award for his 20-plus years experience in promoting and
+advising on digital skills (see this month’s feature – the final item
+in e-Access Bulletin – for an in-depth interview with Robin
+Christopherson).
+
+Read more about the Tech4Good Awards at the event website:
+http://eab.li/1- .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/2a .
+
+
+++News in Brief:
+
++04: Helpful Hacks: The Hackaday Prize – a competition that asks
+designers and developers to create something that impacts social change –
+is returning in 2016 and once again features an assistive technology (AT)
+category. Last year’s winning AT entry (the Eyedriveomatic, a wheelchair
+controlled by eye movement) also won the overall competition prize, and
+other previous entries have included a 3D-prined, open source, affordable
+prosthetic hand. The competition is open now and AT finalists will be
+announced in October.
+
+Read more, including entry details, at the Hackaday Prize website:
+http://eab.li/26 .
+
+
++05: Public Policy-Shaping: The Canadian Government has launched an online
+public consultation to help shape accessibility legislation, which will
+include looking at how people with disabilities use technology. Feedback
+from Canadian citizens will inform future policy, and contributions can
+made until February 2017. The consultation is available in text, American
+Sign Language and audio, and other accessible formats can be requested.
+
+Contribute to the consultation at the following link:
+http://eab.li/2d .
+
+
++06: Tech For Teaching: A free technology resource for teaching staff
+working with pupils who are deaf or hard of hearing has been released.
+‘11 easy to use technologies to enhance learning in your classroom’ was
+developed by the Conexu Foundation, an Australian not-for-profit, and
+advises teachers on how different technologies can improve the learning
+experience for pupils.
+
+Download the resource for free at the following link:
+http://eab.li/27 .
+
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
++07: Smartphone Stats: Barry Ginley, who works at London’s Victoria and
+Albert Museum, writes in to ask for statistics on smartphone operating
+systems, as part of a new project that aims to make galleries and museums
+more inclusive for people with differing abilities:
+
+“I am undertaking a project on apps in cultural heritage venues to aid in
+accessibility. The ARCHES project will last for three years and is
+European-funded. We will be working with organisations from around Europe
+and partners in the UK, including the Open University, the University of
+Bath and the Wallace Collection.
+
+“I wonder if there are any statistics on the most popular operating
+systems for smartphones or tablets used by people with disabilities? For
+example, do people prefer Android or iOS operating systems on their
+phones?”
+
+Facts, figures and other ideas, please, to:
+eaccessbulletin@gmail.com .
+
+
+[Section Two ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month in a
+new feature on the station’s Afternoon Edition programme. Hear more about
+the bulletin and upcoming content appearing in each issue, as we discuss
+the latest accessible technology news and readers’ questions with Allan
+Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
+http://eab.li/1g .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+Section Three: Q & A.
+- Robin Christopherson, AbilityNet.
+
++08: Steering digital inclusion from the driving seat.
+
+When he helped co-found UK technology access charity AbilityNet in 1998,
+Robin Christopherson was already on his way to helping drive forward
+digital accessibility, and since then his work has continued to change
+people’s lives. He is now AbilityNet’s head of digital inclusion, after
+helping to grow the charity’s services. These services include website
+and mobile accessibility consultancy, which AbilityNet now delivers to
+companies including Microsoft, the BBC, HSBC and Sainsbury’s.
+
+Christopherson has also led and worked on all manner of projects and
+campaigns to increase digital accessibility, particularly for blind and
+visually impaired people. This has included providing expert commentary for
+news sources such as The Guardian, and presenting on and testing new
+technology, whether that’s a driverless car or the latest smartwatch.
+
+In recognition of his invaluable contributions, he was surprised with a
+special award at the annual Tech4Good Awards earlier this month. e-Access
+Bulletin caught up with Christopherson to find out more about his work and
+get his thoughts on the evolution of accessibility.
+
+- Tell us about your work at AbilityNet and how it’s changed over the
+years:
+
+“AbilityNet is all about empowering people through accessibility and
+technology, and has been changing lives since 1998. As a blind person,
+I’m just one example of how tech has helped improve the life choices for
+people with disabilities. We now have all the power of computers with us
+wherever we go, and with a range of sensors – such as camera, GPS,
+accelerometer and compass – that can be incredibly empowering when one or
+more of your own senses don’t work.
+
+“Whereas a disabled person used to have to purchase expensive (and often
+limited) devices, they can often now use mainstream gadgets, such as
+smartphones, that have all the necessary accessibility features built-in,
+and which offer thousands of apps that perform the same functions for a
+fraction of the price.
+
+“I used to need a talking GPS device (£750), a talking notetaker
+(£1,500), a talking barcode scanner (£150) and many more specialist
+devices. Now, I have all that functionality and an awful lot more in one
+device. That same device is also almost infinitely expandable with each new
+app or service that comes along.”
+
+- What kinds of work were you doing before AbilityNet?
+
+“I was an IT instructor for the Royal National Institute of Blind People
+(RNIB), and was able to play with (I mean ‘research’) incredible
+technologies, such as screen-reading software for Windows, flatbed scanners
+that can read back-printed materials and talking notetakers.
+
+“In the UK today, 90% of jobs include a computer of some sort, and these
+technologies helped make many more careers possible. That said, 73% of
+people with a vision impairment in the UK are still without paid work,
+which is why I feel so strongly about the main aspect of my work today –
+regular public speaking to both conference and corporate audiences. If
+you’d like to see these strong messages about the empowering potential of
+tech, simply Google me or search on YouTube or Vimeo.”
+
+- How has digital accessibility improved over the time you’ve been
+working in the sector?
+
+“The accessibility of devices has been transformed in recent years,
+driven largely by Apple. Apple has led the way and shamed or energised
+others to follow. Disabled people are using their smartphones to aid
+mobility, manage their health, interact with more people, play an active
+part in commerce and also have a lot of fun. The accessibility of the Mac
+and i-devices has ‘mainstreamed’ inclusion and, because of its
+influence on Android and other manufacturers, this has meant inclusion is
+now more affordable than ever.
+
+“The accessibility of these devices has also impacted a second area, web
+and app accessibility, and there are tens of thousands of accessible apps
+to choose from – replacing hard or impossible-to-use websites. This has
+had a massive impact on choice for disabled people. As a blind person I
+would always reach first for an app which is a more accessible, cleaner and
+more distilled user experience. Actually, I would first reach for Siri to
+see if the information or interaction I want can be done in a few seconds
+flat.
+
+“Having said that, I actually use my phone considerably less since
+getting my smartwatch, which is like a quick window into my phone’s most
+commonly used features. It taps me on the wrist when I need to turn down
+the next street, it means I can pay for items without even taking my phone
+out of my pocket, and it lets me know how bad my night’s sleep has been
+– but behind the watch and all its services is always the smartphone.”
+
+- Is accessibility now more of a mainstream issue than it used to be?
+
+“The concept of digital accessibility is now not only more mainstream an
+issue – it is, in fact, a purely mainstream issue. So,
+‘accessibility’ (with its historical connotations of being solely for
+the disabled user, requiring extra budget and being a ‘bolt-on’ that
+may be dropped off) should probably now be replaced with the idea of
+‘inclusive design’. Inclusive design is for every user and is
+factored-in from the very start of any project, informing every decision
+along the way.”
+
+- What can be done to improve the state of digital accessibility?
+
+“The single most impactful development that will see a seismic shift is
+for government to actually enforce the law. This sounds odd, but I
+explained it in a recent open letter to the UK Government (link to
+Robin’s letter below:
+http://eab.li/2f ).
+
+“To summarise, it’s been a legal requirement to have an accessible
+website since 2003, and yet we estimate that more than 90% of websites in
+the UK still don’t even meet ‘single-A’ standard [of the Web Content
+Accessibility Guidelines], let alone ‘AA’, which is arguably the legal
+requirement.
+
+“The trouble is that authorities don’t appear to feel that checking for
+compliance is their job. Instead it’s been left to individuals or those
+representing them, such as the RNIB, to help enforce the law. You can
+barely leave your car one minute over time without getting a parking
+ticket, but where are the government’s wardens of the internet? The law
+on accessibility matters too – arguably much more so for those disabled
+users directly impacted, and more widely for our digital economy.”
+
+- What have been some of the most exciting projects you’ve worked on?
+
+“This is going to sound quite pedestrian in light of the amazing
+technologies available today, but I think that AbilityNet’s ongoing
+involvement in the accessibility of Microsoft products is something I’m
+most proud of. When I consider how many people we’ve potentially helped
+by assisting in the accessibility of Microsoft Windows and Office, etc,
+I’d have to say that this was some of our work that I am most proud
+of.”
+
+- What has been your biggest achievement?
+
+“I’d hope that my involvement with the UK Government Digital Strategy,
+and my blogs and public speaking, have impacted people’s lives for the
+better. I’m also very proud to have been a judge in the recent Global
+Mobile Awards in Barcelona, and to have received two recent awards: runner
+up in the 2015 UK Digital Leaders Awards (after Baroness Martha Lane Fox)
+and the special award at this year’s Tech4Good event.
+
+- How did it feel to receive the Tech4Good Award?
+
+“It was amazing, although I was totally unprepared, unlike the winners of
+the other categories, who had been shortlisted in advance. I had just
+finished my on-stage presentation about the power of tech, and suddenly
+they were asking me to stay on the stage, and presenting me with an award.
+The Tech4Good Awards are for the best of the best – recognising people
+and products that are changing lives for the better – so to be part of
+that excellent process is truly humbling. I’m still getting over the
+shock!”
+
+- You recently tested a driverless car. Tell us about that.
+
+“I had a taste of potential future adventures behind the wheel when a
+colleague gave me the opportunity to ‘drive’ his Tesla [a company that
+makes self-driving cars]. Okay, so I wasn’t actually driving, but I sat
+in the driver’s seat with my feet off the pedals, while my colleague
+summoned the car into auto-drive mode.
+
+“I could feel the wheel turning in my hands as the car moved out of the
+parking space. Were it legal to use a fully autonomous car on UK highways,
+I would have headed off into the sunset, but currently it’s only legal to
+do this off public roads. So instead, we reversed the process with the
+auto-park button and I slid back into a parking space. For many people,
+that doesn’t sound like much, but growing up and knowing that my vision
+would get worse until I had none, I thought I’d never be able to drive.
+However, things are changing fast.”
+
+- What have been some of the most important developments in technology for
+blind and visually impaired people in recent years?
+
+“The top three most significant developments for blind users are, in
+order: 1. The smartphone. 2. The smartphone. 3. The smartphone. To give the
+merest inkling of how broad the uses of the smartphone are for vision
+impaired users, take a brief look at the AppleVis site that catalogues
+hundreds of people’s favourite accessible iOS apps.” (link to AppleVis
+site below:
+http://eab.li/22 ).
+
+- Are there any accessibility developments that you’re excited about for
+the coming years?
+
+“One area that is seeing significant growth is wearable tech and the
+‘quantified self’. This means that gadgets which monitor your steps,
+exercise and heart rate are encouraging a healthier lifestyle and gathering
+data which can assist on a personal diagnosis level. Apple is leading the
+way in these areas; the Apple Watch, for example, is totally accessible and
+can monitor a wide range of activities.
+
+“As a blind person, I can use the stair-stepper workout to go up and down
+the stairs at home (who needs a gym?), and all my calories burned and heart
+rate activity are measured. This data can provide valuable information for
+monitoring individual health, but Apple also has a much broader programme
+(called ‘Research Kit’) that is taking anonymous, aggregated data and
+making it available to medical research projects on a scale never available
+before.
+
+“Another area that has huge potential is the connected home, also known
+as the ‘Internet of Things’ or IOT. We’re all familiar with devices
+like heating thermostats being controlled via an app or smartwatch, but
+what isn’t always appreciated is that those apps are often more
+accessible than the device’s own interface.
+
+“Now imagine if your cooker could talk to you via an app and tell you
+when it had reached the correct temperature. It might help a blind person
+like myself be a better cook. Imagine if your doorbell had a webcam with
+face-recognition technology – how helpful would that be for someone with
+dementia who lives alone? What about a medicine dispenser that tells you if
+you’ve forgotten to take your tablets, or can inform the doctor if you
+need a fresh prescription? Many of these technologies already exist.
+
+“For disabled and older people, wearable technologies and smarter homes
+will undoubtedly deliver greater choice, control, peace of mind and
+independence. While it is impossible to say which device or technology will
+have the biggest impact going forward, at the heart of it will undoubtedly
+remain the smartphone.”
+
+Follow Robin Christopherson on Twitter using @usa2day (link to Robin’s
+Twitter page: http://eab.li/25 ) or read more at AbilityNet’s website, at
+the link below:
+http://eab.li/24 .
+
+This feature is an extract from a longer interview with Robin
+Christopherson. The full interview can be found online at e-Access
+Bulletin’s blog site, at the link below:
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/29 .
+
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+Copyright 2016 Headstar Ltd.
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 181 ends.]
+
+
+
+---------------------------------------------------------------
+[*/QUOTE*]

@@ -1,0 +1,594 @@
+Headstar <eaccess@lists.headstar.com>
+To	nfreear@yahoo.co.uk 30 Sep at 12:11 PM
+
+
+
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 182, September 2016.
+
+A Headstar Publication, produced with the support of Thomas Pocklington
+Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 182 contents.
+
+Section One: News.
+01: World’s first ‘bionic Olympics’ to tackle everyday obstacles with
+assistive tech.
+- Competitors will slice bread and climb stairs using prosthetics.
+
+02: ‘Hidden’ sight loss and dementia tackled in technology campaign.
+- RNIB Scotland is latest charity to sign the charter.
+
+03: Accessibility without the excessive price: affordable tech site
+launched.
+- Tablets, phones and apps for under £150 featured on an introductory
+site.
+
+
+News in Brief: 04: Nurturing Conversation – interpreter-assisted video
+chats; 05: Tech Talking – assistive technology conference returns; 06:
+Downloadable Library – ten million accessible e-books reached.
+
+
+Section Two: The Inbox – Readers’ Forum.
+07: Accessible Artefacts – Enhancing museum exhibitions for disabled
+visitors.
+
+
+Section Three: Q & A – James Buller, Home Office Digital.
+08: Government for all: opening up online services.
+A special digital accessibility team at the UK Government Home Office is
+helping shape the way people with access needs use government services
+online. James Buller is leading some of this work, finding out directly
+from users how these services can be improved for them. In a republished
+and adapted blog post from GOV.UK, he explains more about this specialised
+accessibility role, as well as his own assistive tech and online needs
+arising from aniridia, a rare genetic eye condition.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: World’s first ‘bionic Olympics’ will tackle everyday obstacles
+with assistive tech.
+
+Cutting bread, climbing stairs and unwrapping a sugar cube all feature as
+competitions in an event being dubbed the ‘world’s first bionic
+Olympics’, which will set out to show how advanced technologies can help
+people with disabilities in daily life.
+
+Taking place in Kloten, Switzerland, on October 8, the Cybathlon
+championship features six types of contest, with disabled competitors using
+and controlling assistive devices and robotic technologies.
+
+The events will test how these technologies allow users to complete
+day-to-day tasks. For example, in the ‘powered leg prosthesis race’,
+competitors (referred to as “pilots”, as they need to control or steer
+their technology) are timed using leg prosthetics to navigate stairs,
+slopes and uneven surfaces.
+
+In the ‘powered arm prosthesis race’, competitors with an arm
+amputation and prosthetic must complete tasks such as: cutting and
+spreading jam on a slice of bread, carrying a tray of items to a table,
+opening a door and fitting a light bulb.
+
+Cybathlon was created by Robert Riener, head of Health Sciences and
+Technology, and Professor of Sensory-Motor Systems at the ETH Zurich
+university in Switzerland. Riener told e-Access Bulletin that he was
+inspired to start the event when he decided through his daily work that
+“current assistive technologies are not functional enough and not
+accepted by many people.”
+
+Further inspiration for Cybathlon came after Riener read a newspaper
+article about a man with a motorised knee prosthesis running up 103 floors
+of Chicago’s Willis Tower.
+
+Explaining the concept behind Cybathlon, Riener said: “We want to promote
+the development of useful, acceptable, assistive devices for people with
+motor disabilities, and not just find the strongest and fastest person with
+a disability. That is why we have designed race tracks and obstacles that
+have a meaning for daily life.”
+
+Competitors in Cybathlon are not professional athletes, and instead have to
+master the devices and technology they use in the events. “That is why we
+call them ‘pilots’,” said Riener.
+
+The technologies used are largely specialist and highly advanced. Asked if
+it presents a problem that many disabled people can’t access or afford
+these technologies, Riener said: “It is normal that the newest high-tech
+is most expensive … However, we need new devices popping-up to shift
+previous ideas. High-tech will become used by a broader population and
+become cheaper, if it functions well. Furthermore, we urge politicians to
+give larger funding to high-tech devices for people with disabilities.”
+
+A total of 74 athletes from 25 countries will take part in Cybathlon. Other
+contests include the ‘powered wheelchair race’, the ‘powered
+exoskeleton race’, the ‘functional electrical stimulation bike race’
+(‘pilots’ with a spinal cord injury – SCI – pedal bikes by
+stimulating their muscles with electrodes), and the ‘brain-computer
+interface race’ (‘pilots’ with an SCI navigate computer game avatars
+purely through technology that reads their brain signals).
+
+Find out more at the official Cybathlon site:
+http://eab.li/2q .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/2y .
+
+
++02: ‘Hidden’ sight loss and dementia tackled in technology campaign.
+
+The Scottish arm of the Royal National Institute of Blind People, RNIB
+Scotland, has signed-up to the Technology Charter for People Living with
+Dementia.
+
+Originally launched in December 2015, the charter was developed by
+organisations including Alzheimer Scotland, NHS Scotland and the Scottish
+Government. It encourages greater use of technology in health and social
+care for people with dementia, and features six key values, including:
+“Routes and access to technology are ethical, equitable, simple,
+understandable and user-friendly.”
+
+As well as promoting technology as an aid for people living with dementia
+and their carers, by signing the charter, RNIB Scotland are also hoping to
+raise awareness of ‘hidden’ sight loss.
+
+June Neil – training and development manager for older people and complex
+needs at RNIB Scotland – told e-Access Bulletin that signs of sight loss
+can go unrecognised in some people living with dementia, as the symptoms
+are instead attributed to that condition.
+
+Neil said: “Symptoms such as: not recognising faces, becoming
+disinterested in hobbies, or not going out because someone can’t see the
+numbers on buses – all of those things could be because of dementia or
+could be because of sight loss, and [the individual] is unable to
+communicate these changes.”
+
+The charter lists a wide variety of benefits that technology can bring to
+people living with dementia, including: reducing isolation and increasing
+communication with others; supporting memory and decision-making; and,
+reducing the risk of accidents.
+
+For example, the MindMate app (available at the following link:
+http://eab.li/2p )
+helps to increase independent living for people with dementia. The app
+provides reminders and gives advice about nutrition and exercise.
+
+Sandra Shafii from Alzheimer Scotland told e-Access Bulletin that the
+Scottish Dementia Working Group recently used a Dementia Engagement and
+Empowerment Grant to purchase iPads. These will help individuals with
+dementia connect with each other, particularly in group meetings, where
+some members may live far away and not be able to travel.
+
+Simplified interfaces on tablet computers and mobile devices are also
+helping to increase technology use in older people with dementia, Neil
+said, as are easy-to-use communication apps like FaceTime and Skype.
+
+Websites like Dementia Circle (available at the following link:
+http://eab.li/2i )
+also test and list devices that can assist everyday living for people with
+dementia.
+
+RNIB Scotland’s move to sign the Technology Charter supports a
+long-established partnership with Alzheimer Scotland. The two organisations
+have previously worked together on similar projects, writing a best
+practice document on how various technologies can support people living
+with both sight loss and dementia.
+
+Additionally, digital skills organisation Tinder Foundation recently
+released a separate report, ‘Dementia and Digital’, based on research
+around a similar subject. Key findings of that report include the
+following: tablet computers are the most effective devices for delivering
+digital skills and health training for people with dementia; and, access to
+online resources increases wellbeing and confidence for people living with
+dementia.
+
+Read Alzheimer Scotland’s Technology Charter as a PDF:
+http://eab.li/2l .
+
+Read Tinder Foundation’s ‘Dementia and Digital’ report as a PDF:
+http://eab.li/2k .
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/2x .
+
+
++03: Accessibility without the excessive price: affordable tech site
+launched.
+
+A new online resource has been launched to help people make informed
+choices about low-cost accessible technology.
+
+The Affordable Access project (found at the link below:
+http://eab.li/2o )
+provides easy-to-understand information on a wide range of products and
+devices, all for under 250 Australian Dollars (equivalent to around £150 /
+190 US Dollars). Technology covered on the site includes: tablet computers,
+smartphones, apps, desktop computers and TV streaming devices.
+
+Affordable Access was launched by non-profit digital accessibility
+organisation Media Access Australia (found at the link below:
+http://eab.li/2s )
+in collaboration with the Australian Communications Consumer Action
+Network.
+
+Four main areas of the site cover the following areas: common accessibility
+features; differing access needs and disabilities; information on available
+products; and a section for those with more advanced technological
+knowledge.
+
+The section on common features includes a list of recommended accessibility
+software and apps (both built-in and third-party products) that work on
+different operating systems. This includes screen-readers, voice
+recognition software, magnifiers and Braille apps, all priced under $250.
+
+Also included is a breakdown of accessibility features in different
+versions of Android and Windows, both chosen because of their pricing. The
+breakdown table also advises on how to enable these features and what kinds
+of users they will benefit.
+
+While some specific information on Affordable Access is geared towards
+purchasing products in Australia, much of the content covers a wide range
+of globally available technologies. The advice and recommendations are
+applicable to anyone with an interest in accessible technology,
+particularly those who are new to the subject or unsure of what device will
+suit them.
+
+Comment on this story at e-Access Bulletin Live:
+http://eab.li/2w .
+
+
+++News in Brief:
+
++04: Nurturing Conversation: A new, free service enabling people who are
+deaf or hearing impaired to make video calls via an interpreter has
+launched in Canada. SRV Canada VRS aims to improve communication between
+people who are hearing impaired and those who can hear. When a hearing
+impaired person makes an online video call using the service, an
+interpreter appears on the device screen. The interpreter speaks the
+hearing impaired caller’s sign language to the non-hearing impaired
+caller, and then translates the vocal response back into sign language for
+the hearing impaired caller.
+
+Find out more at the SRV Canada VRS website:
+http://eab.li/2u .
+
+
++05: Tech Talking: The accessibility challenges of new broadcasting
+technologies – such as 360-degree video and binaural audio-equipped
+virtual reality – will be explored in a keynote talk at the second
+Assistive Technology Exhibition and Conference (ATEC), held in Sheffield,
+UK, on November 24. Other sessions at ATEC will cover assistive technology
+investment, creating accessible text, and difficulties faced by the sector,
+with speakers from the BBC, Business Disability Forum and the British
+Assistive Technology Association.
+
+Further event information at the ATEC website:
+http://eab.li/2j .
+
+
++06: Downloadable Library: Over ten million accessible e-books have been
+downloaded through Bookshare, an online library for people with print
+disabilities. The achievement was announced by Benetech, the non-profit
+technology company that launched the project. Bookshare’s catalogue
+features over 470,000 titles – including textbooks – which can be
+converted to a range of accessible formats. More than 250,000 people in 70
+counties have access to the Bookshare library, which is free to eligible
+United States’ students, and available for a fee to others.
+
+Find out more at the Bookshare website:
+http://eab.li/2z .
+
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
++07: Accessible Artefacts: Thomas Bryan gets in touch from New Zealand,
+where he works for the Blind Foundation, an organisation that provides
+support and services for people with sight loss (find out more at the
+following link:
+http://eab.li/2- ).
+
+Thomas works with developers and manufacturers, looking at how emerging
+technologies can improve access to information and the environment for
+people with sight loss. He wants to know how museums and art galleries can
+use technology to improve the visiting experience:
+
+“Can anyone point me towards information on equipment and services that
+will enhance tours and exhibitions, to make them more accessible and
+interactive for disabled visitors? I’d like to know about any technology
+that might help – navigation tools, virtual reality devices, or just
+anything that makes visiting a museum or gallery a better experience for
+people with disabilities.
+
+“Also, I’d like to know how museums and galleries can make exhibition
+information on their websites more accessible and interesting for disabled
+users – especially anything that goes beyond just following standard web
+content guidelines.”
+
+Suggestions and ideas, please, to:
+eaccessbulletin@gmail.com .
+
+
+[Section Two ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month in a
+new feature on the station’s Afternoon Edition programme. Hear more about
+the bulletin and upcoming content appearing in each issue, as we discuss
+the latest accessible technology news and readers’ questions with Allan
+Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
+http://eab.li/1g .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+Section Three: Q & A.
+- James Buller, Home Office Digital.
+
++08: Government for all: opening up online services.
+
+James Buller is a user-researcher at Home Office Digital (HOD) leading on
+access needs, and has been contributing to the Government Digital Service
+(GDS) accessibility blog on GOV.UK, the UK government services portal.
+
+Below is a republished, adapted version of the Q&A in James’ GOV.UK post
+(with some additional material), explaining how he works with service users
+to meet accessibility requirements, as well as his own use of assistive
+technology and the wider work of HOD.
+
+James’ original post can be found in full on the GDS accessibility blog,
+linked to at the end of this article.
+
+- Please tell us about yourself:
+
+“I’m a user-researcher at Home Office Digital. I talk to and observe
+users of our services to understand their needs. I relay these to my team
+to improve our provision. I’m also thrilled to be leading HOD on access
+needs alongside Emily Ball, raising peers and senior colleagues’
+awareness, skills and standards of accessibility, plus sharing good
+practice across government.
+
+“Outside of work, I’m a trustee for Aniridia Network UK (found at the
+following link: https://aniridia.org.uk ),
+the charity that supports people with my rare genetic eye condition. I
+manage all aspects of its communications, IT and membership.
+
+“Aniridia means my eyes didn’t develop properly as a baby. Most
+obviously, I have no irises – no coloured part of my eyes. That means I
+can’t shut out sun or bright light. It also means I can’t see detail
+and am very short-sighted. Essentially, I see everything over-exposed and
+in low resolution.”
+
+- What visual aids do you use?
+
+“Various magnifying glasses, sometimes including the camera and an app on
+my phone. To see things like presentations, I use a monocular. It’s a
+mini-telescope capable of focusing very nearby. This is useful when a
+colleague wants to show me something on their computer screen a few feet
+away. When outside, rather than sunglasses, I wear special green-tinted eye
+shields to cut out blue glaring light, without affecting contrast too
+much.”
+
+- What assistive technology do you use when you’re on the web?
+
+“Since my job is about usability of website interfaces, I avoid
+overriding their designs, such as with high contrast colours or larger
+fonts. So I use screen magnification software set to at least 200%, often
+more. At my desk, the screen view is spread across two monitors so that
+(most of) a line of text can be read with just head movement, rather than
+horizontal scrolling.
+
+“That’s not possible with my Android phablet, but the large screen
+makes interfaces like the keyboards appear large. Plus, even with large
+fonts or zoom, a decent amount of stuff is still in view.
+
+“I keep up with blogs using RSS feeds and listen to blog posts during my
+commute. The pronunciations can be fun. For example: ‘Now read live
+reporting from GDS’ could sound like: ‘now red liv reporting from
+geedesh.’
+
+“Podcasts and videos are great alternatives to articles. Particularly for
+tutorials – I’ll seek out an audio-visual tutorial rather than a
+written guide.”
+
+- What barriers do you regularly face on the web and in other parts of your
+job?
+
+“Reading written materials or filling in paper forms is hard. Beyond the
+obvious, examples include: labels on sandwiches inside a glass counter; a
+reception desk sign-in sheet; art gallery labels; colleagues’ notes. As
+well as being hard to see, there are physical barriers or social
+expectations that inhibit my methods of perceiving them.
+
+“Online, when using screen magnification, the biggest difficulties are
+due to notifications, dialog boxes or buttons being out of my current
+zoomed field of view. I have to physically scroll around, hunting for the
+interface I need. That is disorientating, takes valuable time and lots of
+mouse movement effort, which could lead to repetitive strain injury.
+
+“Applications with text that cannot be enlarged are a pain. I can use the
+Android zoom, but then I have to swipe back and forth to read lines of
+text. To avoid that, I’ve become good at reading the first three-quarters
+of each line and guessing the rest, only swiping across when necessary.
+
+“I’ll often give up reading rather than excessively scrolling my zoomed
+view back and forth. Text that poorly contrasts with the background is also
+a big hindrance.
+
+“Also, ‘mega-menus’ can be a nightmare. I’m constantly moving my
+mouse to the edge of the screen to move the area I’m zoomed into. I
+frequently open menus by accident as the cursor passes over the area that
+activates them.
+
+“All that said, I far prefer electronic to paper in most situations.
+I’d much rather write or fill in a well-designed online form with a
+keyboard and monitor, rather than paper and pen.”
+
+- (e-Access Bulletin Editor’s note: the following two questions and
+answers are from separate material sent by James to e-Access Bulletin, and
+are not included in the original GOV.UK blog post republished above)
+
+- Tell us a bit more about your role at Home Office Digital and the wider
+accessibility team:
+
+“I’m now dedicated to leading on access needs full-time, and other
+staff are coming on board to assist. The focus on accessibility within the
+Home Office Digital team has been driven by Katy Arnold, Head of User
+Research and Design. Everyone on her team received training on how to
+discover and meet the access needs of colleagues and service users. We then
+found 12 enthusiastic people from among the researchers, writers and
+designers, and paired them up to specialise on a disability.
+
+“They are tasked with growing our knowledge of how different disabilities
+may affect use of our online services and what can be done to help. This
+can then be fed into the design. The results of this are epitomised in the
+‘Do and Don’t’ series of ‘designing for accessibility’ posters we
+produced (link below to GDS blog about the posters:
+http://eab.li/2n ).
+
+“Three developers have also been given responsibility for improving how
+we address technical aspects.
+
+“Before we even start planning a project, let alone coding it,
+user-researchers interview relevant people with access needs. We learn how
+to make the service meet their needs. Then throughout development, we run
+usability testing sessions, often visiting their home or workplace to
+observe them using our system with their assistive technology, in their
+normal environment.”
+
+- How has this approach changed ways of working?
+
+“Here are two examples of how online forms have changed:
+
+“1: When asking for a phone number, enabling users (especially D/deaf
+users) to specify that we should only text them instead of calling [over
+the phone].
+2: When uploading a photograph for a passport, providing a way for users
+(such as, people with facial disfigurements) to override the automated
+checks for compliance with the rules, and explain why to the human
+examiner.
+
+“I’m supporting all this work by giving advice, delivering training and
+conducting site audits. Together with the fantastic accessibility team at
+Government Digital Service and colleagues across government, we are
+continuing to grow our capacity for understanding and meeting access needs.
+I am thrilled to be part of the movement that’s creating exceptional
+services for everyone.”
+
+
+This article is a republished, adapted version of James Buller’s post on
+the GOV.UK accessibility blog, which can be found at the following link:
+http://eab.li/2m .
+
+Licensing attribution: this article contains public sector information
+licensed under the Open Government Licence v3.0.
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/2v .
+
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+Copyright 2016 Headstar Ltd.
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 182 ends.]
+
+
+
+--
+
+This message was sent to nfreear@yahoo.co.uk by eaccess@lists.headstar.com
+
+To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=8853df643ffa0a489fcaf5869c781942&mid=85>
+in our newsletter system.
+
+To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=8853df643ffa0a489fcaf5869c781942>
+
+Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=8853df643ffa0a489fcaf5869c781942>
+from all future mailings.
+
+
+
+
+-- powered by phpList, www.phplist.com --

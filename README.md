@@ -26,7 +26,7 @@ _[In memory of Dan … Dan Jellinek 1968 — 2015][tribute]_
 
 
 ---
-Copyright © 2000-2016 Headstar Limited. [All rights reserved].
+Copyright © 2000-2016 Headstar Limited. [All rights reserved][copy].
 
 ISSN 1476-6337.
 
