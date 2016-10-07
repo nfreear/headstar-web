@@ -9,11 +9,13 @@ e-access:
 bulletins:
 	cd perl/;  perl bulletins.pl
 
+install-cpanminus:
+	cpan -i App::cpanminus
+
 install:
 	# (brew install perl) - mac os x.
 	# http://www.cpan.org/modules/INSTALL.html
 	# http://search.cpan.org/dist/HTML-Parser/lib/HTML/Entities.pm
-	cpan App::cpanminus
 	cpanm HTML::Entities
 
 npm-install:
