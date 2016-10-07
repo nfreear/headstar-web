@@ -25,7 +25,7 @@ npm-install:
 
 cat-log:
 	cat perl/logs/00e-access.log
-	cat perl/logs/00bulletins.log
+	#cat perl/logs/00bulletins.log
 
 version:
 	node --version
