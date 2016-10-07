@@ -29,7 +29,7 @@ p,li,table,address, h4 { font-size: 1.06em; }
 #eab #main { margin-top: 3%; }
 a {
   color:      #640a64; /* #862c86 */
-  background: #fbfbfb;
+  background: #fdfdfd;
   text-decoration: none;
 }
 a:hover, a:focus, a:active {
@@ -163,4 +163,3 @@ ol.Archive, ul.Archive, ul#notes { list-style: circle; }
 /* Homepage, 'current' link */
 .pg-index #bulletin li { margin: .4em 0; }
 #toCurrent { font-weight: bold; letter-spacing: .05em; }
-

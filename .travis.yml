@@ -1,0 +1,19 @@
+# Headstar E-Access Bulletin.
+language: perl
+perl:
+  - "5.22"
+
+git:
+  depth: 5
+
+install:
+  - make install
+  - make npm-install
+
+script: grunt
+
+after_script:
+  - make version
+  - make cat-log
+
+#End.

@@ -1,4 +1,7 @@
-# Readme for E-Access Bulletin
+[![E-Access Bulletin][eab-logo-1]][eab]
+
+
+# E-Access Bulletin
 
 * <http://headstar.com/eab>
 * [contact information (vcard)][vcard]
@@ -19,7 +22,8 @@ Dan Jellinek.
     ten/         -- Text Email Newsletter Standard (TEN).
 
 
-[![E-Access Bulletin][eab-logo-1]][eab]
+* [Bitbucket][]
+* [GitHub][]
 
 
 _[In memory of Dan … Dan Jellinek 1968 — 2015][tribute]_
@@ -31,6 +35,8 @@ Copyright © 2000-2016 Headstar Limited. [All rights reserved][copy].
 ISSN 1476-6337.
 
 
+[bitbucket]: https://bitbucket.org/nfreear/headstar_web.git
+[github]: https://github.com/nfreear/headstar-web
 [vcard]: http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://headstar.com/eab/contact.html
     "Download a vCard (VCF file), via Suda.co.uk — 'Dan-Jellinek.vcf'"
 [expired-domain]: http://e-accessibility.com "| 80.87.128.130"

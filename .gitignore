@@ -1,10 +1,15 @@
 #.gitignore for headstar_web
 
+node_modules/
+#Gruntfile.js
+/v*.js
+
 CVS
 docs
 headstar
 1
 /2014
+*BAK*
 *old*
 *NEW*
 
