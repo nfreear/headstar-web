@@ -9,8 +9,7 @@ technology access by those with disabilities and older people._"
 
 * [E-Access Bulletin][eab]
 * [E-Access Bulletin Live][eablive]
-* [Subscribe to E-Access Bulletin newsletter][subscribe]
-<!--* [contact information (vcard)][vcard]-->
+* [Subscribe to the E-Access Bulletin newsletter][subscribe]
 
 "_news and research on technology for the blind and visually impaired_"
 
