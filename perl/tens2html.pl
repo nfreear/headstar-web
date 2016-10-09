@@ -74,7 +74,7 @@ my $c_person=128;
     my $state=0;
     my $chunk="";
 #    my $line="";
-    
+
     my $toc_count=0;
     my $issue_num=0;
     my $yr=0;
@@ -263,7 +263,7 @@ sub prn_html_open {
   #print("<?xml version='1.0' encoding='utf-8'?>\n");
   #print("<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n");
   #print("<html lang=\"en-GB\" xml:lang=\"en\" xmlns=\"http://www.w3.org/1999/xhtml\">\n");
-  print("<!DOCTYPE html><html lang=\"en\">"); #NDF, 4 July 2010.
+  print("<!doctype html><html lang=\"en\">"); #NDF, 4 July 2010.
 }
 sub prn_html_close {
   print("</html>\n");
@@ -280,7 +280,7 @@ sub prn_html_head {
   print("<link rel=\"help\"     href=\"$home_url/site.html#help\" />\n");
   print("<link rel=\"index\"    href=\"$home_url/archive.html\" title=\"Archive\" />\n");
   print("<link rel=\"contents\" href=\"#toc\"  title=\"Contents for this issue.\" />\n");
-  
+
   (my $prev, my $next) = &prev_next($html_file);
   print("<link rel=\"prev\" href=\"$prev\" />\n");
   print("<link rel=\"next\" href=\"$next\" />\n");
@@ -296,8 +296,8 @@ sub prn_switch {
   print("<ul id='switch'>\n");
   print("<li><a href='$home_url/site.html#access' tabindex='1' accesskey='0' class='Key' title='[0] Access key details'>Help</a></li>\n");
   print("<li><a href='#main' accesskey='S' class='Key' title='Skip navigation'>skip</a></li>\n");
-  print("<li><a href='#' title='Text-only version of the page' onclick=\"setActiveStyleSheet('Text'); return false;\">text-only</a></li>\n");
-  print("<li><a href='#' title='Graphical version of the page' onclick=\"setActiveStyleSheet('Graphic'); return false;\">graphical</a></li>\n");
+  print("<li><a href='#' title='Text-only version of the page' onclick=\"EAB.setActiveStyleSheet('Text', event); return false;\">text-only</a></li>\n");
+  print("<li><a href='#' title='Graphical version of the page' onclick=\"EAB.setActiveStyleSheet('Graphic', event); return false;\">graphical</a></li>\n");
   print("</ul>\n");
 }
 sub prn_menu {
@@ -350,12 +350,12 @@ sub prn_contents {
     my $line=<IFILE>;
 # Contents: filter 'News in brief'.
     if ($line=~/(.* in brief: )(.*)/) {
-    
+
       #IS LOOP REDUNDANT?!
       warn ">> FOUND 1: $1 | $2\n";
-      
+
       if (&prn_item($item,$issue)) { $item=""; }
-      
+
        print(" <li>$1</li>\n");
        $line=$2;
        while (<IFILE>) {
@@ -391,14 +391,14 @@ sub prn_contents {
 # Contents: filter sections.
     elsif ($line=~/(Section.*)/) {
       if (&prn_item($item,$issue)) { $item=""; }
-      
+
       print("  <li>$1</li>\n");
     }
 # Contents: filter items.
     elsif ($line=~/([News]?.*?)(\d{2}: )(.*)/) {
-    
+
       warn ">> FOUND 2: $1 | $2 | $3\n"; #| $4 | $5\n";
-    
+
       if (&prn_item($item,$issue)) { $item=""; }
 
       if ($1) {
@@ -407,7 +407,7 @@ sub prn_contents {
           warn "OK, News in brief\n";
           print("  <li>$1</li>\n");
         }
-        
+
         my $rem=$3;
         $rem=~/(.+?)(;|\.)(.*)/;
         warn "Found: $1 | $2 | $3\n";
@@ -599,7 +599,7 @@ sub prev_next {
   (my $s,my $m,my $h,my $md,my $c_mon,my $c_year,my $wd,my %yd,my $i)=gmtime(time);
   $c_mon++;
   $c_year+=1900;
-  
+
   my $next_mon= $midx;
   my $next_yr = $year;
   if( $year==$c_year && $midx==$c_mon ){
@@ -618,8 +618,7 @@ sub prev_next {
   }
   my $prev = "../$prev_yr/$prev_mon$prev_yr$ext";
   my $next = "../$next_yr/$next_mon$next_yr$ext";
-  
+
   warn "URLs, prev: $prev | next: $next\n";
 return ($prev, $next);
 }
-

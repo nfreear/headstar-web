@@ -50,16 +50,16 @@ ISSN 1476-6337.
 [vcard]: http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://headstar.com/eab/contact.html
     "Download a vCard (VCF file), via Suda.co.uk — 'Dan-Jellinek.vcf'"
 [expired-domain]: http://e-accessibility.com "| 80.87.128.130"
-[copy]: http://www.headstar.com/site/scripts/terms.php
+[copy]: http://headstar.com/site/scripts/terms.php
     "Copyright © 2000-2016 Headstar Limited. All rights reserved."
 [eab]: http://headstar.com/eab/ "E-Access Bulletin"
 [eablive]: http://headstar.com/eablive/ "E-Access Bulletin Live"
 [eabl-logo]: https://raw.githubusercontent.com/nfreear/headstar-web/master/eab/images/eablive-1.png
 [eab-logo-1]: http://www.headstar.com/images/EAB-logo-small-trans.png
 [eab-logo-2]: http://www.vision2020uk.org.uk/wp-content/uploads/EAccessBulletinLive_logo.png
-[tribute]: http://www.headstar.com/eablive/?p=1143
+[tribute]: http://headstar.com/eablive/?p=1143
     "Asking the right questions: a tribute to Dan Jellinek. Published: March 31st, 2016"
-[subscribe]: http://www.headstar.com/eablive/?page_id=80
+[subscribe]: http://headstar.com/eablive/?page_id=80
     "Subscribe to E-Access Bulletin newsletter"
 [pp-book-old]: http://www.danjellinek.com/people-power/
 [pp-book]: https://amazon.co.uk/People-Power-users-guide-democracy/dp/055216786X

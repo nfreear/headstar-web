@@ -155,6 +155,7 @@ li#headstar  a {
 #switch { text-align: right; margin-right: 12pt; }
 
 ol.Archive, ul.Archive, ul#notes { list-style: circle; }
+#stamp { font-size: 0.95em; margin: 1.4em 0; }
 .thKey { width: 30%; }
 
 /* Bulletin styles. */

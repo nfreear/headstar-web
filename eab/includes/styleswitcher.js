@@ -11,15 +11,24 @@
   'use strict';
 
   var EAB = window.EAB = {}
-    , document = window.document;
+    , document = window.document
+    , console = window.console;
 
-EAB.setActiveStyleSheet = function (title) {
+window.setActiveStyleSheet =
+EAB.setActiveStyleSheet = function (title, ev) {
   var i, a, main;
   for(i = 0; (a = document.getElementsByTagName("link")[ i ]); i++) {
     if(a.getAttribute("rel").indexOf("style") !== -1 && a.getAttribute("title")) {
       a.disabled = true;
       if(a.getAttribute("title") === title) { a.disabled = false; }
     }
+  }
+
+  if (ev && ev.preventDefault) {
+    ev.preventDefault();
+  }
+  if (console) {
+    console.info('Switch sheet:', title, ev);
   }
 }
 
