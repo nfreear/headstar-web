@@ -68,7 +68,8 @@
 .adr .org span { display: block; }
 .adr .region, .adr .postal-code { display: inline; }
 
-.vhide { display: none; }
+del, .vhide { display: none; }
+ins { text-decoration: none; }
 
 
 /* Google custom search.
