@@ -1,0 +1,615 @@
+
+E-Access Bulletin, December 2016: issue 185
+Headstar <eaccess@lists.headstar.com>
+To	nfreear@yahoo.co.uk Today at 10:35
+---
+
+
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 185, December 2016.
+
+Produced with the support of Thomas Pocklington Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://eab.li/4b .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 185 contents.
+
+Section One: News.
+01: Inaccessible websites dent business profits, as online shoppers
+‘click away’.
+- New research reveals that disabled shoppers won’t return to problem
+sites.
+
+02: Video games without the visuals for blind gamers.
+- Kickstarter boost spawns six new audio games.
+
+03: Google Maps begins listing venue accessibility information.
+- Wheelchair-friendly location data collected by Google’s ‘Local
+Guides’.
+
+
+News in Brief: 04: Assisting Vision – Digital devices preferred; 05: App
+Spectacular – BeSpecular answers info requests; 06: Home Help – IT
+support service.
+
+
+Section Two: Special report –The NHS Accessible Information Standard.
+
+07: Changing standards.
+Earlier this year, the National Health Service introduced the Accessible
+Information Standard throughout England, as a way of improving health
+information access for patients with impairments. The legally binding
+framework requires organisations to provide information in alternative
+formats if requested, such as Braille or audio. Reactions have been mixed
+since the introduction, with some people claiming that they still have
+difficulties acquiring alternative format information. We hear from four
+different sources – including e-Access Bulletin readers, NHS England and
+the Patient Information Forum – about their experiences of the Standard
+and how it can be implemented effectively across England.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Inaccessible websites dent business profits, as online shoppers
+‘click away’.
+
+UK businesses are losing out on huge sums of money – potentially
+totalling billions of pounds – by failing to make their websites
+accessible to users with access needs, new research claims.
+
+Published by disability consultancy Freeney Williams, the Click-Away Pound
+(CAP) Survey assessed the “online shopping experience of customers with
+disabilities, and the costs to business of ignoring them.”
+
+The report revealed that 71% of disabled customers with access needs will
+‘click away’ from a website that they find difficult to use. A key
+finding from the survey was that the spending power of these online
+shoppers who click away is £11.75 billion – money which is then spent
+elsewhere by those same shoppers, on sites that they can access.
+
+Launching the survey results at an event in London to coincide with the
+International Day of Persons with Disabilities, Rick Williams – co-author
+of the survey and managing director of Freeney Williams – said: “As a
+business, why would you design a website that people can’t use? That £12
+billion is displaced spending. It’s astonishing – the sheer size of
+that number surprised us. Businesses are losing opportunities for that
+money.”
+
+The CAP Survey also notes that, “Businesses need to bear in mind that if
+a disabled shopper clicks away from their site to one of their competitors,
+they show little inclination to return.”
+
+The CAP Survey was initially launched in January (as reported in e-Access
+Bulletin issue 176: http://eab.li/48 ) and closed in July, collecting
+results from 362 participants. Some estimates from the report are based
+around applying trends found in the results to national level, using data
+from the Office of National Statistics, among other sources.
+
+While the key messages behind the research will be familiar to many
+e-Access Bulletin readers, the findings will likely come as a surprise to
+many businesses. The CAP Survey claims that, “Most businesses will be
+unaware that they are losing income, because more than 90% of customers who
+have difficulty using a site will not contact them.”
+
+In fact, the survey found that over 80% of online shoppers with access
+needs will choose to spend their money on websites with the fewest barriers
+in place for them, as opposed to the cheapest.
+
+The five most common website problems identified by survey respondents
+were: crowded pages; poor link information; filling in forms; moving images
+or graphics; and poor legibility, including colour contrast and text
+layout.
+
+Screen-readers were found to be the most common type of assistive
+technology (AT) used by respondents, with 53% of all respondents using some
+form of AT. As the CAP Survey points out, “No matter how sophisticated or
+efficient AT might be or how competent its user, unless a website is
+designed and developed to take access needs into account, the capacity of
+AT to overcome access barriers will always be limited.”
+
+The report finishes by explaining that while the 2016 CAP Survey has
+“established a point of departure,” a follow-up survey is also planned
+for next year. The 2017 CAP Survey will examine the subject in relation to
+specific business sectors, and beyond the UK.
+
+Read the Click-Away Pound Report in full, as a PDF or Word document, at the
+CAP website: http://eab.li/49 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/4f .
+
+
++02: Video games without the visuals for blind gamers.
+
+A series of five new audio-based video games for blind and visually
+impaired users are being designed, after a crowdfunding campaign to support
+the project achieved over 150% of its target funding.
+
+The games, including versions of classic arcade title ‘Frogger’ and a
+cricket game, will be available on mobile devices, tablet computers and
+desktop computers, through the iOS and Andriod operating systems, as well
+as Windows PC.
+
+In April 2016, the Audio Game Hub project released a free package of eight
+“experimental arcade videogames” that relied on audio, rather than
+visuals. Designed primarily for people with sight loss, the games were
+fully playable without the need to look at a screen, featuring an option to
+turn off the visuals completely. The games – including ‘Archery’,
+‘Samurai Tournament’ and ‘Slot Machines’ – proved incredibly
+popular with both non-sighted and sighted users, receiving over 33,000
+downloads.
+
+Audio Game Hub founder Jarek Beksa told e-Access Bulletin that the idea
+came several years ago, when testing equipment at a telecoms company:
+“During one of the tests we spoke with a blind user. He told us ‘Nobody
+makes games for us.’ Since then, we started thinking about the idea of
+creating accessible games, Beksa said.
+
+The team behind Audio Game Hub – based in Auckland, New Zealand – were
+soon inundated with requests for more games, so they launched a Kickstarter
+crowdfunding campaign in November. People who backed the campaign also
+voted on which games the team should develop, chosen from a list of 14.
+
+In just ten days, the campaign had exceeded its goal of 6,000 New Zealand
+Dollars (approximately £3,370) by 150%. Most of the money will be spent on
+sound production and voice recording for the games, Beksa said.
+
+The five games chosen by people who donated to the campaign were:
+‘Frogger’, a version of a 1981 arcade game where the user has to guide
+a frog safely across a busy road; ‘Cricket’; ‘Simon + Super Simon’,
+a memory game where users remember commands and sequences; ‘Blackjack –
+21’, a popular casino card game; and ‘Runner’, where users control a
+character running through different terrains.
+
+The new games will be available as in-app purchases through the existing
+Audio Game Hub collection, which is free to download.
+
+In addition to the five chosen titles, another game, ‘Whispering
+Tunnels’, will be released as a standalone purchasable app. According to
+the Kickstarter campaign page, ‘Whispering Tunnels’ is “an audio
+role-playing game specially tailored for the visually impaired”. Players
+must solve puzzles, avoid traps, battle monsters and engage in dialogues to
+escape from a tunnel.
+
+Audio Game Hub was created in collaboration with the Gamification Lab of
+the Leuphana University of Lüneburg, Germany, and the School of Computer
+and Mathematical Sciences of Auckland University of Technology, New
+Zealand. The project is also sponsored by Auckland University and the
+AbleGamers Charity.
+
+Read more about the project and download the original eight games for free
+at the Audio Game Hub website:
+http://eab.li/45 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/4e .
+
+
++03: Google Maps begins listing venue accessibility information.
+
+Google Maps app now tells users whether some locations are
+wheelchair-accessible, thanks to the efforts of a Google employee in his
+spare time.
+
+Rio Akasaka, a product manager for cloud storage service Google Drive,
+undertook the project using his ‘20% time’ – a well-known Google
+employee policy that allows staff to spend 20 per cent of their time
+working on projects unrelated to their role at the company.
+
+In an interview with the ‘Business Insider’ news website earlier this
+month about the project, Akasaka explained that he led a small team of
+Google employees, who worked to add the accessibility information to
+certain venues in the mobile app version of Google Maps. The data was
+collected by Google’s ‘Local Guides’, a community of millions of
+users who volunteer to answer questions about places they visit when using
+Google Maps. This information helps Google improve its maps and provide
+more detailed information to other users.
+
+Earlier this year, Google began asking its Local Guides accessibility
+questions about venues they were visiting. Millions of responses were
+collected, enabling Google to begin adding this information to map venues.
+
+When users click on a venue description in Google Maps to view its
+features, the ‘Amenities’ section now lists whether the venue has a
+wheelchair-accessible entrance – as long as the information has been
+collected and logged.
+
+Akasaka also said in the interview that he believes this information will
+benefit other users, as well as those using wheelchairs, such as people
+with prams or those who use a cane to walk.
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/4d .
+
+
+++News in Brief:
+
++04: Assisting Vision: Digital vision aids, such as a handheld digital
+magnifier, are the preferred tools of young people with low vision,
+according to new research. ‘Design and Low Vision Aids – a Youth
+Perspective’ is published by Thomas Pocklington Trust, the Helen Hamlyn
+Centre for Design, VISION 2020 UK and VICTA, and explores how
+12-18-year-olds with low vision use vision aids – such as smartphones,
+magnifiers and screen-readers – to increase their independence. Good
+design and covertness of vision aids were found to be important to young
+people, as was mainstream technology which combines traditional functions
+with assistive features.
+
+Read the full report in Word of PDF format at the VISION 2020 website:
+http://eab.li/46 .
+
+
++05: App Spectacular: An app from a South African technology start-up
+company has been helping solve information requests from users with visual
+impairments. Users of the BeSpecular app take a photograph of an object
+they want information about, and send the picture, with a voice message, to
+the BeSpecular community. A sighted user will be forwarded the request,
+before replying with the required information, via text or voice message.
+Earlier this year, BeSpecular’s CEO, Stephanie Cowper, received an
+‘Innovator Recognition Award’ in light of her work on the app at a
+Women in ICT Awards event.
+
+Read more and download the app for iOS and Android at the BeSpecular
+website:
+http://eab.li/47 .
+
+
++06: Home Help: Technology access charity AbilityNet is using the Christmas
+period to remind people of its free ‘ITCanHelp’ service. Persons with
+disabilities and older people can request a home visit from an AbilityNet
+volunteer to help them with IT issues, such as installing new software,
+choosing equipment and smartphone assistance, or even help with printers,
+games and tablets – a useful service for people who may be struggling to
+use a new device given to them as a Christmas present.
+
+Read more about ITCanHelp and request a home visit at the AbilityNet
+website:
+http://eab.li/4a .
+
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on The
+Early Edition programme. Hear more about the bulletin and upcoming content
+appearing in each issue, as we discuss the latest accessible technology
+news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
+http://eab.li/3e .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+++Section Two: Special report.
+- The NHS Accessible Information Standard.
+
++07: Changing standards.
+
+At the end of July, the National Health Service (NHS) Accessible
+Information Standard was implemented throughout England. This means that
+any organisation providing NHS care or adult social care is now legally
+obliged to provide information in accessible formats, so that people with a
+disability or impairment (those who may not be able to access or read text
+and information in the traditional form) have the same access to health
+information as any other NHS user.
+
+This includes an obligation for organisations to provide alternative
+information formats to meet individuals’ requirements, including Braille,
+electronic and audio formats.
+
+The specification of the Accessible Information Standard highlights the
+Equality Act 2010 as a legal basis for implementation (alongside a
+‘compelling moral and ethical imperative’), and also notes that the
+Standard is “unashamedly ambitious” in its overall aim of providing
+“clear direction for a dramatic improvement in the ability of the NHS and
+adult social care system to meet the information and communication support
+needs of disabled people.”
+
+It also notes that applicable organisations have a legal obligation to
+follow the standard.
+
+This is clearly a much-needed and positive step forwards in terms of
+accessible information, and many people with an impairment have been
+waiting years for such a move.
+
+However, e-Access Bulletin has received correspondence from some readers
+who have had continued problems and difficulties in obtaining alternative
+format information, despite the Standard being in place. Their suggestion
+was that the Standard has not been properly or effectively implemented in
+all organisations.
+
+In the interest of balance, it is worth noting that implementing such a
+Standard is clearly a huge undertaking. Some have argued that teething
+troubles are to be expected, while others say that things are simply not
+working as they should be. The important thing now, it seems, is for the
+Standard to be understood and implemented as widely and effectively as
+possible, so that people who need accessible information can receive it as
+quickly and smoothly as possible.
+
+To give an overall picture of the current situation, e-Access Bulletin has
+collected comments from four different sources: two Bulletin readers who
+have encountered difficulties in obtaining accessible information; the
+Patient Information Forum (an independent, membership organisation for
+people working in healthcare information and support), and NHS England.
+These comments, published below, aim to explain the Standard and provide a
+view of how well it is currently working, but also – crucially – to
+explore what can be done to improve implementation.
+
+- Penny Melville-Brown OBE, Director of Disability Dynamics and e-Access
+Bulletin reader:
+
+“Like other organisations providing services to the public, the NHS knows
+that some disabled people have extra needs when it comes to communications
+and information. The NHS Accessible Information Standard requires
+accessible and alternate formats.
+
+“More disabled people should get the healthcare we need – people with
+visual or hearing impairments have a higher risk of other long-term
+conditions, including dementia. People with alternative information or
+communication needs should take the following steps:
+
+“Tell their GP practice manager; ask them to share those needs across the
+NHS; make sure their reasonable needs are met – not just what someone
+thinks will work; make sure the Standard is applied to all information;
+keep on asking – people are still learning; encourage others to ask too.
+
+“Personal struggles with a leading eye hospital and GP practice show that
+some organisations need help to understand and change their systems. To get
+standard letters, appointment confirmations, surgery consent forms, routine
+leaflets, after-care instructions, etc, sent by email without hopelessly
+complicated security, I had to escalate requests to chief executive-level.
+
+“One response included asking a blind person to read the bold wording –
+showing what still needs to be learned.”
+
+More information on accessible communications can be found and downloaded
+at the Disability Dynamics blog:
+http://eab.li/42 .
+
+- Brian Gaff, of Kingston upon Thames Talking Newspaper (run by the
+Kingston upon Thames Association for the Blind), and e-Access Bulletin
+reader:
+
+“One of the most frustrating things we hear about – and encounter –
+at the newspaper is lack of knowledge of healthcare and other government
+departments, about how it is possible to make their information accessible.
+
+“Many people have asked for things like appointment letters in either
+plain text emails or audio. Surely, with access to the raw text that most
+government sources must have, this should be a no-brainer.
+
+“Now that the Accessible Information Standard has come into force, we are
+meant to be able to tell our GP our information choices, which feeds
+through to every part of the NHS and social care that we access – except
+it is not working, since everyone thinks it is somebody else’s job, not
+theirs.
+
+“Seeing as this is not just an access issue but an independent living one
+as well, it seems to me that the Standard has been rolled out with little
+or no training to people in the areas who are going to implement it. There
+is web training and tests, but a busy department head is unlikely to have
+seen any of this.
+
+“So, as far as getting government departments to get on the accessibility
+train with the commercial sector, somebody in government is going to have
+to bite the bullet and spend some money to train people, or else no matter
+how many times the law is broken, nothing will happen.
+
+“I will say, however, that my local GP Practice Manager has tried long
+and hard to make this work, but outside of their practice it seems that the
+doors are closed right now.
+
+“In terms of solutions, I would say: get a standard of good practice and
+get everyone using the same resources. This would hopefully save money and
+hopefully get communication about patients’ health working.”
+
+Find out more about the Kingston Upon Thames Talking Newspaper at the
+following link:
+http://eab.li/4g .
+
+- From NHS England, with a contribution from Dr Clare Mander, Clinical Lead
+for Accessible Information at Solent NHS Trust:
+
+“The Standard sets out, for the first time, how all providers of NHS or
+adult social care must identify, record, flag, share and meet the
+information and communication support needs of people with a disability,
+impairment or sensory loss.
+
+“Co-produced with a range of voluntary organisations, and with disabled
+people themselves, the Standard has been called a ‘step change’ in
+disabled people’s access to healthcare.
+
+“As with any new, national initiative, the speed and effectiveness of
+implementation will vary. We are aware of fantastic work going on (for
+example, East Lancashire Hospitals NHS Trust has made significant progress
+in implementing the Standard) and have seen an increase in requests for
+large-print formats and audio, as well as via email, text and British Sign
+Language interpreter.
+
+“As Dr Clare Mander, Clinical Lead for Accessible Information at Solent
+NHS Trust, explains: ‘We welcomed the opportunity to contribute to the
+development and implementation of the national standard. The legal
+requirements have galvanised a decade of local developments, which include
+qualitative research, service evaluations and innovation projects.
+Implementation of the standard across a Community and Mental Health Trust,
+with over 100 clinical sites, is no easy task.
+
+‘In 2015, we began a project to develop a tiered model of accessible
+information training that was co-produced with patients living with
+communication and information needs. Our awareness DVD has now been rolled
+out across the Trust, an interactive accessible information learning
+platform is in development, and a programme of specialist training has been
+piloted with ten services.
+
+‘Through this specialist training, champions were identified and formed a
+new accessible information network that will link with our patient leads.
+The network aims to facilitate collective intelligence and social learning
+to improve accessible information practice across the Trust. We still have
+a long way to go, but together we have the opportunities to make a real
+difference.’
+
+“We advise anyone experiencing difficulties with receiving accessible
+information and/or communication support to follow the relevant complaints
+process. The NHS complaints process is explained on the NHS Choices
+website, at the following link:
+http://eab.li/40 .
+
+“Resources to support implementation are available on the NHS England
+website, at the following link:
+http://eab.li/41 .
+
+“During January-March 2017, there will be a review of the Standard to
+look at the impact it has had and to ensure that it is ‘fit for
+purpose’. Anyone wanting to get involved should join the distribution
+list, by emailing the following address: england.nhs.participation@nhs.net
+.
+
+“Patients can also contact the Customer Contact Centre on the following
+phone UK number: 0300 311 22 33.”
+
+- From The Patient Information Forum (PIF), with a contribution from Claire
+Murray, Joint Head of Operations:
+
+“To support organisations to implement the Accessible Information
+Standard, PIF has launched a free-to-join online discussion group, where
+members can ask questions and share their experiences.
+
+“Nearly 500 people have joined the group so far, and discussions have
+covered topics such as patient records, service user surveys in alternative
+communication formats, consent and ‘flagging’ communication needs.
+
+“The group brings together people from across the NHS and local
+authorities, including people with specialist experience in developing
+accessible information from voluntary, statutory and commercial
+organisations. Through these interactions, the group has also shared useful
+resources on developing information in accessible formats, locally
+developed policies, and debunking some myths about the Standard.
+
+“Claire Murray, Joint Head of Operations at PIF, says: ‘It’s been
+great to be part of bringing together such a diverse group of people around
+this important new Standard, to help increase understanding and expertise
+in developing truly accessible information.
+
+‘Good information is vital to support people to understand and engage
+with their health and health services, and we know people with
+communication needs still face significant barriers in accessing this.
+
+‘It’s not just the format of an information resource that affects its
+accessibility, and the ultimate judge of the usefulness of any piece of
+health information is the patient or service user engaging with it.
+
+‘At PIF we believe that involving users in developing or adapting
+accessible information resources is a crucial step to delivering genuinely
+accessible information.
+
+‘Implementing the Accessible Information Standard is not just a
+box-ticking exercise, it’s a fantastic opportunity for organisations to
+learn what really makes health information understandable for their users,
+and how best this can be delivered.’”
+
+Join PIF’s ‘Accessible Information Group’ at the following link:
+http://eab.li/43 .
+
+Read more about the Accessible Information Standard – including the
+specification in Word document format and PDF – at the NHS England
+website:
+http://eab.li/44 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/4c .
+
+
+[Section Two ends]
+
+
+++End Notes.
+
++How to receive e-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://eab.li/4b .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of e-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as ‘taken from e-Access
+Bulletin, a free monthly email newsletter’, and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 185 ends.]
+
+
+
+--
+
+This message was sent to nfreear@yahoo.co.uk by eaccess@lists.headstar.com
+
+To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=8853df643ffa0a489fcaf5869c781942&mid=93>
+in our newsletter system.
+
+To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=8853df643ffa0a489fcaf5869c781942>
+
+Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=8853df643ffa0a489fcaf5869c781942>
+from all future mailings.
+
+
+
+-- powered by phpList, www.phplist.com --

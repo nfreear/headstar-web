@@ -1,0 +1,699 @@
+Headstar <eaccess@lists.headstar.com>
+To	nfreear@yahoo.co.uk  --  Today at 11:31 / 30 October..
+
+
+
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 183, October 2016.
+
+A Headstar Publication, produced with the support of Thomas Pocklington
+Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 183 contents.
+
+Section One: Editor’s note.
+01: Remembering Dan Jellinek, one year on.
+
+
+Section Two: News.
+02: New research reveals barriers and solutions to accessibility across
+government.
+- Project managers urged to take responsibility for implementation.
+
+03: US Congress called on to create technology equality bill.
+- “Aggressive steps” also needed to comply with ICT access law.
+
+04: Free online learning course opens up accessibility to all.
+- New e-learning programme on digital accessibility.
+
+
+News in Brief: 05: Public Sector Progress – European directive approved;
+06: Accessible Apple – new information portal launched; 07: Workplace
+Tech – crowdsourced dialogue.
+
+
+Section Three: The Inbox – Readers’ Forum.
+08: Maximising Mobility – Participants needed for research; 09: Tactile
+Touring – Exploring the Houses of Parliament; 10: More Museums –
+Accessible exhibitions advice.
+
+
+Section Four: Special report – The Hackaday Assistive Technology Prize
+winners.
+11: Hacking for good: winners in their own words.
+The annual Hackaday Prize contest asks tech-savvy creatives to “build
+something that matters”. Selected from hundreds of entries, the winners
+of the competition’s assistive technology category were announced this
+month, including a low cost Braille display and a ‘tongue computer
+interface’. We contacted the makers of six of the winning projects, who
+told us more about their inventions and how they’re ensuring that the
+devices help the people they were intended for.
+
+[Contents ends].
+
+
+++Section One: Editor’s note.
+
++01: Remembering Dan Jellinek, one year on.
+This month marks one year since Dan Jellinek, e-Access Bulletin’s
+much-loved founder and editor, passed away unexpectedly. In that time, a
+lot has changed in the rapidly evolving world of digital accessibility, but
+our feelings about Dan and sense of loss haven’t changed at all.
+
+As well as Dan’s numerous personal qualities, it’s also crucial to keep
+remembering his work and his invaluable accessibility coverage over the
+years. His natural ability to find the key stories, ideas and people in the
+sector – the ones that were really making a difference – always marked
+him out as someone whose insights mattered. They continue to matter today.
+
+My own experience of editing the Bulletin for the past nine months has been
+insightful, enjoyable and occasionally challenging, but always incredibly
+rewarding – not least because it’s allowed me to further understand the
+work that Dan put into it.
+
+But still after one year, I find myself – all-too-frequently – wanting
+to share a news lead with Dan that I know he would find exciting, or to ask
+his opinion on an angle for a story. It still makes me immensely sad that I
+won’t be able to do either of those again, or enjoy any conversation with
+him.
+
+Regular readers will also know that the relaunching of the Bulletin in
+February was only possible due to Dan’s efforts in securing a future for
+it. Without his commitment to keep it going, the Bulletin would not be
+around today.
+
+Thank you for reading e-Access Bulletin and supporting the concept that Dan
+worked so passionately to uphold: ‘Access to technology for all,
+regardless of ability.’
+
+Dan, you’ll always be missed, but certainly never forgotten.
+
+Tristan Parker.
+
+
+[Section One ends].
+
+
+++Section Two: News.
+
++02: New research reveals barriers and solutions to accessibility across
+government.
+
+Sifting through an “overwhelming” amount of information and
+difficulties in finding out who is tasked with accessibility are two of the
+challenges facing teams in UK Government departments when building
+accessible digital services, according to research carried out by the
+Government Digital Service (GDS).
+
+Speaking in London at an event titled ‘Accessibility in the digital
+space’, Alistair Duggin, Head of Accessibility at GDS, gave delegates
+(including e-Access Bulletin) a preview of the research results. The event
+was organised by the Business Disability Forum (BDF), inviting speakers to
+discuss digital accessibility challenges for organisations and end-users,
+and the solutions available. In keeping with the theme, Duggin highlighted
+key issues that government teams were facing in this area, but also
+explained solutions and ideas to help resolve these issues – both based
+on the GDS research.
+
+The aim of the research was to find out how different teams across
+government are approaching accessibility. The study involved face-to-face
+interviews with people in a range of roles across eight government
+departments, as well as analysis of existing information.
+
+Findings suggested that teams often do not know who is tasked with making
+services accessible for users with disabilities. “The thought is often
+that it’s up to a developer,” said Duggin. “Developers do have a huge
+responsibility to make things accessible, but they aren’t responsible for
+content or design.”
+
+Project managers need to takes on this responsibility, said Duggin:
+“[People in these roles] can’t just say, ‘Don’t worry about
+accessibility until the end, we’ll get to that bit later.’ That’s
+going to cause problems.”
+
+Another issue uncovered in the research was that people become
+“overwhelmed’ by the amount of information available. “If you search
+for accessibility on the internet, you find lots of information, but a lot
+of it is contradictory, so people don’t know where to start,” said
+Duggin. He added: “If you look at something like the Web Content
+Accessibility Guidelines [WCAG], they are really quite impenetrable and
+take a huge amount of time to get your head around.”
+
+Other key findings from the research included that people often begin
+thinking about accessibility far too late into the lifecycle of a project
+– frequently when the project is about to be assessed and tested. “I
+guarantee that if that’s the first time you’ve thought about
+accessibility, you will find lots of issues … and that’s how
+accessibility becomes seen as a burden,” Duggin said.
+
+What is needed is for teams to consider accessibility throughout the
+lifecycle of a project, said Duggin: “It makes [accessibility] much
+easier, it makes things more efficient, and you’re much more likely to
+design something good.”
+
+As well as highlighting problems, the research was also used as a mechanism
+for finding solutions to the barriers faced by government teams. One
+solution was to provide clarity on what teams are expected to do. “Most
+people don’t know what it means to make something accessible,” said
+Duggin, “so you need to help people understand what the goal is.”
+
+‘Building empathy’ was another proposed solution. “You can give
+people a checklist, but if they haven’t bought-in to why they’re doing
+something, they’re not going to embrace it,” said Duggin.
+
+Other solutions included: helping teams to identify accessibility barriers
+as early as possible; building accessibility into the templates and
+patterns that people regularly use, and; educating, encouraging and
+supporting people throughout the process, while avoiding being too critical
+or judging people when accessibility problems do arise.
+
+Findings and results from the research will be published soon on the GDS
+blog.
+
+Find out more about the Government Digital Service’s accessibility work
+at the GDS blog:
+http://eab.li/35 .
+
+Read more about the Business Disability Forum and the BDF Technology
+Taskforce at the following link:
+http://eab.li/36 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/3j .
+
+
++03: US Congress called on to create technology equality bill.
+
+The National Council on Disability (NCD) has made a series of
+recommendations to the United States Government on making technology more
+accessible, including a call to establish a ‘Technology Bill of Rights
+for People with Disabilities’.
+
+Other recommendations called for by the NCD (which is tasked with advising
+key strands of the US Government on disability policy) include the
+following: action should be taken to clarify that the Americans with
+Disabilities Act applies to the internet, and; federal agencies in the US
+should take “aggressive steps” to comply with a law requiring that
+their ICT (information and communications technology) is accessible.
+
+The NCD made the recommendations in ‘National Disability Policy: A
+Progress Report’, its annual publication for the White House and
+Congress. These reports explore different themes each year, making
+recommendations to government on issues that affect the lives of people
+with disabilities. Technology was chosen as the focus for the 2016 report,
+“because of the potential that it holds to transform how people with
+disabilities experience the opportunities of citizenship in our society,”
+writes NCD Chairperson Clyde Terry in a letter to US President Barack
+Obama, which opens the report.
+
+As well as addressing the US Government, the latest NCD report also makes
+recommendations to the technology industry (including encouraging people
+with disabilities to participate in user-testing when developing new
+products), and both the private and public sectors (including making sure
+that procedures for purchasing new technology result in accessible
+equipment).
+
+The key recommendation to government is to establish a Technology Bill of
+Rights for People with Disabilities. This is needed because of an
+“absence of clear language” around organisations’ current obligations
+to provide accessible ICT, the report claims.
+
+The bill would clarify the rights of people with disabilities and
+“demonstrate how existing legislation applies to ICT and assistive
+technology,” claims the report.
+
+The NCD’s plan for creating the bill would involve “creating a Federal
+Advisory Committee to draft a Bill of Rights with a budget specifically
+authorized by Congress”. This committee would then help to increase both
+the supply and demand of accessible ICT systems through targeted work, as
+well as expanding technology expertise to assist with policymaking, and
+reviewing existing regulations.
+
+Read an executive summary of the key findings from ‘National Disability
+Policy: A Progress Report’, in PDF format, at the following link:
+http://eab.li/32 .
+
+The full report can be downloaded in document or PDF format from the NCD
+website, found at the following link:
+http://eab.li/3d .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/3i .
+
+
++04: Free online learning course opens up accessibility to all.
+
+An online learning course on digital accessibility, designed by field
+experts from a computer science team, has been launched.
+
+‘Digital Accessibility: Enabling Participation in the Information
+Society’ is free and open for anyone to enrol on, and no previous
+accessibility knowledge is required. The course aims to teach learners how
+accessible digital technologies can aid people with a range of impairments,
+as well as explaining the universal benefits of inclusive design.
+
+Topics explored on the course include the following: ‘What is Digital
+Accessibility and why care?’; ‘Challenges and Barriers met by Disabled
+People, including Video and Audio Barriers and Subtitles’; ‘Desktop,
+Laptop and Mobile Accessibility’; ‘Digital Accessibility and
+Business’; and, ‘Screen Reader, Braille, Switch Access Technologies’.
+
+The ‘Digital Accessibility’ course is classified as a ‘MOOC’ –
+massive open online course – a term for online learning programmes with
+no limit on the number of people that can study them. So far, around 2,500
+people from more than 125 countries have signed up.
+
+Course content has been designed by members of the Web and Internet Science
+(WAIS) research group within the Electronics and Computer Science (ECS)
+Accessibility Team from the University of Southampton.
+
+The programme is being taught by Mike Wald – a professor at the
+University of Southampton leading a team that teaches digital accessibility
+– and E.A. Draffan – a senior research fellow and member of the
+university’s Electronics and Computer Science team.
+
+Lead educator Mike Wald told e-Access Bulletin that after years of teaching
+digital accessibility at the university, the ECS team wanted to find a way
+to reach more people. Wald said that the course allows learners to
+“explore how a better understanding of users’ needs can enable the
+development of technologies that are accessible and provide a more
+inclusive environment.”
+
+The course programme runs over five weeks on the Future Learn website, with
+approximately three hours per week of study time needed. Although the
+official start date was October 17, anyone is free to join at any point, as
+learners can study at their own pace and make up the extra time whenever
+they choose. Resources also remain available online after the course
+finishes. Wald said that he expects the programme to run again in February.
+
+‘Digital Accessibility: Enabling Participation in the Information
+Society’ is supported by MOOCAP (MOOC Accessibility Partnership – a
+European project that provides education on accessible design) and funded
+by the ERASMUS+ grant programme of the European Union.
+
+To sign up for ‘Digital Accessibility: Enabling Participation in the
+Information Society’, visit the future Learn website at the link below:
+http://eab.li/30 .
+
+Find out more about the MOOC Accessibility Partnership at the project’s
+website:
+http://eab.li/31 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/3h .
+
+
+++News in Brief:
+
++05: Public Sector Progress: European Union-based public sector websites
+and mobile apps will be required to be accessible to users with
+disabilities, after the European Parliament adopted the provisional
+‘Directive on the Accessibility of Websites and Mobile Applications of
+Public Sector Bodies’ (see previous coverage from e-Access Bulletin:
+http://eab.li/19 ). Once the directive is published in the Official Journal
+of the EU, member states will have 21 months to implement the new rules.
+
+Read the directive in PDF format at the following link:
+http://eab.li/3k .
+
+
++06: Accessible Apple: Technology company Apple has launched an online
+portal to inform people about accessibility features in its products. The
+new portal was announced at the company’s ‘Apple October’ event, and
+allows users to explore and learn about different accessibility functions
+(based on differing impairments and needs) across a range of products,
+including iPhone, iPad, Apple Watch and Mac.
+
+Find out more at the Apple Accessibility portal:
+http://eab.li/3f .
+
+
++07: Workplace Tech: Using accessibility champions and performing regular
+technology evaluations were some of the suggestions to emerge from an
+online dialogue on increasing accessible technology in the workplace. The
+discussion was launched by the US-based Partnership on Employment and
+Accessible Technology (PEAT), as part of National Disability Employment
+Awareness Month. Over 25 ideas were submitted and rated during the
+dialogue.
+
+Read the full list of ideas at the PEAT website:
+http://eab.li/3c .
+
+
+[Section Two ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++Section Three: 'The Inbox'
+- Readers' Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
++08: Maximising Mobility: Helen Petrie, a Professor of Human Computer
+Interaction at the University of York, has a reader request for
+participants to take part in a study she is organising. The aim is to find
+out more about how people use mobility aids, as she explains:
+
+“Professionals who work with people around their mobility aids, including
+doctors, physiotherapists and occupational therapists, say they have little
+idea about how people really use these aids when they leave the hospital or
+clinic.
+
+“We would like to hear from as many people as possible about their
+mobility aids – what they like about them, any problems they have. We
+have a survey at the following link: http://eab.li/39 .
+
+“We will also run a detailed study, placing small sensors on
+participants’ mobility aids. These sensors will pick up data about how
+and when the aid is being used, and we also ask people to answer a few
+questions using a smartphone app.
+
+“The study will help us develop the app. Mobility aid users could then
+use the app to report problems to a health professional. We will also
+create a system for therapists to track information from their clients,
+which could help provide more effective treatment.
+
+“Here is the project website: http://eab.li/3a . If anyone would like to
+take part or has any questions, please email me on: helen.petrie@york.ac.uk
+.”
+
+Further comments, please, to:
+eaccessbulletin@gmail.com .
+
+
++09: Tactile Touring: Rick Williams replies to a reader query from last
+month’s Bulletin. In our previous issue, Thomas Bryan from the Blind
+Foundation in New Zealand wrote in to ask for advice on making museum and
+gallery exhibitions and tours more accessible for people with sight loss.
+
+Rick (who co-designed the Click-Away Pound survey to investigate the online
+shopping experience of people with disabilities) has experience in this
+area, from his work as Managing Director of disability consultancy Freeney
+Williams:
+
+“We developed a free tactile tour for visually impaired people at the
+Houses of Parliament in London. This includes a tactile experience and
+guided tour of Westminster Hall, Central Lobby, the Lords Chambers in the
+House of Lords and the Commons Chamber in the House of Commons. Specially
+made models and tactile diagrams are available for visually impaired
+visitors, along with trained guides to facilitate the whole experience.”
+
+More information about the tactile tour and booking details can be found at
+the following link:
+http://eab.li/3b .
+
+
++10: More Museums: Another reply to Thomas Bryan’s query on accessible
+museums and galleries comes from Waqas Hussain Chauhdry, Managing Director
+of DEO, a disability consultancy. Waqas suggests contacting a specific
+museum with plenty of accessibility knowledge:
+
+“Regarding the query on making museums accessible, I’d recommend
+getting in touch
+with the British Museum. They have implemented a number of accessibility
+features, both on their website and within the museum. The museum also has
+a dedicated
+accessibility specialist.”
+
+Further ideas and questions, please, to:
+eaccessbulletin@gmail.com .
+
+
+[Section Three ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on The
+Early Edition programme. Hear more about the bulletin and upcoming content
+appearing in each issue, as we discuss the latest accessible technology
+news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
+http://eab.li/3e .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+Section Four: Special report.
+- The Hackaday Assistive Technology Prize winners.
+
++11: Hacking for good: winners in their own words.
+
+In July, e-Access Bulletin reported on the Hackaday Prize, a competition
+that asks designers, developers and hardware enthusiasts to “build
+something that matters” – something that can help people or change the
+world for the better.
+
+Of particular interest for Bulletin readers is the Assistive Technology
+category. Earlier this month, 20 winning assistive technology projects were
+selected from hundreds of entries.
+
+Each received a cash prize of 1,000 US Dollars and moved to the final round
+of the competition, where five projects from across all categories will be
+chosen November 5. These are awarded larger cash prizes, including the
+overall competition winner, who receives $150,000 and a residency in a
+design lab to further develop their project.
+
+As you might imagine, the winning entries from the assistive technology
+category were a fascinating and accomplished list, showcasing all kinds of
+innovative accessibility ideas. e-Access Bulletin contacted a selection of
+the winners and asked them to explain more about their projects, which
+we’ve detailed below.
+
+Winning project 1: Façade – tactile interfaces to appliances. Designed
+by Anhong Guo.
+
+Anhong Guo: “Most common appliances have flat touchpads, making them
+inaccessible for blind people. Facade is a crowdsourced fabrication
+pipeline to generate 3D printed tactile interfaces for blind people.
+
+“Assisted by the Facade iOS app, blind users capture a photo of an
+inaccessible interface, which is sent to crowd workers, who label and
+describe it. This is used to generate a 3D model for a layer of tactile
+buttons that fit over the controls.
+
+“Blind people generally label appliances with Braille stickers, but doing
+so requires sighted assistance. Our solution is an end-to-end pipeline that
+can help blind people independently make appliance interfaces accessible.
+
+“I’m glad that this technology is being acknowledged by others, and
+I’ll work hard to put it into the hands of blind people.”
+
+Winning project 2: BOSI – a Bluetooth open-source switch interface.
+Designed by Joshua Chung.
+
+Joshua Chung: “I believe that using computers and mobile devices is going
+to be one of the most frequent daily activities in our life, especially for
+students with disabilities, and this should not be a limitation to them.
+So, I’ve been looking for cheap, easy solutions that high school students
+can build at home or school. The BOSI was designed to be a 3D-printable
+computer access device for computers and mobile devices. People who have
+difficulties using traditional physical input devices – like a keyboard,
+mouse or touch-screen – may benefit from it.
+
+“The BOSI costs much less than commercial switch interfaces and is easy
+to make. Also, as BOSI is open-sourced, people with disabilities can modify
+and customise it for their individual needs.
+
+“Computer use is going to be a crucial activity in our life and many
+people are still struggling with it. I hope this project brings in more
+people to face challenges that able-bodied people don’t have now, but may
+encounter one day.”
+
+Winning project 3: Shakelet – a wireless vibrating wristband to provide
+alerts to hearing impaired people. Designed by Alex Hunt.
+
+Alex Hunt: “The inspiration came from a friend who has hearing
+difficulties. I wanted to make something that would allow her to interact
+with standard consumer technology without requiring expensive, specialised
+equipment.
+
+“The Shakelet consists of a sensor and a receiver. The sensor is placed
+on whatever the user wishes to monitor, such as a doorbell or fire alarm.
+When that item goes off, a signal is sent to the receiver, notifying the
+user through a flashing light and vibrating motor. The project is unique
+because there is no specialist equipment required, and it has a very low
+component cost.”
+
+“Being a Hackaday winner was fantastic and surprising. The standard of
+entries was very high and I was amazed to have been chosen. The next stage
+is to shrink the sensor to a size that can be integrated into a wristband.
+I would also like to add a Wi-Fi interface.”
+
+Winning project 4: MOLBED – a modular low cost Braille electronic
+display. Designed by Marin Davide.
+
+Marin Davide: “I decided to develop an affordable alternative to current
+(expensive) refreshable Braille displays. It had to be low cost and easy to
+manufacture, if possible using commercial parts. I’m in touch with
+associations for people with impaired vision, and their help is important
+to design a product that is really useful.
+
+“This project is unique because I used a new idea (a magnetic core with
+magnetic retaining on each end) that has never been used in a Braille
+display. It has a working prototype already, and the entire project is
+open-source, as I decided not to patent it, so that it is available for
+anyone to make.
+
+“Here in Italy, it is difficult to get funds for this kind of project, so
+winning prize money gives this project the opportunity to be developed
+fully – having test units made, optimised, tested by users, and then
+produced in a first batch.”
+
+Winning project 5: Pallette – an open-source ‘tongue computer
+interface’. Designed by Dan Levine, Joanna Zhang, Oliver Hoffman, Rohit
+Jain, and Shawn Bramson.
+
+Dan Levine: “We felt like the technology of today is functional, but
+often doesn’t consider appearance or obtrusiveness of a device.
+Tongue-based interaction, and the idea of discreet assistive technologies,
+can meaningfully help out.
+
+“Hidden from view, Pallette enables people with spinal cord injuries and
+other mobility impairments to control technology using their tongue. It
+uses infrared sensors to track tongue motion and a microphone to detect
+tongue taps. It currently enables individuals to control computers, Android
+tablets, and Android phones as a Bluetooth mouse.
+
+“The tongue interface has been explored before, but we’ve given it some
+new abilities and form. Pallette doesn’t require any buttons, meaning the
+tongue doesn’t get tired. It’s open-source and we have a website
+detailing how to make it – this is definitely a first for tongue
+interfaces. As far as we know, there are no commercial or other open-source
+tongue interfaces that exist today.
+
+“We’re humbled and proud to have won. We’ve been working on Pallette
+for the last one-and-a-half years, and we really want to see it thrive and
+reach the people it’s meant for. It feels like a good beginning as we
+work to kick-start this community.”
+
+Winning project 6: TNS B1i – an accessible prosthetic hand. Designed by
+Giovanni Leal and Jenny Pabon.
+
+Giovanni Leal: “The hand opens and closes, makes gestures and lasts one
+week with a specific battery. It’s designed for people with transradial
+upper limb amputation. Just to change one person’s life would mean the
+world to us.
+
+“Everybody is fixated on the fact that the hand only has four fingers –
+and we love it! We were worried about people’s reaction to it, but having
+four fingers on the hand really makes sense. Also, we built our own 3D
+printed microlinear actuators, making us independent from suppliers.
+
+“We’re humbled to be a winner. The community [around the competition]
+is amazing. They praise you, give you advice and help you become a better
+maker.
+
+“The goal is for the hand to be commercially available in December. We
+have a patent going on, but if anyone wants to make the hand to help
+another person, feel free and call us so we can see it afterwards and learn
+from your kindness.”
+
+The overall winners of the competition will be announced at the Hackaday
+Superconference on November 5. More information can be found at the
+following link:
+http://eab.li/3m .
+
+Read about other winners in the Assistive Technology category:
+http://eab.li/37 .
+
+Find out more at the Hackaday Prize website:
+http://eab.li/38 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/3g .
+
+
+[Section Four ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+Copyright 2016 Headstar Ltd.
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 183 ends.]
+
+
+--
+
+This message was sent to nfreear@yahoo.co.uk by eaccess@lists.headstar.com
+
+To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=8853df643ffa0a489fcaf5869c781942&mid=89>
+in our newsletter system.
+
+To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=8853df643ffa0a489fcaf5869c781942>
+
+Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=8853df643ffa0a489fcaf5869c781942>
+from all future mailings.
+
+
+
+
+-- powered by phpList, www.phplist.com --

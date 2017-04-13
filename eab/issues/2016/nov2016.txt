@@ -1,0 +1,540 @@
+E-Access Bulletin, November 2016: issue 184
+Headstar <eaccess@lists.headstar.com>
+To	nfreear@yahoo.co.uk 30/11/16 at 5:05 PM
+
+
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 184, November 2016.
+
+Produced with the support of Thomas Pocklington Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 184 contents.
+
+Section One: News.
+01: Assistive technology industry must address challenges, warns expert.
+- Web accessibility, costs, mainstreaming and awareness are impacting.
+
+02: Accessibility survey reveals PDF problems, technology types and
+satisfied users.
+- UK Government site research delves deep into usability pros and cons.
+
+03: Tactile technology brings world-famous paintings to life for blind
+people.
+- Klimt’s ‘The Kiss’ is latest ‘3D relief’ work created in
+European programme.
+
+
+News in Brief: 04: Future Driving – motoring research portal; 05: Talking
+Success – RNIB’s Talking Books grows; 06: Educational Equality –
+accessible learning toolkit.
+
+
+Section Two: The Inbox – Readers’ Forum.
+07: Mobile Matters – Suitable smartphones for blind users.
+
+
+Section Three: Special report – The Assistive Technology Exhibition and
+Conference.
+08: From 3D radio to disruptive innovation: evolving assistive technology.
+A packed programme of seminars and workshops at the second Assistive
+Technology Exhibition and Conference spawned a day of insightful
+accessibility discussions. Some of the many topics covered included how the
+BBC’s access services are evolving to meet the needs of ‘future
+content’, and how ‘disruptive innovation’ is shaking up the assistive
+technology industry – while also benefitting many technology users.
+e-Access Bulletin reported from the event.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Assistive technology industry must address challenges, warns expert.
+
+Poor levels of website accessibility, financial issues and pressure to
+integrate with mainstream technology are some of the challenges facing the
+assistive technology (AT) industry, according to the Executive Director of
+the British Assistive Technology Association (BATA).
+
+Speaking at the second Assistive Technology Exhibition and Conference
+(ATEC), held in Sheffield, UK, BATA’s Executive Director, John Lamb, said
+that the industry must face and address nine key issues to succeed.
+
+Lamb began by telling delegates at his session – ‘The challenges facing
+AT’ – that the overarching, crucial function that AT needs to perform
+at all times is to effectively meet the needs of users with disabilities.
+
+While the spending power of £212 billion a year from more than ten million
+disabled people in the UK gives the AT industry a strong imperative to meet
+those specific needs, 65% of those people with disabilities are over 65,
+and therefore twice as likely to be unemployed, said Lamb. “Given that
+older demographic, it’s really important that the technology is
+user-friendly and that it’s affordable,” he said.
+
+Achieving this affordability has been difficult, he continued, due to AT
+products and software being sold in small quantities, and a shortage of
+people with the skills to develop specialist assistive software.
+
+Another key challenge facing the industry is awareness, Lamb said. “There
+is a low level of awareness of assistive technology, and also a lack of
+understanding of exactly what it’s capable of and – just as importantly
+– what it’s not capable of. It’s very important that people’s
+expectations of technology are managed.”
+
+There is also increasing pressure on the AT industry to integrate products
+with mainstream services, Lamb said. He then used the BrailleNote Touch as
+an example. The BrailleNote is a refreshable Braille device, powered by the
+Android operating system and developed by visual impairment AT company
+HumanWare and Google, demonstrating how specialist AT is beginning to
+combine with mainstream technology.
+
+Website accessibility remains a significant problem for the AT sector, Lamb
+said, and although there has been a general improvement across Europe,
+there is “still a huge job to be done.” He cited various website
+accessibility issues, including a lack of ‘alt text’, incorrectly
+titled frames and badly presented tables, as common problems in this area,
+“all of which are fixable.” Lamb said: “We do have the standards to
+guide people, so there’s not really an excuse. It’s crucial that the
+pressure is maintained on the owners of websites.”
+
+Read more about BATA at the organisation’s website:
+http://eab.li/3r .
+
+Find out more about Ability Magazine:
+http://eab.li/3s .
+
+For a full report on ATEC, see Section Three of this issue.
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/3z .
+
+
++02: Accessibility survey reveals PDF problems, technology types and
+satisfied users.
+
+The UK Government online services portal, GOV.UK, is aiming to cut down on
+PDFs after an accessibility survey revealed that many users encounter
+problems with them.
+
+Launched in May, the GOV.UK 2016 assistive technology survey aimed to find
+out about the range of technologies that people are using to access and
+navigate the site. The survey received 712 responses from assistive
+technology users.
+
+Results are now being published on the Government Digital Service (GDS)
+Accessibility Blog. Some of the key findings are highlighted below.
+
+Screen magnifiers – used mainly by people with a visual impairment –
+are the most popular form of assistive technology accessing GOV.UK, used by
+30% of respondents. ZoomText is the most popular magnification software.
+
+Screen-readers – again primarily used by people with sight loss – are
+also commonly used, by 29% of respondents. The most popular screen-reader
+software is JAWS.
+
+Read and Write, a type of software aimed at users with dyslexia, was found
+to be the most commonly used ‘reading solution’.
+
+The survey also revealed that many assistive technology users accessing
+GOV.UK found PDFs difficult to access and read, and would prefer content in
+HTML format – an issue that many accessible technology users will be
+familiar with.
+
+One of the survey’s designers, Chris Moore – a content designer and
+digital accessibility champion at HMRC – told e-Access Bulletin that
+GOV.UK is aiming to lessen its reliance on PDFs as a result of the survey
+findings. “Many users just don’t like PDFs,” Moore said. “We’ve
+run workshops to identify why content producers prefer to use that format
+and to enable us to provide them with solutions, so they don’t have to
+continue publishing that way.”
+
+Other issues uncovered in the results included that some users felt that
+search results pages on GOV.UK are too complicated. Also, some users found
+the site’s use of black text on a white background difficult to read.
+
+However, as well as identifying accessibility barriers, the survey results
+also showed that a “significant number” of people are happy with
+GOV.UK’s level of accessibility, with some users being pleased at the
+simple design of the site.
+
+“It looks like we are on the right track,” said Moore, “as quite a
+significant number of users told us that they find GOV.UK to be really
+accessible for them, so we will continue our efforts to make GOV.UK as
+simple as possible. We are using the survey results to help us decide which
+assistive technologies we will use to test GOV.UK and which assistive
+technologies we will advise other departments to test with.”
+
+Other findings and results from the survey will be published on GOV.UK,
+including blogs about the range of assistive technologies that respondents
+are using, and the issues around PDF content. Moore said that another
+assistive technology survey will be launched in 2017, using the data from
+the current survey to compare against.
+
+Read the first batch of results from the survey at the GDS accessibility
+blog:
+http://eab.li/3o .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/3y .
+
+
++03: Tactile technology brings world-famous paintings to life for blind
+people.
+
+A special version of one of the world’s most well-known paintings has
+been created through 3D-printing, so that people with sight loss can
+experience it by touch.
+
+The tactile, ‘3D relief’ version of Gustav Klimt’s ‘The Kiss’
+also features a series of audio triggers that explain different elements of
+the new work to visitors when they run their fingers over certain areas.
+
+Housed in the Belvedere Museum in Vienna – the same museum that holds
+Klimt’s original ‘The Kiss’ – the 3D version has been developed
+through AMBAVis (Access to Museums for Blind and Visually Impaired People),
+a European Union-funded project that aims to improve the museum experience
+for blind and visually impaired visitors through 3D technology and
+“multi-sensory approaches”. ‘The Kiss’ is the seventh relief work
+developed through the project, with previous works housed in other museums
+around Europe.
+
+The tactile version of ‘The Kiss’ sits in the Belvedere on a pedestal
+next to Klimt’s original, which was painted by the artist using oil paint
+mixed with gold leaf. Measuring 42 by 42 centimetres, the tactile version
+depicts the painting’s two figures – entwined and wearing colourful
+robes – entirely in white and with various features of the work available
+to explore by hand. For example, the robes feature intricate patterns that
+can be felt by touch.
+
+Andreas Reichinger (who works in semantic modelling and acquisition at
+VRVis, a visual computing research institution in Austria) led many of the
+technical design aspects of the 3D version of ‘The Kiss’. Reichinger
+told e-Access Bulletin that the accessible cultural work of AMBAVis will be
+expanded in a new project, called ARCHES.
+
+Reichinger said: “In ARCHES we will take things to the next level, and
+aim to include people not only with difficulties in vision, but with
+differences and difficulties associated with all kinds of perception,
+memory, cognition and communication.”
+
+Six new relief works are planned for ARCHES, and each will be housed in a
+different participating museum, including two in London – the Victoria
+and Albert Museum and the Wallace Collection.
+
+Both AMBAVis and ARCHES are funded through the Erasmus+ and Horizon 2020
+programs. AMBAVis has been running for two years and is partnered with a
+number of European organisations, including the VRVis Centre for Virtual
+Reality and Visualisation Research, and the Austrian and German Federations
+of the Blind and Visually Impaired.
+
+Read more at the Belvedere Museum’s website:
+http://eab.li/3p .
+
+Find out more about AMBAVis at the project website:
+http://eab.li/3q .
+
+Read more about the ARCHES project:
+http://eab.li/3u .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/3x .
+
+
+++News in Brief:
+
++04: Future Driving: An online portal of motoring research and future
+developments for older and disabled drivers has been launched by consumer
+research charity Rica. Sections in the portal include wheelchair accessible
+vehicles, autonomous cars, safer driving for older people, motoring for
+people with specific disabilities (such as cerebral palsy and arthritis),
+and a report on inclusive design. Researchers with relevant resources are
+invited to submit their contributions to the site.
+
+Browse Rica’s online motoring research portal:
+http://eab.li/3t .
+
+
++05: Talking Success: The Royal National Institute of Blind People’s
+Talking Books service has reported a 30% rise in new members since becoming
+free one year ago. Over 11,000 new members have signed up since November
+2015, giving them access to over 25,000 titles available in a range of
+formats, including DAISY (Digital Accessible Information System) USB and
+CD, and MP3 download.
+
+Find out more and subscribe at RNIB’s Talking Books page:
+http://eab.li/3- .
+
+
++06: Educational Equality: A guide on integrating accessibility into
+education has been produced in the United States by the Consortium on
+School Networking and the Center on Technology and Disability. ‘Digital
+Accessibility Toolkit: What Education Leaders Need to Know’ features
+information on accessible learning for students with a range of
+disabilities. This includes tools, techniques and software – such as
+screen-readers, video captioning and alt-text – plus advice on procuring
+accessible technology, and an explanation of ‘universal design for
+learning’.
+
+Find the full ‘Digital Accessibility Toolkit’ in PDF at the following
+link:
+http://eab.li/3n .
+
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
++07: Mobile Matters: Long-time reader and correspondent Anthony Bernard
+writes in to ask if other Bulletin readers can help with information about
+the emporiaSMART, a smartphone with a removable keypad that he found on the
+RNIB online shop. Anthony – who is blind and currently works as a
+voluntary consultant to the Sri Lanka Federation of the Visually
+Handicapped – is after some advice on the functions of the phone:
+
+“I’d like to know if the emporiaSMART phone can easily be used by blind
+users, both with and without the removable keypad. As it uses the Android
+system, does it have the Android ‘TalkBack’ software designed for blind
+and visually impaired users? Can anyone suggest other smartphones that are
+good and easy to use for blind phone users?”
+
+Advice and information, please, to:
+eaccessbulletin@gmail.com .
+
+
+[Section Two ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on The
+Early Edition programme. Hear more about the bulletin and upcoming content
+appearing in each issue, as we discuss the latest accessible technology
+news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
+http://eab.li/3e .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+Section Three: Special report.
+- The Assistive Technology Exhibition and Conference.
+
++08: From 3D radio to disruptive innovation: evolving assistive technology.
+
+Earlier this month, the second ATEC (Assistive Technology Exhibition and
+Conference) event took place, held in Sheffield, UK. A wide range of
+figures from the assistive technology (AT) industry were in attendance,
+including e-Access Bulletin.
+
+Here, we present an overview of some of the many thought-provoking seminars
+and workshops that took place throughout the day.
+
+The opening conference keynote speech was delivered by Hector Minto, senior
+technology evangelist for accessibility at Microsoft. Minto explained that
+there is now mandatory accessibility training for all Microsoft employees,
+but said that looking at the wider employment picture in society, “It’s
+absolutely clear that most people don’t consider accessibility in their
+role.”
+
+Microsoft and other influential organisations have a part to play in
+changing that, he said: “The role of Microsoft and the largest companies
+around the world is to demonstrate clear starting points for accessibility,
+as well as improving what we’re doing over time.”
+
+Minto also claimed that we have become “technologically blasé” in
+recent years, meaning that accessibility products, services and functions
+aren’t always publicised or exposed as well as they should be. “We
+almost just expect these advances to come so thick and fast that we don’t
+stop to tell people about them,” he said.
+
+Gareth Ford Williams, head of accessibility at the BBC, gave the second
+conference keynote speech. Williams began by pointing out that “we all
+have accessibility requirements,” before talking about how the BBC’s
+access services have evolved.
+
+While early access services like subtitling and sign-interpreted content
+are still widely used, ‘future content’ will be delivered through
+formats such as multi-screen and 3D radio, meaning that new forms of access
+services are needed, Ford Williams said. For example, increased used of
+virtual reality (VR) presents challenges for subtitling, as traditional
+subtitling will not work in a VR environment. “Content is rapidly
+evolving and there is a need for AT that responds to this change,” said
+Ford Williams.
+
+In some cases, the methods used in providing ‘future content’ can also
+assist in accessibility. Binaural recording, a technique used in 3D radio
+(which immerses users in audio content, meaning that they hear sound from
+all around them, as opposed to one source), is now being used by BBC teams
+to create an immersive VR experience, replicating aspects of how people
+with autism experience the world. This project is planned to be used as a
+training tool for managers at the BBC, to give them a more in-depth insight
+of the experiences of employees with autism.
+
+John Lamb of the British Assistive Technology Association (BATA) and
+Ability Magazine delivered a session on the challenges facing the AT
+industry (see Section One: News, in this issue). He concluded by talking
+about new and emerging technologies that can benefit people with
+disabilities. These included 3D-printing, wearable technologies, driverless
+cars, robots and digital navigation aids such as the Wayfindr system –
+reported on in the June 2016 issue of e-Access Bulletin (read our Wayfindr
+Q&A at the following link: http://eab.li/1t ).
+
+David Banes, director of David Banes Access and Inclusion Services, hosted
+a fascinating seminar on ‘Accessible technology in an era of disruptive
+innovation’. Defined (in relation to technology) as something that
+displaces an established technology and produces dramatic, revolutionary
+change, disruptive innovation is already affecting the AT industry in a
+huge way, Banes said.
+
+Commonly cited examples of disruptive technology models include transport
+service Uber and homestay accommodation network Airbnb. Both have shaken up
+their respective markets and both have been beneficial to users with
+disabilities, Banes said.
+
+One of the most significant changes that disruptive innovation has brought
+to the AT market is a shift in traditional business models, said Banes:
+“There is increasing growth in free and low-cost solutions. These are now
+expected, and the market expectation of what people will pay has changed
+massively,” he said.
+
+To demonstrate this, Banes gave an example of his time working in Qatar,
+where he was CEO of the Qatar Assistive Technology and Accessibility
+Center: “I worked with blind people who told me that they could achieve
+90% of what they needed to do online every day, including work, using only
+their iPhone with VoiceOver. One person said: ‘I don’t know if I will
+ever buy a screen-reader again.’”
+
+What is now important, said Banes, is how the AT industry responds to
+disruptive innovation. He gave three key steps that the industry needs to
+take in this respect: pay more attention to research from a wider range of
+sources; be willing to change traditional business models; and work to
+understand the broader, evolving needs of customers.
+
+Banes said: “Many people with disabilities are beginning to see
+disruptive innovation as an opportunity, not a threat. This is a chance to
+get the things they want, at a price they can afford, at the time they want
+it. It’s going to bring short-term challenges for the AT industry, but it
+will have a huge impact.”
+
+Some of these sentiments were echoed in ATEC’s closing Q&A panel session.
+Lucy Ruck – manager of the Business Disability Forum’s Technology
+Taskforce – spoke about the increasing prevalence of inclusive design:
+“AT is disappearing to some extent, because of the inclusive design
+approach that we’re encouraging organisations to take. Inevitably,
+that’s going to have an effect on AT suppliers.”
+
+Later in the session, a delegate from Barclays asked the panel a question
+that had been touched on in many discussions throughout the day: “What
+can the AT industry do to support the needs of older consumers?”
+
+Gareth Ford Williams’ answer summed up what many had been thinking:
+“This issue is going to affect everyone. We’re an ageing population and
+part of the ageing process is a decline in all our faculties – cognitive,
+physical and sensory. It’s part of getting old. [The solution is] about
+designing for your own future. Get it right now and you’ll have a much
+better future.”
+
+Read more about ATEC at the event website:
+http://eab.li/3v .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/3w .
+
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 184 ends.]
+
+
+--
+
+This message was sent to nfreear@yahoo.co.uk by eaccess@lists.headstar.com
+
+To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=8853df643ffa0a489fcaf5869c781942&mid=91>
+in our newsletter system.
+
+To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=8853df643ffa0a489fcaf5869c781942>
+
+Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=8853df643ffa0a489fcaf5869c781942>
+from all future mailings.
+
+
+
+
+-- powered by phpList, www.phplist.com --

@@ -1,0 +1,550 @@
+
+E-Access Bulletin, January 2017: issue 186
+Headstar <eaccess@lists.headstar.com>
+To	nfreear@yahoo.co.uk Today at 4:23
+
+
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 186, January 2017.
+
+Produced with the support of Thomas Pocklington Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 186 contents.
+
+Section One: News.
+01: Closure threat for digital inclusion charity seeking £20,000 to
+survive.
+- ICT training for disabled and older Cambridgeshire residents at risk.
+
+02: City mobility apps trialled to fight Blue Badge fraud across Europe.
+- Three-year project will inform recommendation to European Commission.
+
+03: One third of councils fail web accessibility testing in UK-wide survey.
+- ‘Keyboard traps’ and lack of alt-text are among critical issues.
+
+
+News in Brief: 04: Honouring Inclusion – MBE for Robin Christopherson;
+05: Video Intro – Barclays’ accessibility video; 06: Puzzling Business
+– Retail website accessibility.
+
+
+Section Two: The Inbox – Readers’ Forum.
+07: Researching Retail – online shopping under the spotlight; 08:
+Accessibility Ask – Using LinkedIn and PayPal.
+
+
+Section Three: Interview – Accessible gaming.
+09: ‘Tau Station: making a whole universe accessible.
+‘Tau Station’ is an online, science fiction-themed multiplayer game –
+nothing too unusual there, but its creators’ dedication to accessibility
+during the ongoing development process will make it stand out in a crowded
+marketplace. e-Access Bulletin caught up with one of the game’s
+developers to find out more about the many usability considerations in
+place.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Closure threat for digital inclusion charity seeking £20,000 to
+survive.
+
+A UK charity offering digital skills training to hundreds of people with
+disabilities will be forced to shut unless £20,000 of running costs are
+provided urgently.
+
+Cambridge Online provides 4,000 one-to-one tutorials by ‘digital
+champions’ for over 300 disabled, disadvantaged and older people each
+year from around Cambridgeshire and beyond. The charity teaches learners a
+wide range of digital literacy skills, including beginners’ online
+courses, online shopping, services and job-hunting, Facebook and social
+media use, and individual training requested by learners.
+
+Established in the mid-’90s, the charity currently relies on a mix of
+grants, donations and fees from a range of organisations, including
+Cambridge City Council and Good Things Foundation. These funds allow most
+services to be offered for free, with others at a low cost. Most of the
+skills training sessions and personal tutorials are given by a volunteer
+team of 30 digital champions.
+
+However, in the last few years the charity has “struggled to make ends
+meet,” Andrew Entecott, Cambridge Online’s Chief Executive, told
+e-Access Bulletin. Entecott explained that raising the charity’s £70,000
+annual running costs has not been possible due to a lack of business
+sponsorship, with only one business supporting the charity.
+
+Separate grant and fee income for the charity is scheduled for April, but
+the situation has become urgent. Entecott said: “Cambridge Online only
+has a few weeks of running costs remaining. Although grants and fees are
+due to arrive in April, the charity does not currently have enough money to
+pay costs in February and March.”
+
+Anyone interested in helping Cambridge Online continue to provide its
+services can contact the charity’s Chief Executive, Andrew Entecott, at
+the following email address:
+andrew@cambridgeonline.org.uk .
+
+Find out more about the charity’s work at the Cambridge Online website:
+http://eab.li/4j .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/4w .
+
+
++02: City mobility apps trialled to fight Blue Badge fraud across Europe.
+
+A three-year pan-European project to improve urban transportation for
+mobility impaired citizens – featuring a smartphone-based parking card to
+stop fraud – is drawing to a close and preparing recommendations for the
+European Commission.
+
+The aim of the SIMON project is to increase independent living for people
+in cities with mobility impairments. Two mobile apps were developed as part
+of the process: an ‘ICT-enhanced parking card’ for drivers, and a
+journey-planning app.
+
+The parking card is effectively an updated version of the current
+European-approved Blue Badge held by drivers with disabilities.
+
+Illegal copying of Blue Badges has become a problem in recent years, and
+the SIMON parking card aims to eliminate this by using contactless
+technology. The new card features a chip and QR code that connect to a
+mobile app, meaning that parking enforcement staff can scan the card from
+outside the vehicle and check the identity of the card owner, preventing
+misuse and fraud.
+
+The mobile app allows citizens to plan accessible journeys across a city,
+based on their needs. Routes can be adapted to suit wheelchair-users,
+people with visual impairments, and different walking speeds. For example,
+the app can tell users about wheelchair ramps at metro and subway stations,
+or where to find disabled parking spaces.
+
+An ‘international consortium’ of nine partners across five countries
+(Spain, Portugal, Italy, Germany and the UK) are taking part in the
+project, with large-scale pilots in Madrid, Parma, Lisbon and Reading. At
+the moment, the SIMON mobile app (available to download for free on iOS and
+Android) is only usable in these four pilot cities
+
+Planned as a three-year scheme, SIMON finishes at the end of March, and
+project leaders are drawing up conclusions from the work. The mobile app
+will continue to be available to download and use after SIMON ends. The
+project team are encouraging people in the pilot cities to continue using
+the app and leaving feedback on how it can be improved.
+
+SIMON Project Manager Eva Muñoz Navarro told e-Access Bulletin about some
+of the key findings and conclusions: “We have found out how useful it is
+to have the end-users [older and disabled citizens] as part of the design
+process. We have also realised that even if the ICT parking card is welcome
+and everybody is happy to have a fraud-fighting tool, not everybody is used
+to mobile apps and technology – particularly the elderly.”
+
+The last phases of the project include drawing up guidelines on how SIMON
+can be used elsewhere. Navarro said that the team is already working with
+other cities in Europe interested in using the SIMON platform to make their
+mobility systems more inclusive.
+
+The project team are also preparing a recommendation for the European
+Commission to explain how the current parking card for mobility impaired
+drivers could be adapted, using the increased security measures trialled
+during SIMON. Navarro said: “The European Commission might decide to
+update the current recommendation, from 1998, and to consider the
+possibility of modernising the parking card based on SIMON proposals.”
+
+Find out more about SIMON at the project website, including links to
+download the mobile app:
+http://eab.li/4k .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/4v .
+
+
++03: One third of councils fail web accessibility testing in UK-wide
+survey.
+
+An annual review of council websites across the UK has revealed that one
+third of local government sites failed first-stage testing to find out how
+accessible their websites are for users with disabilities.
+
+Carried out by Socitm (the Society of IT Management), the Better Connected
+survey is a nationwide examination to evaluate local authority websites on
+a range of factors.
+
+Accessibility of those websites for users with impairments is always
+examined. This includes assessing how users with low vision, sight loss,
+mobility impairments, colour blindness, dyslexia and others using assistive
+technology or keyboard navigation can access council websites.
+
+However, this year Better Connected introduced a new two-stage process for
+the accessibility assessment. The first stage examined all 416 council
+website homepages, based on 14 criteria.
+
+These included: appropriate text alternatives for images (this is essential
+for screen-reader users); ability to resize text to 200% without loss of
+content (this helps a range of users with partial sight loss); and
+“present and functioning skip links,” (these allow screen-reader users
+to arrive directly at a web page’s main content).
+
+Councils that failed to meet seven or more of these points on their
+homepages were not allowed to enter the next stage of Better Connected.
+Additionally, if any homepages were found to have ‘keyboard traps’
+(elements that make it impossible for keyboard-only users to move around
+the screen) or lack of ‘visible focus indicators’ (these allow users to
+recognise where on a page they are navigating to and from – again crucial
+for keyboard-only users and people with certain visual impairments), the
+sites failed stage one immediately.
+
+However, sites that did fail were given the opportunity to resolve their
+accessibility problems before the end of January.
+
+These initial accessibility tests were carried out in December 2016 by
+non-profit social enterprise Digital Accessibility Centre, by users with a
+range of disabilities and impairments. These assessments found that around
+one third of the 416 councils tested failed to meet seven or more of the
+essential accessibility requirements. This means they are ineligible for
+the full assessment, unless the issues are fixed and the councils apply for
+re-testing.
+
+The next stage of Better Connected testing will take place in February.
+This second stage will feature a broader accessibility examination for all
+councils that passed the initial test.
+
+Read more about the assessment at the Better Connected website:
+http://eab.li/4l .
+
+Read more about the Digital Accessibility Centre at the organisation’s
+website:
+http://eab.li/4m .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/4u .
+
+
+++News in Brief:
+
++04: Honouring Inclusion: Robin Christopherson, Head of Digital Inclusion
+at technology access charity AbilityNet and accessibility campaigner, has
+been made an MBE (Member of the Order of the British Empire) in the Queen
+of the UK’s New Years Honours list. The title recognises outstanding
+services to a community and was given to Christopherson for his services to
+digital inclusion and extensive work with technology that can help people
+with disabilities.
+
+Read more about Robin Christopherson at the AbilityNet website:
+http://eab.li/4h .
+
+
++05: Video Intro: Banking and financial services company Barclays has
+launched a short introductory video on accessible digital products and
+services. The video gives a simplified overview of why designing for users
+with impairments can benefit everyone, and sets out Barclays’ goal of
+becoming “the most inclusive and accessible company in the FTSE 100.”
+The video also highlights Barclays’ Pingit payment system and mobile
+banking, both of which have received recognition for their accessibility.
+
+Follow the link below to Barclays’ video on YouTube:
+http://eab.li/4i .
+
+
++06: Puzzling Business: A blog post on the topic of ‘Is there really a
+business case for website accessibility?’ has been written by Rick
+Williams, co-author of the Click-Away Pound report, (research examining
+online shopping for disabled customers – covered by e-Access Bulletin in
+December 2016: eab.li/49 ). Williams’ article is a guest blog for the
+Business Disability Forum (BDF), and questions why many businesses fail to
+make their websites usable by the UK’s millions of computer users with
+disabilities.
+
+Read Williams’ full article on the business case for website
+accessibility:
+http://eab.li/4n .
+
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
+
++07: Researching Retail: Regular e-Access Bulletin reader and accessibility
+advocate Carine Marzin, gets in touch to ask if other readers can share any
+knowledge about a hugely important topic – accessibility of online retail
+platforms:
+
+“I would be interested to read about recent research on the accessibility
+of online shopping websites and apps, including for large e-commerce
+platforms, e.g. Amazon, eBay and so on. I am particularly interested in
+good practice where there is evidence of digital accessibility becoming a
+corporate priority.”
+
+Any insights or research links, please, to:
+eaccessbulletin@gmail.com .
+
+
++08: Accessibility Ask: Mubanga Chipalo writes in to the Bulletin from
+Zambia, with three requests on how someone who is blind can effectively use
+social networking platforms, online payment systems and software:
+
+“I am a blind person interested in writing books, and am looking for
+information on how to write manuscripts for print using a speech dictation
+programme. Secondly, can someone provide me with information on how a blind
+person can use LinkedIn?
+
+“Last but not least, I would like to know about how a blind person can
+use PayPal, so that I can start sending money online to purchase whatever I
+would like, independently”.
+
+Please send advice or information on any of those points to:
+eaccessbulletin@gmail.com .
+
+
+[Section Two ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on The
+Early Edition programme. Hear more about the bulletin and upcoming content
+appearing in each issue, as we discuss the latest accessible technology
+news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
+http://eab.li/3e .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+Section Three: Interview – Accessible gaming.
++09: ‘Tau Station’: making a whole universe accessible.
+
+As the accessible gaming community grows at a rapid pace, so too does the
+number of games being developed with accessibility for all users in mind.
+‘Tau Station’ is a fascinating example of good practice in this area.
+
+A free, text-based MMORPG (massively multiplayer online role-playing game)
+with a science fiction theme, ‘Tau Station’ gives players an entire
+universe to explore – a universe which its developers have taken great
+care to make accessible for players with impairments, through a huge range
+of features.
+
+Still currently in development, anyone wanting to play ‘Tau Station’
+can register their interest in testing the game before the launch by
+signing up on the official ‘Tau Station’ blog – details and links at
+the end of the article.
+
+e-Access Bulletin chatted to Lainie, one of the game’s developers, to
+find out more about the quest to make ‘Tau Station’ accessible for all.
+
+¬- Please tell us about ‘Tau Station’:
+
+“We don’t really think of ‘Tau Station’ as a game. It’s universe
+to explore and a place where people can make a life for themselves online.
+The setting is several hundred years in the future, not long after a
+mysterious event called the Catastrophe has occurred. Survivors are
+struggling to put civilisation back together again.
+
+“What players do and who they are is up to them. They can explore the
+galaxy, start a career, fight other players, help rebuild civilisation or
+profit from its downfall, make friends, set up a social network, and much
+more. Some people take missions or interact with characters to get clues
+about what caused the Catastrophe. It’s a complete world, ready for
+people to experience.
+
+“‘Tau Station’ is a text-based universe, but it’s more than just
+words on a screen. To create an immersive environment, we’ve supplemented
+the narrative with a user-interface and custom artwork that give it a
+strong science fiction look and feel. There are no moving graphics,
+downloads, or special controllers needed, so you can play it on any device
+with a browser.”
+
+- How and when was the concept for ‘Tau Station’ developed?
+
+“Curtis Poe came up with the idea in 2010. He’d been playing text games
+online and liked that their emphasis was on thinking and planning rather
+than reacting to action with lightning-fast reflexes. Having grown up
+reading authors like Robert A. Heinlein, Isaac Asimov and Ray Bradbury, he
+enjoyed the grand vision of space opera and started thinking about how he
+could bring it to the text-based game environment.”
+
+- Did you design accessibility features into the game as it was being built
+or add those elements in afterwards?
+
+“We decided to make ‘Tau Station’ accessible after working with Job
+van Achterberg. Job is a strong advocate for accessibility, and he’s the
+one who made us realise we weren’t taking part of the population into
+account with our development. This realisation made the decision simple.
+
+“A few weeks later, Rinchen Emma Ridley and Job joined us on the project,
+and they took everything apart to make ‘Tau Station’ accessible. After
+that, it simply became part of the process. Now, accessibility is taken
+into consideration with everything. It’s not an afterthought, it’s just
+our normal design process thanks to Emma and Job.”
+
+- What measures have you taken to make ‘Tau Station’ accessible for
+players with disabilities and impairments?
+
+“Our goal with ‘Tau Station’ is to be as inclusive as possible. This
+means building the game from a progressively enhanced and responsive point
+of view, as well as incorporating WCAG 2.0 guidelines. Beyond that, we
+consider a variety of users when adding features.
+
+“We ask ourselves all kinds of questions, like: ‘What is this feature
+for? Can the player disable or customise it? Would it work without
+JavaScript? What happens when the player uses browser zoom? Can players use
+this feature via keyboard, mouse, touch, and voice? Are there any known
+browser or assistive technology bugs we should be aware of?”
+
+- Were there any big challenges in terms of accessibility?
+
+“The more challenging elements of the game have been the navigation, and
+elements that require a lot of user-interaction and feedback. Designing the
+training sliders in the gym and our interactive star map are good examples.
+
+
+“Probably the most challenging element is to ensure that processes are
+accessible from start to finish. We have to make sure that the context and
+flow is not lost at any point to any user, regardless of how they interact
+with the game.”
+
+- Why was it so important to make ‘Tau Station’ as accessible as
+possible?
+
+“That’s simple; when someone shows you that you’ve been ignoring a
+part of the population for a huge part of your life, you can’t go back.
+‘Tau Station’ is accessible, as will be any other game that we develop.
+It’s not that difficult to make it happen. You just have to want it, and
+surround yourself with the right people.”
+
+- Are games developers thinking more about accessibility nowadays?
+
+“We’d like to think so, but it’s hard to see from within the
+‘accessibility bubble’. But seeing conferences like #GAconf
+(Read about the conference at the following link: http://eab.li/4o )
+and websites dedicated to the subject, such as Game Accessibility.com
+(found at the following link: http://eab.li/4p )
+and Game Accessibility Guidelines.com
+(found at the following link: http://eab.li/4q )
+leads us to believe that there’s increasing awareness.”
+
+- How do you want ‘Tau Station’ to develop, and how will you keep it
+accessible as it evolves?
+
+“‘Tau Station’ is going to evolve as stories in books evolve, with
+different chapters; chapters that we write for the players and the ones
+that they will write for themselves.
+
+“Asking us how we’ll keep ‘Tau Station’ accessible is a little like
+asking us if it will continue to be a science fiction game as it evolves!
+‘Tau Station’ is accessible and will stay accessible. It’s the choice
+that we’ve made and also part of the design process, so any new
+functionality that we implement will be accessible.
+
+“With the right team, with the right people, there is no reason for that
+to change. Accessibility is a state of mind, and the fact that the
+technology evolves doesn’t change anything. We will evolve with it.”
+
+Read more about accessibility in ‘Tau Station’ at the following link:
+http://eab.li/4r .
+
+Find out more about the game at the ‘Tau Station’ blog:
+http://eab.li/4s .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/4t .
+
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 186 ends.]
+
+
+--
+
+This message was sent to nfreear@yahoo.co.uk by eaccess@lists.headstar.com
+
+To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=8853df643ffa0a489fcaf5869c781942&mid=97>
+in our newsletter system.
+
+To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=8853df643ffa0a489fcaf5869c781942>
+
+Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=8853df643ffa0a489fcaf5869c781942>
+from all future mailings.
+
+
+
+
+-- powered by phpList, www.phplist.com --

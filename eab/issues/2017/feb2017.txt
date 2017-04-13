@@ -1,0 +1,530 @@
+Subject: E-Access Bulletin, February 2017: issue 187
+Date:  Sunday, 9 April, 2017 9:18
+From:  "Headstar" <eaccess@lists.headstar.com>
+To:    nfreear@yahoo.co.uk
+
+
+
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 187, February 2017.
+
+Produced with the support of Thomas Pocklington Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+
+++Issue 187 contents.
+
+Section One: News.
+01: Hollywood-voiced avatar solves citizens’ accessibility queries.
+- Pioneering virtual assistant helps simplify national disability scheme.
+
+02: Online shopping ‘not as inclusive as it should be,’ new research
+finds.
+- Snapshot study gives ‘mini-accessibility audits’ to six UK retailers.
+
+
+03: AI app learns as it provides a window to the world.
+- Intelligent image recognition helps visually impaired smartphone users.
+
+
+News in Brief: 04: Chrome Building – Screen-reader evolves; 05: Streaming
+Advice – RNIB on Facebook Live; 06: Shaping a City – NYC’s Digital
+Accessibility Coordinator.
+
+
+Section Two: The Inbox – Readers’ Forum.
+07: Retail Reply – Split opinions for online shopping sites.
+
+
+Section Three: Interview – Sonya Huber, Disability March.
+08: Impactful online activism.
+What happens when you want to support a cause you believe in, but can’t
+physically attend the organised events due to a disability, impairment or
+health issues? To solve this problem ahead of the global Women’s March in
+January, a virtual Disability March was set up. Thousands took part,
+telling their stories online and ‘marching’ in solidarity with other
+supporters. e-Access Bulletin caught up with one of the organisers of the
+Disability March, Sonya Huber, to find out more.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: Hollywood-voiced avatar solves citizens’ accessibility queries.
+
+An online avatar voiced by an Oscar-winning actor has been created to give
+disabled Australian citizens information on the country’s National
+Disability Insurance Scheme (NDIS).
+
+The virtual assistant ‘Nadia’ is voiced by Australian actor Cate
+Blanchett and is able to answer common questions about the NDIS – a
+support scheme for Australian citizens under 65 with a permanent
+disability, replacing a previous national disability scheme. Users interact
+with Nadia through their computer’s webcam and microphone. This gives the
+process a human element and means that only minimal keyboard or mouse
+navigation is needed.
+
+Nadia was developed by Soul Machines, a New Zealand-based company
+specialising in avatars and artificial intelligence projects. The company
+was launched by Mark Sagar, a university professor and Oscar-winner for his
+work on digital visual effects.
+
+To provide Nadia’s voice, Blanchett (who has starred in films including
+‘Blue Jasmine’, ‘The Aviator’ and the ‘Lord of the Rings’
+trilogy) recorded thousands of sentences, which will be cut and combined to
+form completely new sentences to different questions. Soul Machines say
+that Nadia’s database of knowledge will increase as she ‘learns’ from
+more users asking more questions. Visually, Nadia is represented by a
+lifelike human face, which displays emotions.
+
+Nadia’s design was informed by the NDIS Digital Innovation Reference
+Group, a collaboration between Australian citizens with disabilities,
+members of the National Disability Insurance Agency (NDIA), and figures
+from the technology industries.
+
+In a video about the project, posted by Soul Machines on YouTube, Maryanne
+Diamond from the NDIS explains that Nadia was created to help overcome the
+challenges faced by disabled citizens in communicating with the NDIA, such
+as inaccessible web forms or letters containing lots of “government
+language”.
+
+For example, one of Nadia’s pre-recorded sentences (heard in the Soul
+Machines YouTube video) is: “One of the many reasons I have been created
+is to get rid of tens of thousands of government forms that often take
+hours of people’s time to complete.”
+
+Writing on the Soul Machines blog, Louise Glanville – Deputy CEO of the
+NDIA – said that Nadia will be accessible “24/7” at the NDIS
+‘myplace’ portal (for Australian citizens with sign-in credentials) and
+is designed to meet international accessibility guidelines.
+
+Glanville writes: “She can already understand thousands of questions put
+to her, and will answer with clear and simple responses. The more
+interactions she has with people, the more her knowledge bank will grow.”
+
+
+Read more about the Nadia avatar at the Soul Machines website:
+http://eab.li/50 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/57 .
+
+
++02: Online shopping ‘not as inclusive as it should be,’ new research
+finds.
+
+The websites of six popular UK retailers would not achieve the basic
+standard of online content accessibility, according to new research by a
+usability consultancy.
+
+After a series of ‘mini-accessibility audits,’ accessibility design
+consultancy User Vision found that some online shoppers with impairments
+would have difficulty purchasing items from each of the websites examined,
+due to a number of common barriers.
+
+The retailers chosen for the study were selected “to cover as many
+segments of the market as possible,” Marie Moyles, a UX (user experience)
+analyst at User Vision, told e-Access Bulletin. The six stores were as
+follows, in order of the accessibility score awarded in the research: House
+of Fraser (scoring 3/5); Boots (3/5); Tesco (2.5/5); Mothercare (2.5/5);
+Not on the High Street (1/5); and Joules (1/5).
+
+“We wanted to select a range of stores which were well known, trusted and
+provided a variety of products for differing budgets and tastes,” Moyles
+said.
+
+User Vision claims that, “in their present state”, all of the sites
+would fail testing for Level AA of WCAG (the Web Content Accessibility
+Guidelines) 2.0 – widely seen as the benchmark for online accessibility.
+
+The accessibility audits focused on the experience of blind screen-reader
+users and sighted keyboard-only users – specifically on the ‘user
+journeys’ when browsing and purchasing products through the six sites.
+Aspects of WCAG 2.0 were then used as an indicator of the websites’
+accessibility levels.
+
+Common accessibility barriers found during the testing included a lack of
+consistent visible focus (which helps sighted keyboard-only users track
+their place on a webpage) and a lack of ‘skip to’ links (especially
+important for screen-reader users to quickly navigate to relevant content).
+
+
+Moyles told e-Access Bulletin that the main barrier uncovered in the
+testing was a difficulty in providing context for screen-reader users.
+“It is important to remember that those who rely on screen-readers are
+unable to visually group information together or understand meaning through
+visible presentation,” she said.
+
+Speaking about the key findings from the audits, Moyles said: “The main
+message was that, unfortunately, shopping online is not as inclusive as it
+could and should be. There is still some way to go in improving the
+accessibility of online stores.”
+
+Although User Vision says that none of the sites achieved WCAG 2.0 Level AA
+standard from the mini-audits, Moyles said that the majority of the sites
+were “aware of accessibility” and had attempted to implement some
+accessible features. “The most important thing to consider is that the
+issues we came across are actually quite easy to correct,” said Moyles.
+
+Asked what retailers should be doing to improve online accessibility,
+Moyles said: “Retailers should be investing in usability testing with
+disabled people to ascertain that the site is usable as much as it is
+compliant to WCAG standards.”
+
+Read more about the study at the User Vision website:
+http://eab.li/52 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/55 .
+
+
++03: AI app learns as it provides a window to the world.
+
+An image recognition app that identifies objects and colours for blind and
+visually impaired people through AI (artificial intelligence) technology
+can ‘learn’ about its surroundings as users teach it.
+
+The free version of the Aipoly Vision app comes pre-loaded with information
+and is able to identify around 1,000 ‘essential’ items (such as coffee
+cups, headphones and flowers) immediately after being downloaded.
+
+Users simply point their phone at an item and Aipoly then speaks the name
+of the item out loud. The app was designed to help users with sight loss or
+low vision identify more of the world around them without the assistance of
+a sighted person.
+
+Aipoly runs and identifies constantly without an internet connection, and
+users don’t need to take photos of individual items in order for the app
+to recognise them. Aipoly’s developers claim that it can identify items
+at a rate of three per second.
+
+Users can switch between different modes to recognise different groups of
+things, such as foods, text, currency, plants and colours. The Aipoly
+recognition system works through what the company calls a “real-time deep
+learning SDK” (software development kit).
+
+A paid-for version of the app, costing $4.99 per month, features a much
+larger pre-installed database of objects. But users can also help build
+Aipoly’s database manually, by inputting descriptions of new objects or
+objects that the app identifies incorrectly.
+
+These descriptions are stored on the app for future recognition – to help
+the individual user – but also get uploaded to the Aipoly servers. This
+information is then used by Aipoly’s development team when updating the
+app, therefore benefitting other users too.
+
+So far, reviews and feedback have generally been positive, with users
+(including blind and visually impaired users) impressed by the app’s ease
+of use and wide recognition abilities. However, many also report at least
+some errors when the app is identifying objects.
+
+Aiploy Vision is currently only available for the iPhone and iPad, via the
+iTunes app store, but a version for Android devices is scheduled for April
+15. In January, the app was given a ‘2017 Innovation Award’ by the
+Consumer Technology Association at its annual CES (Consumer Electronics
+Show) event.
+
+Read more at the Aipoly website:
+http://eab.li/53 .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/54 .
+
+
+++News in Brief:
+
++04: Chrome Building: A new version of Google Chrome’s ChromeVox
+screen-reader has been introduced on Chromebook computers to improve
+accessibility for visually impaired users. New features include simplified
+keyboard controls for keyboard-only users; menus listing screen-reader
+speech options; improved navigation for USB Braille display users; a
+text/Braille tracking panel designed for teachers working with visually
+impaired students; and ‘earcon’ auditory features to give contextual
+information.
+
+Read more about the ChromeVox screen-reader at the Google Blog:
+http://eab.li/4y .
+
+
++05: Streaming Advice: The Royal National Institute of Blind People’s
+(RNIB) Northern Ireland branch will host a live video talk about the
+accessibility of Apple products for people with sight loss on its Facebook
+page. The discussion takes place on Wednesday March 1 at 1pm GMT using the
+Facebook Live video streaming tool. Topics covered will include Apple’s
+VoiceOver screen-reader and the zoom function.
+
+Visit the RNIB Northern Ireland Facebook page at the link below to access
+the talk:
+http://eab.li/4z .
+
+
++06: Shaping a City: New York City (NYC) has appointed its first ‘Digital
+Accessibility Coordinator’ to help make the city’s digital services and
+products more accessible for citizens with disabilities. Walei Sabry is
+part of the NYC Department of Information Technology and
+Telecommunications, and his work includes creating web accessibility
+standards, testing NYC government websites for accessibility, and training
+developers to produce accessible digital content.
+
+Read an article written by New York City’s Digital Accessibility
+Coordinator on publishing website Medium:
+http://eab.li/4- .
+
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++Section Two: 'The Inbox'
+- Readers' Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
+
++07: Retail Reply: Last week, regular Bulletin correspondent Carine Marzin
+got in touch to ask if other readers knew of any research on the
+accessibility of online retail sites – particularly any studies that
+showed companies prioritising digital accessibility.
+
+Another regular reader, Rick Williams, replies to Carine’s comment this
+month:
+
+“Hi, Carine. I was one of the joint authors of the Click-Away Pound
+report, which researched the commercial issues regarding website and app
+accessibility.
+
+“One of the many interesting things that came out of the research was
+that one person’s accessible site was someone else’s inaccessible one.
+We asked people to nominate their best and worst sites in terms of their
+access needs, and many sites appeared on both lists from different users.
+Clearly, the issue was the effect of their disability and their associated
+access needs.
+
+“One site which came out consistently well was the Ocado shopping site
+and app.”
+
+Read the full Click-Away Pound report at the following link:
+http://eab.li/51 .
+
+Please send any further research examples or insights on good practice to:
+eaccessbulletin@gmail.com .
+
+
+[Section Two ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on The
+Early Edition programme. Hear more about the bulletin and upcoming content
+appearing in each issue, as we discuss the latest accessible technology
+news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
+http://eab.li/3e .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+
+Section Three: Interview.
+- Sonya Huber, Disability March.
+
++08: Impactful online activism.
+
+On January 21 2017, around half a million people took part in the Women's
+March in Washington D. C. Symbolically scheduled for the day after Donald
+Trump’s inauguration as 45th President of the United States, the aim of
+the Women’s March was to support and stand up for women’s rights and
+equality around the world, with millions more marching across the globe in
+related events. But what about those people who wanted to support the cause
+but couldn’t attend a march in person?
+
+This was the dilemma facing many people with a disability or health issues.
+To address this widespread problem, an online virtual march was set up. The
+Disability March platform enabled anyone to show their support for the
+cause without having to physically march – a task that would have been
+dangerous for some and impossible for others.
+
+Supporters signed-up to the online Disability March and shared their
+messages through the project’s blog and Twitter account. Thousands took
+part and others were able to see their stories unfold online.
+
+Sonya Huber, an author and creative writing professor from Connecticut, was
+one of the organisers of the Disability March. e-Access Bulletin spoke to
+Huber to find out more.
+
+- Please explain the concept of the Disability March:
+
+“The Disability March is, in the simplest form, a blog. Each
+‘marcher’ was an entry on the blog, and each entry was a photo of an
+individual along with his or her story of disability and message about
+marching in solidarity with the Women’s Marches. Most stories were
+explicit about the disability, the inability to physically march, and/or
+the ways in which the marcher would be impacted by proposed policies of the
+Trump administration.
+
+“The blog was also linked to a Twitter account, @DisabilityMarch, so that
+as the marchers were put online by the volunteer team, the effect for
+viewers of the blog, and on Twitter, was of a parade slowly rolling by.
+Many people watched or engaged with these pieces when they were published
+and in the weeks after publication, and shared their own profiles as well
+as the profiles of others who moved them.”
+
+- What was the background to the project?
+
+“I came up with the idea for the Disability March in early December 2016,
+as plans for the January 2017 Women’s March in Washington D.C. were being
+hatched, and as I realised I wouldn’t be able to attend due to my
+rheumatoid arthritis and other autoimmune conditions. I shared the idea of
+a blog with a few friends, as a space for telling stories of those who are
+disabled and couldn’t march. We had our first ‘marcher’, Karrie
+Higgins, on December 21, and my goal was to get to 50 postings on the
+blog.”
+
+- What was the overall goal of the Disability March?
+
+“Our main idea was to be visible as members of the disability community
+who are going to be heavily impacted by the Trump administration’s
+proposed policy changes to the ACA [Affordable Care Act] and proposed cuts
+to Medicaid. So our goal was to put the stories of disabled people front
+and centre, giving them space to say what they feared about the Trump
+agenda and what we need as a community.”
+
+- How did the online march go on the day?
+
+“A week before the Women’s March, we started to get hundreds of
+entries. I recruited about 20 volunteers to help with uploading the entries
+by hand into the blog. During the day of the march I didn’t go to a local
+physical march; I was on the computer for about 12 hours a day, uploading
+and responding to inquiries.”
+
+- How many people took part in the online Disability March?
+
+“Our final number was 3,021 entries. I was completely surprised by the
+success of it.”
+
+- What do you think it shows about the power of technology for persons with
+disabilities?
+
+“I think it shows that people who aren’t able to attend marches are
+nevertheless hungering for participation, connection, and visibility.”
+
+- What has been the reaction since the online march?
+
+“We have a Facebook group of about 1,800 people and we are in touch with
+other disability rights organisations to talk about how to move forward.”
+
+- Are any online marches planned for the future?
+
+“We are talking about possibilities!”
+
+- What else do you have planned for the project now the Women’s March has
+finished?
+
+“The blog from the march will stay up, and we are using the website and
+Twitter to share resources about disability and action in politics.”
+
+- I see you’re also encouraging people to arrange their own online
+disability marches. Tell us about that:
+
+“I want to get the wider political organising community to take on doing
+these visibility actions, in order to include those people in their
+communities. This is an organising tool that any organisation can use.”
+
+For more information, visit the Disability March website:
+http://eab.li/4x .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/58 .
+
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://www.headstar.com/eab/archive.html .
+
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+
+ISSN 1476-6337.
+
+[Issue 187 ends.]
+
+
+--
+
+This message was sent to nfreear@yahoo.co.uk by eaccess@lists.headstar.com
+
+To forward this message, please do not use the forward button of your
+email application, because this message was made specifically for you only.
+Instead use the forward page
+<https://lists.headstar.com//?p=forward&uid=8853df643ffa0a489fcaf5869c781942&mid=114>
+in our newsletter system.
+
+To change your details and to choose which lists to be subscribed to,
+visit your personal preferences page
+<https://lists.headstar.com//?p=preferences&uid=8853df643ffa0a489fcaf5869c781942>
+
+Or you can opt-out completely
+<https://lists.headstar.com//?p=unsubscribe&uid=8853df643ffa0a489fcaf5869c781942>
+from all future mailings.
+
+
+
+
+-- powered by phpList, www.phplist.com --
