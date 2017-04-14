@@ -19,10 +19,10 @@
   <meta name="DC.identifier" content="ISSN: 1476-6337" />
   <meta name="DC.subject" content="EAB, TENS, e-access, bulletin, e-accessibility, accessibility, disability, gerontology, blind, visually impaired, RNIB, access technology, Headstar, Bunbury IS" />
   <meta name="DC.creator" content="N.D.Freear" />
-  <meta name="DC.date" content="2016-10-09" />
+  <meta name="DC.date" content="2017-04-13" />
   <meta name="eGMS.accessibility" content="eGMS.WCAG10: Double-A" />
 
-  <meta name="copyright" content="&copy; 2000-2016 Headstar Limited." />
+  <meta name="copyright" content="&copy; 2000-2017 Headstar Limited." />
   <meta name="description" content="News and research on technology access by those with disabilities and older people." />
   <meta name="keywords" content="EAB, TENS, e-access, bulletin, e-accessibility, accessibility, disability, gerontology, blind, visually impaired, RNIB, access technology, Headstar" />
 
@@ -113,16 +113,19 @@ __EMBED_PAGE__  ::
   })();
 </script>
 <script>
-(function () {
+(function (W, D) {
 
-  var D = document,
-    page = D.location.pathname.replace(/.+\//, '').replace(/\..+/, ''),
+  var page = W.location.pathname.replace(/.+\//, '').replace(/\..+/, ''),
     el = D.querySelector("#foot .y"),
     year = 1900 + (new Date()).getYear();
 
   el.innerHTML = year;
   D.body.className += " pg-" + page;
 
-})();
+  if (W.location.href.match(/[&\?]embed=(1|true)/)) {
+    D.body.className += " pg-embed";
+  }
+
+})(window, window.document);
 </script>
 </html>

@@ -27,12 +27,12 @@ p,li,table,address, h4 { font-size: 1.06em; }
 
 #eab h1 { margin: 1%; }
 #eab #main { margin-top: 3%; }
-a {
+a:link {
   color:      #640a64; /* #862c86 */
   background: #fdfdfd;
   text-decoration: none;
 }
-a:hover, a:focus, a:active {
+a:link:hover, a:focus, a:active {
   color:      #900;
   background: #fbfbfb;
 }

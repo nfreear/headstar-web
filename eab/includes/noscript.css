@@ -6,7 +6,6 @@
 @import "textonly.css";
 
 
-
 @media screen
 {
   .notice /* #tribute */ {
@@ -91,4 +90,48 @@ body .gs-webResult.gs-result a.gs-title:link b {
 body .gs-webResult.gs-result a.gs-title:visited,
 body .gs-webResult.gs-result a.gs-title:visited b {
   color: #900;
+}
+
+
+/* Embedding.
+*/
+body.pg-embed,
+.pg-embed #Body {
+  background: #fff;
+}
+
+.pg-embed a {
+  background: transparent;
+}
+
+.pg-embed #top,
+.pg-embed #totop,
+.pg-embed #menu,
+.pg-embed #comment,
+.pg-embed #foot {
+  display: none;
+}
+
+.pg-embed #main,
+.pg-embed #bulletin {
+  width: 100%;
+  float: none;
+  margin: 1px;
+}
+
+.pg-embed a[ href ] {
+  color: blue;
+}
+.pg-embed #totop a {
+  border-color: #ccc;
+}
+.pg-embed .notice {
+  margin: .8em;
+}
+.pg-embed #bulletin {
+  border: none;
+}
+.pg-embed h2 {
+  border: none;
+  color: #333;
 }

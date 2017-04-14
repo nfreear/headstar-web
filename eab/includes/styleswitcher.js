@@ -1,7 +1,8 @@
 /**
- * Title: E-Access Bulletin web - Javascript Style-sheet switcher using the DOM.
+ * Title: Javascript Style-sheet switcher using the DOM.
  * URL:   http://www.headstar.com/eab/includes/styleswitcher.js
  * Refer: Nick 2004-07-01, http://www.bunburyIS.com .
+ * Copyright © 2004-2016 Nick Freear.
  *
  * Src: http://alistapart.com/stories/alternate, Sowden & Koch, 126/2001-11 (2003-07-21).
  */

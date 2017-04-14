@@ -74,5 +74,5 @@ module.exports = function (grunt) {
 	//grunt.loadNpmTasks('grunt-notify');
 	//grunt.task.run('notify_hooks');
 
-  grunt.registerTask('default', [ 'exec', 'jshint', 'htmlhint', 'validate_xml' ]);
+	grunt.registerTask('default', [ 'exec', 'jshint', 'htmlhint', 'validate_xml' ]);
 };

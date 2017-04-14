@@ -8,10 +8,8 @@
 technology access by those with disabilities and older people._"
 
 * [E-Access Bulletin][eab]
-* [E-Access Bulletin Live][eablive]
+* [E-Access Bulletin Live blog][eablive]
 * [Subscribe to the E-Access Bulletin newsletter][subscribe]
-
-"_news and research on technology for the blind and visually impaired_"
 
 "_a free, independent monthly e-mail newsletter on information technology
 issues for people with visual impairment and blindness._"
@@ -29,16 +27,16 @@ Dan Jellinek.
 * [Bitbucket][]
 * [GitHub][]
 
-_[In memory of Dan … Dan Jellinek 1968 — 2015][tribute]_
-
 
 [![E-Access Bulletin Live][eabl-logo]][eablive]
 
 [![People power: a user's guide to UK democracy / Dan Jellinek][pp-book-image]][pp-book]
 
+_[In memory of Dan … Dan Jellinek 1968 — 2015][tribute]_
+
 
 ---
-Copyright © 2000-2016 Headstar Limited. [All rights reserved][copy].
+Copyright © 2000-2017 Headstar Limited. [All rights reserved][copy].
 
 ISSN 1476-6337.
 
@@ -51,7 +49,7 @@ ISSN 1476-6337.
     "Download a vCard (VCF file), via Suda.co.uk — 'Dan-Jellinek.vcf'"
 [expired-domain]: http://e-accessibility.com "| 80.87.128.130"
 [copy]: http://headstar.com/site/scripts/terms.php
-    "Copyright © 2000-2016 Headstar Limited. All rights reserved."
+    "Copyright © 2000-2017 Headstar Limited. All rights reserved."
 [eab]: http://headstar.com/eab/ "E-Access Bulletin"
 [eablive]: http://headstar.com/eablive/ "E-Access Bulletin Live"
 [eabl-logo]: https://raw.githubusercontent.com/nfreear/headstar-web/master/eab/images/eablive-1.png
