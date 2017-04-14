@@ -9,8 +9,8 @@ module.exports = function (grunt) {
 
 	grunt.initConfig({
 		exec: {
-			bulletins:  'cd perl/; perl bulletins.pl',
-			build_site: 'cd perl/; perl e-access.pl'
+			bulletins:  'perl perl/bulletins.pl',
+			build_site: 'perl perl/e-access.pl'
 		},
 		jshint: {
 			options: {

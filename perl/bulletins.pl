@@ -7,21 +7,25 @@ use constant AUTHOR  => 'N.D.Freear';
 #
 # Example TEN:  http://www.headstar.com/eab/issues/2002/dec2002.txt
 #
-# Copyright N.D.Freear, 16 July 2003.
+# Copyright (c) Nick Freear, 16 July 2003.
 # ==============================================================================
 # Force, $OUTPUT_AUTOFLUSH.
 $| = 1;
 use strict;
 use warnings;
+use FindBin;
+
+my $dir = $FindBin::Bin;
+
 &log_to_file();
 
 # Parsers.
-my $tens2html="perl -w tens2html.pl";
+my $tens2html="perl -w $dir/tens2html.pl";
 # Pre-TENS only.
 my $txt2html ="perl -w ..\\..\\txt2html\\perl\\txt2html.pl -l ..\\..\\txt2html\\perl\\txt2html.dict";
 my $tidy = "\"/_e/apps/tidy/tidy.exe\" -access 1 -language en -utf8 -asxhtml";
 
-my $idx_file="../eab_base/archive.html";
+my $idx_file="$dir/../eab_base/archive.html";
 my $url_stem="http://www.headstar.com/eab";
 my $url_issues="$url_stem/issues";
 
@@ -85,8 +89,8 @@ for (my $issue=$end_issue; $issue>=1; --$issue)
   my $tens_link="issues/$year/$mnth$year.txt";
   my $html_link="issues/$year/$mnth$year.html";
 
-  my $tens_file="../eab/$tens_link";
-  my $html_file="../eab/$html_link";
+  my $tens_file = "$dir/../eab/$tens_link";
+  my $html_file = "$dir/../eab/$html_link";
 
   if( 1==$b_parse && (-r $tens_file) ){
     #Ok, parse.
@@ -208,7 +212,7 @@ sub log_to_file {
   my $em='';
   $em = 'em_perl' if ($2 eq 'bat');
   #NDF 28 June 2012: my $log="logs/00$1.log";
-  my $log="logs/00bulletins.log";
+  my $log="$dir/../logs/00bulletins.log";
   open( LOG, "$mode$log" ) or die "Failed to open, $!: $mode$log\n";  #"$mode$log"
   warn "Building, see:  $1.log\n";
   # Install a 'warn' handler.

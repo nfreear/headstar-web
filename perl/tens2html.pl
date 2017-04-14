@@ -7,6 +7,7 @@ my $author="N.D.Freear";
 #
 # Example TEN:  http://www.headstar.com/eab/issues/2003/jul2003.txt
 #
+# Copyright (c) Nick Freear 2003-2010.
 # Copyright 2003-07-22/2010-07-03 N.D.Freear.
 # ==============================================================================
 # Force, $OUTPUT_AUTOFLUSH.

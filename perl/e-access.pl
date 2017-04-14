@@ -4,17 +4,20 @@ my $author="N.D.Freear";
 #
 # E-Access Bulletin Web build script:  HTML pages from a template and content file.
 #
-# (c) Nick Freear, 15 September 2003.
+# Copyright (c) Nick Freear, 15 September 2003.
 # ==============================================================================
 # Force, $OUTPUT_AUTOFLUSH.
 $| = 1;
 use strict;
 use warnings;
+use FindBin;
+
+my $dir = $FindBin::Bin;
 
 # Hack for logging in Win 9x. (Append >>)
-$0=~/(.*)\./;
+$0 =~ /(.*)\./;
 #NDF 28 jun 2012, my $log="logs/00$1.log";
-my $log="logs/00e-access.log";
+my $log="$dir/../logs/00e-access.log";
 open(LOG, ">$log") or die "Failed to open:  $log\n";
 warn "Building, see:  $log\n";
 # Install a 'warn' handler.
@@ -23,8 +26,8 @@ my $now_string = gmtime;
 warn "__ BUILD [$0  $version] log $now_string __\n\n";
 
 # ==============================================================================
-my $dest="../eab/";
-my $src="../eab_base/";
+my $dest = "$dir/../eab/";
+my $src  = "$dir/../eab_base/";
 
 my $base="__E-ACCESS__";
 my @files=("index","about","archive","contact","language1",
@@ -49,7 +52,7 @@ foreach my $file (@files)
   open(BASE, $base_file) or die "Failed to open base: $base_file\n";
   open(OFILE, ">$dest_file") or die "Failed to open destination: $dest_file\n";
   select(OFILE);
-  
+
   my $score = &combine_files;
 
   close(OFILE);
@@ -137,4 +140,3 @@ sub combine_files
     }
     return $score;
 }
-
