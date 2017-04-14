@@ -1,10 +1,16 @@
+# Dual-language ~ Perl & Node.JS.
 # Headstar E-Access Bulletin.
 language: perl
 perl:
   - "5.22"
 
 git:
-  depth: 5
+  depth: 8
+
+before_install:
+  # http://stackoverflow.com/questions/35367357/error-object-has-no-method-endswith-on-custom-grunt-task
+  - nvm install v4.4
+  - npm --version
 
 install:
   - make install
