@@ -1,0 +1,522 @@
+
+++E-ACCESS BULLETIN Access to technology for all, regardless of ability.
+- ISSUE 190, May 2017.
+
+An HTML version of this issue of e-Access Bulletin is available at the
+following link: http://eab.li/6b .
+
+For HTML and text versions of all previous e-Access Bulletin issues, please
+visit the Bulletin Archive at the following link: http://eab.li/6a . Thanks
+to Dr. Nick Freear for maintaining the Bulletin Archive.
+
+e-Access Bulletin is produced with the support of Thomas Pocklington Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website: http://www.headstar.com/ten .
+
+++Issue 190 contents.
+
+Section One: News.
+01: A “tax on accessible books”: mixed emotions at
+Marrakesh Treaty progress. - EU agreement reached, but with a compromise on
+‘compensation schemes’.
+
+02: New accessible ATM app points users in the right direction. - Locator
+app tracks down cash machines designed for visually impaired users.
+
+03: ‘Smart cities’ are not inclusive – but they can be, new research
+claims. - Emerging city tech represents huge opportunity for citizens with
+disabilities.
+
+News in Brief: 04: Tokyo Standards – Paralympic and Olympic accessibility
+guidelines; 05: Cultural Shift – e-Accessible culture at European Forum;
+06: Airborne Inclusion – New in-flight entertainment system launched.
+
+Section Two: The Inbox – Readers’ Forum.
+07: iPlayer Access – Navigating an audio description service.
+
+Section Three: Analysis – EU accessibility legislation.
+08: Keeping the public sector accessible.
+
+An EU directive to make public sector websites and mobile apps more
+accessible could help 80 million European citizens with a disability.
+Carine Marzin – Consultant and Member of the European Disability Forum ICT
+Expert Group – delves into the details of the directive and explains how it
+can help open up digital content for a huge amount of people.
+
+[Contents ends].
+
+++Section One: News.
+
++01: A “tax on accessible books”: mixed emotions at Marrakesh Treaty
+progress.
+
+The latest agreement in the process of implementing the Marrakesh Treaty,
+which aims to help end the ‘book famine’ faced by blind and visually
+impaired people, has been met with a mixture of praise and frustration.
+
+The treaty aims to increase the availability of books in accessible
+formats, such as Braille and e-books, by relaxing copyright laws which make
+it difficult or time-consuming to share accessible books across different
+countries (read e-Access Bulletin’s previous coverage of the Marrakesh
+Treaty at the following link: http://eab.li/6j ).
+
+Work on implementing the Treaty has been taking place since its initial
+adoption in 2013, and earlier this month another milestone was reached with
+an agreement between the European Parliament, the European Commission and
+the Council of the European Union.
+
+The latest agreement on the text of the Treaty – currently still in draft
+form – states that accessible format books for use by blind and visually
+impaired persons can be shared across countries – as originally planned –
+and that further accessible book versions can be produced without needing
+to ask permission from the book’s copyright holder.
+
+This initially seemed like a cause for celebration by the many
+organisations that have been campaigning for increased accessible book
+access. However, one aspect of the agreement has proved a cause for
+concern. Part of the agreement is a compromise, whereby EU member state
+countries can choose to ask for financial ‘compensation’ from organisations
+and libraries that distribute accessible books, in order to protect the
+interests of those that hold the copyright to the book.
+
+One of many organisations unhappy at this aspect of the Treaty is the
+European Blind Union (EBU). David Hammerstein, EU advocate for the World
+Blind Union (the EBU is one of six regional bodies of the World Blind
+Union), told e-Access Bulletin that although the EBU is pleased with the
+main agreement, which represents “an important step toward ending the ‘book
+famine’” faced by visually impaired people, the EBU “actively opposes” the
+compensation element, labelling it a “tax on accessible books”.
+
+Explaining the compensation aspect, Hammerstein said: “It increases costs
+for blind persons’ organisations and creates legal uncertainty for
+cross-border exchange, because book providers need to know the law in other
+countries. It also means that there will be no unified, harmonised rule in
+the European Union, creating confusion and complexity. It is false to call
+[this aspect] ‘compensation schemes’, because there is no economic loss to
+be compensated and governments have never shown any substantial damage done
+to publishers by accessible formatted works.”
+
+These ‘compensation schemes’ are optional, and countries do not have to use
+them, but Hammerstein said that a number of EU member states have already
+announced their decision to try and use them.
+
+To apply the compensation element, the Treaty says that there must be proof
+that distributing accessible format versions of a book causes more than
+“minimal damage” to the book’s rightsholder. In a press release on the
+decision, the EBU state that they will fight compensation schemes which do
+not present this proof: “[If this happens] we shall take legal action
+against member states for violation of this Directive and the UN Convention
+on the Rights of Persons with Disabilities.”
+
+A joint statement by the International Federation of Library Associations
+and the European Bureau of Library, Information and Documentation
+Associations also opposes the compensation schemes, calling it a “major
+mistake”. The statement claims that, “Such schemes will reduce the ability
+of libraries and charities to serve print disabled people … It cynically
+disregards broader social and human rights objectives and does specific
+damage to the interests of print-disabled people and the institutions that
+serve them.”
+
+In order for these measures to be enforced, the European Parliament must
+approve this latest Treaty agreement in a plenary session. EU member states
+then have 12 months to “transpose the legislation into their laws,”
+Hammerstein said. Additionally, “the Council of the EU and the European
+Parliament must still ratify the Treaty,” Hammerstein said.
+
+Comment on this story now at e-Access Bulletin Live: http://eab.li/6s .
+
++02: New accessible ATM app points users in the right direction.
+
+A new app that helps blind and visually impaired users track down
+accessible ATMs has been launched.
+
+The free LINK ATM Locator lets users search for cash machines that have a
+range of usability features, including: audio assistance; wheelchair
+access; free-to-use ATMs; £5 note dispensing; mobile phone top-up
+facilities; and PIN number management.
+
+The app then tells users where to find the nearest ATM based on their
+requirements and guides them to the machine through Google and Apple Maps,
+via a walking, driving or public transport route.
+
+ATM network operator LINK and sight loss charity Thomas Pocklington Trust
+developed the app together after the Trust approached LINK in 2016 to
+discuss the idea. LINK confirmed that it was already looking into such an
+app and began working with the Trust.
+
+Thomas Pocklington Trust then carried out user-testing with blind and
+visually impaired users, to ensure the app’s accessibility with Apple and
+Android screen-readers.
+
+Mary Buffee, Head of Consumer Affairs at LINK, told e-Access Bulletin more
+about how the app works with these screen-readers: “Certain adaptations
+have been made to the app when VoiceOver or TalkBack are switched on. For
+example, a list view of ATMs is created and read aloud, starting with the
+ATM nearest to the user, as opposed to a map with icons that is displayed
+for sighted users.”
+
+As well as locating their nearest ATMs, users can also search for cash
+machines in a different area and report machines that don’t work properly
+or fail to provide stated accessibility features.
+
+Speaking about the feedback function, Buffee said: “There are a range of
+areas customers can give feedback on, from ATM location to the safety and
+security of the machines … LINK will listen to feedback from customers and
+consumer groups about the app, and will look to develop it in the future if
+there is a specific consumer need.”
+
+Users can also leave positive feedback and save specific ATMs to a
+‘favourites’ list. The LINK Locator app then alerts users when they pass a
+favourite ATM.
+
+Marsha de Cordova, Engagement and Advocacy Director at Thomas Pocklington
+Trust, told e-Access Bulletin that the Trust was thrilled to work with LINK
+on the app. She said: “It is vital that technology is accessible. LINK
+involved the Trust at every stage of development, ensuring that
+accessibility remained a priority, and they have been open to all of our
+suggestions and feedback. We hope that other organisations follow in LINK’s
+footsteps to make sure apps are accessible to all.”
+
+Download the app for Apple devices at the Apple Store: http://eab.li/6d .
+
+Download the app for Android devices at the Google Play Store:
+http://eab.li/6c .
+
+Read more about Thomas Pocklington Trust at the charity’s website:
+http://eab.li/6e .
+
+Comment on this story now at e-Access Bulletin Live: http://eab.li/6r .
+
++03: ‘Smart cities’ are not inclusive – but they can be, new research
+claims.
+
+‘Smart cities’ are not serving the needs of people with disabilities and
+older people, and risk deepening an existing digital divide, according to
+new, in-depth research.
+
+Smart cities are loosely defined as cities that integrate digital
+technologies into their infrastructure to transform and improve the lives
+of citizens and landscapes.
+
+In 2016, G3ict (the Global Initiative for Inclusive ICTs) and non-profit
+initiative World Enabled (which works to protect the rights of people with
+disabilities) launched a research project to assess ICT accessibility in
+smart cities around the world. Over 250 experts and smart city program
+managers were surveyed and interviewed, with around 60% claiming that smart
+cities were failing people with disabilities. Only 18% of respondents knew
+of a smart city that uses ICT accessibility standards
+
+As a result of the findings, G3ict and World Enabled have just launched a
+Smart Cities for All Toolkit, featuring four digital tools to help those
+involved in city planning to make future technology projects more
+inclusive.
+
+James Thurston, Vice President for Global Strategy and Development at
+G3ict, told e-Access Bulletin that the toolkit was developed specifically
+to address the key barriers to digital inclusion within smart cities. He
+said: “Smart cities are positioning themselves as more competitive, more
+inclusive, and more ‘liveable.’ However, we want to make sure that they
+don’t leave our one out of seven city residents that may live with a
+disability.”
+
+Dr. Victor Pineda, President and Founder of World Enabled, told e-Access
+Bulletin about some of the biggest barriers that people with disabilities
+and older people face in smart cities projects: “User interface is a big
+problem, but so is the lack of data being generated on or by persons with
+disabilities. Both are problems we know must be addressed.”
+
+The Smart Cities for All toolkit contains the following documents: a guide
+to implementing priority ICT accessibility standards; a guide to adopting
+an ICT accessibility procurement policy; advice on communicating the case
+for stronger commitment to digital inclusion in cities; and, a database of
+solutions for digital inclusion in cities.
+
+Dr. Pineda explained how these tools can be used to increase digital
+inclusion within cities: “We created a communications tool to help city
+leaders promote or upsell digital accessibility within the IT departments
+and generate more buy-in for digital inclusion and accessibility.  This
+tool helps make the case for digital inclusion from both a human rights and
+a business perspective.”
+
+Crucially, smart cities and the technologies used in them represent a huge
+opportunity to benefit citizens with disabilities and older citizens.
+“There is no reason why the newly built digital infrastructure cities are
+deploying should be leaving people behind,” Dr. Pineda said.
+
+A summary of the research on the G3ict site further explains how smart city
+digital services can be made more accessible: “Content can be made
+available in multiple formats and languages, services can be offered
+remotely to home-bound or geographically isolated citizens, digital formats
+can serve multiple disabilities, and interact with a broad range of
+assistive technologies.”
+
+The next steps for the project involve building a ‘digital inclusion
+maturity model’. Thurston said: “With this new tool, cities will be able to
+assess where they currently stand on ICT accessibility and digital
+inclusion and then build a roadmap for improvement.”
+
+Additionally, the tools are being translated into different languages to
+allow increased use across the world. “Just recently we released the tools
+in Portuguese because we see so much innovative work on smart cities in
+Brazil and Portugal,” Dr. Pineda said.
+
+Read more about the Smart Cities for All project and toolkit at the link
+below: http://eab.li/6l .
+
+Find out more about G3ict at the link below: http://eab.li/6m .
+
+Find out more about World Enabled at the link below: http://eab.li/6n .
+
+Comment on this story now at e-Access Bulletin Live: http://eab.li/6q .
+
+++News in Brief:
+
++04: Tokyo Standards: All websites of the Tokyo 2020 Paralympic and Olympic
+Games “must meet W3C [the World Wide Web Consortium] Accessibility
+Guidelines,” according to official accessibility standards released by the
+Games’ Organising Committee. The guidance also states that web content
+should be checked as standards are updated, and that audio versions of any
+official Olympic publications should be specially created and released on
+“W3C compatible websites”, or as podcasts or MP3 files, as well as offering
+Braille and large-print versions.
+
+Read more about website accessibility for the Tokyo 2020 Paralympic and
+Olympic Games: http://eab.li/6h .
+
++05: Cultural Shift: Increasing the digital accessibility of cultural
+institutions, creating accessible e-books and “disability as a driver of
+creativity” are all topics to be discussed at the eleventh European
+e-Accessibility Forum, held in Paris on June 19. The theme for the Forum is
+“e-Accessible Culture” and the event will explore how technology can make
+cultural and artistic services, venues and products more inclusive.
+Speakers include, Sandrine Sophys-Véret from the French Ministry of Culture
+and Communication, and Alex Bernier, Director of BrailleNet. Further
+details and information on registration can be found at the link below.
+
+Read more about the eleventh European e-Accessibility Forum at the event
+website: http://eab.li/6i .
+
++06: Airborne Inclusion: An in-flight entertainment system designed for
+passengers who are blind or visually impaired has been launched by Virgin
+Australia Airlines on two models of aircraft from its fleet. The new
+interface includes voice prompts, simplified screen layouts and larger
+icons, as well as allowing visually impaired passengers to easily access
+flight information, such as the time and distance remaining to their
+destination.
+
+Read more about the new in-flight system at Virgin Australia’s website:
+http://eab.li/6f .
+
+[Section One ends].
+
+++ Notice: Thomas Pocklington Trust.
+
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+++Section Two: The Inbox - Readers’ Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
++07: iPlayer Access: Regular Bulletin correspondent Brian Gaff gets in
+touch with a query about using audio description in the BBC’s iPlayer
+catch-up television service:
+
+“In the new-look BBC iPlayer, does anyone have any idea how a person
+selects audio description before the content starts to play and drowns out
+a screen-reader? If there was somebody at the BBC who could be emailed, it
+would be very helpful.”
+
+Please send any advice or solutions to: eaccessbulletin@gmail.com .
+
+[Section Two ends].
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on The
+Early Edition programme. Hear more about the bulletin and upcoming content
+appearing in each issue, as we discuss the latest accessible technology
+news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
+http://eab.li/3e .
+
+Find out more at the RNIB Connect Radio website: http://eab.li/1h .
+
+[Notice ends].
+
+++Section Three: Analysis. - EU accessibility legislation.
+
++08: Keeping the public sector accessible.
+
+By Carine Marzin.
+
+The EU directive on making the websites and mobile apps of public sector
+bodies more accessible was adopted at the end of 2016 and is the very first
+piece of EU legislation on digital accessibility. It will benefit over 500
+million European citizens, including an estimated 80 million Europeans
+living with a disability, by making digital content from the public sector
+across Europe more accessible.
+
+Governments will have to check that public sector bodies consistently
+adhere to the accessibility standards and there will be a new enforcement
+procedure, making it easier for members of the public to complain about
+inaccessible content and get the situation resolved.
+
+(For background information on the directive, read e-Access Bulletin’s
+coverage in previous issues at the following link: http://eab.li/6k .)
+
+This is a ‘minimum harmonisation’ directive, setting out minimum
+accessibility requirements for websites and mobile apps that all public
+sector bodies in all 28 EU member states must meet. Governments are able
+and encouraged to go above and beyond these minimum requirements.
+
+- When will the directive be in force?
+
+The directive has to be transposed into national law in all EU member
+states by September 23, 2018. All websites created after that date will
+have to be accessible by September 23, 2019. Existing websites will have to
+comply by September 23, 2020. All mobile applications will have to be
+accessible by June 23, 2021.
+
+The directive applies to state, regional and local authorities, but also to
+bodies ‘governed by public law’ such as hospitals or universities.
+Importantly, governments can extend the accessibility requirements in the
+directive to private companies offering facilities and services to the
+public, such as transport, utilities, electronic communication services and
+postal services.
+
+- Accessibility requirements and exemptions.
+
+The European Commission will publish the technical specifications that
+public sector bodies will have to meet by December 23, 2018. In the
+meantime, the public sector will need to comply with clauses from an
+existing European standard on procuring accessible ICT.
+
+The directive does not apply to websites and mobile applications of public
+service broadcasters and their subsidiaries.
+
+Some types of content are temporarily excluded from the scope of the
+directive if they are not needed for administrative processes. Examples
+include: office file formats (such as PDF documents) published before
+September 23, 2018; pre-recorded time-based media (such as audio-only and
+video-only) if published before September 23, 2020; and the content of
+archived websites. However, public sector bodies will still have to make
+this content accessible on request.
+
+Content of extranets and intranets published before September 23, 2019 is
+also excluded from the new accessibility directive, unless a substantial
+revision of the systems takes place.
+
+Permanent exclusions to the directive include live, time-based media, plus
+online maps and mapping services (as long as essential information is
+provided, such as a postal address or information about nearby public
+transport). Other exclusions include some third-party content. For example,
+user-generated content, such as a photo without alternative text or a video
+without captions posted on a forum – these examples would both be exempt
+from the directive’s accessibility requirements, but the forum itself would
+have to be accessible.
+
+The directive also includes a provision explaining that delivering
+accessibility requirements should not impose a “disproportionate burden”
+for public sector bodies. However, the right to invoke this principle is
+limited. For example, lack of priority, time or knowledge will not be
+accepted as legitimate reasons.
+
+It is important to note that the requirements in this directive are in
+addition to accessibility requirements in the United Nations Convention on
+the Rights of Persons with Disabilities, as well as requirements introduced
+by new EU legislation on public procurement in 2016. The latter of these
+makes accessibility a mandatory criterion for all public procurement
+intended for use by the general public, or staff of any contracting
+authority, and is a powerful lever to deliver more accessibility.
+
+- Keeping updated and public feedback.
+
+Governments will have to ensure that public sector bodies provide and
+regularly update a detailed, comprehensive and clear accessibility
+statement on their websites and mobile applications. Furthermore, a
+feedback mechanism will enable anyone to notify a public sector
+organisation if a website or mobile application is inaccessible, and to
+request accessible content instead. Public sector bodies will be required
+to give an “adequate response” to these notifications or requests “within a
+reasonable period of time,” as well as providing information about the
+enforcement procedure.
+
+- Enforcement.
+
+Governments have to ensure that there is an “adequate and effective
+enforcement procedure” for the directive – this will be defined at national
+level. Governments will also have to designate a national authority to
+monitor and enforce the new rules. In many countries, such as the UK, going
+to court was, until now, the only way to seek a solution to inaccessible
+public sector digital content, and for most people, the cost of litigation
+was a barrier. The new enforcement procedure will give everyone an
+alternative, non-judicial avenue to seek a solution, by submitting
+complaints to a national authority.
+
+Additionally, governments will have to promote and facilitate training
+programmes on website and mobile app accessibility for relevant
+stakeholders. Governments will also monitor compliance with the
+accessibility requirements in the directive. Experts are currently working
+with the European Commission to develop a monitoring methodology.
+
+- Carine Marzin is a Consultant and Member of the European Disability Forum
+- ICT Expert Group. Follow Carine on Twitter: @CarineMarzin .
+
+Comment on this story now at e-Access Bulletin Live: http://eab.li/6o .
+
+[Section Three ends]
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com . Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive: http://www.headstar.com/eab/archive.html .
+
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited: http://www.headstar.com/eablive .
+
++Personnel:
+
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+Accessibility Advisor: Dr. Nick Freear
+
+ISSN 1476-6337.
+
+[Issue 190 ends.]

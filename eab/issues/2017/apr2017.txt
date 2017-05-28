@@ -2,16 +2,28 @@
 Access to technology for all, regardless of ability.
 - ISSUE 189, April 2017.
 
-Produced with the support of Thomas Pocklington Trust:
+An HTML version of this issue of e-Access Bulletin is available at the
+following link:
+http://eab.li/6b .
+
+For HTML and text versions of all previous e-Access Bulletin issues, please
+visit the Bulletin Archive at the following link:
+http://eab.li/6a .
+Thanks to Dr. Nick Freear for maintaining the Bulletin Archive.
+
+e-Access Bulletin is produced with the support of Thomas Pocklington Trust:
 http://www.pocklington-trust.org.uk .
 
-To forward this free publication to others, use our forward link underneath the end of the bulletin instead of your email application’s ‘forward’ button. Please encourage others to subscribe at our sign-up page below:
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
 http://lists.headstar.com .
 
 Please email questions, comments, article ideas and news leads to:
 eaccessbulletin@gmail.com .
 
-E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN) Standard. Visit the TEN Standard website:
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
 http://www.headstar.com/ten .
 
 
@@ -22,18 +34,27 @@ Section One: News.
 - Online access lower for disabled Americans in all age groups.
 
 02: Countdown to the UK release of the first Braille smartwatch.
-- Users can receive notifications from services like WhatsApp and Google Maps.
+- Users can receive notifications from services like WhatsApp and Google
+Maps.
 
 03: Let’s educate the supply chain, says Barclays head of accessibility.
 - Digital equality still seen as “burdensome” by some, claims expert.
 
 
-News in Brief: 04: Broadening Braille – ‘Multi-line’ e-reader; 05: Online Health – NHS ‘pathfinder’ projects; 06: Connected Marathon – Blind runner uses ‘visual interpreter’.
+News in Brief: 04: Broadening Braille – ‘Multi-line’ e-reader; 05:
+Online Health – NHS ‘pathfinder’ projects; 06: Connected Marathon –
+Blind runner uses ‘visual interpreter’.
 
 
-Section Two: Report – Web accessibility for people who are deaf or hard of hearing.
+Section Two: Report – Web accessibility for people who are deaf or hard
+of hearing.
 07: Sounding out the web.
-People who are deaf or hard of hearing sometimes get overlooked in discussions about web accessibility, but there are numerous factors that can negatively affect – or entirely prohibit –the online experience if you have a hearing impairment. Accessibility consultant David Swallow speaks to Ruth MacMullen, who was born deaf, about online barriers and what can be done to fix them.
+People who are deaf or hard of hearing sometimes get overlooked in
+discussions about web accessibility, but there are numerous factors that
+can negatively affect – or entirely prohibit –the online experience if
+you have a hearing impairment. Accessibility consultant David Swallow
+speaks to Ruth MacMullen, who was born deaf, about online barriers and what
+can be done to fix them.
 
 [Contents ends].
 
@@ -42,21 +63,51 @@ People who are deaf or hard of hearing sometimes get overlooked in discussions a
 
 +01: Age doesn’t bridge the digital skills chasm, new research reveals.
 
-Americans with disabilities are using technology at a lower rate than those without a disability – including teenagers and younger citizens – research has found.
+Americans with disabilities are using technology at a lower rate than those
+without a disability – including teenagers and younger citizens –
+research has found.
 
-In the report, conducted by the United States-based Pew Research Center (which defines itself as a “nonpartisan fact tank”), those with disabilities in the two age groups measured (18-64 and over 65) showed similarly low levels of technology ownership, compared to those without disabilities.
+In the report, conducted by the United States-based Pew Research Center
+(which defines itself as a “nonpartisan fact tank”), those with
+disabilities in the two age groups measured (18-64 and over 65) showed
+similarly low levels of technology ownership, compared to those without
+disabilities.
 
-67% of respondents with a disability aged 18-64 owned a desktop computer or laptop, compared to 84% of people without a disability – a difference of 17%. In the ‘over 65’ group, this difference figure was 16%.
+67% of respondents with a disability aged 18-64 owned a desktop computer or
+laptop, compared to 84% of people without a disability – a difference of
+17%. In the ‘over 65’ group, this difference figure was 16%.
 
-Similarly, 70% of disabled respondents aged 18-64 owned a smartphone, compared to 87% of those without a disability – a difference of 17% again. For those aged over 65, the difference was 13%.
+Similarly, 70% of disabled respondents aged 18-64 owned a smartphone,
+compared to 87% of those without a disability – a difference of 17%
+again. For those aged over 65, the difference was 13%.
 
-To give some context to these findings, the report explains that “the disabled population” is disproportionately comprised of seniors, an age group which has lower levels of digital adoption than the rest of the United States. However, despite the fact that younger disabled Americans are more likely to have home broadband and own digital devices, this group is still much less likely to use digital technology than those without disabilities.
+To give some context to these findings, the report explains that “the
+disabled population” is disproportionately comprised of seniors, an age
+group which has lower levels of digital adoption than the rest of the
+United States. However, despite the fact that younger disabled Americans
+are more likely to have home broadband and own digital devices, this group
+is still much less likely to use digital technology than those without
+disabilities.
 
-The report also found that adults with a disability are less likely to own multiple digital devices that allow them to get online. The report states: “One-in-four disabled adults say they have high-speed internet at home, a smartphone, a desktop or laptop computer and a tablet, compared with 42% of those who report not having a disability.”
+The report also found that adults with a disability are less likely to own
+multiple digital devices that allow them to get online. The report states:
+“One-in-four disabled adults say they have high-speed internet at home, a
+smartphone, a desktop or laptop computer and a tablet, compared with 42% of
+those who report not having a disability.”
 
-Another key finding from the report was that Americans with disabilities are almost three times more likely to say they never go online as those without a disability: 23% compared with 8%.
+Another key finding from the report was that Americans with disabilities
+are almost three times more likely to say they never go online as those
+without a disability: 23% compared with 8%.
 
-These results are based on two surveys conducted by Pew in 2016. At that time, figures from the Census Bureau claimed 16% of adults reported living with a disability – defined in the research as a “health problem, disability or handicap currently keeping you from participating fully in work, school, housework or other activities.” That number is now estimated to be 19%. As the Pew research points out, “It is important to note that there are various forms of disabilities, often ranging in severity, so this question is meant to be a broad look at disabled Americans.”
+These results are based on two surveys conducted by Pew in 2016. At that
+time, figures from the Census Bureau claimed 16% of adults reported living
+with a disability – defined in the research as a “health problem,
+disability or handicap currently keeping you from participating fully in
+work, school, housework or other activities.” That number is now
+estimated to be 19%. As the Pew research points out, “It is important to
+note that there are various forms of disabilities, often ranging in
+severity, so this question is meant to be a broad look at disabled
+Americans.”
 
 Read more about the report at the Pew Research Center website:
 http://eab.li/5r .
@@ -67,19 +118,43 @@ http://eab.li/69 .
 
 +02: Countdown to the UK release of the first Braille smartwatch.
 
-The first Braille smartwatch for visually impaired people is planned to be shipped out to customers in May, after initially taking around 140,000 orders from customers around the world.
+The first Braille smartwatch for visually impaired people is planned to be
+shipped out to customers in May, after initially taking around 140,000
+orders from customers around the world.
 
-The Dot Watch lets users read messages through four Braille characters on the watch face. It connects to a user’s phone via Bluetooth and can then receive messages and notifications from services and apps on the phone, such as WhatsApp, Google Maps or traditional SMS texts.
+The Dot Watch lets users read messages through four Braille characters on
+the watch face. It connects to a user’s phone via Bluetooth and can then
+receive messages and notifications from services and apps on the phone,
+such as WhatsApp, Google Maps or traditional SMS texts.
 
-Users can send messages, scroll through notifications and switch between functions using two buttons and a dial on the side of the device. As well as featuring traditional watch functions (such as a stopwatch and alarm), the Dot device also alerts users to incoming phone calls and lets them know who is calling.
+Users can send messages, scroll through notifications and switch between
+functions using two buttons and a dial on the side of the device. As well
+as featuring traditional watch functions (such as a stopwatch and alarm),
+the Dot device also alerts users to incoming phone calls and lets them know
+who is calling.
 
-The Dot Watch was designed by South Korean technology startup Dot, founded by Eric Kim. The device has been in development for several years, and has gone through various changes and improvements after being tested by visually impaired users.
+The Dot Watch was designed by South Korean technology startup Dot, founded
+by Eric Kim. The device has been in development for several years, and has
+gone through various changes and improvements after being tested by
+visually impaired users.
 
-Although the watch is available to pre-order, it has not yet been publicly released or shipped out in the UK, as further testing is still taking place. Alex Lee, Sales and Marketing Director at Dot, told e-Access Bulletin that the company is “awaiting further beta test feedback from various institutions and individuals from across the globe” before confirming an exact release date, but said that Dot is working towards shipping watches to customers in mid-late May.
+Although the watch is available to pre-order, it has not yet been publicly
+released or shipped out in the UK, as further testing is still taking
+place. Alex Lee, Sales and Marketing Director at Dot, told e-Access
+Bulletin that the company is “awaiting further beta test feedback from
+various institutions and individuals from across the globe” before
+confirming an exact release date, but said that Dot is working towards
+shipping watches to customers in mid-late May.
 
-Lee said that pricing for the Dot Watch in the UK will be "starting from £350 and subject to changes pending software and hardware improvements before release."
+Lee said that pricing for the Dot Watch in the UK will be "starting from
+£350 and subject to changes pending software and hardware improvements
+before release."
 
-Speaking about other future Dot projects, Lee said that other “lifestyle improvements for the vision-impaired and deafblind communities” were being explored. Lee claimed that the cell technology used in the Dot Watch is leading the company towards a ‘full-fledged tablet-like device that will be our next flagship project.”
+Speaking about other future Dot projects, Lee said that other “lifestyle
+improvements for the vision-impaired and deafblind communities” were
+being explored. Lee claimed that the cell technology used in the Dot Watch
+is leading the company towards a ‘full-fledged tablet-like device that
+will be our next flagship project.”
 
 Find out more about the Dot Watch at the Dot website:
 http://eab.li/65 .
@@ -90,19 +165,52 @@ http://eab.li/68 .
 
 +03: Let’s educate the supply chain, says Barclays head of accessibility.
 
-Suppliers to businesses often struggle with the concept of accessibility, particularly when providing technology products and services, the head of accessibility at a major UK bank told delegates at a recent event.
+Suppliers to businesses often struggle with the concept of accessibility,
+particularly when providing technology products and services, the head of
+accessibility at a major UK bank told delegates at a recent event.
 
-Speaking at a technology-focused session at the Business Disability Forum (BDF) Conference on ‘Disability-smart suppliers and partners’, Paul Smyth – head of accessibility at Barclays – said that there is a need for businesses to explain the principles behind accessibility to their suppliers: “[Suppliers] are new to accessibility, so we need to spend a lot of time talking about the ‘why’, what we mean by accessibility and about why it’s important to us.”
+Speaking at a technology-focused session at the Business Disability Forum
+(BDF) Conference on ‘Disability-smart suppliers and partners’, Paul
+Smyth – head of accessibility at Barclays – said that there is a need
+for businesses to explain the principles behind accessibility to their
+suppliers: “[Suppliers] are new to accessibility, so we need to spend a
+lot of time talking about the ‘why’, what we mean by accessibility and
+about why it’s important to us.”
 
-One reason for this was a lack of understanding of accessibility requirements, Smyth said, citing the widely used Web Content Accessibility Guidelines (WCAG) as an example. He said: “[WCAG] is very long and technical. ‘Techies’ understand it, but salespeople and suppliers don’t, project managers and business people don’t. So [Barclays] has spent a lot of time re-engineering and creating better summaries, to create a consistent understanding [for those people].”
+One reason for this was a lack of understanding of accessibility
+requirements, Smyth said, citing the widely used Web Content Accessibility
+Guidelines (WCAG) as an example. He said: “[WCAG] is very long and
+technical. ‘Techies’ understand it, but salespeople and suppliers
+don’t, project managers and business people don’t. So [Barclays] has
+spent a lot of time re-engineering and creating better summaries, to create
+a consistent understanding [for those people].”
 
-Smyth also said that accessibility is often still seen as a hassle by some, who meet minimum accessibility requirements out of obligation, and little more: “I think that in the tech space, accessibility has got a bad reputation. It comes from a history of seeing accessibility as a bureaucratically burdensome compliance checklist,” he said.
+Smyth also said that accessibility is often still seen as a hassle by some,
+who meet minimum accessibility requirements out of obligation, and little
+more: “I think that in the tech space, accessibility has got a bad
+reputation. It comes from a history of seeing accessibility as a
+bureaucratically burdensome compliance checklist,” he said.
 
-Smyth went on to point out that accessibility can also offer significant business benefits, which not all suppliers realise. “As our accessibility agenda has matured, as our thinking has matured, we have come to realise that, yes, [accessibility] is a legal obligation, but there is a huge commercial opportunity of finding innovation from the edges … It’s about providing a positive experience for a greater number of people and avoiding unwitting exclusion, and making sure that in the shiny new digital channels and content and apps and cash machines we’re building, no one gets left out or left behind.”
+Smyth went on to point out that accessibility can also offer significant
+business benefits, which not all suppliers realise. “As our accessibility
+agenda has matured, as our thinking has matured, we have come to realise
+that, yes, [accessibility] is a legal obligation, but there is a huge
+commercial opportunity of finding innovation from the edges … It’s
+about providing a positive experience for a greater number of people and
+avoiding unwitting exclusion, and making sure that in the shiny new digital
+channels and content and apps and cash machines we’re building, no one
+gets left out or left behind.”
 
-Smyth also talked about the importance of thorough user-testing to ensure that digital products and services are usable by as many customers as possible, whether those customers have a disability or otherwise: “We have to involve and consult with a wide range of users, and actually we need to shift our perspective. It’s not just about disabled people, but about designing for difference.”
+Smyth also talked about the importance of thorough user-testing to ensure
+that digital products and services are usable by as many customers as
+possible, whether those customers have a disability or otherwise: “We
+have to involve and consult with a wide range of users, and actually we
+need to shift our perspective. It’s not just about disabled people, but
+about designing for difference.”
 
-The Business Disability Forum Conference on ‘Disability-smart suppliers and partners’ took place on April 11 in London. Read more about the Business Disability Forum, including resources for employers and suppliers:
+The Business Disability Forum Conference on ‘Disability-smart suppliers
+and partners’ took place on April 11 in London. Read more about the
+Business Disability Forum, including resources for employers and suppliers:
 http://eab.li/63 .
 
 Comment on this story now at e-Access Bulletin Live:
@@ -111,37 +219,64 @@ http://eab.li/67 .
 
 ++News in Brief:
 
-+04: Broadening Braille: A ‘multi-line’ Braille e-reader – featuring 360 cells spread over nine lines of 40 characters – is reported to be going on sale towards the end of 2017, after years in development. The Canute has been developed by non-profit UK organisation Bristol Braille Technology and will cost around £600, which its developers claim is “20 times cheaper per cell than existing Braille devices.”
++04: Broadening Braille: A ‘multi-line’ Braille e-reader – featuring
+360 cells spread over nine lines of 40 characters – is reported to be
+going on sale towards the end of 2017, after years in development. The
+Canute has been developed by non-profit UK organisation Bristol Braille
+Technology and will cost around £600, which its developers claim is “20
+times cheaper per cell than existing Braille devices.”
 
 Read more at the Bristol Braille Technology website:
 http://eab.li/61 .
 
 
-+05: Online Health: A series of ‘pathfinder’ projects led by the NHS will help digitally excluded groups around the UK learn how to access health information and health services online. Work that focuses on people with learning disabilities in north London and older people in Sheffield are two of the projects in the next phase of the Widening Digital Participation programme, organised by NHS Digital and digital inclusion charity the Good Things Foundation.
++05: Online Health: A series of ‘pathfinder’ projects led by the NHS
+will help digitally excluded groups around the UK learn how to access
+health information and health services online. Work that focuses on people
+with learning disabilities in north London and older people in Sheffield
+are two of the projects in the next phase of the Widening Digital
+Participation programme, organised by NHS Digital and digital inclusion
+charity the Good Things Foundation.
 
 Read more at the Good Things Foundation website:
 http://eab.li/60 .
 
 
-+06: Connected Marathon: A legally blind man has used ‘visual interpreter’ technology to help him run and complete the Boston Marathon. Erich Manser (who has retinitis pigmentosa, an inherited eye condition) used a system built by technology company Aira during the race, which fed a live video of his route back to a sighted navigator, who then directed Manser via his Bluetooth headset. Manser also wore a Google Glass set during the race to feed the live video back to the navigator.
++06: Connected Marathon: A legally blind man has used ‘visual
+interpreter’ technology to help him run and complete the Boston Marathon.
+Erich Manser (who has retinitis pigmentosa, an inherited eye condition)
+used a system built by technology company Aira during the race, which fed a
+live video of his route back to a sighted navigator, who then directed
+Manser via his Bluetooth headset. Manser also wore a Google Glass set
+during the race to feed the live video back to the navigator.
 
-Read a full report of the race and the technology at Erich Manser’s Facebook page:
+Read a full report of the race and the technology at Erich Manser’s
+Facebook page:
 http://eab.li/62 .
+
 
 [Section One ends].
 
 
 ++ Notice: Thomas Pocklington Trust.
-E-Access Bulletin is brought to you with the kind support of Thomas Pocklington Trust, a national charity delivering positive change for people with sight loss. Find out more about the work of Thomas Pocklington Trust by visiting their website:
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for people
+with sight loss. Find out more about the work of Thomas Pocklington Trust
+by visiting their website:
 http://www.pocklington-trust.org.uk .
 
 [Notice ends].
 
 
 ++ Notice: RNIB Connect Radio and e-Access Bulletin.
-e-Access Bulletin will be appearing on RNIB Connect Radio each month on The Early Edition programme. Hear more about the bulletin and upcoming content appearing in each issue, as we discuss the latest accessible technology news and readers’ questions with Allan Russell.
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on The
+Early Edition programme. Hear more about the bulletin and upcoming content
+appearing in each issue, as we discuss the latest accessible technology
+news and readers’ questions with Allan Russell.
 
-Episodes will be available after broadcast as podcasts from the RNIB Connect Radio site. Listen to RNIB Connect Radio online, or via television, smartphone or radio. Listening details at the following link:
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via television,
+smartphone or radio. Listening details at the following link:
 http://eab.li/3e .
 
 Find out more at the RNIB Connect Radio website:
@@ -152,72 +287,154 @@ http://eab.li/1h .
 
 ++Section Two: Report.
 - Web accessibility for people who are deaf or hard of hearing.
+
 +07: Sounding out the web.
 
 By David Swallow.
 
 - Editor’s note:
-This is a condensed version of a two-part article originally published on the blog of The Paciello Group, an international accessibility agency. Links to the original posts can be found at the end of this article. David Swallow is an Accessibility Associate at The Paciello Group.
+This is a condensed version of a two-part article originally published on
+the blog of The Paciello Group, an international accessibility agency.
+Links to the original posts can be found at the end of this article. David
+Swallow is an Accessibility Associate at The Paciello Group.
 - Editor’s Note ends.
 
-The largely visual nature of the web means that there’s a lot of focus on supporting people who are blind or partially sighted. But deaf and hard of hearing people are often overlooked. Ruth MacMullen, a copyright and licences officer at York St. John University, explains her experience of being deaf and how it affects her use of the web.
+The largely visual nature of the web means that there’s a lot of focus on
+supporting people who are blind or partially sighted. But deaf and hard of
+hearing people are often overlooked. Ruth MacMullen, a copyright and
+licences officer at York St. John University, explains her experience of
+being deaf and how it affects her use of the web.
 
-“It’s a matter of quite ferocious debate at times,” says Ruth on the topic of preferred naming for deafness and hearing loss. “For me, it depends on what sort of mood I’m in. If I’m feeling a bit shy about it, I think ‘hearing impaired’ sounds softer than ‘deaf’. Sometimes I say ‘hard of hearing’. That’s usually enough to tell people that you’ve got a problem hearing, that you need a bit of extra consideration.”
+“It’s a matter of quite ferocious debate at times,” says Ruth on the
+topic of preferred naming for deafness and hearing loss. “For me, it
+depends on what sort of mood I’m in. If I’m feeling a bit shy about it,
+I think ‘hearing impaired’ sounds softer than ‘deaf’. Sometimes I
+say ‘hard of hearing’. That’s usually enough to tell people that
+you’ve got a problem hearing, that you need a bit of extra
+consideration.”
 
-Ruth was born profoundly deaf, meaning she has little to no residual hearing. Powerful hearing aids later gave Ruth some hearing, and with the support of a speech and language therapist, she learned to speak. A combination of cochlear implants and hearing aids gave Ruth what she describes as “pretty reasonable hearing”.
+Ruth was born profoundly deaf, meaning she has little to no residual
+hearing. Powerful hearing aids later gave Ruth some hearing, and with the
+support of a speech and language therapist, she learned to speak. A
+combination of cochlear implants and hearing aids gave Ruth what she
+describes as “pretty reasonable hearing”.
 
-Although Ruth now has access to a variety of sounds, her hearing loss still affects her day-to-day life. She cites the example of working in a busy open-plan office, where spontaneous and informal conversations spring up. Ruth says: “A lot of information is shared by accident. I’m aware I miss all that. If there’s something important, people should try and draw you in, but it’s impossible to do that all the time. Accessibility is often built around structures and planning, isn’t it? So I think ‘unplanned accessibility’ is a really hard thing.”
+Although Ruth now has access to a variety of sounds, her hearing loss still
+affects her day-to-day life. She cites the example of working in a busy
+open-plan office, where spontaneous and informal conversations spring up.
+Ruth says: “A lot of information is shared by accident. I’m aware I
+miss all that. If there’s something important, people should try and draw
+you in, but it’s impossible to do that all the time. Accessibility is
+often built around structures and planning, isn’t it? So I think
+‘unplanned accessibility’ is a really hard thing.”
 
-A similar lack of structure and planning among many developers hinders Ruth’s ability to use the web. The growing number of videos shared online, particularly through Facebook Live, are rarely subtitled. Ruth says: “If subtitles aren’t possible, then at least provide a description of what the video is about. That’s increasingly missing as people get more casual about posting content.”
+A similar lack of structure and planning among many developers hinders
+Ruth’s ability to use the web. The growing number of videos shared
+online, particularly through Facebook Live, are rarely subtitled. Ruth
+says: “If subtitles aren’t possible, then at least provide a
+description of what the video is about. That’s increasingly missing as
+people get more casual about posting content.”
 
-Ruth recalls a video of Aretha Franklin that a friend shared on Facebook: “I see her playing the piano and think, ‘What song is she playing? There’s no description. It’s not that I need to hear every word, but sometimes I have no idea what’s happening.”
+Ruth recalls a video of Aretha Franklin that a friend shared on Facebook:
+“I see her playing the piano and think, ‘What song is she playing?
+There’s no description. It’s not that I need to hear every word, but
+sometimes I have no idea what’s happening.”
 
 Here, Ruth explains more about what makes life easier for her online.
 
 - Provide subtitles/captions.
-“Subtitles, that’s the really obvious one,” says Ruth. The term ‘subtitles’ typically refers only to spoken content, whereas ‘captions’ also includes descriptions of non-speech sounds, such as music, applause and laughter. Outside of North America, the terms are often used interchangeably.
+
+“Subtitles, that’s the really obvious one,” says Ruth. The term
+‘subtitles’ typically refers only to spoken content, whereas
+‘captions’ also includes descriptions of non-speech sounds, such as
+music, applause and laughter. Outside of North America, the terms are often
+used interchangeably.
 
 - Check the accuracy of captions.
 
-In the United States, YouTube and Facebook offer free automated video captioning, but since there aren’t any humans involved, the captions they produce can be wildly inaccurate. “I’ve seen captions where irrelevant and inappropriate words came up, including expletives,” says Ruth. “I was surprised there was no protection or filtering to stop that.”
+In the United States, YouTube and Facebook offer free automated video
+captioning, but since there aren’t any humans involved, the captions they
+produce can be wildly inaccurate. “I’ve seen captions where irrelevant
+and inappropriate words came up, including expletives,” says Ruth. “I
+was surprised there was no protection or filtering to stop that.”
 
-Google provides clear instructions on how you can review and edit automated captions on YouTube
+Google provides clear instructions on how you can review and edit automated
+captions on YouTube
 (link below to Google’s captioning advice:
 http://eab.li/5x ),
-but you also need to take the time to edit them, because automated captions are notoriously terrible to begin with. Ruth explains: “It makes such a difference to a deaf person if a little bit of effort has been made to clean up subtitles. You can see that they are so much more accurate.”
+but you also need to take the time to edit them, because automated captions
+are notoriously terrible to begin with. Ruth explains: “It makes such a
+difference to a deaf person if a little bit of effort has been made to
+clean up subtitles. You can see that they are so much more accurate.”
 
 - Make sure that captions are synchronised with the audio.
 
-One advantage of using automated captioning is that the captions are automatically synchronised to the audio. Some video makers choose to generate their captions from an existing transcript. And if you do that, you need to make sure that each line appears on screen at about the same time as the audio is heard. “When you’re deaf, you want the captions to run in time,” explains Ruth.
+One advantage of using automated captioning is that the captions are
+automatically synchronised to the audio. Some video makers choose to
+generate their captions from an existing transcript. And if you do that,
+you need to make sure that each line appears on screen at about the same
+time as the audio is heard. “When you’re deaf, you want the captions to
+run in time,” explains Ruth.
 
 - Provide a summary of audio and video content.
 
-Earlier, Ruth explained how a brief summary of what a video is about can be just as important as captions or a transcript. A video’s summary may be as simple as a list of topics or songs that the video includes, which Ruth likens to “alternative text for someone with a hearing impairment”.
+Earlier, Ruth explained how a brief summary of what a video is about can be
+just as important as captions or a transcript. A video’s summary may be
+as simple as a list of topics or songs that the video includes, which Ruth
+likens to “alternative text for someone with a hearing impairment”.
 
-Ruth recalls watching a concert on YouTube: “There’s a piano player playing Gershwin songs and I’ll think, ‘Which one do I want to listen to?’ I can’t skip through and listen to fragments, I need to know what’s in there before I make a choice to watch it. And I feel like I don’t have that choice if I don’t know what’s in it.”
+Ruth recalls watching a concert on YouTube: “There’s a piano player
+playing Gershwin songs and I’ll think, ‘Which one do I want to listen
+to?’ I can’t skip through and listen to fragments, I need to know
+what’s in there before I make a choice to watch it. And I feel like I
+don’t have that choice if I don’t know what’s in it.”
 
 - Make sure that audio doesn’t play automatically.
 
-Deaf and hard of hearing people may have a difficult time gauging how loud videos are, particularly when they play automatically and unexpectedly. If it’s unavoidable for audio to play automatically, make sure that users have an easy way to turn it off. “You see a video on your Facebook feed and there’s no sound”, explains Ruth. “If you click on it to make it big, the sound plays, but you don’t realise. Sometimes I have my hearing aid off and I feel like the video is blaring out sound.”
+Deaf and hard of hearing people may have a difficult time gauging how loud
+videos are, particularly when they play automatically and unexpectedly. If
+it’s unavoidable for audio to play automatically, make sure that users
+have an easy way to turn it off. “You see a video on your Facebook feed
+and there’s no sound”, explains Ruth. “If you click on it to make it
+big, the sound plays, but you don’t realise. Sometimes I have my hearing
+aid off and I feel like the video is blaring out sound.”
 
 - Structure your content.
 
-“I rely so much on visual information,” says Ruth. “The more clearly it is structured and explained, the better.” Using semantic HTML helps websites remain flexible and extensible. It makes the content reusable and conveys more meaning to assistive technologies. As Ruth points out, “This is good practice generally, but for people who are completely reliant on visual information it’s even more important.”
+“I rely so much on visual information,” says Ruth. “The more clearly
+it is structured and explained, the better.” Using semantic HTML helps
+websites remain flexible and extensible. It makes the content reusable and
+conveys more meaning to assistive technologies. As Ruth points out, “This
+is good practice generally, but for people who are completely reliant on
+visual information it’s even more important.”
 
 - Keep your content flexible.
 
-Underlying each of these suggestions is an emphasis on clear communication and flexibility of content. Mobile technology has proven particularly useful to Ruth in this respect. “I think if you speak to any person with a disability, they will tell you that an iPhone or an Apple Watch is a game changer,” says Ruth.
+Underlying each of these suggestions is an emphasis on clear communication
+and flexibility of content. Mobile technology has proven particularly
+useful to Ruth in this respect. “I think if you speak to any person with
+a disability, they will tell you that an iPhone or an Apple Watch is a game
+changer,” says Ruth.
 
-The benefit for Ruth is being able to curate information in a way that suits her. “I can’t hear a radio very well if it’s in a room, but if I plug in my Bluetooth headphones to my iPhone, I can listen to a radio programme. It’s a bit of a lifesaver in terms of being able to get information and content, and modify it in a way that works for me.”
+The benefit for Ruth is being able to curate information in a way that
+suits her. “I can’t hear a radio very well if it’s in a room, but if
+I plug in my Bluetooth headphones to my iPhone, I can listen to a radio
+programme. It’s a bit of a lifesaver in terms of being able to get
+information and content, and modify it in a way that works for me.”
 
-Content that’s flexible enough to be delivered by captions, indexed by transcripts, enlarged by screen magnifiers, and rendered by screen-readers is a key principle of web accessibility. And while many of the tips in this post are useful for deaf and hard of hearing people, they ultimately benefit everyone.
+Content that’s flexible enough to be delivered by captions, indexed by
+transcripts, enlarged by screen magnifiers, and rendered by screen-readers
+is a key principle of web accessibility. And while many of the tips in this
+post are useful for deaf and hard of hearing people, they ultimately
+benefit everyone.
 
 -Article ends, information links below:
 
 Read more about Ruth’s experiences and work at her blog:
 http://eab.li/5s .
 
-This article is a condensed version of two pieces that appeared on The Paciello Group’s website. Links to the original posts are below:
+This article is a condensed version of two pieces that appeared on The
+Paciello Group’s website. Links to the original posts are below:
 
 Read part one of ‘Sounding out the web’:
 http://eab.li/5v .
@@ -225,7 +442,8 @@ http://eab.li/5v .
 Read part two of ‘Sounding out the web’:
 http://eab.li/5w .
 
-Read more of The Paciello Group’s accessibility blogs at the company’s website:
+Read more of The Paciello Group’s accessibility blogs at the company’s
+website:
 http://eab.li/5t .
 
 Find out more about David Swallow’s accessibility work at his website:
@@ -249,17 +467,27 @@ Please encourage others to sign-up!
 Please send requests, comments and ideas for news or features to:
 eaccessbulletin@gmail.com .
 
-To forward this free publication to others, use our forward link underneath the end of the bulletin instead of your email application’s ‘forward’ button.
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button.
 
-Previous issues of E-Access Bulletin can be viewed in text or HTML format at the following online archive:
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
 http://www.headstar.com/eab/archive.html .
 
-E-Access Bulletin may be reproduced as long as all parts, including this copyright notice, are included, and as long as people are always encouraged to subscribe with us individually by email. Please also inform the editor when you are reproducing our content. Sections of the bulletin may be quoted as long as they are clearly sourced as 'taken from e-Access Bulletin, a free monthly email newsletter', and the website address below is also cited:
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always encouraged
+to subscribe with us individually by email. Please also inform the editor
+when you are reproducing our content. Sections of the bulletin may be
+quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
 http://www.headstar.com/eablive .
 
 +Personnel:
 Editor: Tristan Parker
 Technical Director: Jake Jellinek
+Accessibility Advisor: Dr. Nick Freear
 
 ISSN 1476-6337.
 

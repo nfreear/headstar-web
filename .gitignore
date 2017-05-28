@@ -1,5 +1,7 @@
 #.gitignore for headstar_web
 
+oembed.*
+
 node_modules/
 #Gruntfile.js
 /v*.js
@@ -7,11 +9,13 @@ node_modules/
 CVS
 docs
 headstar
+phplist3
 1
 /2014
 *BAK*
 *old*
 *NEW*
+*.doc
 
 *.log
 perl/logs/*.log
