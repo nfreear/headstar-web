@@ -1,0 +1,441 @@
+
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 192, August 2017.
+
+For HTML and text versions of all previous e-Access Bulletin issues,
+please visit the Bulletin Archive at the following link:
+http://eab.li/6a .
+
+Thanks to Dr. Nick Freear for maintaining the Bulletin Archive.
+
+e-Access Bulletin is produced with the support of Thomas Pocklington Trust:
+http://www.pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link underneath
+the end of the bulletin instead of your email application’s ‘forward’
+button. Please encourage others to subscribe at our sign-up page below:
+http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard. Visit the TEN Standard website:
+http://www.headstar.com/ten .
+
+++Issue 192 contents.
+
+Section One: News. 01: New app helps to combat poor customer service
+faced by people with disabilities. - System gives staff specialist
+impairment info and customer arrival time.
+
+02: Housing help tips, podcasts and lifelines for people with sight loss,
+collected online. - New portal offers resources on renting, buying and
+independent living.
+
+03: Talking ATMs launched at all branches of major UK bank. - Santander
+rolls out the audio assistive machines across UK network.
+
+News in Brief: 04: Inclusive Mapping – Google’s call for crowdsourced
+access info; 05: Rewarding Braille – “World’s first multi-line digital
+Braille reader”; 06: Accessible Gaming Ask – Academic journal calls for
+perspectives and papers.
+
+Section Two: Interview. – Penny Melville-Brown OBE. 07: Baking Blind – an
+online and global adventure. Penny Melville-Brown’s dream was to take her
+online cooking project around the world. Now, after entering and winning
+a huge competition, she’s getting the chance to do just that and she’ll
+be sharing her adventures via YouTube, a blog and social media. E-Access
+Bulletin caught up with her to ask about the role that technology will
+play in this grand trip.
+
+[Contents ends].
+
+++Section One: News.
+
++01: New app helps to combat poor customer service faced by people with
+disabilities.
+
+A new app-based system has been launched that aims to “shake up” the
+customer service industry across shops, banks and other venues.
+
+The Welcome app lets people with disabilities tell shops and venues of
+their arrival, so that staff can provide tailored assistance suited to
+their condition.
+
+Designed by assistive technology company Neatebox, the free app is a
+two-way platform between users and customer service teams. Users tell
+staff, via the app, that they will be visiting a venue and flag up useful
+information or specific requirements they have, such as needing
+assistance with a wheelchair or that they will be bringing a guide dog.
+
+GPS tracking lets staff know exactly when the customer arrives, and the
+app also provides links to useful information about various impairments,
+supplied by charities and specialist organisations; the Royal National
+Institute of Blind People (RNIB) and Guide Dogs have both provided
+information for the app.
+
+The system only works with venues that have signed-up, but users are
+encouraged to request new venues within the app. Neatebox founder Gavin
+Neate told e-Access Bulletin that a “massive part” of the system is the
+team approaching venues identified by the user community: “I guarantee
+that if someone downloads the app now and requests a venue they would
+like to see using it, we will contact that venue within a week at most,”
+Neate said.
+
+Venues that have signed up so far include Edinburgh Airport, hotels,
+shops, cafes, tourist attractions and the Royal Bank of Scotland, where
+the app has been installed at the company’s headquarters in the hope of
+demonstrating its benefits for more widespread use.
+
+At present, venues are mainly in Scotland, where Neatebox is based, but
+users can request locations anywhere. Requests have been received for
+venues in Northern Ireland, Devon and London, as well as the United
+States, Canada and New Zealand. The app isn’t yet available outside of
+the UK, but this isn’t being ruled out.
+
+Neate said that he believes Welcome can “shake up” customer services.
+“With more and more older people and people with specific needs,
+industries need to seriously look at the service they provide.  Whether
+industries are aware of it or not, they have a whole new world coming
+towards them,” Neate said.
+
+A former guide dog mobility instructor, Neate started Neatebox to help
+find a solution for problems that some of his visually impaired clients
+had when operating pedestrian crossings. This solution became Button, a
+system that allows a user’s mobile phone to automatically ‘push’ buttons
+at pedestrian crossings as they approach, using Bluetooth. This
+simplifies the process for those who may find it difficult to operate the
+crossings – for example, someone who is blind or using a wheelchair.
+
+Crossings need to have simple hardware installed in them for the Button
+system to work, but as with the Welcome app, users can request locations
+and Neatebox will contact requested local authorities. The company is
+already working with some councils to install the technology. The system
+has already been installed throughout the town of Largs, on the West
+Coast of Scotland.
+
+To download the Welcome app and find out more, visit the Neatebox
+website:
+http://eab.li/7h .
+https://neatebox.com/ .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/7o .
+http://www.headstar.com/eablive/?p=1375 .
+
++02: Housing help tips, podcasts and lifelines for people with sight
+loss, collected online.
+
+A new online housing guide for people with sight loss has been launched,
+collecting together existing resources, advice and podcasts to help
+people in a range of situations.
+
+The free guide has been created by sight loss charity Thomas Pocklington
+Trust, as a comprehensive portal for visually impaired people who are
+looking for a new home or experiencing housing issues.
+
+Users are linked to relevant information depending on their circumstances –
+for example, people seeking information on independent living, people
+whose homes need repairs, and those facing homelessness or eviction.
+
+A wide range of topics are covered, including advice on renting and
+buying a home, resources to help with household tasks, local authority
+support, and a housing ‘jargon buster’.
+
+Imogen Blood, co-author of the guide, told e-Access Bulletin that people
+with sight loss face a number of issues around housing. She said: “The
+process of finding housing and moving home can throw up a number of
+practical challenges for a person with sight loss: from getting
+accessible versions of tenancy agreements to thinking about where you
+will exercise your guide dog. Meanwhile there is a lack of clarity around
+whether and how you might be able to access social housing with a visual
+impairment, or use disability benefits to pay a mortgage.”
+
+One section of the guide focuses on technology that can aid independent
+living, such as smartphone apps. More information on this topic can be
+found in Thomas Pocklington Trust’s Assistive and Inclusive Home
+Technology guide, covered in e-Access Bulletin’s July 2016 issue:
+http://eab.li/7b .
+http://www.headstar.com/eablive/?p=1208 .
+
+Blood said that she was struck by the difficulty in finding useful online
+housing information for people with sight loss, and wanted to bring
+together relevant information in one place.
+
+It was important to create a digital publication to reach more people,
+Blood said: “Putting the guide online will get this information out as
+widely as possible, to people who might not typically come into contact
+with some services,” she said.
+
+Links to audio podcasts recorded by Thomas Pocklington Trust are also
+included in the guide, for users to stream or download. The podcasts
+feature people with sight loss talking about housing issues that have
+affected them. Speaking about the making of these podcasts, Blood said:
+“As we developed the guide, it struck us that many people we spoke to
+could benefit from hearing each other’s stories.”
+
+She continued: “I met visually impaired people who had jumped around
+private sector tenancies as much as their sighted peers, but I also meet
+younger people whose confidence about independent living was very low.
+They seemed genuinely inspired to hear that living in your own place with
+a partner was even an option for someone with a visual impairment.”
+
+The online housing guide for people with sight loss is available at
+Thomas Pocklington Trust’s website, at the following link:
+http://eab.li/7c .
+http://pocklington-trust.org.uk/guide-finding-home-visually-impaired-people1/ .
+
+Comment on this story now at e-Access Bulletin Live: http://eab.li/7n .
+http://www.headstar.com/eablive/?p=1381 .
+
++03: Talking ATMs launched at all branches of major UK bank.
+
+Santander has announced talking ATMs for blind and visually impaired
+customers across all of its UK branches.
+
+Many banks offer talking ATMs at some branches, but Santander’s move
+makes it the first bank to offer the service at every one of its UK
+outlets – around 1,400. In May, HSBC launched 1,500 talking cash machines
+around its UK branch network.
+
+To use the service, customers can plug earphones into a socket on the
+front of the ATM, and voice assistance will then guide them through
+operating the machine. Users can also choose whether to use the ATM
+screen during the process for some functions (for example, if they are
+partially sighted and can see some information on-screen) or not at all.
+Staff in the branches will give out headphones to customers who don’t
+have their own.
+
+Santander worked with the Royal National Institute of Blind People (RNIB)
+and the Digital Accessibility Centre to design the service.
+
+Read more about talking ATMs at the RNIB website: http://eab.li/7g .
+http://rnib.org.uk/campaigning-current-campaigns-accessible-information-campaign/talking-cash-machines .
+
+To find out which banks have talking ATMs, search the Link ATM Locator
+tool, which gives users a map of cash machines in an area and lists
+facilities, including audio assistance and wheelchair access:
+http://eab.li/7k .
+http://www.link.co.uk/atm-locator .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/7m .
+http://www.headstar.com/eablive/?p=1379 .
+
+++News in Brief:
+
++04: Inclusive Mapping: Google Maps users can now add in a range of
+wheelchair access information to venue listings on maps using an Android
+smartphone. Details that users can add include whether a building’s
+entrance, lift, bathroom and parking area are wheelchair-friendly. The
+information can then be seen by other people using Google Maps.
+
+Read more at the official Google blog:
+http://eab.li/7d .
+https://www.blog.google/products/maps/building-map-everyone/ .
+
++05: Rewarding Braille: The makers of what is claimed to be “the world’s
+first multiple-line digital Braille e-reader” – featuring 360 cells split
+over 40 characters per line over nine lines – were announced as the
+winners of the Accessibility Award in the AbilityNet Tech4Good Awards
+2017. The Canute Braille reader has been designed by not-for-profit
+social enterprise Bristol Braille and is planned for release in late 2017
+or early 2018, with an estimated price of between £600-£800.
+
+Read more about the Canute Braille reader at AbilityNet’s website:
+http://eab.li/7q .
+https://abilitynet.org.uk/news-blogs/worlds-first-multi-line-braille-e-reader-blind-people-wins-coveted-abilitynet-tech4good .
+
++06: Accessible Gaming Ask: Academic publication The Computer Games
+Journal has issued a call for papers and information on accessible
+gaming, ahead of a special issue on the topic in 2018. Dr Michael Heron
+(from the School of Computing Science and Digital Media at Robert Gordon
+University in Scotland) will be the guest editor and has sent out an
+early request for perspectives and contributions from academics,
+industry, students, accessibility researchers and advocates, and “those
+with direct experience of inaccessibility.” Submission details below.
+
+Read more and find out how to submit contributions on accessible gaming
+at the Meeple Like Us gaming design website:
+http://eab.li/7r .
+http://meeplelikeus.co.uk/computer-games-journal-special-issue-accessibility-gaming-call-papers/ .
+
+[Section One ends].
+
+++ Notice: Thomas Pocklington Trust.
+
+E-Access Bulletin is brought to you with the kind support of
+Thomas Pocklington Trust, a national charity delivering positive change
+for people with sight loss. Find out more about the work of
+Thomas Pocklington Trust by visiting their website:
+http://www.pocklington-trust.org.uk .
+
+[Notice ends].
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on
+The Early Edition programme. Hear more about the bulletin and upcoming
+content appearing in each issue, as we discuss the latest accessible
+technology news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via
+television, smartphone or radio. Listening details at the following link:
+http://eab.li/3e .
+
+Find out more at the RNIB Connect Radio website:
+http://eab.li/1h .
+
+[Notice ends].
+
+++Section Two: Interview. – Penny Melville-Brown OBE.
+
++07: Baking Blind – an online and global adventure.
+
+Cooking is yet another daily task that many people take for granted.
+Having sight loss can make cooking incredibly difficult, but Penny
+Melville-Brown OBE – disability rights advocate and Director of
+Disability Dynamics – wanted to show the world otherwise.
+
+Baking Blind is her YouTube channel and online project, featuring videos
+of Penny – who is blind – preparing all manner of dishes, from curries to
+quails’ eggs to Turkish delight.
+
+Earlier this year, Penny entered the Holman Prize, a competition run by
+San Francisco’s LightHouse for the Blind and Visually Impaired
+organisation to fund big ideas and innovative projects pitched by people
+who are blind. Penny’s ambition was to take her online cookery project
+around the world, cooking across the globe and filming it as she went.
+
+After progressing through the competition, Penny was recently announced
+as one of the three winners to receive funding. Her global dream is about
+to become a reality and audiences will be able to follow her travels and
+exotic recipes through the Baking Blind YouTube channel.
+
+E-Access Bulletin chatted with Penny to find out how video, social media
+and other technology helped her in the Holman Prize and how she plans to
+use these platforms in the next stages of her grand trip.
+
+E-Access Bulletin: Please tell us a bit about Baking Blind:
+Penny Melville-Brown: “I’ve been working in the disability employment field
+for nearly 20 years and it is abundantly clear we aren’t going to succeed
+unless employers change their attitudes. We need to change their hearts
+and minds. I thought that cookery might be a great way, as I do lots of
+cooking, and food programmes get so much attention. I was cooking about
+50 mini-Christmas cakes last December for gifts and my brother had time
+to spare to shoot the videos – and Baking Blind was born!”
+
+- What was your goal if you did win the Holman Prize?
+“My goal was to take Baking Blind around the world to cook with professional
+chefs and home cooks, sighted or not, to create a year’s worth of videos and
+show that blindness, and any other disability, doesn’t cramp our ambitions,
+capabilities or zest for life. I’ll be cooking in America, Costa Rica,
+China, Australia and Africa, and I have a full programme of activities
+when I get back to the UK.”
+
+- What part did technology play for you in the competition?
+“I entered by providing a 90-second video called ‘A Taste of the World’.
+I’ve also been using social media and email to gather all the support I
+need for my travels.”
+
+- Video is obviously key in making and sharing Baking Blind. What
+  challenges and benefits are there to working with video and YouTube?
+“Obviously I can’t shoot the videos (although I am trying to develop
+some ability with a headcam) and nor can I edit, although I do make
+editorial decisions based on the recorded sounds/voices. Managing
+YouTube doesn’t work for me either. But nowadays, one has to use all
+forms of modern media and technology to have any reach and impact – so
+as a team, we are trying hard.”
+
+- How did it feel to be one of the winners of the prize?
+“Actually, it was very difficult, as I knew before the formal announcement
+and it was tricky to keep my excitement controlled. Now, several weeks
+later, I am beginning to realise how very international the project has
+become, with emails, messages, social media and much more from all over
+the world. What is absolutely clear is that being able to access all
+these different forms of communication is essential for this type of
+project.”
+
+- Tell us about the project you’re now planning:
+“I’ll spend a week in San Francisco with the LightHouse team and then a few
+days cooking there, before flying to Tamarindo in Costa Rica. I’m spending
+a week there in a jungle culinary adventure restaurant. After that, I’ll
+be in Virginia Beach, cooking with local people and meeting up with a
+colleague from the Women’s Royal Naval Service, with whom I’ve had no
+contact for nearly 40 years – the power of social media!
+
+“Soon after that, I’m jetting off to Chongqing in China to cook with and
+help the Rotary Club there with a project supporting local visually
+impaired people. Then to Kiama and Melbourne in Australia with a bevy of
+different cooks, before Lilongwe in Malawi where I’ve linked with local
+groups with visual impairments. Back in the UK, I’m planning a range of
+activities to reinforce my naval links with the Holman Prize, plus baking
+with different local people.”
+
+- What part will technology play in the project?
+“I’m aiming to produce at least one video a week for 12 months, plus a blog
+and social media. There’s no doubt that this whole project would not have
+been possible without being able to contact a worldwide audience.
+Before I started, I only had one possible contact in Australia – all the
+others simply responded to my emails and videos.”
+
+- What’s next for you after that trip?
+“I’d love to continue as a flag-bearer for blind and disabled people over the
+world. With the right adjustments we can do most jobs, contribute to our
+communities and be as independent, fulfilled and ambitious as anyone else.”
+
+Find more information and Penny’s cooking videos at the Baking Blind
+website:
+http://eab.li/7i .
+http://www.bakingblind.com/ .
+
+Find out more about Penny’s work on disability and employment at the
+Disability Dynamics website:
+http://eab.li/7j .
+http://www.disabilitydynamics.co.uk/index.htm .
+
+Comment on this story now at e-Access Bulletin Live:
+http://eab.li/7l .
+http://www.headstar.com/eablive/?p=1377 .
+
+[Section Two ends]
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link
+underneath the end of the bulletin instead of your email application’s
+‘forward’ button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive: http://www.headstar.com/eab/archive.html .
+
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also inform
+the editor when you are reproducing our content. Sections of the bulletin
+may be quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+http://www.headstar.com/eablive .
+
++Personnel:
+
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+Accessibility Advisor: Dr. Nick Freear
+
+ISSN 1476-6337.
+
+[Issue 192 ends.]

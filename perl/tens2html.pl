@@ -87,8 +87,12 @@ my $c_person=128;
       # Ensure ASCII chars only.
       my $line=&entities($_, $idx);
 
+      if ($_ =~ /(An HTML version of this issue.+|For HTML and.+|Thanks to Dr. Nick.+|.*http:\/\/eab.li\/(6b|6a))/) {
+        warn "Ignore HTML self-link: $1\n";
+        next;
+      }
 # Filter main title.
-      if ($_=~/\+\+(E-ACCESS BULLETIN)/) { #/^\+\+\+(.*)/)
+      elsif ($_=~/\+\+(E-ACCESS BULLETIN)/) { #/^\+\+\+(.*)/)
         warn "Found +++, heading 1: $1\n";
         $state=$c_head_1;
         $line=$1;
