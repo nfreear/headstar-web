@@ -2,9 +2,9 @@
   E-Access Bulletin task-runner | © 2016 Nick Freear.
 */
 
-var COUNT_CMD = 'find eab/issues/ -type f | grep ".txt" | wc -l';
+var COUNT_CMD = require('./package.json').scripts.count;
+// var COUNT_CMD = 'find eab/issues/ -type f | grep ".txt" | wc -l';
 var exec = require('child_process').execSync;
-// var exec = require('child_process').exec;
 
 module.exports = function (grunt) {
   'use strict';
@@ -14,15 +14,17 @@ module.exports = function (grunt) {
 
   var bulletinCount = (exec(COUNT_CMD) + '').replace(/\s+/g, '');
 
+  // grunt.config.set('bulletinCount', bulletinCount);
+
   grunt.log.oklns('Bulletin count:', bulletinCount);
-  // bulletinCount(bcount);
 
   grunt.initConfig({
+    bulletinCount: bulletinCount,
     exec: {
       // count: COUNT_CMD,
-      // build: 'perl perl/bulletins.pl && perl perl/e-access.pl',
       bulletins: 'perl perl/bulletins.pl',
-      build_site: 'perl perl/e-access.pl'
+      build_site: 'perl perl/e-access.pl',
+      semistandard: 'node_modules/.bin/semistandard'
     },
     jshint: {
       options: {
@@ -70,7 +72,7 @@ module.exports = function (grunt) {
         options: {
           replacements: [{
             pattern: /class="COUNT">(\d+)<\//ig,
-            replacement: 'class="COUNT">' + bulletinCount + '</'
+            replacement: 'class="COUNT"><%= bulletinCount %></'
           }]
         }
       },
@@ -79,7 +81,7 @@ module.exports = function (grunt) {
         options: {
           replacements: [{
             pattern: /"x-bulletin-count": ?(\d+)/,
-            replacement: '"x-bulletin-count": ' + bulletinCount
+            replacement: '"x-bulletin-count": <%= bulletinCount %>'
           }]
         }
       }
@@ -107,23 +109,22 @@ module.exports = function (grunt) {
   // grunt.loadNpmTasks('grunt-notify');
   // grunt.task.run('notify_hooks');
 
-
   grunt.registerTask('default', [ 'exec', 'jshint', 'htmlhint', 'validate_xml', 'string-replace' ]);
 };
 
 /*
-function bulletinCount (bcount) {
-  //var bcount = 999; // 204!
+const exec = require('child_process').exec;
+var bcount = 0;
 
+function bulletinCount (bcount) {
   exec(COUNT_CMD, function (err, stdout, stderr) {
     if (err) {
       console.error(err);
       return;
     }
 
-    bcount = stdout;
+    bcount = stdout; // 204!
 
     console.log('Bulletin count: ', stdout);
   });
-}
-*/
+} */
