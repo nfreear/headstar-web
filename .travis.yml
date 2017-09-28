@@ -13,14 +13,16 @@ before_install:
   - npm --version
 
 install:
-  - make install
   - npm install
+  - npm run install-cpan
+  #- make install
   #- make npm-install
 
-script: grunt
+script: npm test
 
 after_script:
-  - make version
-  - make cat-log
+  - npm run cat-log
+  #- make version
+  #- make cat-log
 
-#End.
+# End.
