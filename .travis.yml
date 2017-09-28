@@ -14,7 +14,8 @@ before_install:
 
 install:
   - make install
-  - make npm-install
+  - npm install
+  #- make npm-install
 
 script: grunt
 

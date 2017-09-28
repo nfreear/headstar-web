@@ -1,0 +1,32 @@
+{
+  "private": true,
+  "name": "headstar-web",
+  "version": "1.0.0",
+  "description": "E-Access Bulletin | Copyright © 2000-2017 Headstar Limited. All rights reserved.",
+  "main": "Gruntfile.js",
+  "dependencies": { },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-validate-xml": "^0.0.1",
+    "grunt-exec": "^1.0.1",
+    "grunt-htmlhint": "^0.9.13",
+    "grunt-notify": "^0.4.5"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfreear/headstar-web.git"
+  },
+  "keywords": [
+    "accessibility", "bulletin"
+  ],
+  "author": "Nick Freear (@nfreear)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nfreear/headstar-web/issues"
+  },
+  "homepage": "http://headstar.com/eab/"
+}

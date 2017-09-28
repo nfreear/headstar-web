@@ -1,5 +1,7 @@
 #.gitignore for headstar_web
 
+*email.*
+
 oembed.*
 
 node_modules/

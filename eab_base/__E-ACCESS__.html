@@ -29,7 +29,6 @@
   <link rel="stylesheet"           media="all"    href="includes/noscript.css" />
   <link rel="alternate stylesheet" media="screen" href="includes/textonly.css" title="Text" />
   <link rel="alternate stylesheet" media="screen" href="includes/graphic.css"  title="Graphic" />
-  <script src="includes/styleswitcher.js"></script>
 
   <link rel="home"  href="./" />
   <link rel="help"  href="site.html#help" />
@@ -101,31 +100,8 @@ __EMBED_PAGE__  ::
 <p id="totop"><a href="#top" title="Goto top of page">To the top.</a></p>
 
 </div><!--id="Body"-->
-<script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7941798-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<script>
-(function (W, D) {
+<script src="includes/scripts.js" data-analytics-id="UA-7941798-1"></script>
+<script src="includes/styleswitcher.js"></script>
 
-  var page = W.location.pathname.replace(/.+\//, '').replace(/\..+/, ''),
-    el = D.querySelector("#foot .y"),
-    year = 1900 + (new Date()).getYear();
-
-  el.innerHTML = year;
-  D.body.className += " pg-" + page;
-
-  if (W.location.href.match(/[&\?]embed=(1|true)/)) {
-    D.body.className += " pg-embed";
-  }
-
-})(window, window.document);
-</script>
 </html>
