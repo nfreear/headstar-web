@@ -2,28 +2,29 @@
 
 [![Build status: Travis-CI][travis-icon]][travis-ci]
 [![js-semistandard-style][semi-icon]][semi]
+[![EAB bulletin count][count-icon]][eab]
 
 # E-Access Bulletin
 
-"_E-Access Bulletin is a free, monthly, text-only email newsletter on
-technology access by those with disabilities and older people._"
+> "_E-Access Bulletin is a free, monthly, text-only email newsletter on
+> technology access by those with disabilities and older people._"
 
 * [E-Access Bulletin][eab]
 * [E-Access Bulletin Live blog][eablive]
 * [Subscribe to the E-Access Bulletin newsletter][subscribe]
 
-"_a free, independent monthly e-mail newsletter on information technology
-issues for people with visual impairment and blindness._"
+> "_a free, independent monthly e-mail newsletter on information technology
+> issues for people with visual impairment and blindness._"
 
-Dan Jellinek.
+_Dan Jellinek_.
 
-
-    perl/        -- Web site/bulletin build scripts.
-    eab_base/    -- E-Access Bulletin HTML templates.
-    eab/         -- Public Bulletin Web site.
+```sh
+    perl/        -- Build scripts.
+    eab_base/    -- HTML templates.
+    eab/         -- Public Bulletin web site.
     eab/issues/  -- Bulletin archive, by year.
     ten/         -- Text Email Newsletter Standard (TEN).
-
+```
 
 * [Bitbucket][]
 * [GitHub][]
@@ -36,11 +37,20 @@ Dan Jellinek.
 _[In memory of Dan … Dan Jellinek 1968 — 2015][tribute]_
 
 
+## Install ... test
+
+```
+npm install && npm run install-cpan
+npm test
+```
+
 ---
 Copyright © 2000-2017 Headstar Limited. [All rights reserved][copy].
 
 ISSN 1476-6337.
 
+
+[count-icon]: http://www.headstar.com/eab/badge.svg "EAB bulletin count"
 
 [travis-icon]: https://travis-ci.org/nfreear/headstar-web.svg
 [travis-ci]: https://travis-ci.org/nfreear/headstar-web "Build status – Travis-CI"

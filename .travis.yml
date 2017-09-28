@@ -15,14 +15,11 @@ before_install:
 install:
   - npm install
   - npm run install-cpan
-  #- make install
-  #- make npm-install
 
 script: npm test
 
 after_script:
+  - npm run count
   - npm run cat-log
-  #- make version
-  #- make cat-log
 
 # End.

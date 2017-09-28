@@ -13,6 +13,8 @@
     "grunt-exec": "^1.0.1",
     "grunt-htmlhint": "^0.9.13",
     "grunt-notify": "^0.4.5",
+    "grunt-string-replace": "^1.3.1",
+    "replace": "^0.3.0",
     "semistandard": "^11.0.0"
   },
   "scripts": {
@@ -22,6 +24,7 @@
     "cat-log": "cat perl/logs/00e-access.log",
     "build": "perl perl/bulletins.pl && perl perl/e-access.pl",
     "sfix": "semistandard --fix",
+    "count": "find eab/issues/ -type f | grep '.txt' | wc -l",
     "test": "grunt && semistandard"
   },
   "repository": {
@@ -34,9 +37,8 @@
   ],
   "author": "Nick Freear (@nfreear)",
   "license": "UNLICENSED",
-  "bugs": {
-    "url": "https://github.com/nfreear/headstar-web/issues"
-  },
+  "bugs": "https://github.com/nfreear/headstar-web/issues",
   "ISSN": "1476-6337",
+  "x-bulletin-count": 204,
   "homepage": "http://headstar.com/eab/"
 }
