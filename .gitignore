@@ -4,8 +4,8 @@
 
 oembed.*
 
+package-lock.json
 node_modules/
-#Gruntfile.js
 /v*.js
 
 CVS

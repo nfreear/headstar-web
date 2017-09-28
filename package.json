@@ -4,29 +4,39 @@
   "version": "1.0.0",
   "description": "E-Access Bulletin | Copyright © 2000-2017 Headstar Limited. All rights reserved.",
   "main": "Gruntfile.js",
-  "dependencies": { },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.1",
-    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
     "grunt-contrib-validate-xml": "^0.0.1",
     "grunt-exec": "^1.0.1",
     "grunt-htmlhint": "^0.9.13",
-    "grunt-notify": "^0.4.5"
+    "grunt-notify": "^0.4.5",
+    "semistandard": "^11.0.0"
   },
   "scripts": {
-    "test": "grunt"
+    "#": "(brew install perl) - mac os x. | http://search.cpan.org/dist/HTML-Parser/lib/HTML/Entities.pm",
+    "install-cpan": "cpanm HTML::Entities",
+    "install-cpanminus": "cpan -i App::cpanminus",
+    "cat-log": "cat perl/logs/00e-access.log",
+    "build": "perl perl/bulletins.pl && perl perl/e-access.pl",
+    "sfix": "semistandard --fix",
+    "test": "grunt && semistandard"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nfreear/headstar-web.git"
   },
   "keywords": [
-    "accessibility", "bulletin"
+    "accessibility",
+    "bulletin"
   ],
   "author": "Nick Freear (@nfreear)",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/nfreear/headstar-web/issues"
   },
+  "ISSN": "1476-6337",
   "homepage": "http://headstar.com/eab/"
 }

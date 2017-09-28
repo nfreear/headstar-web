@@ -1,6 +1,7 @@
 [![E-Access Bulletin][eab-logo-1]][eab]
 
 [![Build status: Travis-CI][travis-icon]][travis-ci]
+[![js-semistandard-style][semi-icon]][semi]
 
 # E-Access Bulletin
 
@@ -43,6 +44,9 @@ ISSN 1476-6337.
 
 [travis-icon]: https://travis-ci.org/nfreear/headstar-web.svg
 [travis-ci]: https://travis-ci.org/nfreear/headstar-web "Build status – Travis-CI"
+[semi]: https://github.com/Flet/semistandard
+[semi-icon]: https://img.shields.io/badge/code_style-semistandard-brightgreen.svg?-style=flat-square
+    "Javascript coding style — 'semistandard'"
 [bitbucket]: https://bitbucket.org/nfreear/headstar_web.git
 [github]: https://github.com/nfreear/headstar-web
 [vcard]: http://suda.co.uk/projects/X2V/get-vcard.php?uri=http://headstar.com/eab/contact.html
@@ -64,4 +68,4 @@ ISSN 1476-6337.
 [pp-book-image]: http://www.headstar.com/images/PP-cover-sma.jpg
     "People power: a user's guide to UK democracy, by Dan Jellinek / Corgi 2014."
 
-[End]: //end
+[End]: //.
