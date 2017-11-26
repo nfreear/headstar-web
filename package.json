@@ -25,6 +25,7 @@
     "build": "perl perl/bulletins.pl && perl perl/e-access.pl",
     "sfix": "semistandard --fix",
     "count": "find eab/issues/ -type f | grep '.txt' | wc -l",
+    "index.json": "php perl/index-json.php",
     "test": "grunt"
   },
   "repository": {

@@ -1,0 +1,1009 @@
+{
+    "title": "E-Access Bulletin archive.",
+    "time": "2017-11-26T21:43:09+01:00",
+    "base_url": "http:\/\/headstar.com\/eab\/issues\/{year}\/{file}",
+    "issue_count": 194,
+    "issues": {
+        "2000": {
+            "4": {
+                "issue": 4,
+                "text_file": "apr2000.txt",
+                "html_file": "apr2000.html"
+            },
+            "8": {
+                "issue": 8,
+                "text_file": "aug2000.txt",
+                "html_file": "aug2000.html"
+            },
+            "12": {
+                "issue": 12,
+                "text_file": "dec2000.txt",
+                "html_file": "dec2000.html"
+            },
+            "2": {
+                "issue": 2,
+                "text_file": "feb2000.txt",
+                "html_file": "feb2000.html"
+            },
+            "1": {
+                "issue": 1,
+                "text_file": "jan2000.txt",
+                "html_file": "jan2000.html"
+            },
+            "7": {
+                "issue": 7,
+                "text_file": "jul2000.txt",
+                "html_file": "jul2000.html"
+            },
+            "6": {
+                "issue": 6,
+                "text_file": "jun2000.txt",
+                "html_file": "jun2000.html"
+            },
+            "3": {
+                "issue": 3,
+                "text_file": "mar2000.txt",
+                "html_file": "mar2000.html"
+            },
+            "5": {
+                "issue": 5,
+                "text_file": "may2000.txt",
+                "html_file": "may2000.html"
+            },
+            "11": {
+                "issue": 11,
+                "text_file": "nov2000.txt",
+                "html_file": "nov2000.html"
+            },
+            "10": {
+                "issue": 10,
+                "text_file": "oct2000.txt",
+                "html_file": "oct2000.html"
+            },
+            "9": {
+                "issue": 9,
+                "text_file": "sep2000.txt",
+                "html_file": "sep2000.html"
+            }
+        },
+        "2001": {
+            "16": {
+                "issue": 16,
+                "text_file": "apr2001.txt",
+                "html_file": "apr2001.html"
+            },
+            "20": {
+                "issue": 20,
+                "text_file": "aug2001.txt",
+                "html_file": "aug2001.html"
+            },
+            "24": {
+                "issue": 24,
+                "text_file": "dec2001.txt",
+                "html_file": "dec2001.html"
+            },
+            "14": {
+                "issue": 14,
+                "text_file": "feb2001.txt",
+                "html_file": "feb2001.html"
+            },
+            "13": {
+                "issue": 13,
+                "text_file": "jan2001.txt",
+                "html_file": "jan2001.html"
+            },
+            "19": {
+                "issue": 19,
+                "text_file": "jul2001.txt",
+                "html_file": "jul2001.html"
+            },
+            "18": {
+                "issue": 18,
+                "text_file": "jun2001.txt",
+                "html_file": "jun2001.html"
+            },
+            "15": {
+                "issue": 15,
+                "text_file": "mar2001.txt",
+                "html_file": "mar2001.html"
+            },
+            "17": {
+                "issue": 17,
+                "text_file": "may2001.txt",
+                "html_file": "may2001.html"
+            },
+            "23": {
+                "issue": 23,
+                "text_file": "nov2001.txt",
+                "html_file": "nov2001.html"
+            },
+            "22": {
+                "issue": 22,
+                "text_file": "oct2001.txt",
+                "html_file": "oct2001.html"
+            },
+            "21": {
+                "issue": 21,
+                "text_file": "sep2001.txt",
+                "html_file": "sep2001.html"
+            }
+        },
+        "2002": {
+            "28": {
+                "issue": 28,
+                "text_file": "apr2002.txt",
+                "html_file": "apr2002.html"
+            },
+            "32": {
+                "issue": 32,
+                "text_file": "aug2002.txt",
+                "html_file": "aug2002.html"
+            },
+            "36": {
+                "issue": 36,
+                "text_file": "dec2002.txt",
+                "html_file": "dec2002.html"
+            },
+            "26": {
+                "issue": 26,
+                "text_file": "feb2002.txt",
+                "html_file": "feb2002.html"
+            },
+            "25": {
+                "issue": 25,
+                "text_file": "jan2002.txt",
+                "html_file": "jan2002.html"
+            },
+            "31": {
+                "issue": 31,
+                "text_file": "jul2002.txt",
+                "html_file": "jul2002.html"
+            },
+            "30": {
+                "issue": 30,
+                "text_file": "jun2002.txt",
+                "html_file": "jun2002.html"
+            },
+            "27": {
+                "issue": 27,
+                "text_file": "mar2002.txt",
+                "html_file": "mar2002.html"
+            },
+            "29": {
+                "issue": 29,
+                "text_file": "may2002.txt",
+                "html_file": "may2002.html"
+            },
+            "35": {
+                "issue": 35,
+                "text_file": "nov2002.txt",
+                "html_file": "nov2002.html"
+            },
+            "34": {
+                "issue": 34,
+                "text_file": "oct2002.txt",
+                "html_file": "oct2002.html"
+            },
+            "33": {
+                "issue": 33,
+                "text_file": "sep2002.txt",
+                "html_file": "sep2002.html"
+            }
+        },
+        "2003": {
+            "40": {
+                "issue": 40,
+                "text_file": "apr2003.txt",
+                "html_file": "apr2003.html"
+            },
+            "44": {
+                "issue": 44,
+                "text_file": "aug2003.txt",
+                "html_file": "aug2003.html"
+            },
+            "48": {
+                "issue": 48,
+                "text_file": "dec2003.txt",
+                "html_file": "dec2003.html"
+            },
+            "38": {
+                "issue": 38,
+                "text_file": "feb2003.txt",
+                "html_file": "feb2003.html"
+            },
+            "37": {
+                "issue": 37,
+                "text_file": "jan2003.txt",
+                "html_file": "jan2003.html"
+            },
+            "43": {
+                "issue": 43,
+                "text_file": "jul2003.txt",
+                "html_file": "jul2003.html"
+            },
+            "42": {
+                "issue": 42,
+                "text_file": "jun2003.txt",
+                "html_file": "jun2003.html"
+            },
+            "39": {
+                "issue": 39,
+                "text_file": "mar2003.txt",
+                "html_file": "mar2003.html"
+            },
+            "41": {
+                "issue": 41,
+                "text_file": "may2003.txt",
+                "html_file": "may2003.html"
+            },
+            "47": {
+                "issue": 47,
+                "text_file": "nov2003.txt",
+                "html_file": "nov2003.html"
+            },
+            "46": {
+                "issue": 46,
+                "text_file": "oct2003.txt",
+                "html_file": "oct2003.html"
+            },
+            "45": {
+                "issue": 45,
+                "text_file": "sep2003.txt",
+                "html_file": "sep2003.html"
+            }
+        },
+        "2004": {
+            "52": {
+                "issue": 52,
+                "text_file": "apr2004.txt",
+                "html_file": "apr2004.html"
+            },
+            "56": {
+                "issue": 56,
+                "text_file": "aug2004.txt",
+                "html_file": "aug2004.html"
+            },
+            "60": {
+                "issue": 60,
+                "text_file": "dec2004.txt",
+                "html_file": "dec2004.html"
+            },
+            "-1": {
+                "issue": -1,
+                "text_file": "sep2004.txt",
+                "html_file": "sep2004.html"
+            },
+            "50": {
+                "issue": 50,
+                "text_file": "feb2004.txt",
+                "html_file": "feb2004.html"
+            },
+            "49": {
+                "issue": 49,
+                "text_file": "jan2004.txt",
+                "html_file": "jan2004.html"
+            },
+            "55": {
+                "issue": 55,
+                "text_file": "jul2004.txt",
+                "html_file": "jul2004.html"
+            },
+            "54": {
+                "issue": 54,
+                "text_file": "jun2004.txt",
+                "html_file": "jun2004.html"
+            },
+            "51": {
+                "issue": 51,
+                "text_file": "mar2004.txt",
+                "html_file": "mar2004.html"
+            },
+            "53": {
+                "issue": 53,
+                "text_file": "may2004.txt",
+                "html_file": "may2004.html"
+            },
+            "59": {
+                "issue": 59,
+                "text_file": "nov2004.txt",
+                "html_file": "nov2004.html"
+            },
+            "58": {
+                "issue": 58,
+                "text_file": "oct2004.txt",
+                "html_file": "oct2004.html"
+            }
+        },
+        "2005": {
+            "64": {
+                "issue": 64,
+                "text_file": "apr2005.txt",
+                "html_file": "apr2005.html"
+            },
+            "68": {
+                "issue": 68,
+                "text_file": "aug2005.txt",
+                "html_file": "aug2005.html"
+            },
+            "72": {
+                "issue": 72,
+                "text_file": "dec2005.txt",
+                "html_file": "dec2005.html"
+            },
+            "62": {
+                "issue": 62,
+                "text_file": "feb2005.txt",
+                "html_file": "feb2005.html"
+            },
+            "61": {
+                "issue": 61,
+                "text_file": "jan2005.txt",
+                "html_file": "jan2005.html"
+            },
+            "67": {
+                "issue": 67,
+                "text_file": "jul2005.txt",
+                "html_file": "jul2005.html"
+            },
+            "66": {
+                "issue": 66,
+                "text_file": "jun2005.txt",
+                "html_file": "jun2005.html"
+            },
+            "63": {
+                "issue": 63,
+                "text_file": "mar2005.txt",
+                "html_file": "mar2005.html"
+            },
+            "65": {
+                "issue": 65,
+                "text_file": "may2005.txt",
+                "html_file": "may2005.html"
+            },
+            "71": {
+                "issue": 71,
+                "text_file": "nov2005.txt",
+                "html_file": "nov2005.html"
+            },
+            "70": {
+                "issue": 70,
+                "text_file": "oct2005.txt",
+                "html_file": "oct2005.html"
+            },
+            "69": {
+                "issue": 69,
+                "text_file": "sep2005.txt",
+                "html_file": "sep2005.html"
+            }
+        },
+        "2006": {
+            "76": {
+                "issue": 76,
+                "text_file": "apr2006.txt",
+                "html_file": "apr2006.html"
+            },
+            "80": {
+                "issue": 80,
+                "text_file": "aug2006.txt",
+                "html_file": "aug2006.html"
+            },
+            "84": {
+                "issue": 84,
+                "text_file": "dec2006.txt",
+                "html_file": "dec2006.html"
+            },
+            "74": {
+                "issue": 74,
+                "text_file": "feb2006.txt",
+                "html_file": "feb2006.html"
+            },
+            "73": {
+                "issue": 73,
+                "text_file": "jan2006.txt",
+                "html_file": "jan2006.html"
+            },
+            "79": {
+                "issue": 79,
+                "text_file": "jul2006.txt",
+                "html_file": "jul2006.html"
+            },
+            "78": {
+                "issue": 78,
+                "text_file": "jun2006.txt",
+                "html_file": "jun2006.html"
+            },
+            "75": {
+                "issue": 75,
+                "text_file": "mar2006.txt",
+                "html_file": "mar2006.html"
+            },
+            "77": {
+                "issue": 77,
+                "text_file": "may2006.txt",
+                "html_file": "may2006.html"
+            },
+            "83": {
+                "issue": 83,
+                "text_file": "nov2006.txt",
+                "html_file": "nov2006.html"
+            },
+            "82": {
+                "issue": 82,
+                "text_file": "oct2006.txt",
+                "html_file": "oct2006.html"
+            },
+            "81": {
+                "issue": 81,
+                "text_file": "sep2006.txt",
+                "html_file": "sep2006.html"
+            }
+        },
+        "2007": {
+            "88": {
+                "issue": 88,
+                "text_file": "apr2007.txt",
+                "html_file": "apr2007.html"
+            },
+            "92": {
+                "issue": 92,
+                "text_file": "aug2007.txt",
+                "html_file": "aug2007.html"
+            },
+            "96": {
+                "issue": 96,
+                "text_file": "dec2007.txt",
+                "html_file": "dec2007.html"
+            },
+            "86": {
+                "issue": 86,
+                "text_file": "feb2007.txt",
+                "html_file": "feb2007.html"
+            },
+            "85": {
+                "issue": 85,
+                "text_file": "jan2007.txt",
+                "html_file": "jan2007.html"
+            },
+            "91": {
+                "issue": 91,
+                "text_file": "jul2007.txt",
+                "html_file": "jul2007.html"
+            },
+            "90": {
+                "issue": 90,
+                "text_file": "jun2007.txt",
+                "html_file": "jun2007.html"
+            },
+            "87": {
+                "issue": 87,
+                "text_file": "mar2007.txt",
+                "html_file": "mar2007.html"
+            },
+            "89": {
+                "issue": 89,
+                "text_file": "may2007.txt",
+                "html_file": "may2007.html"
+            },
+            "95": {
+                "issue": 95,
+                "text_file": "nov2007.txt",
+                "html_file": "nov2007.html"
+            },
+            "94": {
+                "issue": 94,
+                "text_file": "oct2007.txt",
+                "html_file": "oct2007.html"
+            },
+            "93": {
+                "issue": 93,
+                "text_file": "sep2007.txt",
+                "html_file": "sep2007.html"
+            }
+        },
+        "2008": {
+            "100": {
+                "issue": 100,
+                "text_file": "apr2008.txt",
+                "html_file": "apr2008.html"
+            },
+            "104": {
+                "issue": 104,
+                "text_file": "aug2008.txt",
+                "html_file": "aug2008.html"
+            },
+            "108": {
+                "issue": 108,
+                "text_file": "dec2008.txt",
+                "html_file": "dec2008.html"
+            },
+            "98": {
+                "issue": 98,
+                "text_file": "feb2008.txt",
+                "html_file": "feb2008.html"
+            },
+            "97": {
+                "issue": 97,
+                "text_file": "jan2008.txt",
+                "html_file": "jan2008.html"
+            },
+            "103": {
+                "issue": 103,
+                "text_file": "jul2008.txt",
+                "html_file": "jul2008.html"
+            },
+            "102": {
+                "issue": 102,
+                "text_file": "jun2008.txt",
+                "html_file": "jun2008.html"
+            },
+            "99": {
+                "issue": 99,
+                "text_file": "mar2008.txt",
+                "html_file": "mar2008.html"
+            },
+            "101": {
+                "issue": 101,
+                "text_file": "may2008.txt",
+                "html_file": "may2008.html"
+            },
+            "107": {
+                "issue": 107,
+                "text_file": "nov2008.txt",
+                "html_file": "nov2008.html"
+            },
+            "106": {
+                "issue": 106,
+                "text_file": "oct2008.txt",
+                "html_file": "oct2008.html"
+            },
+            "105": {
+                "issue": 105,
+                "text_file": "sep2008.txt",
+                "html_file": "sep2008.html"
+            }
+        },
+        "2009": {
+            "112": {
+                "issue": 112,
+                "text_file": "apr2009.txt",
+                "html_file": "apr2009.html"
+            },
+            "116": {
+                "issue": 116,
+                "text_file": "aug2009.txt",
+                "html_file": "aug2009.html"
+            },
+            "120": {
+                "issue": 120,
+                "text_file": "dec2009.txt",
+                "html_file": "dec2009.html"
+            },
+            "110": {
+                "issue": 110,
+                "text_file": "feb2009.txt",
+                "html_file": "feb2009.html"
+            },
+            "109": {
+                "issue": 109,
+                "text_file": "jan2009.txt",
+                "html_file": "jan2009.html"
+            },
+            "115": {
+                "issue": 115,
+                "text_file": "jul2009.txt",
+                "html_file": "jul2009.html"
+            },
+            "114": {
+                "issue": 114,
+                "text_file": "jun2009.txt",
+                "html_file": "jun2009.html"
+            },
+            "111": {
+                "issue": 111,
+                "text_file": "mar2009.txt",
+                "html_file": "mar2009.html"
+            },
+            "113": {
+                "issue": 113,
+                "text_file": "may2009.txt",
+                "html_file": "may2009.html"
+            },
+            "119": {
+                "issue": 119,
+                "text_file": "nov2009.txt",
+                "html_file": "nov2009.html"
+            },
+            "118": {
+                "issue": 118,
+                "text_file": "oct2009.txt",
+                "html_file": "oct2009.html"
+            },
+            "117": {
+                "issue": 117,
+                "text_file": "sep2009.txt",
+                "html_file": "sep2009.html"
+            }
+        },
+        "2010": {
+            "124": {
+                "issue": 124,
+                "text_file": "apr2010.txt",
+                "html_file": "apr2010.html"
+            },
+            "-1": {
+                "issue": -1,
+                "text_file": "aug2010.txt",
+                "html_file": "aug2010.html"
+            },
+            "132": {
+                "issue": 132,
+                "text_file": "dec2010.txt",
+                "html_file": "dec2010.html"
+            },
+            "122": {
+                "issue": 122,
+                "text_file": "feb2010.txt",
+                "html_file": "feb2010.html"
+            },
+            "121": {
+                "issue": 121,
+                "text_file": "jan2010.txt",
+                "html_file": "jan2010.html"
+            },
+            "127": {
+                "issue": 127,
+                "text_file": "jul2010.txt",
+                "html_file": "jul2010.html"
+            },
+            "126": {
+                "issue": 126,
+                "text_file": "jun2010.txt",
+                "html_file": "jun2010.html"
+            },
+            "123": {
+                "issue": 123,
+                "text_file": "mar2010.txt",
+                "html_file": "mar2010.html"
+            },
+            "125": {
+                "issue": 125,
+                "text_file": "may2010.txt",
+                "html_file": "may2010.html"
+            },
+            "131": {
+                "issue": 131,
+                "text_file": "nov2010.txt",
+                "html_file": "nov2010.html"
+            },
+            "130": {
+                "issue": 130,
+                "text_file": "oct2010.txt",
+                "html_file": "oct2010.html"
+            },
+            "129": {
+                "issue": 129,
+                "text_file": "sep2010.txt",
+                "html_file": "sep2010.html"
+            }
+        },
+        "2011": {
+            "136": {
+                "issue": 136,
+                "text_file": "apr2011.txt",
+                "html_file": "apr2011.html"
+            },
+            "143": {
+                "issue": 143,
+                "text_file": "dec2011.txt",
+                "html_file": "dec2011.html"
+            },
+            "134": {
+                "issue": 134,
+                "text_file": "feb2011.txt",
+                "html_file": "feb2011.html"
+            },
+            "133": {
+                "issue": 133,
+                "text_file": "jan2011.txt",
+                "html_file": "jan2011.html"
+            },
+            "139": {
+                "issue": 139,
+                "text_file": "jul2011.txt",
+                "html_file": "jul2011.html"
+            },
+            "138": {
+                "issue": 138,
+                "text_file": "jun2011.txt",
+                "html_file": "jun2011.html"
+            },
+            "135": {
+                "issue": 135,
+                "text_file": "mar2011.txt",
+                "html_file": "mar2011.html"
+            },
+            "137": {
+                "issue": 137,
+                "text_file": "may2011.txt",
+                "html_file": "may2011.html"
+            },
+            "142": {
+                "issue": 142,
+                "text_file": "nov2011.txt",
+                "html_file": "nov2011.html"
+            },
+            "141": {
+                "issue": 141,
+                "text_file": "oct2011.txt",
+                "html_file": "oct2011.html"
+            },
+            "140": {
+                "issue": 140,
+                "text_file": "sep2011.txt",
+                "html_file": "sep2011.html"
+            }
+        },
+        "2012": {
+            "147": {
+                "issue": 147,
+                "text_file": "apr2012.txt",
+                "html_file": "apr2012.html"
+            },
+            "145": {
+                "issue": 145,
+                "text_file": "feb2012.txt",
+                "html_file": "feb2012.html"
+            },
+            "144": {
+                "issue": 144,
+                "text_file": "jan2012.txt",
+                "html_file": "jan2012.html"
+            },
+            "150": {
+                "issue": 150,
+                "text_file": "jul2012.txt",
+                "html_file": "jul2012.html"
+            },
+            "149": {
+                "issue": 149,
+                "text_file": "jun2012.txt",
+                "html_file": "jun2012.html"
+            },
+            "146": {
+                "issue": 146,
+                "text_file": "mar2012.txt",
+                "html_file": "mar2012.html"
+            },
+            "148": {
+                "issue": 148,
+                "text_file": "may2012.txt",
+                "html_file": "may2012.html"
+            },
+            "153": {
+                "issue": 153,
+                "text_file": "nov2012.txt",
+                "html_file": "nov2012.html"
+            },
+            "152": {
+                "issue": 152,
+                "text_file": "oct2012.txt",
+                "html_file": "oct2012.html"
+            },
+            "151": {
+                "issue": 151,
+                "text_file": "sep2012.txt",
+                "html_file": "sep2012.html"
+            }
+        },
+        "2013": {
+            "157": {
+                "issue": 157,
+                "text_file": "apr2013.txt",
+                "html_file": "apr2013.html"
+            },
+            "155": {
+                "issue": 155,
+                "text_file": "feb2013.txt",
+                "html_file": "feb2013.html"
+            },
+            "154": {
+                "issue": 154,
+                "text_file": "jan2013.txt",
+                "html_file": "jan2013.html"
+            },
+            "160": {
+                "issue": 160,
+                "text_file": "jul2013.txt",
+                "html_file": "jul2013.html"
+            },
+            "159": {
+                "issue": 159,
+                "text_file": "jun2013.txt",
+                "html_file": "jun2013.html"
+            },
+            "156": {
+                "issue": 156,
+                "text_file": "mar2013.txt",
+                "html_file": "mar2013.html"
+            },
+            "158": {
+                "issue": 158,
+                "text_file": "may2013.txt",
+                "html_file": "may2013.html"
+            },
+            "163": {
+                "issue": 163,
+                "text_file": "nov2013.txt",
+                "html_file": "nov2013.html"
+            },
+            "162": {
+                "issue": 162,
+                "text_file": "oct2013.txt",
+                "html_file": "oct2013.html"
+            },
+            "161": {
+                "issue": 161,
+                "text_file": "sep2013.txt",
+                "html_file": "sep2013.html"
+            }
+        },
+        "2014": {
+            "167": {
+                "issue": 167,
+                "text_file": "apr2014.txt",
+                "html_file": "apr2014.html"
+            },
+            "165": {
+                "issue": 165,
+                "text_file": "feb2014.txt",
+                "html_file": "feb2014.html"
+            },
+            "164": {
+                "issue": 164,
+                "text_file": "jan2014.txt",
+                "html_file": "jan2014.html"
+            },
+            "170": {
+                "issue": 170,
+                "text_file": "jul2014.txt",
+                "html_file": "jul2014.html"
+            },
+            "169": {
+                "issue": 169,
+                "text_file": "jun2014.txt",
+                "html_file": "jun2014.html"
+            },
+            "166": {
+                "issue": 166,
+                "text_file": "mar2014.txt",
+                "html_file": "mar2014.html"
+            },
+            "168": {
+                "issue": 168,
+                "text_file": "may2014.txt",
+                "html_file": "may2014.html"
+            },
+            "173": {
+                "issue": 173,
+                "text_file": "nov2014.txt",
+                "html_file": "nov2014.html"
+            },
+            "172": {
+                "issue": 172,
+                "text_file": "oct2014.txt",
+                "html_file": "oct2014.html"
+            },
+            "171": {
+                "issue": 171,
+                "text_file": "sep2014.txt",
+                "html_file": "sep2014.html"
+            }
+        },
+        "2015": {
+            "174": {
+                "issue": 174,
+                "text_file": "jan2015.txt",
+                "html_file": "jan2015.html"
+            },
+            "175": {
+                "issue": 175,
+                "text_file": "may2015.txt",
+                "html_file": "may2015.html"
+            }
+        },
+        "2016": {
+            "185": {
+                "issue": 185,
+                "text_file": "dec2016.txt",
+                "html_file": "dec2016.html"
+            },
+            "176": {
+                "issue": 176,
+                "text_file": "feb2016.txt",
+                "html_file": "feb2016.html"
+            },
+            "181": {
+                "issue": 181,
+                "text_file": "jul2016.txt",
+                "html_file": "jul2016.html"
+            },
+            "180": {
+                "issue": 180,
+                "text_file": "jun2016.txt",
+                "html_file": "jun2016.html"
+            },
+            "178": {
+                "issue": 178,
+                "text_file": "mar2016.txt",
+                "html_file": "mar2016.html"
+            },
+            "179": {
+                "issue": 179,
+                "text_file": "may2016.txt",
+                "html_file": "may2016.html"
+            },
+            "184": {
+                "issue": 184,
+                "text_file": "nov2016.txt",
+                "html_file": "nov2016.html"
+            },
+            "183": {
+                "issue": 183,
+                "text_file": "oct2016.txt",
+                "html_file": "oct2016.html"
+            },
+            "182": {
+                "issue": 182,
+                "text_file": "sep2016.txt",
+                "html_file": "sep2016.html"
+            }
+        },
+        "2017": {
+            "189": {
+                "issue": 189,
+                "text_file": "apr2017.txt",
+                "html_file": "apr2017.html"
+            },
+            "192": {
+                "issue": 192,
+                "text_file": "aug2017.txt",
+                "html_file": "aug2017.html"
+            },
+            "187": {
+                "issue": 187,
+                "text_file": "feb2017.txt",
+                "html_file": "feb2017.html"
+            },
+            "186": {
+                "issue": 186,
+                "text_file": "jan2017.txt",
+                "html_file": "jan2017.html"
+            },
+            "191": {
+                "issue": 191,
+                "text_file": "jun2017.txt",
+                "html_file": "jun2017.html"
+            },
+            "188": {
+                "issue": 188,
+                "text_file": "mar2017.txt",
+                "html_file": "mar2017.html"
+            },
+            "190": {
+                "issue": 190,
+                "text_file": "may2017.txt",
+                "html_file": "may2017.html"
+            },
+            "194": {
+                "issue": 194,
+                "text_file": "oct2017.txt",
+                "html_file": "oct2017.html"
+            },
+            "193": {
+                "issue": 193,
+                "text_file": "sep2017.txt",
+                "html_file": "sep2017.html"
+            }
+        }
+    }
+}
