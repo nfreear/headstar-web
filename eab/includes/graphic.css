@@ -161,6 +161,8 @@ ol.Archive, ul.Archive, ul#notes { list-style: circle; }
 /* Bulletin styles. */
 #eab h1, #eab h2, #eab h3 { text-transform: capitalize; }
 
+#eab h1 .Ps, #eab h2 .Ps, #eab h3 .Ps { display: none; }
+
 /* Homepage, 'current' link */
 .pg-index #bulletin li { margin: .4em 0; }
 #toCurrent { font-weight: bold; letter-spacing: .05em; }

@@ -33,7 +33,7 @@
     font: 1em Arial, Helvetica, Geneva, sans-serif;
   }
   pre { font: 1.05em Arial, Helvetica, Geneva, sans-serif; font-weight: normal; }
-  p, address, #main li { line-height: 1.3em; }
+  p, address, #main li { line-height: 1.5em; }
   a img { border: none; }
   address { font-style: normal; letter-spacing: .05em; }
   acronym, abbr { cursor: help; }
@@ -97,7 +97,16 @@ body .gs-webResult.gs-result a.gs-title:visited b {
 */
 body.pg-embed,
 .pg-embed #Body {
+  min-width: 500px;
+}
+.pg-embed #Body {
   background: #fff;
+  color: #444;
+  font: .9em verdana, tahoma, arial, helvetica, sans-serif;
+}
+
+.pg-embed h3 {
+  font: 1.1em georgia, 'new century schoolbook', 'times new roman', times, serif;
 }
 
 .pg-embed a {
@@ -108,7 +117,9 @@ body.pg-embed,
 .pg-embed #totop,
 .pg-embed #menu,
 .pg-embed #comment,
-.pg-embed #foot {
+.pg-embed #foot,
+.pg-embed #tribute,
+.pg-embed h2 {
   display: none;
 }
 
@@ -131,7 +142,7 @@ body.pg-embed,
 .pg-embed #bulletin {
   border: none;
 }
-.pg-embed h2 {
+/* .pg-embed h2 {
   border: none;
   color: #333;
-}
+} */

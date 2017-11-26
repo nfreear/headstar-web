@@ -1,6 +1,7 @@
 #.gitignore for headstar_web
 
 *email.*
+_*
 
 oembed.*
 
