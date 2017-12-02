@@ -25,8 +25,8 @@
     "build": "perl perl/bulletins.pl && perl perl/e-access.pl",
     "sfix": "semistandard --fix",
     "count": "find eab/issues/ -type f | grep '.txt' | wc -l",
-    "index.json": "php perl/index-json.php",
-    "test": "grunt"
+    "index.json": "perl/index-json.php",
+    "test": "grunt # && php -l **/i*.php"
   },
   "repository": {
     "type": "git",
@@ -40,6 +40,6 @@
   "license": "UNLICENSED",
   "bugs": "https://github.com/nfreear/headstar-web/issues",
   "ISSN": "1476-6337",
-  "x-bulletin-count": 204,
+  "x-bulletin-count": 194,
   "homepage": "http://headstar.com/eab/"
 }

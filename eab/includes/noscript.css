@@ -102,7 +102,7 @@ body.pg-embed,
 .pg-embed #Body {
   background: #fff;
   color: #444;
-  font: .9em verdana, tahoma, arial, helvetica, sans-serif;
+  font: .84em verdana, tahoma, arial, helvetica, sans-serif;
 }
 
 .pg-embed h3 {
@@ -131,6 +131,10 @@ body.pg-embed,
 }
 
 .pg-embed a[ href ] {
+  color: #039;
+  text-decoration: underline;
+}
+.pg-embed a:hover {
   color: blue;
 }
 .pg-embed #totop a {

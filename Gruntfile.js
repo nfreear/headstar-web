@@ -2,28 +2,23 @@
   E-Access Bulletin task-runner | © 2016 Nick Freear.
 */
 
-var COUNT_CMD = require('./package.json').scripts.count;
-// var COUNT_CMD = 'find eab/issues/ -type f | grep ".txt" | wc -l';
-var exec = require('child_process').execSync;
+// var PHP_LINT_CMD = 'php -l **/i*.php';
+// var INDEX_JSON_CMD = 'perl/index-json.php';
+var INDEX_JSON = './eab/index.json';
+// var exec = require('child_process').execSync;
 
 module.exports = function (grunt) {
   'use strict';
 
   grunt.log.subhead('## Running EAB build and tests.');
-  grunt.log.writeln();
-
-  var bulletinCount = (exec(COUNT_CMD) + '').replace(/\s+/g, '');
-
-  // grunt.config.set('bulletinCount', bulletinCount);
-
-  grunt.log.oklns('Bulletin count:', bulletinCount);
 
   grunt.initConfig({
-    bulletinCount: bulletinCount,
     exec: {
       // count: COUNT_CMD,
       bulletins: 'perl perl/bulletins.pl',
       build_site: 'perl perl/e-access.pl',
+      index_json: 'perl/index-json.php',
+      php_lint: 'php -l **/i*.php',
       semistandard: 'node_modules/.bin/semistandard'
     },
     jshint: {
@@ -67,7 +62,7 @@ module.exports = function (grunt) {
       opensearch_xml: 'eab/*.xml'
     },
     'string-replace': {
-      badgesvg: {
+      badge_svg: {
         files: { 'eab/badge.svg': 'eab/badge.svg' },
         options: {
           replacements: [{
@@ -76,7 +71,7 @@ module.exports = function (grunt) {
           }]
         }
       },
-      packagejson: {
+      package_json: {
         files: { 'package.json': 'package.json' },
         options: {
           replacements: [{
@@ -109,7 +104,19 @@ module.exports = function (grunt) {
   // grunt.loadNpmTasks('grunt-notify');
   // grunt.task.run('notify_hooks');
 
-  grunt.registerTask('default', [ 'exec', 'jshint', 'htmlhint', 'validate_xml', 'string-replace' ]);
+  grunt.registerTask('default', [ 'exec', 'jshint', 'htmlhint', 'validate_xml', 'issue-count' ]);
+
+  grunt.registerTask('issue-count', [ 'set-issue-count', 'string-replace' ]);
+
+  grunt.registerTask('set-issue-count', function () {
+    // exec(INDEX_JSON_CMD);
+
+    var issueCount = require(INDEX_JSON).issue_count;
+
+    grunt.config.set('bulletinCount', issueCount);
+
+    grunt.log.oklns('Bulletin issue count:', issueCount);
+  });
 };
 
 /*

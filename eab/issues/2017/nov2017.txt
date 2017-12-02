@@ -1,0 +1,542 @@
+++E-ACCESS BULLETIN
+Access to technology for all, regardless of ability.
+- ISSUE 195, November 2017.
+
+For HTML and text versions of all previous issues, please visit the
+e-Access Bulletin Archive. Thanks to Dr. Nick Freear for maintaining the
+Bulletin Archive.
+
+e-Access Bulletin is produced with the support of Thomas Pocklington
+Trust.
+http://pocklington-trust.org.uk .
+
+To forward this free publication to others, use our forward link
+underneath the end of the bulletin instead of your email application’s
+‘forward’ button. Please encourage others to subscribe at our sign-up
+page below: http://lists.headstar.com .
+
+Please email questions, comments, article ideas and news leads to:
+eaccessbulletin@gmail.com .
+
+E-Access Bulletin conforms to the accessible Text Email Newsletter (TEN)
+Standard.
+http://headstar.com/ten .
+
+
+++Issue 195 contents.
+
+Section One: News.
+
+01: New online platform aims to be a game-changer for accessible ICT.
+- Resources portal acts as a collaborative space to bring industries together.
+
+02: Funkify plugin reveals impaired browsing to all users.
+- Simulator distorts web pages to highlight access issues.
+
+03: New site guides businesses towards accessible tourism.
+- Tourist boards helping businesses to publish access information.
+
+News in Brief: 04: Inclusive Accommodation – Airbnb accessibility
+improvements; 05: Mobile Knowledge – Access features explained; 06:
+Digital Developments – Government Digital Service announces changes.
+
+Section Two: The Inbox – Readers’ Forum.
+
+07: App Happy – Charity launches free guide;
+08: Device Doctor: Advice on iPhone vs. Android debate.
+
+Section Three: Report.
+– AI at TechShare Pro 2017.
+
+08: Artificial intelligence and accessibility: the voice of things
+to come.
+How can artificial intelligence be used to improve accessibility and help
+people with disabilities? This was one of the key themes discussed at the
+TechShare Pro conference in London. Speakers from across industries
+examined the benefits, and setbacks, of AI, exploring systems and apps
+that currently use the technology and how this will evolve in the future.
+
+[Contents ends].
+
+
+++Section One: News.
+
++01: New online platform aims to be a game-changer for accessible ICT.
+
+An accessibility resources platform that claims to be ‘the first of its
+kind in the world” has been launched.
+
+DeveloperSpace aims to be a comprehensive portal for information on
+inclusive digital content and systems, for a wide-ranging audience.
+Although primarily aimed at developers, designers and anyone building
+digital systems or content, the site has been created to foster
+collaboration between different industries and disciplines, in the hope
+of creating and sharing what the site calls ‘accessible solutions’ to ICT
+accessibility problems.
+
+To identify and address these problems effectively, computer-users with a
+range of impairments were involved at all stages of building
+DeveloperSpace.
+
+Key features of the site include an ‘Accessibility Masterlist’ (which
+gives information on a range of ICT accessibility features, such as
+alternative computer settings and audio enhancement), ‘Quicksheets’
+(summaries of topics such as social media accessibility and PDF readers)
+and tutorials on a range of topics, such as inclusive e-publishing and
+accessible web games.
+
+Other features include a question and answer forum and a ‘Challenges’
+section, where people can volunteer to solve accessibility tasks,
+sometimes for prize money or funding. One challenge is based around
+improving a ‘photosensitive seizure tool’ (which detects flashing web
+content that could cause seizures in some users) so that it can be
+released as open source, carrying a reward of $10,000.
+
+DeveloperSpace was created as the main outcome of the European
+Commission-funded Prosperity4All project and is part of the Global Public
+Inclusive Infrastructure (GPII), both of which aim to drive forward
+inclusive technology development and access to these technologies.
+
+Gregg Vanderheiden – Prosperity4All’s Technical Coordinator and Director
+and Professor of the Trace R&D Center at the University of Maryland –
+told e-Access Bulletin that as well as providing key resources, another
+aim of DeveloperSpace is to collate knowledge and ideas from across the
+board. He said: “A goal is to bring together input from consumers and all
+members of a development team – specialists, testers, teachers,
+researchers and more – to provide individual guides about particular
+aspects of the site that may be helpful to them.”
+
+Speaking about what makes the platform the ‘first of its kind in the
+world,’ Vanderheiden said: “The DeveloperSpace differs from other sites
+in that it looks at the problem comprehensively, providing tools for all
+types of information and communication technologies – including anything
+with a digital interface.”
+
+DeveloperSpace has already been used to help build and improve a number
+of accessibility projects, some of which are highlighted on the site.
+These include printing services for visually impaired students and a
+programme to create accessible video for refugees in the Netherlands.
+
+Find out more at the DeveloperSpace website below:
+https://ds.gpii.net/ .
+
+Comment on this story now at e-Access Bulletin Live:
+http://headstar.com/eablive/?p=1433 .
+
++02: Funkify plugin reveals impaired browsing to all users.
+
+A new browser plugin that distorts web pages to simulate the online
+experience for users with impairments is aiming to encourage developers
+to create more accessible websites and apps.
+
+The Funkify tool is available in Google Chrome and features a range of
+filters, which intentionally make it difficult to read and navigate
+online content. The intention is to recreate how users with visual, print
+and motor impairments experience the internet.
+
+Funkify was developed by a team of accessibility enthusiasts from
+companies and startup projects in Sweden. A prototype was created for a
+‘hackathon’ competition in 2016 and was awarded a joint first place in
+the event.
+
+The group then successfully applied for innovation funding to build the
+plugin during 2017. A new beta version has just been released for
+testing.
+
+The team worked with people with a range of impairments, to develop the
+Funkify simulations, which imitate effects of sight loss (including
+blurry vision, tunnel vision and central vision loss), ‘trembling hands’,
+dyslexia and colour vision deficiency.
+
+For example, the ‘tunnel vision’ filter blanks out a large part of the
+user’s screen, leaving only a small area to read text on the page, while
+the ‘trembling hand’ filter causes the cursor to judder constantly.
+
+To make the simulations as authentic as possible, the team “interviewed,
+brainstormed and tested” with people with different impairments.
+
+Speaking to e-Access Bulletin, one of Funkify’s co-founders, Lena
+Furberg, said: “We strive to make the experience as memorable as
+possible, so that people remember it and have accessibility in mind the
+next time they create a colour palette, choose font sizes or decide on
+the height of click targets.”
+
+She added: “Of course, everyone experiences things differently, and we’re
+not saying that people will understand exactly what life is like with –
+for example – a tremor if you try the ‘trembling hand’ simulator.”
+
+Reactions from users without impairments using Funkify have been
+positive, but the goal remains to drive forward inclusive web design and
+content by sharing the tool with developers. “It’s nice to see some
+people get the point of ‘design for all’ and accessibility for the very
+first time when they use Funkify,” Furberg said. “We hope to reach as
+many web and app developers as possible and make them understand the
+importance of making their products accessible, and prioritise this
+higher than they do today.”
+
+As a follow-up to the project, the team behind Funkify are also building
+a separate tool that will simulate cognitive impairments, including ADHD
+and autism, which will launch in December.
+
+Download the plugin for free at the Funkify website:
+http://www.funkify.org/ .
+
+Comment on this story now at e-Access Bulletin Live: Funkify:
+http://headstar.com/eablive/?p=1431 .
+
+
++03: New site guides businesses towards accessible tourism.
+
+Tourism businesses in England and Scotland, such as hotels, restaurants
+and sightseeing attractions are being encouraged to produce
+‘accessibility guides’ online to let visitors know about access
+facilities.
+
+VisitEngland and VisitScotland, the official tourist boards for both
+countries, have launched a website that gives organisations a template
+for creating a guide. The result is a single, standardised page
+containing comprehensive access information for users.
+
+This information is available in simple menus, telling users which areas
+in a venue have level access for wheelchair use, where there are hearing
+loops for visitors with hearing aids, and what facilities exist for
+visually impaired visitors, such as alternative print format menus.
+
+Also on the page are contact details for each venue, travel and arrival
+information (such as accessible parking facilities and
+wheelchair-friendly ramps), and the option to download the page as a Word
+document.
+
+Any business can use the site to produce a guide. Users just need to
+register through the site and are then guided through the process
+step-by-step. This includes looking at example guides, answering a
+questionnaire on access facilities at the venue and uploading photos.
+
+Once the guide has been created, the business is given a unique URL to
+publish and share, allowing everyone to view the page. As the page is
+created through a standardised template, visitors can easily familiarise
+themselves with the format.
+
+VisitEngland’s head of business support, Ross Calladine, told e-Access
+Bulletin that the guides enable potential visitors to make informed
+decisions about where to visit and stay, based on their individual needs.
+Calladine said: “One in five of the UK population has accessibility
+requirements, meaning that about 20% of potential customers would like to
+have practical information on accessibility. Furthermore, with an ageing
+population, those with accessibility requirements are likely to represent
+an even larger section of the potential customer base. An accessibility
+guide helps businesses to future-proof their venue.”
+
+Find out how to create a guide at VisitEngland and VisitScotland’s
+Accessibility Guides site:
+https://www.accessibilityguides.org/ .
+
+Comment on this story now at e-Access Bulletin Live: Tourism guides.
+http://headstar.com/eablive/?p=1429 .
+
+
+++News in Brief:
+
++04: Inclusive Accommodation: Airbnb has taken a series of steps to make its services more accessible for users with disabilities. The online accommodation rental platform will incorporate listings from accessible accommodation platform Accomable (which has been acquired by Airbnb) and use new ‘accessibility needs’ checklists, (which allow hosts to provide more detailed access info about their property for travellers with disabilities), as well as working to make its website and mobile app easier to use for all.
+
+Read more about the accessibility improvements at the Airbnb website:
+https://press.atairbnb.com/making-travel-more-accessible/ .
+
++05: Mobile Knowledge: A free guide on mobile accessibility features for
+iOS and Android devices has been released by accessibility consultancy
+The Paciello Group. The ‘mobile testing’ guide explains how to use
+built-in accessibility apps and settings (such as Android’s TalkBack and
+VoiceOver on iOS, including control gestures and shortcuts), as well as
+how to test mobile web content for accessibility. The document is aimed
+at anyone working with mobile apps and those who simply want to know more
+about accessibility features on their smartphone.
+
+The Mobile Accessibility Guide is available in accessible PDF at
+The Paciello Group’s website:
+https://developer.paciellogroup.com/blog/2017/11/mobile-accessibility-testing-guide-for-android-and-ios-free/ .
+
++06: Digital Developments: The UK’s Government Digital Service (GDS)
+Accessibility team have made a number of accessibility improvements
+across its operations. One of the steps has been to publish and update a
+series of guides, including an introduction to making services
+accessible, information on testing websites for accessibility and
+understanding the Web Content Accessibility Guidelines (WCAG) 2.0. The
+changes have been informed by various pieces of research (including the
+2016 GOV.UK assistive technology survey) which looked at how government
+teams approached accessibility and the challenges they faced.
+
+Find out more at the GDS blog on GOV.UK:
+https://gds.blog.gov.uk/2017/10/23/were-making-accessibility-clearer-and-easier/ .
+
+[Section One ends].
+
+
+++ Notice: Thomas Pocklington Trust.
+
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for
+people with sight loss. Find out more about the charity’s work by
+visiting the Thomas Pocklington Trust website:
+http://pocklington-trust.org.uk .
+
+[Notice ends].
+
+
+++Section Two: ‘The Inbox’
+- Readers’ Forum.
+
+Please email all questions, comments and responses to:
+eaccessbulletin@gmail.com .
+
++07: App Happy: In last month’s Inbox, Tony Moss got in touch from
+Manchester to ask for advice on the accessibility pros and cons of
+iPhones and Android phones, and the apps for each device. Tony, who is
+registered blind but has some vision in his left eye, wanted to know
+which phone would be more useful for him before making a purchase.
+
+Several readers contacted the Bulletin to flag up resources for Tony,
+including Sophie Grattidge from sight loss charity Henshaws:
+
+“Henshaws has recently created a free e-book with the 24 best apps for
+people with a visual impairment, which I hope Tony or others may find
+useful. We’ve divided the apps by topic and it covers identification,
+social networking, navigation, shopping, work, reading and entertainment.
+
+“We also provide free one-to-one training and assessments for visually
+impaired people in Manchester and Liverpool to guide them on what
+technology to use and how to use it. If Tony needs any support, he can
+get in touch by phoning 0161 872 1234 or emailing
+carrie.sant@henshaws.org.uk.
+
+“The e-book can be downloaded at the Henshaws website
+(https://www.henshaws.org.uk/ebook-24-best-apps-people-visual-impairment/ ).
+Users just need to put in their email address first.”
+
++08: Device Doctor: Another reader, Hannah Bailey, offers Tony more
+advice on the iPhone vs Android issue, highlighting some other useful
+resources:
+
+“Re: Apple vs Android, I think budget needs to be considered.
+Frustratingly, while accessibility settings have certainly improved,
+there is little consistency across brands as to how they are laid out and
+the terminology used in descriptions.
+
+“I also suggest making sure any type of voiceover technology has a quick
+shortcut option for toggling on and off, as it can be difficult to
+navigate to it quickly in settings.
+
+“The organisation I work for, Berneslai Homes [a social housing landlord
+managing properties on behalf of Barnsley Council], has made overview
+videos on Apple’s VoiceOver feature and apps for different sensory
+impairments. The videos are available on the Berneslai Homes ‘Device
+Doctor’ YouTube channel
+(https://www.youtube.com/channel/UCvuoSEIj2wIxjGZsSTQti5w ). We can take
+requests for app overview videos as well.
+
+“RNIB’s excellent Online Today project
+(http://www.rnib.org.uk/online-today ) can also help people navigate the
+choices.”
+
+Please send any other ideas and advice to:
+eaccessbulletin@gmail.com .
+
+
+[Section Two ends].
+
+
+++ Notice: RNIB Connect Radio and e-Access Bulletin.
+
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on
+The Early Edition programme. Hear more about the bulletin and upcoming
+content appearing in each issue, as we discuss the latest accessible
+technology news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via
+television, smartphone or radio. Listening details can be found at the
+following link: http://eab.li/3e . Find out more at the RNIB Connect
+Radio website: http://eab.li/1h .
+
+[Notice ends].
+
+
+++Section Three: Report.
+– AI at TechShare Pro 2017.
+
++08: Artificial intelligence and accessibility: the voice of things to
+come.
+
+Artificial intelligence (AI) was high on the agenda at the recent
+TechShare Pro 2017 conference in London. Hosted by AbilityNet and RNIB,
+the event explored a wide range of topics and ideas around digital
+accessibility and accessible technology, with a range of speakers
+discussing key ideas and developments.
+
+One of the most popular themes of the event was AI and its potential
+benefits for accessibility. AI technologies have evolved at a tremendous
+pace over recent years and are now being used in everything from stock
+market trading to email management – but how can these technologies be
+utilised to help people with disabilities and impairments?
+
+As delegates at the event heard, numerous innovative systems and projects
+using AI are being developed, which could have a huge impact in the near
+future, but as some speakers pointed out, AI is also being used to
+benefit people right now, in devices and apps that many people use every
+day. Here’s a summary of how AI was covered throughout the event.
+
+Paul Smyth, Head of ICT Accessibility at Barclays, talked about the
+future of banking from an accessibility point of view and how AI is
+helping to enable this. Processes are becoming simpler, Smyth said, which
+helps users to complete tasks with fewer issues. As an example and to
+show how mobile banking is evolving, he then demonstrated a
+voice-operated payment system through an app.
+
+“Rather than users having to learn increasingly complicated systems,
+there’s been a paradigm shift, where those systems now learn about users,
+which is very powerful,” Smyth said.
+
+Smyth also talked about the increasing use of biometrics systems in
+banking, such as fingerprint recognition on apps, alongside voice and
+facial recognition to identify customers.
+
+He said: “These things are simple and secure, we just need to get more
+comfortable in using them and the technology needs to evolve too.”
+
+Smyth also talked about how technology is increasing personalisation
+within banking and how this can improve user experience: “The exciting
+bit in terms of AI is how it can power predictive insights,” he said,
+explaining that AI will increasingly be used to advise customers on how
+they can manage their money more effectively.
+
+Following on from Smyth’s presentation was a panel discussion on ‘What
+does AI mean for the future of accessibility?’, hosted by Robin
+Christopherson, Head of Digital Inclusion at AbilityNet. Ellie Southwood,
+Chair of RNIB, spoke about how various devices and apps are helping make
+life easier for people with visual impairments. She explained how her
+Amazon Echo Dot ‘smart speaker’ (which responds to voice commands and
+questions from users) makes it simpler to find information, before
+talking about a new talking camera app, Seeing AI.
+
+She said: “The app’s ability to recognise not just text, but also people
+and scenarios, is incredibly exciting, because in order to make decisions
+about the world, you have to interpret it – and if you can’t see, the
+interpretation you have is usually somebody else’s.”
+
+Hector Minto, Technical Evangelist for Accessibility at Microsoft, then
+explained how he thinks AI will change accessibility. He said: “One of
+the challenges we have is to make accessibility matter to a wider
+audience and this is one of the roles that AI can fulfil. Rather than
+expecting somebody to provide information in an accessible format,
+hopefully AI will mean that all documentation becomes accessible in the
+future.”
+
+Minto also spoke about Seeing AI and how he believes the app, and other
+similar technologies, can change interactions for people with
+disabilities. He said: “Seeing AI can recognise text, it can recognise
+people and emotion, and recognising something changes the social dynamic
+around disability.”
+
+Explaining how someone who is blind could use the app to quickly identify
+who is around them, Minto said: “It empowers people to enter a room with
+their disability and take control, and that is a leveller.”
+
+Following the discussion, an audience member asked the panel about
+potential difficulties in using AI-based voice technologies, particularly
+for people with cognitive impairments, and how these systems could be
+made more accessible.
+
+Responding to the question, Ellie Southwood said that there are still
+“gaps” in the technology, but that using voice-operated AI systems to
+carry out complicated tasks “has to be the future.” She explained that
+these systems need to be customer-led and built around specific needs of
+users to ensure they work effectively.
+
+Hector Minto agreed with this point, claiming that: “People with
+disabilities are going to lead the knowledge base on voice interaction.”
+
+Later on in the day, Gareth Ford Williams, Head of Accessibility for
+Design and Engineering at the BBC, hosted a session on ‘The BBC
+Accessibility Journey and the Impact of Artificial Intelligence.’
+Williams discussed how new and emerging technologies are being used by
+the BBC to make its operations more accessible for users.
+
+He explained how AI can be used in ‘object-based broadcasting’ to learn
+about users’ viewing habits and tailor how programmes are delivered to
+them based on their requirements.
+
+Speaking more generally about the potential of AI systems, Williams said:
+“Disenfranchised audiences are really going to benefit. For older
+audiences and others who struggle to use some assistive technologies,
+having something more humanistic as a mode of interaction is going to
+create a lot of opportunities for them.”
+
+In the afternoon, Kiran Kaja, Technical Program Manager for Search
+Accessibility at Google, gave some insights on current and future use of
+AI. He pointed out that “AI is everywhere. It’s already being used quite
+widely – for example, in speech recognition, which is based on ‘neural
+networks’. This uses ‘machine learning’ to replicate how the human
+nervous system works.”
+
+He explained that improvements to text-to-speech and predictive text
+systems are being made using AI, before discussing ‘computer vision’, in
+reference to the kind of image recognition that apps like Seeing AI use.
+Kaja said: “Being able to use computer vision to recognise objects and
+find the relationship between the objects – those things have really big
+potential for helping people with disabilities.”
+
+Kaja also addressed a key issue that delegates had been discussing
+throughout the day: ease-of-use of AI systems, particularly for users
+with impairments. He said: “The great thing about all of this is that as
+a user, you shouldn’t need to worry about what AI is and what it can do –
+it should all just work for you. That’s the hallmark of great UX [user
+experience] design.”
+
+More information about TechShare Pro 2017, including videos and
+presentation materials from the event, can be found at the AbilityNet
+website:
+https://abilitynet.org.uk/techsharepro .
+
+Comment on this story now at e-Access Bulletin Live: TechShare Pro and AI:
+http://headstar.com/eablive/?p=1427 .
+
+[Section Three ends]
+
+
+++End Notes.
+
++How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly bulletin, visit:
+http://lists.headstar.com .
+Please encourage others to sign-up!
+
+Please send requests, comments and ideas for news or features to:
+eaccessbulletin@gmail.com .
+
+To forward this free publication to others, use our forward link
+underneath the end of the bulletin instead of your email application’s
+‘forward’ button.
+
+Previous issues of E-Access Bulletin can be viewed in text or HTML format
+at the following online archive:
+http://headstar.com/eab/archive.html .
+
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also inform
+the editor when you are reproducing our content. Sections of the bulletin
+may be quoted as long as they are clearly sourced as 'taken from e-Access
+Bulletin, a free monthly email newsletter', and the website address below
+is also cited:
+
+http://headstar.com/eablive .
+
++Personnel:
+
+Editor: Tristan Parker
+Technical Director: Jake Jellinek
+Accessibility Advisor: Dr. Nick Freear
+
+ISSN 1476-6337.
+
+[Issue 195 ends.]

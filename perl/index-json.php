@@ -11,8 +11,10 @@ define( 'START_YEAR', 2000 );
 define( 'END_YEAR', 2017 );
 define( 'DIR', __DIR__ . '/../eab/issues/' );
 define( 'INDEX_JSON', __DIR__ . '/../eab/index.json' );
+// define( 'PKG_JSON', __DIR__ . '/../package.json' );
 define( 'ISSUE_REGEX', '/\n([\*-] )?ISSUE (?P<issue>\d+),/s' );
 define( 'TXTFILE_REGEX', '/^(?P<month>jan|[a-z]{3})20\d\d\.txt$/' );
+define( 'EMAIL_REGEX', '/.+\.email\.html' );
 define( 'EDITOR_REGEX', '/Editor:[ ]+(?P<ed>Tristan Parker|Dan-J-XX)/' );
 define( 'TENS_ISSUE', 36 );  // http://headstar.com/ten
 define( 'TENS_DATE', '2002-12-01' );  // December 2002.
@@ -34,9 +36,12 @@ $result = $for->loop(function ($year) use (&$count, &$issue_archive) {
   $year_archive = [];
 
   foreach ($files as $file) {
-    if ( ! preg_match( TXTFILE_REGEX, $file ) ) {
+    if ( ! preg_match( TXTFILE_REGEX, $file, $matches ) ) {
       continue;
     }
+
+    $month = $matches[ 'month' ];
+    $date = date_parse( "01-$month-1970" );
 
     $bulletin_text = file_get_contents( $directory . '/' . $file );
 
@@ -50,8 +55,11 @@ $result = $for->loop(function ($year) use (&$count, &$issue_archive) {
     }
     else {
       $issue_num = -1;
-      echo 'E' . $year;
+      echo "E:$month-$year";
     }
+
+    $email_file = str_replace( '.txt', '.email.html', $file );
+    $email_exist = file_exists( $directory . '/' . $email_file );
 
     $editor = preg_match( EDITOR_REGEX, $bulletin_text ) ? 'TP' : 'DJ';
 
@@ -59,6 +67,8 @@ $result = $for->loop(function ($year) use (&$count, &$issue_archive) {
       'issue' => (int) $issue_num,
       'text_file' => $file,
       'html_file' => str_replace( '.txt', '.html', $file ),
+      'email_file'=> $email_exist ? $email_file : null,
+      'month'  => $date[ 'month' ],
       'editor' => $editor,
     ];
 
