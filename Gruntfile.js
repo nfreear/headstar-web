@@ -2,20 +2,16 @@
   E-Access Bulletin task-runner | © 2016 Nick Freear.
 */
 
-// var PHP_LINT_CMD = 'php -l **/i*.php';
-// var INDEX_JSON_CMD = 'perl/index-json.php';
 var INDEX_JSON = './eab/index.json';
-// var exec = require('child_process').execSync;
 
 module.exports = function (grunt) {
   'use strict';
 
-  grunt.log.subhead('## Running EAB build and tests.');
+  grunt.log.subhead('# Running E-Access Bulletin build and tests.');
 
   grunt.initConfig({
     exec: {
-      // count: COUNT_CMD,
-      bulletins: 'perl perl/bulletins.pl',
+      bulletins_perl: 'perl perl/bulletins.pl',
       build_site: 'perl perl/e-access.pl',
       index_json: 'perl/index-json.php',
       php_lint: 'php -l **/i*.php',
@@ -109,8 +105,6 @@ module.exports = function (grunt) {
   grunt.registerTask('issue-count', [ 'set-issue-count', 'string-replace' ]);
 
   grunt.registerTask('set-issue-count', function () {
-    // exec(INDEX_JSON_CMD);
-
     var issueCount = require(INDEX_JSON).issue_count;
 
     grunt.config.set('bulletinCount', issueCount);
@@ -119,19 +113,4 @@ module.exports = function (grunt) {
   });
 };
 
-/*
-const exec = require('child_process').exec;
-var bcount = 0;
-
-function bulletinCount (bcount) {
-  exec(COUNT_CMD, function (err, stdout, stderr) {
-    if (err) {
-      console.error(err);
-      return;
-    }
-
-    bcount = stdout; // 204!
-
-    console.log('Bulletin count: ', stdout);
-  });
-} */
+// End.

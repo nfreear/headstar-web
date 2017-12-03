@@ -11,7 +11,6 @@ define( 'START_YEAR', 2000 );
 define( 'END_YEAR', 2017 );
 define( 'DIR', __DIR__ . '/../eab/issues/' );
 define( 'INDEX_JSON', __DIR__ . '/../eab/index.json' );
-// define( 'PKG_JSON', __DIR__ . '/../package.json' );
 define( 'ISSUE_REGEX', '/\n([\*-] )?ISSUE (?P<issue>\d+),/s' );
 define( 'TXTFILE_REGEX', '/^(?P<month>jan|[a-z]{3})20\d\d\.txt$/' );
 define( 'EMAIL_REGEX', '/.+\.email\.html' );
@@ -21,7 +20,7 @@ define( 'TENS_DATE', '2002-12-01' );  // December 2002.
 define( 'NOMINAL_PUBLISH_DAY', 20 );  // Day of month.
 define( 'MONTHS', 'jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec' );
 
-require_once 'ReversibleForLoop.php';
+require_once 'lib/ReversibleForLoop.php';
 
 $issue_archive = [];
 $count = 0;

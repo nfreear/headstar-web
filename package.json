@@ -26,7 +26,7 @@
     "sfix": "semistandard --fix",
     "count": "find eab/issues/ -type f | grep '.txt' | wc -l",
     "index.json": "perl/index-json.php",
-    "test": "grunt # && php -l **/i*.php"
+    "test": "grunt"
   },
   "repository": {
     "type": "git",
