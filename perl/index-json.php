@@ -79,8 +79,6 @@ $result = $for->loop(function ($year) use (&$count, &$issue_archive) {
   $issue_archive[ $year ] = $year_archive;
 });
 
-// var_dump( $result );
-
 $archive = [
   'title' => 'E-Access Bulletin archive.',
   'build_time' => date( 'c' ),
@@ -92,7 +90,7 @@ $archive = [
   'tens_issue' => TENS_ISSUE,
   'tens_date' => TENS_DATE,
   'issue_count' => $count,
-  'order_by' => IS_ASCEND ? 'ASC' : 'DESC',
+  'order_by' => 'year, issue ' . ( IS_ASCEND ? 'ASC' : 'DESC' ),
   'issues' => $issue_archive,
 ];
 

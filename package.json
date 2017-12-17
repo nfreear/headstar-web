@@ -36,6 +36,7 @@
     "accessibility",
     "bulletin"
   ],
+  "files": [ "eab/", "ten/" ],
   "author": "Nick Freear (@nfreear)",
   "license": "UNLICENSED",
   "bugs": "https://github.com/nfreear/headstar-web/issues",

@@ -1,8 +1,7 @@
-#.gitignore for headstar_web
+# .gitignore for headstar-web.
 
-*email.*
+# *email.*
 _*
-perl/Rever*.php
 
 oembed.*
 
@@ -20,6 +19,7 @@ phplist3
 *old*
 *NEW*
 *.doc
+*.tgz
 
 *.log
 perl/logs/*.log
@@ -40,4 +40,4 @@ archiv*_*.html
 /*.html
 
 
-#End.
+# End.
