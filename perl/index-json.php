@@ -8,7 +8,7 @@
 
 define( 'IS_ASCEND', false );
 define( 'START_YEAR', 2000 );
-define( 'END_YEAR', 2017 );
+define( 'END_YEAR', 2019 );
 define( 'DIR', __DIR__ . '/../eab/issues/' );
 define( 'INDEX_JSON', __DIR__ . '/../eab/index.json' );
 define( 'ISSUE_REGEX', '/\n([\*-] )?ISSUE (?P<issue>\d+),/s' );
@@ -30,6 +30,9 @@ $for = new Nfreear\ReversibleForLoop(START_YEAR, END_YEAR + 1, IS_ASCEND);
 $result = $for->loop(function ($year) use (&$count, &$issue_archive) {
 
   $directory = DIR . $year;
+
+  if (! file_exists( $directory )) { return; }
+
   $files = scandir( $directory );
 
   $year_archive = [];

@@ -1,6 +1,6 @@
 {
     "title": "E-Access Bulletin archive.",
-    "build_time": "2017-12-02T21:10:43+01:00",
+    "build_time": "2018-01-31T22:22:07+01:00",
     "base_url": "http:\/\/headstar.com\/eab\/issues\/{year}\/{file}",
     "editors": {
         "DJ": "Dan Jellinek",
@@ -8,9 +8,19 @@
     },
     "tens_issue": 36,
     "tens_date": "2002-12-01",
-    "issue_count": 194,
-    "order_by": "DESC",
+    "issue_count": 195,
+    "order_by": "year, issue DESC",
     "issues": {
+        "2018": {
+            "196": {
+                "issue": 196,
+                "text_file": "jan2018.txt",
+                "html_file": "jan2018.html",
+                "email_file": "jan2018.email.html",
+                "month": 1,
+                "editor": "TP"
+            }
+        },
         "2017": {
             "195": {
                 "issue": 195,
