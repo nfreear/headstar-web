@@ -1,8 +1,9 @@
 {
   "private": true,
-  "name": "headstar-web",
+  "name": "e-access-bulletin",
+  "x-name": "headstar-web",
   "version": "1.0.0",
-  "description": "E-Access Bulletin | Copyright © 2000-2017 Headstar Limited. All rights reserved.",
+  "description": "E-Access Bulletin | Copyright © 2000-2018 Headstar Limited. All rights reserved.",
   "main": "Gruntfile.js",
   "dependencies": {},
   "devDependencies": {
@@ -14,6 +15,7 @@
     "grunt-htmlhint": "^0.9.13",
     "grunt-notify": "^0.4.5",
     "grunt-string-replace": "^1.3.1",
+    "pa11y-ci": "^1.3.1",
     "replace": "^0.3.0",
     "semistandard": "^11.0.0"
   },
@@ -24,14 +26,13 @@
     "cat-log": "cat perl/logs/00e-access.log",
     "build": "perl perl/bulletins.pl && perl perl/e-access.pl",
     "sfix": "semistandard --fix",
+    "issue-count": "grunt issue-count",
     "count": "find eab/issues/ -type f | grep '.txt' | wc -l",
     "index.json": "perl/index-json.php",
+    "pa11y-ci": "pa11y-ci --config .pa11yci.json",
     "test": "grunt"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nfreear/headstar-web.git"
-  },
+  "repository": "https://github.com/nfreear/headstar-web.git",
   "keywords": [
     "accessibility",
     "bulletin"
@@ -41,6 +42,6 @@
   "license": "UNLICENSED",
   "bugs": "https://github.com/nfreear/headstar-web/issues",
   "ISSN": "1476-6337",
-  "x-bulletin-count": 194,
+  "x-bulletin-count": 195,
   "homepage": "http://headstar.com/eab/"
 }

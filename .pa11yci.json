@@ -1,0 +1,21 @@
+{
+  "#": "Automated accessibility testing ~ https://github.com/pa11y/pa11y-ci",
+
+  "defaults": {
+    "standard": "WCAG2AA",
+    "timeout": 5000,
+    "wait": 500
+  },
+  "urls": [
+    "http://headstar.com/eab/archive.html?_ua=pa11y-ci",
+    "http://headstar.com/eab/issues/2018/jan2018.html?_ua=pa11y-ci",
+    "http://headstar.com/eab/issues/2018/jan2018.email.html?_ua=pa11y-ci"
+  ],
+
+  "X-DISABLED-urls": [
+    {
+      "url": "http://www.headstar.com/eablive/?_ua=pa11y-ci",
+      "X-verifyPage": "idc-container"
+    }
+  ]
+}

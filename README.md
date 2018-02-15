@@ -45,7 +45,7 @@ npm test
 ```
 
 ---
-Copyright © 2000-2017 Headstar Limited. [All rights reserved][copy].
+Copyright © 2000-2018 Headstar Limited. [All rights reserved][copy].
 
 ISSN 1476-6337.
 
