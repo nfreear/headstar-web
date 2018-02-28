@@ -1,0 +1,468 @@
+# E-Access Bulletin – Issue 197, February 2018
+
+Access to technology for all, regardless of ability.
+
+For HTML and text versions of all previous issues, please [visit the
+e-Access Bulletin Archive](http://headstar.com/eab/archive.html).
+
+Thanks to Dr. Nick Freear for maintaining the Bulletin Archive.
+
+E-Access Bulletin is produced with the support of [Thomas Pocklington
+Trust](http://www.pocklington-trust.org.uk/).
+
+To forward this free publication to others, use our forward link
+underneath the end of the bulletin instead of your email application’s
+‘forward’ button. Please encourage others to [subscribe at our sign-up
+page](http://lists.headstar.com/).
+
+Please email questions, comments, article ideas and news leads to:
+
+[eaccessbulletin@gmail.com](mailto:eaccessbulletin@gmail.com) .
+
+## Issue 197 contents.
+
+Section One: News.
+
+01: Government asks the experts for guidance in assistive technology
+inquiry.
+
+– Assistive technology in the spotlight to help close disability
+employment gap.
+
+02: “Born accessible” e-books is the grand plan for new e-publishing
+tool.
+
+– DAISY Consortium’s new system tests for accessibility errors.
+
+03: Apps combine forces to give visually impaired passengers a smoother
+ride. – Transit data service teams up with sighted video service app.
+
+News in Brief:
+
+04: Tech Support – Google Disability Support Team; 05: Virtual World – VR
+cane developed; 06: Coding By Voice – Hands-free video game developed.
+
+Section Two: Research.
+
+07: Inclusive fitness equipment – an exercise in missed opportunity.
+
+A new report from Thomas Pocklington Trust and Rica has uncovered a vast
+lack of accessible fitness equipment that can be used by people with
+sight loss. Gyms, leisure centres and machines available for home
+purchase were all found to be lacking, signalling a continued problem
+across the fitness industry. E-Access Bulletin spoke to Thomas
+Pocklington Trust and Rica about the report to find out what can be done.
+
+[Contents ends].
+
+## Section One: News.
+
+### 01: Government asks the experts for guidance in assistive technology inquiry.
+
+Accessibility professionals and assistive technology users have given the
+UK Government recommendations in an inquiry organised by the government’s
+Work and Pensions Select Committee.
+
+The inquiry looked at how technology can help improve employment rates
+among those with disabilities, as part of the government’s response to a
+report on the disability employment gap.
+
+During the inquiry, held at the House of Commons, assistive technology
+users were asked how technology supports them in the workplace, and two
+other ‘witnesses’ – Robin Christopherson, Head of Digital Inclusion at
+technology charity AbilityNet, and Hector Minto, Senior Accessibility
+Evangelist at Microsoft – were called on to answer questions from a panel
+of MPs.
+
+Christopherson talked about the usefulness of mainstream technology in
+providing assistive functions, explaining that mobile phone apps now
+allow him to do what used to require thousands of pounds’ of specialist
+assistive technology.
+
+He told the Committee, “We have really moved away from the idea of
+‘specialist’ being what disabled people need, to having to get the right
+advice, the right recommendations, to help people customise what they
+have on their desk in front of them or in their pocket”.
+
+Responding to a question from Alex Burghart MP, on how government and
+employers can keep up-to-date with evolving assistive technologies, Minto
+said: “I don’t think you can claim to be disability confident, both in
+terms of accessing customers with disabilities or employing people with
+disabilities, if you don’t have basic technological experience.”
+
+Minto also urged the need not to overlook users of older assistive
+technologies. He said: “There is a huge base of people using legacy
+software and legacy AT. So, we must make sure we’re not saying, ‘Everyone
+move across to the built-in mainstream solutions’. People are still using
+JAWS, NVDA and Dragon Dictate, and our systems must still support those
+people rather than forcing them to use modern technology.”
+
+In the first part of the inquiry, a cross-sector group of assistive
+technology users and trainers spoke about their experiences. Asked how
+she uses assistive technology in the workplace, senior civil servant
+Jo-Ann Moran said: “It is my equivalent of free access into a building …
+Effectively, assistive technology is my enabler to maintain full-time
+employment.”
+
+However, Moran also said that assistive technology systems used in some
+parts of government are not reliable enough, explaining that this
+unreliability has held her back in her job: “My problem now is I will not
+go for promotion because of my IT. I am a top performer in my grade and I
+keep getting told, ‘Come on, go for it,’ but I cannot, because I am just
+not going to be reliable. If I go for a job working for a minister, a
+minister is not going to accommodate me when I say, ‘Sorry, my computer
+is not working today.’ That is where my barrier is at the moment.”
+
+E-Access Bulletin asked Christopherson the inquiry signalled a step
+forward for awareness of assistive technology. He said: “It is
+encouraging to see accessibility, assistive technology and the importance
+of digital inclusion being highlighted in this inquiry. For far too long
+(nearly two decades now) we have had legislation without action or
+impact. The result, we hope, will be more enforcement, more proactivity
+in applying adjustments to assist applicants and employees to perform at
+their best, and more business benefits for companies everywhere as they
+embrace inclusion and diversity in their products and processes.”
+
+In a written response provided as part of the inquiry, AbilityNet CEO
+Nigel Lewis also explained the assistive benefits of mainstream
+technology, stressing the need for personalised recommendations in the
+workplace. Lewis wrote: “Giving disabled people access to the correct
+assistive technology means they will succeed in their role, which in turn
+raises awareness, challenges prejudices, promotes inclusion and
+encourages diversity in the workplace.”
+
+[Read the full transcript of the inquiry at the parliament.uk
+website](https://www.parliament.uk/business/committees/committees-a-z/commons-select/work-and-pensions-committee/inquiries/parliament-2017/assistive-technology-17-19/).
+
+[Watch a video extract of the inquiry at
+parliamentlive.tv](http://parliamentlive.tv/event/index/1f0c6ad9-db0e-436d-856f-70bb2f65e561?in=10:24:00&out=00:00:00).
+
+[Find out more about the inquiry at AbilityNet’s
+website](https://www.abilitynet.org.uk/news-blogs/inaccessible-websites-keep-disabled-people-out-work-abilitynet-tells-government-taskforce).
+
+[Comment on the ‘government technology inquiry’ story now at e-Access
+Bulletin Live](http://www.headstar.com/eablive/?p=1463).
+
+### 02: “Born accessible” e-books is the grand plan for new e-publishing tool.
+
+A free tool to test e-book content for accessibility errors has been
+launched.
+
+The ‘Ace’ tool has been developed by the DAISY Consortium, a global
+organisation working to improve and promote accessible publishing and
+reading. The aim is to improve e-book usability for a wider audience and
+eliminate the barriers to reading e-books encountered by people with
+disabilities.
+
+Ace works by assessing the content of e-books published in the widely
+used EPUB format. Automated checks are performed and accessibility issues
+are flagged-up in a report generated by the tool.
+
+The hope is that the tool will assist the publishing industry and authors
+in creating e-books that conform to the EPUB Accessibility specification.
+Speaking to e-Access Bulletin, DAISY Consortium’s Chief Operating Officer
+Avneesh Singh said: “We expect the publishing industry to use Ace widely,
+integrate it in their production workflows and improve accessibility of
+all their publications over time, leading to ‘born accessible’
+publications.”
+
+However, Ace’s developers are keen to stress the tool’s limitations as
+well as its benefits. They point out that Ace performs only automated
+checks and does not provide a complete picture of all possible
+accessibility violations, and should therefore be used alongside other
+forms of testing and evaluation.
+
+Singh said: “Automated tools like Ace can help in identifying the
+accessibility issues and greatly help in reducing human labour involved
+in manual accessibility testing, but it cannot completely replace the
+human intervention and judgement. We have provided this statement to make
+it clear that one cannot claim conformance to standards like WCAG by just
+using Ace. Ace will definitely provide great help in accessibility
+inspection, but it will not replace human driven checks and human
+judgement.”
+
+An additional manual inspection tool is also being developed by DAISY
+Consortium, Singh said. This tool uses the accessibility reports
+generated by Ace and guides the user through the manual inspection
+process.
+
+Grant money from the Google Impact Challenge: Disabilities project helped
+to fund the development of the Ace tool. DAISY was selected as one of the
+winners of the project, which awarded $20 million to 29 non-profits
+developing accessible technology.
+
+[Find more information about Ace at the Inclusive Publishing
+website](https://inclusivepublishing.org/toolbox/accessibility-checker/getting-started/).
+
+[Find out more at the DAISY Consortium website](http://www.daisy.org/).
+
+[Comment on the ‘Ace e-book tool’ story now at e-Access Bulletin
+Live](http://www.headstar.com/eablive/?p=1461).
+
+### 03: Apps combine forces to give visually impaired passengers a smoother ride.
+
+Popular global transportation app Moovit has partnered with Be My Eyes,
+an app service providing sighted assistance to visually impaired people,
+aiming to make transit easier for users with sight loss
+
+Moovit, which is used by over 120 million people in 80 countries and
+claims to be ‘the world’s number one transit app’, helps people move
+around cities by providing users with transport information, such as bus
+and train trackers and real-time updates. Be My Eyes connects visually
+impaired users with sighted volunteers to answer queries through a video
+call– for example, checking the sell-by date on food packaging. The
+service is used by over 60,000 people with sight loss and has over
+876,000 sighted volunteers.
+
+The partnership means that anyone using Moovit can now navigate to Be My
+Eyes through a new menu command, so that users can combine the two
+services. For example, someone with sight loss who is using Moovit to
+find out bus arrival times can then switch to Be My Eyes to help them get
+on the correct bus and find a seat once on-board.
+
+After working with a blind developer, Adi Kushnir, to make the service
+more accessible for visually impaired users, all Moovit screens were made
+compatible with Apple’s VoiceOver and Android’s TalkBack features in
+2016.
+
+In a separate collaboration, Be My Eyes has also teamed up with
+Microsoft, to offer users access to the Microsoft Disability Answer Desk
+for technology-related queries. The latest update of the app features an
+additional ‘Specialized Help’ menu that takes users directly to the
+Disability Answer Desk, where they can ask a dedicated team for
+assistance with Microsoft services and products.
+
+[Find out more about at the Be My Eyes
+website](https://www.bemyeyes.com/).
+
+[Read more about Moovit at the app’s website](https://moovitapp.com/).
+
+[Comment on the ‘Moovit and Be My Eyes’ story at e-Access Bulletin
+Live](http://www.headstar.com/eablive/?p=1459).
+
+## News in Brief:
+
+04: Tech Support: Google has launched a disability support team to answer
+accessibility queries from users. The team will answer questions about
+using separate assistive technology with Google products, as well as
+Google’s own accessibility features, such as ChromeVox or TalkBack. The
+support team will answer questions by email and are available
+Monday-Friday, working on Pacific Standard Time. To contact the team,
+email:
+[disability-support-external@google.com](mailto:disability-support-external@google.com).
+
+[Read more about the support team at the Google Accessibility
+Blog](https://www.google.com/accessibility/blog/).
+
+05: Virtual World: A cane that lets people with sight loss experience
+virtual reality has been developed by Microsoft. Named the Canetroller,
+the system features a ‘haptic cane controller’, which generates sounds,
+physical resistance and vibrations when it encounters objects in a
+virtual landscape, simulating how a cane behaves in the real world. One
+aim of the project is to help people with sight loss practice navigation
+skills in a controlled environment.
+
+[Read more about the Canetroller at the Microsoft Research
+portal](https://www.microsoft.com/en-us/research/publication/enabling-people-visual-impairments-navigate-virtual-reality-haptic-auditory-cane-simulation-2/).
+
+06: Coding By Voice: A developer has coded a video game without using his
+hands, instead using only his voice, through a customised version of
+speech-recognition software. In an interview with technology news website
+Ars Technica, Rusty Moyher explained how he was unable to use his hands
+to code after severe repetitive strain injury (RSI), but discovered a
+system from developer Travis Rudd, who converted Dragon NaturallySpeaking
+to write code using just his voice. Moyher’s resulting game was ‘Dig
+Dog’, where players control a dog hunting for treasure.
+
+[Read more about Rusty Moyher’s hands-free coding at Ars
+Technica](https://arstechnica.com/gaming/2018/02/coding-without-a-keystroke-the-hands-free-creation-of-a-full-video-game/).
+
+[Section One ends].
+
+## Notice: Thomas Pocklington Trust.
+
+E-Access Bulletin is brought to you with the kind support of Thomas
+Pocklington Trust, a national charity delivering positive change for
+people with sight loss. Find out more about the charity’s work by
+visiting the [Thomas Pocklington Trust
+website](http://www.pocklington-trust.org.uk/).
+
+[Notice ends].
+
+## Notice: RNIB Connect Radio and e-Access Bulletin.
+
+e-Access Bulletin will be appearing on RNIB Connect Radio each month on
+The Early Edition programme. Hear more about the bulletin and upcoming
+content appearing in each issue, as we discuss the latest accessible
+technology news and readers’ questions with Allan Russell.
+
+Episodes will be available after broadcast as podcasts from the RNIB
+Connect Radio site. Listen to RNIB Connect Radio online, or via
+television, smartphone or radio. Find out more at the [RNIB Connect Radio
+website](http://www.insightradio.co.uk/).
+
+[Notice ends].
+
+## Section Two: Research.
+
+### 07: Inclusive fitness equipment – an exercise in missed opportunity.
+
+Going to the gym or using exercise equipment at home is simply part of a
+daily routine for many, but locking-in this routine isn’t as easy for
+some people. A huge amount of modern fitness equipment just isn’t
+accessible for those with a visual impairment, as a new report has
+demonstrated.
+
+The study, ‘Inclusive fitness equipment for people with a visual
+impairment’, was commissioned by sight loss charity Thomas Pocklington
+Trust and carried out by Rica (the Research Institute for Consumer
+Affairs). It showed the prevalence of console systems that are partially
+or entirely unusable to people with a visual impairment, despite a
+widespread desire among this group stay physically active.
+
+e-Access Bulletin found out more about the study from Lynn Watson, Head
+of Research at Thomas Pocklington Trust, and Chris Lofthouse, Outreach
+Manager at Rica.
+
+– E-Access Bulletin: Does the topic of fitness for people with a visual
+impairment get overlooked?
+
+Lynn Watson: “Research from RNIB showed that 64% of visually impaired
+people would like to be more physically active and that many feel held
+back by various barriers. These include persistent social attitudes and
+the slowness of many designers and manufacturers to embrace inclusive
+design.”
+
+Chris Lofthouse: “Our research with gym managers and equipment
+manufacturers showed a low level of awareness of the needs of visually
+impaired people. Until they become aware, inclusive gym equipment is
+likely to be a low priority for them. We hope that our research will help
+to raise awareness of visually impaired people’s enthusiasm for getting
+and staying healthy, as well as the barriers that stop them taking part.”
+
+– What did the study find to be the biggest issues faced by visually
+impaired users?
+
+Chris: “Participants found that consoles with tactile buttons, audio
+output, colour contrast and block colours were more accessible. Our
+testers unanimously agreed that there was a need for voice-over on all
+console types.
+
+“In terms of environment, use of cardiovascular fitness equipment had a
+substantial impact upon users’ lives, including improvements in everyday
+fitness and mental health. However, our testers found accessing fitness
+equipment and facilities challenging because of drawbacks in the built
+environment and customer service.”
+
+– How important is audio output on fitness machines to make them
+inclusive for a visually impaired audience?
+
+Lynn: “Very important. Voice-over technology was seen by participants as
+an urgent requirement. From interviews with industry representatives, the
+barriers to progress were: cost, industry culture, lack of awareness and
+over-reliance on formal standards, which have not kept pace with advances
+in technology.”
+
+Chis: “There are limited options available, because there is no
+discernible trend within the fitness sector toward audio output. Some
+said that the way ahead would be to integrate gym equipment controls with
+smartphone technology.”
+
+– Were there any pieces of equipment that stood out as being particularly
+inclusive for visually impaired users?
+
+Lynn: “This doesn’t come through in the research. The study indicates
+that LED consoles are moderately more accessible than touchscreen
+consoles, but neither type performed very well.”
+
+Chris “None stood out. A rowing machine manufacturer, Concept2, has
+introduced ErgChatter, a free software tool which provides audio output,
+but there is little else on offer.”
+
+– What were participants’ key recommendations from the study?
+
+Chris: “Wider use of audio output and voice-over technology; use of
+wireless technology; ability to increase font size on screens; tactile
+buttons and high-contrast colours on LED consoles; improved layout,
+colour use, signage and lighting in leisure centres; trained staff to
+assist VI people in using equipment.
+
+“People in focus groups argued that VI-friendly adaptations would also
+improve going to the gym for other users, such as people with learning
+disabilities and people with different motor or sensory skills.”
+
+– What can gyms and leisure centres do to become more inclusive for
+customers with a visual impairment?
+
+Chris: “1\. Develop a best-practice guide for manufacturers, outlining
+design features most appropriate for visually impaired users.
+
+2\. Support an update to the Inclusive Fitness Initiative (IFI) standards
+set by the English Federation of Disability Sport, reinforcing the case
+for inclusive design.
+
+3\. Product design teams to make better use of guidelines and best
+practice from other industries, independent organisations and
+governmental bodies.
+
+4\. Improve staff training and communication procedures across the
+fitness sector, using the NHS Accessible Information Standard.
+
+<a name="_GoBack"></a>5\. Implement a voluntary ‘buddy scheme’ at all
+public sector leisure centres to assist visually impaired users and other
+disabled users.”
+
+[Read the inclusive fitness guide in full, in Word or PDF, at the Thomas
+Pocklington Trust
+website](http://www.pocklington-trust.org.uk/project/inclusive-fitness-equipment-people-visual-impairment/).
+
+[Find out more about the study at Rica’s
+website](http://www.rica.org.uk/).
+
+[Comment on the ‘inclusive fitness equipment’ story at e-Access Bulletin
+Live](http://www.headstar.com/eablive/?p=1457).
+
+[Section Two ends]
+
+## End Notes.
+
+### How to receive E-Access Bulletin.
+
+To subscribe or unsubscribe to this free monthly publication, [visit the
+e-Access Bulletin sign-up page](http://lists.headstar.com/). Please
+encourage others to sign-up!
+
+Please email requests, comments and ideas for news or features to:
+
+[eaccessbulletin@gmail.com](mailto:eaccessbulletin@gmail.com) .
+
+To forward this free publication to others, use our forward link
+underneath the end of the bulletin instead of your email application’s
+‘forward’ button.
+
+To view previous issues in text or HTML format, please [visit the
+e-Access Bulletin Archive](http://headstar.com/eab/archive.html).
+
+E-Access Bulletin may be reproduced as long as all parts, including this
+copyright notice, are included, and as long as people are always
+encouraged to subscribe with us individually by email. Please also inform
+the editor when you are reproducing our content. Sections of the bulletin
+may be quoted as long as they are clearly sourced as ‘taken from e-Access
+Bulletin, a free monthly email newsletter’, and the website address below
+is also cited:
+
+[www.headstar.com/eablive](http://www.headstar.com/eablive) .
+
+### Staff:
+
+ * Editor: Tristan Parker
+ * Technical Director: Jake Jellinek
+ * Accessibility Advisor: Dr. Nick Freear
+
+ISSN 1476-6337.
+
+[Issue 197 ends.]
+
+This entry was posted on Wednesday, February 28th, 2018 at 4:44 pm.
+
+---

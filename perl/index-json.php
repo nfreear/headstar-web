@@ -11,6 +11,7 @@ define( 'START_YEAR', 2000 );
 define( 'END_YEAR', 2019 );
 define( 'DIR', __DIR__ . '/../eab/issues/' );
 define( 'INDEX_JSON', __DIR__ . '/../eab/index.json' );
+define( 'PKG_JSON', __DIR__ . '/../package.json');
 define( 'ISSUE_REGEX', '/\n([\*-] )?ISSUE (?P<issue>\d+),/s' );
 define( 'TXTFILE_REGEX', '/^(?P<month>jan|[a-z]{3})20\d\d\.txt$/' );
 define( 'EMAIL_REGEX', '/.+\.email\.html' );
@@ -19,6 +20,9 @@ define( 'TENS_ISSUE', 36 );  // http://headstar.com/ten
 define( 'TENS_DATE', '2002-12-01' );  // December 2002.
 define( 'NOMINAL_PUBLISH_DAY', 20 );  // Day of month.
 define( 'MONTHS', 'jan,feb,mar,apr,may,jun,jul,aug,sep,oct,nov,dec' );
+
+$PKG = json_decode(file_get_contents( PKG_JSON ));
+// var_dump( $PKG->{'x-bulletins-wp'} );  exit;
 
 require_once 'lib/ReversibleForLoop.php';
 
@@ -94,7 +98,7 @@ $archive = [
   'tens_date' => TENS_DATE,
   'issue_count' => $count,
   'order_by' => 'year, issue ' . ( IS_ASCEND ? 'ASC' : 'DESC' ),
-  'issues' => $issue_archive,
+  'issues' => $issue_archive, // array_merge( $issue_archive, $PKG->{},
 ];
 
 $bytes = file_put_contents( INDEX_JSON, json_encode( $archive , JSON_PRETTY_PRINT ));

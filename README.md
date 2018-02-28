@@ -39,8 +39,9 @@ _[In memory of Dan … Dan Jellinek 1968 — 2015][tribute]_
 
 ## Install ... test
 
-```
-npm install && npm run install-cpan
+```sh
+npm install
+npm run install-cpan
 npm test
 ```
 
@@ -63,7 +64,7 @@ ISSN 1476-6337.
     "Download a vCard (VCF file), via Suda.co.uk — 'Dan-Jellinek.vcf'"
 [expired-domain]: http://e-accessibility.com "| 80.87.128.130"
 [copy]: http://headstar.com/site/scripts/terms.php
-    "Copyright © 2000-2017 Headstar Limited. All rights reserved."
+    "Copyright © 2000-2018 Headstar Limited. All rights reserved."
 [eab]: http://headstar.com/eab/archive.html "E-Access Bulletin"
 [eablive]: http://headstar.com/eablive/ "E-Access Bulletin Live"
 [eabl-logo]: https://raw.githubusercontent.com/nfreear/headstar-web/master/eab/images/eablive-1.png

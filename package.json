@@ -15,6 +15,7 @@
     "grunt-htmlhint": "^0.9.13",
     "grunt-notify": "^0.4.5",
     "grunt-string-replace": "^1.3.1",
+    "live-server": "^1.2.0",
     "pa11y-ci": "^1.3.1",
     "replace": "^0.3.0",
     "semistandard": "^11.0.0"
@@ -30,6 +31,7 @@
     "count": "find eab/issues/ -type f | grep '.txt' | wc -l",
     "index.json": "perl/index-json.php",
     "pa11y-ci": "pa11y-ci --config .pa11yci.json",
+    "start": "live-server --port=9001",
     "test": "grunt"
   },
   "repository": "https://github.com/nfreear/headstar-web.git",
@@ -37,11 +39,26 @@
     "accessibility",
     "bulletin"
   ],
-  "files": [ "eab/", "ten/" ],
+  "files": [
+    "eab/",
+    "ten/"
+  ],
   "author": "Nick Freear (@nfreear)",
   "license": "UNLICENSED",
   "bugs": "https://github.com/nfreear/headstar-web/issues",
   "ISSN": "1476-6337",
   "x-bulletin-count": 195,
+  "x-bulletins-wp": {
+    "2018": {
+      "197": {
+        "issue": 197,
+        "text_file": null,
+        "html_file": "http://headstar.com/eablive/?eab_bulletin=february-2018",
+        "email_file": null,
+        "month": 2,
+        "editor": "TP"
+      }
+    }
+  },
   "homepage": "http://headstar.com/eab/"
 }
