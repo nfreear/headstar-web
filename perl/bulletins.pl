@@ -30,13 +30,12 @@ my $url_stem="http://www.headstar.com/eab";
 my $url_issues="$url_stem/issues";
 
 my $b_parse = 1;
-#use constant B_PARSE => 1;
-use constant START_YEAR => 2000; #!2000!
-use constant START_ISSUE=> 188; #175; #176 feb 2016;  #165 feb 2014; #166 nov 2013; #149 jun 2012; #128 mar 2011; #127; #119; #109 Jan2009; #95; #84; #77;   #25 Jan 2002. 13 Jan 2001. 61 Jan 2005. 70 Oct 2005.
-#my $end_issue=55;    #53, May 2004; 63, Mar 2005
-use constant TENS_ISSUE => 36;   #36, Dec 2002.
-# Release day about 20th of the month, 18.
-use constant RELEASE_MDAY => 20; #25;  #16; #7;
+# use constant B_PARSE => 1;
+use constant START_YEAR => 2000; # !2000!
+use constant START_ISSUE=> 205;  # Assumes 12 / year! (Jan 2017) Was: 188; # 175; # 176 feb 2016;
+use constant TENS_ISSUE => 36;   # 36, Dec 2002.
+# Release day about 20th of the month.
+use constant RELEASE_MDAY => 20; # Was: 25;
 my @months=("January","February","March","April","May","June",
             "July","August","September","October","November","December");
 
@@ -61,12 +60,12 @@ warn "Archive file: $idx_file\n";
 
 # Links to current issue, and each year.
 print("<ul id=\"notes\">\n");
-print("<li>Recently archived:  <a title='Most recently archived Bulletin' href='#current'>$this_month $this_year</a>.</li>\n");
+print("<li>Recently archived:  <a title='Most recently archived Bulletin' href='#current' target='_self'>$this_month $this_year</a>.</li>\n");
 warn "Current issue, $end_issue:  $this_month $this_year.\n";
 print("<li>Years;");
 # Print <a> on new lines so that 'tabindex' will be defined for each.
 for (my $year = START_YEAR; $year <= $this_year; ++$year) {
-  print("  <a href=\"#a$year\">$year</a>,\n");
+  print("  <a href='#a$year' target='_self'>$year</a>,\n");
 }
 print("</li>\n");
 print("<li>Note; <a href=\"http://www.headstar.com/ten\">\n  <abbr title=\"Text Email Newsletter Standard\">TENS</abbr></a>");
@@ -168,8 +167,9 @@ close(LOG);
 # ==============================================================================
 sub prn_html_open {
   my $title=$_[0];
-  print("<?xml version='1.0' encoding='utf-8'?>\n");
-  print("<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n");
+  # Was: print("<?xml version='1.0' encoding='utf-8'?>\n");
+  # Was: print("<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\"\n \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">\n");
+  print("<!doctype html>");
   print("<html>\n");
 	print("<head>\n<title>$title</title>\n");
 	print("</head>\n<body>\n");

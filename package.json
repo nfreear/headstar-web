@@ -25,9 +25,11 @@
     "install-cpan": "cpanm HTML::Entities",
     "install-cpanminus": "cpan -i App::cpanminus",
     "cat-log": "cat perl/logs/00e-access.log",
-    "build": "perl perl/bulletins.pl && perl perl/e-access.pl",
+    "site-only": "perl/e-access.pl",
+    "build": "perl/bulletins.pl && perl/e-access.pl",
+    "clean": "git checkout eab/*.html",
     "sfix": "semistandard --fix",
-    "issue-count": "grunt issue-count",
+    "issue-count": "perl/index-json.php && grunt issue-count",
     "count": "find eab/issues/ -type f | grep '.txt' | wc -l",
     "index.json": "perl/index-json.php",
     "pa11y-ci": "pa11y-ci --config .pa11yci.json",
@@ -47,8 +49,9 @@
   "license": "UNLICENSED",
   "bugs": "https://github.com/nfreear/headstar-web/issues",
   "ISSN": "1476-6337",
-  "x-bulletin-count": 195,
+  "x-bulletin-count": 197,
   "x-bulletins-wp": {
+    "count": 1,
     "2018": {
       "197": {
         "issue": 197,

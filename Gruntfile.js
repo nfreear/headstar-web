@@ -2,7 +2,8 @@
   E-Access Bulletin task-runner | © 2016 Nick Freear.
 */
 
-var INDEX_JSON = './eab/index.json';
+var INDEX = require('./eab/index.json');
+var PKG = require('./package.json');
 
 module.exports = function (grunt) {
   'use strict';
@@ -11,8 +12,8 @@ module.exports = function (grunt) {
 
   grunt.initConfig({
     exec: {
-      bulletins_perl: 'perl perl/bulletins.pl',
-      build_site: 'perl perl/e-access.pl',
+      bulletins_perl: 'perl/bulletins.pl',
+      build_site: 'perl/e-access.pl',
       index_json: 'perl/index-json.php',
       php_lint: 'php -l **/i*.php',
       semistandard: 'node_modules/.bin/semistandard'
@@ -105,7 +106,7 @@ module.exports = function (grunt) {
   grunt.registerTask('issue-count', [ 'set-issue-count', 'string-replace' ]);
 
   grunt.registerTask('set-issue-count', function () {
-    var issueCount = require(INDEX_JSON).issue_count;
+    var issueCount = INDEX.issue_count + PKG[ 'x-bulletins-wp' ].count;
 
     grunt.config.set('bulletinCount', issueCount);
 
