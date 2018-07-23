@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en" dir="ltr">
+<!doctype html><html lang="en" dir="ltr">
   <meta charset="iso-8859-1" />
   <!--meta http-equiv="Content-Language" content="en" /-->
 
@@ -7,28 +7,30 @@
     type="application/opensearchdescription+xml" />
 
   <link rel="meta" href="http://headstar.com/eab/labels.rdf" type="application/rdf+xml" title="ICRA labels" />
-  <meta name="pics-Label" content='(pics-1.1 "http://www.icra.org/pics/vocabularyv03/" l gen true for "http://www.headstar.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0) gen true for "http://www.headstar.com" r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))' />
+  <meta name="pics-Label" content=
+"(pics-1.1 'http://www.icra.org/pics/vocabularyv03/' l gen true for 'http://www.headstar.com' r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0) gen true for 'http://www.headstar.com' r (n 0 s 0 v 0 l 0 oa 0 ob 0 oc 0 od 0 oe 0 of 0 og 0 oh 0 c 0))" />
 
 <title>Home | news and research on technology for the blind and visually impaired - E-Access Bulletin </title>
+
+  <base target="_top" />
 
   <link rel="schema.DC" href="http://purl.org/DC/elements/1.0/" />
   <link rel="hCard" href="http://microformats.org/wiki/hcard" />
 
   <meta name="DC.title" content="E-Access Bulletin" />
   <meta name="DC.identifier" content="ISSN: 1476-6337" />
-  <meta name="DC.subject" content="EAB, TENS, e-access, bulletin, e-accessibility, accessibility, blind, visually impaired, RNIB, access technology, Headstar, Bunbury IS" />
+  <meta name="DC.subject" content="EAB, TENS, e-access, bulletin, e-accessibility, accessibility, disability, gerontology, blind, visually impaired, RNIB, access technology, Headstar, Bunbury IS" />
   <meta name="DC.creator" content="N.D.Freear" />
-  <meta name="DC.date" content="2015-07-12" />
+  <meta name="DC.date" content="2017-04-13" />
   <meta name="eGMS.accessibility" content="eGMS.WCAG10: Double-A" />
 
-  <meta name="copyright" content="&copy; 2000-2015 Headstar Limited." />
-  <meta name="description" content="News and research on technology for the blind and visually impaired." />
-  <meta name="keywords" content="EAB, TENS, e-access, bulletin, e-accessibility, accessibility, blind, visually impaired, RNIB, access technology, Headstar" />
+  <meta name="copyright" content="&copy; 2000-2017 Headstar Limited." />
+  <meta name="description" content="News and research on technology access by those with disabilities and older people." />
+  <meta name="keywords" content="EAB, TENS, e-access, bulletin, e-accessibility, accessibility, disability, gerontology, blind, visually impaired, RNIB, access technology, Headstar" />
 
   <link rel="stylesheet"           media="all"    href="includes/noscript.css" />
   <link rel="alternate stylesheet" media="screen" href="includes/textonly.css" title="Text" />
   <link rel="alternate stylesheet" media="screen" href="includes/graphic.css"  title="Graphic" />
-  <script src="includes/styleswitcher.js"></script>
 
   <link rel="home"  href="./" />
   <link rel="help"  href="site.html#help" />
@@ -42,16 +44,16 @@
   <ul id="switch">
    <li><a href="site.html#access" accesskey="0" class="Key" title="[0] access key details">Help</a></li>
    <li><a href="#main" accesskey="S" class="Key" title="[S] skip navigation">skip menu</a></li>
-   <li><a href="#"     title="Text-only version of the page" onclick="setActiveStyleSheet('Text'); return false;">text-only</a></li>
-   <li><a href="#"     title="Graphical version of the page" onclick="setActiveStyleSheet('Graphic'); return false;">graphical</a></li>
+   <li><a href="#" role="button" title="Text-only version of the page" onclick="EAB.setActiveStyleSheet('Text', event)">text-only</a></li>
+   <li><a href="#" role="button" title="Graphical version of the page" onclick="EAB.setActiveStyleSheet('Graphic', event)">graphical</a></li>
   </ul>
 
   <h1 id="logo"><span class="accesshide">E-Access Bulletin</span></h1>
 
-  <form id=search role=search method=get action=search.html >
-    <!--<label for=q >Search </label>--><input name=q id=q
+  <form id="search" role="search" method="get" action="search.html" >
+    <!--<label for=q >Search </label>--><input name="q" id="q"
      aria-label="Search Bulletins" placeholder="Search bulletins"  />
-    <input type=submit value=Search />
+    <input type="submit" value="Search" />
   </form>
 </div>
 
@@ -59,19 +61,19 @@
 <div role="navigation" aria-labelledby="nav-lbl">
 <h2 class="accesshide" id="nav-lbl"><a class="Bookmark">Site Menu</a></h2>
 <ul id="menu">
-  <li><a href="./"             title="[1] Bulletin Home" accesskey="1" class="Key">Home</a></li>
-  <li><a href="http://www.headstar.com/eablive" accesskey=2 class=Key
-    title="[2] Latest accessibility news on EAB Live" >News</a>
+  <li><a href="./" title="[1] Bulletin Home" accesskey="1" class="Key">Home</a></li>
+  <li><a href="http://www.headstar.com/eablive" accesskey="2" class="Key"
+    title="[2] Latest accessibility news on EAB Live" >News</a></li>
   <!--<li><a href="./news.html" class="Key">News</a>-->
   <li><a href="./archive.html" title="Archive of Bulletins" >Archive</a></li>
   <li><a href="http://www.headstar.com/eablive/?page_id=80"
-    title="Subscribe to the Bulletin" >Subscribe</a>
+    title="Subscribe to the Bulletin" >Subscribe</a></li>
   <!--<li><a href="./subs.html" >Subscribe</a>-->
   <li><a href="./language1.html" title="International versions" >International</a></li>
   <li><a href="http://www.headstar.com/about"
-    title="About Headstar" >About us</a>
+    title="About Headstar" >About us</a></li>
   <!--<li><a href="./about.html" >About us</a>-->
-  <a href="http://www.headstar.com/site/scripts/contact.php">Contact us</a>
+  <li><a href="http://www.headstar.com/site/scripts/contact.php">Contact us</a></li>
   <!--<li><a href="./contact.html" title="Contact the staff" >Contact us</a>-->
   <li><a href="./private.html" title="[8] Terms and conditions" accesskey="8" class="Key">Privacy policy</a></li>
 
@@ -83,14 +85,20 @@
 </ul>
 </div>
 
+<p id="tribute" class="notice"><a href="http://www.headstar.com/eablive/?p=1143"
+  >In memory of Dan &hellip; <em>Dan Jellinek 1968 &mdash; 2015</em></a>
+</p>
+
 <div id="main" role="main">
 <!-- ==================================================================== -->
 
 <div id="bulletin">
 <h2><a class="Tab">Message from the editor</a></h2>
 
-<p>Welcome to the home page of <em>E-access Bulletin</em>, a free, independent monthly e-mail
- newsletter on information technology issues for people with visual impairment and blindness.
+<p>Welcome to the home page of <em>E-access Bulletin</em>, a free,
+  <ins>monthly, text-only email newsletter on technology access by those with disabilities and older people.</ins>
+  <del title="NDF, 2016-10-09"
+  >independent monthly e-mail newsletter on information technology issues for people with visual impairment and blindness.</del>
 </p>
 
 <p>The Bulletin covers everything from consumer electronics to the Internet, examining
@@ -99,9 +107,9 @@
 
 <ul>
   <li id="live"><a href="http://headstar.com/eablive/"
-    title="E-Access Bulletin Live">Get the most recent news</a>.
+    title="E-Access Bulletin Live">Get the most recent news</a>.</li>
   <li id="toCurrent"><a href="archive.html#current"
-    title="Most recently archived Bulletin">Recent issues of the Bulletin</a>.
+    title="Most recently archived Bulletin">Recent issues of the Bulletin</a>.</li>
   <li><a href="http://headstar.com/eablive/?page_id=80">Find out how to subscribe</a>.</li>
   <li><a href="http://headstar.com/ten" title="Text Email Newsletter (TEN) Standard"
     >Our ground-breaking initiative &mdash;
@@ -109,8 +117,10 @@
 </ul>
 
 <p><em>E-access Bulletin</em> is produced by <a href="http://www.headstar.com/">Headstar</a>,
- with support from the <a href="http://www.rnib.org.uk/">Royal National
- Institute for the Blind (RNIB)</a>.
+ with support from the
+ <ins><a href="http://www.pocklington-trust.org.uk">Thomas Pocklington Trust</a>.</ins>
+ <del title="NDF, 2016-10-09"><a href="http://www.rnib.org.uk/">Royal National
+  Institute for the Blind (RNIB)</a>.</del>
 </p>
 
 </div><!--id="bulletin"-->
@@ -126,36 +136,17 @@
 <!-- ==================================================================== -->
 </div>
 
-<p id="foot" role="contentinfo">&copy; 2000-<span class="y">2015</span> Headstar Limited.<br />
-  <a href="http://www.headstar.com/eab">headstar.com/eab</a> |
+<p id="foot" role="contentinfo">
+  <a href="/site/scripts/terms.php" title="Copyright © Headstar Limited. All rights reserved."><i class="accesshide">Terms: </i>&copy; 2000&ndash;<span class="y yr">2016</span> Headstar Limited</a>.<br />
+  <a href="http://www.headstar.com/eab/">headstar.com/eab</a> |
   <a href="./site.html#credit" title="Design credits">credits</a>.
 </p>
 
 <p id="totop"><a href="#top" title="Goto top of page">To the top.</a></p>
 
 </div><!--id="Body"-->
-<script>
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7941798-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<script>
-(function () {
+<script src="includes/scripts.js" data-analytics-id="UA-7941798-1"></script>
+<script src="includes/styleswitcher.js"></script>
 
-  var D = document,
-    page = D.location.pathname.replace(/.+\//, '').replace(/\..+/, ''),
-    el = D.querySelector("#foot .y"),
-    year = 1900 + (new Date()).getYear();
-
-  el.innerHTML = year;
-  D.body.className += " pg-" + page;
-
-})();
-</script>
 </html>

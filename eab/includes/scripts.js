@@ -12,15 +12,20 @@ _gaq.push(['_trackPageview']);
   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })(window.document);
 
-(function (W, D) {
+(function (W, D, L) {
   var page = W.location.pathname.replace(/.+\//, '').replace(/\..+/, '');
   var el = D.querySelector('#foot .y');
-  var year = 1900 + (new Date()).getYear();
+  var year = (new Date()).getFullYear();
 
   el.innerHTML = year;
+
   D.body.className += ' pg-' + page;
 
-  if (W.location.href.match(/[&?]embed=(1|true)/)) {
+  if (L.href.match(/[&?]embed=(1|true)/)) {
     D.body.className += ' pg-embed';
   }
-})(window, window.document);
+
+  if (L.href.match(/[&?]hide-year-nav-etc=/)) {
+    D.body.className += ' hide-year-nav hide-etc'
+  }
+})(window, window.document, window.location);

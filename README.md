@@ -51,7 +51,7 @@ Copyright © 2000-2018 Headstar Limited. [All rights reserved][copy].
 ISSN 1476-6337.
 
 
-[count-icon]: http://headstar.com/eab/badge.svg?d=3-dec "EAB bulletin count"
+[count-icon]: http://headstar.com/eab/badge.svg# "EAB bulletin count"
 
 [travis-icon]: https://travis-ci.org/nfreear/headstar-web.svg
 [travis-ci]: https://travis-ci.org/nfreear/headstar-web "Build status – Travis-CI"

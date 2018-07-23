@@ -150,3 +150,9 @@ body.pg-embed,
   border: none;
   color: #333;
 } */
+
+.hide-year-nav #notes,
+.hide-etc #a2018,
+.hide-etc #y2018 {
+  display: none;
+}
